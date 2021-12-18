@@ -2,7 +2,8 @@ cacheUrl: https://github.com/Dynamics365/rssreader/cache.json
 sources:
   - href: https://nuxulu.com/posts/index.xml
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+
 cacheMaxDays: 2520
 
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
-siteTitle: "osmos::feed"
+siteTitle: "My Feeds"
