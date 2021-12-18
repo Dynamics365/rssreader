@@ -4,7 +4,17 @@
       "title": "All Posts - Dynamics 365 & Power Platform | nuxulu.com",
       "feedUrl": "https://nuxulu.com/posts/index.xml",
       "siteUrl": "https://nuxulu.com/posts/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nuxulu.com/my-first-post/",
+          "author": "Max Nguyen",
+          "description": "testing RSS",
+          "link": "https://nuxulu.com/my-first-post/",
+          "publishedOn": "2021-12-18T08:12:01.000Z",
+          "wordCount": 70,
+          "title": "My First Post"
+        }
+      ]
     },
     {
       "title": "Release notes from osmosfeed",
