@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-18T07:55:08.395Z</id>
+    <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-18T07:55:08.395Z</updated>
+    <updated>2021-12-18T08:00:07.512Z</updated>
     <generator>osmosfeed 1.11.3</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
+    <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[A visual introduction to machine learning]]></title>
         <id>https://css-tricks.com/?p=359489</id>

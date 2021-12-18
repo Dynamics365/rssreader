@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "All Posts - Dynamics 365 & Power Platform | nuxulu.com",
+      "feedUrl": "https://nuxulu.com/posts/index.xml",
+      "siteUrl": "https://nuxulu.com/posts/",
+      "articles": []
+    },
+    {
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
@@ -143,7 +149,7 @@
           "description": "(This is a sponsored post.)\nI got this question from a listener the other day. Fair question, I’d say. The word “Static” in “Static Site Generator” is at-odds with the word “Dynamic.” It seems to imply that the website …",
           "link": "https://css-tricks.com/confused-about-ssgs/",
           "publishedOn": "2021-12-14T15:35:04.000Z",
-          "wordCount": 898,
+          "wordCount": 843,
           "title": "I’m confused about Static Site Generators. Are they only for informational sites where I can’t log in or display any dynamic data?"
         }
       ]
