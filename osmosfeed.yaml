@@ -1,7 +1,27 @@
 cacheUrl: https://github.com/Dynamics365/rssreader/cache.json
 sources:
   - href: https://nuxulu.com/posts/index.xml
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+  # Downloadable E-learning Courses
+  - href: https://community.dynamics.com/365/b/learningcurriculum/rss
+  # AX Videos
+  - href: https://community.dynamics.com/ax/b/axvideos/rss
+  # AX News
+  - href: https://community.dynamics.com/ax/b/axmsdwnews/rss
+  # AX Blogs
+  - href: https://community.dynamics.com/ax/b/shashisaxblog/rss
+  - href: https://community.dynamics.com/ax/b/moredatamoresuccess/rss
+  - href: https://community.dynamics.com/ax/b/technicaltutorialsformsdynamicsax2012/rss
+  - href: https://community.dynamics.com/ax/b/galynafedorovaaxblog/rss
+  - href: https://community.dynamics.com/ax/b/guyterrysaxblog/rss
+  - href: https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/rss
+  - href: https://community.dynamics.com/ax/b/dynamicsaxconcoction/rss
+  - href: https://community.dynamics.com/ax/b/axrunbase/rss
+  - href: https://community.dynamics.com/ax/b/axstart/rss
+  - href: https://community.dynamics.com/ax/b/axology/rss
+  - href: https://community.dynamics.com/ax/b/1clickfactory365andax/rss
+  - href: https://community.dynamics.com/ax/b/axinthefield/rss
+  # Power Apps
+  - href: https://powerapps.microsoft.com/en-us/blog/feed/
 
 cacheMaxDays: 2520
 
