@@ -5,9 +5,13 @@ sources:
   - href: https://community.dynamics.com/365/b/learningcurriculum/rss
   # AX Videos
   - href: https://community.dynamics.com/ax/b/axvideos/rss
+  - href: https://community.dynamics.com/365/financeandoperations/b/howtovideos/rss
   # AX News
   - href: https://community.dynamics.com/ax/b/axmsdwnews/rss
+  - href: https://www.erpsoftwareblog.com/feed/
   # AX Blogs
+  # Functional
+  - href: https://community.dynamics.com/ax/b/happyd365fo/rss
   - href: https://community.dynamics.com/ax/b/shashisaxblog/rss
   - href: https://community.dynamics.com/ax/b/moredatamoresuccess/rss
   - href: https://community.dynamics.com/ax/b/technicaltutorialsformsdynamicsax2012/rss
@@ -20,6 +24,7 @@ sources:
   - href: https://community.dynamics.com/ax/b/axology/rss
   - href: https://community.dynamics.com/ax/b/1clickfactory365andax/rss
   - href: https://community.dynamics.com/ax/b/axinthefield/rss
+  - href: https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/rss
   # Power Apps
   - href: https://powerapps.microsoft.com/en-us/blog/feed/
 
