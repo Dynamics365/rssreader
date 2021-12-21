@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "title": "All Posts - Dynamics 365 & Power Platform | nuxulu.com",
+      "title": "All Posts - Dynamics 365 Finance & Operations | nuxulu.com",
       "feedUrl": "https://nuxulu.com/posts/index.xml",
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
@@ -671,12 +671,39 @@
       "siteUrl": "https://www.erpsoftwareblog.com",
       "articles": [
         {
+          "id": "https://www.erpsoftwareblog.com/?p=85142",
+          "author": "iCepts Technology Group, Inc.",
+          "description": "Your legacy, on-premises solution helped you run your business for many years. However, in the era of digital transformation, modern cloud-based business solutions can help take your company to new heights through advanced cloud business ERP technology.  Organizations struggling to meet customer demands and also their own internal operations are quickly realizing that modern ERP …\n  Connect your Company with Microsoft Business Central Read More »\nThe post Connect your Company with Microsoft Business Central appeared first on ERP Software Blog.\nRecurring Journal Entries in Microsoft Dynamics 365 Business Central \nThe Sales Process in Microsoft Dynamics 365 Business Central \nHow to Create Purchase Credit Memo in Business Central",
+          "link": "https://www.erpsoftwareblog.com/2021/12/connect-your-company-with-microsoft-business-central/",
+          "publishedOn": "2021-12-20T20:40:03.000Z",
+          "wordCount": 1351,
+          "title": "Connect your Company with Microsoft Business Central"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=85139",
+          "author": "MetaOption LLC",
+          "description": "Quality management within the Pharmaceutical manufacturing trade is somewhat necessary due to the criticality of the functions involved particularly when it is concerning life. The poor quality of the drugs will place one life to risk. The process of quality management matters from the initial stage itself i.e. manufacturing. Choosing a Pharmaceutical QMS is an important decision when it …\n  Importance of advanced quality management in Pharmaceutical Manufacturing Read More »\nThe post Importance of advanced quality management in Pharmaceutical Manufacturing appeared first on ERP Software Blog.\nHow Pharmaceutical ERP solutions work for Manufacturing Industry \nWays to enhance batch processing with Pharmaceutical ERP Software \nTop 6 challenges facing by Pharmaceutical Supply Chain",
+          "link": "https://www.erpsoftwareblog.com/2021/12/advanced-quality-management-in-pharmaceutical-manufacturing/",
+          "publishedOn": "2021-12-20T19:00:54.000Z",
+          "wordCount": 1466,
+          "title": "Importance of advanced quality management in Pharmaceutical Manufacturing"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=85073",
+          "author": "To-Increase",
+          "description": "It is no secret that the coronavirus pandemic has drastically disrupted the global economy, compelling CEOs and IT leaders to readjust business priorities and to strive for more cost-effective ways to run their operations efficiently. They are actively seeking technological solutions that can maximize their ROIs, while reducing avoidable operational, regulatory and labor costs. Since …\n  How to Reduce Costs with Master Data Management Read More »\nThe post How to Reduce Costs with Master Data Management appeared first on ERP Software Blog.\nWant to provide equipment and its status directly to each depot manager and take proper action immediately? \nHow to improve efficiency with crane rental software \nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers",
+          "link": "https://www.erpsoftwareblog.com/2021/12/how-to-reduce-business-costs-with-master-data-management/",
+          "publishedOn": "2021-12-20T12:43:08.000Z",
+          "wordCount": 2369,
+          "title": "How to Reduce Costs with Master Data Management"
+        },
+        {
           "id": "https://www.erpsoftwareblog.com/?p=85122",
           "author": "StockIQ Technologies",
           "description": "StockIQ Technologies clients recently had the opportunity to attend learning sessions, presented by Jeff Woodmansee and Jeffrey Porter, highlighting new and improved 2021 StockIQ features. We polled our clients to reveal the favorite new features. Favorite 2021 StockIQ Features   StockIQ Playbook - A StockIQ Playbook that outlines basic strategies, best practices, and \"red flags\" …\n  8 Favorite StockIQ Supply Chain Planning Improvements & Features for 2021 Read More »\nThe post 8 Favorite StockIQ Supply Chain Planning Improvements & Features for 2021 appeared first on ERP Software Blog.\nIntegrated Planning with deFacto Power Planning - Webinar \nMicrosoft Dynamics SL Project Budgeting \nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers",
           "link": "https://www.erpsoftwareblog.com/2021/12/8-favorite-stockiq-supply-chain-planning-improvements-features-for-2021/",
           "publishedOn": "2021-12-17T20:10:15.000Z",
-          "wordCount": 1583,
+          "wordCount": 1585,
           "title": "8 Favorite StockIQ Supply Chain Planning Improvements & Features for 2021"
         },
         {
@@ -1542,33 +1569,6 @@
           "publishedOn": "2021-11-02T15:51:02.000Z",
           "wordCount": 1373,
           "title": "Dashboard-Driven Supply Chain Planning Virtual Learning Session"
-        },
-        {
-          "id": "https://www.erpsoftwareblog.com/?p=83713",
-          "author": "ArcherPoint",
-          "description": "Through a perfect storm of technology and security able to handle sophisticated eCommerce transactions and a pandemic that has millions shopping from the safety and comfort of their homes, the future of eCommerce has arrived. Online shopping has been around for a while. It started out slowly back around the time Amazon was selling only …\n  eCommerce: Why You Should Sell Online and Why Through Amazon Read More »\nThe post eCommerce: Why You Should Sell Online and Why Through Amazon appeared first on ERP Software Blog.\n3 eCommerce Marketing Tools You Need for the Holidays \nHow Today’s Wine Distributors Wow Customers with Integrated eCommerce + ERP \nStrategic Mindset for a Successful ERP implementation",
-          "link": "https://www.erpsoftwareblog.com/2021/11/why-you-should-sell-online-through-amazon/",
-          "publishedOn": "2021-11-02T13:15:35.000Z",
-          "wordCount": 1777,
-          "title": "eCommerce: Why You Should Sell Online and Why Through Amazon"
-        },
-        {
-          "id": "https://www.erpsoftwareblog.com/?p=84268",
-          "author": "Columbus",
-          "description": "If you’re considering a new cloud-based ERP, chances are you are facing inefficient processes, inaccurate financial reporting and inventory tracking, and delayed data processing. Your current system most likely is comprised of multiple legacy systems, planning tools, and is dependent on customizations. But the thought of implementing a new ERP system may terrify you more …\n  The MVP Approach to Microsoft Dynamics 365 Implementations Read More »\nThe post The MVP Approach to Microsoft Dynamics 365 Implementations appeared first on ERP Software Blog.\nThe Truth About Digital Transformation \nHot trend: giving rental companies rich graphical views of equipment availability \nUsing business intelligence to enrich equipment rental and services insight",
-          "link": "https://www.erpsoftwareblog.com/2021/11/mvp-approach-to-d365-implementations/",
-          "publishedOn": "2021-11-02T12:57:13.000Z",
-          "wordCount": 2036,
-          "title": "The MVP Approach to Microsoft Dynamics 365 Implementations"
-        },
-        {
-          "id": "https://www.erpsoftwareblog.com/?p=84238",
-          "author": "StockIQ Technologies",
-          "description": "The Threat of Stock Outs Over the past year, inventory-based businesses have faced a tsunami of supply chain frictions, forcing companies to scramble and strategize.  And the entire world faced a convergence of shipping woes — fueled by globalized connections, unparalleled levels of shutdowns, and immense economic pressures. Stock-outs are one of the biggest threats …\n  A Proactive Approach To Stock Outs Read More »\nThe post A Proactive Approach To Stock Outs appeared first on ERP Software Blog.\nSupply Chain Case Study: Chadwell Supply Increases Sales by 28% and Maintains Leading Fill Rates with Minimal Inventory Investment \nBenefits and Functionality Every Supply Chain Planning Solutions Should Offer \nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers",
-          "link": "https://www.erpsoftwareblog.com/2021/11/do-you-need-a-proactive-approach-to-stock-outs/",
-          "publishedOn": "2021-11-01T21:10:33.000Z",
-          "wordCount": 1828,
-          "title": "A Proactive Approach To Stock Outs"
         }
       ]
     },
