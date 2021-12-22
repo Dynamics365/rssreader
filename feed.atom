@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2021-12-21T01:04:55.238Z</updated>
+    <updated>2021-12-22T01:04:05.289Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Finance is a Gamechanger for Distributors]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=85066</id>
+        <link href="https://www.erpsoftwareblog.com/2021/12/dynamics-365-finance-for-distributors/"/>
+        <updated>2021-12-21T23:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Cloud technology has come into its own. If you are running a distribution business, you know there are many moving parts to your operations. Do you struggle with a variety of inefficient systems and applications to run your business?  A fully-integrated solution, Dynamics 365 Finance and Supply Chain Management operating on a unified cloud platform, will be …
+  Dynamics 365 Finance is a Gamechanger for Distributors Read More »
+The post Dynamics 365 Finance is a Gamechanger for Distributors appeared first on ERP Software Blog.
+What Professional Service Firms Can Learn from Baseball About Improving Utilization 
+When to Upgrade from AX 2012 to Dynamics 365 Finance and Operations 
+13 Recommended CPM Tools for Powerful KPI Management]]></summary>
+        <author>
+            <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Year-End Update for Microsoft Dynamics GP]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=85149</id>
+        <link href="https://www.erpsoftwareblog.com/2021/12/year-end-update-for-microsoft-dynamics-gp/"/>
+        <updated>2021-12-21T19:25:28.000Z</updated>
+        <summary type="html"><![CDATA[It’s our favorite time of year, the holidays and closing the books for GP! To help guide you into the new year with GP, we've put together some helpful updates and resources: Important 2021 Tax Filing Dates January 31, 2022 – to employees and IRS/SSA W-2s, EFW2 1099s – If you need help with 1099s, …
+  Year-End Update for Microsoft Dynamics GP Read More »
+The post Year-End Update for Microsoft Dynamics GP appeared first on ERP Software Blog.
+Project Management Software: How to Create Epic Success 
+L’importance d’avoir les bons outils pour réussir ses projets 
+[Infographic] AP Automation Going For The Gold In Rio]]></summary>
+        <author>
+            <name>Crestwood Associates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can Microsoft Dynamics GP Promote Business Growth?]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=85145</id>
+        <link href="https://www.erpsoftwareblog.com/2021/12/how-can-microsoft-dynamics-gp-promote-business-growth-2/"/>
+        <updated>2021-12-21T16:19:37.000Z</updated>
+        <summary type="html"><![CDATA[By standardizing on one accounting platform with integrated business and financial services components, Microsoft Dynamics GP 2018 can help your company drive out the inefficiencies of managing disparate systems. They now spend less time on maintenance, and the need for training to support multiple systems has diminished, freeing up IT resources for more strategic IT …
+  How Can Microsoft Dynamics GP Promote Business Growth? Read More »
+The post How Can Microsoft Dynamics GP Promote Business Growth? appeared first on ERP Software Blog.
+Microsoft Dynamics Reporting can lead the way with your accounting team today! 
+How does Microsoft Dynamics deliver secure data to your team members? 
+How can Microsoft Dynamics GP, help your financial reporting go further, faster?]]></summary>
+        <author>
+            <name>Accountnet, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A review of 2021 and what to expect in the new year]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2a63f828-a0da-4dfc-b992-0cf5819bffcf</id>
+        <link href="https://community.dynamics.com/ax/b/1clickfactory365andax/posts/a-review-of-2021-and-what-to-expect-in-the-new-year"/>
+        <updated>2021-12-21T08:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Louis Rustenhoven, CEO
+ 
+Dear Valued Partner,
+2021 has been a special year in which a lot has happened. Last year, we hoped that Covid-19 would be less present in our lives in the new year, but unf...(read more)]]></summary>
+        <author>
+            <name>1ClickFactory Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Troubleshooting DVT script for service model - Dynamics 365 Finance & Operations Tier 1 Upgrade]]></title>
+        <id>https://nuxulu.com/2021-12-21-troubleshooting-dvt-script-for-service-model/</id>
+        <link href="https://nuxulu.com/2021-12-21-troubleshooting-dvt-script-for-service-model/"/>
+        <updated>2021-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While doing upgrade to the latest version Dynamics 365 Finance & Operations on tier 1 environment, you might got some errors related to DVT auto scripts.
+1. DVT script for service model: AOSService on machine
+An error at step 72
+
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Step>
+   <ID>72</ID>
+   <RunbookID>498de9aee46e403e9dcd97b40166775e</RunbookID>
+   <PackageId>dd4119e4331248d5a6ba9b987eef440d</PackageId>
+   <PackageType>PlatAppBinaryHotfixPackage</PackageType>
+   <CompletedManually>false</CompletedManually>
+   <Description>DVT script for service model: AOSService on machine: </Description>
+   <MachineName></MachineName>
+   <ServiceModelName>AOSService</ServiceModelName>
+   <ScriptToExecute>
+      <FileName>AutoRu…]]></summary>
+        <author>
+            <name>Max Nguyen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Connect your Company with Microsoft Business Central]]></title>
         <id>https://www.erpsoftwareblog.com/?p=85142</id>
@@ -1913,51 +2025,6 @@ Common Mistakes Business Central Manufacturing Customers Make Implementing Wareh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Specific Ways ExpandIT Helps Field Service Workers Stay Safe And Efficient Through the Pandemic]]></title>
-        <id>https://www.erpsoftwareblog.com/?p=83298</id>
-        <link href="https://www.erpsoftwareblog.com/2021/11/specific-ways-expandit-helps-field-service-workers-stay-safe-and-efficient-through-the-pandemic/"/>
-        <updated>2021-11-02T17:59:28.000Z</updated>
-        <summary type="html"><![CDATA[Essential service providers have continued their important work throughout the COVID-19 pandemic, but it hasn't been without challenges. For example, communication has always been instrumental to field workers. How has the pandemic impacted this vital aspect of their job? And how have two companies leveraged the ExpandIT solution to pivot during this time? The Importance …
-  Specific Ways ExpandIT Helps Field Service Workers Stay Safe And Efficient Through the Pandemic Read More »
-The post Specific Ways ExpandIT Helps Field Service Workers Stay Safe And Efficient Through the Pandemic appeared first on ERP Software Blog.
-5 Steps to Keeping Software Selection Focused 
-To Host or Not to Host, That is the Question – Learn the Benefits of Hosting and What It Can Bring to Your Organization 
-Work Gets Easier With the New Email Features in Microsoft Dynamics GP 2010]]></summary>
-        <author>
-            <name>John MacDonald, ExpandIT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How can Microsoft Dynamics SL Help Your Business today?]]></title>
-        <id>https://www.erpsoftwareblog.com/?p=84289</id>
-        <link href="https://www.erpsoftwareblog.com/2021/11/how-can-microsoft-dynamics-sl-help-your-business-today-2/"/>
-        <updated>2021-11-02T16:05:52.000Z</updated>
-        <summary type="html"><![CDATA[The speed of business is changing, and it's not slowing down. Microsoft Dynamics SL 2018 gives people the power to set a new pace and drive real bottom-line impact. Microsoft Dynamics SL 2018 simplifies the way people work, empowering them to take inspired, decisive action and lead the change that will transform their business. Microsoft …
-  How can Microsoft Dynamics SL Help Your Business today? Read More »
-The post How can Microsoft Dynamics SL Help Your Business today? appeared first on ERP Software Blog.
-How Does Microsoft Dynamics SL Match Your Business Needs? 
-Microsoft Dynamics SL in the Cloud Provides More Flexibility 
-How can Microsoft Dynamics SL Multi-Company track companies easier in 2018?]]></summary>
-        <author>
-            <name>Accountnet, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dashboard-Driven Supply Chain Planning Virtual Learning Session]]></title>
-        <id>https://www.erpsoftwareblog.com/?p=84285</id>
-        <link href="https://www.erpsoftwareblog.com/2021/11/dashboard-driven-supply-chain-planning-virtual-learning-session/"/>
-        <updated>2021-11-02T15:51:02.000Z</updated>
-        <summary type="html"><![CDATA[Wednesday, November 17 Save My Spot for 9:00 AM ET OR Save My Spot for 2:00 PM ET Join StockIQ Technologies for a complimentary virtual learning session, Dashboard-Driven Supply Chain Planning. Learn how dashboards in StockIQ's Supply Chain Planning software are used to quickly identify and conquer issues within your supply chain. Dashboards gives visibility to users, management, …
-  Dashboard-Driven Supply Chain Planning Virtual Learning Session Read More »
-The post Dashboard-Driven Supply Chain Planning Virtual Learning Session appeared first on ERP Software Blog.
-Baker’s Dozen of WMS (Warehouse Management System) Acronyms Defined 
-Dynamics GP Manufacturing – Can I Disassemble a Finished Good? 
-Microsoft Dynamics GP – Provide Your Customers with a Realistic Expected Ship Date]]></summary>
-        <author>
-            <name>StockIQ Technologies</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Podcast Transcript: Measuring the performance of Dynamics 365 service providers]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f31e13f7-11fd-4c5a-8005-cd331da788e6</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/podcast-transcript-measuring-the-performance-of-dynamics-365-service-providers"/>
@@ -3807,50 +3874,6 @@ Dynamics 365 Sales Insights continues investments in digital selling across mul
 (read more)]]></summary>
         <author>
             <name>Rachit Garg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced WHS Mobile Device Development: [Part 4] – How to Display Sales Order Line Details]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:31737c85-be34-41b6-82a8-00bbe9a11acf</id>
-        <link href="https://community.dynamics.com/ax/b/1clickfactory365andax/posts/advanced-whs-mobile-device-development-part-4-how-to-display-sales-order-line-details"/>
-        <updated>2020-07-17T13:41:16.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the final part of our WHS mobile device development series where we’ve walked through a mobile device development process using process guide framework with Dynamics 365 Finance & Supply Chain...(read more)]]></summary>
-        <author>
-            <name>1ClickFactory Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database movement from Tier 1 to Tier 1]]></title>
-        <id>https://nuxulu.com/2020-07-14-database-movement-tier1-to-tier1/</id>
-        <link href="https://nuxulu.com/2020-07-14-database-movement-tier1-to-tier1/"/>
-        <updated>2020-07-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In GOLD, export GOLD bak file
-In MIG, stop all services: Batch, DIXF, MR
-In MIG, backup AXDB MIG
-in MIG, AxDB to AxDB_Orgi
-In MIG, Create AxDB_New
-In MIG,resotre GOLD to AxDB_New
-AxDB_Gold to AxDB
-Start all the services and resett IIS in LCS
-DB Sync
-
-
-
-1
-2
-3
-4
-5
-
-
-
-ALTER DATABASE AxDB SET Single_user With Rollback immediate
-alter database AxDB Modify name = AxDB_Orig
-alter database AxDB_Orig SET MULTI_USER
-alter database AxDB_Gold Modify name = AxDB
-select * from [USERINFO]]]></summary>
-        <author>
-            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>

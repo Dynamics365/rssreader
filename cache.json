@@ -6,12 +6,21 @@
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
         {
+          "id": "https://nuxulu.com/2021-12-21-troubleshooting-dvt-script-for-service-model/",
+          "author": "Max Nguyen",
+          "description": "While doing upgrade to the latest version Dynamics 365 Finance & Operations on tier 1 environment, you might got some errors related to DVT auto scripts.\n1. DVT script for service model: AOSService on machine\nAn error at step 72\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n\n\n\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Step>\n   <ID>72</ID>\n   <RunbookID>498de9aee46e403e9dcd97b40166775e</RunbookID>\n   <PackageId>dd4119e4331248d5a6ba9b987eef440d</PackageId>\n   <PackageType>PlatAppBinaryHotfixPackage</PackageType>\n   <CompletedManually>false</CompletedManually>\n   <Description>DVT script for service model: AOSService on machine: </Description>\n   <MachineName></MachineName>\n   <ServiceModelName>AOSService</ServiceModelName>\n   <ScriptToExecute>\n      <FileName>AutoRu…",
+          "link": "https://nuxulu.com/2021-12-21-troubleshooting-dvt-script-for-service-model/",
+          "publishedOn": "2021-12-21T00:00:00.000Z",
+          "wordCount": 577,
+          "title": "Troubleshooting DVT script for service model - Dynamics 365 Finance & Operations Tier 1 Upgrade"
+        },
+        {
           "id": "https://nuxulu.com/2021-11-05-windows-key-shortcuts/",
           "author": "Max Nguyen",
           "description": "1. New Keyboard Shortcuts in Windows 11\nWindows 11 brings a few Keyboard Shortcuts for accessing its cool new features such as widgets, snap layouts, action center, and quick settings.\nFYI, Win key is the Windows Logo key on your keyboard.\nACTION\nSHORTCUTS KEYS\n\n\n\n\nOpen up the Widgets pane. It supplies you with the weather forecast, local traffic, news, and even your calendar.\nWin + W\n\n\nToggle up the Quick Settings. It controls the Volume, Wi-Fi, Bluetooth, Brightness sliders, Focus Assist, and other settings.\nWin + A\n\n\nBring up the Notification Center. It shows all your notifications in the OS.\nWin + N\n\n\nOpen the Snap Layouts flyout. It helps you organize apps and windows for multitasking.\nWin + Z\n\n\nOpen Teams Chat app from Taskbar. It helps you quickly select a chat thread directly from …",
           "link": "https://nuxulu.com/2021-11-05-windows-key-shortcuts/",
           "publishedOn": "2021-11-05T00:00:00.000Z",
-          "wordCount": 2264,
+          "wordCount": 2279,
           "title": "Windows keyboard shortcuts"
         },
         {
@@ -85,15 +94,6 @@
           "publishedOn": "2020-08-15T00:00:00.000Z",
           "wordCount": 1607,
           "title": "Microsoft Dynamics 365"
-        },
-        {
-          "id": "https://nuxulu.com/2020-07-14-database-movement-tier1-to-tier1/",
-          "author": "Max Nguyen",
-          "description": "In GOLD, export GOLD bak file\nIn MIG, stop all services: Batch, DIXF, MR\nIn MIG, backup AXDB MIG\nin MIG, AxDB to AxDB_Orgi\nIn MIG, Create AxDB_New\nIn MIG,resotre GOLD to AxDB_New\nAxDB_Gold to AxDB\nStart all the services and resett IIS in LCS\nDB Sync\n\n\n\n1\n2\n3\n4\n5\n\n\n\nALTER DATABASE AxDB SET Single_user With Rollback immediate\nalter database AxDB Modify name = AxDB_Orig\nalter database AxDB_Orig SET MULTI_USER\nalter database AxDB_Gold Modify name = AxDB\nselect * from [USERINFO]",
-          "link": "https://nuxulu.com/2020-07-14-database-movement-tier1-to-tier1/",
-          "publishedOn": "2020-07-14T00:00:00.000Z",
-          "wordCount": 165,
-          "title": "Database movement from Tier 1 to Tier 1"
         }
       ]
     },
@@ -671,12 +671,39 @@
       "siteUrl": "https://www.erpsoftwareblog.com",
       "articles": [
         {
+          "id": "https://www.erpsoftwareblog.com/?p=85066",
+          "author": "Western Computer",
+          "description": "Cloud technology has come into its own. If you are running a distribution business, you know there are many moving parts to your operations. Do you struggle with a variety of inefficient systems and applications to run your business?  A fully-integrated solution, Dynamics 365 Finance and Supply Chain Management operating on a unified cloud platform, will be …\n  Dynamics 365 Finance is a Gamechanger for Distributors Read More »\nThe post Dynamics 365 Finance is a Gamechanger for Distributors appeared first on ERP Software Blog.\nWhat Professional Service Firms Can Learn from Baseball About Improving Utilization \nWhen to Upgrade from AX 2012 to Dynamics 365 Finance and Operations \n13 Recommended CPM Tools for Powerful KPI Management",
+          "link": "https://www.erpsoftwareblog.com/2021/12/dynamics-365-finance-for-distributors/",
+          "publishedOn": "2021-12-21T23:27:48.000Z",
+          "wordCount": 2135,
+          "title": "Dynamics 365 Finance is a Gamechanger for Distributors"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=85149",
+          "author": "Crestwood Associates",
+          "description": "It’s our favorite time of year, the holidays and closing the books for GP! To help guide you into the new year with GP, we've put together some helpful updates and resources: Important 2021 Tax Filing Dates January 31, 2022 – to employees and IRS/SSA W-2s, EFW2 1099s – If you need help with 1099s, …\n  Year-End Update for Microsoft Dynamics GP Read More »\nThe post Year-End Update for Microsoft Dynamics GP appeared first on ERP Software Blog.\nProject Management Software: How to Create Epic Success \nL’importance d’avoir les bons outils pour réussir ses projets \n[Infographic] AP Automation Going For The Gold In Rio",
+          "link": "https://www.erpsoftwareblog.com/2021/12/year-end-update-for-microsoft-dynamics-gp/",
+          "publishedOn": "2021-12-21T19:25:28.000Z",
+          "wordCount": 1555,
+          "title": "Year-End Update for Microsoft Dynamics GP"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=85145",
+          "author": "Accountnet, Inc.",
+          "description": "By standardizing on one accounting platform with integrated business and financial services components, Microsoft Dynamics GP 2018 can help your company drive out the inefficiencies of managing disparate systems. They now spend less time on maintenance, and the need for training to support multiple systems has diminished, freeing up IT resources for more strategic IT …\n  How Can Microsoft Dynamics GP Promote Business Growth? Read More »\nThe post How Can Microsoft Dynamics GP Promote Business Growth? appeared first on ERP Software Blog.\nMicrosoft Dynamics Reporting can lead the way with your accounting team today! \nHow does Microsoft Dynamics deliver secure data to your team members? \nHow can Microsoft Dynamics GP, help your financial reporting go further, faster?",
+          "link": "https://www.erpsoftwareblog.com/2021/12/how-can-microsoft-dynamics-gp-promote-business-growth-2/",
+          "publishedOn": "2021-12-21T16:19:37.000Z",
+          "wordCount": 1740,
+          "title": "How Can Microsoft Dynamics GP Promote Business Growth?"
+        },
+        {
           "id": "https://www.erpsoftwareblog.com/?p=85142",
           "author": "iCepts Technology Group, Inc.",
           "description": "Your legacy, on-premises solution helped you run your business for many years. However, in the era of digital transformation, modern cloud-based business solutions can help take your company to new heights through advanced cloud business ERP technology.  Organizations struggling to meet customer demands and also their own internal operations are quickly realizing that modern ERP …\n  Connect your Company with Microsoft Business Central Read More »\nThe post Connect your Company with Microsoft Business Central appeared first on ERP Software Blog.\nRecurring Journal Entries in Microsoft Dynamics 365 Business Central \nThe Sales Process in Microsoft Dynamics 365 Business Central \nHow to Create Purchase Credit Memo in Business Central",
           "link": "https://www.erpsoftwareblog.com/2021/12/connect-your-company-with-microsoft-business-central/",
           "publishedOn": "2021-12-20T20:40:03.000Z",
-          "wordCount": 1351,
+          "wordCount": 1353,
           "title": "Connect your Company with Microsoft Business Central"
         },
         {
@@ -1542,33 +1569,6 @@
           "publishedOn": "2021-11-02T20:11:49.000Z",
           "wordCount": 1931,
           "title": "How Long Will It Take to Upgrade to a New Cloud ERP Solution?"
-        },
-        {
-          "id": "https://www.erpsoftwareblog.com/?p=83298",
-          "author": "John MacDonald, ExpandIT",
-          "description": "Essential service providers have continued their important work throughout the COVID-19 pandemic, but it hasn't been without challenges. For example, communication has always been instrumental to field workers. How has the pandemic impacted this vital aspect of their job? And how have two companies leveraged the ExpandIT solution to pivot during this time? The Importance …\n  Specific Ways ExpandIT Helps Field Service Workers Stay Safe And Efficient Through the Pandemic Read More »\nThe post Specific Ways ExpandIT Helps Field Service Workers Stay Safe And Efficient Through the Pandemic appeared first on ERP Software Blog.\n5 Steps to Keeping Software Selection Focused \nTo Host or Not to Host, That is the Question – Learn the Benefits of Hosting and What It Can Bring to Your Organization \nWork Gets Easier With the New Email Features in Microsoft Dynamics GP 2010",
-          "link": "https://www.erpsoftwareblog.com/2021/11/specific-ways-expandit-helps-field-service-workers-stay-safe-and-efficient-through-the-pandemic/",
-          "publishedOn": "2021-11-02T17:59:28.000Z",
-          "wordCount": 1918,
-          "title": "Specific Ways ExpandIT Helps Field Service Workers Stay Safe And Efficient Through the Pandemic"
-        },
-        {
-          "id": "https://www.erpsoftwareblog.com/?p=84289",
-          "author": "Accountnet, Inc.",
-          "description": "The speed of business is changing, and it's not slowing down. Microsoft Dynamics SL 2018 gives people the power to set a new pace and drive real bottom-line impact. Microsoft Dynamics SL 2018 simplifies the way people work, empowering them to take inspired, decisive action and lead the change that will transform their business. Microsoft …\n  How can Microsoft Dynamics SL Help Your Business today? Read More »\nThe post How can Microsoft Dynamics SL Help Your Business today? appeared first on ERP Software Blog.\nHow Does Microsoft Dynamics SL Match Your Business Needs? \nMicrosoft Dynamics SL in the Cloud Provides More Flexibility \nHow can Microsoft Dynamics SL Multi-Company track companies easier in 2018?",
-          "link": "https://www.erpsoftwareblog.com/2021/11/how-can-microsoft-dynamics-sl-help-your-business-today-2/",
-          "publishedOn": "2021-11-02T16:05:52.000Z",
-          "wordCount": 1640,
-          "title": "How can Microsoft Dynamics SL Help Your Business today?"
-        },
-        {
-          "id": "https://www.erpsoftwareblog.com/?p=84285",
-          "author": "StockIQ Technologies",
-          "description": "Wednesday, November 17 Save My Spot for 9:00 AM ET OR Save My Spot for 2:00 PM ET Join StockIQ Technologies for a complimentary virtual learning session, Dashboard-Driven Supply Chain Planning. Learn how dashboards in StockIQ's Supply Chain Planning software are used to quickly identify and conquer issues within your supply chain. Dashboards gives visibility to users, management, …\n  Dashboard-Driven Supply Chain Planning Virtual Learning Session Read More »\nThe post Dashboard-Driven Supply Chain Planning Virtual Learning Session appeared first on ERP Software Blog.\nBaker’s Dozen of WMS (Warehouse Management System) Acronyms Defined \nDynamics GP Manufacturing – Can I Disassemble a Finished Good? \nMicrosoft Dynamics GP – Provide Your Customers with a Realistic Expected Ship Date",
-          "link": "https://www.erpsoftwareblog.com/2021/11/dashboard-driven-supply-chain-planning-virtual-learning-session/",
-          "publishedOn": "2021-11-02T15:51:02.000Z",
-          "wordCount": 1373,
-          "title": "Dashboard-Driven Supply Chain Planning Virtual Learning Session"
         }
       ]
     },
@@ -3140,6 +3140,15 @@
       "siteUrl": "https://community.dynamics.com/ax/b/1clickfactory365andax",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:2a63f828-a0da-4dfc-b992-0cf5819bffcf",
+          "author": "1ClickFactory Team",
+          "description": "Louis Rustenhoven, CEO\r\n \r\nDear Valued Partner,\r\n2021 has been a special year in which a lot has happened. Last year, we hoped that Covid-19 would be less present in our lives in the new year, but unf...(read more)",
+          "link": "https://community.dynamics.com/ax/b/1clickfactory365andax/posts/a-review-of-2021-and-what-to-expect-in-the-new-year",
+          "publishedOn": "2021-12-21T08:12:43.000Z",
+          "wordCount": 2206,
+          "title": "A review of 2021 and what to expect in the new year"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:17022d21-2bff-4db5-bcf5-d51f96a336ef",
           "author": "1ClickFactory Team",
           "description": "Reading time: 7 minutes\r\nWe have many Microsoft Dynamics Partners who still have their customers on Dynamics AX 2009 or 2012, but are planning their migration to Dynamics 365 Finance and Supply Chain ...(read more)",
@@ -3264,15 +3273,6 @@
           "publishedOn": "2020-09-28T10:56:49.000Z",
           "wordCount": 1902,
           "title": "How do Existing AX Customers Benefit from Moving to Dynamics 365 Finance and Supply Chain Management in the Cloud?"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:31737c85-be34-41b6-82a8-00bbe9a11acf",
-          "author": "1ClickFactory Team",
-          "description": "Welcome to the final part of our WHS mobile device development series where we’ve walked through a mobile device development process using process guide framework with Dynamics 365 Finance & Supply Chain...(read more)",
-          "link": "https://community.dynamics.com/ax/b/1clickfactory365andax/posts/advanced-whs-mobile-device-development-part-4-how-to-display-sales-order-line-details",
-          "publishedOn": "2020-07-17T13:41:16.000Z",
-          "wordCount": 1409,
-          "title": "Advanced WHS Mobile Device Development: [Part 4] – How to Display Sales Order Line Details"
         }
       ]
     },
