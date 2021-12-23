@@ -529,6 +529,15 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3988067d-246c-42c7-bcf4-17717553f9e4",
+          "author": "MSDynamicsWorld.com",
+          "description": "SignUp Software, makers of AP and\r\ninvoice automation software ExFlow, recently completed an IPO on\r\nthe Nasdaq \r\n First \r\n   \r\n North Growth Market. While acquisitions and equity investment\r\ndeals have become routine in the Microsoft Business Applications... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/signup-software-plans-for-new-stage-of-growth-in-microsoft-channel-following-ipo",
+          "publishedOn": "2021-12-22T13:00:00.000Z",
+          "wordCount": 948,
+          "title": "SignUp Software plans for new stage of growth in Microsoft channel following IPO"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c1534fba-5e53-4290-ae49-1ba7787ca2bc",
           "author": "MSDynamicsWorld.com",
           "description": "Private equity firm Thoma Bravo announced that it plans\r\nto acquire financial management and automation firm Bottomline\r\nTechnologies, taking the firm private for approximately $2.6\r\nbillion\r\n Thoma Bravo shareholders will receive $57 per share as part... Read the full text.",
@@ -653,15 +662,6 @@
           "publishedOn": "2021-09-27T14:00:00.000Z",
           "wordCount": 967,
           "title": "5 sales techniques to convince customers in the CEE market to move to Dynamics 365 Finance & Supply Chain Management"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:33548116-0790-48b5-bacf-2085a553b907",
-          "author": "MSDynamicsWorld.com",
-          "description": "This episode is sponsored by \r\n ExpandIT . \r\n \r\n Field service solutions maintain a unique position in the world\r\nof business software. It serves a distinct purpose and is used by\r\nvery specific roles, and yet it also needs to work alongside other\r\ncritical... Read the full text.",
-          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-improving-field-service-maturity-with-dynamics-erp",
-          "publishedOn": "2021-09-27T12:00:00.000Z",
-          "wordCount": 944,
-          "title": "MSDW Podcast: Improving field service maturity with Dynamics ERP"
         }
       ]
     },
@@ -671,12 +671,21 @@
       "siteUrl": "https://www.erpsoftwareblog.com",
       "articles": [
         {
+          "id": "https://www.erpsoftwareblog.com/?p=85129",
+          "author": "The ISV Society",
+          "description": "2022 is almost here!  As this year comes to a close have you thought about what business processes you want to focus on and improve in 2022?  We can get so caught up in the day-to-day tasks we often forget to take a step back and analyze process improvement.  I mean who doesn’t want:  Decrease …\n  Make 2022 The Year of Process Improvement Read More »\nThe post Make 2022 The Year of Process Improvement appeared first on ERP Software Blog.\nSupply Chain Case Study: Chadwell Supply Increases Sales by 28% and Maintains Leading Fill Rates with Minimal Inventory Investment \nYour guide to choosing the best eCommerce solution: breaking down the ROI \nMicrosoft D365 Business Central Tips & Tricks",
+          "link": "https://www.erpsoftwareblog.com/2021/12/make-2022-the-year-of-process-improvement/",
+          "publishedOn": "2021-12-22T14:00:54.000Z",
+          "wordCount": 2092,
+          "title": "Make 2022 The Year of Process Improvement"
+        },
+        {
           "id": "https://www.erpsoftwareblog.com/?p=85066",
           "author": "Western Computer",
           "description": "Cloud technology has come into its own. If you are running a distribution business, you know there are many moving parts to your operations. Do you struggle with a variety of inefficient systems and applications to run your business?  A fully-integrated solution, Dynamics 365 Finance and Supply Chain Management operating on a unified cloud platform, will be …\n  Dynamics 365 Finance is a Gamechanger for Distributors Read More »\nThe post Dynamics 365 Finance is a Gamechanger for Distributors appeared first on ERP Software Blog.\nWhat Professional Service Firms Can Learn from Baseball About Improving Utilization \nWhen to Upgrade from AX 2012 to Dynamics 365 Finance and Operations \n13 Recommended CPM Tools for Powerful KPI Management",
           "link": "https://www.erpsoftwareblog.com/2021/12/dynamics-365-finance-for-distributors/",
           "publishedOn": "2021-12-21T23:27:48.000Z",
-          "wordCount": 2135,
+          "wordCount": 2137,
           "title": "Dynamics 365 Finance is a Gamechanger for Distributors"
         },
         {
@@ -739,7 +748,7 @@
           "description": "Are you missing or losing invoices? Have you created nexus in the last year?   In this blog post, Yooz and Avalara discuss how cloud-based AP automation and sales tax compliance can safeguard your business. They both will help you reap the benefits from automation and improve visibility into unpaid invoices & improve customer experience.  Reason 1 – Inconsistent Processes …\n  4 Reasons to Safeguard Your Business with AP Automation and Sales Tax Compliance Read More »\nThe post 4 Reasons to Safeguard Your Business with AP Automation and Sales Tax Compliance appeared first on ERP Software Blog.\nAvoid Poor Customer Purchase Experiences with Exemption Certificate Management Automation \nAddressing Sales Tax Compliance with Microsoft Dynamics GP \nDon't Mess with Nexus in...Florida? Or California, New York, or Texas!",
           "link": "https://www.erpsoftwareblog.com/2021/12/4-reasons-to-safeguard-your-business-with-ap-automation-and-sales-tax-compliance/",
           "publishedOn": "2021-12-17T14:00:02.000Z",
-          "wordCount": 2164,
+          "wordCount": 2225,
           "title": "4 Reasons to Safeguard Your Business with AP Automation and Sales Tax Compliance"
         },
         {
@@ -1560,15 +1569,6 @@
           "publishedOn": "2021-11-02T21:38:01.000Z",
           "wordCount": 1435,
           "title": "Upgrade to Microsoft Dynamics ERP; Here’s What It Will Cost."
-        },
-        {
-          "id": "https://www.erpsoftwareblog.com/?p=84302",
-          "author": "Western Computer",
-          "description": "Have you reached the point where your legacy ERP is no longer providing the functionality you need? Perhaps you’ve finally decided to migrate to a fully integrated cloud ERP solution such as Microsoft Dynamics 365BC (Business Central). But what about the time it will take to implement a new system, and what about the disruption …\n  How Long Will It Take to Upgrade to a New Cloud ERP Solution? Read More »\nThe post How Long Will It Take to Upgrade to a New Cloud ERP Solution? appeared first on ERP Software Blog.\nThe Benefits and Limitations to Using Parse JSON  |  Power Automate and Dynamics 365 Business Central \nMy insights on Microsoft Dynamics 365 Business Central 2020 Wave 2 (aka BC17) \nCommon Mistakes Business Central Manufacturing Customers Make Implementing Warehouse Management Software",
-          "link": "https://www.erpsoftwareblog.com/2021/11/how-long-will-it-take-to-upgrade-to-a-new-cloud-erp-solution/",
-          "publishedOn": "2021-11-02T20:11:49.000Z",
-          "wordCount": 1931,
-          "title": "How Long Will It Take to Upgrade to a New Cloud ERP Solution?"
         }
       ]
     },

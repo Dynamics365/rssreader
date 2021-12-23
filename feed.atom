@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2021-12-22T01:04:05.289Z</updated>
+    <updated>2021-12-23T01:02:21.963Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Make 2022 The Year of Process Improvement]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=85129</id>
+        <link href="https://www.erpsoftwareblog.com/2021/12/make-2022-the-year-of-process-improvement/"/>
+        <updated>2021-12-22T14:00:54.000Z</updated>
+        <summary type="html"><![CDATA[2022 is almost here!  As this year comes to a close have you thought about what business processes you want to focus on and improve in 2022?  We can get so caught up in the day-to-day tasks we often forget to take a step back and analyze process improvement.  I mean who doesn’t want:  Decrease …
+  Make 2022 The Year of Process Improvement Read More »
+The post Make 2022 The Year of Process Improvement appeared first on ERP Software Blog.
+Supply Chain Case Study: Chadwell Supply Increases Sales by 28% and Maintains Leading Fill Rates with Minimal Inventory Investment 
+Your guide to choosing the best eCommerce solution: breaking down the ROI 
+Microsoft D365 Business Central Tips & Tricks]]></summary>
+        <author>
+            <name>The ISV Society</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SignUp Software plans for new stage of growth in Microsoft channel following IPO]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3988067d-246c-42c7-bcf4-17717553f9e4</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/signup-software-plans-for-new-stage-of-growth-in-microsoft-channel-following-ipo"/>
+        <updated>2021-12-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SignUp Software, makers of AP and
+invoice automation software ExFlow, recently completed an IPO on
+the Nasdaq 
+ First 
+   
+ North Growth Market. While acquisitions and equity investment
+deals have become routine in the Microsoft Business Applications... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 Finance is a Gamechanger for Distributors]]></title>
         <id>https://www.erpsoftwareblog.com/?p=85066</id>
@@ -2010,21 +2041,6 @@ How to Migrate Data to Business Central During Your Upgrade Transition]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Long Will It Take to Upgrade to a New Cloud ERP Solution?]]></title>
-        <id>https://www.erpsoftwareblog.com/?p=84302</id>
-        <link href="https://www.erpsoftwareblog.com/2021/11/how-long-will-it-take-to-upgrade-to-a-new-cloud-erp-solution/"/>
-        <updated>2021-11-02T20:11:49.000Z</updated>
-        <summary type="html"><![CDATA[Have you reached the point where your legacy ERP is no longer providing the functionality you need? Perhaps you’ve finally decided to migrate to a fully integrated cloud ERP solution such as Microsoft Dynamics 365BC (Business Central). But what about the time it will take to implement a new system, and what about the disruption …
-  How Long Will It Take to Upgrade to a New Cloud ERP Solution? Read More »
-The post How Long Will It Take to Upgrade to a New Cloud ERP Solution? appeared first on ERP Software Blog.
-The Benefits and Limitations to Using Parse JSON  |  Power Automate and Dynamics 365 Business Central 
-My insights on Microsoft Dynamics 365 Business Central 2020 Wave 2 (aka BC17) 
-Common Mistakes Business Central Manufacturing Customers Make Implementing Warehouse Management Software]]></summary>
-        <author>
-            <name>Western Computer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Podcast Transcript: Measuring the performance of Dynamics 365 service providers]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f31e13f7-11fd-4c5a-8005-cd331da788e6</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/podcast-transcript-measuring-the-performance-of-dynamics-365-service-providers"/>
@@ -2496,22 +2512,6 @@ platform... Read the full text.]]></summary>
 recent years: Dynamics partners should move their AX customers to
 the newest versions of Dynamics 365 Finance & Supply Chain
 Management. This move is not only good for your customers, it is... Read the full text.]]></summary>
-        <author>
-            <name>MSDynamicsWorld.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSDW Podcast: Improving field service maturity with Dynamics ERP]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:33548116-0790-48b5-bacf-2085a553b907</id>
-        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-improving-field-service-maturity-with-dynamics-erp"/>
-        <updated>2021-09-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This episode is sponsored by 
- ExpandIT . 
- 
- Field service solutions maintain a unique position in the world
-of business software. It serves a distinct purpose and is used by
-very specific roles, and yet it also needs to work alongside other
-critical... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
         </author>
