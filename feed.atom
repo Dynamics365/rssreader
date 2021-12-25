@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2021-12-24T01:01:34.358Z</updated>
+    <updated>2021-12-25T01:00:58.172Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=85187</id>
+        <link href="https://www.erpsoftwareblog.com/2021/12/enable-business-events-using-power-automate-in-microsoft-dynamics-365-for-finance-and-operations/"/>
+        <updated>2021-12-24T04:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations - Part 2/2 Series   Approval for Free Text Invoice using Business Events In this section, we will discuss about a use case scenario and how we can achieve it using Business events. The use case is whenever a customer free …
+  Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations Read More »
+The post Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations appeared first on ERP Software Blog.
+My 30-day experiment: Can I Run My Small Business on Dynamics 365? 
+Innovations in equipment lifecycle management (ELM) for rental and services industries 
+The Critical Entities in the Sales Module of Dynamics 365]]></summary>
+        <author>
+            <name>Synoptek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manufacturers: Select between Business Central Premium and Essential Licensing]]></title>
         <id>https://www.erpsoftwareblog.com/?p=85221</id>
@@ -2023,21 +2038,6 @@ Enhance Business Portal Workflow with U-LINC®
 Is Your eCommerce Store Achieving Budgeted Sales Targets?]]></summary>
         <author>
             <name>Tipalti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Payroll Teams Need to Support the Remote Workforce]]></title>
-        <id>https://www.erpsoftwareblog.com/?p=84311</id>
-        <link href="https://www.erpsoftwareblog.com/2021/11/what-payroll-teams-need-to-support-the-remote-workforce/"/>
-        <updated>2021-11-03T16:47:16.000Z</updated>
-        <summary type="html"><![CDATA[Over this very challenging past year, working remotely was one of the biggest shifts for employers and employees alike. What we’re seeing is that this temporary adjustment proved beneficial in many cases so remote work is only going to increase from here. This opens up new opportunities to hire the best talent regardless of location, …
-  What Payroll Teams Need to Support the Remote Workforce Read More »
-The post What Payroll Teams Need to Support the Remote Workforce appeared first on ERP Software Blog.
-What You Need to Know About ACA to Avoid IRS Penalties 
-Payroll NOW: Integrated Payroll for Dynamics 365 Business Central 
-Payroll FAQs for Your Dynamics 365 Business Central Implementation]]></summary>
-        <author>
-            <name>Integrity Data</name>
         </author>
     </entry>
     <entry>

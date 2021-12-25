@@ -671,12 +671,21 @@
       "siteUrl": "https://www.erpsoftwareblog.com",
       "articles": [
         {
+          "id": "https://www.erpsoftwareblog.com/?p=85187",
+          "author": "Synoptek",
+          "description": "Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations - Part 2/2 Series   Approval for Free Text Invoice using Business Events In this section, we will discuss about a use case scenario and how we can achieve it using Business events. The use case is whenever a customer free …\n  Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations Read More »\nThe post Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations appeared first on ERP Software Blog.\nMy 30-day experiment: Can I Run My Small Business on Dynamics 365? \nInnovations in equipment lifecycle management (ELM) for rental and services industries \nThe Critical Entities in the Sales Module of Dynamics 365",
+          "link": "https://www.erpsoftwareblog.com/2021/12/enable-business-events-using-power-automate-in-microsoft-dynamics-365-for-finance-and-operations/",
+          "publishedOn": "2021-12-24T04:22:11.000Z",
+          "wordCount": 3139,
+          "title": "Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations"
+        },
+        {
           "id": "https://www.erpsoftwareblog.com/?p=85221",
           "author": "MetaOption LLC",
           "description": "Microsoft Dynamics 365 Business Central is the latest version of the Dynamics NAV product, which is the best option for Dynamics NAV customers who want a modern and affordable solution. Dynamics 365 Business Central is in two versions i.e., Business Central Essentials and Business Central Premium. If you are running a manufacturing business then it is important to understand the difference between …\n  Manufacturers: Select between Business Central Premium and Essential Licensing Read More »\nThe post Manufacturers: Select between Business Central Premium and Essential Licensing appeared first on ERP Software Blog.\nTop 5 ways Microsoft Dynamics 365 Business Central helps Manufacturers \nTop 5 Microsoft Dynamics 365 Business Central Features \nHow does Business Central offer enhanced reporting and data access?",
           "link": "https://www.erpsoftwareblog.com/2021/12/manufacturers-select-between-business-central-premium-and-essential-licensing/",
           "publishedOn": "2021-12-23T18:03:55.000Z",
-          "wordCount": 1576,
+          "wordCount": 1578,
           "title": "Manufacturers: Select between Business Central Premium and Essential Licensing"
         },
         {
@@ -1560,15 +1569,6 @@
           "publishedOn": "2021-11-04T00:21:29.000Z",
           "wordCount": 1846,
           "title": "Key Take-Aways from Tipalti’s Inaugural Illuminate Conference"
-        },
-        {
-          "id": "https://www.erpsoftwareblog.com/?p=84311",
-          "author": "Integrity Data",
-          "description": "Over this very challenging past year, working remotely was one of the biggest shifts for employers and employees alike. What we’re seeing is that this temporary adjustment proved beneficial in many cases so remote work is only going to increase from here. This opens up new opportunities to hire the best talent regardless of location, …\n  What Payroll Teams Need to Support the Remote Workforce Read More »\nThe post What Payroll Teams Need to Support the Remote Workforce appeared first on ERP Software Blog.\nWhat You Need to Know About ACA to Avoid IRS Penalties \nPayroll NOW: Integrated Payroll for Dynamics 365 Business Central \nPayroll FAQs for Your Dynamics 365 Business Central Implementation",
-          "link": "https://www.erpsoftwareblog.com/2021/11/what-payroll-teams-need-to-support-the-remote-workforce/",
-          "publishedOn": "2021-11-03T16:47:16.000Z",
-          "wordCount": 1808,
-          "title": "What Payroll Teams Need to Support the Remote Workforce"
         }
       ]
     },
