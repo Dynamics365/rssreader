@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2021-12-29T01:02:04.104Z</updated>
+    <updated>2021-12-30T01:02:04.000Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lock Down Your ERP System with Microsoft 365]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=85252</id>
+        <link href="https://www.erpsoftwareblog.com/2021/12/lock-down-your-erp-system-with-microsoft-365/"/>
+        <updated>2021-12-29T19:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Leverage the powerful security features within Microsoft 365 to detect and prevent internal data leaks from occurring. Your ERP (Enterprise Resource Planning) system spans your entire business—from customer service and human resources to financials and sales. Here lives an enormous amount of sensitive information that your entire organization has easy access to. Because of this, …
+  Lock Down Your ERP System with Microsoft 365 Read More »
+The post Lock Down Your ERP System with Microsoft 365 appeared first on ERP Software Blog.
+How DynaRent PowerApps can offer great benefits for your customers 
+An overview of DynaRent’s graphical equipment rental on-hand in practice 
+How to monitor your rental fleet and its availability]]></summary>
+        <author>
+            <name>JourneyTEAM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations]]></title>
         <id>https://www.erpsoftwareblog.com/?p=85187</id>
@@ -2023,21 +2038,6 @@ Open Teams Chat app from Taskbar. It helps you quickly select a chat thread dire
         <summary type="html"><![CDATA[Performance in the Modern Point of Sale (MPOS) and Cloud Point of Sale (CPOS) is critical for a retail business. Recently I helped a customer increase performance of the search functionality for produ...(read more)]]></summary>
         <author>
             <name>Said Nikjou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Take-Aways from Tipalti’s Inaugural Illuminate Conference]]></title>
-        <id>https://www.erpsoftwareblog.com/?p=84317</id>
-        <link href="https://www.erpsoftwareblog.com/2021/11/key-take-aways-from-tipaltis-inaugural-illuminate-conference/"/>
-        <updated>2021-11-04T00:21:29.000Z</updated>
-        <summary type="html"><![CDATA[On October 13 and 14th, Tipalti kicked off its first-ever Illuminate conference. Leadership-focused breakout sessions, networking opportunities, improv, and iconic keynote speakers—including tennis pro Venus Williams, and undercover agent Robert Mazur—provided a lot of learnings to take home. The main theme of the COVID era is going radically virtual—businesses are relying on innovative technology and …
-  Key Take-Aways from Tipalti’s Inaugural Illuminate Conference Read More »
-The post Key Take-Aways from Tipalti’s Inaugural Illuminate Conference appeared first on ERP Software Blog.
-How to Reduce the Functional Distance Between the Central and Branch Offices 
-Enhance Business Portal Workflow with U-LINC® 
-Is Your eCommerce Store Achieving Budgeted Sales Targets?]]></summary>
-        <author>
-            <name>Tipalti</name>
         </author>
     </entry>
     <entry>

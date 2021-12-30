@@ -671,12 +671,21 @@
       "siteUrl": "https://www.erpsoftwareblog.com",
       "articles": [
         {
+          "id": "https://www.erpsoftwareblog.com/?p=85252",
+          "author": "JourneyTEAM",
+          "description": "Leverage the powerful security features within Microsoft 365 to detect and prevent internal data leaks from occurring. Your ERP (Enterprise Resource Planning) system spans your entire business—from customer service and human resources to financials and sales. Here lives an enormous amount of sensitive information that your entire organization has easy access to. Because of this, …\n  Lock Down Your ERP System with Microsoft 365 Read More »\nThe post Lock Down Your ERP System with Microsoft 365 appeared first on ERP Software Blog.\nHow DynaRent PowerApps can offer great benefits for your customers \nAn overview of DynaRent’s graphical equipment rental on-hand in practice \nHow to monitor your rental fleet and its availability",
+          "link": "https://www.erpsoftwareblog.com/2021/12/lock-down-your-erp-system-with-microsoft-365/",
+          "publishedOn": "2021-12-29T19:23:55.000Z",
+          "wordCount": 1851,
+          "title": "Lock Down Your ERP System with Microsoft 365"
+        },
+        {
           "id": "https://www.erpsoftwareblog.com/?p=85187",
           "author": "Synoptek",
           "description": "Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations - Part 2/2 Series   Approval for Free Text Invoice using Business Events In this section, we will discuss about a use case scenario and how we can achieve it using Business events. The use case is whenever a customer free …\n  Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations Read More »\nThe post Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations appeared first on ERP Software Blog.\nMy 30-day experiment: Can I Run My Small Business on Dynamics 365? \nInnovations in equipment lifecycle management (ELM) for rental and services industries \nThe Critical Entities in the Sales Module of Dynamics 365",
           "link": "https://www.erpsoftwareblog.com/2021/12/enable-business-events-using-power-automate-in-microsoft-dynamics-365-for-finance-and-operations/",
           "publishedOn": "2021-12-24T04:22:11.000Z",
-          "wordCount": 3139,
+          "wordCount": 3141,
           "title": "Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations"
         },
         {
@@ -1560,15 +1569,6 @@
           "publishedOn": "2021-11-05T13:42:00.000Z",
           "wordCount": 1814,
           "title": "Holiday season eCommerce and marketing ideas to boost your sales"
-        },
-        {
-          "id": "https://www.erpsoftwareblog.com/?p=84317",
-          "author": "Tipalti",
-          "description": "On October 13 and 14th, Tipalti kicked off its first-ever Illuminate conference. Leadership-focused breakout sessions, networking opportunities, improv, and iconic keynote speakers—including tennis pro Venus Williams, and undercover agent Robert Mazur—provided a lot of learnings to take home. The main theme of the COVID era is going radically virtual—businesses are relying on innovative technology and …\n  Key Take-Aways from Tipalti’s Inaugural Illuminate Conference Read More »\nThe post Key Take-Aways from Tipalti’s Inaugural Illuminate Conference appeared first on ERP Software Blog.\nHow to Reduce the Functional Distance Between the Central and Branch Offices \nEnhance Business Portal Workflow with U-LINC® \nIs Your eCommerce Store Achieving Budgeted Sales Targets?",
-          "link": "https://www.erpsoftwareblog.com/2021/11/key-take-aways-from-tipaltis-inaugural-illuminate-conference/",
-          "publishedOn": "2021-11-04T00:21:29.000Z",
-          "wordCount": 1846,
-          "title": "Key Take-Aways from Tipalti’s Inaugural Illuminate Conference"
         }
       ]
     },
