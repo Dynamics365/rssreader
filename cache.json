@@ -11,7 +11,7 @@
           "description": "While doing upgrade to the latest version Dynamics 365 Finance & Operations on tier 1 environment, you might got some errors related to DVT auto scripts.\n1. DVT script for service model: AOSService on machine\nAn error at step 72\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n\n\n\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Step>\n   <ID>72</ID>\n   <RunbookID>498de9aee46e403e9dcd97b40166775e</RunbookID>\n   <PackageId>dd4119e4331248d5a6ba9b987eef440d</PackageId>\n   <PackageType>PlatAppBinaryHotfixPackage</PackageType>\n   <CompletedManually>false</CompletedManually>\n   <Description>DVT script for service model: AOSService on machine: </Description>\n   <MachineName></MachineName>\n   <ServiceModelName>AOSService</ServiceModelName>\n   <ScriptToExecute>\n      <FileName>AutoRu…",
           "link": "https://nuxulu.com/2021-12-21-troubleshooting-dvt-script-for-service-model/",
           "publishedOn": "2021-12-21T00:00:00.000Z",
-          "wordCount": 577,
+          "wordCount": 580,
           "title": "Troubleshooting DVT script for service model - Dynamics 365 Finance & Operations Tier 1 Upgrade"
         },
         {
@@ -20,7 +20,7 @@
           "description": "1. New Keyboard Shortcuts in Windows 11\nWindows 11 brings a few Keyboard Shortcuts for accessing its cool new features such as widgets, snap layouts, action center, and quick settings.\nFYI, Win key is the Windows Logo key on your keyboard.\nACTION\nSHORTCUTS KEYS\n\n\n\n\nOpen up the Widgets pane. It supplies you with the weather forecast, local traffic, news, and even your calendar.\nWin + W\n\n\nToggle up the Quick Settings. It controls the Volume, Wi-Fi, Bluetooth, Brightness sliders, Focus Assist, and other settings.\nWin + A\n\n\nBring up the Notification Center. It shows all your notifications in the OS.\nWin + N\n\n\nOpen the Snap Layouts flyout. It helps you organize apps and windows for multitasking.\nWin + Z\n\n\nOpen Teams Chat app from Taskbar. It helps you quickly select a chat thread directly from …",
           "link": "https://nuxulu.com/2021-11-05-windows-key-shortcuts/",
           "publishedOn": "2021-11-05T00:00:00.000Z",
-          "wordCount": 2279,
+          "wordCount": 2282,
           "title": "Windows keyboard shortcuts"
         },
         {
@@ -29,7 +29,7 @@
           "description": "Subject Area Object Prefix\nA subject area specific application object is prefixed with the name of the subject area the object belongs to, for example Cust*, Invent*, Ledger*, Proj*, Vend*.\nExample\n        \nWMSOrderSplit\nCustBankAccount\nCustBalanceCurrency\nInventAccountType\nApplication Area Object Prefix\nAn application area object is prefixed with the name of the application area the object belongs to.\nExample\n        \nAif*\nSys*\nWhen creating new elements, ensure that you follow the recommended naming conventions. Any future development and maintenance will be much easier.\nAx Microsoft Dynamics AX typed data source\nAxd Microsoft Dynamics AX business document\nAsset Asset management\nBOM Bill of material\nCOS Cost accounting\nCust Customer\nDir Directory, global address book\nEcoRes Economic resources\nHRM/HCM Human resources\nInvent Inventory management\nJMG Shop flor control\nKM Knowledge management\nLedger General ledger\nPBA Product builder\nProd Production\nProj Project\nPurch Purchase\nReq Requirements\nSales Sales\nSMA Service management\nSMM Sales and marketing management, also called customer relationship management (CRM)\nSys Application frameworks and development tools\nTax Tax engine\nVend Vendor\nWeb Web framework\nWMS Warehouse management",
           "link": "https://nuxulu.com/2021-10-20-common-prefixes-dyanmics-ax/",
           "publishedOn": "2021-10-20T00:00:00.000Z",
-          "wordCount": 269,
+          "wordCount": 272,
           "title": "Naming Conventions - Common Prefixes Dyanmics AX"
         },
         {
@@ -38,7 +38,7 @@
           "description": "Go to the directory and run the following command:\nfor /f \"Tokens=*\" %f in ('dir /l/b/a-d') do (rename \"%f\" \"%f\")\nfor /f “Tokens=*” %%f in (‘dir /l/b/a-d’) do (rename “%%f” “%%f”)\nrename folders\nfor /f \"Tokens=*\" %f in ('dir /l/b') do (rename \"%f\" \"%f\")\nRecursive version (added /r to dir)\nfor /f \"Tokens=*\" %f in ('dir /l/b/a-d/s') do (rename \"%f\" \"%f\")",
           "link": "https://nuxulu.com/2021-10-10-batch-rename-files-to-lowercase/",
           "publishedOn": "2021-10-10T08:29:41.000Z",
-          "wordCount": 148,
+          "wordCount": 151,
           "title": "Batch rename files to lowercase?"
         },
         {
@@ -47,7 +47,7 @@
           "description": "Introduction to Office client customization with add-ins\nExplain how Office add-ins extend and customize Office applications\nDescribe the development tooling, APIs, and deployment of Office add-ins\nUnderstand how to incorporate data with Microsoft Graph and extend Office applications with add-ins using the Office UI Fabric\n1. Understand Office add-ins fundamentals\n1.1. Understand task pane and content add-ins\n1.1.1. Task pane add-ins\nTask pane add-ins allow user interaction through a panel displayed within an Office application. Through the task pane interface, you can enable the user to modify documents or emails, view data from a data source, and more. In the following image, the task pane is the panel that’s displayed to the right of the document.\n\nIn newer versions of Word, Excel, and …",
           "link": "https://nuxulu.com/2021-10-07-extend-microsoft-365/",
           "publishedOn": "2021-10-08T00:00:00.000Z",
-          "wordCount": 6571,
+          "wordCount": 6574,
           "title": "Extend Microsoft 365 with office add-ins"
         },
         {
@@ -56,7 +56,7 @@
           "description": "1. Install\nConfigure user information for all local repositories\n$ git config --global user.name \"[name]\"\nSets the name you want attached to your commit transactions\n$ git config --global user.email \"[email address]\"\nSets the email you want attached to your commit transactions\n$ git config --global color.ui auto\nEnables helpful colorization of command line output\n2. Branches\nbraching\n\">\n        \n    Branching\n    \nBranches are an important part of working with Git. Any commits you make will be made on the branch you’re currently “checked out” to. Use git status to see which branch that is.\n$ git branch [branch-name]\nCreates a new branch\n$ git switch -c [branch-name]\nSwitches to the specified branch and updates the working directory\n$ git merge [branch]\nCombines the specified branch’s histo…",
           "link": "https://nuxulu.com/2021-10-08-git-cheatsheet/",
           "publishedOn": "2021-10-08T00:00:00.000Z",
-          "wordCount": 996,
+          "wordCount": 999,
           "title": "Git & Github cheatsheet"
         },
         {
@@ -65,7 +65,7 @@
           "description": "ODATA actions in Data Entities provide a way to inject behaviors into the data model, or expose custom business logic from Dynamics 365 Finance & Operations.\nYou can add actions by adding a method to the data entity and then decorating the method with specific attributes [SysODataActionAttribute]\nI use this Odata actions mostly in automation job like after refreshing data from PROD to UAT, we need to enable users, assign company to users, enable batches …\nOr simply consume it in Power Automate.\n1. Create an action to OData entity\nYou can create a new entity following this standard docs\nor you can duplicate any standard entity. I created AutomationDataEntity. Right-click the enitity, select View code and add the code\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24…",
           "link": "https://nuxulu.com/2021-05-25-all-about-odata-actions-in-dynamics-365-finance-and-operations/",
           "publishedOn": "2021-05-25T00:00:00.000Z",
-          "wordCount": 1039,
+          "wordCount": 1042,
           "title": "All about Odata actions in Dynamics 365 Finance And Operations"
         },
         {
@@ -74,7 +74,7 @@
           "description": "Open Windows PowerShell in Admin mode\nNavigate to the PowerShell scripts\n\n\n\n1\n\n\n\ncd K:\\AosService\\PackagesLocalDirectory\\Plugins\\AxReportVmRoleStartupTask\\\n\n\n\n\n\nExecute the below commands:\nFor deploying all SSRS reports\n\n\n\n1\n\n\n\n./DeployAllReportsToSSRS.ps1 -PackageInstallLocation “K:\\AosService\\PackagesLocalDirectory”\n\n\n\n\n\nFor deploying the specific reports\n\n\n\n1\n\n\n\n./DeployAllReportsToSSRS.ps1 -Module ApplicationSuite -ReportName <ReportName> -PackageInstallLocation “K:\\AosService\\PackagesLocalDirectory”\n\n\n\n\n\nExample:\n\n\n\n1\n\n\n\n./DeployAllReportsToSsrs.ps1 -Module MaxCustomization -ReportName MaxCheque_US.Report -PackageInstallLocation \"K:\\AosService\\PackagesLocalDirectory\"\n\n\n\n\n\n\n\n\n1\n\n\n\n./DeployAllReportsToSsrs.ps1 -Module ApplicatoinSuite -ReportName Cust* -PackageInstallLocation \"C:\\AosService\\PackagesLocalDirectory\"",
           "link": "https://nuxulu.com/2021-01-27-deploy-ssrs-reports-in-dynamics-365-finance-scm-using-powershell/",
           "publishedOn": "2021-01-17T00:00:00.000Z",
-          "wordCount": 161,
+          "wordCount": 164,
           "title": "Deploy SSRS reports in Dynamics 365 Finance, SCM using Powershell"
         },
         {
@@ -83,7 +83,7 @@
           "description": "Microsoft provides a versioned set of capabilities that you can currently use to copy databases between environments, and to list and download database backups.\nwhat you can do with Database movement API so far:\nList database backups\nCreate database refresh\nCreate a database export\nGet operation activity status\nMore supported actions will be added in later releases.\nThe endpoint uses impersonation authentication base, please follow to register a new application by using the Azure portal\n1. Postman environment setup\nOpen Postman -> manage environments -> Add\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n\ntenant_id: {tenant_id get from AAD}\nclient_id: {get from the application that you have created before}\nclient_secret: {get from the application that you have created before}\nusername: {LCS user name with owner pe…",
           "link": "https://nuxulu.com/2020-08-17-testing-dynamics-365-finance-database-movement-api-with-postman/",
           "publishedOn": "2020-08-17T00:00:00.000Z",
-          "wordCount": 537,
+          "wordCount": 540,
           "title": "Testing Dynamics 365 Finance Database Movement API with Postman"
         },
         {
@@ -92,7 +92,7 @@
           "description": "Today, we published the 2020 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform, a compilation of new capabilities that will be released between October 2020 and March 2021. This second release wave of the year offers hundreds of new features and enhancements, demonstrating our continued investment to power digital transformation for our customers and partners.\nHighlights from Dynamics 365\nDynamics 365 Sales includes updates for more simplified experiences; including collaboration tools, a new mobile experience for quick access to customer information, and new enhancements to forecasting to natively create and manage bottom-up sales forecast processes.\nDynamics 365 Sales Insights continues investments in digital selling across multiple areas: sales acceleration, c…",
           "link": "https://nuxulu.com/2020-08-15-dynamics365/",
           "publishedOn": "2020-08-15T00:00:00.000Z",
-          "wordCount": 1607,
+          "wordCount": 1610,
           "title": "Microsoft Dynamics 365"
         }
       ]
