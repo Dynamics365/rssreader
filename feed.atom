@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-01-04T01:03:52.531Z</updated>
+    <updated>2022-01-05T03:28:37.816Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How modern technology is enabling a better approach to lean in todays volatile market]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:349ea6ff-034f-4a15-a1e4-cea060a576ad</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/how-modern-technology-is-enabling-a-better-approach-to-lean-in-todays-volatile-market"/>
+        <updated>2022-01-04T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amidst lingering supply-chain
+shocks, have Lean methods left manufacturers more vulnerable? Has a
+just-in-time mentality led to too little stock to weather demand
+spikes? Have firms developed an over-dependence on distant
+suppliers?
+ These are reasonable... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sa.global grows Americas unit with acquisition of Microsoft partner Dynamic Consulting]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:76c60d91-9c88-4d2a-b1b3-bf391b52faf7</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/sa-global-grows-americas-unit-with-acquisition-of-microsoft-partner-dynamic-consulting"/>
+        <updated>2022-01-04T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft partner 
+ sa.global announced it
+has acquired US-based Dynamic Consulting. The deal grows
+sa.global's Americas business, with Dynamic Consulting president
+Jonathan Stypula becoming president of the Americas for
+sa.global. 
+ Dynamic Consulting... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Apps portals : Introducing the portals search powered by Microsoft Dataverse search API  (preview)]]></title>
+        <id>powerapps-portals-introducing-the-portals-search-powered-by-microsoft-dataverse-search-api-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/powerapps-portals-introducing-the-portals-search-powered-by-microsoft-dataverse-search-api-preview/"/>
+        <updated>2022-01-03T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the portals search powered by Dataverse search API now available for public preview.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Microsoft Dynamics 365 and Power Platform articles of 2021]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:64e7908d-08df-450c-a8a3-558593976c76</id>
@@ -18,6 +59,148 @@ Microsoft, it should perhaps be no surprise that some of the most
 well-read... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How efficiently you can use Warehouse Labels with Advanced WMS?]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d61c4a8f-0a32-495e-a05b-71c4632e1df2</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-efficiently-you-can-use-warehouse-labels-with-advanced-wms"/>
+        <updated>2021-12-30T10:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Warehouse labels can help you streamline operations and increase overall productivity if they are used effectively. Storage facilities tend to be of considerable size, and stock items can be challenging to find if there are no labels to guide employees to their whereabouts. Without these labels, it would be nearly impossible to find any item in a storage facility efficiently.
+This article will discuss what kinds of warehouse labels are in use right now and how to use them effectively with an Advanced WMS to save time and effort in locating items.
+Here are some of the different types of Warehouse Labels:
+Floor Labels
+Retro-Reflective Labels
+Magnetic Labels
+Warehouse Bin Labels
+Rack Labels
+Cold Storage Labels
+How efficiently you can use Warehouse Labels.
+Here are some tips on how to efficien…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lock Down Your ERP System with Microsoft 365]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8d2cab0a-e365-435d-9d28-69f9458f2065</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/lock-down-your-erp-system-with-microsoft-365"/>
+        <updated>2021-12-29T19:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Leverage the powerful security features within Microsoft 365 to detect and prevent internal data leaks from occurring.
+Your ERP (Enterprise Resource Planning) system spans your entire business—from customer service and human resources to financials and sales. Here lives an enormous amount of sensitive information that your entire organization has easy access to. Because of this, your ERP system is incredibly vulnerable to security breaches and internal data leaks. 
+While external security threats pose their own risk, some of the most harmful breaches happen internally. Whether it’s accidental or intentional, an internal data leak could be devastating to your business. 
+Take, for example, the City of Calgary. In 2017, the company was sued for $92.9 million after a data breach impacted over …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:91fc7f3f-b657-4cf6-a06a-0bbf8f1545a0</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/enable-business-events-using-power-automate-in-microsoft-dynamics-365-for-finance-and-operations"/>
+        <updated>2021-12-24T04:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations - Part 2/2 Series
+ 
+Approval for Free Text Invoice using Business Events
+In this section, we will discuss about a use case scenario and how we can achieve it using Business events. The use case is whenever a customer free text invoice is generated, it will be sent to the manager for approval. The workflow used in this section is out-of-the-box Customer free text invoice workflow, which is used with Business events for approval. By using Business events, the manager can directly approve or reject the workflow from his/her email or from Microsoft teams. The manager can also add comments which will be brought to D365 F&O.
+To begin, we will first configure the workflow for customer free text invoic…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manufacturers: Select between Business Central Premium and Essential Licensing]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:731c968e-d697-47fd-9c08-595d14c28a96</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/manufacturers-select-between-business-central-premium-and-essential-licensing"/>
+        <updated>2021-12-23T18:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Business Central is the latest version of the Dynamics NAV product, which is the best option for Dynamics NAV customers who want a modern and affordable solution. Dynamics 365 Business Central is in two versions i.e., Business Central Essentials and Business Central Premium. If you are running a manufacturing business then it is important to understand the difference between these two versions to ensure you get the solution that addresses your needs. In this blog post, we are covering the differences between these two versions of Business Central for Manufacturing that are relevant to making the right decision.
+The differences between Dynamics 365 Business Central Essentials and Premium
+Before discussing what version of Business Central for manufacturing is best for …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now Playing: MxAPS vs the Business Central Production Schedules]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:79fddb5f-be39-4698-8e75-908b3fd3e035</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/now-playing-mxaps-vs-the-business-central-production-schedules"/>
+        <updated>2021-12-23T17:16:25.000Z</updated>
+        <summary type="html"><![CDATA[If you’re having trouble finding something on Netflix to binge-watch, then look no further than the six-part series from Insight Works. MxAPS is an exciting, advanced finite capacity scheduling app for Dynamics 365 Business Central. It’s a feel-good app for the whole manufacturing world. It brings to life automated production schedules. See the transformation of production planning and scheduling from an inaccurate and time-consuming task into a responsive, repeatable, and highly accurate decision support activity. Users give it two thumbs up.
+Episode One
+Episode Two
+Episode Three
+Episode Four
+Episode Five
+Episode Six
+Watch the Full Length Feature Film
+
+The post Now Playing: MxAPS vs the Business Central Production Schedules appeared first on ERP Software Blog.
+Related posts:
+Moving to Dynamics 365 Business Central? Not Thinking Ahead Could Cost You 
+Free App Making Printing from Business Central Cloud Easy 
+The Must-Have Business Central App for those with Inventory]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Branch Wallet & Card for Employee Empowerment Through Workforce Payments]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:43c50e14-5ee9-49a2-852d-f3861af40182</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/branch-wallet-card-for-employee-empowerment-through-workforce-payments"/>
+        <updated>2021-12-23T05:49:33.000Z</updated>
+        <summary type="html"><![CDATA[At Greenshades, we’re committed to the empowerment of employees through financial inclusion. For two decades, we have provided exceptional automated payroll, tax, compliance, and HR solutions. Recently, we partnered with Branch, a workforce payments platform.  We collaborate on innovative ideas for solving the financial challenges for millions of American workers.  Now we can offer workers zero-fee debit cards, checking accounts, and digital wallets. Employers can give their workers a faster, more efficient direct deposit option. If you are interested in providing your employees with better tools for receiving money and handling it wisely, Greenshades and the Branch Wallet and Card is the place to start.
+The Branch Wallet and Card gives employees a fast, efficient, and convenient method fo…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking JSON input with D365 service and deserialize into contract objects]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d2b41f4d-4627-423c-8219-a37d92eca0dd</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/taking-json-input-with-d365-service-and-deserialize-into-contract-objects"/>
+        <updated>2021-12-23T01:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently I wanted to create a custom serivce in D365 taking in a JSON input. I did my usual google search but ended up needing additional trial and error to complete the use case. Here I'll share the solution I have.. 
+Firstly, create a contract class which represent the a Json object 
+ 
+/// <summary>
+/// The Student Information object contains the Student ID and Name
+/// </summary>
+[DataContractAttribute]
+class StudentInfoContract
+{
+    str studentId;
+    str studentName;
+    [DataMemberAttribute("Student Id")]
+    public str parmStudentId(str _studentId = studentId)
+    {
+        studentId = _studentId;
+        return studentId;
+    }
+    [DataMemberAttribute("Student Name")]
+    public str parmStudentName(str _studentName = studentName)
+    {
+        studentName = _studentName;
+        …]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make 2022 The Year of Process Improvement]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:7b44606b-3689-4605-8ce9-dbe11e8697be</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/make-2022-the-year-of-process-improvement"/>
+        <updated>2021-12-22T14:00:54.000Z</updated>
+        <summary type="html"><![CDATA[2022 is almost here!  As this year comes to a close, have you thought about what business processes you want to focus on and improve in 2022? 
+We can get so caught up in the day-to-day tasks we often forget to take a step back and analyze process improvement. 
+I mean who doesn’t want to: 
+Decrease manual entry 
+Reduce costs to process an invoice 
+Ship fast and in the least expensive way 
+Let’s dive into how AvidXchange, Blue Moon Industries, and V-Technologies can help you automate AP processing, balance your checkbook at the GL level with ease, and automate freight, drop shipping, international, and HazMat. 
+Survey Says 
+AvidXchange surveyed 500 middle market businesses to better understand financial and technological trends following the pandemic. They wanted to know how leaders have shi…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
         </author>
     </entry>
     <entry>
@@ -34,6 +217,50 @@ the Nasdaq 
 deals have become routine in the Microsoft Business Applications... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Finance is a Gamechanger for Distributors]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:fa0b321d-f864-4c7b-86e5-a82582d77367</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/dynamics-365-finance-is-a-gamechanger-for-distributors"/>
+        <updated>2021-12-21T23:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Cloud technology has come into its own. If you are running a distribution business, you know there are many moving parts to your operations. Do you struggle with a variety of inefficient systems and applications to run your business?  A fully-integrated solution, Dynamics 365 Finance and Supply Chain Management operating on a unified cloud platform, will be a gamechanger.
+For over three decades, our team at Western Computer has been deeply committed to helping distributors be successful. We recognize the need for technology that empowers distributors to be agile, lean, and competitive. The Dynamics 365 platform has proven truly transformational for many of our clients. We believe it can help you too.
+One integrated ERP solution stands above the rest for distributors in terms of functionali…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Year-End Update for Microsoft Dynamics GP]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:46fd4eb0-b266-4f9b-b318-709cdf5ae214</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/year-end-update-for-microsoft-dynamics-gp"/>
+        <updated>2021-12-21T19:25:28.000Z</updated>
+        <summary type="html"><![CDATA[It’s our favorite time of year, the holidays and closing the books for GP!
+To help guide you into the new year with GP, we've put together some helpful updates and resources:
+Important 2021 Tax Filing Dates
+January 31, 2022 – to employees and IRS/SSA
+W-2s, EFW2
+1099s – If you need help with 1099s, check out our 1099 Xport tool for GP
+1095-Cs to employees
+March 31, 2022:
+ACA e-filing to deadline to IRS
+Microsoft is waiting for the IRS to publish the final 2022 tax tables.  At that point, they will review and prepare for all the Round 1 tax changes – bookmark the Dynamics GP tax page to keep an eye on any updates available.
+GP Year-end Closing Seminar
+If you were not able to join us on our GP year-end closing webinar, you can watch the recording of the webinar and download a copy of the pres…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can Microsoft Dynamics GP Promote Business Growth?]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2e47c346-e7f8-4404-ac13-d07bee4d5a1d</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-can-microsoft-dynamics-gp-promote-business-growth"/>
+        <updated>2021-12-21T16:19:37.000Z</updated>
+        <summary type="html"><![CDATA[By standardizing on one accounting platform with integrated business and financial services components, Microsoft Dynamics GP 2018 can help your company drive out the inefficiencies of managing disparate systems. They now spend less time on maintenance, and the need for training to support multiple systems has diminished, freeing up IT resources for more strategic IT development projects. This drive towards a single system provides operational efficiencies through standardization plus economies of scale that were previously unachievable. 
+The most important aspects are the finance and accounting functions and Microsoft Dynamics can help shape and improve the workings of the business, and finance leaders must make sure that their staffs are able to maximize contributions to the security and…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
         </author>
     </entry>
     <entry>
@@ -104,6 +331,77 @@ An error at step 72
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Connect your Company with Microsoft Business Central]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bbe3332b-88bf-4e2e-a7ab-1d224aa08fb7</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/connect-your-company-with-microsoft-business-central"/>
+        <updated>2021-12-20T20:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Your legacy, on-premises solution helped you run your business for many years. However, in the era of digital transformation, modern cloud-based business solutions can help take your company to new heights through advanced cloud business ERP technology.  Organizations struggling to meet customer demands and also their own internal operations are quickly realizing that modern ERP solutions can help meet their business requirements and bring about much greater synergies.  In addition, top Cloud ERP systems such as Microsoft Business Central can reduce long-term software costs, decrease dependency on IT, optimize operations and customer experiences through predictive analytics, AI, and data visualizations.
+Microsoft Business Central's single ERP solution brings your data and processes together to manage a wide around of business functionality across the Enterprise with core functionality listed below:
+Advanced Financials
+Inventory and Supply Chain Management
+Sales and Marketing/CRM
+Project Management
+Warehouse Management
+Manufacturing
+Microsoft AppSource Integration (1,500+ business functionality apps)
+Discover and Learn More about the advantages of an "all-in-one" business enterprise solution to connect your company.
+Learn more about Microsoft Dynamics 365 Business Central
+Download the current Microsoft Business Central Capabilities Guide
+Get an Instant Estimate on Microsoft Business Central
+Posted by iCepts Technology Group, Inc. a Microsoft Dynamics 365 Business Central partner in Pennsylvania 
+The post Connect your Company with Microsoft Business Central appeared first on ERP Software Blog.
+Related posts:
+Recurring Journal Entries in Microsoft Dynamics 365 Business Central 
+The Sales Process in Microsoft Dynamics 365 Business Central 
+How to Create Purchase Credit Memo in Business Central]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Importance of advanced quality management in Pharmaceutical Manufacturing]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9e6ae935-dd06-45d3-a54f-a8f90fc51afd</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/importance-of-advanced-quality-management-in-pharmaceutical-manufacturing"/>
+        <updated>2021-12-20T19:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Quality management within the Pharmaceutical manufacturing trade is somewhat necessary due to the criticality of the functions involved particularly when it is concerning life. The poor quality of the drugs will place one life to risk. The process of quality management matters from the initial stage itself i.e. manufacturing.
+Choosing a Pharmaceutical QMS is an important decision when it comes to the life of an individual. A structured system can help manage all the records, workflows, and processes in a certain order that may eventually improve overall product quality.
+Importance of Quality Management in Pharmaceutical Manufacturing
+Ensures superior quality products and services
+Essential for customer loyalty
+It ensures increased revenues and higher productivity
+Ways pharmaceutical manufa…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Reduce Costs with Master Data Management]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:817b75e9-3899-4b87-829d-03256439c0b8</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-reduce-costs-with-master-data-management"/>
+        <updated>2021-12-20T12:43:08.000Z</updated>
+        <summary type="html"><![CDATA[It is no secret that the coronavirus pandemic has drastically disrupted the global economy, compelling CEOs and IT leaders to readjust business priorities and to strive for more cost-effective ways to run their operations efficiently. They are actively seeking technological solutions that can maximize their ROIs, while reducing avoidable operational, regulatory and labor costs. Since high quality data is indispensable when it comes to enhancing business performance and making informed business decisions, investing in a master data management tool is likely to be a business manager’s best choice in reducing business costs and improving the quality of reliable business-critical data.
+But what is Master Data Management? And what do you mean by a Master Data Management solution?
+Master Data Ma…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Favorite StockIQ Supply Chain Planning Improvements & Features for 2021]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ff5068e9-7283-4044-8531-63cbc79c7b22</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/8-favorite-stockiq-supply-chain-planning-improvements-features-for-2021"/>
+        <updated>2021-12-17T20:10:15.000Z</updated>
+        <summary type="html"><![CDATA[StockIQ Technologies clients recently had the opportunity to attend learning sessions, presented by Jeff Woodmansee and Jeffrey Porter, highlighting new and improved 2021 StockIQ features. We polled our clients to reveal the favorite new features.
+Favorite 2021 StockIQ Features
+ 
+StockIQ Playbook - A StockIQ Playbook that outlines basic strategies, best practices, and "red flags" to be aware of.
+Service Level Optimization - New and updated in the Inventory module, the Service Level Optimization module allows you to optimize your service level targets on a specific part-by-part basis, using a given budget for your warehouse's safety stock level.
+Auto-Ordering Filters - You can now set up filters for each auto-ordering combination to include and exclude items for a particular supplier-site o…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Thoma Bravo to acquire financial automation vendor Bottomline Technologies]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c1534fba-5e53-4290-ae49-1ba7787ca2bc</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/thoma-bravo-to-acquire-financial-automation-vendor-bottomline-technologies"/>
@@ -115,6 +413,20 @@ billion
  Thoma Bravo shareholders will receive $57 per share as part... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Reasons to Safeguard Your Business with AP Automation and Sales Tax Compliance]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d5025143-d7b9-4f70-8dae-a228623567df</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/4-reasons-to-safeguard-your-business-with-ap-automation-and-sales-tax-compliance"/>
+        <updated>2021-12-17T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Are you missing or losing invoices? Have you created nexus in the last year?  
+In this blog post, Yooz and Avalara discuss how cloud-based AP automation and sales tax compliance can safeguard your business. They both will help you reap the benefits from automation and improve visibility into unpaid invoices & improve customer experience. 
+Reason 1 – Inconsistent Processes Create Challenges
+The most prominent challenges in AP are manual data entry, invoice-to-payment matching, lost and duplicate invoices, and an inconsistent organizational AP process. Many of these challenges are frequently seen by those using a manual AP process and are exactly what AP automation software is designed to address.  
+Inadequate or outdated technology is another big challenge for AP departments of all sizes, p…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
         </author>
     </entry>
     <entry>
@@ -222,6 +534,34 @@ If ...(read more)]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[check query cue time]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:7ecd10c5-5363-43cd-b6a6-9aaf32557c2e</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/check-query-cue-time"/>
+        <updated>2021-12-08T15:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Below a short piece of code for checking duration of queries in cue (AX 2009)
+
+
+
+static void RefreshCueCache(Companyid _curr = curext()){cueRun cueRun;cuesQuery cueQuery;int start, stop, interval, re...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X++ create date starting from year and week number]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:07ccbf48-a9e8-44ad-b433-6c2cdecbdeb9</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/x-create-date-starting-from-year-and-week-number"/>
+        <updated>2021-12-08T15:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Elaborating materials present in other parts, below a short piece of code for create a first date of week starting from the number of year and the number of week.
+
+
+
+public static date Week2Date(int ...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Improving sales conversion by placing products directly in your customer’s space with Mixed Reality]]></title>
         <id>improving-sales-conversion-by-placing-products-directly-in-your-customers-space-with-mixed-reality</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/improving-sales-conversion-by-placing-products-directly-in-your-customers-space-with-mixed-reality/"/>
@@ -273,6 +613,30 @@ Inquiries
 Embedded analyti...(read more)]]></summary>
         <author>
             <name>Rahul Mohta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Release Notes for your (D365) Azure DevOps – project]]></title>
+        <id>http://d365fostuff.wordpress.com/?p=110</id>
+        <link href="https://d365fostuff.wordpress.com/2021/12/01/automated-release-notes-for-your-d365-azure-devops-project/"/>
+        <updated>2021-12-01T20:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Ever since I used Azure DevOps (or visualstudio.com or VS online) as a version control system and to build and release Dynamics AX code to different environments, I wanted a neat and simple way to auto generate release notes. So this time I want to show you, how we can use Azure DevOps to auto […]]]></summary>
+        <author>
+            <name>Marijan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Finance Operations Data Event Catalog - Power Platform Convergence]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:61a780fd72d9076cd4ae2d78</id>
+        <link href="https://www.powerazure365.com/blog-1/dynamics-365-finance-operations-data-event-catalog"/>
+        <updated>2021-12-01T14:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Hello the Community, long time no post, but so much to talk about now with 
+a lot of new features coming or just showing up several weeks ago. Time for 
+me to deep dive into it and explain how much this is so exciting for you, 
+especially this new post which again demonstrates the important convergence 
+between Finance Operations and Power Platform : once more time. Let’s go !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>
@@ -335,16 +699,6 @@ help.
 Connecting Software is one such firm in the Microsoft... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do more with data  From Data Export Service to Azure Synapse Link for Dataverse]]></title>
-        <id>do-more-with-data-from-data-export-service-to-azure-synapse-link-for-dataverse</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/do-more-with-data-from-data-export-service-to-azure-synapse-link-for-dataverse/"/>
-        <updated>2021-11-23T23:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are announcing deprecation of Data Export Service (DES); an add-on feature available via Microsoft AppSource which provides the ability to replicate data from Microsoft Dataverse to an Azure SQL store in a customer-owned Azure subscription. Data Export Service will continue to work and will be fully supported until it reaches end-of-support and end-of-life a year from this announcement date, in November 2022. This notice is to allow you sufficient time to plan and onboard to Azure Synapse Link for Dataverse which is a successor to Data Export Service.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -419,6 +773,16 @@ You can find the documentation on the Automated vendor inv...(read more)]]></sum
         <summary type="html"><![CDATA[When you deploy a Dynamics 365 for Finance & SC cloud-hosted one-box environment, the SSL certificate will be valid for a year. After that, you will need to rotate certificates. Credential rotatio...(read more)]]></summary>
         <author>
             <name>Said Nikjou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Push your MsDyn365FO deployable package to Azure Artifacts as NuGet packages]]></title>
+        <id>https://msdyn365fo.wordpress.com/?p=522</id>
+        <link href="https://msdyn365fo.wordpress.com/2021/11/18/how-to-push-your-msdyn365fo-deployable-package-to-azure-artifacts-as-nuget-packages/"/>
+        <updated>2021-11-18T07:39:34.000Z</updated>
+        <summary type="html"><![CDATA[After an abstinence from blogging, today I found some time to create a new post about a topic I recently discussed with other folks from the community on Yammer. I was quite busy with other topics because of a longer parental leave phase and also some speaker engagements, so you will see session from me … Continue reading How to Push your MsDyn365FO deployable package to Azure Artifacts as NuGet packages →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
         </author>
     </entry>
     <entry>
@@ -989,38 +1353,6 @@ Combines the specified branch’s histo…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9altitudes to acquire Microsoft partner Hillstar BI]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:02574316-d3bd-4199-bc7c-d02782a62e9a</id>
-        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/9altitudes-to-acquire-microsoft-partner-hillstar-bi"/>
-        <updated>2021-10-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[9altitudes group has entered into an agreement to acquire
-Hillstar Business Intelligence, the companies announced. 
- 
- Hillstar is a
-Netherlands-based Microsoft Gold partner for Data Analytics and
-Datacenter and is focused on providing BI services... Read the full text.]]></summary>
-        <author>
-            <name>MSDynamicsWorld.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSDW Podcast: Optimizing Dynamics 365 projects with business process modelling]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:745be24b-12d0-4e3e-a2de-318aeae550fa</id>
-        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-optimizing-dynamics-365-projects-with-business-process-modelling"/>
-        <updated>2021-09-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This episode is sponsored by 
- Mavim . 
- 
- 
- Business process modelling touches nearly every element of a
-Dynamics 365 ERP or CRM project, from the customer's requirements
-and goals to a partner's pre-sales engagement to Microsoft's own
-platform... Read the full text.]]></summary>
-        <author>
-            <name>MSDynamicsWorld.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Event log error of soap web service in axapta to D365FO]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3f819d65-06a1-46e7-ad43-95ef37c4f303</id>
         <link href="https://community.dynamics.com/ax/b/technicaltutorialsformsdynamicsax2012/posts/event-log-error-of-soap-web-service-in-axapta-to-d365fo-429107261"/>
@@ -1241,6 +1573,16 @@ CompanyInfo companyInfo = CompanyInfo::find();
  info(strFmt("%1",companyInfo.postalAddress().Address));]]></summary>
         <author>
             <name>SANTOSH KUMAR SINGH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate Flow to fetch LCS environment metadata]]></title>
+        <id>http://d365fostuff.wordpress.com/?p=262</id>
+        <link href="https://d365fostuff.wordpress.com/2021/09/13/power-automate-flow-to-fetch-lcs-environment-metadata/"/>
+        <updated>2021-09-13T18:11:59.000Z</updated>
+        <summary type="html"><![CDATA[In my first post we utilized the LCS API to start and stop cloud hosted environments via power automate. Since the API has evolved and we can now get environment metadata, environment history or the environment RSAT certificate, I decided to make another one. This time it’ll cover fetching the environment metadata through a power […]]]></summary>
+        <author>
+            <name>Marijan</name>
         </author>
     </entry>
     <entry>
@@ -1483,6 +1825,36 @@ For more information about Microsoft Dynamics AX 2012, visit http://www.microsof
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Filter fields type Date/Time (like Createddatetime) in query of Form]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e4114d6c-9544-40ff-b110-a59f33b67e49</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/filter-fields-type-date-time-like-createddatetime-in-query-of-form"/>
+        <updated>2021-07-23T11:55:01.000Z</updated>
+        <summary type="html"><![CDATA[Below a piece of x++ about the build of a filter related to the query of a form 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+ QueryBuildDataSource qbds;
+str rangestr, rangeStrFrom, rangeStrTo;
+str dateFrom, dateTo; 
+
+
+if(createdDateFrom...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[importing customer vendor addresses with roles from AX to D365FO  Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:94bdcc69-4cd2-4466-a275-a509bc9dee80</id>
         <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/importing-customer-vendor-addresses-with-roles-from-ax-to-d365fo-microsoft-dynamics-365-finance-and-operations"/>
@@ -1551,6 +1923,23 @@ https://community.dynamics.com/ax/f/microsoft-dynamics-ax-forum/194803/run-ssrs-
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SysOperationFramework - hide the batch tab]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d1fa18da-82ac-4d20-8e43-cc583631b29e</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/sysoperationframework---hide-the-batch-tab"/>
+        <updated>2021-07-09T07:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Got a requirement to hide the batch tab in a print report dialog. Took me longer to figure it out.  Anyway, in the end all I had to do was to call the showBatchTab method. 
+ 
+
+// Hide the batch tab
+controller.showBatchTab(false);
+
+ 
+This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Streamline Dynamics 365 Finance reports with RPA]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f7631cfe-b555-46b3-80a8-817af314d1f5</id>
         <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/streamline-dynamics-365-finance-reports-with-rpa"/>
@@ -1560,6 +1949,42 @@ https://community.dynamics.com/ax/f/microsoft-dynamics-ax-forum/194803/run-ssrs-
 When you integrate robotic process automation into the streamlined proc...(read more)]]></summary>
         <author>
             <name>Microsoft Dynamics Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Inventory Visibility]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:60dc2d2aee3ee846de96e669</id>
+        <link href="https://www.powerazure365.com/blog-1/dynamics-365-inventory-visibility"/>
+        <updated>2021-06-30T08:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Wanted to consume your inventory data (on hand) and send also change from 
+external system ? You want with Realtime and without decreasing performance 
+side of your ERP : Dynamics 365 Finance Operations. This new micro service 
+is for you ! Let's jump on how to configure it and use it directly in few 
+minutes after in Power Platform (Power Apps and Power Automate)]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batch not close elaboration]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ff4522fe-e2ff-4395-a320-8deee0d0be75</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/batch-not-close-elaboration"/>
+        <updated>2021-06-29T11:32:57.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone, after a long time here I am still writing about my experiences in AX. 
+
+Lately I had a problem with batch processing that although they ran the code inside the class they never changed...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error DMF2009 when exporting from MsDyn365FO to Excel]]></title>
+        <id>https://msdyn365fo.wordpress.com/?p=508</id>
+        <link href="https://msdyn365fo.wordpress.com/2021/06/29/error-dmf2009-when-exporting-from-msdyn365fo-to-excel/"/>
+        <updated>2021-06-29T06:36:56.000Z</updated>
+        <summary type="html"><![CDATA[In this blog I want to show, how you could find what exact error/exception is causing problems when exporting data from Microsoft Dynamics 365 for Finance and Operations via the DIXF (Data Import Export Framework) e. g. to Excel. I recently worked on a bug from one of my colleagues with the following repro steps: … Continue reading Error DMF2009 when exporting from MsDyn365FO to Excel →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
         </author>
     </entry>
     <entry>
@@ -1633,6 +2058,16 @@ A property for a journal batch number has more than one value. Update the journa
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MsDyn365SCM Inventory Visibility Add-in]]></title>
+        <id>https://msdyn365fo.wordpress.com/?p=493</id>
+        <link href="https://msdyn365fo.wordpress.com/2021/06/09/msdyn365scm-inventory-visibility-add-in/"/>
+        <updated>2021-06-09T06:34:57.000Z</updated>
+        <summary type="html"><![CDATA[In today’s blog I want to share my thoughts and my opinion on the ongoing public preview of the Microsoft Dynamics 365 for Supply Chain Management Inventory Visibility Add-in (https://docs.microsoft.com/en-us/dynamics365/supply-chain/inventory/inventory-visibility). “The Inventory Visibility Add-in is an independent and highly scalable microservice that enables real-time on-hand inventory tracking…” With the Inventory Visibility Add-in MsDyn365SCM or MsDyn365FO … Continue reading MsDyn365SCM Inventory Visibility Add-in →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Setup and end to end usage of ACH for vendor payment in Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:aa837492-6b56-48d9-8359-54c0b6003448</id>
         <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/setup-and-end-to-end-usage-of-ach-for-vendor-payment-in-microsoft-dynamics-365-finance-and-operations"/>
@@ -1684,6 +2119,16 @@ When we look at the VM with Disk Management we see a striped disk that has parti
         <summary type="html"><![CDATA[We have made the decision not to invest in transitioning the Russian payroll capabilities in Dynamics AX 2012 R3 over to Dynamics 365. However, we’ll continue to support existing Russian payroll capabilities for organizations on an Enhancement Plan during...(read more)]]></summary>
         <author>
             <name>Sergey Shvedov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reduce the amount of clicks to access the MsDyn365FO developer tools in Visual Studio]]></title>
+        <id>https://msdyn365fo.wordpress.com/?p=483</id>
+        <link href="https://msdyn365fo.wordpress.com/2021/05/27/reduce-the-amount-of-clicks-to-access-the-msdyn365fo-developer-tools-in-visual-studio/"/>
+        <updated>2021-05-27T08:19:03.000Z</updated>
+        <summary type="html"><![CDATA[In this blog I want to share with you, how you can reduce the amount of clicks needed to access the Microsoft Dynamics 365 for Finance and Operations developer tools in Visual Studio. I´ve recently started to use Visual Studio 2019 for my MsDyn365FO development work. All in all the extension works quite well with … Continue reading Reduce the amount of clicks to access the MsDyn365FO developer tools in Visual Studio →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
         </author>
     </entry>
     <entry>
@@ -1780,6 +2225,16 @@ Problem statement- managing every user’s specific role to define organization
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Upload to LCS and deploy via LCS using YML based multistage Azure Pipelines for your MsDyn365FO hosted build automation]]></title>
+        <id>https://msdyn365fo.wordpress.com/?p=476</id>
+        <link href="https://msdyn365fo.wordpress.com/2021/04/28/upload-to-lcs-and-deploy-via-lcs-using-yml-based-multistage-azure-pipelines-for-your-msdyn365fo-hosted-build-automation/"/>
+        <updated>2021-04-28T08:25:39.000Z</updated>
+        <summary type="html"><![CDATA[In this blog I want to show you, how you can include the upload to LCS and deploy via LCS into your  Microsoft Dynamics 365 for Finance and Operations hosted build automation. You can find the xpp-ci.yml and xpp-ci-LCS-deployment.yml in my repository on GitHub, which togethers work right out of the box. The xpp-ci.yml is … Continue reading Upload to LCS and deploy via LCS using YML based multistage Azure Pipelines for your MsDyn365FO hosted build automation →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Managing and sharing screen persoanlization views with others in Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5f231eed-5449-4503-9a7d-0f7cd2060465</id>
         <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/managing-and-sharing-screen-persoanlization-views-with-others-in-microsoft-dynamics-365-finance-and-operations"/>
@@ -1789,6 +2244,22 @@ Problem statement- managing every user’s specific role to define organization
 (read more)]]></summary>
         <author>
             <name>Rahul Mohta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Azure IoT - Industry 4.0]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:607d5e15b54c9b3503806937</id>
+        <link href="https://www.powerazure365.com/blog-1/dynamics-365-azure-iot"/>
+        <updated>2021-04-19T14:04:38.000Z</updated>
+        <summary type="html"><![CDATA[Hello the Community ! A new article for you now about something I was 
+working at Dynagile for some time now with couples of EMEA projects / 
+especially on D365 Finance Operations => all about IoT ! As usual with me ! 
+My favorite topics with Azure components with Dynamics 365 (Field Service, 
+Customer Service and Finance Operations) - business side to leverage Data 
+Insights with Microsoft technologies all combined, as part of Industry 4.0 
+concept - let’s go !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>
@@ -1913,6 +2384,66 @@ We've seen a significant reduction in the number of downloads of the e-learning
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Download the MsDyn365FO NuGets from LCS and push them to a feed in Azure Artifacts via Azure Pipeline]]></title>
+        <id>https://msdyn365fo.wordpress.com/?p=470</id>
+        <link href="https://msdyn365fo.wordpress.com/2021/04/12/download-the-msdyn365fo-nugets-from-lcs-and-push-them-to-a-feed-in-azure-artifacts-via-azure-pipeline/"/>
+        <updated>2021-04-12T07:29:23.000Z</updated>
+        <summary type="html"><![CDATA[In this blog I want to discuss how you can download the Microsoft Dynamics 365 for Finance and Operations NuGets from LCS and push them automatically to Feeds in Azure Artifacts via Azure Pipeline. Before publishing this blog, but after creating the corresponding YML-File, Victor Tang (Microsoft Customer Engineer) has published a nice step by … Continue reading Download the MsDyn365FO NuGets from LCS and push them to a feed in Azure Artifacts via Azure Pipeline →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d365fo.integration – Enable users after database refresh]]></title>
+        <id>http://d365fostuff.wordpress.com/?p=217</id>
+        <link href="https://d365fostuff.wordpress.com/2021/04/06/d365fo-integration-enable-users-after-database-refresh/"/>
+        <updated>2021-04-06T19:51:01.000Z</updated>
+        <summary type="html"><![CDATA[After my last post on auto refreshing data entities after a deployment, I want to show you how to enable users in your system after a database refresh. A big ‘thank you’ goes out, as always, to @splaxi for delivering the d365fo – toolset and for the idea on this post.We will use the d365fo.integrations […]]]></summary>
+        <author>
+            <name>Marijan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d365fo.integrations – Auto refresh your data entity list]]></title>
+        <id>http://d365fostuff.wordpress.com/?p=194</id>
+        <link href="https://d365fostuff.wordpress.com/2021/03/31/d365fo-integrations-auto-refresh-your-data-entity-list/"/>
+        <updated>2021-03-31T20:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Meet the little brother of the d365fo.tools – d365fo.integrations. To be honest I wasn’t fully aware about this one until @splaxi mentioned them. But after a quick look into this module I’m more than excited to share this. Ever wondered why you need to manually refresh the data entity list in your Tier-2 environment after […]]]></summary>
+        <author>
+            <name>Marijan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d365fo.tools – Publish the NuGet packages for the Azure hosted build pipeline Pt. 2]]></title>
+        <id>http://d365fostuff.wordpress.com/?p=150</id>
+        <link href="https://d365fostuff.wordpress.com/2021/03/17/d365fo-tools-publish-the-nuget-packages-for-the-azure-hosted-build-pipeline-pt-2/"/>
+        <updated>2021-03-17T20:48:01.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post I covered the use of the d365fo.tools to setup a NuGet source and to upload NuGet packages to an Azure DevOps artifact feed. In this post I want to show one way, how we can use the d365fo.tools to update the NuGet packages with the newest version available in the LCS […]]]></summary>
+        <author>
+            <name>Marijan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d365fo.tools – Publish the NuGet packages for the Azure hosted build pipeline Pt. 1]]></title>
+        <id>http://d365fostuff.wordpress.com/?p=123</id>
+        <link href="https://d365fostuff.wordpress.com/2021/03/13/d365fo-tools-publish-the-nuget-packages-for-the-azure-hosted-build-pipeline-pt-1/"/>
+        <updated>2021-03-13T08:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Right in time for my previous post on using the hosted build pipeline as a gated check in, @splaxi released the newest version of the d365fo.tools. The main feature of this release being the possibility to upload the NuGet packages into the Azure DevOps artifact feed.Thanks to the tools, it’s a lot easier to publish […]]]></summary>
+        <author>
+            <name>Marijan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Priority-based throttling for MsDyn365FO]]></title>
+        <id>https://msdyn365fo.wordpress.com/?p=465</id>
+        <link href="https://msdyn365fo.wordpress.com/2021/03/11/priority-based-throttling-for-msdyn365fo/"/>
+        <updated>2021-03-11T07:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in September 2020, Microsoft has announced the preview of priority based throttling for Microsoft Dynamics 365 for Finance and Operations. Since then, a lot of things happened and with this post I want to clarify some confusions, where customers and partners are currently struggling with. Let´s start with an collection of some links: Documentation … Continue reading Priority-based throttling for MsDyn365FO →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FAQ (Episode#1): MSDyn365F&SCM – A dead simple ATP calculation (Part1)]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e6bf8c33-5526-431a-8517-63dd6a5788d3</id>
         <link href="https://community.dynamics.com/ax/b/galynafedorovaaxblog/posts/faq-episode-1-msdyn365f-scm-a-dead-simple-atp-calculation-part1"/>
@@ -1923,6 +2454,46 @@ In...
 (read more)]]></summary>
         <author>
             <name>Galyna Fedorova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“The shelveset ‘xyz’ could not be found for check-in” – Error using Azure hosted builds for gated check-ins with D365]]></title>
+        <id>http://d365fostuff.wordpress.com/?p=46</id>
+        <link href="https://d365fostuff.wordpress.com/2021/03/08/the-shelveset-xxx-could-not-be-found-for-check-in-error-using-azure-hosted-builds-for-gated-check-ins/"/>
+        <updated>2021-03-08T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA[In my latest project, we wanted to set up the Azure hosted build pipeline also as a gated check in for our D365 – TFVC repository. Setting up the pipeline itself is quite easy, especially when you follow the DevOps ALM guide / bible from Adriá Ariste: MSDyn365 & Azure DevOps ALM – ariste.infoTo set […]]]></summary>
+        <author>
+            <name>Marijan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate  Flow to start cloud hosted environments with the LCS API]]></title>
+        <id>http://d365fostuff.wordpress.com/?p=73</id>
+        <link href="https://d365fostuff.wordpress.com/2021/03/08/power-automate-to-start-cloud-hosted-environments-with-the-lcs-api/"/>
+        <updated>2021-03-08T15:22:31.000Z</updated>
+        <summary type="html"><![CDATA[With the latest update from the LCS Database Movement API we’re finally able to start and stop the cloud hosted environments from a specific LCS project. Even with the correct environment status synced to LCS!Thanks to the awesome d365fo.tools from @splaxi it’s easy to get this running in an Azure pipeline or trigger the action […]]]></summary>
+        <author>
+            <name>Marijan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure your MsDyn365CSM warehousing (warehouse management) app by scanning a QR-Code]]></title>
+        <id>https://msdyn365fo.wordpress.com/?p=458</id>
+        <link href="https://msdyn365fo.wordpress.com/2021/03/03/configure-your-msdyn365csm-warehousing-warehouse-management-app-by-scanning-a-qr-code/"/>
+        <updated>2021-03-03T07:47:17.000Z</updated>
+        <summary type="html"><![CDATA[In this blog I want to highlight a very handy feature in the warehousing (warehouse management) app for Microsoft Dynamics 365 Supply Chain Management. The feature is well documented, but nevertheless I haven’t used it that much in the past. When you want to share the configuration for the warehousing (warehouse management) app of MsDyn365CSM … Continue reading Configure your MsDyn365CSM warehousing (warehouse management) app by scanning a QR-Code →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write]]></title>
+        <id>https://msdyn365fo.wordpress.com/?p=452</id>
+        <link href="https://msdyn365fo.wordpress.com/2021/02/15/error-finance-and-operations-apps-xxxdevaos-cloudax-dynamics-com-is-not-discoverable-please-refer-to-the-documentation-for-details-during-setup-of-dual-write/"/>
+        <updated>2021-02-15T06:26:21.000Z</updated>
+        <summary type="html"><![CDATA[This is my first post in 2021 and it´s already February. Because of some speaker engagements at the beginning of this year, I lost track on blogging. In this post I want to discuss the error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” when linking your Finance … Continue reading Error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
         </author>
     </entry>
     <entry>
@@ -2082,6 +2653,22 @@ Example:
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[e-Invoicing Service for Dynamics 365 Finance and Operations]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5ff6f9b34557516188ee1f96</id>
+        <link href="https://www.powerazure365.com/blog-1/e-invoicing-services-for-dynamics-365-finance-and-operations"/>
+        <updated>2021-01-16T21:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello the Community, new year , new blog post ! Let’s start 2021 with a new 
+feature that sounds very interesting for Dynamics 365 Finance : E-Invoicing 
+Service. Again a new add-in out of the box by Microsoft, but you will see 
+that we can really go further with Electronic Reporting Module , as well as 
+the RCS : Regulatory Service to manage different types of integration with 
+the government like SDI Service for Italy, with certificates, EDI , 
+transformation and direct integration. Let’s jump in !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How do the new Microsoft regulations have an impact on your Direct Bill partnership?]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:63448c5a-6e22-4e03-bd6e-d260978b0d3c</id>
         <link href="https://community.dynamics.com/ax/b/1clickfactory365andax/posts/how-do-the-new-microsoft-regulations-have-an-impact-on-your-direct-bill-partnership"/>
@@ -2109,6 +2696,16 @@ Example:
         <summary type="html"><![CDATA[I was reading back over my predictions for 2020 from last year’s Christmas/New Year blog. Boy was I wrong (see blog from last year here ), but then again, I think most people could not have predicted all...(read more)]]></summary>
         <author>
             <name>1ClickFactory Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delivery Plans 2.0 in Azure DevOps]]></title>
+        <id>https://msdyn365fo.wordpress.com/?p=441</id>
+        <link href="https://msdyn365fo.wordpress.com/2020/12/14/delivery-plans-2-0-in-azure-devops/"/>
+        <updated>2020-12-14T08:17:56.000Z</updated>
+        <summary type="html"><![CDATA[In this post I want to show you the Delivery Plans 2.0 (preview) in Azure DevOps. This new feature has been added with Sprint 178 release and is an improvement to the existing delivery plans, I´ve described in my blog from July 2019. With the latest improvements the delivery plans got a much clearer presentation … Continue reading Delivery Plans 2.0 in Azure DevOps →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
         </author>
     </entry>
     <entry>
@@ -2198,6 +2795,24 @@ I wanted to share a summary from the analysis I did...
 (read more)]]></summary>
         <author>
             <name>andreasraithel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Data Factory and Logic Apps for Dynamics 365 Finance and Operations]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5f93f46d3ef9bd77e9993ce9</id>
+        <link href="https://www.powerazure365.com/blog-1/azure-data-factory-and-logic-apps-for-dynamics-365-finance-and-operations"/>
+        <updated>2020-10-28T15:06:23.000Z</updated>
+        <summary type="html"><![CDATA[Hello the Community, this new blog post is for you if you are wondering how 
+we can leverage Azure Integration Components on top of your ERP : Dynamics 
+365 Finance and Operations. How, when, and why can we use such kind of 
+components to integrate large & low volume of DATA. I will also explain the 
+basic knowledge required to go further especially for Azure Data Factory as 
+an ETL component before integration. What are also the benefits compare to 
+the Data Management Framework or DataFlow of Dynamics 365 ? Also which one 
+to use : Logic Apps or Azure Data Factory ? Yes so much questions here ;) 
+Let’s jump in !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>
@@ -2297,6 +2912,41 @@ When we start talking about RSAT with the customer, they always reply, that ther
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI Builder Deep Dive for Dynamics 365 Finance and Operations Process]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5f5686d075dd3715b15f6108</id>
+        <link href="https://www.powerazure365.com/blog-1/ai-builder-for-dynamics-365-finance-and-operations-process"/>
+        <updated>2020-09-14T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello the Community ! After seeing a lot of ERP projects I always -still - 
+see some old fashion process where some AI could be really benefit to help 
+users to be more proactive and efficient in their day-to-day process with 
+the amount of DATA handle in Dynamics 365 Finance and Operations. How can 
+we use and deploy for them an AI Model without to be a data scientist very 
+quickly. How can we train the model and use Power Automate to take care of 
+the rest and automatize the rest ! Yes true we will see a lot of use cases 
+that we can handle with the Power Platform. Let’s jump in !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Datawarehouse Dynamics365 Finance and Operations]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5f43bc774616863b006f1377</id>
+        <link href="https://www.powerazure365.com/blog-1/modern-datawarehouse-dynamics365-finance-and-operations"/>
+        <updated>2020-08-25T13:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello the Community ! New global post on technical architecture for 
+Reporting / BI and Analytics with Dynamics 365 Finance and Operations. Here 
+I will present a new capacity to push data coming from Tables and Entities 
+into an Azure Data Lake Storage in real time as well as how to use it after 
+with Azure Synapse Analytics and PowerBI. How to build a Modern 
+Datawarehouse architecture for your ERP and expose custom views & model for 
+your business users in PowerBI. How to use DirectQuery mode with 
+SqlOnDemand mode (pay as query mode - serverless) + Azure Analysis Services 
+: Let’s jump in !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Testing Dynamics 365 Finance Database Movement API with Postman]]></title>
         <id>https://nuxulu.com/2020-08-17-testing-dynamics-365-finance-database-movement-api-with-postman/</id>
         <link href="https://nuxulu.com/2020-08-17-testing-dynamics-365-finance-database-movement-api-with-postman/"/>
@@ -2381,6 +3031,25 @@ Dynamics 365 Sales Insights continues investments in digital selling across mul
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dynamics 365 Finance Insights]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5f1580949fbfcc69176d392d</id>
+        <link href="https://www.powerazure365.com/blog-1/dynamics-365-finance-insights"/>
+        <updated>2020-07-21T15:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello the Community ! I was really looking forward to post this huge 
+article after testing & being part of this new Dynamics 365 Apps for weeks 
+now. As you maybe have seen in my previous articles, I am an AI Addict 
+especially after being involved in multiple global projects with some Azure 
+ML / Prediction model in Dynamics 365 implementation. So this new AI Apps 
+with ERP System (aka Dynamics 365 Finance and Operations) was really my 
+favorite preview so far, and really enthusiast about it. So in this 
+article, you will find all my review / how-to configuration - technical 
+extensibility / feedbacks - functional side also for Dynamics 365 Finance 
+Insights, believe it’s worth it ….]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Is your Business Process Modeler updated?]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:66375ee1-7c0f-4adf-91e2-350bf4df00d6</id>
         <link href="https://community.dynamics.com/ax/b/axstart/posts/is-your-business-process-modeler-updated"/>
@@ -2389,6 +3058,30 @@ Dynamics 365 Sales Insights continues investments in digital selling across mul
 Using the BPM in combination with DevOps supports more streamlined and efficient implementation projects. By defining the processes in the BPM library; there is a generic structure for tracking the project requirements / user stories / tasks. The BPM hierarchy can be synchronized with DevOps – as a result the DevOps backl…]]></summary>
         <author>
             <name>Dick Wenning</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDS Virtual Entities with Dynamics 365 Finance and Operations]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5efc5052e12db22dc9521619</id>
+        <link href="https://www.powerazure365.com/blog-1/cds-virtual-entities-with-dynamics-365-finance-and-operations"/>
+        <updated>2020-07-01T11:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Hello the Community,
+
+In this article, I will talk about a new feature that will be in GA with 
+the version 10.0.12 of Dynamics 365 Finance and Operations, coming in July 
+2020.
+
+During MBAS 2020 in May, Microsoft already presented this new feature. I 
+was really wondering how it could work well, especially since we already 
+have the CDS DualWrite in terms of sync CDS with Finance and Operations 
+Data. But you will see that it’s here to achieve completely different use 
+cases and the configuration is very simple. How can you access in the 
+Common Data Service, data coming from an external data sources like here 
+D365 F&O without to sync it. How can you achieve that in order to use this 
+Data like in a PowerApps Portal with the Supply Chain Management template, 
+PowerApps CanvasApp or even PowerAutomate. Let’s jump in !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>
@@ -2554,6 +3247,25 @@ Now you can change these to faster disks , but please be aware of the prices. Al
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dynamics 365 Finance and Operations Reporting : DataLake and PowerBI Dataflow]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5ee758e017afcd5641f452c1</id>
+        <link href="https://www.powerazure365.com/blog-1/dynamics-365-finance-and-operations-reporting-datalake-and-powerbi-dataflow"/>
+        <updated>2020-06-16T10:26:21.000Z</updated>
+        <summary type="html"><![CDATA[Hello the community !
+
+New article for you about a Technical Architecture optimized for Dynamics 
+365 Finance and Operations about Reporting purpose - BI.
+
+Here I will present with Azure Data Lake and PowerBI Dataflow how you can 
+deliver a global Datawarehouse for your ERP D365F&O and also CDS or other 
+data sources ; how you can achieve to propose an easy & comprehensive DATA 
+model for end-users (business users) in order to let them built their own 
+report in PowerBI Desktop….]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MSDyn365F&SCM: Reverse work]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f1c0d98b-b62b-4eef-a69c-693aff7fc358</id>
         <link href="https://community.dynamics.com/ax/b/galynafedorovaaxblog/posts/msdyn365f-scm-reverse-work"/>
@@ -2564,6 +3276,35 @@ There is a capability in Microsoft Dynamics 365 Finance that allows...
 (read more)]]></summary>
         <author>
             <name>Galyna Fedorova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chatbot Power Virtual Agent with Dynamics 365 Finance and Operations]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5ecbd06f29359c00041f87c6</id>
+        <link href="https://www.powerazure365.com/blog-1/chatbot-power-virtual-agent-with-dynamics-365-finance-and-operations"/>
+        <updated>2020-05-25T19:07:44.000Z</updated>
+        <summary type="html"><![CDATA[Power Virtual Agent will empower every organization to easily provide 
+delightful, natural interactions with their customers and improve 
+engagement and outcomes. This new feature in PowerPlatform can clearly help 
+you building an easy chatbot with a lot of datasources, including of course 
+the whole eco-system of Microsoft, but as well as the 300 connectors of the 
+PowerAutomate. In this article. I will present in this article of course 
+this AI feature connected to Dynamics 365 Finance and Operations. In the 
+ERP, you could of course build a BOT for Commerce or Retail, Customer 
+Service (Return product) or even Lead generation etc….
+
+Power Virtual Agents empowers teams to easily create powerful bots using a 
+guided, no-code graphical interface without the need for data scientists or 
+developers. Power Virtual Agents addresses many of the major issues with 
+bot building in the industry today. It eliminates the gap between the 
+subject matter experts and the development teams building the bots, and the 
+long latency between teams recognizing an issue and updating the bot to 
+address it. It removes the complexity of exposing teams to the nuances of 
+conversational AI and the need to write complex code. And, it minimizes the 
+IT effort required to deploy and maintain a custom conversational solution. 
+So… let’s jump in !!]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>
@@ -2615,6 +3356,36 @@ Current...
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Expense Management with AI Builder for Dynamics 365 F&O]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5eb143dc48591c0bd6b2905a</id>
+        <link href="https://www.powerazure365.com/blog-1/ai-builder-powerplatform-for-expense-management-in-dynamics-365-finance-and-operations"/>
+        <updated>2020-05-05T15:30:05.000Z</updated>
+        <summary type="html"><![CDATA[One of the fundamental challenges with artificial intelligence is that it 
+has historically been out of reach for the many. With limited access to 
+highly sought after resources, drawn out development times, compounded with 
+the added complexity of needing special purpose infrastructure to 
+facilitate the AI development process, there has understandably been 
+various barriers of entry for the broader user base to harness the types of 
+capabilities that fall under the AI domain.
+
+AI Builder is part of Microsoft’s ongoing efforts to democratize AI, 
+empowering users of all skill levels to build, train, and publish AI models 
+in a no-code, guided, point and click environment. It’s now in Global 
+availability state, anyone can infuse AI within their business applications 
+with PowerApps, or add intelligence to automated work processes with 
+PowerAutomate, especially like in Dynamics 365 Finance and Operations use 
+cases !
+
+For example, do you have the idea of an employee being able to just quickly 
+take a picture of his expense report without having to recreate all the 
+elements in your ERP? AI Builder scans the expense report, with approval to 
+his/her manager and all this generates the elements automatically in 
+Dynamics 365 Finance and Operations, magic isn't it? Let’s have a look !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[D365FO: Get a list of OData entities]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b91854c2-fec7-4537-802b-ca2fe114a110</id>
         <link href="https://community.dynamics.com/ax/b/shashisaxblog/posts/d365fo-get-a-list-of-odata-entities"/>
@@ -2657,6 +3428,26 @@ This outputs the entities in a tabular form – extremely user friendly]]></summ
         <summary type="html"><![CDATA[The following list includes all of the courses currently on the Dynamics Learning Portal, and whether we have replaced them with content on Microsoft Learn, made them available as downloads, or will r...(read more)]]></summary>
         <author>
             <name>Margo Crandall Microsoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate your tests for Dynamics 365 Finance and Operations]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5e9cc47f66bc693a2e3aa1b8</id>
+        <link href="https://www.powerazure365.com/blog-1/automate-your-tests-for-dynamics-365-finance-and-operations"/>
+        <updated>2020-04-20T22:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Automate your tests of all your business process before an upgrade or just 
+before a rollout of a new package in production as ever been a mirage for 
+you ? Well… in all of my previous experiences of deploying Dynamics 365, I 
+have always had several questions about this. However the saving of time 
+and therefore of money is stratospheric ! Believe me, spending your time 
+testing all of your ERP processes every month before a monthly update, or 
+even before a rollout is clearly still the majority of cases in companies. 
+I will therefore demonstrate in this article all the capabilities possible 
+with Dynamics 365 Finance and Operations to generate automatic test cases 
+and the interests of each. Take a break, a coffee before reading more, it 
+will be long but rich in information….]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>
@@ -2715,6 +3506,26 @@ Azure Analysis Services Labs
 SQL Server 2...(read more)]]></summary>
         <author>
             <name>Margo Crandall Microsoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LCS API Database Movement with PowerAutomate]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5e95b09892faed6f9731a0cc</id>
+        <link href="https://www.powerazure365.com/blog-1/lcs-api-database-movement-with-powerautomate"/>
+        <updated>2020-04-14T19:03:23.000Z</updated>
+        <summary type="html"><![CDATA[As a Technical Consultant for Dynamics 365 Finance and Operations projects, 
+you are surely using Lifecycle Services portal in order to manage your 
+environments (package deployment, upgrade, database movement, monitoring 
+etc…). As you maybe know we have now for few months an API to call LCS with 
+just few methods but still… it’s a massive improvement because it will help 
+you to setup automatic refresh database from production to an UAT Instance 
+!
+
+Here in this article, and also with my Github samples Flows, I will share 
+with you some examples to call this API without any code in few minutes 
+with PowerAutomate. Let’s go !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>
@@ -2790,6 +3601,25 @@ The artifacts for each lab are stored in a lab folder. Inside each folder are tw
 (read more)]]></summary>
         <author>
             <name>Galyna Fedorova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerApps Portal with Dynamics 365 Finance and Operations]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5e8c2d335a255f19a8997e5a</id>
+        <link href="https://www.powerazure365.com/blog-1/powerapps-portal-with-dynamics-365-finance-and-operations"/>
+        <updated>2020-04-07T10:16:40.000Z</updated>
+        <summary type="html"><![CDATA[If you have seen my previous article about Dynamics 365 Finance and 
+Operations with the CDS Dual-Write, I especially highlighted that this 
+feature will be used in order to have a bidirectional sync between F&O and 
+CRM of Dynamics 365. BUT, we can achieve a lot more now, since all DATA for 
+F&O can be available of course in the Common Data Service (CDS), we can NOW 
+use PowerApps Portal to bring a private or public Web Portal on top of your 
+loved ERP. Indeed, if you have been like me as an AX 2012 Consultant, you 
+are still wondering how I will replace my Enterprise Portal that was part 
+of the solution with a Sharepoint. So here we are, we can now do that in a 
+faster & easier way, thanks to the PowerPlatform ! Let’s deep in….]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>
@@ -2902,6 +3732,31 @@ Enjoy !]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bring Dynamics365 ERP and CRM together with CDS Dual-Write !]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5e70c094d453a669d7826b79</id>
+        <link href="https://www.powerazure365.com/blog-1/bring-dynamics365-erp-and-crm-together-with-cds"/>
+        <updated>2020-03-18T14:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Dual Write is the magic that Microsoft has created that allows near real 
+time syncing of data between CDS and F&O auto-magically! Dual Write 
+provides a tightly coupled near-real time and bi-directional integration 
+between Dynamics 365 Finance and Operations and Dynamics 365 Sales. Once an 
+entity is enabled for Dual Write, any create, update change in Dynamics 365 
+Finance and Operations results in writes, in near-real time, to the Common 
+Data Service and vice versa.
+
+For example, a change in the Customer entity in Dynamics 365 Finance and 
+Operations is reflected in near-real time in the Account entity in the 
+Dynamics 365 Sales and vice-versa. While all this happens with minimal 
+setup, an advanced user interface is provided with drag and drop mapping 
+and transformation capabilities for all your customization needs. Quite 
+magical!
+
+Let’s jump in !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lifecycle Services requests failing]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1d0d63e9-bda7-4dca-9261-0e7e5f7420e8</id>
         <link href="https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/lifecycle-services-requests-failing"/>
@@ -2946,6 +3801,27 @@ Dubai Summit 2020 website...
 (read more)]]></summary>
         <author>
             <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Data Lake with Dynamics365 FinOps - CustomerInsights and Power Platform !]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5e4bb6df518fab78b4f3b41a</id>
+        <link href="https://www.powerazure365.com/blog-1/azure-data-lake-inallisglory"/>
+        <updated>2020-02-18T13:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Azure Data Lake Storage Gen2 is a set of capabilities dedicated to big data 
+analytics, built on Azure Blob storage
+
+Data Lake Storage Gen2 makes Azure Storage the foundation for building 
+enterprise data lakes on Azure. Designed from the start to service multiple 
+petabytes of information while sustaining hundreds of gigabits of 
+throughput, Data Lake Storage Gen2 allows you to easily manage massive 
+amounts of data.
+
+I will show you the benefits for this type of this model based on the CDM 
+(Common Data Model) among Dynamics 365 FinOps, AI with Customer Insights 
+and Power Platform.]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>
@@ -3034,6 +3910,21 @@ Checkout the Add-in SSD365VSAddIn]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Azure Automated ML]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5e1d9a9d71426f2f29178556</id>
+        <link href="https://www.powerazure365.com/blog-1/azure-automated-ml"/>
+        <updated>2020-01-14T12:48:48.000Z</updated>
+        <summary type="html"><![CDATA[Azure Automated ML empowers customers, with or without data science 
+expertise, to identify an end-to-end machine learning pipeline for any 
+problem, achieving higher accuracy while spending far less of their time. 
+And it enables a significantly larger number of experiments to be run, 
+resulting in faster iteration towards production-ready intelligent 
+experiences.]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to send that attachments as an email in D365]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:abbd4066-8f02-4f87-bf6a-d7b6ecf24c22</id>
         <link href="https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/how-to-send-that-attachments-as-an-email-in-d365"/>
@@ -3041,6 +3932,26 @@ Checkout the Add-in SSD365VSAddIn]]></summary>
         <summary type="html"><![CDATA[Normally in D365, there is a common table where your attachments are saved that is DocuRef, and it also stores the reference of table in field " RefTableId" field. Suppose we want to retrieve all the attachments...(read more)]]></summary>
         <author>
             <name>Shankar Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 FinOps Demand Forecasting with Azure Machine Learning]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5e0df132192cf25f69544803</id>
+        <link href="https://www.powerazure365.com/blog-1/dynamics-365-finops-demand-forecasting-with-azure-machine-learning"/>
+        <updated>2020-01-02T14:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Demand forecasting is used to predict independent demand from sales orders 
+and dependent demand at any decoupling point for customer orders. The 
+enhanced demand forecast reduction rules provide an ideal solution for mass 
+customization.
+
+To generate the baseline forecast, a summary of historical transactions is 
+passed to a Microsoft Azure Machine Learning service that is hosted on 
+Azure. Because this service isn't shared among users, it can easily be 
+customized to meet industry-specific requirements. You can use Supply Chain 
+Management to visualize the forecast, adjust the forecast, and view key 
+performance indicators (KPIs) about forecast accuracy.]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>
@@ -3066,6 +3977,23 @@ When used properly this...
 (read more)]]></summary>
         <author>
             <name>Rachit Garg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Finance & Operations with Power Automate !]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5dfa36cb44ef5328d80e04b9</id>
+        <link href="https://www.powerazure365.com/blog-1/dynamics-365-finance-amp-operations-with-powerautomate-"/>
+        <updated>2019-12-18T16:28:56.000Z</updated>
+        <summary type="html"><![CDATA[With version 10 of Dynamics 365 for Finance & Operations, fifteen (15) 
+application events from Procure to Pay and Quote to Cash are now available 
+out of the box in Dynamics 365 for Finance and Operations. They promise to 
+be a powerful addition enabling self service for certain events, and better 
+cloud integration by triggering an integration instead of periodically 
+checking if something had been posted.  Possible business scenarios are 
+infinite and we will cover this with Power Automate (aka Microsoft Flow) in 
+this article !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>
@@ -3280,6 +4208,16 @@ Advertisements]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to: Successfully enable Business Events in D365FO]]></title>
+        <id>http://www.everythingdynamicsaxbi.com/?p=806</id>
+        <link href="http://www.everythingdynamicsaxbi.com/2019/03/19/how-to-successfully-enable-business-events-in-d365fo/"/>
+        <updated>2019-03-19T14:32:47.000Z</updated>
+        <summary type="html"><![CDATA[With the release of PU24 we finally can use Business Events! It’s not enabled out of the box, but with a bit of configuration you can have it up and…]]></summary>
+        <author>
+            <name>Espen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Azure SQL firewall access]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9f58a0cd-95c1-4452-a35b-c5c54da6829b</id>
         <link href="https://community.dynamics.com/ax/b/axology/posts/azure-sql-firewall-access"/>
@@ -3324,6 +4262,16 @@ This course provides information, concepts, and demonstrations about X++ in Dyna
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to: Configure Power BI Embedded for Dynamics 365 for Finance and Operations (One-box environment)]]></title>
+        <id>http://www.everythingdynamicsaxbi.com/?p=728</id>
+        <link href="http://www.everythingdynamicsaxbi.com/2019/02/03/how-to-configure-power-bi-embedded-for-dynamics-365-for-finance-and-operations-one-box-environment/"/>
+        <updated>2019-02-03T21:50:03.000Z</updated>
+        <summary type="html"><![CDATA[You have your development or test box deployed and running, and everything is working perfectly until you load a workspace containing Power BI Embedded and you are faced with this…]]></summary>
+        <author>
+            <name>Espen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Looking to the future that’s already here]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:497e3ca8-f115-47db-8dd5-3b4432c9cc62</id>
         <link href="https://community.dynamics.com/ax/b/moredatamoresuccess/posts/looking-to-the-future-that-s-already-here"/>
@@ -3331,6 +4279,16 @@ This course provides information, concepts, and demonstrations about X++ in Dyna
         <summary type="html"><![CDATA[In addition to the more technical contributions in this blog, I would like to refer today to three very interesting reports from the ERP environment. I think they give an impressive look forward and w...(read more)]]></summary>
         <author>
             <name>andreasraithel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October ’18 release for Dynamics 365 for Finance and Operations]]></title>
+        <id>http://www.everythingdynamicsaxbi.com/?p=737</id>
+        <link href="http://www.everythingdynamicsaxbi.com/2018/10/31/october-18-release-for-dynamics-365-for-finance-and-operations/"/>
+        <updated>2018-10-31T19:32:30.000Z</updated>
+        <summary type="html"><![CDATA[The October ’18 release packed a lot of new features for Dynamics 365 for Finance and Operations. There’s been some design changes to the client, but also some new features…]]></summary>
+        <author>
+            <name>Espen</name>
         </author>
     </entry>
     <entry>
@@ -3401,6 +4359,26 @@ One of the most important content is the fall release documentation...
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to: Setup and configuration of the Prospect to cash integration (Accounts)]]></title>
+        <id>http://www.everythingdynamicsaxbi.com/?p=662</id>
+        <link href="http://www.everythingdynamicsaxbi.com/2018/08/13/how-to-setup-and-configuration-of-the-prospect-to-cash-integration-accounts/"/>
+        <updated>2018-08-13T13:28:17.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! I’ve been setting up the data integration between Dynamics 365 for Finance and Operations and Dynamics 365 for Sales sometimes lately. It’s pretty straight forward using Microsoft’s guide,…]]></summary>
+        <author>
+            <name>Espen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copy into legal entity in Dynamics 365 for Finance and Operations]]></title>
+        <id>http://www.everythingdynamicsaxbi.com/?p=668</id>
+        <link href="http://www.everythingdynamicsaxbi.com/2018/08/13/copy-into-legal-entity-in-dynamics-365-for-finance-and-operations/"/>
+        <updated>2018-08-13T12:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone, In Platform update 11 Microsoft released new functionality to ease the creation of new legal entities in Dynamics 365 for Finance and Operations. The functionality is called “Copy…]]></summary>
+        <author>
+            <name>Christian Annely</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft Business Application Summit Sessions]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:90c20c6e-75d6-443b-bdf9-83fb19a2fd41</id>
         <link href="https://community.dynamics.com/ax/b/moredatamoresuccess/posts/microsoft-business-application-summit-sessions"/>
@@ -3432,6 +4410,26 @@ Microsoft Business Application are
 conn...(read more)]]></summary>
         <author>
             <name>andreasraithel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in Financial Reporting?]]></title>
+        <id>http://www.everythingdynamicsaxbi.com/?p=623</id>
+        <link href="http://www.everythingdynamicsaxbi.com/2018/07/03/whats-new-in-financial-reporting/"/>
+        <updated>2018-07-03T11:29:26.000Z</updated>
+        <summary type="html"><![CDATA[I just realized there are some new features inside Financial Reporting for Dynamics 365 for Finance and Operations as I was working with some reports for a customer. The first…]]></summary>
+        <author>
+            <name>Espen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips and tricks for Dynamics 365 for Finance and Operations]]></title>
+        <id>http://www.everythingdynamicsaxbi.com/?p=572</id>
+        <link href="http://www.everythingdynamicsaxbi.com/2018/07/02/tips-and-tricks-for-dynamics-365-for-finance-and-operations/"/>
+        <updated>2018-07-02T18:44:13.000Z</updated>
+        <summary type="html"><![CDATA[I thought I’d share my top Tips and Tricks for Dynamics 365 for Finance and Operations. When working with the application you always learn some new shortcuts and cool features…]]></summary>
+        <author>
+            <name>Espen</name>
         </author>
     </entry>
     <entry>
@@ -3564,6 +4562,26 @@ Source: https://msdn.microsoft.com/en-us/library/ee308453.aspx]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Table browser in Dynamics 365 for Finance and Operations]]></title>
+        <id>http://www.everythingdynamicsaxbi.com/?p=562</id>
+        <link href="http://www.everythingdynamicsaxbi.com/2017/12/04/table-browser-in-dynamics-365-for-finance-and-operations/"/>
+        <updated>2017-12-04T15:17:16.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been working a lot with Dynamics 365 development in Visual Studio lately and it’s pretty straight forward to access the table browser from the Application Explorer. Since the AOT…]]></summary>
+        <author>
+            <name>Espen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power BI: Parameter iFrameEmbedUrl cannot be null or empty (Dynamics 365 for Finance and Operations)]]></title>
+        <id>http://www.everythingdynamicsaxbi.com/?p=554</id>
+        <link href="http://www.everythingdynamicsaxbi.com/2017/11/28/power-biparameter-iframeembedurl-cannot-be-null-or-empty/"/>
+        <updated>2017-11-28T15:09:39.000Z</updated>
+        <summary type="html"><![CDATA[The Power BI integration in Dynamics 365 for Finance and Operations is great. You can directly add Power BI content to a workspace and interact with your reports without leaving…]]></summary>
+        <author>
+            <name>Espen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Models Projects and Packages in D365]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:17b9f94d-c493-444d-9377-230a3e87a117</id>
         <link href="https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/models-projects-and-packages-in-d365-436639615"/>
@@ -3594,6 +4612,16 @@ Source: https://msdn.microsoft.com/en-us/library/ee308453.aspx]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Reporting in Dynamics 365 for Finance and Operations – The definitive guide]]></title>
+        <id>http://www.everythingdynamicsaxbi.com/?p=475</id>
+        <link href="http://www.everythingdynamicsaxbi.com/2017/10/24/reporting-in-dynamics-365-for-finance-and-operations-the-definitive-guide/"/>
+        <updated>2017-10-24T14:45:13.000Z</updated>
+        <summary type="html"><![CDATA[I read a lot of different posts about how to connect to Dynamics 365 for Finance and Operations (I’m shortening this down to D365FO throughout this post) for reporting and…]]></summary>
+        <author>
+            <name>Espen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cool Tool – Chrome Table browser for Dynamics 365 FOEE]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b934ee4f-d7b2-4ff3-8a7d-689dce3511bc</id>
         <link href="https://community.dynamics.com/ax/b/moredatamoresuccess/posts/cool-tool-chrome-table-browser-for-dynamics-365-foee"/>
@@ -3611,6 +4639,38 @@ Source: https://msdn.microsoft.com/en-us/library/ee308453.aspx]]></summary>
         <summary type="html"><![CDATA[Often Consultants for Dynamics 365 for Finance and Operations have to design new Solutions. On this way too much it is neccessry to research in which tables specific data are stored and how are the ta...(read more)]]></summary>
         <author>
             <name>andreasraithel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[warmup Ax rich client opening]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:7ac86666-7ed2-4ac1-b15a-4853342285ed</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/warmup-ax-rich-client-opening"/>
+        <updated>2017-09-24T08:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Hi everybody, I have managing an arragement from a suggestion from an Internet post about to warmup richclient opening of Ax. 
+In fact this not solve definetively the opening of client but permits a cache...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read text file … alternative way to read all lines in one operation]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f6db8b3e-f6a7-4b8d-ac91-f9cf01346455</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/read-text-file-alternative-way-to-read-all-lines-in-one-operation"/>
+        <updated>2017-09-19T20:10:35.000Z</updated>
+        <summary type="html"><![CDATA[Hi, sometimes could be useful read files in one bulk operation directly from filesystem to an object and after managed this last one. 
+ Below I’ve reported my experience, hoping could be interesting for...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a direct SQL query interface… proof of concept.]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b715837e-58e8-4584-93cd-3be9d245ff3e</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/create-a-direct-sql-query-interface-proof-of-concept"/>
+        <updated>2017-09-06T21:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Hi, for many times I’ve investigate the possibility to create a simple interface for the users to have a select directly in the tables of AX. I know that this it’s not very good thing to do and the best...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
         </author>
     </entry>
     <entry>
@@ -3947,6 +5007,121 @@ Correct / Cancel a posted Packing sli...(read more)]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Error with AX batch : lock in a select with batchconstraints and batchhistory]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bcf55081-8e8f-4174-9d16-244c51fef65d</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/error-with-ax-batch-lock-in-a-select-with-batchconstraints-and-batchhistory"/>
+        <updated>2016-10-17T15:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Hello to all, it can happen you have to forcibly stop the execution of a batch. 
+ If the batch is very simple, there are no problems, but it can happen that after the interruption. the remaining batch...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Again on FTP trasmission (dotNET mode)]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:450f5df3-0e89-4295-8c96-2b3ea9e3ded8</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/again-on-ftp-trasmission-dotnet-mode"/>
+        <updated>2016-08-18T07:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Here below a private methods of an ad-hoc class for trasmit data. 
+In other sources you’ll find the trasmission using a stream reader with string codification (UTF, ASCII and so on). The below adapt the...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use PowerShell and Business Connector to connect to AX2012]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:73b4130f-4582-43ad-986a-abdac75aa02a</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/use-powershell-and-business-connector-to-connect-to-ax2012-1021996532"/>
+        <updated>2016-08-04T03:56:00.000Z</updated>
+        <summary type="html"><![CDATA[A long time ago I post a simple PS module to access AX2009. Now I've also made a version for AX2012.
+Quick recap:
+- Contain Basic Functions to work with AX 2012 through business connector.
+- Key functions: Get-AXObject, New-AXSelectStmt
+ 
+This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use PowerShell and Business Connector to connect to AX2012]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8320d748-d9c4-4ef1-bf8d-60d19a61e653</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/use-powershell-and-business-connector-to-connect-to-ax2012"/>
+        <updated>2016-08-04T03:56:00.000Z</updated>
+        <summary type="html"><![CDATA[A long time ago I post a simple PS module to access AX2009. Now I've also made a version for AX2012.
+Quick recap:
+- Contain Basic Functions to work with AX 2012 through business connector.
+- Key functions: Get-AXObject, New-AXSelectStmt
+ 
+This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powershell: seeking file in a folder and sed by smtp relay mail]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0fbcbba0-c84b-4416-a4e8-dd110e87cef4</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/powershell-seeking-file-in-a-folder-and-sed-by-smtp-relay-mail"/>
+        <updated>2016-07-29T14:04:35.000Z</updated>
+        <summary type="html"><![CDATA[the title of this post explain all. Useful if you have to sent last lofg error file and so on 
+ insert in a .ps1 file and schedule with task scheduler of 
+ $dir = “<searching folder>” 
+$latest = Get-ChildItem...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powershell: seeking file in a folder and send by smtp relay mail]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e8f0e1a0-5ce0-4a73-bbcb-aecd92a44028</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/powershell-seeking-file-in-a-folder-and-send-by-smtp-relay-mail"/>
+        <updated>2016-07-29T12:25:19.000Z</updated>
+        <summary type="html"><![CDATA[the title of this post explain all. Useful if you have to sent last lofg error file and so on 
+ insert in a .ps1 file and schedule with task scheduler of 
+ $dir = “” 
+$latest = Get-ChildItem -Path $dir...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick and silly … for cancel salesline]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:84ca4d0b-9385-4716-aa1e-1c8ffc2f7255</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/quick-and-silly-for-cancel-salesline"/>
+        <updated>2016-07-20T06:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Hi, this job below to set to deliver remain to 0 all the remains salesline of a sales order. Could be useful for mantain active history about sales order but clean old request to warehouse 
+ static void...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check defragmentation]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:7c345960-3c1b-4e21-b460-a153b84868fb</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/check-defragmentation-957188428"/>
+        <updated>2016-06-21T09:56:54.000Z</updated>
+        <summary type="html"><![CDATA[Simple query to check the fragmentation of DB (I suggest to run in data and model too) 
+ SELECT DB_NAME(PS.database_id) AS dbName, 
+S.name  AS SchemaName, 
+O.name AS TableName, 
+b.name, 
+ps.avg_fragmentation_in_percent...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[old WinInet class and DLL in AX2012]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:86a1dfde-4c04-416e-8df2-8f6e7427b139</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/old-wininet-class-and-dll-in-ax2012"/>
+        <updated>2016-05-25T12:28:19.000Z</updated>
+        <summary type="html"><![CDATA[Hi to everybody, I have use the old Wininet class and DLL declaration for access to the INET interface and create a FTP connection to download and upload files. 
+ For some FTP site I suggest to add the...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GRNI (Accrued purchases) Report]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3180973d-91e7-4b31-b847-82cbbac12bf2</id>
         <link href="https://community.dynamics.com/ax/b/guyterrysaxblog/posts/grni-accrued-purchases-report"/>
@@ -3964,6 +5139,17 @@ Correct / Cancel a posted Packing sli...(read more)]]></summary>
         <summary type="html"><![CDATA[In this post lets walk through an example on how we can use delegates in the new AX to develop customizations.  Quick summary of delegates: X++ delegates expose the publisher - subscriber pattern wher...(read more)]]></summary>
         <author>
             <name>Rachit Garg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powershell export to XLS and mail]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2e84a1d7-3d39-4be6-b571-ee6d272279e3</id>
+        <link href="https://community.dynamics.com/ax/b/simpleax/posts/powershell-export-to-xls-and-mail"/>
+        <updated>2016-05-10T15:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Hi, the script below could be useful to export data from AX directly from an SQL query, insert in a XLS file and send to a recipient by mail. 
+ If you run this you could have powershell+excel+trusted connection...(read more)]]></summary>
+        <author>
+            <name>Daniele Ferraretto</name>
         </author>
     </entry>
     <entry>
@@ -4059,6 +5245,84 @@ Open SQL and find the Element handle of the Project. Use the following command t
 -- Fi…]]></summary>
         <author>
             <name>Shashi s</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use PowerShell and Business Connector to retrieve data from Dynamics AX (AX2009) - Part 2]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e37319de-2774-431b-8356-529ab64ce59d</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/use-powershell-and-business-connector-to-retrieve-data-from-dynamics-ax-ax2009---part-2"/>
+        <updated>2015-11-20T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[In my last post I mentioned the reason I use Powershell to draw data from AX. What I want to achieve is ease of drawing data from AX and the ability to save and re-run queries. I wrote a basic script module to do this.
+The main utility from the module is a new cmdlet New-AXSelectStmt. It is used to pass X++ select statement to AX and get a list of PSObject as return.
+A simple example would be:
+                
+New-AXSelectStmt CustTable -stmt "SELECT * FROM %1" 
+<# Result
+ # AccountNum     : 1302
+ # Name           : Turtle Wholesales
+ # Address        : 123 Peach Street Aberdeen, MD 21001 US
+ # Phone          : 123-555-0168
+ # TeleFax        : 321-555-0157
+ # InvoiceAccount : 
+ # CustGroup      : 10
+ # LineDisc       : 
+ # PaymTermId     : N060
+ # CashDisc       :  
+ #>
+It is also possible…]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use PowerShell and Business Connector to retrieve data from Dynamics AX (AX2009) - Part 2]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ca78b598-d465-4e93-a1d7-6491b29cfad6</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/use-powershell-and-business-connector-to-retrieve-data-from-dynamics-ax-ax2009-part-2"/>
+        <updated>2015-11-20T08:53:00.000Z</updated>
+        <summary type="html"><![CDATA[In my last post I mentioned the reason I use Powershell to draw data from AX. What I want to achieve is ease of drawing data from AX and the ability to save and re-run queries. I wrote a basic script module to do this.
+The main utility from the module is a new cmdlet New-AXSelectStmt. It is used to pass X++ select statement to AX and get a list of PSObject as return.
+A simple example would be:
+                
+New-AXSelectStmt CustTable -stmt "SELECT * FROM %1" 
+<# Result
+ # AccountNum     : 1302
+ # Name           : Turtle Wholesales
+ # Address        : 123 Peach Street Aberdeen, MD 21001 US
+ # Phone          : 123-555-0168
+ # TeleFax        : 321-555-0157
+ # InvoiceAccount : 
+ # CustGroup      : 10
+ # LineDisc       : 
+ # PaymTermId     : N060
+ # CashDisc       :  
+ #>
+It is also possible…]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use PowerShell and Business Connector to retrieve data from Dynamics AX (AX2009)]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:442d15ee-3507-4e1d-a60e-80c0b5f35a93</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/use-powershell-and-business-connector-to-retrieve-data-from-dynamics-ax-ax2009-713453702"/>
+        <updated>2015-11-18T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Not long ago I started a new position as an in-house AX specialist. Part of my job is to provide support to users on their AX issues. Here I face a challenge that, due to organization structure, I don't have direct access to the SQL database. If I want to quickly check some data in AX I am then left with the table browser. Another option is to write X++ jobs but then I'll have to take care of showing the data (e.g. using infolog) myself. In short, it's not ideal.
+I missed the ability to write ad-hoc scripts and the ability to conveniently re-run them (Used to be T-SQL scripts for me). Then I thought I can use PowerShell! I tried to look up the internet for PS scripts to access AX and saw this. Unfortunately, I couldn't get it to work. Well, time to write my own. =D 
+Here I connect to AX us…]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use PowerShell and Business Connector to retrieve data from Dynamics AX (AX2009)]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:97b30f4b-ff1c-482f-a2c9-2adc636cd629</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/use-powershell-and-business-connector-to-retrieve-data-from-dynamics-ax-ax2009"/>
+        <updated>2015-11-18T06:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Not long ago I started a new position as an in-house AX specialist. Part of my job is to provide support to users on their AX issues. Here I face a challenge that, due to organization structure, I don't have direct access to the SQL database. If I want to quickly check some data in AX I am then left with the table browser. Another option is to write X++ jobs but then I'll have to take care of showing the data (e.g. using infolog) myself. In short, it's not ideal.
+I missed the ability to write ad-hoc scripts and the ability to conveniently re-run them (Used to be T-SQL scripts for me). Then I thought I can use PowerShell! I tried to look up the internet for PS scripts to access AX and saw this. Unfortunately, I couldn't get it to work. Well, time to write my own. =D 
+Here I connect to AX us…]]></summary>
+        <author>
+            <name>Dominic Lee</name>
         </author>
     </entry>
     <entry>
@@ -4164,6 +5428,169 @@ The ‘Automatic cancel&#...(read more)]]></summary>
         <summary type="html"><![CDATA[I’ve encountered a problem when posting a product receipt on a purchase order that you need to see to believe. For this reason, I’ve recorded a video which shows the problem and the cause....(read more)]]></summary>
         <author>
             <name>Guy Terry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AX2012 - Listing reports which run against AX SSAS Cubes]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6771af2f-3b43-4fd2-9f4b-db8681c75f25</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/ax2012---listing-reports-which-run-against-ax-ssas-cubes"/>
+        <updated>2015-06-05T13:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Just to share a quick tip. If you need to know which SSRS reports in AX gather data from AX OLAP cubes, you can run the query below in SSMS against the report server database.
+
+      
+ SELECT a.Path, a.Name as FullName,
+ SUBSTRING(a.Name, 1, CHARINDEX('.', a.Name)-1) as ReportName,
+ SUBSTRING(a.Name, CHARINDEX('.', a.Name)+1, 1000) as DesignName,
+ a.Parameter, b.Name, b.Extension
+ FROM Catalog a
+ JOIN DataSource b
+ ON a.ItemID = b.ItemID
+ WHERE b.Name = 'DynamicsAXOLAP' 
+ Order by a.Name, b.Name, a.Path          
+
+The result is like this:
+
+There are report name, design name and an XML presentation of the Parameters. The ReportName column contains the name of the reports, which match the nodes under \SSRS Reports\Reports in AOT.
+
+This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AX2012 - Listing reports which run against AX SSAS Cubes]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:98da6721-d436-4bec-9501-1c87e78e2429</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/ax2012-listing-reports-which-run-against-ax-ssas-cubes"/>
+        <updated>2015-06-05T13:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Just to share a quick tip. If you need to know which SSRS reports in AX gather data from AX OLAP cubes, you can run the query below in SSMS against the report server database.
+
+      
+ SELECT a.Path, a.Name as FullName,
+ SUBSTRING(a.Name, 1, CHARINDEX('.', a.Name)-1) as ReportName,
+ SUBSTRING(a.Name, CHARINDEX('.', a.Name)+1, 1000) as DesignName,
+ a.Parameter, b.Name, b.Extension
+ FROM Catalog a
+ JOIN DataSource b
+ ON a.ItemID = b.ItemID
+ WHERE b.Name = 'DynamicsAXOLAP' 
+ Order by a.Name, b.Name, a.Path          
+
+The result is like this:
+
+There are report name, design name and an XML presentation of the Parameters. The ReportName column contains the name of the reports, which match the nodes under \SSRS Reports\Reports in AOT.
+
+This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics AX 2012: Use OpenXML SDK for Excel Export - Part 4]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ad296341-ff48-4a0b-9cab-b860aa529ebe</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/dynamics-ax-2012-use-openxml-sdk-for-excel-export---part-4"/>
+        <updated>2015-03-23T01:59:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the final post on my experience with OpenXML SDK. The previous posts are here: Part 1, Part 2, Part 3.
+In this post I'll introduce the Open XML SDK Productivity tool and a couple of extended libraries for OpenXML.
+Despite the benefits of OpenXML, there is also a learning curve as it is quite different from working with Excel object model. Luckily, there is help from Microsoft and other developers.
+The Open XML SDK Productivity Tool
+This is a tool provided by Microsoft to help developers create OpenXML solution. One of it's most useful feature is you can load up a document and get generated C# source code for creating that document.
+
+Here's a link to an 8 mins video showcasing what the Tool does.
+This tool can be downloaded for free from Microsoft. For example, here is the download link for the SDK and the tool for OpenXML SDK 2.5.
+Wrappers based on OpenXML SDK
+Custom libraries are available based on OpenXML SDK. These libraries aims at hiding away lower level details of using OpenXML SDK to simplify the creation of OpenXML documents, without sacrificing performance. I haven't used them as I stick with OpenXML SDK for personal reason. But many developers are finding them very helpful.
+ClosedXML - An often updated wrapper for OpenXML, with detailed documentation.
+Simple OOXML - adds the DocumentFormat.OpenXml.Extensions namespace to version 2.0 of the Open Office SDK.
+So this concluded my series of OpenXML post. For anyone who haven't used OpenXML SDK before I hope these posts encouraged you to give it a try!
+
+This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics AX 2012: Use OpenXML SDK for Excel Export - Part 4]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f45cc5a4-0692-4718-ac19-06e85fff2c30</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/dynamics-ax-2012-use-openxml-sdk-for-excel-export-part-4"/>
+        <updated>2015-03-23T01:59:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the final post on my experience with OpenXML SDK. The previous posts are here: Part 1, Part 2, Part 3.
+In this post I'll introduce the Open XML SDK Productivity tool and a couple of extended libraries for OpenXML.
+Despite the benefits of OpenXML, there is also a learning curve as it is quite different from working with Excel object model. Luckily, there is help from Microsoft and other developers.
+The Open XML SDK Productivity Tool
+This is a tool provided by Microsoft to help developers create OpenXML solution. One of it's most useful feature is you can load up a document and get generated C# source code for creating that document.
+
+Here's a link to an 8 mins video showcasing what the Tool does.
+This tool can be downloaded for free from Microsoft. For example, here is the download link for the SDK and the tool for OpenXML SDK 2.5.
+Wrappers based on OpenXML SDK
+Custom libraries are available based on OpenXML SDK. These libraries aims at hiding away lower level details of using OpenXML SDK to simplify the creation of OpenXML documents, without sacrificing performance. I haven't used them as I stick with OpenXML SDK for personal reason. But many developers are finding them very helpful.
+ClosedXML - An often updated wrapper for OpenXML, with detailed documentation.
+Simple OOXML - adds the DocumentFormat.OpenXml.Extensions namespace to version 2.0 of the Open Office SDK.
+So this concluded my series of OpenXML post. For anyone who haven't used OpenXML SDK before I hope these posts encouraged you to give it a try!
+
+This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics AX 2012: Use OpenXML SDK for Excel Export - Part 3]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:35d97090-00cc-4b83-ab6d-a73fc2865e0f</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/dynamics-ax-2012-use-openxml-sdk-for-excel-export---part-3"/>
+        <updated>2015-03-20T03:46:00.000Z</updated>
+        <summary type="html"><![CDATA[In Part 2, a sample project exporting data from AX to Excel is presented. In this post I'll talk about a few tips I learned.
+1) Finding available OpenXML library 
+Chances is, the code you write will work on either OpenXML 2.0 or OpenXML 2.5. It'd be nice that the code will run as long as one of them is available on the machine. Add the following code to load the available library during runtime.
+In the constructor of the export class, subscribe to the AssemblyResolve event.
+public ExcelExport()
+{    AppDomain.CurrentDomain.AssemblyResolve += new ResolveEventHandler(helper.CurrentDomain_AssemblyResolve);
+//    ...
+}
+Implement the event handler.
+public static System.Reflection.Assembly CurrentDomain_AssemblyResolve(object sender, ResolveEventArgs args)
+{    switch (args.Name)
+    {          …]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics AX 2012: Use OpenXML SDK for Excel Export - Part 3]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5a1d4ad4-5e11-4d24-9ccd-4eec14685a86</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/dynamics-ax-2012-use-openxml-sdk-for-excel-export-part-3"/>
+        <updated>2015-03-20T03:46:00.000Z</updated>
+        <summary type="html"><![CDATA[In Part 2, a sample project exporting data from AX to Excel is presented. In this post I'll talk about a few tips I learned.
+1) Finding available OpenXML library 
+Chances is, the code you write will work on either OpenXML 2.0 or OpenXML 2.5. It'd be nice that the code will run as long as one of them is available on the machine. Add the following code to load the available library during runtime.
+In the constructor of the export class, subscribe to the AssemblyResolve event.
+public ExcelExport()
+{    AppDomain.CurrentDomain.AssemblyResolve += new ResolveEventHandler(helper.CurrentDomain_AssemblyResolve);
+//    ...
+}
+Implement the event handler.
+public static System.Reflection.Assembly CurrentDomain_AssemblyResolve(object sender, ResolveEventArgs args)
+{    switch (args.Name)
+    {          …]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics AX 2012: Use OpenXMLSDK for Excel Export - Part 2]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:07ee6405-77e3-4773-a0b2-9b30d0a24414</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/dynamics-ax-2012-use-openxmlsdk-for-excel-export---part-2"/>
+        <updated>2015-03-17T06:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Part 1 of the series introduced OpenXML. This post will provide an example how to use OpenXML library to export data from AX. (Full example can be downloaded here.)
+First of all, a Session object is needed. It will be available if the method is called from AX. However, it is much easier/faster to test/debug using Visual studio alone. Therefore, add the following code to create a Session if necessary.
+            
+// Create a Session object and login if necessary
+if (MIL.Session.Current == null)
+{    MIL.Session axSession = new MIL.Session();
+    axSession.Logon(null, null, null, null);
+}
+The next thing is the SharedStringTable. They help reduce redundancy when the same Text value appears more than once in the workbook. A good post here by Tim Murphy explains it well.
+// Get the SharedStrin…]]></summary>
+        <author>
+            <name>Dominic Lee</name>
         </author>
     </entry>
 </feed>
