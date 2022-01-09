@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-01-08T01:03:53.726Z</updated>
+    <updated>2022-01-09T01:07:32.103Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Forecast Demand Accurately for the Next Season: The Billion-Dollar Fashion Retail Question]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d8ad7d9f-0cae-4ae6-9c7a-05381544a9c1</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/how-to-forecast-demand-accurately-for-the-next-season-the-billion-dollar-fashion-retail-question"/>
+        <updated>2022-01-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pre-season planning is one of the most
+complicated problems in forecasting. Every year, fashion retailers
+face the challenge of accurately predicting future demand for the
+next season.
+ 
+ What will be the baseline demand for a new item that will... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How modern technology is enabling a better approach to lean in todays volatile market]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:349ea6ff-034f-4a15-a1e4-cea060a576ad</id>
@@ -1270,19 +1285,6 @@ decision to take steps to execute on digital transformation
 initiatives, they must consider key factors to ensure a successful
 outcome. In fact, Gartner has reported that organizations
 experience failure rates on planned... Read the full text.]]></summary>
-        <author>
-            <name>MSDynamicsWorld.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSDW Podcast: News Roundup - Industry clouds, Field Service revenue, ISV acquisition, & more]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c8b3bcac-cf2d-40cb-b25f-d867ebbfe806</id>
-        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-news-roundup---industry-clouds-field-service-revenue-isv-acquisition-more"/>
-        <updated>2021-10-11T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's about time for another news roundup podcast episode from
-our editorial team. We look at new product launches, Microsoft
-Dynamics and Azure partner news, a new revenue estimate, and a look
-at some of our most popular article contributions from... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
         </author>

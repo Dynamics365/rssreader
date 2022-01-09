@@ -529,6 +529,15 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d8ad7d9f-0cae-4ae6-9c7a-05381544a9c1",
+          "author": "MSDynamicsWorld.com",
+          "description": "Pre-season planning is one of the most\r\ncomplicated problems in forecasting. Every year, fashion retailers\r\nface the challenge of accurately predicting future demand for the\r\nnext season.\r\n \r\n What will be the baseline demand for a new item that will... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/how-to-forecast-demand-accurately-for-the-next-season-the-billion-dollar-fashion-retail-question",
+          "publishedOn": "2022-01-07T14:00:00.000Z",
+          "wordCount": 953,
+          "title": "How to Forecast Demand Accurately for the Next Season: The Billion-Dollar Fashion Retail Question"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:349ea6ff-034f-4a15-a1e4-cea060a576ad",
           "author": "MSDynamicsWorld.com",
           "description": "Amidst lingering supply-chain\r\nshocks, have Lean methods left manufacturers more vulnerable? Has a\r\njust-in-time mentality led to too little stock to weather demand\r\nspikes? Have firms developed an over-dependence on distant\r\nsuppliers?\r\n These are reasonable... Read the full text.",
@@ -653,15 +662,6 @@
           "publishedOn": "2021-10-12T13:00:00.000Z",
           "wordCount": 942,
           "title": "Business Process Management for a Dynamics 365 implementation: Beyond diagnostics"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c8b3bcac-cf2d-40cb-b25f-d867ebbfe806",
-          "author": "MSDynamicsWorld.com",
-          "description": "It's about time for another news roundup podcast episode from\r\nour editorial team. We look at new product launches, Microsoft\r\nDynamics and Azure partner news, a new revenue estimate, and a look\r\nat some of our most popular article contributions from... Read the full text.",
-          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-news-roundup---industry-clouds-field-service-revenue-isv-acquisition-more",
-          "publishedOn": "2021-10-11T17:00:00.000Z",
-          "wordCount": 954,
-          "title": "MSDW Podcast: News Roundup - Industry clouds, Field Service revenue, ISV acquisition, & more"
         }
       ]
     },
