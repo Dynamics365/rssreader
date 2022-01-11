@@ -3635,7 +3635,7 @@
           "description": "Showing products in a customer’s environment helps sales teams have better conversations about how a product might fit into a space, including how it impacts lines-of-sight and egress. By using Mixed Reality (MR), you can visualize products at real size in context of the physical world to close deals that would not have happened with just images or videos and differentiate your company from its competitors. Learn how to use the Power Apps Mixed Reality controls to land larger opportunities faster, increase customer satisfaction, and optimize brand performance – without the need for a specialized team of 3D / MR content creators, developers, and designers through low-code.",
           "link": "https://powerapps.microsoft.com/en-us/blog/improving-sales-conversion-by-placing-products-directly-in-your-customers-space-with-mixed-reality/",
           "publishedOn": "2021-12-08T11:53:51.000Z",
-          "wordCount": 1455,
+          "wordCount": 1496,
           "title": "Improving sales conversion by placing products directly in your customer’s space with Mixed Reality"
         },
         {
@@ -3668,5 +3668,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.3"
+  "cliVersion": "1.12.0"
 }
