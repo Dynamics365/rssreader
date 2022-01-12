@@ -3576,6 +3576,15 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "power-apps-ideas-new-enhancements-and-increased-capabilities",
+          "author": null,
+          "description": "After we announced public preview of Power Apps Ideas, including writing Power Fx formulas with natural language and generating formulas from examples, we continued tuning the design and improving our AI model to make Ideas work better for you. Today, we’re happy to share some of the latest updates on Ideas with you.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-apps-ideas-new-enhancements-and-increased-capabilities/",
+          "publishedOn": "2022-01-11T09:43:17.000Z",
+          "wordCount": 949,
+          "title": "Power Apps Ideas: New enhancements and increased capabilities"
+        },
+        {
           "id": "powerapps-portals-introducing-the-portals-search-powered-by-microsoft-dataverse-search-api-preview",
           "author": null,
           "description": "We are excited to announce the portals search powered by Dataverse search API now available for public preview.",
@@ -3655,15 +3664,6 @@
           "publishedOn": "2021-11-30T11:59:40.000Z",
           "wordCount": 2019,
           "title": "Easily activate features for model-driven apps with the new Settings solution component (Public preview)"
-        },
-        {
-          "id": "power-apps-portals-as-mobile-apps-preview",
-          "author": null,
-          "description": "We are excited to announce that you can now enable your functional portal as a progressive web app with native app like look & feel right from portal studio in low code-no code fashion in just few steps.",
-          "link": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-as-mobile-apps-preview/",
-          "publishedOn": "2021-11-30T05:04:00.000Z",
-          "wordCount": 1024,
-          "title": "Power Apps portals as mobile apps (preview)"
         }
       ]
     }

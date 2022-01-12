@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-01-11T01:05:57.203Z</updated>
+    <updated>2022-01-12T01:04:52.495Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Apps Ideas: New enhancements and increased capabilities]]></title>
+        <id>power-apps-ideas-new-enhancements-and-increased-capabilities</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-ideas-new-enhancements-and-increased-capabilities/"/>
+        <updated>2022-01-11T09:43:17.000Z</updated>
+        <summary type="html"><![CDATA[After we announced public preview of Power Apps Ideas, including writing Power Fx formulas with natural language and generating formulas from examples, we continued tuning the design and improving our AI model to make Ideas work better for you. Today, we’re happy to share some of the latest updates on Ideas with you.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Forecast Demand Accurately for the Next Season: The Billion-Dollar Fashion Retail Question]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d8ad7d9f-0cae-4ae6-9c7a-05381544a9c1</id>
@@ -686,16 +696,6 @@ solutions to ClickLearn... Read the full text.]]></summary>
         <link href="https://powerapps.microsoft.com/en-us/blog/easily-activate-features-for-model-driven-apps-with-the-new-settings-solution-component-public-preview/"/>
         <updated>2021-11-30T11:59:40.000Z</updated>
         <summary type="html"><![CDATA[We are excited to announce public preview of a new solution component named Settings. Using settings, application authors can, with just a few clicks, activate or configure features for a model-driven app. This allows them to easily and quickly provide a customized experience for end-users. These settings can be created by application authors, administrators, or partners.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Apps portals as mobile apps (preview)]]></title>
-        <id>power-apps-portals-as-mobile-apps-preview</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-portals-as-mobile-apps-preview/"/>
-        <updated>2021-11-30T05:04:00.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce that you can now enable your functional portal as a progressive web app with native app like look & feel right from portal studio in low code-no code fashion in just few steps.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
         </author>
