@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-01-13T01:07:30.641Z</updated>
+    <updated>2022-01-14T01:06:21.589Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[January 2022 Power Apps community call: Creating an Audio Player and deep dive into Pay-as-you-go features]]></title>
+        <id>january-2022-power-apps-community-call-creating-an-audio-player-and-deep-dive-into-pay-as-you-go-features</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/january-2022-power-apps-community-call-creating-an-audio-player-and-deep-dive-into-pay-as-you-go-features/"/>
+        <updated>2022-01-13T14:26:25.000Z</updated>
+        <summary type="html"><![CDATA[This month’s Power Apps community call has two exciting topics: Creating an audio player and how to take advantage of the new Pay-as-you-go Power Apps features.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Apps Ideas: New enhancements and increased capabilities]]></title>
         <id>power-apps-ideas-new-enhancements-and-increased-capabilities</id>
@@ -688,16 +698,6 @@ services.
 solutions to ClickLearn... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easily activate features for model-driven apps with the new Settings solution component (Public preview)]]></title>
-        <id>easily-activate-features-for-model-driven-apps-with-the-new-settings-solution-component-public-preview</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/easily-activate-features-for-model-driven-apps-with-the-new-settings-solution-component-public-preview/"/>
-        <updated>2021-11-30T11:59:40.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce public preview of a new solution component named Settings. Using settings, application authors can, with just a few clicks, activate or configure features for a model-driven app. This allows them to easily and quickly provide a customized experience for end-users. These settings can be created by application authors, administrators, or partners.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -3478,9 +3478,9 @@ Dynamics AX 7 and ...(read more)]]></summary>
         <title type="html"><![CDATA[We're retiring e-learning on CustomerSource]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:18ec7e63-57f2-498a-b213-e94bd5e9ebf1</id>
         <link href="https://community.dynamics.com/365/b/learningcurriculum/posts/we-39-re-retiring-elearning-on-customersource"/>
-        <updated>2020-04-17T20:50:00.000Z</updated>
-        <summary type="html"><![CDATA[To simplify your training journey, we consolidated our learning resources and retired the e-learning on CustomerSource on April 5th, 2019. 
-Courses on current products are being recreated on Micr...(read more)]]></summary>
+        <updated>2020-04-17T18:50:00.000Z</updated>
+        <summary type="html"><![CDATA[To simplify your training journey, we consolidated our learning resources and retired the e-learning on CustomerSource on April 5th, 2019. 
+Courses on current products are being recreated on...(read more)]]></summary>
         <author>
             <name>Margo Crandall Microsoft</name>
         </author>
