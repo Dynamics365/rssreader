@@ -3292,6 +3292,15 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axinthefield",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b4b3008a-9947-433f-a473-bc9be05d4f7c",
+          "author": "Ryan Sandness MSFT",
+          "description": "One of my favorite features that is both a power user function and an ease-of-use tool is the native Excel integration throughout Dynamics 365 F&O. With the native Excel integration to create, del...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/how-to-modify-a-journal-template-in-dynamics-365",
+          "publishedOn": "2022-01-12T21:18:30.000Z",
+          "wordCount": 1698,
+          "title": "How to modify a journal template in Dynamics 365"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:98642694-c496-4615-bb3b-dbd8a0242c5a",
           "author": "Chris Roehrich",
           "description": "This post is for those that are interested in developing .Net integrations with D365FO. In order to authenticate an account that has access inside a D365FO instance for your Azure application registra...(read more)",
@@ -3416,15 +3425,6 @@
           "publishedOn": "2021-10-19T13:34:07.000Z",
           "wordCount": 1321,
           "title": "Application Version 10.0.23 is Available for Public Preview"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e08b8e60-1ae1-4887-ab79-74501e313f5b",
-          "author": "Brent Sokolofsky",
-          "description": "Quick Links\nDynamics 365 Update Policy\nDynamics 365 FinOps Main Page\nDynamics 365 Release Notes\nWhat's New in Dynamics 365\nDynamics 365 CE Team Blog\nDynamics 365 Content Library\nTwitter: P...(read more)",
-          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/dynamics-365-monthly-update---october-2021",
-          "publishedOn": "2021-10-12T19:16:35.000Z",
-          "wordCount": 1421,
-          "title": "Dynamics 365 Monthly Update - October 2021"
         }
       ]
     },

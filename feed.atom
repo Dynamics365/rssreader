@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-01-14T01:06:21.589Z</updated>
+    <updated>2022-01-15T01:03:37.672Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[This month’s Power Apps community call has two exciting topics: Creating an audio player and how to take advantage of the new Pay-as-you-go Power Apps features.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to modify a journal template in Dynamics 365]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b4b3008a-9947-433f-a473-bc9be05d4f7c</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/how-to-modify-a-journal-template-in-dynamics-365"/>
+        <updated>2022-01-12T21:18:30.000Z</updated>
+        <summary type="html"><![CDATA[One of my favorite features that is both a power user function and an ease-of-use tool is the native Excel integration throughout Dynamics 365 F&O. With the native Excel integration to create, del...(read more)]]></summary>
+        <author>
+            <name>Ryan Sandness MSFT</name>
         </author>
     </entry>
     <entry>
@@ -1245,23 +1255,6 @@ Ans:
 Yes It can be upgraded ax 2012 R2 to D365 F&O directly.]]></summary>
         <author>
             <name>SANTOSH KUMAR SINGH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Monthly Update - October 2021]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e08b8e60-1ae1-4887-ab79-74501e313f5b</id>
-        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/dynamics-365-monthly-update---october-2021"/>
-        <updated>2021-10-12T19:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Quick Links
-Dynamics 365 Update Policy
-Dynamics 365 FinOps Main Page
-Dynamics 365 Release Notes
-What's New in Dynamics 365
-Dynamics 365 CE Team Blog
-Dynamics 365 Content Library
-Twitter: P...(read more)]]></summary>
-        <author>
-            <name>Brent Sokolofsky</name>
         </author>
     </entry>
     <entry>
