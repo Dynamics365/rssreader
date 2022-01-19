@@ -2440,6 +2440,15 @@
       "siteUrl": "https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:544d0624-964f-421f-a76c-2885b92b8685",
+          "author": "Shankar Das",
+          "description": "This is my first blog post in 2022, I would like to share with you related to validation and payment control for payment journals and would share with you peace of code to capture the event hand...(read more)",
+          "link": "https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/capturing-the-event-handler-for-validation-before-posting-vendor-payment-journal-d365-classes",
+          "publishedOn": "2022-01-18T08:33:00.000Z",
+          "wordCount": 954,
+          "title": "Capturing the event handler for validation before posting vendor payment journal: D365 classes"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4d2f2361-0647-4bdb-87a2-dba4a5777cac",
           "author": "Shankar Das",
           "description": "Introduction You could have a scenario particularly in manufacturing industry where a finished good or a product can vary in size, weight or both. In this case, you would have two units of measures for...(read more)",
@@ -2563,15 +2572,6 @@
           "link": "https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/dynamics-ax-date-calculator-how-to-get-the-difference-between-two-date-in-ax-2012-in-detail-years-months-days-1396140565",
           "publishedOn": "2016-11-01T11:52:00.000Z",
           "wordCount": 948,
-          "title": "Dynamics AX Date Calculator : How to get The difference between two date in ax 2012 in detail years months days"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3f69e192-81a1-40c4-896f-ee49e83544e8",
-          "author": "Shankar Das",
-          "description": "You often try to calculate the differences between two dates using the available functions in dynamics ax for dates. However, for example I have two dates such as start date = 07/07/2007 and end date ...(read more)",
-          "link": "https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/dynamics-ax-date-calculator-how-to-get-the-difference-between-two-date-in-ax-2012-in-detail-years-months-days",
-          "publishedOn": "2016-11-01T11:52:00.000Z",
-          "wordCount": 940,
           "title": "Dynamics AX Date Calculator : How to get The difference between two date in ax 2012 in detail years months days"
         }
       ]
@@ -3306,7 +3306,7 @@
           "description": "This post is for those that are interested in developing .Net integrations with D365FO. In order to authenticate an account that has access inside a D365FO instance for your Azure application registra...(read more)",
           "link": "https://community.dynamics.com/ax/b/axinthefield/posts/move-to-the-newer-microsoft-authentication-library-msal-to-acquire-a-token-for-your-integrations",
           "publishedOn": "2021-12-15T06:00:00.000Z",
-          "wordCount": 1841,
+          "wordCount": 1931,
           "title": "Using the Microsoft Authentication Library (MSAL) with D365 Finance and Operations apps"
         },
         {
@@ -3576,6 +3576,15 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "introducing-the-alm-accelerator-for-power-platform",
+          "author": null,
+          "description": "Historically, getting started with Application Lifecycle Management (ALM) for the Microsoft Power Platform came with a learning curve and lots of time investment setting up ALM. Based on our own learnings setting up ALM for the Center of Excellence (CoE) Starter kit, we’re excited to introduce you to the public preview of the ALM Accelerator for Power Platform – a new reference implementation that is now also part of the Center of Excellence (CoE) Starter Kit.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/introducing-the-alm-accelerator-for-power-platform/",
+          "publishedOn": "2022-01-18T15:00:07.000Z",
+          "wordCount": 1374,
+          "title": "Introducing the ALM Accelerator for Power Platform"
+        },
+        {
           "id": "january-2022-power-apps-community-call-creating-an-audio-player-and-deep-dive-into-pay-as-you-go-features",
           "author": null,
           "description": "This month’s Power Apps community call has two exciting topics: Creating an audio player and how to take advantage of the new Pay-as-you-go Power Apps features.",
@@ -3655,15 +3664,6 @@
           "publishedOn": "2021-12-08T11:53:51.000Z",
           "wordCount": 1496,
           "title": "Improving sales conversion by placing products directly in your customer’s space with Mixed Reality"
-        },
-        {
-          "id": "boy-digitally-transforms-a-child-daycare-facility",
-          "author": null,
-          "description": "Today, we share a story of a 14 year old boy, Kazuki from Japan who empowers others through Power Apps.",
-          "link": "https://powerapps.microsoft.com/en-us/blog/boy-digitally-transforms-a-child-daycare-facility/",
-          "publishedOn": "2021-12-03T08:00:00.000Z",
-          "wordCount": 1539,
-          "title": "14 year-old boy digitally transforms a child daycare facility through Microsoft Power Apps"
         }
       ]
     }

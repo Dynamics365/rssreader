@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-01-18T01:06:27.387Z</updated>
+    <updated>2022-01-19T00:58:15.941Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing the ALM Accelerator for Power Platform]]></title>
+        <id>introducing-the-alm-accelerator-for-power-platform</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/introducing-the-alm-accelerator-for-power-platform/"/>
+        <updated>2022-01-18T15:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Historically, getting started with Application Lifecycle Management (ALM) for the Microsoft Power Platform came with a learning curve and lots of time investment setting up ALM. Based on our own learnings setting up ALM for the Center of Excellence (CoE) Starter kit, we’re excited to introduce you to the public preview of the ALM Accelerator for Power Platform – a new reference implementation that is now also part of the Center of Excellence (CoE) Starter Kit.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capturing the event handler for validation before posting vendor payment journal: D365 classes]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:544d0624-964f-421f-a76c-2885b92b8685</id>
+        <link href="https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/capturing-the-event-handler-for-validation-before-posting-vendor-payment-journal-d365-classes"/>
+        <updated>2022-01-18T08:33:00.000Z</updated>
+        <summary type="html"><![CDATA[This is my first blog post in 2022, I would like to share with you related to validation and payment control for payment journals and would share with you peace of code to capture the event hand...(read more)]]></summary>
+        <author>
+            <name>Shankar Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[January 2022 Power Apps community call: Creating an Audio Player and deep dive into Pay-as-you-go features]]></title>
         <id>january-2022-power-apps-community-call-creating-an-audio-player-and-deep-dive-into-pay-as-you-go-features</id>
@@ -630,16 +650,6 @@ SQL insights
 Live view, Performance metrics (e.g. long running queries…), Blockings...(read more)]]></summary>
         <author>
             <name>Rahul Mohta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14 year-old boy digitally transforms a child daycare facility through Microsoft Power Apps]]></title>
-        <id>boy-digitally-transforms-a-child-daycare-facility</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/boy-digitally-transforms-a-child-daycare-facility/"/>
-        <updated>2021-12-03T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we share a story of a 14 year old boy, Kazuki from Japan who empowers others through Power Apps.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -4985,16 +4995,6 @@ Correct / Cancel a posted Packing sli...(read more)]]></summary>
         <title type="html"><![CDATA[Dynamics AX Date Calculator : How to get The difference between two date in ax 2012 in detail years months days]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9f24685d-8e8f-4a7c-b49b-41461d1169f7</id>
         <link href="https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/dynamics-ax-date-calculator-how-to-get-the-difference-between-two-date-in-ax-2012-in-detail-years-months-days-1396140565"/>
-        <updated>2016-11-01T11:52:00.000Z</updated>
-        <summary type="html"><![CDATA[You often try to calculate the differences between two dates using the available functions in dynamics ax for dates. However, for example I have two dates such as start date = 07/07/2007 and end date ...(read more)]]></summary>
-        <author>
-            <name>Shankar Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics AX Date Calculator : How to get The difference between two date in ax 2012 in detail years months days]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3f69e192-81a1-40c4-896f-ee49e83544e8</id>
-        <link href="https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/dynamics-ax-date-calculator-how-to-get-the-difference-between-two-date-in-ax-2012-in-detail-years-months-days"/>
         <updated>2016-11-01T11:52:00.000Z</updated>
         <summary type="html"><![CDATA[You often try to calculate the differences between two dates using the available functions in dynamics ax for dates. However, for example I have two dates such as start date = 07/07/2007 and end date ...(read more)]]></summary>
         <author>
