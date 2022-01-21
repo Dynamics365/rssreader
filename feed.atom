@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-01-20T01:11:45.369Z</updated>
+    <updated>2022-01-21T00:59:27.706Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best practices and workbooks to accelerate your Microsoft Power Platform adoption]]></title>
+        <id>best-practices-and-workbooks-to-accelerate-your-microsoft-power-platform-adoption</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/best-practices-and-workbooks-to-accelerate-your-microsoft-power-platform-adoption/"/>
+        <updated>2022-01-20T06:21:45.000Z</updated>
+        <summary type="html"><![CDATA[We have just launched new content and workbooks designed to help you create and implement the business and technology strategies necessary for your organization to succeed with Microsoft Power Platform: https://adoption.microsoft.com/powerplatform]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing the ALM Accelerator for Power Platform]]></title>
         <id>introducing-the-alm-accelerator-for-power-platform</id>
@@ -624,16 +634,6 @@ static void RefreshCueCache(Companyid _curr = curext()){cueRun cueRun;cuesQuery 
 public static date Week2Date(int ...(read more)]]></summary>
         <author>
             <name>Daniele Ferraretto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving sales conversion by placing products directly in your customer’s space with Mixed Reality]]></title>
-        <id>improving-sales-conversion-by-placing-products-directly-in-your-customers-space-with-mixed-reality</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/improving-sales-conversion-by-placing-products-directly-in-your-customers-space-with-mixed-reality/"/>
-        <updated>2021-12-08T11:53:51.000Z</updated>
-        <summary type="html"><![CDATA[Showing products in a customer’s environment helps sales teams have better conversations about how a product might fit into a space, including how it impacts lines-of-sight and egress. By using Mixed Reality (MR), you can visualize products at real size in context of the physical world to close deals that would not have happened with just images or videos and differentiate your company from its competitors. Learn how to use the Power Apps Mixed Reality controls to land larger opportunities faster, increase customer satisfaction, and optimize brand performance – without the need for a specialized team of 3D / MR content creators, developers, and designers through low-code.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>

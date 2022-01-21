@@ -3576,6 +3576,15 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "best-practices-and-workbooks-to-accelerate-your-microsoft-power-platform-adoption",
+          "author": null,
+          "description": "We have just launched new content and workbooks designed to help you create and implement the business and technology strategies necessary for your organization to succeed with Microsoft Power Platform: https://adoption.microsoft.com/powerplatform",
+          "link": "https://powerapps.microsoft.com/en-us/blog/best-practices-and-workbooks-to-accelerate-your-microsoft-power-platform-adoption/",
+          "publishedOn": "2022-01-20T06:21:45.000Z",
+          "wordCount": 972,
+          "title": "Best practices and workbooks to accelerate your Microsoft Power Platform adoption"
+        },
+        {
           "id": "introducing-the-alm-accelerator-for-power-platform",
           "author": null,
           "description": "Historically, getting started with Application Lifecycle Management (ALM) for the Microsoft Power Platform came with a learning curve and lots of time investment setting up ALM. Based on our own learnings setting up ALM for the Center of Excellence (CoE) Starter kit, we’re excited to introduce you to the public preview of the ALM Accelerator for Power Platform – a new reference implementation that is now also part of the Center of Excellence (CoE) Starter Kit.",
@@ -3655,15 +3664,6 @@
           "publishedOn": "2021-12-09T08:00:00.000Z",
           "wordCount": 860,
           "title": "Visualize data in model-driven apps with Power BI (preview)"
-        },
-        {
-          "id": "improving-sales-conversion-by-placing-products-directly-in-your-customers-space-with-mixed-reality",
-          "author": null,
-          "description": "Showing products in a customer’s environment helps sales teams have better conversations about how a product might fit into a space, including how it impacts lines-of-sight and egress. By using Mixed Reality (MR), you can visualize products at real size in context of the physical world to close deals that would not have happened with just images or videos and differentiate your company from its competitors. Learn how to use the Power Apps Mixed Reality controls to land larger opportunities faster, increase customer satisfaction, and optimize brand performance – without the need for a specialized team of 3D / MR content creators, developers, and designers through low-code.",
-          "link": "https://powerapps.microsoft.com/en-us/blog/improving-sales-conversion-by-placing-products-directly-in-your-customers-space-with-mixed-reality/",
-          "publishedOn": "2021-12-08T11:53:51.000Z",
-          "wordCount": 1496,
-          "title": "Improving sales conversion by placing products directly in your customer’s space with Mixed Reality"
         }
       ]
     }
