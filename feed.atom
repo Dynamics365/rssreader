@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-01-24T00:59:44.076Z</updated>
+    <updated>2022-01-25T01:07:01.030Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Apps portals: Announcing General Availability (GA) of Power Virtual Agents integration using “Chatbot” component]]></title>
+        <id>power-apps-portals-announcing-general-availability-ga-of-power-virtual-agents-integration-using-chatbot-component</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-portals-announcing-general-availability-ga-of-power-virtual-agents-integration-using-chatbot-component/"/>
+        <updated>2022-01-23T23:22:06.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the General Availability (GA) of Power Virtual Agents integration using “Chatbot” component that was introduced in May 2021 release as a preview feature.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best practices and workbooks to accelerate your Microsoft Power Platform adoption]]></title>
         <id>best-practices-and-workbooks-to-accelerate-your-microsoft-power-platform-adoption</id>
@@ -575,16 +585,6 @@ No single report, However information is available across different places as s
 &nbsp...(read more)]]></summary>
         <author>
             <name>Rahul Mohta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visualize data in model-driven apps with Power BI (preview)]]></title>
-        <id>visualize-data-in-model-driven-apps-with-power-bi-preview</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/visualize-data-in-model-driven-apps-with-power-bi-preview/"/>
-        <updated>2021-12-09T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Visualizing data in a view to get to interactive insights is a lot faster and easier, with Power BI quick reports available on model-driven apps’ view pages.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>

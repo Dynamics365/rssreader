@@ -3576,6 +3576,15 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "power-apps-portals-announcing-general-availability-ga-of-power-virtual-agents-integration-using-chatbot-component",
+          "author": null,
+          "description": "We are excited to announce the General Availability (GA) of Power Virtual Agents integration using “Chatbot” component that was introduced in May 2021 release as a preview feature.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-announcing-general-availability-ga-of-power-virtual-agents-integration-using-chatbot-component/",
+          "publishedOn": "2022-01-23T23:22:06.000Z",
+          "wordCount": 673,
+          "title": "Power Apps portals: Announcing General Availability (GA) of Power Virtual Agents integration using “Chatbot” component"
+        },
+        {
           "id": "best-practices-and-workbooks-to-accelerate-your-microsoft-power-platform-adoption",
           "author": null,
           "description": "We have just launched new content and workbooks designed to help you create and implement the business and technology strategies necessary for your organization to succeed with Microsoft Power Platform: https://adoption.microsoft.com/powerplatform",
@@ -3655,15 +3664,6 @@
           "publishedOn": "2021-12-12T21:01:55.000Z",
           "wordCount": 672,
           "title": "Power Apps portals : Support for Microsoft Dataverse choices columns (preview)"
-        },
-        {
-          "id": "visualize-data-in-model-driven-apps-with-power-bi-preview",
-          "author": null,
-          "description": "Visualizing data in a view to get to interactive insights is a lot faster and easier, with Power BI quick reports available on model-driven apps’ view pages.",
-          "link": "https://powerapps.microsoft.com/en-us/blog/visualize-data-in-model-driven-apps-with-power-bi-preview/",
-          "publishedOn": "2021-12-09T08:00:00.000Z",
-          "wordCount": 860,
-          "title": "Visualize data in model-driven apps with Power BI (preview)"
         }
       ]
     }
