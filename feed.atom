@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-01-25T01:07:01.030Z</updated>
+    <updated>2022-01-26T01:06:51.886Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: Aligning low code trends with BPM]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d8451981-78e2-47e0-a2cc-ab6a7cedea4a</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-aligning-low-code-trends-with-bpm"/>
+        <updated>2022-01-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This episode is sponsored by 
+ Mavim . 
+ 
+ The maturing of low-code tools like Microsoft Power Platform
+gives organizations exciting new options when planning for the
+future of their legacy processes and systems. But when considering
+new connectors... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Apps portals: Announcing General Availability (GA) of Power Virtual Agents integration using “Chatbot” component]]></title>
         <id>power-apps-portals-announcing-general-availability-ga-of-power-virtual-agents-integration-using-chatbot-component</id>
@@ -1276,20 +1292,6 @@ Yes It can be upgraded ax 2012 R2 to D365 F&O directly.]]></summary>
 Migrating data from AX2012 (or an older version) to Microsoft Dynamics 365 for Finance and Supply Chain Management may present unexpected challenges. While working on various ...(read more)]]></summary>
         <author>
             <name>1ClickFactory Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Process Management for a Dynamics 365 implementation: Beyond diagnostics]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:cac85dcf-aa1d-42a6-867a-ffa7309b60ba</id>
-        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/business-process-management-for-a-dynamics-365-implementation-beyond-diagnostics"/>
-        <updated>2021-10-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When an organization makes the
-decision to take steps to execute on digital transformation
-initiatives, they must consider key factors to ensure a successful
-outcome. In fact, Gartner has reported that organizations
-experience failure rates on planned... Read the full text.]]></summary>
-        <author>
-            <name>MSDynamicsWorld.com</name>
         </author>
     </entry>
     <entry>
