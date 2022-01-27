@@ -2440,6 +2440,15 @@
       "siteUrl": "https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:078f0f77-8299-49e0-a5c5-c4fbd8f355bd",
+          "author": "Shankar Das",
+          "description": "The feature of processing requests for quotations in Dynamics 365 Finance and Operations enables visibility to the quoting process, traceability, and better collaboration among buyers and suppliers(ve...(read more)",
+          "link": "https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/modify-expiry-and-delivery-date-in-rfq-created-via-purchase-requisition-d365-finance-and-operations",
+          "publishedOn": "2022-01-26T08:02:00.000Z",
+          "wordCount": 1109,
+          "title": "Modify expiry and delivery date in RFQ created via Purchase requisition : D365 Finance and Operations"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:544d0624-964f-421f-a76c-2885b92b8685",
           "author": "Shankar Das",
           "description": "This is my first blog post in 2022, I would like to share with you related to validation and payment control for payment journals and would share with you peace of code to capture the event hand...(read more)",
@@ -2564,15 +2573,6 @@
           "publishedOn": "2016-11-16T06:00:00.000Z",
           "wordCount": 1180,
           "title": "Batch jobs in AX 2012"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:9f24685d-8e8f-4a7c-b49b-41461d1169f7",
-          "author": "Shankar Das",
-          "description": "You often try to calculate the differences between two dates using the available functions in dynamics ax for dates. However, for example I have two dates such as start date = 07/07/2007 and end date ...(read more)",
-          "link": "https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/dynamics-ax-date-calculator-how-to-get-the-difference-between-two-date-in-ax-2012-in-detail-years-months-days-1396140565",
-          "publishedOn": "2016-11-01T11:52:00.000Z",
-          "wordCount": 956,
-          "title": "Dynamics AX Date Calculator : How to get The difference between two date in ax 2012 in detail years months days"
         }
       ]
     },
@@ -3292,6 +3292,24 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axinthefield",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e261e718-843b-45e8-89b5-a49b5f9da272",
+          "author": "Kennet Kildegaard",
+          "description": "In our first blog post, we reviewed the setup and process of how to manually consolidate Purchase requisitions. You can find a link to that blog here.\nI our part 2 session, we will review how to ...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/consolidate-purchase-requisitions-using-a-batch-job---part-2",
+          "publishedOn": "2022-01-26T02:03:30.000Z",
+          "wordCount": 962,
+          "title": "Consolidate Purchase Requisitions using a batch job - Part 2"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bb79a6c8-8516-47a3-9fd1-9d124a7dbcba",
+          "author": "Kennet Kildegaard",
+          "description": "The process of Consolidating Purchase Requisitions when creating Purchase orders is a subject area that I have found, is not that well documented in the blogosphere.  These two blog posts are a seekin...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/manually-consolidate-purchase-requisitions-in-dynamics-365-f-o-1497990592",
+          "publishedOn": "2022-01-26T01:51:00.000Z",
+          "wordCount": 1013,
+          "title": "Manually Consolidate Purchase Requisitions in Dynamics 365 F&O - Part 1"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b4b3008a-9947-433f-a473-bc9be05d4f7c",
           "author": "Ryan Sandness MSFT",
           "description": "One of my favorite features that is both a power user function and an ease-of-use tool is the native Excel integration throughout Dynamics 365 F&O. With the native Excel integration to create, del...(read more)",
@@ -3407,24 +3425,6 @@
           "publishedOn": "2021-10-21T13:48:22.000Z",
           "wordCount": 1887,
           "title": "Eight tips to keep informed on all of the new functionality available in Business Applications"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d1146514-b1fa-4e8d-b428-24266495b70c",
-          "author": "Tom Stumpf",
-          "description": "Please join us on October 21, 2021 at 11:00am US Eastern Time for the Power Platform and Dynamics 365 Technical Update Briefing from the Customer Engineer team. We will be covering news and ...(read more)",
-          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/power-platform---dynamics-365-technical-update-briefing-october-21",
-          "publishedOn": "2021-10-21T13:08:25.000Z",
-          "wordCount": 1038,
-          "title": "Power Platform - Dynamics 365: Technical Update Briefing: October 21"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c9b2675a-0465-41b3-a54e-c3fde95e73b6",
-          "author": "Todd Jeska",
-          "description": "Application version 10.0.23 is now available for public preview. If you are interested in learning more about getting access to preview builds through the Public Early Access Program (PEAP) please che...(read more)",
-          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/application-version-10-0-23-is-available-for-public-preview",
-          "publishedOn": "2021-10-19T13:34:07.000Z",
-          "wordCount": 1329,
-          "title": "Application Version 10.0.23 is Available for Public Preview"
         }
       ]
     },

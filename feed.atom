@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-01-26T01:06:51.886Z</updated>
+    <updated>2022-01-27T01:03:11.243Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Modify expiry and delivery date in RFQ created via Purchase requisition : D365 Finance and Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:078f0f77-8299-49e0-a5c5-c4fbd8f355bd</id>
+        <link href="https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/modify-expiry-and-delivery-date-in-rfq-created-via-purchase-requisition-d365-finance-and-operations"/>
+        <updated>2022-01-26T08:02:00.000Z</updated>
+        <summary type="html"><![CDATA[The feature of processing requests for quotations in Dynamics 365 Finance and Operations enables visibility to the quoting process, traceability, and better collaboration among buyers and suppliers(ve...(read more)]]></summary>
+        <author>
+            <name>Shankar Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consolidate Purchase Requisitions using a batch job - Part 2]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e261e718-843b-45e8-89b5-a49b5f9da272</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/consolidate-purchase-requisitions-using-a-batch-job---part-2"/>
+        <updated>2022-01-26T02:03:30.000Z</updated>
+        <summary type="html"><![CDATA[In our first blog post, we reviewed the setup and process of how to manually consolidate Purchase requisitions. You can find a link to that blog here.
+I our part 2 session, we will review how to ...(read more)]]></summary>
+        <author>
+            <name>Kennet Kildegaard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manually Consolidate Purchase Requisitions in Dynamics 365 F&O - Part 1]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bb79a6c8-8516-47a3-9fd1-9d124a7dbcba</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/manually-consolidate-purchase-requisitions-in-dynamics-365-f-o-1497990592"/>
+        <updated>2022-01-26T01:51:00.000Z</updated>
+        <summary type="html"><![CDATA[The process of Consolidating Purchase Requisitions when creating Purchase orders is a subject area that I have found, is not that well documented in the blogosphere.  These two blog posts are a seekin...(read more)]]></summary>
+        <author>
+            <name>Kennet Kildegaard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSDW Podcast: Aligning low code trends with BPM]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d8451981-78e2-47e0-a2cc-ab6a7cedea4a</id>
@@ -1170,16 +1201,6 @@ IIA-CIA-PART2 :Certified Internal Auditor - Part 2, Conducting the Internal Audi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Power Platform - Dynamics 365: Technical Update Briefing: October 21]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d1146514-b1fa-4e8d-b428-24266495b70c</id>
-        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/power-platform---dynamics-365-technical-update-briefing-october-21"/>
-        <updated>2021-10-21T13:08:25.000Z</updated>
-        <summary type="html"><![CDATA[Please join us on October 21, 2021 at 11:00am US Eastern Time for the Power Platform and Dynamics 365 Technical Update Briefing from the Customer Engineer team. We will be covering news and ...(read more)]]></summary>
-        <author>
-            <name>Tom Stumpf</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Naming Conventions - Common Prefixes Dyanmics AX]]></title>
         <id>https://nuxulu.com/2021-10-20-common-prefixes-dyanmics-ax/</id>
         <link href="https://nuxulu.com/2021-10-20-common-prefixes-dyanmics-ax/"/>
@@ -1227,16 +1248,6 @@ Web Web framework
 WMS Warehouse management]]></summary>
         <author>
             <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Application Version 10.0.23 is Available for Public Preview]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c9b2675a-0465-41b3-a54e-c3fde95e73b6</id>
-        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/application-version-10-0-23-is-available-for-public-preview"/>
-        <updated>2021-10-19T13:34:07.000Z</updated>
-        <summary type="html"><![CDATA[Application version 10.0.23 is now available for public preview. If you are interested in learning more about getting access to preview builds through the Public Early Access Program (PEAP) please che...(read more)]]></summary>
-        <author>
-            <name>Todd Jeska</name>
         </author>
     </entry>
     <entry>
@@ -4991,16 +5002,6 @@ Filed under: Ax 2009, Ax 2012, Dynamics Ax, X++ Tagged: Ax 2009, AX2012, Dynamic
 Correct / Cancel a posted Packing sli...(read more)]]></summary>
         <author>
             <name>Guy Terry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics AX Date Calculator : How to get The difference between two date in ax 2012 in detail years months days]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9f24685d-8e8f-4a7c-b49b-41461d1169f7</id>
-        <link href="https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/dynamics-ax-date-calculator-how-to-get-the-difference-between-two-date-in-ax-2012-in-detail-years-months-days-1396140565"/>
-        <updated>2016-11-01T11:52:00.000Z</updated>
-        <summary type="html"><![CDATA[You often try to calculate the differences between two dates using the available functions in dynamics ax for dates. However, for example I have two dates such as start date = 07/07/2007 and end date ...(read more)]]></summary>
-        <author>
-            <name>Shankar Das</name>
         </author>
     </entry>
     <entry>
