@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-01-28T01:00:38.023Z</updated>
+    <updated>2022-01-29T00:56:55.822Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 ERP CVP Muhammad Alam announces departure from Microsoft]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8bcb4bef-6f82-4e3f-814c-18623f021a67</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/dynamics-365-erp-cvp-muhammad-alam-announces-departure-from-microsoft"/>
+        <updated>2022-01-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft corporate vice president
+for Dynamics 365 Muhammad Alam will be leaving the company, he
+announced recently.
+ The Microsoft veteran 
+ 
+took on a product leadership role in 2017 after thirteen years
+in various other roles related to Dynamics... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modify expiry and delivery date in RFQ created via Purchase requisition : D365 Finance and Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:078f0f77-8299-49e0-a5c5-c4fbd8f355bd</id>
@@ -1248,20 +1264,6 @@ Web Web framework
 WMS Warehouse management]]></summary>
         <author>
             <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding a digital adoption platform for enterprise software users: What you need to know]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:26922e7e-5574-4e95-8460-93cf7f339c39</id>
-        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/adding-a-digital-adoption-platform-for-enterprise-software-users-what-you-need-to-know"/>
-        <updated>2021-10-17T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With remote and hybrid work now the
-norm, employers are rethinking their training strategies around
-adoption of digital technology. Organizations often find themselves
-leaning towards digital adoption platforms (DAPs) to help optimize
-employees' use... Read the full text.]]></summary>
-        <author>
-            <name>MSDynamicsWorld.com</name>
         </author>
     </entry>
     <entry>
