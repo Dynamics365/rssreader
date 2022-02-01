@@ -3292,6 +3292,15 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axinthefield",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:6cd1966e-35b9-4d3c-a5c4-1a215033ef9b",
+          "author": "Said Nikjou",
+          "description": "Some customers have been reporting errors (File contains corrupted data) when they are trying to import the bacpac files on developer boxes.\n\nThe recommendation is to use the SQLPakage tools to import...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/restore-a-production-database-on-a-cloud-hosted-environment",
+          "publishedOn": "2022-01-31T18:53:29.000Z",
+          "wordCount": 1177,
+          "title": "Restore a Production Database on a Cloud-hosted Environment"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e261e718-843b-45e8-89b5-a49b5f9da272",
           "author": "Kennet Kildegaard",
           "description": "In our first blog post, we reviewed the setup and process of how to manually consolidate Purchase requisitions. You can find a link to that blog here.\nI our part 2 session, we will review how to ...(read more)",
@@ -3315,7 +3324,7 @@
           "description": "One of my favorite features that is both a power user function and an ease-of-use tool is the native Excel integration throughout Dynamics 365 F&O. With the native Excel integration to create, del...(read more)",
           "link": "https://community.dynamics.com/ax/b/axinthefield/posts/how-to-modify-a-journal-template-in-dynamics-365",
           "publishedOn": "2022-01-12T21:18:30.000Z",
-          "wordCount": 1706,
+          "wordCount": 1717,
           "title": "How to modify a journal template in Dynamics 365"
         },
         {
@@ -3416,15 +3425,6 @@
           "publishedOn": "2021-10-21T21:29:55.000Z",
           "wordCount": 1095,
           "title": "Automatic update for all Microsoft managed additional Sandbox (UAT) environments"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:98a50054-8670-42e5-9eea-208c6094bc91",
-          "author": "Ryan Sandness MSFT",
-          "description": "There is a ton of new functionality available every month to customers. With such a large amount of functionality introduced, how can an organization stay on top of what features they should prioritiz...(read more)",
-          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/eight-tips-to-keep-informed-on-all-of-the-new-functionality-available-in-business-applications",
-          "publishedOn": "2021-10-21T13:48:22.000Z",
-          "wordCount": 1887,
-          "title": "Eight tips to keep informed on all of the new functionality available in Business Applications"
         }
       ]
     },
@@ -3576,12 +3576,21 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support",
+          "author": null,
+          "description": "The Sovereign Cloud support for Power Platform Command Line tool",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support/",
+          "publishedOn": "2022-01-31T10:56:13.000Z",
+          "wordCount": 710,
+          "title": "Power Platform Developer Tools Dec/Jan Refresh (Sovereign Cloud support)"
+        },
+        {
           "id": "power-apps-portals-announcing-general-availability-ga-of-power-virtual-agents-integration-using-chatbot-component",
           "author": null,
           "description": "We are excited to announce the General Availability (GA) of Power Virtual Agents integration using “Chatbot” component that was introduced in May 2021 release as a preview feature.",
           "link": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-announcing-general-availability-ga-of-power-virtual-agents-integration-using-chatbot-component/",
           "publishedOn": "2022-01-23T23:22:06.000Z",
-          "wordCount": 673,
+          "wordCount": 675,
           "title": "Power Apps portals: Announcing General Availability (GA) of Power Virtual Agents integration using “Chatbot” component"
         },
         {
@@ -3590,7 +3599,7 @@
           "description": "We have just launched new content and workbooks designed to help you create and implement the business and technology strategies necessary for your organization to succeed with Microsoft Power Platform: https://adoption.microsoft.com/powerplatform",
           "link": "https://powerapps.microsoft.com/en-us/blog/best-practices-and-workbooks-to-accelerate-your-microsoft-power-platform-adoption/",
           "publishedOn": "2022-01-20T06:21:45.000Z",
-          "wordCount": 972,
+          "wordCount": 974,
           "title": "Best practices and workbooks to accelerate your Microsoft Power Platform adoption"
         },
         {
@@ -3599,7 +3608,7 @@
           "description": "Historically, getting started with Application Lifecycle Management (ALM) for the Microsoft Power Platform came with a learning curve and lots of time investment setting up ALM. Based on our own learnings setting up ALM for the Center of Excellence (CoE) Starter kit, we’re excited to introduce you to the public preview of the ALM Accelerator for Power Platform – a new reference implementation that is now also part of the Center of Excellence (CoE) Starter Kit.",
           "link": "https://powerapps.microsoft.com/en-us/blog/introducing-the-alm-accelerator-for-power-platform/",
           "publishedOn": "2022-01-18T15:00:07.000Z",
-          "wordCount": 1374,
+          "wordCount": 1376,
           "title": "Introducing the ALM Accelerator for Power Platform"
         },
         {
@@ -3608,7 +3617,7 @@
           "description": "This month’s Power Apps community call has two exciting topics: Creating an audio player and how to take advantage of the new Pay-as-you-go Power Apps features.",
           "link": "https://powerapps.microsoft.com/en-us/blog/january-2022-power-apps-community-call-creating-an-audio-player-and-deep-dive-into-pay-as-you-go-features/",
           "publishedOn": "2022-01-13T14:26:25.000Z",
-          "wordCount": 1181,
+          "wordCount": 1183,
           "title": "January 2022 Power Apps community call: Creating an Audio Player and deep dive into Pay-as-you-go features"
         },
         {
@@ -3617,7 +3626,7 @@
           "description": "After we announced public preview of Power Apps Ideas, including writing Power Fx formulas with natural language and generating formulas from examples, we continued tuning the design and improving our AI model to make Ideas work better for you. Today, we’re happy to share some of the latest updates on Ideas with you.",
           "link": "https://powerapps.microsoft.com/en-us/blog/power-apps-ideas-new-enhancements-and-increased-capabilities/",
           "publishedOn": "2022-01-11T09:43:17.000Z",
-          "wordCount": 951,
+          "wordCount": 953,
           "title": "Power Apps Ideas: New enhancements and increased capabilities"
         },
         {
@@ -3626,7 +3635,7 @@
           "description": "We are excited to announce the portals search powered by Dataverse search API now available for public preview.",
           "link": "https://powerapps.microsoft.com/en-us/blog/powerapps-portals-introducing-the-portals-search-powered-by-microsoft-dataverse-search-api-preview/",
           "publishedOn": "2022-01-03T09:00:00.000Z",
-          "wordCount": 651,
+          "wordCount": 653,
           "title": "Power Apps portals : Introducing the portals search powered by Microsoft Dataverse search API  (preview)"
         },
         {
@@ -3635,7 +3644,7 @@
           "description": "EY is a global professional services firm with over 300,000 employees across 150 countries. With specialties in assurance, tax and transaction, and advisory, they have delivered client solutions to 1 million users worldwide. Most recently, the EY Nordic Tech Hub team transformed their annual salary review process with Microsoft Power Platform. The solution uses Power Apps, Power Automate, Power BI, SQL, and is connected to SharePoint online. With this new technology, a process that once took four months, now takes only two.",
           "link": "https://powerapps.microsoft.com/en-us/blog/ey-nordic-tech-hub-transforms-annual-salary-review-process-with-microsoft-power-platform/",
           "publishedOn": "2021-12-16T08:00:04.000Z",
-          "wordCount": 1475,
+          "wordCount": 1477,
           "title": "EY Nordic Tech Hub transforms annual salary review process with Microsoft Power Platform"
         },
         {
@@ -3644,7 +3653,7 @@
           "description": "Details of the November Refresh coming out for Power Platform CLI",
           "link": "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-november-refresh/",
           "publishedOn": "2021-12-15T09:00:00.000Z",
-          "wordCount": 1062,
+          "wordCount": 1064,
           "title": "Power Platform Developer Tools: November Refresh"
         },
         {
@@ -3653,17 +3662,8 @@
           "description": "The December Power Apps community call brings us two presenters from the Power Apps product group and their favorite topics: Building Xbox games with Power Apps by Brian Dang and a look at a soon be released preview feature: Office-like collaborative comments in Power Apps by Emma Cooper!",
           "link": "https://powerapps.microsoft.com/en-us/blog/december-2021-power-apps-community-call-power-apps-co-authoring-features-with-emma-cooper-and-creating-xbox-games-with-brian-dang/",
           "publishedOn": "2021-12-13T12:21:58.000Z",
-          "wordCount": 912,
+          "wordCount": 914,
           "title": "December 2021 Power Apps Community Call: Power Apps co-authoring features with Emma Cooper and creating Xbox games with Brian Dang"
-        },
-        {
-          "id": "power-apps-portals-support-for-microsoft-dataverse-choices-columns-preview",
-          "author": null,
-          "description": "We are excited to announce the support for choices columns on portals is now available for public preview.",
-          "link": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-support-for-microsoft-dataverse-choices-columns-preview/",
-          "publishedOn": "2021-12-12T21:01:55.000Z",
-          "wordCount": 672,
-          "title": "Power Apps portals : Support for Microsoft Dataverse choices columns (preview)"
         }
       ]
     }

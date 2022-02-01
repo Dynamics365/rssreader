@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-01-31T00:59:26.925Z</updated>
+    <updated>2022-02-01T01:03:41.654Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Restore a Production Database on a Cloud-hosted Environment]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6cd1966e-35b9-4d3c-a5c4-1a215033ef9b</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/restore-a-production-database-on-a-cloud-hosted-environment"/>
+        <updated>2022-01-31T18:53:29.000Z</updated>
+        <summary type="html"><![CDATA[Some customers have been reporting errors (File contains corrupted data) when they are trying to import the bacpac files on developer boxes.
+
+The recommendation is to use the SQLPakage tools to import...(read more)]]></summary>
+        <author>
+            <name>Said Nikjou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Developer Tools Dec/Jan Refresh (Sovereign Cloud support)]]></title>
+        <id>power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support/"/>
+        <updated>2022-01-31T10:56:13.000Z</updated>
+        <summary type="html"><![CDATA[The Sovereign Cloud support for Power Platform Command Line tool]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 ERP CVP Muhammad Alam announces departure from Microsoft]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8bcb4bef-6f82-4e3f-814c-18623f021a67</id>
@@ -628,16 +650,6 @@ Inadequate or outdated technology is another big challenge for AP departments o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Power Apps portals : Support for Microsoft Dataverse choices columns (preview)]]></title>
-        <id>power-apps-portals-support-for-microsoft-dataverse-choices-columns-preview</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-portals-support-for-microsoft-dataverse-choices-columns-preview/"/>
-        <updated>2021-12-12T21:01:55.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the support for choices columns on portals is now available for public preview.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[inventory cost breakdown insights in Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f3f6d6a9-9ea1-43f2-9cff-d2240af0954d</id>
         <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/inventory-cost-breakdown-insights-in-microsoft-dynamics-365-finance-and-operations"/>
@@ -1204,16 +1216,6 @@ IIA-CIA-PART2 :Certified Internal Auditor - Part 2, Conducting the Internal Audi
         <summary type="html"><![CDATA[We are introducing a new feature for Finance & Operations Lifecycle Services (LCS): automatic update for all Microsoft managed additional Sandbox (UAT) environments. This change will ensure that a...(read more)]]></summary>
         <author>
             <name>Samuel Ardila Carre&amp;#241;o</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eight tips to keep informed on all of the new functionality available in Business Applications]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:98a50054-8670-42e5-9eea-208c6094bc91</id>
-        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/eight-tips-to-keep-informed-on-all-of-the-new-functionality-available-in-business-applications"/>
-        <updated>2021-10-21T13:48:22.000Z</updated>
-        <summary type="html"><![CDATA[There is a ton of new functionality available every month to customers. With such a large amount of functionality introduced, how can an organization stay on top of what features they should prioritiz...(read more)]]></summary>
-        <author>
-            <name>Ryan Sandness MSFT</name>
         </author>
     </entry>
     <entry>
