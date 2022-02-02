@@ -1128,12 +1128,21 @@
       "siteUrl": "https://d365fostuff.wordpress.com",
       "articles": [
         {
+          "id": "http://d365fostuff.wordpress.com/?p=371",
+          "author": "Marijan",
+          "description": "Disclaimer: I do not encourage anyone on using this feature. And if you use it, please be careful with manipulating data using this feature. With the release of the PEAP version for 10.0.25 Microsoft reintroduced the ability to execute jobs without having a downtime for the needed deployment: https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/run-custom-scriptsWhile I wouldn’t recommend anyone to use […]",
+          "link": "https://d365fostuff.wordpress.com/2022/02/01/ax2012-jobs-are-back-in-d365-kind-of/",
+          "publishedOn": "2022-02-01T20:12:18.000Z",
+          "wordCount": 695,
+          "title": "AX2012 jobs are back in D365 (kind of)"
+        },
+        {
           "id": "http://d365fostuff.wordpress.com/?p=110",
           "author": "Marijan",
           "description": "Ever since I used Azure DevOps (or visualstudio.com or VS online) as a version control system and to build and release Dynamics AX code to different environments, I wanted a neat and simple way to auto generate release notes. So this time I want to show you, how we can use Azure DevOps to auto […]",
           "link": "https://d365fostuff.wordpress.com/2021/12/01/automated-release-notes-for-your-d365-azure-devops-project/",
           "publishedOn": "2021-12-01T20:21:57.000Z",
-          "wordCount": 995,
+          "wordCount": 1008,
           "title": "Automated Release Notes for your (D365) Azure DevOps – project"
         },
         {
@@ -1142,7 +1151,7 @@
           "description": "In my first post we utilized the LCS API to start and stop cloud hosted environments via power automate. Since the API has evolved and we can now get environment metadata, environment history or the environment RSAT certificate, I decided to make another one. This time it’ll cover fetching the environment metadata through a power […]",
           "link": "https://d365fostuff.wordpress.com/2021/09/13/power-automate-flow-to-fetch-lcs-environment-metadata/",
           "publishedOn": "2021-09-13T18:11:59.000Z",
-          "wordCount": 1226,
+          "wordCount": 1229,
           "title": "Power Automate Flow to fetch LCS environment metadata"
         },
         {
@@ -1151,7 +1160,7 @@
           "description": "After my last post on auto refreshing data entities after a deployment, I want to show you how to enable users in your system after a database refresh. A big ‘thank you’ goes out, as always, to @splaxi for delivering the d365fo – toolset and for the idea on this post.We will use the d365fo.integrations […]",
           "link": "https://d365fostuff.wordpress.com/2021/04/06/d365fo-integration-enable-users-after-database-refresh/",
           "publishedOn": "2021-04-06T19:51:01.000Z",
-          "wordCount": 933,
+          "wordCount": 936,
           "title": "d365fo.integration – Enable users after database refresh"
         },
         {
@@ -1160,7 +1169,7 @@
           "description": "Meet the little brother of the d365fo.tools – d365fo.integrations. To be honest I wasn’t fully aware about this one until @splaxi mentioned them. But after a quick look into this module I’m more than excited to share this. Ever wondered why you need to manually refresh the data entity list in your Tier-2 environment after […]",
           "link": "https://d365fostuff.wordpress.com/2021/03/31/d365fo-integrations-auto-refresh-your-data-entity-list/",
           "publishedOn": "2021-03-31T20:49:17.000Z",
-          "wordCount": 1033,
+          "wordCount": 1036,
           "title": "d365fo.integrations – Auto refresh your data entity list"
         },
         {
@@ -1169,7 +1178,7 @@
           "description": "In my previous post I covered the use of the d365fo.tools to setup a NuGet source and to upload NuGet packages to an Azure DevOps artifact feed. In this post I want to show one way, how we can use the d365fo.tools to update the NuGet packages with the newest version available in the LCS […]",
           "link": "https://d365fostuff.wordpress.com/2021/03/17/d365fo-tools-publish-the-nuget-packages-for-the-azure-hosted-build-pipeline-pt-2/",
           "publishedOn": "2021-03-17T20:48:01.000Z",
-          "wordCount": 1018,
+          "wordCount": 1021,
           "title": "d365fo.tools – Publish the NuGet packages for the Azure hosted build pipeline Pt. 2"
         },
         {
@@ -1178,7 +1187,7 @@
           "description": "Right in time for my previous post on using the hosted build pipeline as a gated check in, @splaxi released the newest version of the d365fo.tools. The main feature of this release being the possibility to upload the NuGet packages into the Azure DevOps artifact feed.Thanks to the tools, it’s a lot easier to publish […]",
           "link": "https://d365fostuff.wordpress.com/2021/03/13/d365fo-tools-publish-the-nuget-packages-for-the-azure-hosted-build-pipeline-pt-1/",
           "publishedOn": "2021-03-13T08:45:56.000Z",
-          "wordCount": 884,
+          "wordCount": 887,
           "title": "d365fo.tools – Publish the NuGet packages for the Azure hosted build pipeline Pt. 1"
         },
         {
@@ -1187,7 +1196,7 @@
           "description": "In my latest project, we wanted to set up the Azure hosted build pipeline also as a gated check in for our D365 – TFVC repository. Setting up the pipeline itself is quite easy, especially when you follow the DevOps ALM guide / bible from Adriá Ariste: MSDyn365 & Azure DevOps ALM – ariste.infoTo set […]",
           "link": "https://d365fostuff.wordpress.com/2021/03/08/the-shelveset-xxx-could-not-be-found-for-check-in-error-using-azure-hosted-builds-for-gated-check-ins/",
           "publishedOn": "2021-03-08T22:22:00.000Z",
-          "wordCount": 618,
+          "wordCount": 621,
           "title": "“The shelveset ‘xyz’ could not be found for check-in” – Error using Azure hosted builds for gated check-ins with D365"
         },
         {
@@ -1196,7 +1205,7 @@
           "description": "With the latest update from the LCS Database Movement API we’re finally able to start and stop the cloud hosted environments from a specific LCS project. Even with the correct environment status synced to LCS!Thanks to the awesome d365fo.tools from @splaxi it’s easy to get this running in an Azure pipeline or trigger the action […]",
           "link": "https://d365fostuff.wordpress.com/2021/03/08/power-automate-to-start-cloud-hosted-environments-with-the-lcs-api/",
           "publishedOn": "2021-03-08T15:22:31.000Z",
-          "wordCount": 892,
+          "wordCount": 895,
           "title": "Power Automate  Flow to start cloud hosted environments with the LCS API"
         }
       ]
@@ -3297,7 +3306,7 @@
           "description": "Some customers have been reporting errors (File contains corrupted data) when they are trying to import the bacpac files on developer boxes.\n\nThe recommendation is to use the SQLPakage tools to import...(read more)",
           "link": "https://community.dynamics.com/ax/b/axinthefield/posts/restore-a-production-database-on-a-cloud-hosted-environment",
           "publishedOn": "2022-01-31T18:53:29.000Z",
-          "wordCount": 1177,
+          "wordCount": 1255,
           "title": "Restore a Production Database on a Cloud-hosted Environment"
         },
         {

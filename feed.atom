@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-01T01:03:41.654Z</updated>
+    <updated>2022-02-02T01:02:31.040Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AX2012 jobs are back in D365 (kind of)]]></title>
+        <id>http://d365fostuff.wordpress.com/?p=371</id>
+        <link href="https://d365fostuff.wordpress.com/2022/02/01/ax2012-jobs-are-back-in-d365-kind-of/"/>
+        <updated>2022-02-01T20:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Disclaimer: I do not encourage anyone on using this feature. And if you use it, please be careful with manipulating data using this feature. With the release of the PEAP version for 10.0.25 Microsoft reintroduced the ability to execute jobs without having a downtime for the needed deployment: https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/run-custom-scriptsWhile I wouldn’t recommend anyone to use […]]]></summary>
+        <author>
+            <name>Marijan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Restore a Production Database on a Cloud-hosted Environment]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6cd1966e-35b9-4d3c-a5c4-1a215033ef9b</id>
