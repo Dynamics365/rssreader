@@ -529,6 +529,15 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1f20ca25-d205-4686-bf1e-f90a2cf01031",
+          "author": "MSDynamicsWorld.com",
+          "description": "1ClickFactory, based in Vilnius, Lithuania\r\nand QBS Group, headquartered in Leusden, the Netherlands, announced\r\nthey are re-branding together as \r\n Companial .\r\nThe move completes the merger of the two firms as an organization\r\nproviding services and... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-channel-firms-1clickfactory-and-qbs-group-to-form-companial",
+          "publishedOn": "2022-02-02T13:00:00.000Z",
+          "wordCount": 949,
+          "title": "Microsoft Dynamics channel firms 1ClickFactory and QBS Group to form Companial"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8bcb4bef-6f82-4e3f-814c-18623f021a67",
           "author": "MSDynamicsWorld.com",
           "description": "Microsoft corporate vice president\r\nfor Dynamics 365 Muhammad Alam will be leaving the company, he\r\nannounced recently.\r\n The Microsoft veteran \r\n \r\ntook on a product leadership role in 2017 after thirteen years\r\nin various other roles related to Dynamics... Read the full text.",
@@ -653,15 +662,6 @@
           "publishedOn": "2021-11-05T17:00:00.000Z",
           "wordCount": 945,
           "title": "Microsoft Dynamics Partner Roundup: CDP connector; Association software; Sharepoint security; Import tax"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f31e13f7-11fd-4c5a-8005-cd331da788e6",
-          "author": "MSDynamicsWorld.com",
-          "description": "The following transcript is taken from our recent \r\n podcast episode with Abhishek Mundra of Everest\r\nGroup about their latest findings on service providers in the\r\nMicrosoft Dynamics 365 channel. \r\n … \r\n JASON GUMPERT  00:02 \r\n Welcome to the MSDW Podcast... Read the full text.",
-          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/podcast-transcript-measuring-the-performance-of-dynamics-365-service-providers",
-          "publishedOn": "2021-10-29T18:00:00.000Z",
-          "wordCount": 950,
-          "title": "Podcast Transcript: Measuring the performance of Dynamics 365 service providers"
         }
       ]
     },
@@ -3585,6 +3585,24 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "localizing-content-on-a-custom-page",
+          "author": null,
+          "description": "Add localized content to a Power Apps custom page.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/localizing-content-on-a-custom-page/",
+          "publishedOn": "2022-02-02T10:09:00.000Z",
+          "wordCount": 974,
+          "title": "Localizing content on a custom page"
+        },
+        {
+          "id": "how-to-use-environment-variables-with-akv-secrets-in-the-ci-cd-pipeline-when-deploying-applications",
+          "author": null,
+          "description": "Use CI/CD Pipeline to deploy application with Env Vars that reference Azure Key Vault Secrets",
+          "link": "https://powerapps.microsoft.com/en-us/blog/how-to-use-environment-variables-with-akv-secrets-in-the-ci-cd-pipeline-when-deploying-applications/",
+          "publishedOn": "2022-02-02T09:00:00.000Z",
+          "wordCount": 1608,
+          "title": "How to use Environment Variables with AKV Secrets in the CI/CD Pipeline when deploying applications"
+        },
+        {
           "id": "power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support",
           "author": null,
           "description": "The Sovereign Cloud support for Power Platform Command Line tool",
@@ -3655,24 +3673,6 @@
           "publishedOn": "2021-12-16T08:00:04.000Z",
           "wordCount": 1477,
           "title": "EY Nordic Tech Hub transforms annual salary review process with Microsoft Power Platform"
-        },
-        {
-          "id": "power-platform-developer-tools-november-refresh",
-          "author": null,
-          "description": "Details of the November Refresh coming out for Power Platform CLI",
-          "link": "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-november-refresh/",
-          "publishedOn": "2021-12-15T09:00:00.000Z",
-          "wordCount": 1064,
-          "title": "Power Platform Developer Tools: November Refresh"
-        },
-        {
-          "id": "december-2021-power-apps-community-call-power-apps-co-authoring-features-with-emma-cooper-and-creating-xbox-games-with-brian-dang",
-          "author": null,
-          "description": "The December Power Apps community call brings us two presenters from the Power Apps product group and their favorite topics: Building Xbox games with Power Apps by Brian Dang and a look at a soon be released preview feature: Office-like collaborative comments in Power Apps by Emma Cooper!",
-          "link": "https://powerapps.microsoft.com/en-us/blog/december-2021-power-apps-community-call-power-apps-co-authoring-features-with-emma-cooper-and-creating-xbox-games-with-brian-dang/",
-          "publishedOn": "2021-12-13T12:21:58.000Z",
-          "wordCount": 914,
-          "title": "December 2021 Power Apps Community Call: Power Apps co-authoring features with Emma Cooper and creating Xbox games with Brian Dang"
         }
       ]
     }

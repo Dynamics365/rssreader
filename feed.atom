@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-02T01:02:31.040Z</updated>
+    <updated>2022-02-03T00:59:09.504Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics channel firms 1ClickFactory and QBS Group to form Companial]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1f20ca25-d205-4686-bf1e-f90a2cf01031</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-channel-firms-1clickfactory-and-qbs-group-to-form-companial"/>
+        <updated>2022-02-02T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1ClickFactory, based in Vilnius, Lithuania
+and QBS Group, headquartered in Leusden, the Netherlands, announced
+they are re-branding together as 
+ Companial .
+The move completes the merger of the two firms as an organization
+providing services and... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Localizing content on a custom page]]></title>
+        <id>localizing-content-on-a-custom-page</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/localizing-content-on-a-custom-page/"/>
+        <updated>2022-02-02T10:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Add localized content to a Power Apps custom page.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Environment Variables with AKV Secrets in the CI/CD Pipeline when deploying applications]]></title>
+        <id>how-to-use-environment-variables-with-akv-secrets-in-the-ci-cd-pipeline-when-deploying-applications</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/how-to-use-environment-variables-with-akv-secrets-in-the-ci-cd-pipeline-when-deploying-applications/"/>
+        <updated>2022-02-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Use CI/CD Pipeline to deploy application with Env Vars that reference Azure Key Vault Secrets]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AX2012 jobs are back in D365 (kind of)]]></title>
         <id>http://d365fostuff.wordpress.com/?p=371</id>
@@ -620,16 +655,6 @@ Inadequate or outdated technology is another big challenge for AP departments o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Power Platform Developer Tools: November Refresh]]></title>
-        <id>power-platform-developer-tools-november-refresh</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-november-refresh/"/>
-        <updated>2021-12-15T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Details of the November Refresh coming out for Power Platform CLI]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using the Microsoft Authentication Library (MSAL) with D365 Finance and Operations apps]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:98642694-c496-4615-bb3b-dbd8a0242c5a</id>
         <link href="https://community.dynamics.com/ax/b/axinthefield/posts/move-to-the-newer-microsoft-authentication-library-msal-to-acquire-a-token-for-your-integrations"/>
@@ -647,16 +672,6 @@ Inadequate or outdated technology is another big challenge for AP departments o
         <summary type="html"><![CDATA[Today I'm going to do a quick introduction to the three different budget modules that are available for general-ledger level budgeting. After reading this post, you'll have a basic understandi...(read more)]]></summary>
         <author>
             <name>Ryan Sandness MSFT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[December 2021 Power Apps Community Call: Power Apps co-authoring features with Emma Cooper and creating Xbox games with Brian Dang]]></title>
-        <id>december-2021-power-apps-community-call-power-apps-co-authoring-features-with-emma-cooper-and-creating-xbox-games-with-brian-dang</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/december-2021-power-apps-community-call-power-apps-co-authoring-features-with-emma-cooper-and-creating-xbox-games-with-brian-dang/"/>
-        <updated>2021-12-13T12:21:58.000Z</updated>
-        <summary type="html"><![CDATA[The December Power Apps community call brings us two presenters from the Power Apps product group and their favorite topics: Building Xbox games with Power Apps by Brian Dang and a look at a soon be released preview feature: Office-like collaborative comments in Power Apps by Emma Cooper!]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -1039,22 +1054,6 @@ Open Teams Chat app from Taskbar. It helps you quickly select a chat thread dire
         <summary type="html"><![CDATA[Performance in the Modern Point of Sale (MPOS) and Cloud Point of Sale (CPOS) is critical for a retail business. Recently I helped a customer increase performance of the search functionality for produ...(read more)]]></summary>
         <author>
             <name>Said Nikjou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast Transcript: Measuring the performance of Dynamics 365 service providers]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f31e13f7-11fd-4c5a-8005-cd331da788e6</id>
-        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/podcast-transcript-measuring-the-performance-of-dynamics-365-service-providers"/>
-        <updated>2021-10-29T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The following transcript is taken from our recent 
- podcast episode with Abhishek Mundra of Everest
-Group about their latest findings on service providers in the
-Microsoft Dynamics 365 channel. 
- … 
- JASON GUMPERT  00:02 
- Welcome to the MSDW Podcast... Read the full text.]]></summary>
-        <author>
-            <name>MSDynamicsWorld.com</name>
         </author>
     </entry>
     <entry>
