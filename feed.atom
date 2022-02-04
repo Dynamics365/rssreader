@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-03T00:59:09.504Z</updated>
+    <updated>2022-02-04T01:00:02.910Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blue Moon Expands Product Portfolio of Dynamics GP Enhancements]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0f55cc6f-1b6c-41cf-b1f7-50eb371a0251</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/blue-moon-expands-product-portfolio-of-dynamics-gp-enhancements"/>
+        <updated>2022-02-03T17:45:31.000Z</updated>
+        <summary type="html"><![CDATA[Blue Moon has been serving clients who use Microsoft Dynamics GP for over 30 years. In more recent times we’ve been developing industry-leading solutions not only for Dynamics GP but also Dynamics 365 Business Central and Acumatica with a continued commitment to deliver quality solutions.
+We appreciate true innovators in the Dynamics channel, and Encore Business Solutions, an Independent Software Vendor (ISV), is one of them. They have made some of the most comprehensive and useful enhancements available for Dynamics GP, and we’re happy to announce that those products are now being welcomed into the fold here at Blue Moon.
+What the Experts Say
+“Encore has been one of the most respected ISVs in the Dynamics GP channel since the very beginning,” said Gary Palardy, Blue Moon’s President and D…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 3 benefits of implementing Mobile WMS- Warehouse Management Solution]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4c12f9f8-4010-4720-a390-8e8d7d06fc8f</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/top-3-benefits-of-implementing-mobile-wms--warehouse-management-solution"/>
+        <updated>2022-02-03T10:13:25.000Z</updated>
+        <summary type="html"><![CDATA[MetaWMS, Advanced Warehouse System is an extension for Dynamics 365 Business Central that provides unprecedented visibility and control over your warehouse operations like inventory counts, shipping, receiving, picks, putaway, bin management, and more. Map your warehouse to quickly locate and pick items with Mobile WMS – Warehouse Management Solution.
+Top benefits of implementing Mobile WMS
+Up-to-date Inventory Information
+If you get a sudden visit by an accountant that wants to reconcile your inventory, with Mobile WMS you can easily track the inventory that he wants to be counted, and hereafter it can be easily done via the mobile hand scanner. In addition, you’ll get the option to customize this solution, so that only employees have the right to do a count or adjust the quantity with Mo…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 4 EDI Service Providers in 2022]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d0d10238-0de4-471f-bb69-8129018dee90</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/top-4-edi-service-providers-in-2022"/>
+        <updated>2022-02-03T08:50:11.000Z</updated>
+        <summary type="html"><![CDATA[While deciding on the type of Electronic Data Exchange or EDI can be a daunting task, it’s nearly as difficult to decide which EDI service provider will work for you. While there are several factors to consider, it is important to shortlist an EDI service provider based on your organization’s requirements and priorities.
+At To-increase, we have to keep a track of the competition in order to stay on top of our game. Therefore, this blog is an honest list of the best EDI vendors in the business that give our EDI Solutions tough competition.
+We have put together a list of the best EDI Service Providers based on industry research (reviews from Gartner, G2, GetApp, Capterra, PeerSpot, Software Advice, and Software Suggest*). We have compiled this Top EDI Vendors list by evaluating most of the f…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pitfalls of Not Integrating PLM and ERP]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c10030be-e369-49b7-ab1b-dd948e3ebef9</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/pitfalls-of-not-integrating-plm-and-erp"/>
+        <updated>2022-02-03T00:06:25.000Z</updated>
+        <summary type="html"><![CDATA[As many of you may be aware, Product Lifecycle Management (commonly known as PLM) is the process by which you manage the complete lifecycle of a product. It encompasses all the stages right from the concept or inception to design, engineering, manufacturing, and the service and disposal of manufactured goods. 
+Using PLM in the right way can help integrate processes and business systems to form the product's backbone that uses ERP and PLM. An industrial equipment manufacturing company is a great example.
+From the above definition, you can conclude that integrating your PLM with your ERP system is crucial for overall business efficiency. Suppose the engineering domain and the operational systems are not connected properly. In that case, there could be a significant disconnect as some of the …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Engineering Firm Migrates Critical AEC Functions to the Cloud with HSO ProServ and aec360]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9029853b-1bbf-4e09-98e9-8ac1faffdbdc</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/an-engineering-firm-migrates-critical-aec-functions-to-the-cloud-with-hso-proserv-and-aec360"/>
+        <updated>2022-02-02T18:27:49.000Z</updated>
+        <summary type="html"><![CDATA[The success of many AEC firms depends on their ability to effectively administer all aspects of their operations, everything from sales and marketing to project delivery and accounting. Powerful technology solutions are required by these firms in order to monitor all of the details associated with client relationships and projects. This requires the right AEC software.
+Coffman Engineers, a multidisciplinary engineering firm that specializes in civil, corrosion control, electrical, mechanical, and survey, among other services, recently began searching for a new, cloud-based business platform to streamline its operations. They were looking for a dynamic solution that would provide more cohesive teamwork and departmental support throughout the firm.
+The team at Coffman Engineers researched th…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Dynamics channel firms 1ClickFactory and QBS Group to form Companial]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1f20ca25-d205-4686-bf1e-f90a2cf01031</id>
@@ -42,6 +104,43 @@ providing services and... Read the full text.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[6 Ways to Improve Supply Chain Resilience]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:99753ee8-e5f3-40f5-ade5-ced7af981743</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/6-ways-to-improve-supply-chain-resilience"/>
+        <updated>2022-02-01T21:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Supply Chain Resilience is at the heart of current supply chain management thinking. Understanding the concept, and where to invest in resilience, can lead to supply chains that quickly respond to and recover from costly disruptions. Companies who have more resilient supply chains weathered the storm much better than those caught unprepared. Supply chain problems don’t have to be as extreme, as the COVID-19 shutdowns were to have negative effects on a business. Working on supply chain resilience is the best way to prepare your business for the next disruption, no matter how large it may be.
+6 Ways to Improve Supply Chain Resilience
+There are a few steps any business can take to provide a layer of resilience in their supply chain. Rather than hoping we never have another major supply chain …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Transformation Trends]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c8783ec6-2aec-4646-9374-d2ca5a2b1add</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/digital-transformation-trends"/>
+        <updated>2022-02-01T21:04:48.000Z</updated>
+        <summary type="html"><![CDATA[About 93% of business leaders said they are undergoing a digital transformation within their accounting processes or are planning to within the next year, according to a PYMNTS.com survey. The survey also said about half of respondents are digitizing payments processing.  
+“CFOs view three specific payments-related operations as immediate priorities, meaning significant shares of firms are currently investing in them,” said the study. These areas include: 
+Invoicing customers and vendors - 61% are digitizing now and 11% plan to this year 
+Payment processing - 51% are currently working on it and 24% plan to this year 
+Tracking payments received and due - 48% currently are investing and 24% plan to this year 
+You may also be interested in: End-to-End Accounts Payable Process Explained
+It seams everyone is doing surveys these days, especially where technology trends are concerned. We tend to focus on accounting and accounts payable for our research material. In one of our recent posts, we have identified three trends in technology that are helping advance the adoption of the digitized accounting processes. These aren’t the only trends behind adoption, but trends we’ve noticed recently in our readings. They include:
+Digital Transformation
+Work from Home
+Machine Learning, AI and Beyond
+Learn More
+The post Digital Transformation Trends appeared first on ERP Software Blog.
+Related posts:
+Infographie : 10 idees brillantes pour vous demarquer de la concurrence avec le ERP Microsoft Dynamics 
+5 Sales Tax Tips for Microsoft Dynamics GP Users 
+Business Owner Tips for Cloud and Hosting Contracts]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AX2012 jobs are back in D365 (kind of)]]></title>
         <id>http://d365fostuff.wordpress.com/?p=371</id>
         <link href="https://d365fostuff.wordpress.com/2022/02/01/ax2012-jobs-are-back-in-d365-kind-of/"/>
@@ -49,6 +148,70 @@ providing services and... Read the full text.]]></summary>
         <summary type="html"><![CDATA[Disclaimer: I do not encourage anyone on using this feature. And if you use it, please be careful with manipulating data using this feature. With the release of the PEAP version for 10.0.25 Microsoft reintroduced the ability to execute jobs without having a downtime for the needed deployment: https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/run-custom-scriptsWhile I wouldn’t recommend anyone to use […]]]></summary>
         <author>
             <name>Marijan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Manufacturers Manage Rental Processes Within Dynamics 365?]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:52d63053-8949-4e57-ac12-0974de8a82a6</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/can-manufacturers-manage-rental-processes-within-dynamics-365"/>
+        <updated>2022-02-01T11:56:59.000Z</updated>
+        <summary type="html"><![CDATA[Manufacturing industries are seeing a growing change in their business models with the concept of servitization, in which more customers prefer to rent equipment over buying to avoid the hassle of maintenance, depreciation, and storage.
+You could be a company that produces equipment, heavy machinery, medical devices, gadgets, or electronics — but to meet the customer demand, you now want to rent your products instead of relying on a one-time sale.
+While the idea of multiple revenue streams is great, the transition can be complex — with your production handled in one ERP solution and the rental side of your business in another solution, making you constantly switch between the two to understand how your business is running.
+Wouldn't it be more efficient if you could have all your processes …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in the Microsoft 365 2021 Release Wave 2?]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:59900412-a36b-4575-888b-e354570cef77</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/what-s-new-in-the-microsoft-365-2021-release-wave-2"/>
+        <updated>2022-02-01T10:21:30.000Z</updated>
+        <summary type="html"><![CDATA[As the business landscape continues to undergo constant transformation, the Microsoft Dynamics 365 2021 Release Wave 2 Plan delivers new features and innovations, equipping organizations with modern capabilities to drive their business forward. Improvements to different applications in the Dynamics 365 suite and Microsoft Cloud for industries such as Healthcare, Financial Services, and Nonprofit are expected to enhance not just user experience but also business performance and customer satisfaction.
+New features, expected to be released until March 2022, comprise hundreds of new improvements across the Dynamics 365 suite, across Marketing, Sales, Customer Service, Field Service, Finance, Supply Chain Management, Human Resources, Commerce etc. Let’s look at some of the latest features being…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Need Digital Transformation Now More Than Ever]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1cd47594-1a32-4f31-b317-0b2d421d096f</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/why-you-need-digital-transformation-now-more-than-ever"/>
+        <updated>2022-01-31T23:42:51.000Z</updated>
+        <summary type="html"><![CDATA[Digital transformation is no longer a buzzword for organizations – it’s become the new normal of operating in today’s digital age. Whether you’re an enterprise, a start-up, or a mid-sized business, you need to transform your operations and processes if you want to stay competitive and relevant. 
+The pandemic has been a key driver in accelerating digital transformation. According to Dell’s Digital Transformation Index 2020, which surveyed over 4000 business leaders globally, 8 in 10 organizations accelerated their digital transformation programs in 2020, and 89% said that the pandemic highlighted the need for business agility. 
+But what does digital transformation really mean? And why is it so critical for your organization? This article explores what digital transformation means in 2022, w…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save Time and Money with Microsoft Power Automate]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e12052c6-f541-49c3-8f31-dd47217fa1e0</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/save-time-and-money-with-microsoft-power-automate"/>
+        <updated>2022-01-31T22:50:37.000Z</updated>
+        <summary type="html"><![CDATA[“Automation” – you hear it referred to all the time as key to making everyone’s life easier. But can it fit within YOUR business processes using Power Automate? Ask yourself: are your teams plagued by repetitive, time-consuming tasks? Are these tedious tasks also subject to a high risk of human error (think data entry)? Wouldn’t you like to free up your staff’s time to focus on what really matters when it comes to the success of your business?  
+Enter Microsoft Power Automate (previously known as “Microsoft Flow”). Power Automate can help you create automated workflows between your business’s favorite apps and services to free up some significant time, and save you money.  
+You’ve already asked yourself if automation is a viable option for your business, and the answer is probably “yes.” T…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free e-book: How to identify and manage 4 top finance risks]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:726aaab2-661c-4856-975b-feaaedfe4457</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/free-e-book-how-to-identify-and-manage-4-top-finance-risks"/>
+        <updated>2022-01-31T19:13:08.000Z</updated>
+        <summary type="html"><![CDATA[EBizCharge and Avalara have combined their expertise in the financial sector to create a comprehensive guide that covers the “must-haves” in managing financial risks.   While risks will most likely always be present in your business, they don’t have to automatically be associated with negative implications or failure.   With the help of EBizCharge and Avalara, your business can use this eBook to identify and mitigate risks, improve its management, capitalize on solutions, and transform risks into growth opportunities to yield success for many years to come.     
+
+The post Free e-book: How to identify and manage 4 top finance risks appeared first on ERP Software Blog.
+Related posts:
+Avalara named a Leader in cloud-enabled sales tax automation and VAT software 
+Don’t Become a Sales Tax Castaway 
+Don't Mess with Nexus in...Florida? Or California, New York, or Texas!]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
         </author>
     </entry>
     <entry>
@@ -64,6 +227,31 @@ The recommendation is to use the SQLPakage tools to import...(read more)]]></sum
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The stream | The finance leader’s playbook for financial transformation]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:799e7b15-ac6e-4a2b-ad7b-6f3456904317</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/the-stream-the-finance-leader-s-playbook-for-financial-transformation"/>
+        <updated>2022-01-31T13:40:32.000Z</updated>
+        <summary type="html"><![CDATA[Many companies suffer from an apparent mismatch between the expectations put on finance and the resources at their disposal. To truly thrive in today's climate, companies must understand the need to invest in the people and solutions necessary to stay on top in a world where significant decisions continue to happen at an accelerated rate. The following resources can help your company implement a data-centric approach that affords greater control and financial visibility through changing regulations and emerging markets. 
+ 
+
+Whitepaper | The finance leader’s playbook to financial transformation 
+Finance leaders are under pressure to transform their companies and keep up with the pace of business. Finance should be considered the backbone behind all your company’s major decisions, which mean…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embedded or Standalone Analytics - Which Is Better?]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0e8a10e5-4e21-459f-9352-e3cee3cf3cb3</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/embedded-or-standalone-analytics---which-is-better"/>
+        <updated>2022-01-31T12:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Given the times, many businesses across the globe realize that traditional methods to enable analytics do not work or are not relevant anymore. Waiting for professionals to run analytics to give us results and put the data together before turning them into actionable insights is a tedious and lengthy process, a story of yesterday. At present, we need real-time data-driven insights and self-service analytics to keep pace with trends and market fluctuations that tend to occur in the blink of an eye.
+But, how do we achieve them? There are many analytics solutions to choose from in the market, and making the right choice maybe difficult. Our focus today will be on two common ones, which are: embedded and standalone analytics solutions. The primary difference between the two is that embedded an…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Power Platform Developer Tools Dec/Jan Refresh (Sovereign Cloud support)]]></title>
         <id>power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support/"/>
@@ -71,6 +259,20 @@ The recommendation is to use the SQLPakage tools to import...(read more)]]></sum
         <summary type="html"><![CDATA[The Sovereign Cloud support for Power Platform Command Line tool]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is It Time for New Microsoft Dynamics ERP? How Much Will It Cost?]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bb0faa78-3d13-490f-b873-89e64057c784</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/is-it-time-for-new-microsoft-dynamics-erp-how-much-will-it-cost"/>
+        <updated>2022-01-31T01:47:14.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve spent time investigating ERP (Enterprise Resource Planning) software solutions, it’s a safe bet that Microsoft Dynamics ERP solutions have made it to the top of your wish list.
+You’ve read about the features and how Dynamics ERP can enhance your business processes, provide you with invaluable BI (business intelligence) for successful decision-making, and give your employees tools that will be familiar and intuitive.
+Now you want to know the bottom line: How much will it cost?
+You may think that answering that question will involve a long sit-down with a sales rep. But we have a more practical suggestion.
+You can get a working quote for Microsoft Dynamics 365 Business Central, Dynamics 365 Finance, or Dynamics GP with a few clicks and less than five minutes with the ERP Software B…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
         </author>
     </entry>
     <entry>
@@ -277,99 +479,6 @@ well-read... Read the full text.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How efficiently you can use Warehouse Labels with Advanced WMS?]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d61c4a8f-0a32-495e-a05b-71c4632e1df2</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-efficiently-you-can-use-warehouse-labels-with-advanced-wms"/>
-        <updated>2021-12-30T10:27:06.000Z</updated>
-        <summary type="html"><![CDATA[Warehouse labels can help you streamline operations and increase overall productivity if they are used effectively. Storage facilities tend to be of considerable size, and stock items can be challenging to find if there are no labels to guide employees to their whereabouts. Without these labels, it would be nearly impossible to find any item in a storage facility efficiently.
-This article will discuss what kinds of warehouse labels are in use right now and how to use them effectively with an Advanced WMS to save time and effort in locating items.
-Here are some of the different types of Warehouse Labels:
-Floor Labels
-Retro-Reflective Labels
-Magnetic Labels
-Warehouse Bin Labels
-Rack Labels
-Cold Storage Labels
-How efficiently you can use Warehouse Labels.
-Here are some tips on how to efficien…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lock Down Your ERP System with Microsoft 365]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8d2cab0a-e365-435d-9d28-69f9458f2065</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/lock-down-your-erp-system-with-microsoft-365"/>
-        <updated>2021-12-29T19:23:55.000Z</updated>
-        <summary type="html"><![CDATA[Leverage the powerful security features within Microsoft 365 to detect and prevent internal data leaks from occurring.
-Your ERP (Enterprise Resource Planning) system spans your entire business—from customer service and human resources to financials and sales. Here lives an enormous amount of sensitive information that your entire organization has easy access to. Because of this, your ERP system is incredibly vulnerable to security breaches and internal data leaks. 
-While external security threats pose their own risk, some of the most harmful breaches happen internally. Whether it’s accidental or intentional, an internal data leak could be devastating to your business. 
-Take, for example, the City of Calgary. In 2017, the company was sued for $92.9 million after a data breach impacted over …]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:91fc7f3f-b657-4cf6-a06a-0bbf8f1545a0</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/enable-business-events-using-power-automate-in-microsoft-dynamics-365-for-finance-and-operations"/>
-        <updated>2021-12-24T04:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Enable Business Events using Power Automate in Microsoft Dynamics 365 for Finance and Operations - Part 2/2 Series
- 
-Approval for Free Text Invoice using Business Events
-In this section, we will discuss about a use case scenario and how we can achieve it using Business events. The use case is whenever a customer free text invoice is generated, it will be sent to the manager for approval. The workflow used in this section is out-of-the-box Customer free text invoice workflow, which is used with Business events for approval. By using Business events, the manager can directly approve or reject the workflow from his/her email or from Microsoft teams. The manager can also add comments which will be brought to D365 F&O.
-To begin, we will first configure the workflow for customer free text invoic…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manufacturers: Select between Business Central Premium and Essential Licensing]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:731c968e-d697-47fd-9c08-595d14c28a96</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/manufacturers-select-between-business-central-premium-and-essential-licensing"/>
-        <updated>2021-12-23T18:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Dynamics 365 Business Central is the latest version of the Dynamics NAV product, which is the best option for Dynamics NAV customers who want a modern and affordable solution. Dynamics 365 Business Central is in two versions i.e., Business Central Essentials and Business Central Premium. If you are running a manufacturing business then it is important to understand the difference between these two versions to ensure you get the solution that addresses your needs. In this blog post, we are covering the differences between these two versions of Business Central for Manufacturing that are relevant to making the right decision.
-The differences between Dynamics 365 Business Central Essentials and Premium
-Before discussing what version of Business Central for manufacturing is best for …]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now Playing: MxAPS vs the Business Central Production Schedules]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:79fddb5f-be39-4698-8e75-908b3fd3e035</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/now-playing-mxaps-vs-the-business-central-production-schedules"/>
-        <updated>2021-12-23T17:16:25.000Z</updated>
-        <summary type="html"><![CDATA[If you’re having trouble finding something on Netflix to binge-watch, then look no further than the six-part series from Insight Works. MxAPS is an exciting, advanced finite capacity scheduling app for Dynamics 365 Business Central. It’s a feel-good app for the whole manufacturing world. It brings to life automated production schedules. See the transformation of production planning and scheduling from an inaccurate and time-consuming task into a responsive, repeatable, and highly accurate decision support activity. Users give it two thumbs up.
-Episode One
-Episode Two
-Episode Three
-Episode Four
-Episode Five
-Episode Six
-Watch the Full Length Feature Film
-
-The post Now Playing: MxAPS vs the Business Central Production Schedules appeared first on ERP Software Blog.
-Related posts:
-Moving to Dynamics 365 Business Central? Not Thinking Ahead Could Cost You 
-Free App Making Printing from Business Central Cloud Easy 
-The Must-Have Business Central App for those with Inventory]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Branch Wallet & Card for Employee Empowerment Through Workforce Payments]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:43c50e14-5ee9-49a2-852d-f3861af40182</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/branch-wallet-card-for-employee-empowerment-through-workforce-payments"/>
-        <updated>2021-12-23T05:49:33.000Z</updated>
-        <summary type="html"><![CDATA[At Greenshades, we’re committed to the empowerment of employees through financial inclusion. For two decades, we have provided exceptional automated payroll, tax, compliance, and HR solutions. Recently, we partnered with Branch, a workforce payments platform.  We collaborate on innovative ideas for solving the financial challenges for millions of American workers.  Now we can offer workers zero-fee debit cards, checking accounts, and digital wallets. Employers can give their workers a faster, more efficient direct deposit option. If you are interested in providing your employees with better tools for receiving money and handling it wisely, Greenshades and the Branch Wallet and Card is the place to start.
-The Branch Wallet and Card gives employees a fast, efficient, and convenient method fo…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Taking JSON input with D365 service and deserialize into contract objects]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d2b41f4d-4627-423c-8219-a37d92eca0dd</id>
         <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/taking-json-input-with-d365-service-and-deserialize-into-contract-objects"/>
@@ -401,24 +510,6 @@ class StudentInfoContract
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make 2022 The Year of Process Improvement]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:7b44606b-3689-4605-8ce9-dbe11e8697be</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/make-2022-the-year-of-process-improvement"/>
-        <updated>2021-12-22T14:00:54.000Z</updated>
-        <summary type="html"><![CDATA[2022 is almost here!  As this year comes to a close, have you thought about what business processes you want to focus on and improve in 2022? 
-We can get so caught up in the day-to-day tasks we often forget to take a step back and analyze process improvement. 
-I mean who doesn’t want to: 
-Decrease manual entry 
-Reduce costs to process an invoice 
-Ship fast and in the least expensive way 
-Let’s dive into how AvidXchange, Blue Moon Industries, and V-Technologies can help you automate AP processing, balance your checkbook at the GL level with ease, and automate freight, drop shipping, international, and HazMat. 
-Survey Says 
-AvidXchange surveyed 500 middle market businesses to better understand financial and technological trends following the pandemic. They wanted to know how leaders have shi…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SignUp Software plans for new stage of growth in Microsoft channel following IPO]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3988067d-246c-42c7-bcf4-17717553f9e4</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/signup-software-plans-for-new-stage-of-growth-in-microsoft-channel-following-ipo"/>
@@ -432,50 +523,6 @@ the Nasdaq 
 deals have become routine in the Microsoft Business Applications... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Finance is a Gamechanger for Distributors]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:fa0b321d-f864-4c7b-86e5-a82582d77367</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/dynamics-365-finance-is-a-gamechanger-for-distributors"/>
-        <updated>2021-12-21T23:27:48.000Z</updated>
-        <summary type="html"><![CDATA[Cloud technology has come into its own. If you are running a distribution business, you know there are many moving parts to your operations. Do you struggle with a variety of inefficient systems and applications to run your business?  A fully-integrated solution, Dynamics 365 Finance and Supply Chain Management operating on a unified cloud platform, will be a gamechanger.
-For over three decades, our team at Western Computer has been deeply committed to helping distributors be successful. We recognize the need for technology that empowers distributors to be agile, lean, and competitive. The Dynamics 365 platform has proven truly transformational for many of our clients. We believe it can help you too.
-One integrated ERP solution stands above the rest for distributors in terms of functionali…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Year-End Update for Microsoft Dynamics GP]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:46fd4eb0-b266-4f9b-b318-709cdf5ae214</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/year-end-update-for-microsoft-dynamics-gp"/>
-        <updated>2021-12-21T19:25:28.000Z</updated>
-        <summary type="html"><![CDATA[It’s our favorite time of year, the holidays and closing the books for GP!
-To help guide you into the new year with GP, we've put together some helpful updates and resources:
-Important 2021 Tax Filing Dates
-January 31, 2022 – to employees and IRS/SSA
-W-2s, EFW2
-1099s – If you need help with 1099s, check out our 1099 Xport tool for GP
-1095-Cs to employees
-March 31, 2022:
-ACA e-filing to deadline to IRS
-Microsoft is waiting for the IRS to publish the final 2022 tax tables.  At that point, they will review and prepare for all the Round 1 tax changes – bookmark the Dynamics GP tax page to keep an eye on any updates available.
-GP Year-end Closing Seminar
-If you were not able to join us on our GP year-end closing webinar, you can watch the recording of the webinar and download a copy of the pres…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can Microsoft Dynamics GP Promote Business Growth?]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2e47c346-e7f8-4404-ac13-d07bee4d5a1d</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-can-microsoft-dynamics-gp-promote-business-growth"/>
-        <updated>2021-12-21T16:19:37.000Z</updated>
-        <summary type="html"><![CDATA[By standardizing on one accounting platform with integrated business and financial services components, Microsoft Dynamics GP 2018 can help your company drive out the inefficiencies of managing disparate systems. They now spend less time on maintenance, and the need for training to support multiple systems has diminished, freeing up IT resources for more strategic IT development projects. This drive towards a single system provides operational efficiencies through standardization plus economies of scale that were previously unachievable. 
-The most important aspects are the finance and accounting functions and Microsoft Dynamics can help shape and improve the workings of the business, and finance leaders must make sure that their staffs are able to maximize contributions to the security and…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
         </author>
     </entry>
     <entry>
@@ -546,77 +593,6 @@ An error at step 72
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Connect your Company with Microsoft Business Central]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bbe3332b-88bf-4e2e-a7ab-1d224aa08fb7</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/connect-your-company-with-microsoft-business-central"/>
-        <updated>2021-12-20T20:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Your legacy, on-premises solution helped you run your business for many years. However, in the era of digital transformation, modern cloud-based business solutions can help take your company to new heights through advanced cloud business ERP technology.  Organizations struggling to meet customer demands and also their own internal operations are quickly realizing that modern ERP solutions can help meet their business requirements and bring about much greater synergies.  In addition, top Cloud ERP systems such as Microsoft Business Central can reduce long-term software costs, decrease dependency on IT, optimize operations and customer experiences through predictive analytics, AI, and data visualizations.
-Microsoft Business Central's single ERP solution brings your data and processes together to manage a wide around of business functionality across the Enterprise with core functionality listed below:
-Advanced Financials
-Inventory and Supply Chain Management
-Sales and Marketing/CRM
-Project Management
-Warehouse Management
-Manufacturing
-Microsoft AppSource Integration (1,500+ business functionality apps)
-Discover and Learn More about the advantages of an "all-in-one" business enterprise solution to connect your company.
-Learn more about Microsoft Dynamics 365 Business Central
-Download the current Microsoft Business Central Capabilities Guide
-Get an Instant Estimate on Microsoft Business Central
-Posted by iCepts Technology Group, Inc. a Microsoft Dynamics 365 Business Central partner in Pennsylvania 
-The post Connect your Company with Microsoft Business Central appeared first on ERP Software Blog.
-Related posts:
-Recurring Journal Entries in Microsoft Dynamics 365 Business Central 
-The Sales Process in Microsoft Dynamics 365 Business Central 
-How to Create Purchase Credit Memo in Business Central]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Importance of advanced quality management in Pharmaceutical Manufacturing]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9e6ae935-dd06-45d3-a54f-a8f90fc51afd</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/importance-of-advanced-quality-management-in-pharmaceutical-manufacturing"/>
-        <updated>2021-12-20T19:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Quality management within the Pharmaceutical manufacturing trade is somewhat necessary due to the criticality of the functions involved particularly when it is concerning life. The poor quality of the drugs will place one life to risk. The process of quality management matters from the initial stage itself i.e. manufacturing.
-Choosing a Pharmaceutical QMS is an important decision when it comes to the life of an individual. A structured system can help manage all the records, workflows, and processes in a certain order that may eventually improve overall product quality.
-Importance of Quality Management in Pharmaceutical Manufacturing
-Ensures superior quality products and services
-Essential for customer loyalty
-It ensures increased revenues and higher productivity
-Ways pharmaceutical manufa…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Reduce Costs with Master Data Management]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:817b75e9-3899-4b87-829d-03256439c0b8</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-reduce-costs-with-master-data-management"/>
-        <updated>2021-12-20T12:43:08.000Z</updated>
-        <summary type="html"><![CDATA[It is no secret that the coronavirus pandemic has drastically disrupted the global economy, compelling CEOs and IT leaders to readjust business priorities and to strive for more cost-effective ways to run their operations efficiently. They are actively seeking technological solutions that can maximize their ROIs, while reducing avoidable operational, regulatory and labor costs. Since high quality data is indispensable when it comes to enhancing business performance and making informed business decisions, investing in a master data management tool is likely to be a business manager’s best choice in reducing business costs and improving the quality of reliable business-critical data.
-But what is Master Data Management? And what do you mean by a Master Data Management solution?
-Master Data Ma…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Favorite StockIQ Supply Chain Planning Improvements & Features for 2021]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ff5068e9-7283-4044-8531-63cbc79c7b22</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/8-favorite-stockiq-supply-chain-planning-improvements-features-for-2021"/>
-        <updated>2021-12-17T20:10:15.000Z</updated>
-        <summary type="html"><![CDATA[StockIQ Technologies clients recently had the opportunity to attend learning sessions, presented by Jeff Woodmansee and Jeffrey Porter, highlighting new and improved 2021 StockIQ features. We polled our clients to reveal the favorite new features.
-Favorite 2021 StockIQ Features
- 
-StockIQ Playbook - A StockIQ Playbook that outlines basic strategies, best practices, and "red flags" to be aware of.
-Service Level Optimization - New and updated in the Inventory module, the Service Level Optimization module allows you to optimize your service level targets on a specific part-by-part basis, using a given budget for your warehouse's safety stock level.
-Auto-Ordering Filters - You can now set up filters for each auto-ordering combination to include and exclude items for a particular supplier-site o…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thoma Bravo to acquire financial automation vendor Bottomline Technologies]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c1534fba-5e53-4290-ae49-1ba7787ca2bc</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/thoma-bravo-to-acquire-financial-automation-vendor-bottomline-technologies"/>
@@ -628,20 +604,6 @@ billion
  Thoma Bravo shareholders will receive $57 per share as part... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Reasons to Safeguard Your Business with AP Automation and Sales Tax Compliance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d5025143-d7b9-4f70-8dae-a228623567df</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/4-reasons-to-safeguard-your-business-with-ap-automation-and-sales-tax-compliance"/>
-        <updated>2021-12-17T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Are you missing or losing invoices? Have you created nexus in the last year?  
-In this blog post, Yooz and Avalara discuss how cloud-based AP automation and sales tax compliance can safeguard your business. They both will help you reap the benefits from automation and improve visibility into unpaid invoices & improve customer experience. 
-Reason 1 – Inconsistent Processes Create Challenges
-The most prominent challenges in AP are manual data entry, invoice-to-payment matching, lost and duplicate invoices, and an inconsistent organizational AP process. Many of these challenges are frequently seen by those using a manual AP process and are exactly what AP automation software is designed to address.  
-Inadequate or outdated technology is another big challenge for AP departments of all sizes, p…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
         </author>
     </entry>
     <entry>
