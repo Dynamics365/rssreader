@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-04T01:00:02.910Z</updated>
+    <updated>2022-02-05T00:53:14.484Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Speed Up Your Order-To-Cash Workflow]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2d25ea0c-915d-4aeb-b468-f5af6afb0cbe</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-speed-up-your-order-to-cash-workflow"/>
+        <updated>2022-02-04T12:50:45.000Z</updated>
+        <summary type="html"><![CDATA[The customer relationship starts long before a purchase is ever made and continues even after the product or service is delivered. Keeping this in mind, it is important for companies to review their business processes and ensure that, whatever they are doing, customer satisfaction is always top of mind. One of the things that many companies struggle with when it comes to maintaining customer satisfaction is the purchasing and order fulfillment process.  
+As a distributor, it’s important to have the tools and processes in place to make it easy to place orders and pay invoices. As your fulfillment needs grow, the best way to increase efficiency while improving customer service is to reduce manual labor and automate collections.   
+The three biggest pain points that stem from the fulfillment …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to transform your retail business with LS Central?]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4d81ecc3-5060-4889-98b5-e629604d6723</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-transform-your-retail-business-with-ls-central"/>
+        <updated>2022-02-04T11:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Moving to an ERP solution can help your retail business to resolve many of these issues. Whereas, LS Central is a fully integrated retail management solution built on Dynamics 365 Business Central. You can use only this software instead of many. By using this, you can cut software and system administration costs, say goodbye to integration costs. Also, have consistent financial data, control prices, simplify and speed up upgrades, and access all your business information as and when you want.
+Here are some of the ways that transform your retail business.
+Allowing employees to deliver exceptional service
+LS Central helps your employees provide excessive service to today’s highly informed customers. At the mobile POS (Point of Sale), employees will get real-time visibility over the stock and…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Professional services firms: solve your pain points with a project management solution]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:dd8d8839-ddcd-4c21-9454-317aa5ed6112</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/professional-services-firms-solve-your-pain-points-with-a-project-management-solution"/>
+        <updated>2022-02-03T20:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Like all other industries, professional services firms often encounter typical pain points at some point during their growth. Recognize your firm in the following situations? Maybe it’s time to look into specialized tools to facilitate your processes. Look into a project management solution specifically designed for professional services firms like JOVACO Project, which provides a range of specialized modules to solve the pain points of professional services firms.
+Pain point #1: Lack of visibility on project information
+Having a hard time accessing project information or sharing it with the management team? Look for real-time reporting capabilities and sharing options. A project operations platform like JOVACO POP puts clear, concise web reports at your disposal for optimal visibility on …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mass Production Maintenance - A New Production Control Feature For Vicinity Formula Management Software]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:7d1a494e-23ba-4347-b2d4-8d150b1f3f23</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/mass-production-maintenance---a-new-production-control-feature-for-vicinity-formula-management-software"/>
+        <updated>2022-02-03T18:46:35.000Z</updated>
+        <summary type="html"><![CDATA[Mass Production Maintenance is a new Production Control feature from our most recent release of  Vicinity Formula Management Software. The feature is used to release, delete, and ops-close batches in bulk. 
+ 
+
+
+Video Summary:
+ 
+Take a minute and watch the video above to go over the functionality added around the management of batches.  We added this into our 4.37 release, which is our year-end release for 2021. Specifically, we added a new menu option under Production Control, called “Batch Production Maintenance”. The purpose of this screen is to give you the ability to perform actions on a number of batches simultaneously.
+There are also filters that enable the user to see a specific batch. If you want to view the R&D Lab batch only, then the filter will let you view that batch in partic…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blue Moon Expands Product Portfolio of Dynamics GP Enhancements]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0f55cc6f-1b6c-41cf-b1f7-50eb371a0251</id>
@@ -199,22 +253,6 @@ You’ve already asked yourself if automation is a viable option for your busine
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free e-book: How to identify and manage 4 top finance risks]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:726aaab2-661c-4856-975b-feaaedfe4457</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/free-e-book-how-to-identify-and-manage-4-top-finance-risks"/>
-        <updated>2022-01-31T19:13:08.000Z</updated>
-        <summary type="html"><![CDATA[EBizCharge and Avalara have combined their expertise in the financial sector to create a comprehensive guide that covers the “must-haves” in managing financial risks.   While risks will most likely always be present in your business, they don’t have to automatically be associated with negative implications or failure.   With the help of EBizCharge and Avalara, your business can use this eBook to identify and mitigate risks, improve its management, capitalize on solutions, and transform risks into growth opportunities to yield success for many years to come.     
-
-The post Free e-book: How to identify and manage 4 top finance risks appeared first on ERP Software Blog.
-Related posts:
-Avalara named a Leader in cloud-enabled sales tax automation and VAT software 
-Don’t Become a Sales Tax Castaway 
-Don't Mess with Nexus in...Florida? Or California, New York, or Texas!]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Restore a Production Database on a Cloud-hosted Environment]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6cd1966e-35b9-4d3c-a5c4-1a215033ef9b</id>
         <link href="https://community.dynamics.com/ax/b/axinthefield/posts/restore-a-production-database-on-a-cloud-hosted-environment"/>
@@ -227,31 +265,6 @@ The recommendation is to use the SQLPakage tools to import...(read more)]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The stream | The finance leader’s playbook for financial transformation]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:799e7b15-ac6e-4a2b-ad7b-6f3456904317</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/the-stream-the-finance-leader-s-playbook-for-financial-transformation"/>
-        <updated>2022-01-31T13:40:32.000Z</updated>
-        <summary type="html"><![CDATA[Many companies suffer from an apparent mismatch between the expectations put on finance and the resources at their disposal. To truly thrive in today's climate, companies must understand the need to invest in the people and solutions necessary to stay on top in a world where significant decisions continue to happen at an accelerated rate. The following resources can help your company implement a data-centric approach that affords greater control and financial visibility through changing regulations and emerging markets. 
- 
-
-Whitepaper | The finance leader’s playbook to financial transformation 
-Finance leaders are under pressure to transform their companies and keep up with the pace of business. Finance should be considered the backbone behind all your company’s major decisions, which mean…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embedded or Standalone Analytics - Which Is Better?]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0e8a10e5-4e21-459f-9352-e3cee3cf3cb3</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/embedded-or-standalone-analytics---which-is-better"/>
-        <updated>2022-01-31T12:41:50.000Z</updated>
-        <summary type="html"><![CDATA[Given the times, many businesses across the globe realize that traditional methods to enable analytics do not work or are not relevant anymore. Waiting for professionals to run analytics to give us results and put the data together before turning them into actionable insights is a tedious and lengthy process, a story of yesterday. At present, we need real-time data-driven insights and self-service analytics to keep pace with trends and market fluctuations that tend to occur in the blink of an eye.
-But, how do we achieve them? There are many analytics solutions to choose from in the market, and making the right choice maybe difficult. Our focus today will be on two common ones, which are: embedded and standalone analytics solutions. The primary difference between the two is that embedded an…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Power Platform Developer Tools Dec/Jan Refresh (Sovereign Cloud support)]]></title>
         <id>power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support/"/>
@@ -259,20 +272,6 @@ But, how do we achieve them? There are many analytics solutions to choose from i
         <summary type="html"><![CDATA[The Sovereign Cloud support for Power Platform Command Line tool]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is It Time for New Microsoft Dynamics ERP? How Much Will It Cost?]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bb0faa78-3d13-490f-b873-89e64057c784</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/is-it-time-for-new-microsoft-dynamics-erp-how-much-will-it-cost"/>
-        <updated>2022-01-31T01:47:14.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve spent time investigating ERP (Enterprise Resource Planning) software solutions, it’s a safe bet that Microsoft Dynamics ERP solutions have made it to the top of your wish list.
-You’ve read about the features and how Dynamics ERP can enhance your business processes, provide you with invaluable BI (business intelligence) for successful decision-making, and give your employees tools that will be familiar and intuitive.
-Now you want to know the bottom line: How much will it cost?
-You may think that answering that question will involve a long sit-down with a sales rep. But we have a more practical suggestion.
-You can get a working quote for Microsoft Dynamics 365 Business Central, Dynamics 365 Finance, or Dynamics GP with a few clicks and less than five minutes with the ERP Software B…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
         </author>
     </entry>
     <entry>

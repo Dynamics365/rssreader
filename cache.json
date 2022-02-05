@@ -671,12 +671,48 @@
       "siteUrl": "https://community.dynamics.com/ax/b/erpsoftwareblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:2d25ea0c-915d-4aeb-b468-f5af6afb0cbe",
+          "author": "ERP Software Blog",
+          "description": "The customer relationship starts long before a purchase is ever made and continues even after the product or service is delivered. Keeping this in mind, it is important for companies to review their business processes and ensure that, whatever they are doing, customer satisfaction is always top of mind. One of the things that many companies struggle with when it comes to maintaining customer satisfaction is the purchasing and order fulfillment process.  \nAs a distributor, it’s important to have the tools and processes in place to make it easy to place orders and pay invoices. As your fulfillment needs grow, the best way to increase efficiency while improving customer service is to reduce manual labor and automate collections.   \nThe three biggest pain points that stem from the fulfillment …",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-speed-up-your-order-to-cash-workflow",
+          "publishedOn": "2022-02-04T12:50:45.000Z",
+          "wordCount": 1650,
+          "title": "How To Speed Up Your Order-To-Cash Workflow"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4d81ecc3-5060-4889-98b5-e629604d6723",
+          "author": "ERP Software Blog",
+          "description": "Moving to an ERP solution can help your retail business to resolve many of these issues. Whereas, LS Central is a fully integrated retail management solution built on Dynamics 365 Business Central. You can use only this software instead of many. By using this, you can cut software and system administration costs, say goodbye to integration costs. Also, have consistent financial data, control prices, simplify and speed up upgrades, and access all your business information as and when you want.\nHere are some of the ways that transform your retail business.\nAllowing employees to deliver exceptional service\nLS Central helps your employees provide excessive service to today’s highly informed customers. At the mobile POS (Point of Sale), employees will get real-time visibility over the stock and…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-transform-your-retail-business-with-ls-central",
+          "publishedOn": "2022-02-04T11:00:14.000Z",
+          "wordCount": 1571,
+          "title": "How to transform your retail business with LS Central?"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:dd8d8839-ddcd-4c21-9454-317aa5ed6112",
+          "author": "ERP Software Blog",
+          "description": "Like all other industries, professional services firms often encounter typical pain points at some point during their growth. Recognize your firm in the following situations? Maybe it’s time to look into specialized tools to facilitate your processes. Look into a project management solution specifically designed for professional services firms like JOVACO Project, which provides a range of specialized modules to solve the pain points of professional services firms.\nPain point #1: Lack of visibility on project information\nHaving a hard time accessing project information or sharing it with the management team? Look for real-time reporting capabilities and sharing options. A project operations platform like JOVACO POP puts clear, concise web reports at your disposal for optimal visibility on …",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/professional-services-firms-solve-your-pain-points-with-a-project-management-solution",
+          "publishedOn": "2022-02-03T20:03:54.000Z",
+          "wordCount": 1759,
+          "title": "Professional services firms: solve your pain points with a project management solution"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:7d1a494e-23ba-4347-b2d4-8d150b1f3f23",
+          "author": "ERP Software Blog",
+          "description": "Mass Production Maintenance is a new Production Control feature from our most recent release of  Vicinity Formula Management Software. The feature is used to release, delete, and ops-close batches in bulk. \n \n\n\nVideo Summary:\n \nTake a minute and watch the video above to go over the functionality added around the management of batches.  We added this into our 4.37 release, which is our year-end release for 2021. Specifically, we added a new menu option under Production Control, called “Batch Production Maintenance”. The purpose of this screen is to give you the ability to perform actions on a number of batches simultaneously.\nThere are also filters that enable the user to see a specific batch. If you want to view the R&D Lab batch only, then the filter will let you view that batch in partic…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/mass-production-maintenance---a-new-production-control-feature-for-vicinity-formula-management-software",
+          "publishedOn": "2022-02-03T18:46:35.000Z",
+          "wordCount": 2432,
+          "title": "Mass Production Maintenance - A New Production Control Feature For Vicinity Formula Management Software"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0f55cc6f-1b6c-41cf-b1f7-50eb371a0251",
           "author": "ERP Software Blog",
           "description": "Blue Moon has been serving clients who use Microsoft Dynamics GP for over 30 years. In more recent times we’ve been developing industry-leading solutions not only for Dynamics GP but also Dynamics 365 Business Central and Acumatica with a continued commitment to deliver quality solutions.\nWe appreciate true innovators in the Dynamics channel, and Encore Business Solutions, an Independent Software Vendor (ISV), is one of them. They have made some of the most comprehensive and useful enhancements available for Dynamics GP, and we’re happy to announce that those products are now being welcomed into the fold here at Blue Moon.\nWhat the Experts Say\n“Encore has been one of the most respected ISVs in the Dynamics GP channel since the very beginning,” said Gary Palardy, Blue Moon’s President and D…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/blue-moon-expands-product-portfolio-of-dynamics-gp-enhancements",
           "publishedOn": "2022-02-03T17:45:31.000Z",
-          "wordCount": 1737,
+          "wordCount": 1736,
           "title": "Blue Moon Expands Product Portfolio of Dynamics GP Enhancements"
         },
         {
@@ -685,7 +721,7 @@
           "description": "MetaWMS, Advanced Warehouse System is an extension for Dynamics 365 Business Central that provides unprecedented visibility and control over your warehouse operations like inventory counts, shipping, receiving, picks, putaway, bin management, and more. Map your warehouse to quickly locate and pick items with Mobile WMS – Warehouse Management Solution.\nTop benefits of implementing Mobile WMS\nUp-to-date Inventory Information\nIf you get a sudden visit by an accountant that wants to reconcile your inventory, with Mobile WMS you can easily track the inventory that he wants to be counted, and hereafter it can be easily done via the mobile hand scanner. In addition, you’ll get the option to customize this solution, so that only employees have the right to do a count or adjust the quantity with Mo…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/top-3-benefits-of-implementing-mobile-wms--warehouse-management-solution",
           "publishedOn": "2022-02-03T10:13:25.000Z",
-          "wordCount": 1482,
+          "wordCount": 1481,
           "title": "Top 3 benefits of implementing Mobile WMS- Warehouse Management Solution"
         },
         {
@@ -694,7 +730,7 @@
           "description": "While deciding on the type of Electronic Data Exchange or EDI can be a daunting task, it’s nearly as difficult to decide which EDI service provider will work for you. While there are several factors to consider, it is important to shortlist an EDI service provider based on your organization’s requirements and priorities.\nAt To-increase, we have to keep a track of the competition in order to stay on top of our game. Therefore, this blog is an honest list of the best EDI vendors in the business that give our EDI Solutions tough competition.\nWe have put together a list of the best EDI Service Providers based on industry research (reviews from Gartner, G2, GetApp, Capterra, PeerSpot, Software Advice, and Software Suggest*). We have compiled this Top EDI Vendors list by evaluating most of the f…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/top-4-edi-service-providers-in-2022",
           "publishedOn": "2022-02-03T08:50:11.000Z",
-          "wordCount": 3712,
+          "wordCount": 3711,
           "title": "Top 4 EDI Service Providers in 2022"
         },
         {
@@ -703,7 +739,7 @@
           "description": "As many of you may be aware, Product Lifecycle Management (commonly known as PLM) is the process by which you manage the complete lifecycle of a product. It encompasses all the stages right from the concept or inception to design, engineering, manufacturing, and the service and disposal of manufactured goods. \nUsing PLM in the right way can help integrate processes and business systems to form the product's backbone that uses ERP and PLM. An industrial equipment manufacturing company is a great example.\nFrom the above definition, you can conclude that integrating your PLM with your ERP system is crucial for overall business efficiency. Suppose the engineering domain and the operational systems are not connected properly. In that case, there could be a significant disconnect as some of the …",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/pitfalls-of-not-integrating-plm-and-erp",
           "publishedOn": "2022-02-03T00:06:25.000Z",
-          "wordCount": 1846,
+          "wordCount": 1845,
           "title": "Pitfalls of Not Integrating PLM and ERP"
         },
         {
@@ -712,7 +748,7 @@
           "description": "The success of many AEC firms depends on their ability to effectively administer all aspects of their operations, everything from sales and marketing to project delivery and accounting. Powerful technology solutions are required by these firms in order to monitor all of the details associated with client relationships and projects. This requires the right AEC software.\nCoffman Engineers, a multidisciplinary engineering firm that specializes in civil, corrosion control, electrical, mechanical, and survey, among other services, recently began searching for a new, cloud-based business platform to streamline its operations. They were looking for a dynamic solution that would provide more cohesive teamwork and departmental support throughout the firm.\nThe team at Coffman Engineers researched th…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/an-engineering-firm-migrates-critical-aec-functions-to-the-cloud-with-hso-proserv-and-aec360",
           "publishedOn": "2022-02-02T18:27:49.000Z",
-          "wordCount": 1572,
+          "wordCount": 1571,
           "title": "An Engineering Firm Migrates Critical AEC Functions to the Cloud with HSO ProServ and aec360"
         },
         {
@@ -721,7 +757,7 @@
           "description": "Supply Chain Resilience is at the heart of current supply chain management thinking. Understanding the concept, and where to invest in resilience, can lead to supply chains that quickly respond to and recover from costly disruptions. Companies who have more resilient supply chains weathered the storm much better than those caught unprepared. Supply chain problems don’t have to be as extreme, as the COVID-19 shutdowns were to have negative effects on a business. Working on supply chain resilience is the best way to prepare your business for the next disruption, no matter how large it may be.\n6 Ways to Improve Supply Chain Resilience\nThere are a few steps any business can take to provide a layer of resilience in their supply chain. Rather than hoping we never have another major supply chain …",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/6-ways-to-improve-supply-chain-resilience",
           "publishedOn": "2022-02-01T21:20:59.000Z",
-          "wordCount": 1775,
+          "wordCount": 1774,
           "title": "6 Ways to Improve Supply Chain Resilience"
         },
         {
@@ -730,7 +766,7 @@
           "description": "About 93% of business leaders said they are undergoing a digital transformation within their accounting processes or are planning to within the next year, according to a PYMNTS.com survey. The survey also said about half of respondents are digitizing payments processing.  \n“CFOs view three specific payments-related operations as immediate priorities, meaning significant shares of firms are currently investing in them,” said the study. These areas include: \nInvoicing customers and vendors - 61% are digitizing now and 11% plan to this year \nPayment processing - 51% are currently working on it and 24% plan to this year \nTracking payments received and due - 48% currently are investing and 24% plan to this year \nYou may also be interested in: End-to-End Accounts Payable Process Explained\nIt seams everyone is doing surveys these days, especially where technology trends are concerned. We tend to focus on accounting and accounts payable for our research material. In one of our recent posts, we have identified three trends in technology that are helping advance the adoption of the digitized accounting processes. These aren’t the only trends behind adoption, but trends we’ve noticed recently in our readings. They include:\nDigital Transformation\nWork from Home\nMachine Learning, AI and Beyond\nLearn More\nThe post Digital Transformation Trends appeared first on ERP Software Blog.\nRelated posts:\nInfographie : 10 idees brillantes pour vous demarquer de la concurrence avec le ERP Microsoft Dynamics \n5 Sales Tax Tips for Microsoft Dynamics GP Users \nBusiness Owner Tips for Cloud and Hosting Contracts",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/digital-transformation-trends",
           "publishedOn": "2022-02-01T21:04:48.000Z",
-          "wordCount": 1248,
+          "wordCount": 1247,
           "title": "Digital Transformation Trends"
         },
         {
@@ -739,7 +775,7 @@
           "description": "Manufacturing industries are seeing a growing change in their business models with the concept of servitization, in which more customers prefer to rent equipment over buying to avoid the hassle of maintenance, depreciation, and storage.\nYou could be a company that produces equipment, heavy machinery, medical devices, gadgets, or electronics — but to meet the customer demand, you now want to rent your products instead of relying on a one-time sale.\nWhile the idea of multiple revenue streams is great, the transition can be complex — with your production handled in one ERP solution and the rental side of your business in another solution, making you constantly switch between the two to understand how your business is running.\nWouldn't it be more efficient if you could have all your processes …",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/can-manufacturers-manage-rental-processes-within-dynamics-365",
           "publishedOn": "2022-02-01T11:56:59.000Z",
-          "wordCount": 2353,
+          "wordCount": 2352,
           "title": "Can Manufacturers Manage Rental Processes Within Dynamics 365?"
         },
         {
@@ -748,7 +784,7 @@
           "description": "As the business landscape continues to undergo constant transformation, the Microsoft Dynamics 365 2021 Release Wave 2 Plan delivers new features and innovations, equipping organizations with modern capabilities to drive their business forward. Improvements to different applications in the Dynamics 365 suite and Microsoft Cloud for industries such as Healthcare, Financial Services, and Nonprofit are expected to enhance not just user experience but also business performance and customer satisfaction.\nNew features, expected to be released until March 2022, comprise hundreds of new improvements across the Dynamics 365 suite, across Marketing, Sales, Customer Service, Field Service, Finance, Supply Chain Management, Human Resources, Commerce etc. Let’s look at some of the latest features being…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/what-s-new-in-the-microsoft-365-2021-release-wave-2",
           "publishedOn": "2022-02-01T10:21:30.000Z",
-          "wordCount": 2046,
+          "wordCount": 2045,
           "title": "What’s New in the Microsoft 365 2021 Release Wave 2?"
         },
         {
@@ -757,7 +793,7 @@
           "description": "Digital transformation is no longer a buzzword for organizations – it’s become the new normal of operating in today’s digital age. Whether you’re an enterprise, a start-up, or a mid-sized business, you need to transform your operations and processes if you want to stay competitive and relevant. \nThe pandemic has been a key driver in accelerating digital transformation. According to Dell’s Digital Transformation Index 2020, which surveyed over 4000 business leaders globally, 8 in 10 organizations accelerated their digital transformation programs in 2020, and 89% said that the pandemic highlighted the need for business agility. \nBut what does digital transformation really mean? And why is it so critical for your organization? This article explores what digital transformation means in 2022, w…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/why-you-need-digital-transformation-now-more-than-ever",
           "publishedOn": "2022-01-31T23:42:51.000Z",
-          "wordCount": 2050,
+          "wordCount": 2049,
           "title": "Why You Need Digital Transformation Now More Than Ever"
         },
         {
@@ -766,44 +802,8 @@
           "description": "“Automation” – you hear it referred to all the time as key to making everyone’s life easier. But can it fit within YOUR business processes using Power Automate? Ask yourself: are your teams plagued by repetitive, time-consuming tasks? Are these tedious tasks also subject to a high risk of human error (think data entry)? Wouldn’t you like to free up your staff’s time to focus on what really matters when it comes to the success of your business?  \nEnter Microsoft Power Automate (previously known as “Microsoft Flow”). Power Automate can help you create automated workflows between your business’s favorite apps and services to free up some significant time, and save you money.  \nYou’ve already asked yourself if automation is a viable option for your business, and the answer is probably “yes.” T…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/save-time-and-money-with-microsoft-power-automate",
           "publishedOn": "2022-01-31T22:50:37.000Z",
-          "wordCount": 1640,
+          "wordCount": 1639,
           "title": "Save Time and Money with Microsoft Power Automate"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:726aaab2-661c-4856-975b-feaaedfe4457",
-          "author": "ERP Software Blog",
-          "description": "EBizCharge and Avalara have combined their expertise in the financial sector to create a comprehensive guide that covers the “must-haves” in managing financial risks.   While risks will most likely always be present in your business, they don’t have to automatically be associated with negative implications or failure.   With the help of EBizCharge and Avalara, your business can use this eBook to identify and mitigate risks, improve its management, capitalize on solutions, and transform risks into growth opportunities to yield success for many years to come.     \n\r\nThe post Free e-book: How to identify and manage 4 top finance risks appeared first on ERP Software Blog.\nRelated posts:\nAvalara named a Leader in cloud-enabled sales tax automation and VAT software \nDon’t Become a Sales Tax Castaway \nDon't Mess with Nexus in...Florida? Or California, New York, or Texas!",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/free-e-book-how-to-identify-and-manage-4-top-finance-risks",
-          "publishedOn": "2022-01-31T19:13:08.000Z",
-          "wordCount": 1157,
-          "title": "Free e-book: How to identify and manage 4 top finance risks"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:799e7b15-ac6e-4a2b-ad7b-6f3456904317",
-          "author": "ERP Software Blog",
-          "description": "Many companies suffer from an apparent mismatch between the expectations put on finance and the resources at their disposal. To truly thrive in today's climate, companies must understand the need to invest in the people and solutions necessary to stay on top in a world where significant decisions continue to happen at an accelerated rate. The following resources can help your company implement a data-centric approach that affords greater control and financial visibility through changing regulations and emerging markets. \n \n\nWhitepaper | The finance leader’s playbook to financial transformation \nFinance leaders are under pressure to transform their companies and keep up with the pace of business. Finance should be considered the backbone behind all your company’s major decisions, which mean…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/the-stream-the-finance-leader-s-playbook-for-financial-transformation",
-          "publishedOn": "2022-01-31T13:40:32.000Z",
-          "wordCount": 1483,
-          "title": "The stream | The finance leader’s playbook for financial transformation"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0e8a10e5-4e21-459f-9352-e3cee3cf3cb3",
-          "author": "ERP Software Blog",
-          "description": "Given the times, many businesses across the globe realize that traditional methods to enable analytics do not work or are not relevant anymore. Waiting for professionals to run analytics to give us results and put the data together before turning them into actionable insights is a tedious and lengthy process, a story of yesterday. At present, we need real-time data-driven insights and self-service analytics to keep pace with trends and market fluctuations that tend to occur in the blink of an eye.\nBut, how do we achieve them? There are many analytics solutions to choose from in the market, and making the right choice maybe difficult. Our focus today will be on two common ones, which are: embedded and standalone analytics solutions. The primary difference between the two is that embedded an…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/embedded-or-standalone-analytics---which-is-better",
-          "publishedOn": "2022-01-31T12:41:50.000Z",
-          "wordCount": 2403,
-          "title": "Embedded or Standalone Analytics - Which Is Better?"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bb0faa78-3d13-490f-b873-89e64057c784",
-          "author": "ERP Software Blog",
-          "description": "If you’ve spent time investigating ERP (Enterprise Resource Planning) software solutions, it’s a safe bet that Microsoft Dynamics ERP solutions have made it to the top of your wish list.\nYou’ve read about the features and how Dynamics ERP can enhance your business processes, provide you with invaluable BI (business intelligence) for successful decision-making, and give your employees tools that will be familiar and intuitive.\nNow you want to know the bottom line: How much will it cost?\nYou may think that answering that question will involve a long sit-down with a sales rep. But we have a more practical suggestion.\nYou can get a working quote for Microsoft Dynamics 365 Business Central, Dynamics 365 Finance, or Dynamics GP with a few clicks and less than five minutes with the ERP Software B…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/is-it-time-for-new-microsoft-dynamics-erp-how-much-will-it-cost",
-          "publishedOn": "2022-01-31T01:47:14.000Z",
-          "wordCount": 1469,
-          "title": "Is It Time for New Microsoft Dynamics ERP? How Much Will It Cost?"
         }
       ]
     },
@@ -1133,7 +1133,7 @@
           "description": "Disclaimer: I do not encourage anyone on using this feature. And if you use it, please be careful with manipulating data using this feature. With the release of the PEAP version for 10.0.25 Microsoft reintroduced the ability to execute jobs without having a downtime for the needed deployment: https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/run-custom-scriptsWhile I wouldn’t recommend anyone to use […]",
           "link": "https://d365fostuff.wordpress.com/2022/02/01/ax2012-jobs-are-back-in-d365-kind-of/",
           "publishedOn": "2022-02-01T20:12:18.000Z",
-          "wordCount": 695,
+          "wordCount": 719,
           "title": "AX2012 jobs are back in D365 (kind of)"
         },
         {
