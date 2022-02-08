@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-07T01:01:35.431Z</updated>
+    <updated>2022-02-08T01:04:31.747Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Prevent An ERP Implementation Disaster]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:eab2eae6-99f5-4ff3-9899-64275f930d86</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-prevent-an-erp-implementation-disaster"/>
+        <updated>2022-02-07T18:30:17.000Z</updated>
+        <summary type="html"><![CDATA[At Pelorus Technology, we are committed to addressing why ERP implementations typically fail and then reversing that trend. If you are contemplating a new or updated ERP implementation or dealing with a failed one, this will be of interest to you.
+We set out to find why so many ERP implementations are unsuccessful. We figure there must be some common denominators that were tripping up software partners and sabotaging their projects. Taking our search to Google, we learned some interesting facts.
+First, we wondered about the critical factors in all implementation projects. And we were surprised to find that there was no consensus. Various vendors identified between 4 and 12 elements that they deemed essential.
+We concluded that rampant ERP implementation failure must be due to an inability …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Master Data Management Secures Data and Ensures Compliance]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:117739bb-b6bc-4afe-8626-73d41b1f2529</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-master-data-management-secures-data-and-ensures-compliance"/>
+        <updated>2022-02-07T15:15:52.000Z</updated>
+        <summary type="html"><![CDATA[When the European Commission, the European Parliament and the Council of Ministers of the European Union jointly took the landmark decision to bring the General Data Protection Regulation (GDPR) into effect in May 2018, it was looked upon with concern by most data stewards and data protection officers. The GDPR is a data privacy regulation that requires businesses dealing with European Union citizens to protect the personal data and privacy of those citizens, regardless of where the organizations are headquartered.
+GDPR mandates observance of data integrity and security as well as adherence to privacy laws. It also regulates how organizations are allowed to handle internal or external data – which could include customer, employee, product, service, legal or financial information stored in …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:53376f6a-e561-4902-9f65-ffef46b00ce1</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/microsoft-dynamics-365-business-central-erp-implementation-ask-yourself-which-features-do-i-really-need"/>
+        <updated>2022-02-07T14:06:00.000Z</updated>
+        <summary type="html"><![CDATA[When we start shopping for a new accounting or ERP system, we start by gathering a list of everyone’s hopes, wants and needs in a solution (this is a great start and we’re glad that you’re putting it all together). Unfortunately, we don’t spend enough time asking ourselves the question ‘Do we REALLY NEED something to do our daily tasks or should we be prioritizing this at a future phase?’ (which is obviously less fun, but very necessary).
+At Bam Boom Cloud, we believe that just because a system can do something, doesn’t mean you should have it on Day 1. How do you know if you really need a certain feature if you haven’t started using the system yet? Our recommendation to you is to start using the basic functionalities and see where you have room for improvement. We think you will be surpri…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Speed Up Your Order-To-Cash Workflow]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2d25ea0c-915d-4aeb-b468-f5af6afb0cbe</id>
@@ -213,41 +248,6 @@ Business Owner Tips for Cloud and Hosting Contracts]]></summary>
 You could be a company that produces equipment, heavy machinery, medical devices, gadgets, or electronics — but to meet the customer demand, you now want to rent your products instead of relying on a one-time sale.
 While the idea of multiple revenue streams is great, the transition can be complex — with your production handled in one ERP solution and the rental side of your business in another solution, making you constantly switch between the two to understand how your business is running.
 Wouldn't it be more efficient if you could have all your processes …]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New in the Microsoft 365 2021 Release Wave 2?]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:59900412-a36b-4575-888b-e354570cef77</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/what-s-new-in-the-microsoft-365-2021-release-wave-2"/>
-        <updated>2022-02-01T10:21:30.000Z</updated>
-        <summary type="html"><![CDATA[As the business landscape continues to undergo constant transformation, the Microsoft Dynamics 365 2021 Release Wave 2 Plan delivers new features and innovations, equipping organizations with modern capabilities to drive their business forward. Improvements to different applications in the Dynamics 365 suite and Microsoft Cloud for industries such as Healthcare, Financial Services, and Nonprofit are expected to enhance not just user experience but also business performance and customer satisfaction.
-New features, expected to be released until March 2022, comprise hundreds of new improvements across the Dynamics 365 suite, across Marketing, Sales, Customer Service, Field Service, Finance, Supply Chain Management, Human Resources, Commerce etc. Let’s look at some of the latest features being…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Need Digital Transformation Now More Than Ever]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1cd47594-1a32-4f31-b317-0b2d421d096f</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/why-you-need-digital-transformation-now-more-than-ever"/>
-        <updated>2022-01-31T23:42:51.000Z</updated>
-        <summary type="html"><![CDATA[Digital transformation is no longer a buzzword for organizations – it’s become the new normal of operating in today’s digital age. Whether you’re an enterprise, a start-up, or a mid-sized business, you need to transform your operations and processes if you want to stay competitive and relevant. 
-The pandemic has been a key driver in accelerating digital transformation. According to Dell’s Digital Transformation Index 2020, which surveyed over 4000 business leaders globally, 8 in 10 organizations accelerated their digital transformation programs in 2020, and 89% said that the pandemic highlighted the need for business agility. 
-But what does digital transformation really mean? And why is it so critical for your organization? This article explores what digital transformation means in 2022, w…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save Time and Money with Microsoft Power Automate]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e12052c6-f541-49c3-8f31-dd47217fa1e0</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/save-time-and-money-with-microsoft-power-automate"/>
-        <updated>2022-01-31T22:50:37.000Z</updated>
-        <summary type="html"><![CDATA[“Automation” – you hear it referred to all the time as key to making everyone’s life easier. But can it fit within YOUR business processes using Power Automate? Ask yourself: are your teams plagued by repetitive, time-consuming tasks? Are these tedious tasks also subject to a high risk of human error (think data entry)? Wouldn’t you like to free up your staff’s time to focus on what really matters when it comes to the success of your business?  
-Enter Microsoft Power Automate (previously known as “Microsoft Flow”). Power Automate can help you create automated workflows between your business’s favorite apps and services to free up some significant time, and save you money.  
-You’ve already asked yourself if automation is a viable option for your business, and the answer is probably “yes.” T…]]></summary>
         <author>
             <name>ERP Software Blog</name>
         </author>
@@ -3077,17 +3077,6 @@ PowerApps CanvasApp or even PowerAutomate. Let’s jump in !]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dynamics Virtual Community Summit]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1e279390-e20e-48fe-b9eb-6aa32eff4bc4</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/dynamics-virtual-community-summit"/>
-        <updated>2020-07-01T07:18:43.000Z</updated>
-        <summary type="html"><![CDATA[This year the usual AXUG Summit Europe has been delayed due to the Coronavirus pandemic, and is happening online now this week, called Dynamics Virtual Community Summit. You may join a lot of interesting...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Exporting multiple entities through DMF fails randomly]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:efa85d0f-1896-4c9c-aaa0-07bf4f573b30</id>
         <link href="https://community.dynamics.com/ax/b/axology/posts/exporting-multiple-entities-through-dmf-fails-randomly"/>
@@ -3626,28 +3615,6 @@ faster & easier way, thanks to the PowerPlatform ! Let’s deep in….]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interpreting compiler results in D365FO using PowerShell]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8559dbfb-434b-47d2-9e34-2f2622b06082</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/interpreting-compiler-results-in-d365fo-using-powershell"/>
-        <updated>2020-03-31T11:37:43.000Z</updated>
-        <summary type="html"><![CDATA[When you build your code, the results are hard to interpret and are being capped at 1000 entries per category within the Visual Studio error pane. The compiler does generate output files with more valuable...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Number sequence consumption monitoring]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:dad4f080-ff8c-4bef-bf4f-44605ff362f4</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/number-sequence-consumption-monitoring"/>
-        <updated>2020-03-31T08:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Once a company has been live for a while and they are doing Business As Usual, they often forget about maintaining one critical area. The system is using Number Sequences as identifiers, for which we...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Updating SQL intellisense]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:345fc715-cbdd-49fa-9682-0eef29b61045</id>
         <link href="https://community.dynamics.com/ax/b/shashisaxblog/posts/updating-sql-intellisense"/>
@@ -3713,17 +3680,6 @@ Enjoy !]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Archiving SQL database backups using Azure blob storage]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9e4e2ef4-4b69-4a1c-a650-498e4c8ccba3</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/archiving-sql-database-backups-using-azure-blob-storage"/>
-        <updated>2020-03-19T14:44:09.000Z</updated>
-        <summary type="html"><![CDATA[It is a good practice to keep multiple copies of our most precious data. By using on-premises SQL Server databases for AX 2012 or Dynamics 365 Finance and Operations, archiving SQL database backups to...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bring Dynamics365 ERP and CRM together with CDS Dual-Write !]]></title>
         <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5e70c094d453a669d7826b79</id>
         <link href="https://www.powerazure365.com/blog-1/bring-dynamics365-erp-and-crm-together-with-cds"/>
@@ -3758,41 +3714,6 @@ Let’s jump in !]]></summary>
 More Info: No environment management operations can be triggered during this time and any ongoing operations will fail. The outage extends to Asset Library...(read more)]]></summary>
         <author>
             <name>ShellyB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics Zero to Hero introduction vlog]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b2fe2434-2ad7-4e48-9513-e467c6486855</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/dynamics-zero-to-hero-introduction-vlog"/>
-        <updated>2020-03-09T01:08:36.000Z</updated>
-        <summary type="html"><![CDATA[As it has been announced last week the Dynamics Zero to Hero channel is now up and running on YouTube. The brief introduction video is now up, and there are more to follow in the upcoming days and weeks...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plans for 2020 and going forward]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:affd154e-28da-4103-89c3-cec6c55fdcc5</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/plans-for-2020-and-going-forward"/>
-        <updated>2020-03-05T22:52:47.000Z</updated>
-        <summary type="html"><![CDATA[It has been a quiet couple of months as the community has probably noticed by the lower number of blog posts and forum answers. Working on our MSDyn365FO upgrade at JJ Food Service has been a demanding...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Dubai Summit 2020]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:451d35c1-7c99-4d25-8cca-71b917467852</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/dynamics-365-dubai-summit-2020"/>
-        <updated>2020-02-21T10:48:50.000Z</updated>
-        <summary type="html"><![CDATA[With only 1 week left until the Microsoft Dynamics 365 Dubai Summit 2020, I would like to remind you that there are still a couple of sets available for this amazing, free event.
-
-Dubai Summit 2020 website...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
         </author>
     </entry>
     <entry>
@@ -4178,28 +4099,6 @@ Advertisements]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trace database cleanup in an efficient way]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ac45fe37-1eb3-4a13-81a9-56d5738cbbaf</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/trace-database-cleanup-in-an-efficient-way"/>
-        <updated>2019-03-31T11:49:49.000Z</updated>
-        <summary type="html"><![CDATA[The Trace parser is an excellent tool for troubleshooting business functionality within Microsoft Dynamics AX 2012 and Dynamics 365 for Finance and Operations. Your Trace database can quickly grow large...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checklist can change AX configuration keys]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:af83e382-8e9f-4062-a7b2-be73accce1f6</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/checklist-can-change-ax-configuration-keys"/>
-        <updated>2019-03-31T11:32:45.000Z</updated>
-        <summary type="html"><![CDATA[The other day we ran into a serious issue during our regular Production system maintenance. The Data dictionary synchronization step has started creating indexes with a DEL_ prefix on large tables such...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to: Successfully enable Business Events in D365FO]]></title>
         <id>http://www.everythingdynamicsaxbi.com/?p=806</id>
         <link href="http://www.everythingdynamicsaxbi.com/2019/03/19/how-to-successfully-enable-business-events-in-d365fo/"/>
@@ -4281,63 +4180,6 @@ This course provides information, concepts, and demonstrations about X++ in Dyna
         <summary type="html"><![CDATA[The October ’18 release packed a lot of new features for Dynamics 365 for Finance and Operations. There’s been some design changes to the client, but also some new features…]]></summary>
         <author>
             <name>Espen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synchronize Models between workspaces in MSDyn365FO]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c50cff88-73f7-4c9b-81dc-b02e237cf86a</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/synchronize-models-between-workspaces-in-msdyn365fo"/>
-        <updated>2018-10-18T09:18:31.000Z</updated>
-        <summary type="html"><![CDATA[For our upgrade project we have decided to create 4 packages/models to start with, which is enough to separate larger areas. Once the models have been created on my VM, I had to make it available for everyone...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer VM performance for MSDyn365FO]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6e64d4ff-10a3-4782-a6cf-7d1928693b31</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/developer-vm-performance-for-msdyn365fo"/>
-        <updated>2018-10-15T13:00:43.000Z</updated>
-        <summary type="html"><![CDATA[When you are used to snappy desktops or locally hosted virtual machines and suddenly you need to move to the cloud, you would expect to see similar capabilities for a reasonable price. Unfortunately that...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find standard code overlayering in Dynamics 365 FO]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:7a78bbbd-e307-4f93-9fa7-2a5eb5e3d654</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/find-standard-code-overlayering-in-dynamics-365-fo"/>
-        <updated>2018-10-05T19:10:52.000Z</updated>
-        <summary type="html"><![CDATA[We are preparing for the code upgrade from AX 2012 R3 to D365FO 8.1, the latest version recently released. As you know it is extensions-only, meaning we are not allowed to modify any of the standard objects...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AOT property for kernel objects are readable via reflection]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:77dc5d7b-090e-4eb5-a9d2-a48cee79a65b</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/aot-property-for-kernel-objects-are-readable-via-reflection"/>
-        <updated>2018-10-05T15:36:02.000Z</updated>
-        <summary type="html"><![CDATA[There was a question recently on the Dynamics Community forums about finding out which enumeration to use behind an int type. It turned out that the table, field and enum in question was part of the kernel...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Ignite 2018 day 1 recap]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4311fa9e-b63b-45ea-8028-07b580497292</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/microsoft-ignite-2018-day-1-recap"/>
-        <updated>2018-09-24T19:07:48.000Z</updated>
-        <summary type="html"><![CDATA[Today Microsoft Ignite 2018 has kicked off with a lot of exciting news.
-
-One of the most important content is the fall release documentation...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
         </author>
     </entry>
     <entry>
@@ -4478,17 +4320,6 @@ Source: https://msdn.microsoft.com/en-us/library/ee308453.aspx]]></summary>
         <summary type="html"><![CDATA[Moving data between different instances of Dynamics 365 should be relatively easy with the Data Management framework. Microsoft offers a long list of entities and default templates nicely grouped into...(read more)]]></summary>
         <author>
             <name>S&amp;#248;ren Rasmussen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convergence is back as Microsoft Business Applications Summit]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3ff7d948-8a8d-45af-9fbc-158b4020acf9</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/convergence-is-back-as-microsoft-business-applications-summit"/>
-        <updated>2018-03-29T09:36:56.000Z</updated>
-        <summary type="html"><![CDATA[There was a blog article published yesterday by James Phillips, Corporate Vice President that we should be really excited about: Microsoft Convergence is back! The new show will be called Microsoft Business...
-(read more)]]></summary>
-        <author>
-            <name>Vilmos Kintera</name>
         </author>
     </entry>
     <entry>
@@ -5542,25 +5373,6 @@ Implement the event handler.
 public static System.Reflection.Assembly CurrentDomain_AssemblyResolve(object sender, ResolveEventArgs args)
 {    switch (args.Name)
     {          …]]></summary>
-        <author>
-            <name>Dominic Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics AX 2012: Use OpenXMLSDK for Excel Export - Part 2]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:07ee6405-77e3-4773-a0b2-9b30d0a24414</id>
-        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/dynamics-ax-2012-use-openxmlsdk-for-excel-export---part-2"/>
-        <updated>2015-03-17T06:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Part 1 of the series introduced OpenXML. This post will provide an example how to use OpenXML library to export data from AX. (Full example can be downloaded here.)
-First of all, a Session object is needed. It will be available if the method is called from AX. However, it is much easier/faster to test/debug using Visual studio alone. Therefore, add the following code to create a Session if necessary.
-            
-// Create a Session object and login if necessary
-if (MIL.Session.Current == null)
-{    MIL.Session axSession = new MIL.Session();
-    axSession.Logon(null, null, null, null);
-}
-The next thing is the SharedStringTable. They help reduce redundancy when the same Text value appears more than once in the workbook. A good post here by Tim Murphy explains it well.
-// Get the SharedStrin…]]></summary>
         <author>
             <name>Dominic Lee</name>
         </author>

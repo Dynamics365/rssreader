@@ -671,12 +671,39 @@
       "siteUrl": "https://community.dynamics.com/ax/b/erpsoftwareblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:eab2eae6-99f5-4ff3-9899-64275f930d86",
+          "author": "ERP Software Blog",
+          "description": "At Pelorus Technology, we are committed to addressing why ERP implementations typically fail and then reversing that trend. If you are contemplating a new or updated ERP implementation or dealing with a failed one, this will be of interest to you.\nWe set out to find why so many ERP implementations are unsuccessful. We figure there must be some common denominators that were tripping up software partners and sabotaging their projects. Taking our search to Google, we learned some interesting facts.\nFirst, we wondered about the critical factors in all implementation projects. And we were surprised to find that there was no consensus. Various vendors identified between 4 and 12 elements that they deemed essential.\nWe concluded that rampant ERP implementation failure must be due to an inability …",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-prevent-an-erp-implementation-disaster",
+          "publishedOn": "2022-02-07T18:30:17.000Z",
+          "wordCount": 1534,
+          "title": "How to Prevent An ERP Implementation Disaster"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:117739bb-b6bc-4afe-8626-73d41b1f2529",
+          "author": "ERP Software Blog",
+          "description": "When the European Commission, the European Parliament and the Council of Ministers of the European Union jointly took the landmark decision to bring the General Data Protection Regulation (GDPR) into effect in May 2018, it was looked upon with concern by most data stewards and data protection officers. The GDPR is a data privacy regulation that requires businesses dealing with European Union citizens to protect the personal data and privacy of those citizens, regardless of where the organizations are headquartered.\nGDPR mandates observance of data integrity and security as well as adherence to privacy laws. It also regulates how organizations are allowed to handle internal or external data – which could include customer, employee, product, service, legal or financial information stored in …",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-master-data-management-secures-data-and-ensures-compliance",
+          "publishedOn": "2022-02-07T15:15:52.000Z",
+          "wordCount": 2810,
+          "title": "How Master Data Management Secures Data and Ensures Compliance"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:53376f6a-e561-4902-9f65-ffef46b00ce1",
+          "author": "ERP Software Blog",
+          "description": "When we start shopping for a new accounting or ERP system, we start by gathering a list of everyone’s hopes, wants and needs in a solution (this is a great start and we’re glad that you’re putting it all together). Unfortunately, we don’t spend enough time asking ourselves the question ‘Do we REALLY NEED something to do our daily tasks or should we be prioritizing this at a future phase?’ (which is obviously less fun, but very necessary).\nAt Bam Boom Cloud, we believe that just because a system can do something, doesn’t mean you should have it on Day 1. How do you know if you really need a certain feature if you haven’t started using the system yet? Our recommendation to you is to start using the basic functionalities and see where you have room for improvement. We think you will be surpri…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/microsoft-dynamics-365-business-central-erp-implementation-ask-yourself-which-features-do-i-really-need",
+          "publishedOn": "2022-02-07T14:06:00.000Z",
+          "wordCount": 1556,
+          "title": "Microsoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:2d25ea0c-915d-4aeb-b468-f5af6afb0cbe",
           "author": "ERP Software Blog",
           "description": "The customer relationship starts long before a purchase is ever made and continues even after the product or service is delivered. Keeping this in mind, it is important for companies to review their business processes and ensure that, whatever they are doing, customer satisfaction is always top of mind. One of the things that many companies struggle with when it comes to maintaining customer satisfaction is the purchasing and order fulfillment process.  \nAs a distributor, it’s important to have the tools and processes in place to make it easy to place orders and pay invoices. As your fulfillment needs grow, the best way to increase efficiency while improving customer service is to reduce manual labor and automate collections.   \nThe three biggest pain points that stem from the fulfillment …",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-speed-up-your-order-to-cash-workflow",
           "publishedOn": "2022-02-04T12:50:45.000Z",
-          "wordCount": 1650,
+          "wordCount": 1647,
           "title": "How To Speed Up Your Order-To-Cash Workflow"
         },
         {
@@ -685,7 +712,7 @@
           "description": "Moving to an ERP solution can help your retail business to resolve many of these issues. Whereas, LS Central is a fully integrated retail management solution built on Dynamics 365 Business Central. You can use only this software instead of many. By using this, you can cut software and system administration costs, say goodbye to integration costs. Also, have consistent financial data, control prices, simplify and speed up upgrades, and access all your business information as and when you want.\nHere are some of the ways that transform your retail business.\nAllowing employees to deliver exceptional service\nLS Central helps your employees provide excessive service to today’s highly informed customers. At the mobile POS (Point of Sale), employees will get real-time visibility over the stock and…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-transform-your-retail-business-with-ls-central",
           "publishedOn": "2022-02-04T11:00:14.000Z",
-          "wordCount": 1571,
+          "wordCount": 1568,
           "title": "How to transform your retail business with LS Central?"
         },
         {
@@ -694,7 +721,7 @@
           "description": "Like all other industries, professional services firms often encounter typical pain points at some point during their growth. Recognize your firm in the following situations? Maybe it’s time to look into specialized tools to facilitate your processes. Look into a project management solution specifically designed for professional services firms like JOVACO Project, which provides a range of specialized modules to solve the pain points of professional services firms.\nPain point #1: Lack of visibility on project information\nHaving a hard time accessing project information or sharing it with the management team? Look for real-time reporting capabilities and sharing options. A project operations platform like JOVACO POP puts clear, concise web reports at your disposal for optimal visibility on …",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/professional-services-firms-solve-your-pain-points-with-a-project-management-solution",
           "publishedOn": "2022-02-03T20:03:54.000Z",
-          "wordCount": 1759,
+          "wordCount": 1756,
           "title": "Professional services firms: solve your pain points with a project management solution"
         },
         {
@@ -703,7 +730,7 @@
           "description": "Mass Production Maintenance is a new Production Control feature from our most recent release of  Vicinity Formula Management Software. The feature is used to release, delete, and ops-close batches in bulk. \n \n\n\nVideo Summary:\n \nTake a minute and watch the video above to go over the functionality added around the management of batches.  We added this into our 4.37 release, which is our year-end release for 2021. Specifically, we added a new menu option under Production Control, called “Batch Production Maintenance”. The purpose of this screen is to give you the ability to perform actions on a number of batches simultaneously.\nThere are also filters that enable the user to see a specific batch. If you want to view the R&D Lab batch only, then the filter will let you view that batch in partic…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/mass-production-maintenance---a-new-production-control-feature-for-vicinity-formula-management-software",
           "publishedOn": "2022-02-03T18:46:35.000Z",
-          "wordCount": 2432,
+          "wordCount": 2429,
           "title": "Mass Production Maintenance - A New Production Control Feature For Vicinity Formula Management Software"
         },
         {
@@ -712,7 +739,7 @@
           "description": "Blue Moon has been serving clients who use Microsoft Dynamics GP for over 30 years. In more recent times we’ve been developing industry-leading solutions not only for Dynamics GP but also Dynamics 365 Business Central and Acumatica with a continued commitment to deliver quality solutions.\nWe appreciate true innovators in the Dynamics channel, and Encore Business Solutions, an Independent Software Vendor (ISV), is one of them. They have made some of the most comprehensive and useful enhancements available for Dynamics GP, and we’re happy to announce that those products are now being welcomed into the fold here at Blue Moon.\nWhat the Experts Say\n“Encore has been one of the most respected ISVs in the Dynamics GP channel since the very beginning,” said Gary Palardy, Blue Moon’s President and D…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/blue-moon-expands-product-portfolio-of-dynamics-gp-enhancements",
           "publishedOn": "2022-02-03T17:45:31.000Z",
-          "wordCount": 1736,
+          "wordCount": 1733,
           "title": "Blue Moon Expands Product Portfolio of Dynamics GP Enhancements"
         },
         {
@@ -721,7 +748,7 @@
           "description": "MetaWMS, Advanced Warehouse System is an extension for Dynamics 365 Business Central that provides unprecedented visibility and control over your warehouse operations like inventory counts, shipping, receiving, picks, putaway, bin management, and more. Map your warehouse to quickly locate and pick items with Mobile WMS – Warehouse Management Solution.\nTop benefits of implementing Mobile WMS\nUp-to-date Inventory Information\nIf you get a sudden visit by an accountant that wants to reconcile your inventory, with Mobile WMS you can easily track the inventory that he wants to be counted, and hereafter it can be easily done via the mobile hand scanner. In addition, you’ll get the option to customize this solution, so that only employees have the right to do a count or adjust the quantity with Mo…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/top-3-benefits-of-implementing-mobile-wms--warehouse-management-solution",
           "publishedOn": "2022-02-03T10:13:25.000Z",
-          "wordCount": 1481,
+          "wordCount": 1478,
           "title": "Top 3 benefits of implementing Mobile WMS- Warehouse Management Solution"
         },
         {
@@ -730,7 +757,7 @@
           "description": "While deciding on the type of Electronic Data Exchange or EDI can be a daunting task, it’s nearly as difficult to decide which EDI service provider will work for you. While there are several factors to consider, it is important to shortlist an EDI service provider based on your organization’s requirements and priorities.\nAt To-increase, we have to keep a track of the competition in order to stay on top of our game. Therefore, this blog is an honest list of the best EDI vendors in the business that give our EDI Solutions tough competition.\nWe have put together a list of the best EDI Service Providers based on industry research (reviews from Gartner, G2, GetApp, Capterra, PeerSpot, Software Advice, and Software Suggest*). We have compiled this Top EDI Vendors list by evaluating most of the f…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/top-4-edi-service-providers-in-2022",
           "publishedOn": "2022-02-03T08:50:11.000Z",
-          "wordCount": 3711,
+          "wordCount": 3708,
           "title": "Top 4 EDI Service Providers in 2022"
         },
         {
@@ -739,7 +766,7 @@
           "description": "As many of you may be aware, Product Lifecycle Management (commonly known as PLM) is the process by which you manage the complete lifecycle of a product. It encompasses all the stages right from the concept or inception to design, engineering, manufacturing, and the service and disposal of manufactured goods. \nUsing PLM in the right way can help integrate processes and business systems to form the product's backbone that uses ERP and PLM. An industrial equipment manufacturing company is a great example.\nFrom the above definition, you can conclude that integrating your PLM with your ERP system is crucial for overall business efficiency. Suppose the engineering domain and the operational systems are not connected properly. In that case, there could be a significant disconnect as some of the …",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/pitfalls-of-not-integrating-plm-and-erp",
           "publishedOn": "2022-02-03T00:06:25.000Z",
-          "wordCount": 1845,
+          "wordCount": 1842,
           "title": "Pitfalls of Not Integrating PLM and ERP"
         },
         {
@@ -748,7 +775,7 @@
           "description": "The success of many AEC firms depends on their ability to effectively administer all aspects of their operations, everything from sales and marketing to project delivery and accounting. Powerful technology solutions are required by these firms in order to monitor all of the details associated with client relationships and projects. This requires the right AEC software.\nCoffman Engineers, a multidisciplinary engineering firm that specializes in civil, corrosion control, electrical, mechanical, and survey, among other services, recently began searching for a new, cloud-based business platform to streamline its operations. They were looking for a dynamic solution that would provide more cohesive teamwork and departmental support throughout the firm.\nThe team at Coffman Engineers researched th…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/an-engineering-firm-migrates-critical-aec-functions-to-the-cloud-with-hso-proserv-and-aec360",
           "publishedOn": "2022-02-02T18:27:49.000Z",
-          "wordCount": 1571,
+          "wordCount": 1568,
           "title": "An Engineering Firm Migrates Critical AEC Functions to the Cloud with HSO ProServ and aec360"
         },
         {
@@ -757,7 +784,7 @@
           "description": "Supply Chain Resilience is at the heart of current supply chain management thinking. Understanding the concept, and where to invest in resilience, can lead to supply chains that quickly respond to and recover from costly disruptions. Companies who have more resilient supply chains weathered the storm much better than those caught unprepared. Supply chain problems don’t have to be as extreme, as the COVID-19 shutdowns were to have negative effects on a business. Working on supply chain resilience is the best way to prepare your business for the next disruption, no matter how large it may be.\n6 Ways to Improve Supply Chain Resilience\nThere are a few steps any business can take to provide a layer of resilience in their supply chain. Rather than hoping we never have another major supply chain …",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/6-ways-to-improve-supply-chain-resilience",
           "publishedOn": "2022-02-01T21:20:59.000Z",
-          "wordCount": 1774,
+          "wordCount": 1771,
           "title": "6 Ways to Improve Supply Chain Resilience"
         },
         {
@@ -766,7 +793,7 @@
           "description": "About 93% of business leaders said they are undergoing a digital transformation within their accounting processes or are planning to within the next year, according to a PYMNTS.com survey. The survey also said about half of respondents are digitizing payments processing.  \n“CFOs view three specific payments-related operations as immediate priorities, meaning significant shares of firms are currently investing in them,” said the study. These areas include: \nInvoicing customers and vendors - 61% are digitizing now and 11% plan to this year \nPayment processing - 51% are currently working on it and 24% plan to this year \nTracking payments received and due - 48% currently are investing and 24% plan to this year \nYou may also be interested in: End-to-End Accounts Payable Process Explained\nIt seams everyone is doing surveys these days, especially where technology trends are concerned. We tend to focus on accounting and accounts payable for our research material. In one of our recent posts, we have identified three trends in technology that are helping advance the adoption of the digitized accounting processes. These aren’t the only trends behind adoption, but trends we’ve noticed recently in our readings. They include:\nDigital Transformation\nWork from Home\nMachine Learning, AI and Beyond\nLearn More\nThe post Digital Transformation Trends appeared first on ERP Software Blog.\nRelated posts:\nInfographie : 10 idees brillantes pour vous demarquer de la concurrence avec le ERP Microsoft Dynamics \n5 Sales Tax Tips for Microsoft Dynamics GP Users \nBusiness Owner Tips for Cloud and Hosting Contracts",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/digital-transformation-trends",
           "publishedOn": "2022-02-01T21:04:48.000Z",
-          "wordCount": 1247,
+          "wordCount": 1244,
           "title": "Digital Transformation Trends"
         },
         {
@@ -775,35 +802,8 @@
           "description": "Manufacturing industries are seeing a growing change in their business models with the concept of servitization, in which more customers prefer to rent equipment over buying to avoid the hassle of maintenance, depreciation, and storage.\nYou could be a company that produces equipment, heavy machinery, medical devices, gadgets, or electronics — but to meet the customer demand, you now want to rent your products instead of relying on a one-time sale.\nWhile the idea of multiple revenue streams is great, the transition can be complex — with your production handled in one ERP solution and the rental side of your business in another solution, making you constantly switch between the two to understand how your business is running.\nWouldn't it be more efficient if you could have all your processes …",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/can-manufacturers-manage-rental-processes-within-dynamics-365",
           "publishedOn": "2022-02-01T11:56:59.000Z",
-          "wordCount": 2352,
+          "wordCount": 2349,
           "title": "Can Manufacturers Manage Rental Processes Within Dynamics 365?"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:59900412-a36b-4575-888b-e354570cef77",
-          "author": "ERP Software Blog",
-          "description": "As the business landscape continues to undergo constant transformation, the Microsoft Dynamics 365 2021 Release Wave 2 Plan delivers new features and innovations, equipping organizations with modern capabilities to drive their business forward. Improvements to different applications in the Dynamics 365 suite and Microsoft Cloud for industries such as Healthcare, Financial Services, and Nonprofit are expected to enhance not just user experience but also business performance and customer satisfaction.\nNew features, expected to be released until March 2022, comprise hundreds of new improvements across the Dynamics 365 suite, across Marketing, Sales, Customer Service, Field Service, Finance, Supply Chain Management, Human Resources, Commerce etc. Let’s look at some of the latest features being…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/what-s-new-in-the-microsoft-365-2021-release-wave-2",
-          "publishedOn": "2022-02-01T10:21:30.000Z",
-          "wordCount": 2045,
-          "title": "What’s New in the Microsoft 365 2021 Release Wave 2?"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1cd47594-1a32-4f31-b317-0b2d421d096f",
-          "author": "ERP Software Blog",
-          "description": "Digital transformation is no longer a buzzword for organizations – it’s become the new normal of operating in today’s digital age. Whether you’re an enterprise, a start-up, or a mid-sized business, you need to transform your operations and processes if you want to stay competitive and relevant. \nThe pandemic has been a key driver in accelerating digital transformation. According to Dell’s Digital Transformation Index 2020, which surveyed over 4000 business leaders globally, 8 in 10 organizations accelerated their digital transformation programs in 2020, and 89% said that the pandemic highlighted the need for business agility. \nBut what does digital transformation really mean? And why is it so critical for your organization? This article explores what digital transformation means in 2022, w…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/why-you-need-digital-transformation-now-more-than-ever",
-          "publishedOn": "2022-01-31T23:42:51.000Z",
-          "wordCount": 2049,
-          "title": "Why You Need Digital Transformation Now More Than Ever"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e12052c6-f541-49c3-8f31-dd47217fa1e0",
-          "author": "ERP Software Blog",
-          "description": "“Automation” – you hear it referred to all the time as key to making everyone’s life easier. But can it fit within YOUR business processes using Power Automate? Ask yourself: are your teams plagued by repetitive, time-consuming tasks? Are these tedious tasks also subject to a high risk of human error (think data entry)? Wouldn’t you like to free up your staff’s time to focus on what really matters when it comes to the success of your business?  \nEnter Microsoft Power Automate (previously known as “Microsoft Flow”). Power Automate can help you create automated workflows between your business’s favorite apps and services to free up some significant time, and save you money.  \nYou’ve already asked yourself if automation is a viable option for your business, and the answer is probably “yes.” T…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/save-time-and-money-with-microsoft-power-automate",
-          "publishedOn": "2022-01-31T22:50:37.000Z",
-          "wordCount": 1639,
-          "title": "Save Time and Money with Microsoft Power Automate"
         }
       ]
     },
@@ -1327,7 +1327,7 @@
           "description": "How to get Comma , in Financial REPORTS in Microsoft Dynamics 365 Finance and Operations\n\n\n\n\nReport definition - settings\n\n \n\n\nIf column level needed then could use Column format override .\nIf ...(read more)",
           "link": "https://community.dynamics.com/ax/b/happyd365fo/posts/how-to-get-comma-in-financial-reports-in-microsoft-dynamics-365-finance-and-operations",
           "publishedOn": "2021-12-08T19:36:25.000Z",
-          "wordCount": 970,
+          "wordCount": null,
           "title": "How to get Comma , in Financial REPORTS in Microsoft Dynamics 365 Finance and Operations"
         },
         {
@@ -1579,15 +1579,6 @@
           "publishedOn": "2015-03-20T03:46:00.000Z",
           "wordCount": 1080,
           "title": "Dynamics AX 2012: Use OpenXML SDK for Excel Export - Part 3"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:07ee6405-77e3-4773-a0b2-9b30d0a24414",
-          "author": "Dominic Lee",
-          "description": "Part 1 of the series introduced OpenXML. This post will provide an example how to use OpenXML library to export data from AX. (Full example can be downloaded here.)\nFirst of all, a Session object is needed. It will be available if the method is called from AX. However, it is much easier/faster to test/debug using Visual studio alone. Therefore, add the following code to create a Session if necessary.\n            \n// Create a Session object and login if necessary\nif (MIL.Session.Current == null)\n{    MIL.Session axSession = new MIL.Session();\n    axSession.Logon(null, null, null, null);\n}\nThe next thing is the SharedStringTable. They help reduce redundancy when the same Text value appears more than once in the workbook. A good post here by Tim Murphy explains it well.\n// Get the SharedStrin…",
-          "link": "https://community.dynamics.com/ax/b/ftdynamicsax/posts/dynamics-ax-2012-use-openxmlsdk-for-excel-export---part-2",
-          "publishedOn": "2015-03-17T06:27:00.000Z",
-          "wordCount": 1202,
-          "title": "Dynamics AX 2012: Use OpenXMLSDK for Excel Export - Part 2"
         }
       ]
     },
@@ -2724,148 +2715,6 @@
           "publishedOn": "2015-09-07T13:28:00.000Z",
           "wordCount": 1403,
           "title": "AX2012 : Adding text translations to entities using X++ [Technical walk-through]"
-        }
-      ]
-    },
-    {
-      "title": "Dynamics 365 for Finance and Operations – DAXRunBase",
-      "feedUrl": "https://community.dynamics.com/ax/b/axrunbase/rss",
-      "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase",
-      "articles": [
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1e279390-e20e-48fe-b9eb-6aa32eff4bc4",
-          "author": "Vilmos Kintera",
-          "description": "This year the usual AXUG Summit Europe has been delayed due to the Coronavirus pandemic, and is happening online now this week, called Dynamics Virtual Community Summit. You may join a lot of interesting...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/dynamics-virtual-community-summit",
-          "publishedOn": "2020-07-01T07:18:43.000Z",
-          "wordCount": 1071,
-          "title": "Dynamics Virtual Community Summit"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8559dbfb-434b-47d2-9e34-2f2622b06082",
-          "author": "Vilmos Kintera",
-          "description": "When you build your code, the results are hard to interpret and are being capped at 1000 entries per category within the Visual Studio error pane. The compiler does generate output files with more valuable...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/interpreting-compiler-results-in-d365fo-using-powershell",
-          "publishedOn": "2020-03-31T11:37:43.000Z",
-          "wordCount": 1180,
-          "title": "Interpreting compiler results in D365FO using PowerShell"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:dad4f080-ff8c-4bef-bf4f-44605ff362f4",
-          "author": "Vilmos Kintera",
-          "description": "Once a company has been live for a while and they are doing Business As Usual, they often forget about maintaining one critical area. The system is using Number Sequences as identifiers, for which we...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/number-sequence-consumption-monitoring",
-          "publishedOn": "2020-03-31T08:02:55.000Z",
-          "wordCount": 1381,
-          "title": "Number sequence consumption monitoring"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:9e4e2ef4-4b69-4a1c-a650-498e4c8ccba3",
-          "author": "Vilmos Kintera",
-          "description": "It is a good practice to keep multiple copies of our most precious data. By using on-premises SQL Server databases for AX 2012 or Dynamics 365 Finance and Operations, archiving SQL database backups to...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/archiving-sql-database-backups-using-azure-blob-storage",
-          "publishedOn": "2020-03-19T14:44:09.000Z",
-          "wordCount": 1555,
-          "title": "Archiving SQL database backups using Azure blob storage"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b2fe2434-2ad7-4e48-9513-e467c6486855",
-          "author": "Vilmos Kintera",
-          "description": "As it has been announced last week the Dynamics Zero to Hero channel is now up and running on YouTube. The brief introduction video is now up, and there are more to follow in the upcoming days and weeks...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/dynamics-zero-to-hero-introduction-vlog",
-          "publishedOn": "2020-03-09T01:08:36.000Z",
-          "wordCount": 916,
-          "title": "Dynamics Zero to Hero introduction vlog"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:affd154e-28da-4103-89c3-cec6c55fdcc5",
-          "author": "Vilmos Kintera",
-          "description": "It has been a quiet couple of months as the community has probably noticed by the lower number of blog posts and forum answers. Working on our MSDyn365FO upgrade at JJ Food Service has been a demanding...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/plans-for-2020-and-going-forward",
-          "publishedOn": "2020-03-05T22:52:47.000Z",
-          "wordCount": 1118,
-          "title": "Plans for 2020 and going forward"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:451d35c1-7c99-4d25-8cca-71b917467852",
-          "author": "Vilmos Kintera",
-          "description": "With only 1 week left until the Microsoft Dynamics 365 Dubai Summit 2020, I would like to remind you that there are still a couple of sets available for this amazing, free event.\n\nDubai Summit 2020 website...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/dynamics-365-dubai-summit-2020",
-          "publishedOn": "2020-02-21T10:48:50.000Z",
-          "wordCount": 1033,
-          "title": "Dynamics 365 Dubai Summit 2020"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ac45fe37-1eb3-4a13-81a9-56d5738cbbaf",
-          "author": "Vilmos Kintera",
-          "description": "The Trace parser is an excellent tool for troubleshooting business functionality within Microsoft Dynamics AX 2012 and Dynamics 365 for Finance and Operations. Your Trace database can quickly grow large...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/trace-database-cleanup-in-an-efficient-way",
-          "publishedOn": "2019-03-31T11:49:49.000Z",
-          "wordCount": 986,
-          "title": "Trace database cleanup in an efficient way"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:af83e382-8e9f-4062-a7b2-be73accce1f6",
-          "author": "Vilmos Kintera",
-          "description": "The other day we ran into a serious issue during our regular Production system maintenance. The Data dictionary synchronization step has started creating indexes with a DEL_ prefix on large tables such...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/checklist-can-change-ax-configuration-keys",
-          "publishedOn": "2019-03-31T11:32:45.000Z",
-          "wordCount": 1034,
-          "title": "Checklist can change AX configuration keys"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c50cff88-73f7-4c9b-81dc-b02e237cf86a",
-          "author": "Vilmos Kintera",
-          "description": "For our upgrade project we have decided to create 4 packages/models to start with, which is enough to separate larger areas. Once the models have been created on my VM, I had to make it available for everyone...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/synchronize-models-between-workspaces-in-msdyn365fo",
-          "publishedOn": "2018-10-18T09:18:31.000Z",
-          "wordCount": 993,
-          "title": "Synchronize Models between workspaces in MSDyn365FO"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:6e64d4ff-10a3-4782-a6cf-7d1928693b31",
-          "author": "Vilmos Kintera",
-          "description": "When you are used to snappy desktops or locally hosted virtual machines and suddenly you need to move to the cloud, you would expect to see similar capabilities for a reasonable price. Unfortunately that...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/developer-vm-performance-for-msdyn365fo",
-          "publishedOn": "2018-10-15T13:00:43.000Z",
-          "wordCount": 1837,
-          "title": "Developer VM performance for MSDyn365FO"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:7a78bbbd-e307-4f93-9fa7-2a5eb5e3d654",
-          "author": "Vilmos Kintera",
-          "description": "We are preparing for the code upgrade from AX 2012 R3 to D365FO 8.1, the latest version recently released. As you know it is extensions-only, meaning we are not allowed to modify any of the standard objects...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/find-standard-code-overlayering-in-dynamics-365-fo",
-          "publishedOn": "2018-10-05T19:10:52.000Z",
-          "wordCount": 1597,
-          "title": "Find standard code overlayering in Dynamics 365 FO"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:77dc5d7b-090e-4eb5-a9d2-a48cee79a65b",
-          "author": "Vilmos Kintera",
-          "description": "There was a question recently on the Dynamics Community forums about finding out which enumeration to use behind an int type. It turned out that the table, field and enum in question was part of the kernel...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/aot-property-for-kernel-objects-are-readable-via-reflection",
-          "publishedOn": "2018-10-05T15:36:02.000Z",
-          "wordCount": 1123,
-          "title": "AOT property for kernel objects are readable via reflection"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4311fa9e-b63b-45ea-8028-07b580497292",
-          "author": "Vilmos Kintera",
-          "description": "Today Microsoft Ignite 2018 has kicked off with a lot of exciting news.\n\nOne of the most important content is the fall release documentation...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/microsoft-ignite-2018-day-1-recap",
-          "publishedOn": "2018-09-24T19:07:48.000Z",
-          "wordCount": 1070,
-          "title": "Microsoft Ignite 2018 day 1 recap"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3ff7d948-8a8d-45af-9fbc-158b4020acf9",
-          "author": "Vilmos Kintera",
-          "description": "There was a blog article published yesterday by James Phillips, Corporate Vice President that we should be really excited about: Microsoft Convergence is back! The new show will be called Microsoft Business...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/convergence-is-back-as-microsoft-business-applications-summit",
-          "publishedOn": "2018-03-29T09:36:56.000Z",
-          "wordCount": 1104,
-          "title": "Convergence is back as Microsoft Business Applications Summit"
         }
       ]
     },
