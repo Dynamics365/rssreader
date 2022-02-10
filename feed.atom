@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-09T01:06:45.658Z</updated>
+    <updated>2022-02-10T01:03:52.197Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automation Leads to Greater AP Efficiency – and Other Advantages]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:11136d9a-7945-44ef-9aec-03ce9353e0c2</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/automation-leads-to-greater-ap-efficiency-and-other-advantages"/>
+        <updated>2022-02-09T14:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Manual, paper-based AP processes have been a consistent bottleneck for organizations that have not yet transitioned to digital invoice workflows. In fact, many members of AP and finance teams spend more than 50% of their day looking for paper invoices. Companies that have at least begun their digital transformation have reduced the paper chase by about 80%. This time savings leads to not only greater business efficiency but also provides a stronger competitive advantage in the market.
+Organizations that take process transformation, including AP automation, seriously can demonstrate how their back-office process efficiency leads to stronger cash positions, better control over cash flow and solid vendor relationships. These advantages lead to other benefits, such as higher business financial…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Color Compass enables sales reps to work online or offline]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b0bb1481-e689-4078-8a17-7fa1add66614</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/color-compass-enables-sales-reps-to-work-online-or-offline"/>
+        <updated>2022-02-09T14:04:41.000Z</updated>
+        <summary type="html"><![CDATA[Color Compass Corporation provides paints and related supplies to the collision repair industry, chains, and channel sales distributors throughout Canada.
+Business Situation
+Historically, Color Compass sales reps in the field recorded sales orders on paper. Then they called an internal order desk and relayed the order over the phone. The internal sales associate recorded the order a second time on paper. Finally, it was entered into the Microsoft Dynamics NAV system. The process was time-consuming and susceptible to errors, resulting in more lost time, lost sales, and unhappy or lost customers.
+Color Compass wanted to automate the sales order process by implementing a solution for use in the field to enhance their business. They were looking for a solution built on a similar philosophy as …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ardent Mills uses Microsoft Power Platform to enable a paperless state-of-the-art mill]]></title>
+        <id>ardent-mills-uses-microsoft-power-platform-to-enable-a-paperless-state-of-the-art-mill</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/ardent-mills-uses-microsoft-power-platform-to-enable-a-paperless-state-of-the-art-mill/"/>
+        <updated>2022-02-09T08:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Ardent Mills operates in more than 40 locations that specialize in flour, quinoa, pulses, and organic and gluten-free products that drive emerging nutrition and innovation across plant-based ingredients. To stay current with the increase in operations and production across their plants in several different countries, their processes need to be efficient and supported by the technological capabilities available today. Deborah Romero-Reinig, explored Power Apps and Microsoft Power Platform to improve their processes and establish reporting capabilities across their plants. Several apps are now live and the team is now working towards a digital foundation for their upcoming paperless state of the art mill.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Posting ERROR Ledger account is missing in posted invoice. (AX 2012 R3 CU9)]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:db7f6407-e682-4167-b001-9ca24eb81dcd</id>
+        <link href="https://community.dynamics.com/ax/b/technicaltutorialsformsdynamicsax2012/posts/posting-error-ledger-account-is-missing-in-posted-invoice-ax-2012-r3-cu9"/>
+        <updated>2022-02-09T07:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Issue: Ledger account is missing in posted invoice. (AX 2012 R3 CU9)
+Error (Message: The state of source document or source document…) while performing budget check in pending vendor invoice.(Screenshot1)
+
+
+Resolving the error by resetting accounting distribution(screen shot 2)
+
+
+Budget check performed and invoice is ready to post. (before posting ledger accounts are showing in subledger journal), but after posting GST and TDS accounts are missing in the voucher transaction.
+
+
+comment for your suggestion .]]></summary>
+        <author>
+            <name>SANTOSH KUMAR SINGH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing General Availability (GA) of Power Apps portals support for Query data using portals Web API]]></title>
+        <id>announcing-general-availability-ga-of-power-apps-portals-support-for-query-data-using-portals-web-api</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-support-for-query-data-using-portals-web-api/"/>
+        <updated>2022-02-09T07:01:33.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the General Availability (GA) of Power Apps portals support for Query data using portals Web API that was introduced in November 2021 release as a preview feature.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Does Full Document Automation Cost More Than AP Automation?]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d6f053cd-2772-4ca5-a60a-cb4d87e06cbd</id>
@@ -31,6 +95,16 @@ So, what’s the answer? 
 All financial processes related to the rental business can be easily managed with rental software built in the Dyn…]]></summary>
         <author>
             <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing General Availability (GA) of code components for portals]]></title>
+        <id>announcing-general-availability-ga-of-code-components-for-portals</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-code-components-for-portals/"/>
+        <updated>2022-02-08T06:05:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the General Availability (GA) of Code component on Portals that was introduced in April 2021 release as a preview feature.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -335,31 +409,6 @@ At Bam Boom Cloud, we believe that just because a system can do something, doesn
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Speed Up Your Order-To-Cash Workflow]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2d25ea0c-915d-4aeb-b468-f5af6afb0cbe</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-speed-up-your-order-to-cash-workflow"/>
-        <updated>2022-02-04T12:50:45.000Z</updated>
-        <summary type="html"><![CDATA[The customer relationship starts long before a purchase is ever made and continues even after the product or service is delivered. Keeping this in mind, it is important for companies to review their business processes and ensure that, whatever they are doing, customer satisfaction is always top of mind. One of the things that many companies struggle with when it comes to maintaining customer satisfaction is the purchasing and order fulfillment process.  
-As a distributor, it’s important to have the tools and processes in place to make it easy to place orders and pay invoices. As your fulfillment needs grow, the best way to increase efficiency while improving customer service is to reduce manual labor and automate collections.   
-The three biggest pain points that stem from the fulfillment …]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to transform your retail business with LS Central?]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4d81ecc3-5060-4889-98b5-e629604d6723</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-transform-your-retail-business-with-ls-central"/>
-        <updated>2022-02-04T11:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Moving to an ERP solution can help your retail business to resolve many of these issues. Whereas, LS Central is a fully integrated retail management solution built on Dynamics 365 Business Central. You can use only this software instead of many. By using this, you can cut software and system administration costs, say goodbye to integration costs. Also, have consistent financial data, control prices, simplify and speed up upgrades, and access all your business information as and when you want.
-Here are some of the ways that transform your retail business.
-Allowing employees to deliver exceptional service
-LS Central helps your employees provide excessive service to today’s highly informed customers. At the mobile POS (Point of Sale), employees will get real-time visibility over the stock and…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Dynamics channel firms 1ClickFactory and QBS Group to form Companial]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1f20ca25-d205-4686-bf1e-f90a2cf01031</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-channel-firms-1clickfactory-and-qbs-group-to-form-companial"/>
@@ -530,16 +579,6 @@ new connectors... Read the full text.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[January 2022 Power Apps community call: Creating an Audio Player and deep dive into Pay-as-you-go features]]></title>
-        <id>january-2022-power-apps-community-call-creating-an-audio-player-and-deep-dive-into-pay-as-you-go-features</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/january-2022-power-apps-community-call-creating-an-audio-player-and-deep-dive-into-pay-as-you-go-features/"/>
-        <updated>2022-01-13T14:26:25.000Z</updated>
-        <summary type="html"><![CDATA[This month’s Power Apps community call has two exciting topics: Creating an audio player and how to take advantage of the new Pay-as-you-go Power Apps features.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to modify a journal template in Dynamics 365]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b4b3008a-9947-433f-a473-bc9be05d4f7c</id>
         <link href="https://community.dynamics.com/ax/b/axinthefield/posts/how-to-modify-a-journal-template-in-dynamics-365"/>
@@ -547,16 +586,6 @@ new connectors... Read the full text.]]></summary>
         <summary type="html"><![CDATA[One of my favorite features that is both a power user function and an ease-of-use tool is the native Excel integration throughout Dynamics 365 F&O. With the native Excel integration to create, del...(read more)]]></summary>
         <author>
             <name>Ryan Sandness MSFT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Apps Ideas: New enhancements and increased capabilities]]></title>
-        <id>power-apps-ideas-new-enhancements-and-increased-capabilities</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-ideas-new-enhancements-and-increased-capabilities/"/>
-        <updated>2022-01-11T09:43:17.000Z</updated>
-        <summary type="html"><![CDATA[After we announced public preview of Power Apps Ideas, including writing Power Fx formulas with natural language and generating formulas from examples, we continued tuning the design and improving our AI model to make Ideas work better for you. Today, we’re happy to share some of the latest updates on Ideas with you.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -603,16 +632,6 @@ sa.global.
  Dynamic Consulting... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Apps portals : Introducing the portals search powered by Microsoft Dataverse search API  (preview)]]></title>
-        <id>powerapps-portals-introducing-the-portals-search-powered-by-microsoft-dataverse-search-api-preview</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/powerapps-portals-introducing-the-portals-search-powered-by-microsoft-dataverse-search-api-preview/"/>
-        <updated>2022-01-03T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the portals search powered by Dataverse search API now available for public preview.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -2119,23 +2138,6 @@ Lately I had a problem with batch processing that although they ran the code ins
         <summary type="html"><![CDATA[In this blog I want to show, how you could find what exact error/exception is causing problems when exporting data from Microsoft Dynamics 365 for Finance and Operations via the DIXF (Data Import Export Framework) e. g. to Excel. I recently worked on a bug from one of my colleagues with the following repro steps: … Continue reading Error DMF2009 when exporting from MsDyn365FO to Excel →]]></summary>
         <author>
             <name>Paul Heisterkamp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to copy roles of a user to another user in Dynamics 365 FO]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:64206dc0-5be8-4436-aa98-8ac07b26ddcc</id>
-        <link href="https://community.dynamics.com/ax/b/technicaltutorialsformsdynamicsax2012/posts/how-to-copy-roles-of-a-user-to-another-user-in-dynamics-365-fo-8378362"/>
-        <updated>2021-06-28T06:52:58.000Z</updated>
-        <summary type="html"><![CDATA[To copy roles of a user to another user in Dynamics 365 FO You can apply below steps.
-1)Go to  Assign roles menu item.
-2) select user in top of dialog
-3) It will show all the roles of selected user
-4) select all and click ok
-
-
-I hope your problem will resolve and it will Save your time.]]></summary>
-        <author>
-            <name>SANTOSH KUMAR SINGH</name>
         </author>
     </entry>
     <entry>
