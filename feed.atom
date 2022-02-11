@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-10T01:03:52.197Z</updated>
+    <updated>2022-02-11T01:07:53.705Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BI and AI Architecture Hero for Dynamics 365 with Azure Synapse]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:6204dcae8288115911169526</id>
+        <link href="https://www.powerazure365.com/blog-1/bi-architecture-hero-for-dynamics-365-with-azure-synapse"/>
+        <updated>2022-02-10T18:28:45.000Z</updated>
+        <summary type="html"><![CDATA[It was time for me to do a long blog post article about something really 
+important about Dynamics 365 : How to deploy a global end-to-end 
+Architecture for BI and AI/ML very quickly, with of course the Azure Data 
+Platform : aka Data Lake and Synapse Analytics. After several deployments, 
+and of course several best practices and projects, time to share my thought 
+about this and help you deploy a real Modern Data warehouse with all kind 
+of Business Apps data you have ! Let’s jump in !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing a New ERP Solution for Engineering: Here’s the Industry-Specific Guidance HSO ProServ Offered One Firm]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8f466ec3-45de-4697-ab4f-ebb00a5c23bf</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/choosing-a-new-erp-solution-for-engineering-here-s-the-industry-specific-guidance-hso-proserv-offered-one-firm"/>
+        <updated>2022-02-10T16:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Confronting the sunsetting of a mission-critical technology platform can be an aggravating and puzzling experience. This is particularly true when the solution in question assists in the management of all aspects of project operations. The process you choose to address the forthcoming loss of this platform can have both  short and long-term impacts on your business. Choose correctly and you can position your business to survive the transition or even gain an advantage from the imposed change. Choose incorrectly – or even worse, make no choice at all – and your business may experience even greater damage from the loss of the platform. Not long ago, Klohn Crippen Berger, a multinational engineering, geoscience, and environmental consulting firm, faced precisely this  situation. KCB realized …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Reasons Why Your Business Should Invest in Data Management]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f938ed51-f8ca-40ec-a398-9378d386bf37</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/6-reasons-why-your-business-should-invest-in-data-management"/>
+        <updated>2022-02-10T13:59:40.000Z</updated>
+        <summary type="html"><![CDATA[“Data is the new oil. It’s valuable, but if unrefined, it cannot really be used.”– Clive Humby, British mathematician
+Although this dramatic statement was made way back in 2006, many businesses today still struggle to grasp the fact that making the right business decisions (and thereby, generating profits or losses) is almost entirely dependent on reliable and usable data.
+The reason for this is not surprising. Data, by nature, is extensive, ever-evolving, and filled with numbers that confuse the average business manager. It also takes up several hours of manual effort to organize and then analyze data coming in from various sources (not to mention the time spent in filtering out data that’s incorrect or duplicated!).
+To add to his woes, a business manager has to make peace with the fact t…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try out the Power Apps 2022 April Release Wave 1 updates for Model-driven apps!]]></title>
+        <id>try-out-the-power-apps-2022-april-release-wave-1-updates-for-model-driven-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/try-out-the-power-apps-2022-april-release-wave-1-updates-for-model-driven-apps/"/>
+        <updated>2022-02-10T06:22:20.000Z</updated>
+        <summary type="html"><![CDATA[The Power Apps April release wave 1 for Model-driven apps is now available for you to take advantage of. In this release wave you can take advantage of cohesive and modern experiences while collaborating with team members in Power Apps.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why retailers are flocking to e-commerce subscription models]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1663ec2a-0974-47e8-8e9b-d7206dc6c236</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/why-retailers-are-flocking-to-e-commerce-subscription-models"/>
+        <updated>2022-02-09T21:37:56.000Z</updated>
+        <summary type="html"><![CDATA[As e-commerce continues to take over the retail industry, many brands are turning to subscription services to meet their customers’ demands. Studies predict that the subscription economy will reach a global market value of $257 billion. Increasing customer demand for flexible pricing and purchasing options are responsible for a large portion of this growth. As modern shoppers continue to trend towards omnichannel commerce, pricing models must branch out in order to meet consumers where they’re at. 
+E-commerce subscription models generally fall into one of three categories: replenishment, curation, or access.  
+Replenishment subscriptions allow customers to automate restocking commodities like razor blades or diapers, doing away with the inconvenience of manual re-ordering or worse making a…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product traceability with the understanding of Lot and Serial Number]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:985a5d02-d8ea-4a82-9bb0-2164bb7097e8</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/product-traceability-with-the-understanding-of-lot-and-serial-number"/>
+        <updated>2022-02-09T21:28:52.000Z</updated>
+        <summary type="html"><![CDATA[As a wholesale distributor in the changing pharmaceutical Industry, you must be aware of the DSCSA’s November 2023 deadline. Before the deadline arrives, you must be ready for some of the specific requirements. You now have a lot of questions about why you need to make specific modifications. So, if you understand why the requirements were put in place, the only way to locate software that can help you meet those needs is to understand why they were put in place in the first place. We’ll explain product traceability, why we need to track a lot, and serial numbers as if we’re already tracking lot numbers, which tell us a lot.
+What Is a Lot Number?
+Lot tracking helps your business with product traceability to keep track of your customers whether they received their product or not and when th…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automation Leads to Greater AP Efficiency – and Other Advantages]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:11136d9a-7945-44ef-9aec-03ce9353e0c2</id>
@@ -363,52 +436,6 @@ Simplifying ERP Processes: Map the Way with a Microsoft 365 Information Architec
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Flexibility and Many Uses of DynamicPoint’s Office 365 Portal Applications]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b5f975bc-aa0c-48e5-8a46-e0f6e44b0f1a</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/the-flexibility-and-many-uses-of-dynamicpoint-s-office-365-portal-applications"/>
-        <updated>2022-02-07T20:08:50.000Z</updated>
-        <summary type="html"><![CDATA[DynamicPoint portals allow for easy access and the sharing of customer, vendor, or employee information from your ERP or CRM systems. The data is secured by displaying only the relevant information for the authenticated user. By leveraging the Office 365 platform, which provides the foundation for every DynamicPoint portal, Power Automate workflows can be added in conjunction with data collection forms to automate entire business processes. With 24/7 self-service, customer satisfaction will increase. Partners will have direct connection to your staff, so you can answer any questions they have immediately in real-time without having to pick up the phone or send an email.
-All of the following portal examples can be achieved by using the same portal application provided by DynamicPoint. We ha…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prevent An ERP Implementation Disaster]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:eab2eae6-99f5-4ff3-9899-64275f930d86</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-to-prevent-an-erp-implementation-disaster"/>
-        <updated>2022-02-07T18:30:17.000Z</updated>
-        <summary type="html"><![CDATA[At Pelorus Technology, we are committed to addressing why ERP implementations typically fail and then reversing that trend. If you are contemplating a new or updated ERP implementation or dealing with a failed one, this will be of interest to you.
-We set out to find why so many ERP implementations are unsuccessful. We figure there must be some common denominators that were tripping up software partners and sabotaging their projects. Taking our search to Google, we learned some interesting facts.
-First, we wondered about the critical factors in all implementation projects. And we were surprised to find that there was no consensus. Various vendors identified between 4 and 12 elements that they deemed essential.
-We concluded that rampant ERP implementation failure must be due to an inability …]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Master Data Management Secures Data and Ensures Compliance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:117739bb-b6bc-4afe-8626-73d41b1f2529</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-master-data-management-secures-data-and-ensures-compliance"/>
-        <updated>2022-02-07T15:15:52.000Z</updated>
-        <summary type="html"><![CDATA[When the European Commission, the European Parliament and the Council of Ministers of the European Union jointly took the landmark decision to bring the General Data Protection Regulation (GDPR) into effect in May 2018, it was looked upon with concern by most data stewards and data protection officers. The GDPR is a data privacy regulation that requires businesses dealing with European Union citizens to protect the personal data and privacy of those citizens, regardless of where the organizations are headquartered.
-GDPR mandates observance of data integrity and security as well as adherence to privacy laws. It also regulates how organizations are allowed to handle internal or external data – which could include customer, employee, product, service, legal or financial information stored in …]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:53376f6a-e561-4902-9f65-ffef46b00ce1</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/microsoft-dynamics-365-business-central-erp-implementation-ask-yourself-which-features-do-i-really-need"/>
-        <updated>2022-02-07T14:06:00.000Z</updated>
-        <summary type="html"><![CDATA[When we start shopping for a new accounting or ERP system, we start by gathering a list of everyone’s hopes, wants and needs in a solution (this is a great start and we’re glad that you’re putting it all together). Unfortunately, we don’t spend enough time asking ourselves the question ‘Do we REALLY NEED something to do our daily tasks or should we be prioritizing this at a future phase?’ (which is obviously less fun, but very necessary).
-At Bam Boom Cloud, we believe that just because a system can do something, doesn’t mean you should have it on Day 1. How do you know if you really need a certain feature if you haven’t started using the system yet? Our recommendation to you is to start using the basic functionalities and see where you have room for improvement. We think you will be surpri…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Dynamics channel firms 1ClickFactory and QBS Group to form Companial]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1f20ca25-d205-4686-bf1e-f90a2cf01031</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-channel-firms-1clickfactory-and-qbs-group-to-form-companial"/>
@@ -554,16 +581,6 @@ new connectors... Read the full text.]]></summary>
         <link href="https://powerapps.microsoft.com/en-us/blog/best-practices-and-workbooks-to-accelerate-your-microsoft-power-platform-adoption/"/>
         <updated>2022-01-20T06:21:45.000Z</updated>
         <summary type="html"><![CDATA[We have just launched new content and workbooks designed to help you create and implement the business and technology strategies necessary for your organization to succeed with Microsoft Power Platform: https://adoption.microsoft.com/powerplatform]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing the ALM Accelerator for Power Platform]]></title>
-        <id>introducing-the-alm-accelerator-for-power-platform</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/introducing-the-alm-accelerator-for-power-platform/"/>
-        <updated>2022-01-18T15:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Historically, getting started with Application Lifecycle Management (ALM) for the Microsoft Power Platform came with a learning curve and lots of time investment setting up ALM. Based on our own learnings setting up ALM for the Center of Excellence (CoE) Starter kit, we’re excited to introduce you to the public preview of the ALM Accelerator for Power Platform – a new reference implementation that is now also part of the Center of Excellence (CoE) Starter Kit.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
         </author>
@@ -4116,23 +4133,6 @@ When used properly this...
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dynamics 365 Finance & Operations with Power Automate !]]></title>
-        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5dfa36cb44ef5328d80e04b9</id>
-        <link href="https://www.powerazure365.com/blog-1/dynamics-365-finance-amp-operations-with-powerautomate-"/>
-        <updated>2019-12-18T16:28:56.000Z</updated>
-        <summary type="html"><![CDATA[With version 10 of Dynamics 365 for Finance & Operations, fifteen (15) 
-application events from Procure to Pay and Quote to Cash are now available 
-out of the box in Dynamics 365 for Finance and Operations. They promise to 
-be a powerful addition enabling self service for certain events, and better 
-cloud integration by triggering an integration instead of periodically 
-checking if something had been posted.  Possible business scenarios are 
-infinite and we will cover this with Power Automate (aka Microsoft Flow) in 
-this article !]]></summary>
-        <author>
-            <name>Aurélien Clere</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MSDyn365FO: Projects data migration, WBS publication]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:25fa5648-1d81-4d80-b551-76962f990dc9</id>
         <link href="https://community.dynamics.com/ax/b/galynafedorovaaxblog/posts/msdyn365fo-projects-data-migration-wbs-publication"/>
@@ -5644,48 +5644,6 @@ Simple OOXML - adds the DocumentFormat.OpenXml.Extensions namespace to version 2
 So this concluded my series of OpenXML post. For anyone who haven't used OpenXML SDK before I hope these posts encouraged you to give it a try!
 
 This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
-        <author>
-            <name>Dominic Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics AX 2012: Use OpenXML SDK for Excel Export - Part 3]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:35d97090-00cc-4b83-ab6d-a73fc2865e0f</id>
-        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/dynamics-ax-2012-use-openxml-sdk-for-excel-export---part-3"/>
-        <updated>2015-03-20T03:46:00.000Z</updated>
-        <summary type="html"><![CDATA[In Part 2, a sample project exporting data from AX to Excel is presented. In this post I'll talk about a few tips I learned.
-1) Finding available OpenXML library 
-Chances is, the code you write will work on either OpenXML 2.0 or OpenXML 2.5. It'd be nice that the code will run as long as one of them is available on the machine. Add the following code to load the available library during runtime.
-In the constructor of the export class, subscribe to the AssemblyResolve event.
-public ExcelExport()
-{    AppDomain.CurrentDomain.AssemblyResolve += new ResolveEventHandler(helper.CurrentDomain_AssemblyResolve);
-//    ...
-}
-Implement the event handler.
-public static System.Reflection.Assembly CurrentDomain_AssemblyResolve(object sender, ResolveEventArgs args)
-{    switch (args.Name)
-    {          …]]></summary>
-        <author>
-            <name>Dominic Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics AX 2012: Use OpenXML SDK for Excel Export - Part 3]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5a1d4ad4-5e11-4d24-9ccd-4eec14685a86</id>
-        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/dynamics-ax-2012-use-openxml-sdk-for-excel-export-part-3"/>
-        <updated>2015-03-20T03:46:00.000Z</updated>
-        <summary type="html"><![CDATA[In Part 2, a sample project exporting data from AX to Excel is presented. In this post I'll talk about a few tips I learned.
-1) Finding available OpenXML library 
-Chances is, the code you write will work on either OpenXML 2.0 or OpenXML 2.5. It'd be nice that the code will run as long as one of them is available on the machine. Add the following code to load the available library during runtime.
-In the constructor of the export class, subscribe to the AssemblyResolve event.
-public ExcelExport()
-{    AppDomain.CurrentDomain.AssemblyResolve += new ResolveEventHandler(helper.CurrentDomain_AssemblyResolve);
-//    ...
-}
-Implement the event handler.
-public static System.Reflection.Assembly CurrentDomain_AssemblyResolve(object sender, ResolveEventArgs args)
-{    switch (args.Name)
-    {          …]]></summary>
         <author>
             <name>Dominic Lee</name>
         </author>
