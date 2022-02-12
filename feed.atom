@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-11T01:07:53.705Z</updated>
+    <updated>2022-02-12T01:06:25.035Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advanced Warehouse Solution: Importance of real-time data reporting]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:18ec56f7-b6c1-4249-ac62-53cffe45ce34</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/advanced-warehouse-solution-importance-of-real-time-data-reporting"/>
+        <updated>2022-02-11T16:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Warehouse Management Systems (WMS) play a vital role in increasing efficiency across your organization by streamlining data reporting. Whereas, excessive inventory, unexpected shortages, lack of space, etc. are the common challenges that occur while managing a warehouse. Access to real-time data can help to remove blockages from your workflow and spot potential problems before they increase. If you really want to smoothly operate your processes then you should consider investing in an Advanced WMS.
+Luckily, when you have an advanced warehouse management system, you can successfully track your inventory and ensure all goods are stored, sorted, shipped, and tracked properly.
+Why do you need real-time data for warehouse management?
+Having real-time data allows you to know what is working if e…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing new Dataverse auditing features]]></title>
+        <id>announcing-new-dataverse-auditing-features</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-new-dataverse-auditing-features/"/>
+        <updated>2022-02-11T08:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Dataverse auditing is getting a set of new features that help Administrators to manage their audit data.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updating Prices Can Be Easy]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9aa60566-4e9e-46e9-b5cf-3f5ecebd4e67</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/updating-prices-can-be-easy"/>
+        <updated>2022-02-10T21:10:54.000Z</updated>
+        <summary type="html"><![CDATA[Price changes are a common part of any business to keep up with inflation and changing item costs. Making these price changes as simple as possible is key to managing your pricing. Rockton Pricing Management (RPM) makes price changes easy to do. Not to mention, there is usually more than one way to accomplish what you need. Let’s look at some different examples on how to easily change your prices.
+Option 1 - Annual Price Changes
+In this example, let’s say you have set up your pricing based on the calendar year through Price Sheets in a Price Book. You have a Price Sheet for each calendar year. Every January 1st you increase your pricing by 5%. With RPM, you can set up your new pricing in advance, so it automatically goes into effect on the 1st of January. No need for you to go in and activ…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BI and AI Architecture Hero for Dynamics 365 with Azure Synapse]]></title>
         <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:6204dcae8288115911169526</id>
@@ -398,44 +433,6 @@ The Flexibility and Many Uses of DynamicPoint’s Office 365 Portal Applications
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast Growing Midstream Energy Company Automates Accounts Payable Invoice Approvals]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c16c3bc7-940a-474d-a67b-b5497ee0547b</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/fast-growing-midstream-energy-company-automates-accounts-payable-invoice-approvals"/>
-        <updated>2022-02-07T20:16:57.000Z</updated>
-        <summary type="html"><![CDATA[Company Background: Moda Midstream, LLC
-Moda Midstream, LLC (“Moda”) is a liquids terminaling and logistics company that provides independent terminal, storage and distribution solutions to refiners, petrochemical manufacturers, marketers and producers of crude oil and other bulk liquids along the US Gulf Coast. In 2018, Moda acquired the Ingleside Energy Center (“IEC”), a crude oil export terminal facility positioned to provide access to global markets for crude oil and LPG producers and marketers. IEC was not only operational, but it was also in the middle of several large construction projects for the expansion of storage capacity and terminal infrastructure, so things got very busy very quickly.
-Situation: Fast growth and too many invoice approval steps
-Newly established in 2015, Moda …]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Apps for Employee Expense Management]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1098bf7f-ab32-44a7-a501-bed55c261e84</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/power-apps-for-employee-expense-management"/>
-        <updated>2022-02-07T20:11:33.000Z</updated>
-        <summary type="html"><![CDATA[One of the most powerful aspects of creating an Employee Expense Management application on Office 365 is the use of Power Apps.  A Power App allows employees to collect and submit their receipts using just their mobile device.  In addition, the interface can be easily configured to capture additional information such as the customer, project, or the cost center the expense was incurred on the behalf of.
-The simple interface looks like this:
-As you can see from the tabs across the top, it is quite easy to add out-of-pocket expenses, as well as auto mileage reimbursement and corporate credit card charges.
-Unlike other apps available on iPhone or Android stores, PowerApps can be completely tailored to your needs, including the addition of more fields, business rules, branding, etc.
- 
- 
- 
- 
- 
-
-If you are interested in learning more about how DynamicPoint’s Employee Expense Management Application, EasyEXP365, leverages Power Apps, please check out our product page or schedule a demo.
-The post Power Apps for Employee Expense Management appeared first on ERP Software Blog.
-Related posts:
-The Flexibility and Many Uses of DynamicPoint’s Office 365 Portal Applications 
-Simplifying ERP Processes: Map the Way with a Microsoft 365 Information Architecture 
-4 Reasons to Safeguard Your Business with AP Automation and Sales Tax Compliance]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Dynamics channel firms 1ClickFactory and QBS Group to form Companial]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1f20ca25-d205-4686-bf1e-f90a2cf01031</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-channel-firms-1clickfactory-and-qbs-group-to-form-companial"/>
@@ -571,16 +568,6 @@ new connectors... Read the full text.]]></summary>
         <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-portals-announcing-general-availability-ga-of-power-virtual-agents-integration-using-chatbot-component/"/>
         <updated>2022-01-23T23:22:06.000Z</updated>
         <summary type="html"><![CDATA[We are excited to announce the General Availability (GA) of Power Virtual Agents integration using “Chatbot” component that was introduced in May 2021 release as a preview feature.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best practices and workbooks to accelerate your Microsoft Power Platform adoption]]></title>
-        <id>best-practices-and-workbooks-to-accelerate-your-microsoft-power-platform-adoption</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/best-practices-and-workbooks-to-accelerate-your-microsoft-power-platform-adoption/"/>
-        <updated>2022-01-20T06:21:45.000Z</updated>
-        <summary type="html"><![CDATA[We have just launched new content and workbooks designed to help you create and implement the business and technology strategies necessary for your organization to succeed with Microsoft Power Platform: https://adoption.microsoft.com/powerplatform]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
         </author>

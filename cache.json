@@ -671,6 +671,24 @@
       "siteUrl": "https://community.dynamics.com/ax/b/erpsoftwareblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:18ec56f7-b6c1-4249-ac62-53cffe45ce34",
+          "author": "ERP Software Blog",
+          "description": "Warehouse Management Systems (WMS) play a vital role in increasing efficiency across your organization by streamlining data reporting. Whereas, excessive inventory, unexpected shortages, lack of space, etc. are the common challenges that occur while managing a warehouse. Access to real-time data can help to remove blockages from your workflow and spot potential problems before they increase. If you really want to smoothly operate your processes then you should consider investing in an Advanced WMS.\nLuckily, when you have an advanced warehouse management system, you can successfully track your inventory and ensure all goods are stored, sorted, shipped, and tracked properly.\nWhy do you need real-time data for warehouse management?\nHaving real-time data allows you to know what is working if e…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/advanced-warehouse-solution-importance-of-real-time-data-reporting",
+          "publishedOn": "2022-02-11T16:51:36.000Z",
+          "wordCount": 1573,
+          "title": "Advanced Warehouse Solution: Importance of real-time data reporting"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:9aa60566-4e9e-46e9-b5cf-3f5ecebd4e67",
+          "author": "ERP Software Blog",
+          "description": "Price changes are a common part of any business to keep up with inflation and changing item costs. Making these price changes as simple as possible is key to managing your pricing. Rockton Pricing Management (RPM) makes price changes easy to do. Not to mention, there is usually more than one way to accomplish what you need. Let’s look at some different examples on how to easily change your prices.\nOption 1 - Annual Price Changes\nIn this example, let’s say you have set up your pricing based on the calendar year through Price Sheets in a Price Book. You have a Price Sheet for each calendar year. Every January 1st you increase your pricing by 5%. With RPM, you can set up your new pricing in advance, so it automatically goes into effect on the 1st of January. No need for you to go in and activ…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/updating-prices-can-be-easy",
+          "publishedOn": "2022-02-10T21:10:54.000Z",
+          "wordCount": 1676,
+          "title": "Updating Prices Can Be Easy"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8f466ec3-45de-4697-ab4f-ebb00a5c23bf",
           "author": "ERP Software Blog",
           "description": "Confronting the sunsetting of a mission-critical technology platform can be an aggravating and puzzling experience. This is particularly true when the solution in question assists in the management of all aspects of project operations. The process you choose to address the forthcoming loss of this platform can have both  short and long-term impacts on your business. Choose correctly and you can position your business to survive the transition or even gain an advantage from the imposed change. Choose incorrectly – or even worse, make no choice at all – and your business may experience even greater damage from the loss of the platform. Not long ago, Klohn Crippen Berger, a multinational engineering, geoscience, and environmental consulting firm, faced precisely this  situation. KCB realized …",
@@ -786,24 +804,6 @@
           "publishedOn": "2022-02-07T20:24:14.000Z",
           "wordCount": 1189,
           "title": "Sign up for a 2022 DynamicPoint Webinar"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c16c3bc7-940a-474d-a67b-b5497ee0547b",
-          "author": "ERP Software Blog",
-          "description": "Company Background: Moda Midstream, LLC\nModa Midstream, LLC (“Moda”) is a liquids terminaling and logistics company that provides independent terminal, storage and distribution solutions to refiners, petrochemical manufacturers, marketers and producers of crude oil and other bulk liquids along the US Gulf Coast. In 2018, Moda acquired the Ingleside Energy Center (“IEC”), a crude oil export terminal facility positioned to provide access to global markets for crude oil and LPG producers and marketers. IEC was not only operational, but it was also in the middle of several large construction projects for the expansion of storage capacity and terminal infrastructure, so things got very busy very quickly.\nSituation: Fast growth and too many invoice approval steps\nNewly established in 2015, Moda …",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/fast-growing-midstream-energy-company-automates-accounts-payable-invoice-approvals",
-          "publishedOn": "2022-02-07T20:16:57.000Z",
-          "wordCount": 1643,
-          "title": "Fast Growing Midstream Energy Company Automates Accounts Payable Invoice Approvals"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1098bf7f-ab32-44a7-a501-bed55c261e84",
-          "author": "ERP Software Blog",
-          "description": "One of the most powerful aspects of creating an Employee Expense Management application on Office 365 is the use of Power Apps.  A Power App allows employees to collect and submit their receipts using just their mobile device.  In addition, the interface can be easily configured to capture additional information such as the customer, project, or the cost center the expense was incurred on the behalf of.\nThe simple interface looks like this:\nAs you can see from the tabs across the top, it is quite easy to add out-of-pocket expenses, as well as auto mileage reimbursement and corporate credit card charges.\nUnlike other apps available on iPhone or Android stores, PowerApps can be completely tailored to your needs, including the addition of more fields, business rules, branding, etc.\n \n \n \n \n \n\nIf you are interested in learning more about how DynamicPoint’s Employee Expense Management Application, EasyEXP365, leverages Power Apps, please check out our product page or schedule a demo.\nThe post Power Apps for Employee Expense Management appeared first on ERP Software Blog.\nRelated posts:\nThe Flexibility and Many Uses of DynamicPoint’s Office 365 Portal Applications \nSimplifying ERP Processes: Map the Way with a Microsoft 365 Information Architecture \n4 Reasons to Safeguard Your Business with AP Automation and Sales Tax Compliance",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/power-apps-for-employee-expense-management",
-          "publishedOn": "2022-02-07T20:11:33.000Z",
-          "wordCount": 1214,
-          "title": "Power Apps for Employee Expense Management"
         }
       ]
     },
@@ -3558,6 +3558,15 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "announcing-new-dataverse-auditing-features",
+          "author": null,
+          "description": "Dataverse auditing is getting a set of new features that help Administrators to manage their audit data.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-new-dataverse-auditing-features/",
+          "publishedOn": "2022-02-11T08:07:00.000Z",
+          "wordCount": 878,
+          "title": "Announcing new Dataverse auditing features"
+        },
+        {
           "id": "try-out-the-power-apps-2022-april-release-wave-1-updates-for-model-driven-apps",
           "author": null,
           "description": "The Power Apps April release wave 1 for Model-driven apps is now available for you to take advantage of. In this release wave you can take advantage of cohesive and modern experiences while collaborating with team members in Power Apps.",
@@ -3637,15 +3646,6 @@
           "publishedOn": "2022-01-23T23:22:06.000Z",
           "wordCount": 675,
           "title": "Power Apps portals: Announcing General Availability (GA) of Power Virtual Agents integration using “Chatbot” component"
-        },
-        {
-          "id": "best-practices-and-workbooks-to-accelerate-your-microsoft-power-platform-adoption",
-          "author": null,
-          "description": "We have just launched new content and workbooks designed to help you create and implement the business and technology strategies necessary for your organization to succeed with Microsoft Power Platform: https://adoption.microsoft.com/powerplatform",
-          "link": "https://powerapps.microsoft.com/en-us/blog/best-practices-and-workbooks-to-accelerate-your-microsoft-power-platform-adoption/",
-          "publishedOn": "2022-01-20T06:21:45.000Z",
-          "wordCount": 974,
-          "title": "Best practices and workbooks to accelerate your Microsoft Power Platform adoption"
         }
       ]
     }
