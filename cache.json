@@ -671,6 +671,15 @@
       "siteUrl": "https://community.dynamics.com/ax/b/erpsoftwareblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:28790966-f762-4bfb-a151-f920cf4ec375",
+          "author": "ERP Software Blog",
+          "description": "Out of the 600 finance professionals surveyed in a recent study, 72% of them exclusively used paper checks to pay vendors during the pandemic. With the onset of digital adoption in the industry, many are turning to automated solutions such as virtual credit cards (VCC). A 2021 report found that modernization of accounting has allowed 55% of CFOs to increase their use of VCC. \nA preference for this fast, secure, and more efficient payment channel is plummeting the usage of paper checks, with only 40% of businesses still relying on them.\nBenefits of using a Virtual Credit Card?\nCombats fraud and enhances security: With the rapid pace of digitization, businesses are now facing a more sophisticated set of attacks on their financials. Business email compromise (BEC) fraud attacks directed at invoices and payments increased by 155% between Q2 and Q3 2020. Half of all organizations surveyed in a 2021 survey reported severe fraudulent attempts on their accounting systems, resulting in significant monetary losses for 15% of the respondents.\nAutomated payment methods are designed to combat financial risks. Software like Beanworks will automatically flag duplicate payments, and support leaders to increase internal security by setting up a custom approval matrix. \nClick here to find more about what VCCs are and how they can benefit your business\nThe post Three Reasons Why Finance Leaders Are Turning to Virtual Credit Cards in 2022 appeared first on ERP Software Blog.\nRelated posts:\nAccounts Payable Trends to Watch Out for in 2022 \nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights \nHow Can Microsoft Dynamics enable better data access with powerful Financial Reporting?",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/three-reasons-why-finance-leaders-are-turning-to-virtual-credit-cards-in-2022",
+          "publishedOn": "2022-02-11T22:14:54.000Z",
+          "wordCount": 1290,
+          "title": "Three Reasons Why Finance Leaders Are Turning to Virtual Credit Cards in 2022"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:18ec56f7-b6c1-4249-ac62-53cffe45ce34",
           "author": "ERP Software Blog",
           "description": "Warehouse Management Systems (WMS) play a vital role in increasing efficiency across your organization by streamlining data reporting. Whereas, excessive inventory, unexpected shortages, lack of space, etc. are the common challenges that occur while managing a warehouse. Access to real-time data can help to remove blockages from your workflow and spot potential problems before they increase. If you really want to smoothly operate your processes then you should consider investing in an Advanced WMS.\nLuckily, when you have an advanced warehouse management system, you can successfully track your inventory and ensure all goods are stored, sorted, shipped, and tracked properly.\nWhy do you need real-time data for warehouse management?\nHaving real-time data allows you to know what is working if e…",
@@ -795,15 +804,6 @@
           "publishedOn": "2022-02-07T20:25:39.000Z",
           "wordCount": 1218,
           "title": "Add Requisition Management to Your AP Automation Process using Power Apps"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:29967130-9865-4461-b8b3-d9839242f134",
-          "author": "ERP Software Blog",
-          "description": "We are in the process of putting together the remainder of our 2022 webinar schedule and wanted to reach out to see if you are interested in co-hosting a webinar. For partner-hosted webinars, we typically pick one of our three products and showcase how it can be of benefit to your customer base. DynamicPoint also advertises the webinar to drive attendance to your event.\nOur suite of Office 365 products include:\nAP Automation\nPortals\nExpense Management\nAll of the applications include partner margin as well as Office 365 service opportunities, as they are all built using the Power Platform. We have revamped our product pricing to be even more competitive and are typically a fraction of competitors’ prices.\nIf you are interested, please complete our short survey here: https://forms.office.com/r/L5Z12XQ7g4\nThanks for your time and have a great day!\n\nThe post Sign up for a 2022 DynamicPoint Webinar appeared first on ERP Software Blog.\nRelated posts:\n7 Steps to Proving the ROI of AP Automation \nAP Automation Benefits Every Company Size \nThe Flexibility and Many Uses of DynamicPoint’s Office 365 Portal Applications",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/sign-up-for-a-2022-dynamicpoint-webinar",
-          "publishedOn": "2022-02-07T20:24:14.000Z",
-          "wordCount": 1189,
-          "title": "Sign up for a 2022 DynamicPoint Webinar"
         }
       ]
     },
@@ -3650,5 +3650,5 @@
       ]
     }
   ],
-  "cliVersion": "1.12.0"
+  "cliVersion": "1.12.1"
 }
