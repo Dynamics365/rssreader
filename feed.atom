@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-13T01:07:34.722Z</updated>
-    <generator>osmosfeed 1.12.1</generator>
+    <updated>2022-02-14T01:00:40.523Z</updated>
+    <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
     <entry>
@@ -5578,54 +5578,6 @@ This posting is provided "AS IS" with no warranties, and confers no rights.]]></
 The result is like this:
 
 There are report name, design name and an XML presentation of the Parameters. The ReportName column contains the name of the reports, which match the nodes under \SSRS Reports\Reports in AOT.
-
-This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
-        <author>
-            <name>Dominic Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics AX 2012: Use OpenXML SDK for Excel Export - Part 4]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ad296341-ff48-4a0b-9cab-b860aa529ebe</id>
-        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/dynamics-ax-2012-use-openxml-sdk-for-excel-export---part-4"/>
-        <updated>2015-03-23T01:59:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the final post on my experience with OpenXML SDK. The previous posts are here: Part 1, Part 2, Part 3.
-In this post I'll introduce the Open XML SDK Productivity tool and a couple of extended libraries for OpenXML.
-Despite the benefits of OpenXML, there is also a learning curve as it is quite different from working with Excel object model. Luckily, there is help from Microsoft and other developers.
-The Open XML SDK Productivity Tool
-This is a tool provided by Microsoft to help developers create OpenXML solution. One of it's most useful feature is you can load up a document and get generated C# source code for creating that document.
-
-Here's a link to an 8 mins video showcasing what the Tool does.
-This tool can be downloaded for free from Microsoft. For example, here is the download link for the SDK and the tool for OpenXML SDK 2.5.
-Wrappers based on OpenXML SDK
-Custom libraries are available based on OpenXML SDK. These libraries aims at hiding away lower level details of using OpenXML SDK to simplify the creation of OpenXML documents, without sacrificing performance. I haven't used them as I stick with OpenXML SDK for personal reason. But many developers are finding them very helpful.
-ClosedXML - An often updated wrapper for OpenXML, with detailed documentation.
-Simple OOXML - adds the DocumentFormat.OpenXml.Extensions namespace to version 2.0 of the Open Office SDK.
-So this concluded my series of OpenXML post. For anyone who haven't used OpenXML SDK before I hope these posts encouraged you to give it a try!
-
-This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
-        <author>
-            <name>Dominic Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics AX 2012: Use OpenXML SDK for Excel Export - Part 4]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f45cc5a4-0692-4718-ac19-06e85fff2c30</id>
-        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/dynamics-ax-2012-use-openxml-sdk-for-excel-export-part-4"/>
-        <updated>2015-03-23T01:59:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the final post on my experience with OpenXML SDK. The previous posts are here: Part 1, Part 2, Part 3.
-In this post I'll introduce the Open XML SDK Productivity tool and a couple of extended libraries for OpenXML.
-Despite the benefits of OpenXML, there is also a learning curve as it is quite different from working with Excel object model. Luckily, there is help from Microsoft and other developers.
-The Open XML SDK Productivity Tool
-This is a tool provided by Microsoft to help developers create OpenXML solution. One of it's most useful feature is you can load up a document and get generated C# source code for creating that document.
-
-Here's a link to an 8 mins video showcasing what the Tool does.
-This tool can be downloaded for free from Microsoft. For example, here is the download link for the SDK and the tool for OpenXML SDK 2.5.
-Wrappers based on OpenXML SDK
-Custom libraries are available based on OpenXML SDK. These libraries aims at hiding away lower level details of using OpenXML SDK to simplify the creation of OpenXML documents, without sacrificing performance. I haven't used them as I stick with OpenXML SDK for personal reason. But many developers are finding them very helpful.
-ClosedXML - An often updated wrapper for OpenXML, with detailed documentation.
-Simple OOXML - adds the DocumentFormat.OpenXml.Extensions namespace to version 2.0 of the Open Office SDK.
-So this concluded my series of OpenXML post. For anyone who haven't used OpenXML SDK before I hope these posts encouraged you to give it a try!
 
 This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
         <author>
