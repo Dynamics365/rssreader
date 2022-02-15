@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-14T01:00:40.523Z</updated>
-    <generator>osmosfeed 1.13.0</generator>
+    <updated>2022-02-15T01:12:05.678Z</updated>
+    <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Say hello to the Regulatory Configuration Service – RCS]]></title>
+        <id>http://d365fostuff.wordpress.com/?p=397</id>
+        <link href="https://d365fostuff.wordpress.com/2022/02/14/say-hello-to-the-regulatory-configuration-service-rcs/"/>
+        <updated>2022-02-14T19:28:43.000Z</updated>
+        <summary type="html"><![CDATA[This time I’ve got a less technical and more functional post about the Regulatory Configuration Service (RCS) for you. I couldn’t find too much information about it out there, besides the MS Docs pages. Lately I had to set it up in some projects, and wanted to share my findings. With the release of the […]]]></summary>
+        <author>
+            <name>Marijan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New In Business Central Manufacturing 2021]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:833c8f2f-efc2-4ca6-9191-660e7e5abe60</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/what-s-new-in-business-central-manufacturing-2021"/>
+        <updated>2022-02-14T18:29:50.000Z</updated>
+        <summary type="html"><![CDATA[Around April and October of every year, Microsoft releases new features for their Dynamics products.  
+In the post on Sabre Limited titled 2021 Business Central Manufacturing Features Round-Up we look into a large number of the changes to Business Central that can help a manufacturing business.
+Here is a sample of a few of our new features we looked at.  For the original (full) blog you can check it out on the Sabre website.
+Excel Works Even Better 
+One of the biggest selling points of Microsoft Dynamics 365 Business Central is the seamless integration of it with other Microsoft products.  The integration improvements with Excel provide a better user experience.  
+Companies can now enjoy even more comprehensive integration with Excel. For example, there are now more places to use the edit …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Proactive Approach is a Better Way to Prevent Government Fraud]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9dc4d230-51f7-4020-8e0a-b794e92fd02f</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/a-proactive-approach-is-a-better-way-to-prevent-government-fraud"/>
+        <updated>2022-02-14T17:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Fraud is a subject on everyone’s mind these days. We hear almost every day about a new scheme or form of fraud. Unfortunately, government fraud at all levels—from municipal to federal—is everywhere. The purpose of governments is to serve tax-paying citizens. They need to know things about those citizens to provide services. Bad actors want to make an easy buck by taking advantage of the public sector’s outreach to its citizens. This makes for an unsafe situation.
+Throw a pandemic into the mix and it becomes dangerous. The threat of  government fraud has continued to escalate during the COVID-19 pandemic, which has created the perfect storm. Citizen’s needs have increased as the pandemic shut down parts of the world, impacting employment, housing, healthcare, and other areas, and associated…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central & Shopify Integration by x2x-eCommerce]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bec47ac5-2dc7-43e6-971b-92796c68c2fc</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/business-central-shopify-integration-by-x2x-ecommerce"/>
+        <updated>2022-02-14T16:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Business Central & Shopify Integration is one of the most sought-after solutions these days. This blog discusses this solution in detail.
+End to end Integration Solution
+Why Shopify 
+Shopify is, by far, the most popular e-commerce platform available today. Shopify is popular in the SMB market segment because it is affordable and user-friendly. Moreover, Shopify is a feature-rich, adaptable, and comprehensive e-Commerce platform. In addition to it, Shopify allows organizations to create their flexible online store with many built-in features and an array of apps. Likewise, Shopify is to eCommerce what QuickBooks is to ERP.  
+Why Integrate with ERP 
+ In the post-COVID world, selling online is no more an option. Selling online is a must for the survival and growth of the business. Also, this …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Common Problems You Have to Overcome to Streamline Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4a1ed3e2-f36e-46bc-8beb-7cc17d55bd50</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/5-common-problems-you-have-to-overcome-to-streamline-operations"/>
+        <updated>2022-02-14T12:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Businesses today are always striving to evolve, and while this is good, it does have an adverse effect on their operations. Each organization uses a variety of business processes daily, and while some may be efficient, many may not. It is, therefore, a no-brainer that achieving overall operational efficiency is the prime goal for any organization, which is where streamlining becomes crucial.
+If your company is not able to streamline its processes, then there could be numerous repercussions. Inefficiencies, miscommunication, greater scope for errors, and poor governance, to name a few. However, simplifying operations is not without its problems, because of which, there is a need for a solution that will help you during the process and form a foundation that will be able to withstand current…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three Reasons Why Finance Leaders Are Turning to Virtual Credit Cards in 2022]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:28790966-f762-4bfb-a151-f920cf4ec375</id>
@@ -243,190 +305,6 @@ All financial processes related to the rental business can be easily managed wit
         <summary type="html"><![CDATA[We are announcing the availability of a modern advanced find in model-driven apps, including usability improvements to view management, all of which enable you to be more productive with data exploration. Now available for admins to enable with 2022 Release wave 1.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven New Partners Join Insight Works’ Ever-Expanding Network for January 2022]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:676478e2-27f9-449d-94e4-be167d056f73</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/seven-new-partners-join-insight-works-ever-expanding-network-for-january-2022"/>
-        <updated>2022-02-07T20:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Alliance with top technology entities spanning the U.S., UK, Canada, The Netherlands and Latvia fortify Insight Works’ Partner Program mantra of “Globally Connected, Locally Integrated.”
-Insight Works, a leader in Microsoft Dynamics 365 Business Central apps for distribution and manufacturing, has been busy growing its esteemed Partner Program network throughout the beginning of 2022, the latest round of members from the U.S., UK, Canada, The Netherlands and Latvia fortifying the company’s mantra of “Globally Connected, Locally Integrated.”
-Put succinctly, these new partner acquisitions are helping Insight Works expand its global reach even further.
-From the United States, the latest Insight Works partners include Paradigm Technology Consulting of Pennsylvania (www.ParadigmTechnologyConsul…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check Out DynamicPoint’s Product Video Galleries]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:047eaa16-cd39-48e3-aa3f-50f77b9f4fa5</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/check-out-dynamicpoint-s-product-video-galleries"/>
-        <updated>2022-02-07T20:30:17.000Z</updated>
-        <summary type="html"><![CDATA[We’re excited to announce the lineup of our product video libraries! For each product, we have included a full-length demo for those who want to learn about all the specifics as well as brief clips each highlighting a specific product feature. Watch the power of our ERP business apps for Office 365 and see how easy it is to leverage what you own to automate your business processes.
-The EasyEXP365 Expense Management Video Library
-The Portal Video Library
-The EasyAP365 Invoice Automation Video Library
-
-
-  • Product Overview
-  • Product Overview
-  • Product Overview
-
-
-  • Full Demo
-  • Full Demo
-  • Full Demo
-
-
-  • Branding
-  • Branding
-  • Branding
-
-
-  • Workflow
-  • Data Filtering
-  • Workflow
-
-
-  • Accounting
-  • Workflow
-  • Accounting
-
-
-  • User Defined Fields
-  • Reporting
-  • User Defined Fields
-
-
-  • Mileage
-  • Integration
-  • Templates
-
-
-  • Credit Card
-  • Vendor Portal
-  • Invoice Dashboard
-
-
-  • Mobile Capability
-  • Customer Portal
-  • OCR
-
-
-  • Rules Engine
-  • Onboarding
-  • ERP Integration
-
-
-  • OCR
-  • Key2Act
-
-
-
-  • Expense Dashboard
-  • Manufacturing
-
-
-
-  • ERP Integration
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-The post Check Out DynamicPoint’s Product Video Galleries appeared first on ERP Software Blog.
-Related posts:
-Sign up for a 2022 DynamicPoint Webinar 
-The Flexibility and Many Uses of DynamicPoint’s Office 365 Portal Applications 
-How Can Microsoft Dynamics GP Enable Better Data Protection?]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EasyEXP365 for Remote Work]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2516d3e0-6b84-487d-8473-415726be8054</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/easyexp365-for-remote-work"/>
-        <updated>2022-02-07T20:27:04.000Z</updated>
-        <summary type="html"><![CDATA[DynamicPoint EasyEXP365 Employee Expense Management application assists to enable a smooth transition to a mobile, work-from-anywhere, environment. The product can be accessed using a mobile phone, tablet, or directly from a web browser. As it is entirely based on Office 365, each step in the process can also be managed using Microsoft Teams.
-Expense Management
-Employees can submit receipts using a mobile Power App, mobile upload, Teams or web browser
-Receipts are sent to OCR for key info extraction
-Expense reports are reviewed by managers for approval using the mobile app or Microsoft Teams integration, with Microsoft Power Automate serving as the workflow engine
-Expense receipts are stored and can be accessed in a document management system such as SharePoint, Box, Dropbox or OneDrive
-Include the coding and reconciliation of corporate credit card transactions
-Automatically capture mileage using a mobile app that determines your location as you drive to your destination
-Learn more about this functionality with our EasyEXP365 application.
-
-LEARN MORE
-You can also check out our recent demo videos, view pricing details or schedule a 1:1 product demonstration.
-The post EasyEXP365 for Remote Work appeared first on ERP Software Blog.
-Related posts:
-Sign up for a 2022 DynamicPoint Webinar 
-Are Travel Expenses Eating Up Budgets?  Are You Sure? 
-Five accounts payable challenges that controllers need to know in 2022]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add Requisition Management to Your AP Automation Process using Power Apps]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8c2a91df-f508-4bff-98c6-0256c456aaff</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/add-requisition-management-to-your-ap-automation-process-using-power-apps"/>
-        <updated>2022-02-07T20:25:39.000Z</updated>
-        <summary type="html"><![CDATA[As most of you are already aware DynamicPoint offers an Office 365 Invoice Automation solution, EasyAP365, but do you know you can also add a full-featured Requisition Management app to your AP process?  With the functionality and flexibility of Power Apps, it is easy and economical to add a Requisition Management app to your overall procurement solution.
-Your team can easily create purchase requisitions directly from their mobile phone or tablet:
-Mobile View
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Tablet
-
- 
- 
- 
- 
- 
- 
- 
-Purchase requisitions can include inventory and non-inventory items.  Using Power Automate, requisitions can be submitted for review and approval.  Upon approval, the purchase order will be automatically created in your ERP system.
-Administrators will have the oversight and management of all requisitions in the system and where they are in the approval process.  This includes such features as interactive dashboards and KPIs.
-
- 
- 
- 
- 
- 
- 
- 
- 
-If you are interested in learning more, contact us or pick a time to schedule a live demo.
-The post Add Requisition Management to Your AP Automation Process using Power Apps appeared first on ERP Software Blog.
-Related posts:
-Four Additional Packs on the Microsoft Dynamics GP 2013 Price List 
-DYNAMICS GP IRP vs. MRP 
-Shift to a Modern Desktop with Office 365 - Webinar]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
         </author>
     </entry>
     <entry>

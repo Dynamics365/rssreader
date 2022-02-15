@@ -741,6 +741,46 @@
       "siteUrl": "https://community.dynamics.com/ax/b/erpsoftwareblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:833c8f2f-efc2-4ca6-9191-660e7e5abe60",
+          "author": "ERP Software Blog",
+          "description": "Around April and October of every year, Microsoft releases new features for their Dynamics products.  \nIn the post on Sabre Limited titled 2021 Business Central Manufacturing Features Round-Up we look into a large number of the changes to Business Central that can help a manufacturing business.\nHere is a sample of a few of our new features we looked at.  For the original (full) blog you can check it out on the Sabre website.\nExcel Works Even Better \nOne of the biggest selling points of Microsoft Dynamics 365 Business Central is the seamless integration of it with other Microsoft products.  The integration improvements with Excel provide a better user experience.  \nCompanies can now enjoy even more comprehensive integration with Excel. For example, there are now more places to use the edit …",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/what-s-new-in-business-central-manufacturing-2021",
+          "publishedOn": "2022-02-14T18:29:50.000Z",
+          "wordCount": 1538,
+          "title": "What's New In Business Central Manufacturing 2021",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:9dc4d230-51f7-4020-8e0a-b794e92fd02f",
+          "author": "ERP Software Blog",
+          "description": "Fraud is a subject on everyone’s mind these days. We hear almost every day about a new scheme or form of fraud. Unfortunately, government fraud at all levels—from municipal to federal—is everywhere. The purpose of governments is to serve tax-paying citizens. They need to know things about those citizens to provide services. Bad actors want to make an easy buck by taking advantage of the public sector’s outreach to its citizens. This makes for an unsafe situation.\nThrow a pandemic into the mix and it becomes dangerous. The threat of  government fraud has continued to escalate during the COVID-19 pandemic, which has created the perfect storm. Citizen’s needs have increased as the pandemic shut down parts of the world, impacting employment, housing, healthcare, and other areas, and associated…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/a-proactive-approach-is-a-better-way-to-prevent-government-fraud",
+          "publishedOn": "2022-02-14T17:16:02.000Z",
+          "wordCount": 2158,
+          "title": "A Proactive Approach is a Better Way to Prevent Government Fraud",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bec47ac5-2dc7-43e6-971b-92796c68c2fc",
+          "author": "ERP Software Blog",
+          "description": "Business Central & Shopify Integration is one of the most sought-after solutions these days. This blog discusses this solution in detail.\nEnd to end Integration Solution\nWhy Shopify \nShopify is, by far, the most popular e-commerce platform available today. Shopify is popular in the SMB market segment because it is affordable and user-friendly. Moreover, Shopify is a feature-rich, adaptable, and comprehensive e-Commerce platform. In addition to it, Shopify allows organizations to create their flexible online store with many built-in features and an array of apps. Likewise, Shopify is to eCommerce what QuickBooks is to ERP.  \nWhy Integrate with ERP \n In the post-COVID world, selling online is no more an option. Selling online is a must for the survival and growth of the business. Also, this …",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/business-central-shopify-integration-by-x2x-ecommerce",
+          "publishedOn": "2022-02-14T16:45:24.000Z",
+          "wordCount": 1644,
+          "title": "Business Central & Shopify Integration by x2x-eCommerce",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4a1ed3e2-f36e-46bc-8beb-7cc17d55bd50",
+          "author": "ERP Software Blog",
+          "description": "Businesses today are always striving to evolve, and while this is good, it does have an adverse effect on their operations. Each organization uses a variety of business processes daily, and while some may be efficient, many may not. It is, therefore, a no-brainer that achieving overall operational efficiency is the prime goal for any organization, which is where streamlining becomes crucial.\nIf your company is not able to streamline its processes, then there could be numerous repercussions. Inefficiencies, miscommunication, greater scope for errors, and poor governance, to name a few. However, simplifying operations is not without its problems, because of which, there is a need for a solution that will help you during the process and form a foundation that will be able to withstand current…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/5-common-problems-you-have-to-overcome-to-streamline-operations",
+          "publishedOn": "2022-02-14T12:44:55.000Z",
+          "wordCount": 2137,
+          "title": "5 Common Problems You Have to Overcome to Streamline Operations",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:28790966-f762-4bfb-a151-f920cf4ec375",
           "author": "ERP Software Blog",
           "description": "Out of the 600 finance professionals surveyed in a recent study, 72% of them exclusively used paper checks to pay vendors during the pandemic. With the onset of digital adoption in the industry, many are turning to automated solutions such as virtual credit cards (VCC). A 2021 report found that modernization of accounting has allowed 55% of CFOs to increase their use of VCC. \nA preference for this fast, secure, and more efficient payment channel is plummeting the usage of paper checks, with only 40% of businesses still relying on them.\nBenefits of using a Virtual Credit Card?\nCombats fraud and enhances security: With the rapid pace of digitization, businesses are now facing a more sophisticated set of attacks on their financials. Business email compromise (BEC) fraud attacks directed at invoices and payments increased by 155% between Q2 and Q3 2020. Half of all organizations surveyed in a 2021 survey reported severe fraudulent attempts on their accounting systems, resulting in significant monetary losses for 15% of the respondents.\nAutomated payment methods are designed to combat financial risks. Software like Beanworks will automatically flag duplicate payments, and support leaders to increase internal security by setting up a custom approval matrix. \nClick here to find more about what VCCs are and how they can benefit your business\nThe post Three Reasons Why Finance Leaders Are Turning to Virtual Credit Cards in 2022 appeared first on ERP Software Blog.\nRelated posts:\nAccounts Payable Trends to Watch Out for in 2022 \nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights \nHow Can Microsoft Dynamics enable better data access with powerful Financial Reporting?",
@@ -848,46 +888,6 @@
           "publishedOn": "2022-02-08T09:53:46.000Z",
           "wordCount": 2696,
           "title": "Manage Multiple Revenue Streams and Invoices for Rental in Dynamics 365",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:676478e2-27f9-449d-94e4-be167d056f73",
-          "author": "ERP Software Blog",
-          "description": "Alliance with top technology entities spanning the U.S., UK, Canada, The Netherlands and Latvia fortify Insight Works’ Partner Program mantra of “Globally Connected, Locally Integrated.”\nInsight Works, a leader in Microsoft Dynamics 365 Business Central apps for distribution and manufacturing, has been busy growing its esteemed Partner Program network throughout the beginning of 2022, the latest round of members from the U.S., UK, Canada, The Netherlands and Latvia fortifying the company’s mantra of “Globally Connected, Locally Integrated.”\nPut succinctly, these new partner acquisitions are helping Insight Works expand its global reach even further.\nFrom the United States, the latest Insight Works partners include Paradigm Technology Consulting of Pennsylvania (www.ParadigmTechnologyConsul…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/seven-new-partners-join-insight-works-ever-expanding-network-for-january-2022",
-          "publishedOn": "2022-02-07T20:32:57.000Z",
-          "wordCount": 1625,
-          "title": "Seven New Partners Join Insight Works’ Ever-Expanding Network for January 2022",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:047eaa16-cd39-48e3-aa3f-50f77b9f4fa5",
-          "author": "ERP Software Blog",
-          "description": "We’re excited to announce the lineup of our product video libraries! For each product, we have included a full-length demo for those who want to learn about all the specifics as well as brief clips each highlighting a specific product feature. Watch the power of our ERP business apps for Office 365 and see how easy it is to leverage what you own to automate your business processes.\nThe EasyEXP365 Expense Management Video Library\nThe Portal Video Library\nThe EasyAP365 Invoice Automation Video Library\n\n\n  • Product Overview\n  • Product Overview\n  • Product Overview\n\n\n  • Full Demo\n  • Full Demo\n  • Full Demo\n\n\n  • Branding\n  • Branding\n  • Branding\n\n\n  • Workflow\n  • Data Filtering\n  • Workflow\n\n\n  • Accounting\n  • Workflow\n  • Accounting\n\n\n  • User Defined Fields\n  • Reporting\n  • User Defined Fields\n\n\n  • Mileage\n  • Integration\n  • Templates\n\n\n  • Credit Card\n  • Vendor Portal\n  • Invoice Dashboard\n\n\n  • Mobile Capability\n  • Customer Portal\n  • OCR\n\n\n  • Rules Engine\n  • Onboarding\n  • ERP Integration\n\n\n  • OCR\n  • Key2Act\n\n\n\n  • Expense Dashboard\n  • Manufacturing\n\n\n\n  • ERP Integration\n\n\n\n\n\n \n \n \n \n \n \n \n \n \n \n \nThe post Check Out DynamicPoint’s Product Video Galleries appeared first on ERP Software Blog.\nRelated posts:\nSign up for a 2022 DynamicPoint Webinar \nThe Flexibility and Many Uses of DynamicPoint’s Office 365 Portal Applications \nHow Can Microsoft Dynamics GP Enable Better Data Protection?",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/check-out-dynamicpoint-s-product-video-galleries",
-          "publishedOn": "2022-02-07T20:30:17.000Z",
-          "wordCount": 1222,
-          "title": "Check Out DynamicPoint’s Product Video Galleries",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:2516d3e0-6b84-487d-8473-415726be8054",
-          "author": "ERP Software Blog",
-          "description": "DynamicPoint EasyEXP365 Employee Expense Management application assists to enable a smooth transition to a mobile, work-from-anywhere, environment. The product can be accessed using a mobile phone, tablet, or directly from a web browser. As it is entirely based on Office 365, each step in the process can also be managed using Microsoft Teams.\nExpense Management\nEmployees can submit receipts using a mobile Power App, mobile upload, Teams or web browser\nReceipts are sent to OCR for key info extraction\nExpense reports are reviewed by managers for approval using the mobile app or Microsoft Teams integration, with Microsoft Power Automate serving as the workflow engine\nExpense receipts are stored and can be accessed in a document management system such as SharePoint, Box, Dropbox or OneDrive\nInclude the coding and reconciliation of corporate credit card transactions\nAutomatically capture mileage using a mobile app that determines your location as you drive to your destination\nLearn more about this functionality with our EasyEXP365 application.\n\nLEARN MORE\nYou can also check out our recent demo videos, view pricing details or schedule a 1:1 product demonstration.\nThe post EasyEXP365 for Remote Work appeared first on ERP Software Blog.\nRelated posts:\nSign up for a 2022 DynamicPoint Webinar \nAre Travel Expenses Eating Up Budgets?  Are You Sure? \nFive accounts payable challenges that controllers need to know in 2022",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/easyexp365-for-remote-work",
-          "publishedOn": "2022-02-07T20:27:04.000Z",
-          "wordCount": 1220,
-          "title": "EasyEXP365 for Remote Work",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8c2a91df-f508-4bff-98c6-0256c456aaff",
-          "author": "ERP Software Blog",
-          "description": "As most of you are already aware DynamicPoint offers an Office 365 Invoice Automation solution, EasyAP365, but do you know you can also add a full-featured Requisition Management app to your AP process?  With the functionality and flexibility of Power Apps, it is easy and economical to add a Requisition Management app to your overall procurement solution.\nYour team can easily create purchase requisitions directly from their mobile phone or tablet:\nMobile View\n \n \n \n \n \n \n \n \n \n \nTablet\n\n \n \n \n \n \n \n \nPurchase requisitions can include inventory and non-inventory items.  Using Power Automate, requisitions can be submitted for review and approval.  Upon approval, the purchase order will be automatically created in your ERP system.\nAdministrators will have the oversight and management of all requisitions in the system and where they are in the approval process.  This includes such features as interactive dashboards and KPIs.\n\n \n \n \n \n \n \n \n \nIf you are interested in learning more, contact us or pick a time to schedule a live demo.\nThe post Add Requisition Management to Your AP Automation Process using Power Apps appeared first on ERP Software Blog.\nRelated posts:\nFour Additional Packs on the Microsoft Dynamics GP 2013 Price List \nDYNAMICS GP IRP vs. MRP \nShift to a Modern Desktop with Office 365 - Webinar",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/add-requisition-management-to-your-ap-automation-process-using-power-apps",
-          "publishedOn": "2022-02-07T20:25:39.000Z",
-          "wordCount": 1218,
-          "title": "Add Requisition Management to Your AP Automation Process using Power Apps",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -1243,12 +1243,22 @@
       "siteUrl": "https://d365fostuff.wordpress.com",
       "articles": [
         {
+          "id": "http://d365fostuff.wordpress.com/?p=397",
+          "author": "Marijan",
+          "description": "This time I’ve got a less technical and more functional post about the Regulatory Configuration Service (RCS) for you. I couldn’t find too much information about it out there, besides the MS Docs pages. Lately I had to set it up in some projects, and wanted to share my findings. With the release of the […]",
+          "link": "https://d365fostuff.wordpress.com/2022/02/14/say-hello-to-the-regulatory-configuration-service-rcs/",
+          "publishedOn": "2022-02-14T19:28:43.000Z",
+          "wordCount": 1070,
+          "title": "Say hello to the Regulatory Configuration Service – RCS",
+          "imageUrl": "https://d365fostuff.files.wordpress.com/2022/02/dashboard-regulatory-configuration-service.png?w=1200"
+        },
+        {
           "id": "http://d365fostuff.wordpress.com/?p=371",
           "author": "Marijan",
           "description": "Disclaimer: I do not encourage anyone on using this feature. And if you use it, please be careful with manipulating data using this feature. With the release of the PEAP version for 10.0.25 Microsoft reintroduced the ability to execute jobs without having a downtime for the needed deployment: https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/run-custom-scriptsWhile I wouldn’t recommend anyone to use […]",
           "link": "https://d365fostuff.wordpress.com/2022/02/01/ax2012-jobs-are-back-in-d365-kind-of/",
           "publishedOn": "2022-02-01T20:12:18.000Z",
-          "wordCount": 719,
+          "wordCount": 730,
           "title": "AX2012 jobs are back in D365 (kind of)",
           "imageUrl": "https://d365fostuff.files.wordpress.com/2022/02/script-details-test-run-finance-and-operations-preview-1.png"
         },
@@ -4011,5 +4021,5 @@
       ]
     }
   ],
-  "cliVersion": "1.13.0"
+  "cliVersion": "1.14.4"
 }
