@@ -741,6 +741,66 @@
       "siteUrl": "https://community.dynamics.com/ax/b/erpsoftwareblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1e92b4a1-f490-484f-b20e-b0c796a6c670",
+          "author": "ERP Software Blog",
+          "description": "Parent/Child Items in x2x eCommerce Shopify to Business Central Integration\nx2x eCommerce Shopify to Dynamics 365 Business Central Integration is much more than just a connector. x2x integration enhances the functionality of the ERP and the eCommerce wherever required to create a solution that can allow the companies to develop and manage their eCommerce sites through their ERP solutions.\nx2x eCommerce Shopify to Dynamics 365 Business Central Integration\nCreating Parent/Child items from ERP - a big challenge\neCommerce site usually displays items as a Parent/child or Configurable product. This gives customers an option to choose the variant of that item. For example, a shirt with five colors and five sizes is shown as one item on the eCommerce site allowing the visitor to select the sizes a…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/parent-child-products-in-x2x-ecommerce-shopify-to-dynamics-365-business-central-integration",
+          "publishedOn": "2022-02-16T16:47:01.000Z",
+          "wordCount": 1580,
+          "title": "Parent/Child Products in x2x eCommerce Shopify to Dynamics 365 Business Central Integration",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b7df4b8f-937d-4478-bbdf-cb8e4cab5404",
+          "author": "ERP Software Blog",
+          "description": "Microsoft Dynamics NAV is one of the most popular ERP systems in the world.  Right now, it's being used by at least 100,000 companies all over the world.  \nIn the blog on Sabre Limited's website titled \"Microsoft Dynamics on Azure | Should you move your NAV instance to the cloud?\", we look at the different reasons why you might want to run Dynamics NAV on Azure.  \nIn this short blog post, we take a higher-level look at the reasons.\nIn 2013, Microsoft released a version of the system that was also designed to run on the cloud. There are a lot of benefits of running Dynamics NAV on Azure, and these benefits are a lot more important in a world where most workers now have to work remotely.  \nOver the past two years, a lot of companies have discovered that running Dynamics NAV on Azure is the b…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/5-reasons-to-run-dynamics-nav-on-azure",
+          "publishedOn": "2022-02-16T15:16:12.000Z",
+          "wordCount": 1603,
+          "title": "5 Reasons To Run Dynamics NAV on Azure",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:60fb26be-780e-469f-b964-a2d927d07080",
+          "author": "ERP Software Blog",
+          "description": "Over the past few years, a lot more companies are coming to rely on ERP software for their operations. Right now, over a hundred thousand companies in diverse industries deploy ERP solutions as a core aspect of their business.  \nThat's because they recognize the different ways ERP solutions can help with operational bottlenecks and assist the company to be more productive.  \nHowever, if you're still on the fence and aren't sure if you should make the switch, here are some reasons you need to consider.  \nIn the blog on Sabre Limited titled \"5 Concerns Choosing Dynamics Business Central Manufacturing ERP\", we take a critical look at the reasons you should switch to Dynamics Business Central Manufacturing ERP. \nIn this review of that blog, we'll break down some of those reasons into shorter p…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/5-reasons-to-switch-to-dynamics-business-central-manufacturing",
+          "publishedOn": "2022-02-16T15:14:18.000Z",
+          "wordCount": 1725,
+          "title": "5 Reasons To Switch To Dynamics Business Central Manufacturing",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bf70137a-d7f3-43ce-a2de-660049e811d8",
+          "author": "ERP Software Blog",
+          "description": "Are you contemplating a new or updated ERP (Enterprise Resource Planning) solution? Microsoft Dynamics 365 BC ( Business Central) is a state-of-the-art business management solution designed to help companies connect their financials, sales, service, and operations. Dynamics 365BC enables you to automate and streamline business processes, improve customer interactions and make better decisions.\nIf you’ve been wondering if Microsoft Dynamics 365BC is right for your business, maybe we can help by pointing out seven reasons to upgrade to Dynamics 365BC:\n1. Functionality\nMicrosoft Dynamics 365BC is recommended for organizations that have outgrown entry-level accounting software or unsupported legacy ERP solutions. Business Central is great for small and mid-sized businesses that require increas…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/7-reasons-to-upgrade-to-microsoft-dynamics-365bc",
+          "publishedOn": "2022-02-16T14:03:05.000Z",
+          "wordCount": 1655,
+          "title": "7 Reasons to Upgrade to Microsoft Dynamics 365BC",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e8dd1d5f-16e7-4743-97c8-429028e6313c",
+          "author": "ERP Software Blog",
+          "description": "Microsoft Dynamics GP has been a stable and reliable system for most clients. Since its inception in 1993, it has helped meet the needs of many small and mid-sized businesses. Thousands of companies have used GP to manage their processes effectively.\nIt kept evolving over the years to ensure it matches the changing needs over time. However, a new Dynamics offering has made waves in the marketplace, which current GP users should consider when searching for a robust ERP solution.\nDynamics 365 Business Central is a reliable Software-as-a-Service (SaaS) offering that is a Microsoft Cloud-native. Being in the cloud offers consistent updates with new features that businesses can use without hassle when upgrading their systems to match the current technological solutions.\nThe Microsoft Team takes…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/why-you-need-to-move-from-dynamics-gp-to-dynamics-365-business-central",
+          "publishedOn": "2022-02-15T21:57:56.000Z",
+          "wordCount": 1684,
+          "title": "Why You Need To Move from Dynamics GP to Dynamics 365 Business Central",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:70b55d4d-389d-4623-85f2-004c6f00f1cf",
+          "author": "ERP Software Blog",
+          "description": "Why do so many ERP implementations fail? No doubt you’ve heard the horror stories. Businesses spend loads of time and money on an ERP implementation only to have it fail before it has even shown a return.\nIn our next four posts, we plan to explore the problem of failed implementations. We'll present a new, forward-thinking approach that will drastically improve ERP implementation success.\nFor years, Microsoft Dynamics ERP implementations have been approached with what should be a fool-proof method: Microsoft Sure Step. But contrary to the name, the method is anything but sure. It’s not an exaggeration to say that most ERP implementations (Microsoft or otherwise) fail to live up to their promise.\nFailures include over-budget projects that take far too long and result in poor user adoption. …",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/erp-implementations-reimagined-part-1",
+          "publishedOn": "2022-02-15T20:37:28.000Z",
+          "wordCount": 1634,
+          "title": "ERP Implementations Reimagined – Part 1",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:faf68d1c-f98c-46d6-911c-c8cc530e8345",
           "author": "ERP Software Blog",
           "description": "The rising international demand for e-commerce is pushing retailers to consider adopting subscription pricing models; however, that doesn’t mean it’s the right strategy for every company. Retailers who lack the resources to deliver on customer expectations are quickly left behind, so it’s vital that companies are familiar with how to address common challenges prior to implementation. \nSubscriptions depend on new customers to regularly consume your product over time. If your business goals do not align with this model, then adding subscription services might be a non-starter. Nevertheless, many undeterred teams have found creative solutions to incorporate a recurring revenue stream. The key is having a thorough enough understanding of your company’s strategy to accurately evaluate whether such a solution would be profitable. \nOnce you’ve committed to implementing a subscription pricing model, you will need to understand how to meet customers where they are at with relational business processes, robust protocols to protect customer data, and a watertight strategy to penetrate a saturated market. For an in-depth analysis of the main challenges facing retailers, read the full blog. \nThe post 4 key challenges retailers face with e-commerce subscription models appeared first on ERP Software Blog.\nRelated posts:\nWhy retailers are flocking to e-commerce subscription models \nSaving Space by Going Paperless… \nHow to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP",
@@ -828,66 +888,6 @@
           "publishedOn": "2022-02-10T16:16:10.000Z",
           "wordCount": 1697,
           "title": "Choosing a New ERP Solution for Engineering: Here’s the Industry-Specific Guidance HSO ProServ Offered One Firm",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f938ed51-f8ca-40ec-a398-9378d386bf37",
-          "author": "ERP Software Blog",
-          "description": "“Data is the new oil. It’s valuable, but if unrefined, it cannot really be used.”– Clive Humby, British mathematician\nAlthough this dramatic statement was made way back in 2006, many businesses today still struggle to grasp the fact that making the right business decisions (and thereby, generating profits or losses) is almost entirely dependent on reliable and usable data.\nThe reason for this is not surprising. Data, by nature, is extensive, ever-evolving, and filled with numbers that confuse the average business manager. It also takes up several hours of manual effort to organize and then analyze data coming in from various sources (not to mention the time spent in filtering out data that’s incorrect or duplicated!).\nTo add to his woes, a business manager has to make peace with the fact t…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/6-reasons-why-your-business-should-invest-in-data-management",
-          "publishedOn": "2022-02-10T13:59:40.000Z",
-          "wordCount": 2359,
-          "title": "6 Reasons Why Your Business Should Invest in Data Management",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1663ec2a-0974-47e8-8e9b-d7206dc6c236",
-          "author": "ERP Software Blog",
-          "description": "As e-commerce continues to take over the retail industry, many brands are turning to subscription services to meet their customers’ demands. Studies predict that the subscription economy will reach a global market value of $257 billion. Increasing customer demand for flexible pricing and purchasing options are responsible for a large portion of this growth. As modern shoppers continue to trend towards omnichannel commerce, pricing models must branch out in order to meet consumers where they’re at. \nE-commerce subscription models generally fall into one of three categories: replenishment, curation, or access.  \nReplenishment subscriptions allow customers to automate restocking commodities like razor blades or diapers, doing away with the inconvenience of manual re-ordering or worse making a…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/why-retailers-are-flocking-to-e-commerce-subscription-models",
-          "publishedOn": "2022-02-09T21:37:56.000Z",
-          "wordCount": 1326,
-          "title": "Why retailers are flocking to e-commerce subscription models",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:985a5d02-d8ea-4a82-9bb0-2164bb7097e8",
-          "author": "ERP Software Blog",
-          "description": "As a wholesale distributor in the changing pharmaceutical Industry, you must be aware of the DSCSA’s November 2023 deadline. Before the deadline arrives, you must be ready for some of the specific requirements. You now have a lot of questions about why you need to make specific modifications. So, if you understand why the requirements were put in place, the only way to locate software that can help you meet those needs is to understand why they were put in place in the first place. We’ll explain product traceability, why we need to track a lot, and serial numbers as if we’re already tracking lot numbers, which tell us a lot.\nWhat Is a Lot Number?\nLot tracking helps your business with product traceability to keep track of your customers whether they received their product or not and when th…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/product-traceability-with-the-understanding-of-lot-and-serial-number",
-          "publishedOn": "2022-02-09T21:28:52.000Z",
-          "wordCount": 1550,
-          "title": "Product traceability with the understanding of Lot and Serial Number",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:11136d9a-7945-44ef-9aec-03ce9353e0c2",
-          "author": "ERP Software Blog",
-          "description": "Manual, paper-based AP processes have been a consistent bottleneck for organizations that have not yet transitioned to digital invoice workflows. In fact, many members of AP and finance teams spend more than 50% of their day looking for paper invoices. Companies that have at least begun their digital transformation have reduced the paper chase by about 80%. This time savings leads to not only greater business efficiency but also provides a stronger competitive advantage in the market.\nOrganizations that take process transformation, including AP automation, seriously can demonstrate how their back-office process efficiency leads to stronger cash positions, better control over cash flow and solid vendor relationships. These advantages lead to other benefits, such as higher business financial…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/automation-leads-to-greater-ap-efficiency-and-other-advantages",
-          "publishedOn": "2022-02-09T14:22:29.000Z",
-          "wordCount": 1535,
-          "title": "Automation Leads to Greater AP Efficiency – and Other Advantages",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b0bb1481-e689-4078-8a17-7fa1add66614",
-          "author": "ERP Software Blog",
-          "description": "Color Compass Corporation provides paints and related supplies to the collision repair industry, chains, and channel sales distributors throughout Canada.\nBusiness Situation\nHistorically, Color Compass sales reps in the field recorded sales orders on paper. Then they called an internal order desk and relayed the order over the phone. The internal sales associate recorded the order a second time on paper. Finally, it was entered into the Microsoft Dynamics NAV system. The process was time-consuming and susceptible to errors, resulting in more lost time, lost sales, and unhappy or lost customers.\nColor Compass wanted to automate the sales order process by implementing a solution for use in the field to enhance their business. They were looking for a solution built on a similar philosophy as …",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/color-compass-enables-sales-reps-to-work-online-or-offline",
-          "publishedOn": "2022-02-09T14:04:41.000Z",
-          "wordCount": 1450,
-          "title": "Color Compass enables sales reps to work online or offline",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d6f053cd-2772-4ca5-a60a-cb4d87e06cbd",
-          "author": "ERP Software Blog",
-          "description": "How much does AP automation cost per invoice? What would it cost to automate your customer orders too?\nIndustry research firms analyze typical costs for a company to process an AP invoice in-house. I find it fascinating that based on where you are in the country and your labor rates, it likely costs your company somewhere between $15 to $40 to process and pay each invoice.\nAP automation services companies allow you to bundle your invoices and ship them overseas. People manually enter them into a file that is then uploaded into your ERP system for posting. I have seen these services quote as much as $5 per AP invoice.\nI'd say 5 dollars versus 15 dollars per invoice is a pretty compelling case from a pure cost standpoint.\nHere is where it gets even more interesting. There are similar industr…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/does-full-document-automation-cost-more-than-ap-automation",
-          "publishedOn": "2022-02-08T18:32:57.000Z",
-          "wordCount": 1523,
-          "title": "Does Full Document Automation Cost More Than AP Automation?",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -1248,7 +1248,7 @@
           "description": "This time I’ve got a less technical and more functional post about the Regulatory Configuration Service (RCS) for you. I couldn’t find too much information about it out there, besides the MS Docs pages. Lately I had to set it up in some projects, and wanted to share my findings. With the release of the […]",
           "link": "https://d365fostuff.wordpress.com/2022/02/14/say-hello-to-the-regulatory-configuration-service-rcs/",
           "publishedOn": "2022-02-14T19:28:43.000Z",
-          "wordCount": 1071,
+          "wordCount": 1159,
           "title": "Say hello to the Regulatory Configuration Service – RCS",
           "imageUrl": "https://d365fostuff.files.wordpress.com/2022/02/dashboard-regulatory-configuration-service.png?w=1200"
         },
