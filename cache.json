@@ -741,6 +741,26 @@
       "siteUrl": "https://community.dynamics.com/ax/b/erpsoftwareblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0d8590ba-ab8f-4884-a2b1-3f7aefeb0326",
+          "author": "ERP Software Blog",
+          "description": "Did you know that Electronic Data Interchange (EDI) improves data quality and reduces errors in transactions (caused by illegible handwriting, lost faxes/email, and data entry errors) by at least 30%-40%? Yet, over 41% of companies have no EDI capabilities. So, where are you in your EDI implementation journey?\nAre you just getting started or considering expanding your existing EDI, and do you need to make fundamental choices on integrating this with your ERP (Dynamics 365 F&O)? At To-Increase, we speak to many customers and prospects to help them with EDI implementation and integration. And we understand that this process of making the right choice in EDI integration can be daunting if you do not have a comprehensive understanding of the various business scenarios that you can select.\nHere…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/edi-integration-with-erp-what-are-your-choices-explained-with-scenarios",
+          "publishedOn": "2022-02-17T17:59:12.000Z",
+          "wordCount": 2687,
+          "title": "EDI Integration with ERP: What are Your Choices? (Explained with Scenarios)",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:34683f8c-86d3-447c-9003-c06c6cddfe8a",
+          "author": "ERP Software Blog",
+          "description": "Typically, stories about digital transformation are pretty exciting. Stories about safeguarding wine grapes from frost, paving the way to faster vaccine distribution and accelerating the digitization of the entire country of India. The accomplishments are extraordinary. You don’t often find a story about an accounting department leading the digital charge. Why? Well, it’s just not all that exciting–unless you comprehend how much is riding on them doing their jobs quickly and successfully. Let’s even things up with a story about an asset management firm that relies on fund accounting for its success.\nA sizeable alternative investment firm that manages over $30 billion in assets with over 300 professionals across the U.S., was in that exact position. The firm’s emphasis on driving results is…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-an-asset-management-firm-confronted-complex-fund-accounting-challenges-with-digital-transformation",
+          "publishedOn": "2022-02-17T16:17:17.000Z",
+          "wordCount": 2025,
+          "title": "How an Asset Management Firm Confronted Complex Fund Accounting Challenges with Digital Transformation",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1e92b4a1-f490-484f-b20e-b0c796a6c670",
           "author": "ERP Software Blog",
           "description": "Parent/Child Items in x2x eCommerce Shopify to Business Central Integration\nx2x eCommerce Shopify to Dynamics 365 Business Central Integration is much more than just a connector. x2x integration enhances the functionality of the ERP and the eCommerce wherever required to create a solution that can allow the companies to develop and manage their eCommerce sites through their ERP solutions.\nx2x eCommerce Shopify to Dynamics 365 Business Central Integration\nCreating Parent/Child items from ERP - a big challenge\neCommerce site usually displays items as a Parent/child or Configurable product. This gives customers an option to choose the variant of that item. For example, a shirt with five colors and five sizes is shown as one item on the eCommerce site allowing the visitor to select the sizes a…",
@@ -868,26 +888,6 @@
           "publishedOn": "2022-02-11T16:51:36.000Z",
           "wordCount": 1573,
           "title": "Advanced Warehouse Solution: Importance of real-time data reporting",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:9aa60566-4e9e-46e9-b5cf-3f5ecebd4e67",
-          "author": "ERP Software Blog",
-          "description": "Price changes are a common part of any business to keep up with inflation and changing item costs. Making these price changes as simple as possible is key to managing your pricing. Rockton Pricing Management (RPM) makes price changes easy to do. Not to mention, there is usually more than one way to accomplish what you need. Let’s look at some different examples on how to easily change your prices.\nOption 1 - Annual Price Changes\nIn this example, let’s say you have set up your pricing based on the calendar year through Price Sheets in a Price Book. You have a Price Sheet for each calendar year. Every January 1st you increase your pricing by 5%. With RPM, you can set up your new pricing in advance, so it automatically goes into effect on the 1st of January. No need for you to go in and activ…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/updating-prices-can-be-easy",
-          "publishedOn": "2022-02-10T21:10:54.000Z",
-          "wordCount": 1676,
-          "title": "Updating Prices Can Be Easy",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8f466ec3-45de-4697-ab4f-ebb00a5c23bf",
-          "author": "ERP Software Blog",
-          "description": "Confronting the sunsetting of a mission-critical technology platform can be an aggravating and puzzling experience. This is particularly true when the solution in question assists in the management of all aspects of project operations. The process you choose to address the forthcoming loss of this platform can have both  short and long-term impacts on your business. Choose correctly and you can position your business to survive the transition or even gain an advantage from the imposed change. Choose incorrectly – or even worse, make no choice at all – and your business may experience even greater damage from the loss of the platform. Not long ago, Klohn Crippen Berger, a multinational engineering, geoscience, and environmental consulting firm, faced precisely this  situation. KCB realized …",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/choosing-a-new-erp-solution-for-engineering-here-s-the-industry-specific-guidance-hso-proserv-offered-one-firm",
-          "publishedOn": "2022-02-10T16:16:10.000Z",
-          "wordCount": 1697,
-          "title": "Choosing a New ERP Solution for Engineering: Here’s the Industry-Specific Guidance HSO ProServ Offered One Firm",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
