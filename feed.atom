@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-18T01:11:13.214Z</updated>
+    <updated>2022-02-19T01:06:07.596Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[x2x eCommerce Integration of Shopify with Navision]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:77894283-9a23-4d17-89aa-3d17161ff9f2</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/x2x-ecommerce-integration-of-shopify-with-navision"/>
+        <updated>2022-02-18T15:39:31.000Z</updated>
+        <summary type="html"><![CDATA[The post COVID world is entirely different from the world we have lived in before. Things have changed, some for the time being and some perhaps forever. One such change is customer behavior and the adaption of online buying as the new way of life. x2x eCommerce Integration of Shopify with Navision, connected to Dynamics 365 Business Central, makes it easy for the organizations to expand their reach and sell on the web using Shopify, the power of the top-of-the-line eCommerce solution available in the market.
+
+Why x2x for Shopify and Navision Integration?
+x2x Shopify and Dynamics Navision Integration by x2x-eCommerce is a native solution for Dynamics Nav that works inside Dynamics Nav as an add-on solution. The solution provides a familiar interface to the Nav users and requires much less …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s How You can Create an All-in-One Digital Contact Center with Dynamics 365 Customer Service]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:93fcb31b-a98f-4102-83de-ea0fd6f5d6d3</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/here-s-how-you-can-create-an-all-in-one-digital-contact-center-with-dynamics-365-customer-service"/>
+        <updated>2022-02-18T10:14:30.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Customer Service brings a rich set of capabilities across self-service support, tailored customer service engagements, and rich knowledge base portals that aid in improving agent effectiveness and customer satisfaction. But with the general availability of the first-party voice channel for Microsoft Dynamics 365 Customer Service, the platform has now become an all-in-one digital contact center solution. What makes Dynamics 365 Customer Service the ideal digital contact center, and how can organizations leverage the platform to deliver consistent and personalized service to customers across all channels? Let’s find out!
+The Introduction of Voice
+At the 2021 Microsoft Ignite event, Microsoft announced the launch of the voice channel for Dynamics 365 Customer Service, a big annou…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JourneyTEAM Awarded 2021 VAR Star Recognition]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:16abf2e0-9f69-4e7d-a558-de852ea640a6</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/journeyteam-awarded-2021-var-star-recognition"/>
+        <updated>2022-02-17T23:58:58.000Z</updated>
+        <summary type="html"><![CDATA[JourneyTEAM was recognized for its excellence in providing ERP systems within the financial software world during 2021.
+ 
+Each year, Bob Scott, leader of VAR Stars Top 100, publishes a list recognizing the top companies for their achievements within the financial software world. Bob has been an expert within this sector for more than 30 years and strives to highlight businesses that exemplify success throughout the industry. 
+“Each year, 100 VAR Stars are picked from the best organizations that market financial software. It is always an honor to recognize those who contribute to the development of our business,” Bob Scott said.
+Last year, JourneyTEAM was proud to be among the list of top deserving companies. It was our work in assisting clients to implement the entire Microsoft technology …]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EDI Integration with ERP: What are Your Choices? (Explained with Scenarios)]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0d8590ba-ab8f-4884-a2b1-3f7aefeb0326</id>
@@ -27,6 +66,16 @@ Here…]]></summary>
 A sizeable alternative investment firm that manages over $30 billion in assets with over 300 professionals across the U.S., was in that exact position. The firm’s emphasis on driving results is…]]></summary>
         <author>
             <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beta Portal for Dynamics 365 and Power Platform Release Plans]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1496a65d-78db-40e4-b415-8c2dfac82f8d</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/beta-portal-for-dynamics-365-and-power-platform-release-plans"/>
+        <updated>2022-02-17T14:54:27.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is working on creating a better experience for viewing release plans for Dynamics and Power Platform. In this portal, you can view all new features that are organized by what has recently re...(read more)]]></summary>
+        <author>
+            <name>Todd Jeska</name>
         </author>
     </entry>
     <entry>
@@ -184,50 +233,6 @@ Why Shopify 
 Shopify is, by far, the most popular e-commerce platform available today. Shopify is popular in the SMB market segment because it is affordable and user-friendly. Moreover, Shopify is a feature-rich, adaptable, and comprehensive e-Commerce platform. In addition to it, Shopify allows organizations to create their flexible online store with many built-in features and an array of apps. Likewise, Shopify is to eCommerce what QuickBooks is to ERP.  
 Why Integrate with ERP 
  In the post-COVID world, selling online is no more an option. Selling online is a must for the survival and growth of the business. Also, this …]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Common Problems You Have to Overcome to Streamline Operations]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4a1ed3e2-f36e-46bc-8beb-7cc17d55bd50</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/5-common-problems-you-have-to-overcome-to-streamline-operations"/>
-        <updated>2022-02-14T12:44:55.000Z</updated>
-        <summary type="html"><![CDATA[Businesses today are always striving to evolve, and while this is good, it does have an adverse effect on their operations. Each organization uses a variety of business processes daily, and while some may be efficient, many may not. It is, therefore, a no-brainer that achieving overall operational efficiency is the prime goal for any organization, which is where streamlining becomes crucial.
-If your company is not able to streamline its processes, then there could be numerous repercussions. Inefficiencies, miscommunication, greater scope for errors, and poor governance, to name a few. However, simplifying operations is not without its problems, because of which, there is a need for a solution that will help you during the process and form a foundation that will be able to withstand current…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Reasons Why Finance Leaders Are Turning to Virtual Credit Cards in 2022]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:28790966-f762-4bfb-a151-f920cf4ec375</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/three-reasons-why-finance-leaders-are-turning-to-virtual-credit-cards-in-2022"/>
-        <updated>2022-02-11T22:14:54.000Z</updated>
-        <summary type="html"><![CDATA[Out of the 600 finance professionals surveyed in a recent study, 72% of them exclusively used paper checks to pay vendors during the pandemic. With the onset of digital adoption in the industry, many are turning to automated solutions such as virtual credit cards (VCC). A 2021 report found that modernization of accounting has allowed 55% of CFOs to increase their use of VCC. 
-A preference for this fast, secure, and more efficient payment channel is plummeting the usage of paper checks, with only 40% of businesses still relying on them.
-Benefits of using a Virtual Credit Card?
-Combats fraud and enhances security: With the rapid pace of digitization, businesses are now facing a more sophisticated set of attacks on their financials. Business email compromise (BEC) fraud attacks directed at invoices and payments increased by 155% between Q2 and Q3 2020. Half of all organizations surveyed in a 2021 survey reported severe fraudulent attempts on their accounting systems, resulting in significant monetary losses for 15% of the respondents.
-Automated payment methods are designed to combat financial risks. Software like Beanworks will automatically flag duplicate payments, and support leaders to increase internal security by setting up a custom approval matrix. 
-Click here to find more about what VCCs are and how they can benefit your business
-The post Three Reasons Why Finance Leaders Are Turning to Virtual Credit Cards in 2022 appeared first on ERP Software Blog.
-Related posts:
-Accounts Payable Trends to Watch Out for in 2022 
-Self-Service Analytics: Exploring Your ERP Data for Maximum Insights 
-How Can Microsoft Dynamics enable better data access with powerful Financial Reporting?]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Warehouse Solution: Importance of real-time data reporting]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:18ec56f7-b6c1-4249-ac62-53cffe45ce34</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/advanced-warehouse-solution-importance-of-real-time-data-reporting"/>
-        <updated>2022-02-11T16:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Warehouse Management Systems (WMS) play a vital role in increasing efficiency across your organization by streamlining data reporting. Whereas, excessive inventory, unexpected shortages, lack of space, etc. are the common challenges that occur while managing a warehouse. Access to real-time data can help to remove blockages from your workflow and spot potential problems before they increase. If you really want to smoothly operate your processes then you should consider investing in an Advanced WMS.
-Luckily, when you have an advanced warehouse management system, you can successfully track your inventory and ensure all goods are stored, sorted, shipped, and tracked properly.
-Why do you need real-time data for warehouse management?
-Having real-time data allows you to know what is working if e…]]></summary>
         <author>
             <name>ERP Software Blog</name>
         </author>
@@ -1227,16 +1232,6 @@ IIA-CIA-Part1 : Essentials of Internal Auditing
 IIA-CIA-PART2 :Certified Internal Auditor - Part 2, Conducting the Internal Audit E…]]></summary>
         <author>
             <name>SANTOSH KUMAR SINGH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatic update for all Microsoft managed additional Sandbox (UAT) environments]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bf8e516a-91a7-439b-b548-26c9aae39cbf</id>
-        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/automatic-update-for-all-microsoft-managed-additional-sandbox-uat-environments"/>
-        <updated>2021-10-21T21:29:55.000Z</updated>
-        <summary type="html"><![CDATA[We are introducing a new feature for Finance & Operations Lifecycle Services (LCS): automatic update for all Microsoft managed additional Sandbox (UAT) environments. This change will ensure that a...(read more)]]></summary>
-        <author>
-            <name>Samuel Ardila Carre&amp;#241;o</name>
         </author>
     </entry>
     <entry>
