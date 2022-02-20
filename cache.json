@@ -741,6 +741,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/erpsoftwareblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:663924c7-c0fe-4fde-8262-c97db4134605",
+          "author": "ERP Software Blog",
+          "description": "There are no easy answers to that question. That's because what companies consider expensive varies and is mostly determined by the value the commodity provides.\nThe relevant question, instead, should be whether Dynamics 365 solutions are a good investment and worth whatever price they command.\nIn this short blog post, we take a stab at demystifying the pricing of Dynamics 365, whether it be for Business Central, Sales, Customer Service, or Finance and Operations, and try to help you understand what you need to budget for.  For a deeper look into this topic, we have a fuller blog post on it you can read here.\nDynamics Pricing\nThe pricing of Dynamics 365 can be quite opaque — if you don't know what to ask for. The first mistake that companies tend to make is to assume that purchasing the so…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/is-microsoft-dynamics-365-expensive",
+          "publishedOn": "2022-02-18T23:32:33.000Z",
+          "wordCount": 1626,
+          "title": "Is Microsoft Dynamics 365 Expensive?",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:77894283-9a23-4d17-89aa-3d17161ff9f2",
           "author": "ERP Software Blog",
           "description": "The post COVID world is entirely different from the world we have lived in before. Things have changed, some for the time being and some perhaps forever. One such change is customer behavior and the adaption of online buying as the new way of life. x2x eCommerce Integration of Shopify with Navision, connected to Dynamics 365 Business Central, makes it easy for the organizations to expand their reach and sell on the web using Shopify, the power of the top-of-the-line eCommerce solution available in the market.\n\nWhy x2x for Shopify and Navision Integration?\nx2x Shopify and Dynamics Navision Integration by x2x-eCommerce is a native solution for Dynamics Nav that works inside Dynamics Nav as an add-on solution. The solution provides a familiar interface to the Nav users and requires much less …",
@@ -878,16 +888,6 @@
           "publishedOn": "2022-02-14T17:16:02.000Z",
           "wordCount": 2161,
           "title": "A Proactive Approach is a Better Way to Prevent Government Fraud",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bec47ac5-2dc7-43e6-971b-92796c68c2fc",
-          "author": "ERP Software Blog",
-          "description": "Business Central & Shopify Integration is one of the most sought-after solutions these days. This blog discusses this solution in detail.\nEnd to end Integration Solution\nWhy Shopify \nShopify is, by far, the most popular e-commerce platform available today. Shopify is popular in the SMB market segment because it is affordable and user-friendly. Moreover, Shopify is a feature-rich, adaptable, and comprehensive e-Commerce platform. In addition to it, Shopify allows organizations to create their flexible online store with many built-in features and an array of apps. Likewise, Shopify is to eCommerce what QuickBooks is to ERP.  \nWhy Integrate with ERP \n In the post-COVID world, selling online is no more an option. Selling online is a must for the survival and growth of the business. Also, this …",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/business-central-shopify-integration-by-x2x-ecommerce",
-          "publishedOn": "2022-02-14T16:45:24.000Z",
-          "wordCount": 1647,
-          "title": "Business Central & Shopify Integration by x2x-eCommerce",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -1258,7 +1258,7 @@
           "description": "Disclaimer: I do not encourage anyone on using this feature. And if you use it, please be careful with manipulating data using this feature. With the release of the PEAP version for 10.0.25 Microsoft reintroduced the ability to execute jobs without having a downtime for the needed deployment: https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/run-custom-scriptsWhile I wouldn’t recommend anyone to use […]",
           "link": "https://d365fostuff.wordpress.com/2022/02/01/ax2012-jobs-are-back-in-d365-kind-of/",
           "publishedOn": "2022-02-01T20:12:18.000Z",
-          "wordCount": 731,
+          "wordCount": 752,
           "title": "AX2012 jobs are back in D365 (kind of)",
           "imageUrl": "https://d365fostuff.files.wordpress.com/2022/02/script-details-test-run-finance-and-operations-preview-1.png"
         },

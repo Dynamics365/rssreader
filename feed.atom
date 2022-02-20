@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-19T01:06:07.596Z</updated>
+    <updated>2022-02-20T01:10:37.207Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is Microsoft Dynamics 365 Expensive?]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:663924c7-c0fe-4fde-8262-c97db4134605</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/is-microsoft-dynamics-365-expensive"/>
+        <updated>2022-02-18T23:32:33.000Z</updated>
+        <summary type="html"><![CDATA[There are no easy answers to that question. That's because what companies consider expensive varies and is mostly determined by the value the commodity provides.
+The relevant question, instead, should be whether Dynamics 365 solutions are a good investment and worth whatever price they command.
+In this short blog post, we take a stab at demystifying the pricing of Dynamics 365, whether it be for Business Central, Sales, Customer Service, or Finance and Operations, and try to help you understand what you need to budget for.  For a deeper look into this topic, we have a fuller blog post on it you can read here.
+Dynamics Pricing
+The pricing of Dynamics 365 can be quite opaque — if you don't know what to ask for. The first mistake that companies tend to make is to assume that purchasing the so…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[x2x eCommerce Integration of Shopify with Navision]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:77894283-9a23-4d17-89aa-3d17161ff9f2</id>
@@ -218,21 +232,6 @@ Companies can now enjoy even more comprehensive integration with Excel. For exam
         <updated>2022-02-14T17:16:02.000Z</updated>
         <summary type="html"><![CDATA[Fraud is a subject on everyone’s mind these days. We hear almost every day about a new scheme or form of fraud. Unfortunately, government fraud at all levels—from municipal to federal—is everywhere. The purpose of governments is to serve tax-paying citizens. They need to know things about those citizens to provide services. Bad actors want to make an easy buck by taking advantage of the public sector’s outreach to its citizens. This makes for an unsafe situation.
 Throw a pandemic into the mix and it becomes dangerous. The threat of  government fraud has continued to escalate during the COVID-19 pandemic, which has created the perfect storm. Citizen’s needs have increased as the pandemic shut down parts of the world, impacting employment, housing, healthcare, and other areas, and associated…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Central & Shopify Integration by x2x-eCommerce]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bec47ac5-2dc7-43e6-971b-92796c68c2fc</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/business-central-shopify-integration-by-x2x-ecommerce"/>
-        <updated>2022-02-14T16:45:24.000Z</updated>
-        <summary type="html"><![CDATA[Business Central & Shopify Integration is one of the most sought-after solutions these days. This blog discusses this solution in detail.
-End to end Integration Solution
-Why Shopify 
-Shopify is, by far, the most popular e-commerce platform available today. Shopify is popular in the SMB market segment because it is affordable and user-friendly. Moreover, Shopify is a feature-rich, adaptable, and comprehensive e-Commerce platform. In addition to it, Shopify allows organizations to create their flexible online store with many built-in features and an array of apps. Likewise, Shopify is to eCommerce what QuickBooks is to ERP.  
-Why Integrate with ERP 
- In the post-COVID world, selling online is no more an option. Selling online is a must for the survival and growth of the business. Also, this …]]></summary>
         <author>
             <name>ERP Software Blog</name>
         </author>
