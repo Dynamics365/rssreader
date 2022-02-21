@@ -741,6 +741,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/erpsoftwareblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:85c4a614-be9a-448c-8746-2a891b76adca",
+          "author": "ERP Software Blog",
+          "description": "Microsoft Dynamics licensing is quite complicated, and that's why you need a partner with experience and expertise to break it down. \nThere are a lot of factors to control for when explaining just how the product is licensed. We go into more details in our blog post titled How To Calculate Dynamics 365 Prices Business Central Licenses in our post on Sabre Limited.\nHowever, right now we can break down the process into simple tidbits to give you an idea of how the entire process works with Microsoft. \nOur Assumptions\nBefore we start, we are assuming a few things. The first is that you run a small to medium-sized business, and you would need the Sales Professional and not the Sales Enterprise nor the Customer Service Modules.\nThe second assumption is that your company is interested in Microso…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-is-microsoft-dynamics-licensed",
+          "publishedOn": "2022-02-20T00:31:26.000Z",
+          "wordCount": 1551,
+          "title": "How Is Microsoft Dynamics Licensed",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:663924c7-c0fe-4fde-8262-c97db4134605",
           "author": "ERP Software Blog",
           "description": "There are no easy answers to that question. That's because what companies consider expensive varies and is mostly determined by the value the commodity provides.\nThe relevant question, instead, should be whether Dynamics 365 solutions are a good investment and worth whatever price they command.\nIn this short blog post, we take a stab at demystifying the pricing of Dynamics 365, whether it be for Business Central, Sales, Customer Service, or Finance and Operations, and try to help you understand what you need to budget for.  For a deeper look into this topic, we have a fuller blog post on it you can read here.\nDynamics Pricing\nThe pricing of Dynamics 365 can be quite opaque — if you don't know what to ask for. The first mistake that companies tend to make is to assume that purchasing the so…",
@@ -878,16 +888,6 @@
           "publishedOn": "2022-02-14T18:29:50.000Z",
           "wordCount": 1541,
           "title": "What's New In Business Central Manufacturing 2021",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:9dc4d230-51f7-4020-8e0a-b794e92fd02f",
-          "author": "ERP Software Blog",
-          "description": "Fraud is a subject on everyone’s mind these days. We hear almost every day about a new scheme or form of fraud. Unfortunately, government fraud at all levels—from municipal to federal—is everywhere. The purpose of governments is to serve tax-paying citizens. They need to know things about those citizens to provide services. Bad actors want to make an easy buck by taking advantage of the public sector’s outreach to its citizens. This makes for an unsafe situation.\nThrow a pandemic into the mix and it becomes dangerous. The threat of  government fraud has continued to escalate during the COVID-19 pandemic, which has created the perfect storm. Citizen’s needs have increased as the pandemic shut down parts of the world, impacting employment, housing, healthcare, and other areas, and associated…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/a-proactive-approach-is-a-better-way-to-prevent-government-fraud",
-          "publishedOn": "2022-02-14T17:16:02.000Z",
-          "wordCount": 2161,
-          "title": "A Proactive Approach is a Better Way to Prevent Government Fraud",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
