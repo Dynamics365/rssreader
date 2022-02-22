@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-21T01:02:04.791Z</updated>
+    <updated>2022-02-22T01:04:56.478Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inventory Management Back on Track for Retailer with Microsoft Dynamics 365 Business Central POS Solution]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5f6fcd95-1eac-44fa-a07e-b64e6518d691</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/inventory-management-back-on-track-for-retailer-with-microsoft-dynamics-365-business-central-pos-solution"/>
+        <updated>2022-02-21T21:09:42.000Z</updated>
+        <summary type="html"><![CDATA[A Midwest retailer struggling to properly manage and account for their inventory turned to The TM Group for help.
+ 
+This retailer was in need of an integrated accounting, inventory and POS solution that was robust enough to support not only their current stores but also new stores they planned to open as the company continues to grow. The TM Group knew that Microsoft Dynamics 365 Business Central with LS Retail’s embedded apparel and fashion POS system would fit their new system requirements perfectly.
+ 
+Microsoft Dynamics 365 Business Central is an enterprise resource planning software program that enables mid-size and large organizations to streamline their day-to-day business activities. 
+ 
+Click here to see how The TM Group helped this Midwest retailer centralize their financials by implementing Microsoft Dynamics 365 along with LS Retail’s LS Central software. 
+ 
+The post Inventory Management Back on Track for Retailer with Microsoft Dynamics 365 Business Central POS Solution appeared first on ERP Software Blog.
+Related posts:
+Manufacturing & Distribution Add-Ons for Business Central 
+Insight Works Announces Release of Shop Floor Insight Add-On for Dynamics 365 Business Central Cloud 
+Why you should choose Microsoft Dynamics 365 Business Central for your business?]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Future is in the Cloud: Cloud-based Document Management System for Dyn365BC]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a929c1b5-af94-46c5-8797-241c333b09ce</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/future-is-in-the-cloud-cloud-based-document-management-system-for-dyn365bc"/>
+        <updated>2022-02-21T20:16:20.000Z</updated>
+        <summary type="html"><![CDATA[Nowadays, most business organizations have been using some sort of document management. Either it is on paper, or online. While we at MetaOption have encouraged businesses to digitize documents for years, many businesses are just starting to move their Document Management System (DMS) into the cloud. Look why cloud-based document management systems are becoming so popular that they are the norm rather than the exception.
+Benefits of cloud-based document management?
+Managing documents and data into the cloud offers a variety of benefits which includes:
+Robust Data Backup
+With cloud-based DMS, every sort of data is backed up, ensuring that you will not lose any important information. This precious information helps your business organization to make better decisions and keep business moving.…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power of eCommerce solutions driven by Microsoft Dynamics GP]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c484538f-a55c-4454-bb97-2d708d72bc56</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/the-power-of-ecommerce-solutions-driven-by-microsoft-dynamics-gp"/>
+        <updated>2022-02-21T16:00:27.000Z</updated>
+        <summary type="html"><![CDATA[It is a known fact that eCommerce solutions developed on top of Microsoft Dynamics GP and other ERP solutions do not dominate the market as they once used to be. The trend has changed, and there has been a very fast adaption of Enterprise eCommerce by the companies selling online.
+Market Trend by https://builtwith.com/
+This graph is a typical example of how there is a significant change in the behavior of companies has been having an online presence. More and more companies are opting out of the solutions developed on an ERP and moving towards Enterprise solutions.
+ERP-based eCommerce's inherent shortcoming to adapt quickly in this fast-paced marketplace is the biggest reason for this paradigm shift. These companies are small compared to enterprise eCommerce solution companies, and compani…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Is Microsoft Dynamics Licensed]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:85c4a614-be9a-448c-8746-2a891b76adca</id>
@@ -176,36 +225,6 @@ The Microsoft Team takes…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ERP Implementations Reimagined – Part 1]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:70b55d4d-389d-4623-85f2-004c6f00f1cf</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/erp-implementations-reimagined-part-1"/>
-        <updated>2022-02-15T20:37:28.000Z</updated>
-        <summary type="html"><![CDATA[Why do so many ERP implementations fail? No doubt you’ve heard the horror stories. Businesses spend loads of time and money on an ERP implementation only to have it fail before it has even shown a return.
-In our next four posts, we plan to explore the problem of failed implementations. We'll present a new, forward-thinking approach that will drastically improve ERP implementation success.
-For years, Microsoft Dynamics ERP implementations have been approached with what should be a fool-proof method: Microsoft Sure Step. But contrary to the name, the method is anything but sure. It’s not an exaggeration to say that most ERP implementations (Microsoft or otherwise) fail to live up to their promise.
-Failures include over-budget projects that take far too long and result in poor user adoption. …]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 key challenges retailers face with e-commerce subscription models]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:faf68d1c-f98c-46d6-911c-c8cc530e8345</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/4-key-challenges-retailers-face-with-e-commerce-subscription-models"/>
-        <updated>2022-02-15T15:35:02.000Z</updated>
-        <summary type="html"><![CDATA[The rising international demand for e-commerce is pushing retailers to consider adopting subscription pricing models; however, that doesn’t mean it’s the right strategy for every company. Retailers who lack the resources to deliver on customer expectations are quickly left behind, so it’s vital that companies are familiar with how to address common challenges prior to implementation. 
-Subscriptions depend on new customers to regularly consume your product over time. If your business goals do not align with this model, then adding subscription services might be a non-starter. Nevertheless, many undeterred teams have found creative solutions to incorporate a recurring revenue stream. The key is having a thorough enough understanding of your company’s strategy to accurately evaluate whether such a solution would be profitable. 
-Once you’ve committed to implementing a subscription pricing model, you will need to understand how to meet customers where they are at with relational business processes, robust protocols to protect customer data, and a watertight strategy to penetrate a saturated market. For an in-depth analysis of the main challenges facing retailers, read the full blog. 
-The post 4 key challenges retailers face with e-commerce subscription models appeared first on ERP Software Blog.
-Related posts:
-Why retailers are flocking to e-commerce subscription models 
-Saving Space by Going Paperless… 
-How to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Announcing General Availability (GA) of Power Apps portals as mobile apps]]></title>
         <id>announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps/"/>
@@ -223,21 +242,6 @@ How to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP]]></summary>
         <summary type="html"><![CDATA[This time I’ve got a less technical and more functional post about the Regulatory Configuration Service (RCS) for you. I couldn’t find too much information about it out there, besides the MS Docs pages. Lately I had to set it up in some projects, and wanted to share my findings. With the release of the […]]]></summary>
         <author>
             <name>Marijan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New In Business Central Manufacturing 2021]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:833c8f2f-efc2-4ca6-9191-660e7e5abe60</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/what-s-new-in-business-central-manufacturing-2021"/>
-        <updated>2022-02-14T18:29:50.000Z</updated>
-        <summary type="html"><![CDATA[Around April and October of every year, Microsoft releases new features for their Dynamics products.  
-In the post on Sabre Limited titled 2021 Business Central Manufacturing Features Round-Up we look into a large number of the changes to Business Central that can help a manufacturing business.
-Here is a sample of a few of our new features we looked at.  For the original (full) blog you can check it out on the Sabre website.
-Excel Works Even Better 
-One of the biggest selling points of Microsoft Dynamics 365 Business Central is the seamless integration of it with other Microsoft products.  The integration improvements with Excel provide a better user experience.  
-Companies can now enjoy even more comprehensive integration with Excel. For example, there are now more places to use the edit …]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
         </author>
     </entry>
     <entry>
