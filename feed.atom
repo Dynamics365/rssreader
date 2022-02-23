@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Dynamics365/rssreader/index.html</id>
     <title>My Feeds</title>
-    <updated>2022-02-22T01:04:56.478Z</updated>
+    <updated>2022-02-23T01:12:42.106Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
     <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DynamicsCon Preview: Implementing Microsoft Dynamics 365 F&O with worldwide requirements]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8dd704cd-bbc6-43b3-addd-77cef3b194e6</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/dynamicscon-preview-implementing-microsoft-dynamics-365-f-o-with-worldwide-requirements"/>
+        <updated>2022-02-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By their nature, Microsoft Dynamics 365 Finance and Supply Chain
+Management projects deal with complex business challenges. But Sean
+Sennott
+ , lead solution architect at  
+ Columbus
+Global 
+  (and an  
+ MSDW contributor 
+ ),  faced a new level... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform CLI January update]]></title>
+        <id>power-platform-cli-january-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-cli-january-update/"/>
+        <updated>2022-02-22T10:43:48.000Z</updated>
+        <summary type="html"><![CDATA[New updates for PAC CLI in January Refresh]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power BI Helps Remote Workers Succeed]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3d50d263-8f3a-494a-b7cd-67bf448a138b</id>
+        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/microsoft-power-bi-helps-remote-workers-succeed"/>
+        <updated>2022-02-22T05:03:31.000Z</updated>
+        <summary type="html"><![CDATA[Things have changed a lot in the last two years. Remote working, which we thought would be a stopgap measure for a few weeks, has become a way of life for many. Read on to see how Microsoft Power BI helps remote workers succeed.
+The Questions
+How has having a remote workforce affected your business? How has it impacted your performance? Do you have the necessary infrastructure to allow employees to connect remotely and work effectively and efficiently?
+Once you’ve straightened out the logistics, the next priority is ensuring everyone has access to the data they need to make informed and strategic decisions.  Without reliable and relevant data, management and employees will be in the dark about which direction to pursue.
+How can everyone access the data needed to keep the business running s…]]></summary>
+        <author>
+            <name>ERP Software Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inventory Management Back on Track for Retailer with Microsoft Dynamics 365 Business Central POS Solution]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5f6fcd95-1eac-44fa-a07e-b64e6518d691</id>
@@ -212,19 +254,6 @@ Microsoft Dynamics 365BC is recommended for organizations that have outgrown ent
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why You Need To Move from Dynamics GP to Dynamics 365 Business Central]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e8dd1d5f-16e7-4743-97c8-429028e6313c</id>
-        <link href="https://community.dynamics.com/ax/b/erpsoftwareblog/posts/why-you-need-to-move-from-dynamics-gp-to-dynamics-365-business-central"/>
-        <updated>2022-02-15T21:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Dynamics GP has been a stable and reliable system for most clients. Since its inception in 1993, it has helped meet the needs of many small and mid-sized businesses. Thousands of companies have used GP to manage their processes effectively.
-It kept evolving over the years to ensure it matches the changing needs over time. However, a new Dynamics offering has made waves in the marketplace, which current GP users should consider when searching for a robust ERP solution.
-Dynamics 365 Business Central is a reliable Software-as-a-Service (SaaS) offering that is a Microsoft Cloud-native. Being in the cloud offers consistent updates with new features that businesses can use without hassle when upgrading their systems to match the current technological solutions.
-The Microsoft Team takes…]]></summary>
-        <author>
-            <name>ERP Software Blog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Announcing General Availability (GA) of Power Apps portals as mobile apps]]></title>
         <id>announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps/"/>
@@ -395,16 +424,6 @@ providing services and... Read the full text.]]></summary>
 The recommendation is to use the SQLPakage tools to import...(read more)]]></summary>
         <author>
             <name>Said Nikjou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Platform Developer Tools Dec/Jan Refresh (Sovereign Cloud support)]]></title>
-        <id>power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-dec-jan-refresh-sovereign-cloud-support/"/>
-        <updated>2022-01-31T10:56:13.000Z</updated>
-        <summary type="html"><![CDATA[The Sovereign Cloud support for Power Platform Command Line tool]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -1017,22 +1036,6 @@ the Microsoft Dynamics suite and beyond.
 sharing some pointers to use as input for decision direct...(read more)]]></summary>
         <author>
             <name>Rahul Mohta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dynamics Partner Roundup: CDP connector; Association software; Sharepoint security; Import tax]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:11ffb84a-b8f6-4d72-a342-1c60f66ae1eb</id>
-        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-partner-roundup-cdp-connector-association-software-sharepoint-security-import-tax"/>
-        <updated>2021-11-05T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this week's Microsoft Dynamics Partner News Roundup: 
- 
- Demandbase announces collaboration with Microsoft B2B Customer
-Data Platform 
- Togetherwork acquires Protech Associates, an association
-software built on Microsoft Dynamics 365 
- Avalara... Read the full text.]]></summary>
-        <author>
-            <name>MSDynamicsWorld.com</name>
         </author>
     </entry>
     <entry>
