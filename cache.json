@@ -741,12 +741,72 @@
       "siteUrl": "https://community.dynamics.com/ax/b/erpsoftwareblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:6404f7d9-6645-4446-8929-47988bafe4a7",
+          "author": "ERP Software Blog",
+          "description": "Firms on BST or Deltek AEC ERP software have a choice to make: Re-platform their ERP system using the same software developer? Or is there a different, newer approach to their AEC ERP needs? We’ve talked to many firms currently using BST or Deltek who have recently decided to implement aec360 by HSO and Microsoft Dynamics 365 instead of re-platforming, and we’ve gathered a lengthy list of reasons why. Here are the 10 most popular responses from these firms.\n#1: Firms using aec360 have the advantage with Microsoft’s $19B investment in R&D\nInvesting in Microsoft came up as the number one reason for choosing aec360 as their AEC ERP software, which is important to note. AEC firms using other ERP software understood the power of Microsoft’s $19B annual R&D budget and made the decision to move t…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/why-are-aec-firms-choosing-aec360-over-deltek-or-bst-here-are-10-very-good-reasons",
+          "publishedOn": "2022-02-23T16:40:20.000Z",
+          "wordCount": 1991,
+          "title": "Why are AEC Firms Choosing aec360 Over Deltek or BST? Here are 10 Very Good Reasons",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:001e53a6-5f03-4bd2-bb07-0f9d47057dc2",
+          "author": "ERP Software Blog",
+          "description": "As a business owner, you know how important it is to protect your data. It’s also important to ensure continuity of business operations in the face of natural disasters. Cloud providers are dedicated to delivering the safety and security you need. They have adopted the best technology and best practices for dealing with any threats and ensuring Cloud security.\nIn part 1 of this series, we discussed 3 of the 7 Cloud security questions. In part 2, we’ll talk about who manages security in the Cloud, what types of security are available, whether the Microsoft Cloud is secure, and compliance and governance in the Cloud.\n 4. Who will manage security in the Cloud? \nYou need to know who will be responsible for the various aspects of your Cloud security. Even though your Cloud provider promises sec…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/7-cloud-security-questions-answered---part-2",
+          "publishedOn": "2022-02-23T15:24:40.000Z",
+          "wordCount": 1889,
+          "title": "7 Cloud Security Questions Answered - Part 2",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e4d49040-4433-4569-baa3-2f7bc3c989af",
+          "author": "ERP Software Blog",
+          "description": "Retailers fixate on expansion, whether entering a new market, investing in an omnichannel approach, developing new products, or partnering with other brands. In an industry primed for growth, it’s often challenging to take a step back and consider the backbone holding all these lofty goals upright. Many retailers fail simply because they haven’t taken the time to put robust financial processes and systems in place.\nMany may wonder if there’s a way to build a financial backbone before your retail expansion fails. What’s critical for many brands is shifting their perspective. Can they begin to embrace transformation as a prerequisite for growth? Without taking this crucial step in mindset, retailers will struggle to take the steps needed to tap into long-term growth.\nThere are many benefits to retail transformation. Some of these include:\nIncreased agility\nBetter customer service\nProcess automation\nStrengthened security\nSimplified compliance\nEnhanced collaboration\nFacilitate globalization\nFreedom to innovate\nThe risks that brands face when they fail to embrace financial transformation are manifold. They often end up expecting their finance teams to handle incredible workloads without the tools and processes they need to complete that work accurately. \nStressed teams relying on inaccurate data and bottlenecks cannot make sound strategic decisions. If you’d like to learn more about how financial transformation is the key to your expansion, visit our blog that sets out some of the recommended practices for retailers focused on growth.\nThe post Why you need to create a financial backbone to maximize retail expansion appeared first on ERP Software Blog.\nRelated posts:\nMove with equipment-driven market trends easily with DynaRent for Microsoft Dynamics 365 \nTop 3 “must haves” for equipment rental ERP software \nFirst Time at Reporting Implementation? Tips and Tricks!",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/why-you-need-to-create-a-financial-backbone-to-maximize-retail-expansion",
+          "publishedOn": "2022-02-23T13:55:10.000Z",
+          "wordCount": 1297,
+          "title": "Why you need to create a financial backbone to maximize retail expansion",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:89605854-5807-452c-a28d-93e8162c8e53",
+          "author": "ERP Software Blog",
+          "description": "enChoice, a global enterprise content management and digital transformation solutions company, welcomes Sypht, an AI-driven online OCR platform provider to the family. Sypht joins KwikTag in the software division of enChoice. Together, the companies will empower organizations to unlock the value of their critical financial data and information hidden in unstructured documents. The solutions will reduce the time and resources required to manage their corporate spend.\nThis strategic merger delivers extensive value to both organizations, as well as their customers and partners. The Sypht team and product set will gain dedicated resources, investment and focus to deliver new products and features to the market faster. The Sypht customer base will benefit from additional development expertise t…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/enchoice-and-sypht-announce-merger-to-expand-ai-software-footprint",
+          "publishedOn": "2022-02-23T13:54:14.000Z",
+          "wordCount": 1724,
+          "title": "enChoice and Sypht Announce Merger to Expand AI Software Footprint",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3a2cdafc-4769-48bb-94e0-d5f38a0bd2f6",
+          "author": "ERP Software Blog",
+          "description": "DynamicPoint has integrated its Office 365 based AP invoice automation product with MIP Fund Accounting by Community Brands. The product is entirely built within the Office 365 ecosystem and leverages SharePoint for document retention and Power Automate for workflow. Read more here: https://www.dynamicpoint.com/ap-invoice-automation-for-mip-fund-accounting/\n\nThe post DynamicPoint Integrates with MIP Fund Accounting by Community Brands appeared first on ERP Software Blog.\nRelated posts:\nBarcoding: Simplify Common Inventory Challenges with Microsoft Dynamics GP \n\"What If\" Scenarios Help to Align your ERP Software Security Needs with your Software as a Service (SaaS) Provider \nWhat Deployment Options Are Available for Microsoft Dynamics Customers?",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/dynamicpoint-integrates-with-mip-fund-accounting-by-community-brands",
+          "publishedOn": "2022-02-23T12:21:51.000Z",
+          "wordCount": 1102,
+          "title": "DynamicPoint Integrates with MIP Fund Accounting by Community Brands",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:51a4810a-dd10-41c1-8d0b-7501c16aca8d",
+          "author": "ERP Software Blog",
+          "description": "In the previous blog post, we looked at the unique challenges faced by the Semiconductor and IoT industry companies during production ramp. We know that the industry landscape is changing rapidly and with this ramping of organizations is getting more complex. To address this complexity, a thorough understanding of a start-up’s life cycle is necessary. Typically start-ups go through a 3-phase growth lifecycle from pre-ramp stage to production ramp to production breadth stage.\nThe following excerpt from a recent Tensoft webcast – “Challenges to Scaling Production Ramp” – describes the 3 distinct growth phases of start-up’s lifecycle.\n\nWith each stage the operational complexity increases, as the focus of supply chain execution shifts from establishing vendor relationships to timely production…",
+          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/an-overview-of-start-ups-life-cycle",
+          "publishedOn": "2022-02-22T19:21:45.000Z",
+          "wordCount": 1304,
+          "title": "An Overview of Start-ups Life Cycle",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3d50d263-8f3a-494a-b7cd-67bf448a138b",
           "author": "ERP Software Blog",
           "description": "Things have changed a lot in the last two years. Remote working, which we thought would be a stopgap measure for a few weeks, has become a way of life for many. Read on to see how Microsoft Power BI helps remote workers succeed.\nThe Questions\nHow has having a remote workforce affected your business? How has it impacted your performance? Do you have the necessary infrastructure to allow employees to connect remotely and work effectively and efficiently?\nOnce you’ve straightened out the logistics, the next priority is ensuring everyone has access to the data they need to make informed and strategic decisions.  Without reliable and relevant data, management and employees will be in the dark about which direction to pursue.\nHow can everyone access the data needed to keep the business running s…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/microsoft-power-bi-helps-remote-workers-succeed",
           "publishedOn": "2022-02-22T05:03:31.000Z",
-          "wordCount": 1705,
+          "wordCount": 1710,
           "title": "Microsoft Power BI Helps Remote Workers Succeed",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
@@ -756,7 +816,7 @@
           "description": "A Midwest retailer struggling to properly manage and account for their inventory turned to The TM Group for help.\n \nThis retailer was in need of an integrated accounting, inventory and POS solution that was robust enough to support not only their current stores but also new stores they planned to open as the company continues to grow. The TM Group knew that Microsoft Dynamics 365 Business Central with LS Retail’s embedded apparel and fashion POS system would fit their new system requirements perfectly.\n \nMicrosoft Dynamics 365 Business Central is an enterprise resource planning software program that enables mid-size and large organizations to streamline their day-to-day business activities. \n \nClick here to see how The TM Group helped this Midwest retailer centralize their financials by implementing Microsoft Dynamics 365 along with LS Retail’s LS Central software. \n \nThe post Inventory Management Back on Track for Retailer with Microsoft Dynamics 365 Business Central POS Solution appeared first on ERP Software Blog.\nRelated posts:\nManufacturing & Distribution Add-Ons for Business Central \nInsight Works Announces Release of Shop Floor Insight Add-On for Dynamics 365 Business Central Cloud \nWhy you should choose Microsoft Dynamics 365 Business Central for your business?",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/inventory-management-back-on-track-for-retailer-with-microsoft-dynamics-365-business-central-pos-solution",
           "publishedOn": "2022-02-21T21:09:42.000Z",
-          "wordCount": 1204,
+          "wordCount": 1209,
           "title": "Inventory Management Back on Track for Retailer with Microsoft Dynamics 365 Business Central POS Solution",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
@@ -766,7 +826,7 @@
           "description": "Nowadays, most business organizations have been using some sort of document management. Either it is on paper, or online. While we at MetaOption have encouraged businesses to digitize documents for years, many businesses are just starting to move their Document Management System (DMS) into the cloud. Look why cloud-based document management systems are becoming so popular that they are the norm rather than the exception.\nBenefits of cloud-based document management?\nManaging documents and data into the cloud offers a variety of benefits which includes:\nRobust Data Backup\nWith cloud-based DMS, every sort of data is backed up, ensuring that you will not lose any important information. This precious information helps your business organization to make better decisions and keep business moving.…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/future-is-in-the-cloud-cloud-based-document-management-system-for-dyn365bc",
           "publishedOn": "2022-02-21T20:16:20.000Z",
-          "wordCount": 1907,
+          "wordCount": 1912,
           "title": "Future is in the Cloud: Cloud-based Document Management System for Dyn365BC",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
@@ -776,7 +836,7 @@
           "description": "It is a known fact that eCommerce solutions developed on top of Microsoft Dynamics GP and other ERP solutions do not dominate the market as they once used to be. The trend has changed, and there has been a very fast adaption of Enterprise eCommerce by the companies selling online.\nMarket Trend by https://builtwith.com/\nThis graph is a typical example of how there is a significant change in the behavior of companies has been having an online presence. More and more companies are opting out of the solutions developed on an ERP and moving towards Enterprise solutions.\nERP-based eCommerce's inherent shortcoming to adapt quickly in this fast-paced marketplace is the biggest reason for this paradigm shift. These companies are small compared to enterprise eCommerce solution companies, and compani…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/the-power-of-ecommerce-solutions-driven-by-microsoft-dynamics-gp",
           "publishedOn": "2022-02-21T16:00:27.000Z",
-          "wordCount": 1582,
+          "wordCount": 1587,
           "title": "The Power of eCommerce solutions driven by Microsoft Dynamics GP",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
@@ -786,7 +846,7 @@
           "description": "Microsoft Dynamics licensing is quite complicated, and that's why you need a partner with experience and expertise to break it down. \nThere are a lot of factors to control for when explaining just how the product is licensed. We go into more details in our blog post titled How To Calculate Dynamics 365 Prices Business Central Licenses in our post on Sabre Limited.\nHowever, right now we can break down the process into simple tidbits to give you an idea of how the entire process works with Microsoft. \nOur Assumptions\nBefore we start, we are assuming a few things. The first is that you run a small to medium-sized business, and you would need the Sales Professional and not the Sales Enterprise nor the Customer Service Modules.\nThe second assumption is that your company is interested in Microso…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-is-microsoft-dynamics-licensed",
           "publishedOn": "2022-02-20T00:31:26.000Z",
-          "wordCount": 1534,
+          "wordCount": 1539,
           "title": "How Is Microsoft Dynamics Licensed",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
@@ -796,7 +856,7 @@
           "description": "There are no easy answers to that question. That's because what companies consider expensive varies and is mostly determined by the value the commodity provides.\nThe relevant question, instead, should be whether Dynamics 365 solutions are a good investment and worth whatever price they command.\nIn this short blog post, we take a stab at demystifying the pricing of Dynamics 365, whether it be for Business Central, Sales, Customer Service, or Finance and Operations, and try to help you understand what you need to budget for.  For a deeper look into this topic, we have a fuller blog post on it you can read here.\nDynamics Pricing\nThe pricing of Dynamics 365 can be quite opaque — if you don't know what to ask for. The first mistake that companies tend to make is to assume that purchasing the so…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/is-microsoft-dynamics-365-expensive",
           "publishedOn": "2022-02-18T23:32:33.000Z",
-          "wordCount": 1609,
+          "wordCount": 1614,
           "title": "Is Microsoft Dynamics 365 Expensive?",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
@@ -806,7 +866,7 @@
           "description": "The post COVID world is entirely different from the world we have lived in before. Things have changed, some for the time being and some perhaps forever. One such change is customer behavior and the adaption of online buying as the new way of life. x2x eCommerce Integration of Shopify with Navision, connected to Dynamics 365 Business Central, makes it easy for the organizations to expand their reach and sell on the web using Shopify, the power of the top-of-the-line eCommerce solution available in the market.\n\nWhy x2x for Shopify and Navision Integration?\nx2x Shopify and Dynamics Navision Integration by x2x-eCommerce is a native solution for Dynamics Nav that works inside Dynamics Nav as an add-on solution. The solution provides a familiar interface to the Nav users and requires much less …",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/x2x-ecommerce-integration-of-shopify-with-navision",
           "publishedOn": "2022-02-18T15:39:31.000Z",
-          "wordCount": 1736,
+          "wordCount": 1741,
           "title": "x2x eCommerce Integration of Shopify with Navision",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
@@ -816,7 +876,7 @@
           "description": "Dynamics 365 Customer Service brings a rich set of capabilities across self-service support, tailored customer service engagements, and rich knowledge base portals that aid in improving agent effectiveness and customer satisfaction. But with the general availability of the first-party voice channel for Microsoft Dynamics 365 Customer Service, the platform has now become an all-in-one digital contact center solution. What makes Dynamics 365 Customer Service the ideal digital contact center, and how can organizations leverage the platform to deliver consistent and personalized service to customers across all channels? Let’s find out!\nThe Introduction of Voice\nAt the 2021 Microsoft Ignite event, Microsoft announced the launch of the voice channel for Dynamics 365 Customer Service, a big annou…",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/here-s-how-you-can-create-an-all-in-one-digital-contact-center-with-dynamics-365-customer-service",
           "publishedOn": "2022-02-18T10:14:30.000Z",
-          "wordCount": 1802,
+          "wordCount": 1807,
           "title": "Here’s How You can Create an All-in-One Digital Contact Center with Dynamics 365 Customer Service",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
@@ -826,68 +886,8 @@
           "description": "JourneyTEAM was recognized for its excellence in providing ERP systems within the financial software world during 2021.\n \nEach year, Bob Scott, leader of VAR Stars Top 100, publishes a list recognizing the top companies for their achievements within the financial software world. Bob has been an expert within this sector for more than 30 years and strives to highlight businesses that exemplify success throughout the industry. \n“Each year, 100 VAR Stars are picked from the best organizations that market financial software. It is always an honor to recognize those who contribute to the development of our business,” Bob Scott said.\nLast year, JourneyTEAM was proud to be among the list of top deserving companies. It was our work in assisting clients to implement the entire Microsoft technology …",
           "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/journeyteam-awarded-2021-var-star-recognition",
           "publishedOn": "2022-02-17T23:58:58.000Z",
-          "wordCount": 1353,
+          "wordCount": 1358,
           "title": "JourneyTEAM Awarded 2021 VAR Star Recognition",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0d8590ba-ab8f-4884-a2b1-3f7aefeb0326",
-          "author": "ERP Software Blog",
-          "description": "Did you know that Electronic Data Interchange (EDI) improves data quality and reduces errors in transactions (caused by illegible handwriting, lost faxes/email, and data entry errors) by at least 30%-40%? Yet, over 41% of companies have no EDI capabilities. So, where are you in your EDI implementation journey?\nAre you just getting started or considering expanding your existing EDI, and do you need to make fundamental choices on integrating this with your ERP (Dynamics 365 F&O)? At To-Increase, we speak to many customers and prospects to help them with EDI implementation and integration. And we understand that this process of making the right choice in EDI integration can be daunting if you do not have a comprehensive understanding of the various business scenarios that you can select.\nHere…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/edi-integration-with-erp-what-are-your-choices-explained-with-scenarios",
-          "publishedOn": "2022-02-17T17:59:12.000Z",
-          "wordCount": 2673,
-          "title": "EDI Integration with ERP: What are Your Choices? (Explained with Scenarios)",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:34683f8c-86d3-447c-9003-c06c6cddfe8a",
-          "author": "ERP Software Blog",
-          "description": "Typically, stories about digital transformation are pretty exciting. Stories about safeguarding wine grapes from frost, paving the way to faster vaccine distribution and accelerating the digitization of the entire country of India. The accomplishments are extraordinary. You don’t often find a story about an accounting department leading the digital charge. Why? Well, it’s just not all that exciting–unless you comprehend how much is riding on them doing their jobs quickly and successfully. Let’s even things up with a story about an asset management firm that relies on fund accounting for its success.\nA sizeable alternative investment firm that manages over $30 billion in assets with over 300 professionals across the U.S., was in that exact position. The firm’s emphasis on driving results is…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-an-asset-management-firm-confronted-complex-fund-accounting-challenges-with-digital-transformation",
-          "publishedOn": "2022-02-17T16:17:17.000Z",
-          "wordCount": 2011,
-          "title": "How an Asset Management Firm Confronted Complex Fund Accounting Challenges with Digital Transformation",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1e92b4a1-f490-484f-b20e-b0c796a6c670",
-          "author": "ERP Software Blog",
-          "description": "Parent/Child Items in x2x eCommerce Shopify to Business Central Integration\nx2x eCommerce Shopify to Dynamics 365 Business Central Integration is much more than just a connector. x2x integration enhances the functionality of the ERP and the eCommerce wherever required to create a solution that can allow the companies to develop and manage their eCommerce sites through their ERP solutions.\nx2x eCommerce Shopify to Dynamics 365 Business Central Integration\nCreating Parent/Child items from ERP - a big challenge\neCommerce site usually displays items as a Parent/child or Configurable product. This gives customers an option to choose the variant of that item. For example, a shirt with five colors and five sizes is shown as one item on the eCommerce site allowing the visitor to select the sizes a…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/parent-child-products-in-x2x-ecommerce-shopify-to-dynamics-365-business-central-integration",
-          "publishedOn": "2022-02-16T16:47:01.000Z",
-          "wordCount": 1566,
-          "title": "Parent/Child Products in x2x eCommerce Shopify to Dynamics 365 Business Central Integration",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b7df4b8f-937d-4478-bbdf-cb8e4cab5404",
-          "author": "ERP Software Blog",
-          "description": "Microsoft Dynamics NAV is one of the most popular ERP systems in the world.  Right now, it's being used by at least 100,000 companies all over the world.  \nIn the blog on Sabre Limited's website titled \"Microsoft Dynamics on Azure | Should you move your NAV instance to the cloud?\", we look at the different reasons why you might want to run Dynamics NAV on Azure.  \nIn this short blog post, we take a higher-level look at the reasons.\nIn 2013, Microsoft released a version of the system that was also designed to run on the cloud. There are a lot of benefits of running Dynamics NAV on Azure, and these benefits are a lot more important in a world where most workers now have to work remotely.  \nOver the past two years, a lot of companies have discovered that running Dynamics NAV on Azure is the b…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/5-reasons-to-run-dynamics-nav-on-azure",
-          "publishedOn": "2022-02-16T15:16:12.000Z",
-          "wordCount": 1589,
-          "title": "5 Reasons To Run Dynamics NAV on Azure",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:60fb26be-780e-469f-b964-a2d927d07080",
-          "author": "ERP Software Blog",
-          "description": "Over the past few years, a lot more companies are coming to rely on ERP software for their operations. Right now, over a hundred thousand companies in diverse industries deploy ERP solutions as a core aspect of their business.  \nThat's because they recognize the different ways ERP solutions can help with operational bottlenecks and assist the company to be more productive.  \nHowever, if you're still on the fence and aren't sure if you should make the switch, here are some reasons you need to consider.  \nIn the blog on Sabre Limited titled \"5 Concerns Choosing Dynamics Business Central Manufacturing ERP\", we take a critical look at the reasons you should switch to Dynamics Business Central Manufacturing ERP. \nIn this review of that blog, we'll break down some of those reasons into shorter p…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/5-reasons-to-switch-to-dynamics-business-central-manufacturing",
-          "publishedOn": "2022-02-16T15:14:18.000Z",
-          "wordCount": 1711,
-          "title": "5 Reasons To Switch To Dynamics Business Central Manufacturing",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bf70137a-d7f3-43ce-a2de-660049e811d8",
-          "author": "ERP Software Blog",
-          "description": "Are you contemplating a new or updated ERP (Enterprise Resource Planning) solution? Microsoft Dynamics 365 BC ( Business Central) is a state-of-the-art business management solution designed to help companies connect their financials, sales, service, and operations. Dynamics 365BC enables you to automate and streamline business processes, improve customer interactions and make better decisions.\nIf you’ve been wondering if Microsoft Dynamics 365BC is right for your business, maybe we can help by pointing out seven reasons to upgrade to Dynamics 365BC:\n1. Functionality\nMicrosoft Dynamics 365BC is recommended for organizations that have outgrown entry-level accounting software or unsupported legacy ERP solutions. Business Central is great for small and mid-sized businesses that require increas…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/7-reasons-to-upgrade-to-microsoft-dynamics-365bc",
-          "publishedOn": "2022-02-16T14:03:05.000Z",
-          "wordCount": 1641,
-          "title": "7 Reasons to Upgrade to Microsoft Dynamics 365BC",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -3700,7 +3700,7 @@
           "description": "Follow these quick and easy steps to enable financial dimensions for Excel templates and OData scenarios in Dynamics 365 Finance & Operations. Using OData to import and work with data is often fas...(read more)",
           "link": "https://community.dynamics.com/ax/b/axinthefield/posts/add-financial-dimensions-and-lookups-to-excel-templates-in-d365-f-o",
           "publishedOn": "2021-11-18T17:24:41.000Z",
-          "wordCount": 1908,
+          "wordCount": 1909,
           "title": "Add Financial Dimensions and lookups to Excel templates in D365 F&O",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
@@ -3919,6 +3919,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "installing-the-power-platform-extension-for-vs-code-when-unable-to-install-directly-from-the-web",
+          "author": null,
+          "description": "Showing a different way to install the Power Platform extension for VS code when users are unable to install directly off the web",
+          "link": "https://powerapps.microsoft.com/en-us/blog/installing-the-power-platform-extension-for-vs-code-when-unable-to-install-directly-from-the-web/",
+          "publishedOn": "2022-02-23T10:20:06.000Z",
+          "wordCount": 790,
+          "title": "Installing the Power Platform extension for VS Code when unable to install directly from the web",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "power-platform-cli-january-update",
           "author": null,
           "description": "New updates for PAC CLI in January Refresh",
@@ -4006,16 +4016,6 @@
           "publishedOn": "2022-02-02T10:09:00.000Z",
           "wordCount": 974,
           "title": "Localizing content on a custom page",
-          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
-        },
-        {
-          "id": "how-to-use-environment-variables-with-akv-secrets-in-the-ci-cd-pipeline-when-deploying-applications",
-          "author": null,
-          "description": "Use CI/CD Pipeline to deploy application with Env Vars that reference Azure Key Vault Secrets",
-          "link": "https://powerapps.microsoft.com/en-us/blog/how-to-use-environment-variables-with-akv-secrets-in-the-ci-cd-pipeline-when-deploying-applications/",
-          "publishedOn": "2022-02-02T09:00:00.000Z",
-          "wordCount": 1608,
-          "title": "How to use Environment Variables with AKV Secrets in the CI/CD Pipeline when deploying applications",
           "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
         }
       ]
