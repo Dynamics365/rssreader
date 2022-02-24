@@ -1,4 +1,4 @@
-cacheUrl: https://github.com/Dynamics365/rssreader/cache.json
+cacheUrl: https://Dynamics365.github.io/finopsnews/cache.json
 sources:
   - href: https://nuxulu.com/posts/index.xml
   # Downloadable E-learning Courses
@@ -40,4 +40,11 @@ sources:
 cacheMaxDays: 2520
 
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
-siteTitle: "My Feeds"
+siteTitle: "Dynamics 365 Finance & Operations Feeds"
+# `timezone`: Specify your local timezone so server can group content by weekday
+# Find yours from the "TZ database name" column of this page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
+# Examples: America/Los_Angeles, America/New_York, Asia/Shanghai, Asia/Tokyo
+timezone: Asia/Bangkok
+
+
+# https://dynamics.fo/
