@@ -11,7 +11,7 @@
           "description": "While doing upgrade to the latest version Dynamics 365 Finance & Operations on tier 1 environment, you might got some errors related to DVT auto scripts.\n1. DVT script for service model: AOSService on machine\nAn error at step 72\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n\n\n\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Step>\n   <ID>72</ID>\n   <RunbookID>498de9aee46e403e9dcd97b40166775e</RunbookID>\n   <PackageId>dd4119e4331248d5a6ba9b987eef440d</PackageId>\n   <PackageType>PlatAppBinaryHotfixPackage</PackageType>\n   <CompletedManually>false</CompletedManually>\n   <Description>DVT script for service model: AOSService on machine: </Description>\n   <MachineName></MachineName>\n   <ServiceModelName>AOSService</ServiceModelName>\n   <ScriptToExecute>\n      <FileName>AutoRu…",
           "link": "https://nuxulu.com/2021-12-21-troubleshooting-dvt-script-for-service-model/",
           "publishedOn": "2021-12-21T00:00:00.000Z",
-          "wordCount": 580,
+          "wordCount": 588,
           "title": "Troubleshooting DVT script for service model - Dynamics 365 Finance & Operations Tier 1 Upgrade",
           "imageUrl": "https://nuxulu.com/2021-12-21-troubleshooting-dvt-script-for-service-model/lcs-72-73.png"
         },
@@ -21,7 +21,7 @@
           "description": "1. New Keyboard Shortcuts in Windows 11\nWindows 11 brings a few Keyboard Shortcuts for accessing its cool new features such as widgets, snap layouts, action center, and quick settings.\nFYI, Win key is the Windows Logo key on your keyboard.\nACTION\nSHORTCUTS KEYS\n\n\n\n\nOpen up the Widgets pane. It supplies you with the weather forecast, local traffic, news, and even your calendar.\nWin + W\n\n\nToggle up the Quick Settings. It controls the Volume, Wi-Fi, Bluetooth, Brightness sliders, Focus Assist, and other settings.\nWin + A\n\n\nBring up the Notification Center. It shows all your notifications in the OS.\nWin + N\n\n\nOpen the Snap Layouts flyout. It helps you organize apps and windows for multitasking.\nWin + Z\n\n\nOpen Teams Chat app from Taskbar. It helps you quickly select a chat thread directly from …",
           "link": "https://nuxulu.com/2021-11-05-windows-key-shortcuts/",
           "publishedOn": "2021-11-05T00:00:00.000Z",
-          "wordCount": 2282,
+          "wordCount": 2290,
           "title": "Windows keyboard shortcuts",
           "imageUrl": "https://nuxulu.com/2021-11-05-windows-key-shortcuts/featured-image.png"
         },
@@ -31,7 +31,7 @@
           "description": "Subject Area Object Prefix\nA subject area specific application object is prefixed with the name of the subject area the object belongs to, for example Cust*, Invent*, Ledger*, Proj*, Vend*.\nExample\n        \nWMSOrderSplit\nCustBankAccount\nCustBalanceCurrency\nInventAccountType\nApplication Area Object Prefix\nAn application area object is prefixed with the name of the application area the object belongs to.\nExample\n        \nAif*\nSys*\nWhen creating new elements, ensure that you follow the recommended naming conventions. Any future development and maintenance will be much easier.\nAx Microsoft Dynamics AX typed data source\nAxd Microsoft Dynamics AX business document\nAsset Asset management\nBOM Bill of material\nCOS Cost accounting\nCust Customer\nDir Directory, global address book\nEcoRes Economic resources\nHRM/HCM Human resources\nInvent Inventory management\nJMG Shop flor control\nKM Knowledge management\nLedger General ledger\nPBA Product builder\nProd Production\nProj Project\nPurch Purchase\nReq Requirements\nSales Sales\nSMA Service management\nSMM Sales and marketing management, also called customer relationship management (CRM)\nSys Application frameworks and development tools\nTax Tax engine\nVend Vendor\nWeb Web framework\nWMS Warehouse management",
           "link": "https://nuxulu.com/2021-10-20-common-prefixes-dyanmics-ax/",
           "publishedOn": "2021-10-20T00:00:00.000Z",
-          "wordCount": 272,
+          "wordCount": 280,
           "title": "Naming Conventions - Common Prefixes Dyanmics AX",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
@@ -41,7 +41,7 @@
           "description": "Go to the directory and run the following command:\nfor /f \"Tokens=*\" %f in ('dir /l/b/a-d') do (rename \"%f\" \"%f\")\nfor /f “Tokens=*” %%f in (‘dir /l/b/a-d’) do (rename “%%f” “%%f”)\nrename folders\nfor /f \"Tokens=*\" %f in ('dir /l/b') do (rename \"%f\" \"%f\")\nRecursive version (added /r to dir)\nfor /f \"Tokens=*\" %f in ('dir /l/b/a-d/s') do (rename \"%f\" \"%f\")",
           "link": "https://nuxulu.com/2021-10-10-batch-rename-files-to-lowercase/",
           "publishedOn": "2021-10-10T08:29:41.000Z",
-          "wordCount": 151,
+          "wordCount": 159,
           "title": "Batch rename files to lowercase?",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
@@ -51,7 +51,7 @@
           "description": "Introduction to Office client customization with add-ins\nExplain how Office add-ins extend and customize Office applications\nDescribe the development tooling, APIs, and deployment of Office add-ins\nUnderstand how to incorporate data with Microsoft Graph and extend Office applications with add-ins using the Office UI Fabric\n1. Understand Office add-ins fundamentals\n1.1. Understand task pane and content add-ins\n1.1.1. Task pane add-ins\nTask pane add-ins allow user interaction through a panel displayed within an Office application. Through the task pane interface, you can enable the user to modify documents or emails, view data from a data source, and more. In the following image, the task pane is the panel that’s displayed to the right of the document.\n\nIn newer versions of Word, Excel, and …",
           "link": "https://nuxulu.com/2021-10-07-extend-microsoft-365/",
           "publishedOn": "2021-10-08T00:00:00.000Z",
-          "wordCount": 6574,
+          "wordCount": 6582,
           "title": "Extend Microsoft 365 with office add-ins",
           "imageUrl": "https://nuxulu.com/2021-10-07-extend-microsoft-365/featured-image.png"
         },
@@ -61,7 +61,7 @@
           "description": "1. Install\nConfigure user information for all local repositories\n$ git config --global user.name \"[name]\"\nSets the name you want attached to your commit transactions\n$ git config --global user.email \"[email address]\"\nSets the email you want attached to your commit transactions\n$ git config --global color.ui auto\nEnables helpful colorization of command line output\n2. Branches\nbraching\n\">\n        \n    Branching\n    \nBranches are an important part of working with Git. Any commits you make will be made on the branch you’re currently “checked out” to. Use git status to see which branch that is.\n$ git branch [branch-name]\nCreates a new branch\n$ git switch -c [branch-name]\nSwitches to the specified branch and updates the working directory\n$ git merge [branch]\nCombines the specified branch’s histo…",
           "link": "https://nuxulu.com/2021-10-08-git-cheatsheet/",
           "publishedOn": "2021-10-08T00:00:00.000Z",
-          "wordCount": 999,
+          "wordCount": 1007,
           "title": "Git & Github cheatsheet",
           "imageUrl": "https://nuxulu.com/2021-10-08-git-cheatsheet/git-basic-design.png"
         },
@@ -71,7 +71,7 @@
           "description": "ODATA actions in Data Entities provide a way to inject behaviors into the data model, or expose custom business logic from Dynamics 365 Finance & Operations.\nYou can add actions by adding a method to the data entity and then decorating the method with specific attributes [SysODataActionAttribute]\nI use this Odata actions mostly in automation job like after refreshing data from PROD to UAT, we need to enable users, assign company to users, enable batches …\nOr simply consume it in Power Automate.\n1. Create an action to OData entity\nYou can create a new entity following this standard docs\nor you can duplicate any standard entity. I created AutomationDataEntity. Right-click the enitity, select View code and add the code\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24…",
           "link": "https://nuxulu.com/2021-05-25-all-about-odata-actions-in-dynamics-365-finance-and-operations/",
           "publishedOn": "2021-05-25T00:00:00.000Z",
-          "wordCount": 1042,
+          "wordCount": 1050,
           "title": "All about Odata actions in Dynamics 365 Finance And Operations",
           "imageUrl": "https://nuxulu.com/2021-05-25-all-about-odata-actions-in-dynamics-365-finance-and-operations/dodatapostman.png"
         },
@@ -81,7 +81,7 @@
           "description": "Open Windows PowerShell in Admin mode\nNavigate to the PowerShell scripts\n\n\n\n1\n\n\n\ncd K:\\AosService\\PackagesLocalDirectory\\Plugins\\AxReportVmRoleStartupTask\\\n\n\n\n\n\nExecute the below commands:\nFor deploying all SSRS reports\n\n\n\n1\n\n\n\n./DeployAllReportsToSSRS.ps1 -PackageInstallLocation “K:\\AosService\\PackagesLocalDirectory”\n\n\n\n\n\nFor deploying the specific reports\n\n\n\n1\n\n\n\n./DeployAllReportsToSSRS.ps1 -Module ApplicationSuite -ReportName <ReportName> -PackageInstallLocation “K:\\AosService\\PackagesLocalDirectory”\n\n\n\n\n\nExample:\n\n\n\n1\n\n\n\n./DeployAllReportsToSsrs.ps1 -Module MaxCustomization -ReportName MaxCheque_US.Report -PackageInstallLocation \"K:\\AosService\\PackagesLocalDirectory\"\n\n\n\n\n\n\n\n\n1\n\n\n\n./DeployAllReportsToSsrs.ps1 -Module ApplicatoinSuite -ReportName Cust* -PackageInstallLocation \"C:\\AosService\\PackagesLocalDirectory\"",
           "link": "https://nuxulu.com/2021-01-27-deploy-ssrs-reports-in-dynamics-365-finance-scm-using-powershell/",
           "publishedOn": "2021-01-17T00:00:00.000Z",
-          "wordCount": 164,
+          "wordCount": 172,
           "title": "Deploy SSRS reports in Dynamics 365 Finance, SCM using Powershell",
           "imageUrl": "https://nuxulu.com/2021-01-27-deploy-ssrs-reports-in-dynamics-365-finance-scm-using-powershell/Deploy-SSRS-reports-in-Dynamics-365-Finance.png"
         },
@@ -91,7 +91,7 @@
           "description": "Microsoft provides a versioned set of capabilities that you can currently use to copy databases between environments, and to list and download database backups.\nwhat you can do with Database movement API so far:\nList database backups\nCreate database refresh\nCreate a database export\nGet operation activity status\nMore supported actions will be added in later releases.\nThe endpoint uses impersonation authentication base, please follow to register a new application by using the Azure portal\n1. Postman environment setup\nOpen Postman -> manage environments -> Add\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n\ntenant_id: {tenant_id get from AAD}\nclient_id: {get from the application that you have created before}\nclient_secret: {get from the application that you have created before}\nusername: {LCS user name with owner pe…",
           "link": "https://nuxulu.com/2020-08-17-testing-dynamics-365-finance-database-movement-api-with-postman/",
           "publishedOn": "2020-08-17T00:00:00.000Z",
-          "wordCount": 540,
+          "wordCount": 548,
           "title": "Testing Dynamics 365 Finance Database Movement API with Postman",
           "imageUrl": "https://nuxulu.com/2020-08-17-testing-dynamics-365-finance-database-movement-api-with-postman/2020-08-17-testing-dynamics-365-finance-database-movement-api-with-postman.png"
         },
@@ -101,7 +101,7 @@
           "description": "Today, we published the 2020 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform, a compilation of new capabilities that will be released between October 2020 and March 2021. This second release wave of the year offers hundreds of new features and enhancements, demonstrating our continued investment to power digital transformation for our customers and partners.\nHighlights from Dynamics 365\nDynamics 365 Sales includes updates for more simplified experiences; including collaboration tools, a new mobile experience for quick access to customer information, and new enhancements to forecasting to natively create and manage bottom-up sales forecast processes.\nDynamics 365 Sales Insights continues investments in digital selling across multiple areas: sales acceleration, c…",
           "link": "https://nuxulu.com/2020-08-15-dynamics365/",
           "publishedOn": "2020-08-15T00:00:00.000Z",
-          "wordCount": 1610,
+          "wordCount": 1618,
           "title": "Microsoft Dynamics 365",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         }
@@ -731,163 +731,6 @@
           "publishedOn": "2021-11-15T12:00:00.000Z",
           "wordCount": 931,
           "title": "MSDW Podcast: Document visibility across Dynamics applications",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        }
-      ]
-    },
-    {
-      "title": "ERP SoftwareBlog - AX",
-      "feedUrl": "https://community.dynamics.com/ax/b/erpsoftwareblog/rss",
-      "siteUrl": "https://community.dynamics.com/ax/b/erpsoftwareblog",
-      "articles": [
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:6404f7d9-6645-4446-8929-47988bafe4a7",
-          "author": "ERP Software Blog",
-          "description": "Firms on BST or Deltek AEC ERP software have a choice to make: Re-platform their ERP system using the same software developer? Or is there a different, newer approach to their AEC ERP needs? We’ve talked to many firms currently using BST or Deltek who have recently decided to implement aec360 by HSO and Microsoft Dynamics 365 instead of re-platforming, and we’ve gathered a lengthy list of reasons why. Here are the 10 most popular responses from these firms.\n#1: Firms using aec360 have the advantage with Microsoft’s $19B investment in R&D\nInvesting in Microsoft came up as the number one reason for choosing aec360 as their AEC ERP software, which is important to note. AEC firms using other ERP software understood the power of Microsoft’s $19B annual R&D budget and made the decision to move t…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/why-are-aec-firms-choosing-aec360-over-deltek-or-bst-here-are-10-very-good-reasons",
-          "publishedOn": "2022-02-23T16:40:20.000Z",
-          "wordCount": 1991,
-          "title": "Why are AEC Firms Choosing aec360 Over Deltek or BST? Here are 10 Very Good Reasons",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:001e53a6-5f03-4bd2-bb07-0f9d47057dc2",
-          "author": "ERP Software Blog",
-          "description": "As a business owner, you know how important it is to protect your data. It’s also important to ensure continuity of business operations in the face of natural disasters. Cloud providers are dedicated to delivering the safety and security you need. They have adopted the best technology and best practices for dealing with any threats and ensuring Cloud security.\nIn part 1 of this series, we discussed 3 of the 7 Cloud security questions. In part 2, we’ll talk about who manages security in the Cloud, what types of security are available, whether the Microsoft Cloud is secure, and compliance and governance in the Cloud.\n 4. Who will manage security in the Cloud? \nYou need to know who will be responsible for the various aspects of your Cloud security. Even though your Cloud provider promises sec…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/7-cloud-security-questions-answered---part-2",
-          "publishedOn": "2022-02-23T15:24:40.000Z",
-          "wordCount": 1889,
-          "title": "7 Cloud Security Questions Answered - Part 2",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e4d49040-4433-4569-baa3-2f7bc3c989af",
-          "author": "ERP Software Blog",
-          "description": "Retailers fixate on expansion, whether entering a new market, investing in an omnichannel approach, developing new products, or partnering with other brands. In an industry primed for growth, it’s often challenging to take a step back and consider the backbone holding all these lofty goals upright. Many retailers fail simply because they haven’t taken the time to put robust financial processes and systems in place.\nMany may wonder if there’s a way to build a financial backbone before your retail expansion fails. What’s critical for many brands is shifting their perspective. Can they begin to embrace transformation as a prerequisite for growth? Without taking this crucial step in mindset, retailers will struggle to take the steps needed to tap into long-term growth.\nThere are many benefits to retail transformation. Some of these include:\nIncreased agility\nBetter customer service\nProcess automation\nStrengthened security\nSimplified compliance\nEnhanced collaboration\nFacilitate globalization\nFreedom to innovate\nThe risks that brands face when they fail to embrace financial transformation are manifold. They often end up expecting their finance teams to handle incredible workloads without the tools and processes they need to complete that work accurately. \nStressed teams relying on inaccurate data and bottlenecks cannot make sound strategic decisions. If you’d like to learn more about how financial transformation is the key to your expansion, visit our blog that sets out some of the recommended practices for retailers focused on growth.\nThe post Why you need to create a financial backbone to maximize retail expansion appeared first on ERP Software Blog.\nRelated posts:\nMove with equipment-driven market trends easily with DynaRent for Microsoft Dynamics 365 \nTop 3 “must haves” for equipment rental ERP software \nFirst Time at Reporting Implementation? Tips and Tricks!",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/why-you-need-to-create-a-financial-backbone-to-maximize-retail-expansion",
-          "publishedOn": "2022-02-23T13:55:10.000Z",
-          "wordCount": 1297,
-          "title": "Why you need to create a financial backbone to maximize retail expansion",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:89605854-5807-452c-a28d-93e8162c8e53",
-          "author": "ERP Software Blog",
-          "description": "enChoice, a global enterprise content management and digital transformation solutions company, welcomes Sypht, an AI-driven online OCR platform provider to the family. Sypht joins KwikTag in the software division of enChoice. Together, the companies will empower organizations to unlock the value of their critical financial data and information hidden in unstructured documents. The solutions will reduce the time and resources required to manage their corporate spend.\nThis strategic merger delivers extensive value to both organizations, as well as their customers and partners. The Sypht team and product set will gain dedicated resources, investment and focus to deliver new products and features to the market faster. The Sypht customer base will benefit from additional development expertise t…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/enchoice-and-sypht-announce-merger-to-expand-ai-software-footprint",
-          "publishedOn": "2022-02-23T13:54:14.000Z",
-          "wordCount": 1724,
-          "title": "enChoice and Sypht Announce Merger to Expand AI Software Footprint",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3a2cdafc-4769-48bb-94e0-d5f38a0bd2f6",
-          "author": "ERP Software Blog",
-          "description": "DynamicPoint has integrated its Office 365 based AP invoice automation product with MIP Fund Accounting by Community Brands. The product is entirely built within the Office 365 ecosystem and leverages SharePoint for document retention and Power Automate for workflow. Read more here: https://www.dynamicpoint.com/ap-invoice-automation-for-mip-fund-accounting/\n\nThe post DynamicPoint Integrates with MIP Fund Accounting by Community Brands appeared first on ERP Software Blog.\nRelated posts:\nBarcoding: Simplify Common Inventory Challenges with Microsoft Dynamics GP \n\"What If\" Scenarios Help to Align your ERP Software Security Needs with your Software as a Service (SaaS) Provider \nWhat Deployment Options Are Available for Microsoft Dynamics Customers?",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/dynamicpoint-integrates-with-mip-fund-accounting-by-community-brands",
-          "publishedOn": "2022-02-23T12:21:51.000Z",
-          "wordCount": 1102,
-          "title": "DynamicPoint Integrates with MIP Fund Accounting by Community Brands",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:51a4810a-dd10-41c1-8d0b-7501c16aca8d",
-          "author": "ERP Software Blog",
-          "description": "In the previous blog post, we looked at the unique challenges faced by the Semiconductor and IoT industry companies during production ramp. We know that the industry landscape is changing rapidly and with this ramping of organizations is getting more complex. To address this complexity, a thorough understanding of a start-up’s life cycle is necessary. Typically start-ups go through a 3-phase growth lifecycle from pre-ramp stage to production ramp to production breadth stage.\nThe following excerpt from a recent Tensoft webcast – “Challenges to Scaling Production Ramp” – describes the 3 distinct growth phases of start-up’s lifecycle.\n\nWith each stage the operational complexity increases, as the focus of supply chain execution shifts from establishing vendor relationships to timely production…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/an-overview-of-start-ups-life-cycle",
-          "publishedOn": "2022-02-22T19:21:45.000Z",
-          "wordCount": 1304,
-          "title": "An Overview of Start-ups Life Cycle",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3d50d263-8f3a-494a-b7cd-67bf448a138b",
-          "author": "ERP Software Blog",
-          "description": "Things have changed a lot in the last two years. Remote working, which we thought would be a stopgap measure for a few weeks, has become a way of life for many. Read on to see how Microsoft Power BI helps remote workers succeed.\nThe Questions\nHow has having a remote workforce affected your business? How has it impacted your performance? Do you have the necessary infrastructure to allow employees to connect remotely and work effectively and efficiently?\nOnce you’ve straightened out the logistics, the next priority is ensuring everyone has access to the data they need to make informed and strategic decisions.  Without reliable and relevant data, management and employees will be in the dark about which direction to pursue.\nHow can everyone access the data needed to keep the business running s…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/microsoft-power-bi-helps-remote-workers-succeed",
-          "publishedOn": "2022-02-22T05:03:31.000Z",
-          "wordCount": 1710,
-          "title": "Microsoft Power BI Helps Remote Workers Succeed",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5f6fcd95-1eac-44fa-a07e-b64e6518d691",
-          "author": "ERP Software Blog",
-          "description": "A Midwest retailer struggling to properly manage and account for their inventory turned to The TM Group for help.\n \nThis retailer was in need of an integrated accounting, inventory and POS solution that was robust enough to support not only their current stores but also new stores they planned to open as the company continues to grow. The TM Group knew that Microsoft Dynamics 365 Business Central with LS Retail’s embedded apparel and fashion POS system would fit their new system requirements perfectly.\n \nMicrosoft Dynamics 365 Business Central is an enterprise resource planning software program that enables mid-size and large organizations to streamline their day-to-day business activities. \n \nClick here to see how The TM Group helped this Midwest retailer centralize their financials by implementing Microsoft Dynamics 365 along with LS Retail’s LS Central software. \n \nThe post Inventory Management Back on Track for Retailer with Microsoft Dynamics 365 Business Central POS Solution appeared first on ERP Software Blog.\nRelated posts:\nManufacturing & Distribution Add-Ons for Business Central \nInsight Works Announces Release of Shop Floor Insight Add-On for Dynamics 365 Business Central Cloud \nWhy you should choose Microsoft Dynamics 365 Business Central for your business?",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/inventory-management-back-on-track-for-retailer-with-microsoft-dynamics-365-business-central-pos-solution",
-          "publishedOn": "2022-02-21T21:09:42.000Z",
-          "wordCount": 1209,
-          "title": "Inventory Management Back on Track for Retailer with Microsoft Dynamics 365 Business Central POS Solution",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a929c1b5-af94-46c5-8797-241c333b09ce",
-          "author": "ERP Software Blog",
-          "description": "Nowadays, most business organizations have been using some sort of document management. Either it is on paper, or online. While we at MetaOption have encouraged businesses to digitize documents for years, many businesses are just starting to move their Document Management System (DMS) into the cloud. Look why cloud-based document management systems are becoming so popular that they are the norm rather than the exception.\nBenefits of cloud-based document management?\nManaging documents and data into the cloud offers a variety of benefits which includes:\nRobust Data Backup\nWith cloud-based DMS, every sort of data is backed up, ensuring that you will not lose any important information. This precious information helps your business organization to make better decisions and keep business moving.…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/future-is-in-the-cloud-cloud-based-document-management-system-for-dyn365bc",
-          "publishedOn": "2022-02-21T20:16:20.000Z",
-          "wordCount": 1912,
-          "title": "Future is in the Cloud: Cloud-based Document Management System for Dyn365BC",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c484538f-a55c-4454-bb97-2d708d72bc56",
-          "author": "ERP Software Blog",
-          "description": "It is a known fact that eCommerce solutions developed on top of Microsoft Dynamics GP and other ERP solutions do not dominate the market as they once used to be. The trend has changed, and there has been a very fast adaption of Enterprise eCommerce by the companies selling online.\nMarket Trend by https://builtwith.com/\nThis graph is a typical example of how there is a significant change in the behavior of companies has been having an online presence. More and more companies are opting out of the solutions developed on an ERP and moving towards Enterprise solutions.\nERP-based eCommerce's inherent shortcoming to adapt quickly in this fast-paced marketplace is the biggest reason for this paradigm shift. These companies are small compared to enterprise eCommerce solution companies, and compani…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/the-power-of-ecommerce-solutions-driven-by-microsoft-dynamics-gp",
-          "publishedOn": "2022-02-21T16:00:27.000Z",
-          "wordCount": 1587,
-          "title": "The Power of eCommerce solutions driven by Microsoft Dynamics GP",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:85c4a614-be9a-448c-8746-2a891b76adca",
-          "author": "ERP Software Blog",
-          "description": "Microsoft Dynamics licensing is quite complicated, and that's why you need a partner with experience and expertise to break it down. \nThere are a lot of factors to control for when explaining just how the product is licensed. We go into more details in our blog post titled How To Calculate Dynamics 365 Prices Business Central Licenses in our post on Sabre Limited.\nHowever, right now we can break down the process into simple tidbits to give you an idea of how the entire process works with Microsoft. \nOur Assumptions\nBefore we start, we are assuming a few things. The first is that you run a small to medium-sized business, and you would need the Sales Professional and not the Sales Enterprise nor the Customer Service Modules.\nThe second assumption is that your company is interested in Microso…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/how-is-microsoft-dynamics-licensed",
-          "publishedOn": "2022-02-20T00:31:26.000Z",
-          "wordCount": 1539,
-          "title": "How Is Microsoft Dynamics Licensed",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:663924c7-c0fe-4fde-8262-c97db4134605",
-          "author": "ERP Software Blog",
-          "description": "There are no easy answers to that question. That's because what companies consider expensive varies and is mostly determined by the value the commodity provides.\nThe relevant question, instead, should be whether Dynamics 365 solutions are a good investment and worth whatever price they command.\nIn this short blog post, we take a stab at demystifying the pricing of Dynamics 365, whether it be for Business Central, Sales, Customer Service, or Finance and Operations, and try to help you understand what you need to budget for.  For a deeper look into this topic, we have a fuller blog post on it you can read here.\nDynamics Pricing\nThe pricing of Dynamics 365 can be quite opaque — if you don't know what to ask for. The first mistake that companies tend to make is to assume that purchasing the so…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/is-microsoft-dynamics-365-expensive",
-          "publishedOn": "2022-02-18T23:32:33.000Z",
-          "wordCount": 1614,
-          "title": "Is Microsoft Dynamics 365 Expensive?",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:77894283-9a23-4d17-89aa-3d17161ff9f2",
-          "author": "ERP Software Blog",
-          "description": "The post COVID world is entirely different from the world we have lived in before. Things have changed, some for the time being and some perhaps forever. One such change is customer behavior and the adaption of online buying as the new way of life. x2x eCommerce Integration of Shopify with Navision, connected to Dynamics 365 Business Central, makes it easy for the organizations to expand their reach and sell on the web using Shopify, the power of the top-of-the-line eCommerce solution available in the market.\n\nWhy x2x for Shopify and Navision Integration?\nx2x Shopify and Dynamics Navision Integration by x2x-eCommerce is a native solution for Dynamics Nav that works inside Dynamics Nav as an add-on solution. The solution provides a familiar interface to the Nav users and requires much less …",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/x2x-ecommerce-integration-of-shopify-with-navision",
-          "publishedOn": "2022-02-18T15:39:31.000Z",
-          "wordCount": 1741,
-          "title": "x2x eCommerce Integration of Shopify with Navision",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:93fcb31b-a98f-4102-83de-ea0fd6f5d6d3",
-          "author": "ERP Software Blog",
-          "description": "Dynamics 365 Customer Service brings a rich set of capabilities across self-service support, tailored customer service engagements, and rich knowledge base portals that aid in improving agent effectiveness and customer satisfaction. But with the general availability of the first-party voice channel for Microsoft Dynamics 365 Customer Service, the platform has now become an all-in-one digital contact center solution. What makes Dynamics 365 Customer Service the ideal digital contact center, and how can organizations leverage the platform to deliver consistent and personalized service to customers across all channels? Let’s find out!\nThe Introduction of Voice\nAt the 2021 Microsoft Ignite event, Microsoft announced the launch of the voice channel for Dynamics 365 Customer Service, a big annou…",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/here-s-how-you-can-create-an-all-in-one-digital-contact-center-with-dynamics-365-customer-service",
-          "publishedOn": "2022-02-18T10:14:30.000Z",
-          "wordCount": 1807,
-          "title": "Here’s How You can Create an All-in-One Digital Contact Center with Dynamics 365 Customer Service",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:16abf2e0-9f69-4e7d-a558-de852ea640a6",
-          "author": "ERP Software Blog",
-          "description": "JourneyTEAM was recognized for its excellence in providing ERP systems within the financial software world during 2021.\n \nEach year, Bob Scott, leader of VAR Stars Top 100, publishes a list recognizing the top companies for their achievements within the financial software world. Bob has been an expert within this sector for more than 30 years and strives to highlight businesses that exemplify success throughout the industry. \n“Each year, 100 VAR Stars are picked from the best organizations that market financial software. It is always an honor to recognize those who contribute to the development of our business,” Bob Scott said.\nLast year, JourneyTEAM was proud to be among the list of top deserving companies. It was our work in assisting clients to implement the entire Microsoft technology …",
-          "link": "https://community.dynamics.com/ax/b/erpsoftwareblog/posts/journeyteam-awarded-2021-var-star-recognition",
-          "publishedOn": "2022-02-17T23:58:58.000Z",
-          "wordCount": 1358,
-          "title": "JourneyTEAM Awarded 2021 VAR Star Recognition",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -4774,7 +4617,7 @@
           "description": "One of my favorite features that is both a power user function and an ease-of-use tool is the native Excel integration throughout Dynamics 365 F&O. With the native Excel integration to create, del...(read more)",
           "link": "https://community.dynamics.com/ax/b/axinthefield/posts/how-to-modify-a-journal-template-in-dynamics-365",
           "publishedOn": "2022-01-12T21:18:30.000Z",
-          "wordCount": 1704,
+          "wordCount": 1703,
           "title": "How to modify a journal template in Dynamics 365",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
@@ -4794,7 +4637,7 @@
           "description": "Today I'm going to do a quick introduction to the three different budget modules that are available for general-ledger level budgeting. After reading this post, you'll have a basic understandi...(read more)",
           "link": "https://community.dynamics.com/ax/b/axinthefield/posts/what-budget-options-are-available-in-dynamics-365-finance",
           "publishedOn": "2021-12-13T16:00:34.000Z",
-          "wordCount": 1612,
+          "wordCount": 1610,
           "title": "What budget options are available in Dynamics 365 Finance",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
@@ -4824,7 +4667,7 @@
           "description": "Follow these quick and easy steps to enable financial dimensions for Excel templates and OData scenarios in Dynamics 365 Finance & Operations. Using OData to import and work with data is often fas...(read more)",
           "link": "https://community.dynamics.com/ax/b/axinthefield/posts/add-financial-dimensions-and-lookups-to-excel-templates-in-d365-f-o",
           "publishedOn": "2021-11-18T17:24:41.000Z",
-          "wordCount": 1907,
+          "wordCount": 1906,
           "title": "Add Financial Dimensions and lookups to Excel templates in D365 F&O",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
