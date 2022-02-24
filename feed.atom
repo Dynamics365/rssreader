@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/Dynamics365/rssreader/index.html</id>
-    <title>My Feeds</title>
-    <updated>2022-02-24T08:32:21.680Z</updated>
+    <id>https://Dynamics365.github.io/finopsnews/index.html</id>
+    <title>Dynamics 365 Finance &amp; Operations Feeds</title>
+    <updated>2022-02-24T10:59:06.713Z</updated>
     <generator>osmosfeed 1.14.4</generator>
-    <link rel="alternate" href="https://github.com/Dynamics365/rssreader/index.html"/>
-    <link rel="self" href="https://github.com/Dynamics365/rssreader/feed.atom"/>
+    <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
+    <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get More from Your Microsoft Dynamics GP]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=86600</id>
+        <link href="https://www.erpsoftwareblog.com/2022/02/how-to-get-more-from-your-microsoft-dynamics-gp/"/>
+        <updated>2022-02-24T10:38:07.000Z</updated>
+        <summary type="html"><![CDATA[For decades Microsoft Dynamics GP (Great Plains) has been the go-to ERP (Enterprise Resource Planning) solution for small and midsize businesses of all sorts. Dynamics GP manages accounting, inventory management, human resources, and a variety of other processes. The solution can help organizations succeed by improving cash flow, increasing margins, fixing current and preventing future …
+  How to Get More from Your Microsoft Dynamics GP Read More »
+The post How to Get More from Your Microsoft Dynamics GP appeared first on ERP Software Blog.
+Dynamics GP Training –Why it Really is THAT important  – Part I 
+2010 McGladrey Microsoft Dynamics Summit in Philadelphia, PA 
+Implementing Dynamics GP – The Importance of Refresher Training]]></summary>
+        <author>
+            <name>Dexpro Dynamics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 Service Offerings]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c07795f3-0d48-4c92-87b4-1b5fd268caab</id>
