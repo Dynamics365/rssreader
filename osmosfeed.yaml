@@ -9,7 +9,8 @@ sources:
   # AX News
   - href: https://community.dynamics.com/ax/b/axmsdwnews/rss
   - href: https://community.dynamics.com/ax/b/erpsoftwareblog/rss
-  # - href: https://www.erpsoftwareblog.com/feed/
+  - href: https://dynamics.fo/rss.xml
+  - href: https://www.erpsoftwareblog.com/feed/
   # AX Blogs
   - href: http://www.everythingdynamicsaxbi.com/category/dynamics-365-for-finance-and-operations/feed/
   - href: https://alexdmeyer.com/dynamics-365-for-finance-and-operations-blog/feed/
