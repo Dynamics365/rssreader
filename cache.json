@@ -848,6 +848,36 @@
       "siteUrl": "https://www.erpsoftwareblog.com",
       "articles": [
         {
+          "id": "https://www.erpsoftwareblog.com/?p=86613",
+          "author": "HSO",
+          "description": "Manufacturing businesses are becoming increasingly predictive, adaptive, and responsive as a result of improvements made following 18 months of disruption, lockdowns, and shortages Before the Coronavirus pandemic, 59 percent of manufacturing executives characterized their company’s production operation as ‘highly agile’ or ‘extremely agile’. By means of improvements to internal data collection, sharing, and analysis, along …\n  As the Pandemic Slowly Winds Down, Three in Four manufacturers Rank Their Production Processes as ‘Highly Agile’ Read More »\nThe post As the Pandemic Slowly Winds Down, Three in Four manufacturers Rank Their Production Processes as ‘Highly Agile’ appeared first on ERP Software Blog.\nFast ROI For Manufacturing Companies And Distributors From Your ERP \nThriving in the Turbulent World of High Tech Manufacturing \nYou’ve Watered The Flowers, Now Watch Them Grow",
+          "link": "https://www.erpsoftwareblog.com/2022/02/as-the-pandemic-slowly-winds-down-three-in-four-manufacturers-rank-their-production-processes-as-highly-agile/",
+          "publishedOn": "2022-02-24T14:49:58.000Z",
+          "wordCount": 2103,
+          "title": "As the Pandemic Slowly Winds Down, Three in Four manufacturers Rank Their Production Processes as ‘Highly Agile’",
+          "imageUrl": "https://www.erpsoftwareblog.com/wp-content/uploads/Cloud-migration-service-structure-1024x512-1-300x150.png"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=86609",
+          "author": "MetaOption LLC",
+          "description": "What is an ERP system? An ERP system consists of apps and tools that help every department of your business to connect with each other more effectively. You know efficiency and profitability are two of the most significant keys to success in business. ERP systems typically contain consoles connected to a central database that lets users look …\n  How useful will be an ERP System? Choose the right one for your Organization Read More »\nThe post How useful will be an ERP System? Choose the right one for your Organization appeared first on ERP Software Blog.\nTop 5 ways Microsoft Dynamics 365 Business Central helps Manufacturers \nWhat does Dynamics 365 Business Central 2021 wave 2 release offer to your business? \nWhy to upgrade from Microsoft Dynamics NAV to Dynamics 365 Business Central Cloud?",
+          "link": "https://www.erpsoftwareblog.com/2022/02/importance-of-an-erp-system/",
+          "publishedOn": "2022-02-24T14:26:59.000Z",
+          "wordCount": 1770,
+          "title": "How useful will be an ERP System? Choose the right one for your Organization",
+          "imageUrl": "https://www.erpsoftwareblog.com/wp-content/uploads/post-banner-1-23.jpg"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=86585",
+          "author": "Binary Stream",
+          "description": "Many companies’ growth is hindered from a misalignment between the expectations put on finance and the resources at their disposal. Without investing in best-in-class finance tools and expertise, it can be nearly impossible to truly thrive in today’s climate. The following resources can help your company assess whether it would benefit from a financial transformation …\n  The stream | Your financial transformation journey starts here Read More »\nThe post The stream | Your financial transformation journey starts here appeared first on ERP Software Blog.\n25 Questions to Assess Your Financial and Membership Management Systems \nBinary Stream - Did You Know - Weekly Tips - Multi-Entity Management - PART 2 \nBinary Stream - Did You Know - Weekly Tips - Multi-Entity Management - New Entity Setup Wizard",
+          "link": "https://www.erpsoftwareblog.com/2022/02/the-stream-your-financial-transformation-journey-starts-here/",
+          "publishedOn": "2022-02-24T13:15:01.000Z",
+          "wordCount": 1776,
+          "title": "The stream | Your financial transformation journey starts here",
+          "imageUrl": "https://www.erpsoftwareblog.com/wp-content/uploads/Your-financial-transformation-journey-starts-here-1-625x352.png"
+        },
+        {
           "id": "https://www.erpsoftwareblog.com/?p=86600",
           "author": "Dexpro Dynamics",
           "description": "For decades Microsoft Dynamics GP (Great Plains) has been the go-to ERP (Enterprise Resource Planning) solution for small and midsize businesses of all sorts. Dynamics GP manages accounting, inventory management, human resources, and a variety of other processes. The solution can help organizations succeed by improving cash flow, increasing margins, fixing current and preventing future …\n  How to Get More from Your Microsoft Dynamics GP Read More »\nThe post How to Get More from Your Microsoft Dynamics GP appeared first on ERP Software Blog.\nDynamics GP Training –Why it Really is THAT important  – Part I \n2010 McGladrey Microsoft Dynamics Summit in Philadelphia, PA \nImplementing Dynamics GP – The Importance of Refresher Training",
@@ -4885,6 +4915,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-tenant-level-hygiene-analytics-for-power-apps",
+          "author": null,
+          "description": "The latest updates to the Tenant-level analytics include interactive controls that make it a snap to identify stale and orphaned Power Apps deployed across multiple environments or the entire tenant.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-tenant-level-hygiene-analytics-for-power-apps/",
+          "publishedOn": "2022-02-24T09:00:00.000Z",
+          "wordCount": 742,
+          "title": "Announcing Tenant-level hygiene analytics for Power Apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "installing-the-power-platform-extension-for-vs-code-when-unable-to-install-directly-from-the-web",
           "author": null,
