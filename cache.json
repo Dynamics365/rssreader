@@ -848,6 +848,26 @@
       "siteUrl": "https://www.erpsoftwareblog.com",
       "articles": [
         {
+          "id": "https://www.erpsoftwareblog.com/?p=86663",
+          "author": "iCepts Technology Group, Inc.",
+          "description": "E-commerce, especially in B2B, is and has been going through a transformation. The market is changing and the way your customers approach their purchasing journey has also changed. As a result, more and more companies are adding an online sales channel to their business. Companies that do not have real-time connectivity from their E-Commerce webstore …\n  Connect E-Commerce to Dynamics ERP for Greater Profits! Read More »\nThe post Connect E-Commerce to Dynamics ERP for Greater Profits! appeared first on ERP Software Blog.\n[Webinar] Solving ECommerce Challenges with Sana Commerce for Dynamics \nHow Today’s Wine Distributors Wow Customers with Integrated eCommerce + ERP \nSTOP! Don't buy Shopify for your B2B eCommerce Store",
+          "link": "https://www.erpsoftwareblog.com/2022/02/connect-e-commerce-to-dynamics-erp-for-greater-profits/",
+          "publishedOn": "2022-02-28T19:48:45.000Z",
+          "wordCount": 1674,
+          "title": "Connect E-Commerce to Dynamics ERP for Greater Profits!",
+          "imageUrl": "https://www.erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=86702",
+          "author": "Kwixand Solutions Inc.",
+          "description": "If you are considering cloud migration, you’re in good company. Many organizations now want to quickly take advantage of the benefits of the cloud and adopt cloud ERP solutions like Dynamics 365 Business Central. While cloud migration might seem like a technical decision, its core is business-related. …\n  Should Your Organization Consider Cloud Migration? Read More »\nThe post Should Your Organization Consider Cloud Migration? appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve \n6 Misconceptions About Migrating from Dynamics GP to Business Central    \nHow to save up to $20,000 per year with Dynamics 365 Business Central",
+          "link": "https://www.erpsoftwareblog.com/2022/02/should-your-organization-consider-cloud-migration/",
+          "publishedOn": "2022-02-28T19:37:22.000Z",
+          "wordCount": 1748,
+          "title": "Should Your Organization Consider Cloud Migration?",
+          "imageUrl": "https://www.erpsoftwareblog.com/wp-content/uploads/Erp-Software-Blog-Social-Image-19.png"
+        },
+        {
           "id": "https://www.erpsoftwareblog.com/?p=86659",
           "author": "Ken Jacobsen, The TM Group Inc.",
           "description": "When Navision was released in 1995 it was the first certified accounting system developed for Windows 95. It was a game-changing enterprise resource planning solution. Eventually, Navision was purchased by Microsoft and became Microsoft Dynamics NAV and recently the progenitor to Microsoft Dynamics 365 Business Central. NAV has helped a litany of organizations in virtually …\n  Accounting Firm Floats From On-Premise Application to the Cloud with Microsoft Dynamics 365 Business Central Read More »\nThe post Accounting Firm Floats From On-Premise Application to the Cloud with Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nNew Microsoft Software Updates in August 2020 - Tech Insider Update \nAn Overview of Microsoft Azure and Your ERP | Pizza as a Service Example \nYear-End Advice - Upgrade Dynamics GP to Business Central",
@@ -4955,6 +4975,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "model-driven-apps-offline-for-makers-preview",
+          "author": null,
+          "description": "Model-driven apps offline for Makers (preview)",
+          "link": "https://powerapps.microsoft.com/en-us/blog/model-driven-apps-offline-for-makers-preview/",
+          "publishedOn": "2022-02-28T08:00:00.000Z",
+          "wordCount": 887,
+          "title": "Model-driven apps offline for Makers (preview)",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "announcing-tenant-level-hygiene-analytics-for-power-apps",
           "author": null,
