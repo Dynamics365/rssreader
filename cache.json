@@ -584,6 +584,26 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:41baf2fe-50a3-4b82-a64a-4db88be651b7",
+          "author": "MSDynamicsWorld.com",
+          "description": "The past couple of years have been\r\na rollercoaster for all manufacturers, including contract\r\nmanufacturers. The industry experienced a downturn at the beginning\r\nof the pandemic and then began to grow again as manufacturing\r\nincreased.\r\n But disruptions... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/how-contract-manufacturers-can-surpass-expectations-in-challenging-times",
+          "publishedOn": "2022-03-01T15:00:00.000Z",
+          "wordCount": 932,
+          "title": "How Contract Manufacturers Can Surpass  Expectations in Challenging Times",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5c6747c1-abc9-4e9b-aa08-a743455387ef",
+          "author": "MSDynamicsWorld.com",
+          "description": "This episode is sponsored by \r\n \r\nDBSync . \r\n \r\n Data integration challenges remain at the center of today's IT\r\nmodernization efforts. From common ERP and CRM modernization\r\nscenarios to complex hybrid strategies with legacy applications,\r\nsome of today... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-the-dynamics-365-data-integration-landscape-with-dbsync",
+          "publishedOn": "2022-03-01T14:00:00.000Z",
+          "wordCount": 935,
+          "title": "MSDW Podcast: The Dynamics 365 data integration landscape, with DBSync",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8dd704cd-bbc6-43b3-addd-77cef3b194e6",
           "author": "MSDynamicsWorld.com",
           "description": "By their nature, Microsoft Dynamics 365 Finance and Supply Chain\r\nManagement projects deal with complex business challenges. But Sean\r\nSennott\r\n , lead solution architect at  \r\n Columbus\r\nGlobal \r\n  (and an  \r\n MSDW contributor \r\n ),  faced a new level... Read the full text.",
@@ -741,6 +761,46 @@
       "siteUrl": "https://dynamics.fo/",
       "articles": [
         {
+          "id": "6493 at https://dynamics.fo",
+          "author": "Nathan Clouse",
+          "description": "Workflow notification actions\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nWorkflow\nAvailable in Version\n10.0.17\nLearn More URL\nhttps://go.microsoft.com/fwlink/?linkid=2138684\nEnables the ‘View’ link on notifications created for workflow work items to open the record and take action.",
+          "link": "https://dynamics.fo/feature/workflow-notification-actions",
+          "publishedOn": "2022-01-13T02:40:06.000Z",
+          "wordCount": 161,
+          "title": "Workflow notification actions",
+          "imageUrl": null
+        },
+        {
+          "id": "6476 at https://dynamics.fo",
+          "author": "Nathan Clouse",
+          "description": "Wave batch job details\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nWarehouse management\nAvailable in Version\n10.0.17\nLearn More URL\nhttps://go.microsoft.com/fwlink/?linkid=2106528\nThis feature enables all users who work with waves to inspect the batch jobs and related tasks associated with any wave. This is especially useful for troubleshooting a wave that has failed. Without this feature, only administrators will typically have access to batch job details. The feature adds a new page called 'Wave batch job details', which can be made available to non-admin users and which provides a read-only view of batch jobs and related tasks. Users can open this page by selecting a wave on any of several different wave pages and then selecting the appropriate option from the Action Pane.",
+          "link": "https://dynamics.fo/feature/wave-batch-job-details",
+          "publishedOn": "2022-01-13T02:40:06.000Z",
+          "wordCount": 248,
+          "title": "Wave batch job details",
+          "imageUrl": null
+        },
+        {
+          "id": "6475 at https://dynamics.fo",
+          "author": "Nathan Clouse",
+          "description": "Warehouse Slotting for transfer orders\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nWarehouse management\nAvailable in Version\n10.0.17\nLearn More URL\nhttps://go.microsoft.com/fwlink/?linkid=2105700\nThis feature allows warehouse managers to replenish picking locations based on demand from transfer orders that aren't yet released to the warehouse. It ensures that picking locations will include all the items needed for the transfer orders once they are released to warehouse. This feature requires that you also enable the \"Warehouse slotting feature\".",
+          "link": "https://dynamics.fo/feature/warehouse-slotting-transfer-orders",
+          "publishedOn": "2022-01-13T02:40:06.000Z",
+          "wordCount": 202,
+          "title": "Warehouse Slotting for transfer orders",
+          "imageUrl": null
+        },
+        {
+          "id": "6474 at https://dynamics.fo",
+          "author": "Nathan Clouse",
+          "description": "Warehouse slotting feature\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nWarehouse management\nAvailable in Version\n10.0.17\nLearn More URL\nhttps://go.microsoft.com/fwlink/?linkid=2105700\nThis functionality allows for warehouse managers to plan the picking locations in the warehouse intelligently prior to releasing order to the warehouse and creating picking work. Slotting allows users to gather consolidate demand by item and unit of measure from orders, in status either ordered, reserved, or release. Once demand has been generated, it can be located to locations that will be used for picking based on quantity, unit, physical dimensions, fixed locations, etc. Once the slot plan has been established, replenishment work can be created to bring the appropriate amount of inventory to each location.",
+          "link": "https://dynamics.fo/feature/warehouse-slotting-feature",
+          "publishedOn": "2022-01-13T02:40:06.000Z",
+          "wordCount": 240,
+          "title": "Warehouse slotting feature",
+          "imageUrl": null
+        },
+        {
           "id": "6499 at https://dynamics.fo",
           "author": "Nathan Clouse",
           "description": "Zone threshold replenishment\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nWarehouse management\nAvailable in Version\n10.0.17\nLearn More URL\nhttps://go.microsoft.com/fwlink/?linkid=2106002\nZone based replenishment is a feature which utilizes min/max replenishment strategy but evaluates entire warehouse zones, if set, instead of just individual locations. This gives companies the ability to better and faster determine whether additional inventory is needed within a picking zone. The setup for the new feature is very similar to location-based replenishment. As new replenishment template is created for min/max replenishment, the user can simply specify whether the threshold should be evaluated per Location or per Zone. In case of zones, specific zones are then added to the Zone selection query and those will be evaluated by the newly created replenishment template when processed. Just like location-based min/max replenishment, the zone-based min/max replenishment is based on setting up a minimum threshold of inventory that triggers the creation of replenishment work order for selected items and item variants. In return, replenishment will be created for quantity that increases inventory up to the desired zone maximum threshold.",
@@ -847,6 +907,36 @@
       "feedUrl": "https://www.erpsoftwareblog.com/feed/",
       "siteUrl": "https://www.erpsoftwareblog.com",
       "articles": [
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=86086",
+          "author": "Binary Stream",
+          "description": "Many commercial businesses’ capacity for innovation and growth are limited by legacy technology systems. Only 20% of retailers are equipped with a centralized system that can handle complex lease administration, seamlessly integrate new technologies, and maintain compliance with global leasing standards ASC 842, GASB 87, or IFRS 16.  Dependency on outdated technological infrastructure is at the heart …\n  The core challenges of retail lease administration and how to fix them Read More »\nThe post The core challenges of retail lease administration and how to fix them appeared first on ERP Software Blog.\nSaving Space by Going Paperless… \nHow to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP \nWhy Are Microsoft Dynamics GP Customers Moving Their Solution to the Cloud?",
+          "link": "https://www.erpsoftwareblog.com/2022/03/the-core-challenges-of-retail-lease-administration-and-how-to-fix-them/",
+          "publishedOn": "2022-03-01T19:08:51.000Z",
+          "wordCount": 1461,
+          "title": "The core challenges of retail lease administration and how to fix them",
+          "imageUrl": "https://www.erpsoftwareblog.com/wp-content/uploads/viktor-bystrov-gFjGZ2qRZOo-unsplash.jpg"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=86738",
+          "author": "GP Support North",
+          "description": "We LOVE Dynamics GP.  During the pandemic, there has been an increased risk of fraud given hybrid and remote work from home models.  Not only are these putting pressure on cyber security, but also on physical security for handling paper-based processes. Tips for Managing Checks in Dynamics GP - 2022 For those clients who print …\n  Tips for Managing Checks in Dynamics GP - 2022 Read More »\nThe post Tips for Managing Checks in Dynamics GP - 2022 appeared first on ERP Software Blog.\nDecember GP Insights – 2021 year in review and looking ahead at Dynamics GP in 2022 \n7 Steps to Proving the ROI of AP Automation \nAP Automation Benefits Every Company Size",
+          "link": "https://www.erpsoftwareblog.com/2022/03/tips-for-managing-checks-in-dynamics-gp-2022/",
+          "publishedOn": "2022-03-01T17:26:15.000Z",
+          "wordCount": 1736,
+          "title": "Tips for Managing Checks in Dynamics GP - 2022",
+          "imageUrl": "https://www.erpsoftwareblog.com/wp-content/uploads/Good-cheque-2017b-625x236.jpg"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=86717",
+          "author": "Dexpro Dynamics",
+          "description": "Microsoft is making changes to their email security rules effective October 1, 2022, and it will impact Microsoft Dynamics GP users. Are you prepared? On October 1, 2022, Microsoft will release changes to email security for Office 365. This will prevent you from using email and workflow functionality within your system if you are not …\n  How Dynamics GP Users Will Be Impacted by Microsoft Security Changes on October 1, 2022 Read More »\nThe post How Dynamics GP Users Will Be Impacted by Microsoft Security Changes on October 1, 2022 appeared first on ERP Software Blog.\nThe Advantages of Moving from On-premise to Cloud \nMicrosoft Dynamics GP 2015 Is Around The Corner \nTop 6 Reasons to Use Microsoft Dynamics for Healthcare: #3 Purchasing Automation",
+          "link": "https://www.erpsoftwareblog.com/2022/03/how-dynamics-gp-users-will-be-impacted-by-microsoft-security-changes-on-october-1-2022/",
+          "publishedOn": "2022-03-01T13:53:38.000Z",
+          "wordCount": 1598,
+          "title": "How Dynamics GP Users Will Be Impacted by Microsoft Security Changes on October 1, 2022",
+          "imageUrl": "https://www.erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
         {
           "id": "https://www.erpsoftwareblog.com/?p=86663",
           "author": "iCepts Technology Group, Inc.",
@@ -2513,6 +2603,16 @@
       "feedUrl": "https://community.dynamics.com/ax/b/happyd365fo/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/happyd365fo",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8eddecd9-109f-40d4-9543-35f23a9d2ab8",
+          "author": "Rahul Mohta",
+          "description": "bank statement import for advanced bank reconciliation in Microsoft Dynamics 365 Finance and Operations\n\nSharing steps\n\n\n\nTo get import format, need to setup ER  Electronic Reporting\n\n\n\n\n\n\n(read more)",
+          "link": "https://community.dynamics.com/ax/b/happyd365fo/posts/bank-statement-import-for-advanced-bank-reconciliation-in-microsoft-dynamics-365-finance-and-operations",
+          "publishedOn": "2022-03-01T18:04:13.000Z",
+          "wordCount": 937,
+          "title": "bank statement import for advanced bank reconciliation in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f3f6d6a9-9ea1-43f2-9cff-d2240af0954d",
           "author": "Rahul Mohta",

@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-01T01:18:12.992Z</updated>
+    <updated>2022-03-02T01:13:15.251Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The core challenges of retail lease administration and how to fix them]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=86086</id>
+        <link href="https://www.erpsoftwareblog.com/2022/03/the-core-challenges-of-retail-lease-administration-and-how-to-fix-them/"/>
+        <updated>2022-03-01T19:08:51.000Z</updated>
+        <summary type="html"><![CDATA[Many commercial businesses’ capacity for innovation and growth are limited by legacy technology systems. Only 20% of retailers are equipped with a centralized system that can handle complex lease administration, seamlessly integrate new technologies, and maintain compliance with global leasing standards ASC 842, GASB 87, or IFRS 16.  Dependency on outdated technological infrastructure is at the heart …
+  The core challenges of retail lease administration and how to fix them Read More »
+The post The core challenges of retail lease administration and how to fix them appeared first on ERP Software Blog.
+Saving Space by Going Paperless… 
+How to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP 
+Why Are Microsoft Dynamics GP Customers Moving Their Solution to the Cloud?]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bank statement import for advanced bank reconciliation in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8eddecd9-109f-40d4-9543-35f23a9d2ab8</id>
+        <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/bank-statement-import-for-advanced-bank-reconciliation-in-microsoft-dynamics-365-finance-and-operations"/>
+        <updated>2022-03-01T18:04:13.000Z</updated>
+        <summary type="html"><![CDATA[bank statement import for advanced bank reconciliation in Microsoft Dynamics 365 Finance and Operations
+
+Sharing steps
+
+
+
+To get import format, need to setup ER  Electronic Reporting
+
+
+
+
+
+
+(read more)]]></summary>
+        <author>
+            <name>Rahul Mohta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for Managing Checks in Dynamics GP - 2022]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=86738</id>
+        <link href="https://www.erpsoftwareblog.com/2022/03/tips-for-managing-checks-in-dynamics-gp-2022/"/>
+        <updated>2022-03-01T17:26:15.000Z</updated>
+        <summary type="html"><![CDATA[We LOVE Dynamics GP.  During the pandemic, there has been an increased risk of fraud given hybrid and remote work from home models.  Not only are these putting pressure on cyber security, but also on physical security for handling paper-based processes. Tips for Managing Checks in Dynamics GP - 2022 For those clients who print …
+  Tips for Managing Checks in Dynamics GP - 2022 Read More »
+The post Tips for Managing Checks in Dynamics GP - 2022 appeared first on ERP Software Blog.
+December GP Insights – 2021 year in review and looking ahead at Dynamics GP in 2022 
+7 Steps to Proving the ROI of AP Automation 
+AP Automation Benefits Every Company Size]]></summary>
+        <author>
+            <name>GP Support North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Contract Manufacturers Can Surpass  Expectations in Challenging Times]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:41baf2fe-50a3-4b82-a64a-4db88be651b7</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/how-contract-manufacturers-can-surpass-expectations-in-challenging-times"/>
+        <updated>2022-03-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The past couple of years have been
+a rollercoaster for all manufacturers, including contract
+manufacturers. The industry experienced a downturn at the beginning
+of the pandemic and then began to grow again as manufacturing
+increased.
+ But disruptions... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: The Dynamics 365 data integration landscape, with DBSync]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5c6747c1-abc9-4e9b-aa08-a743455387ef</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-the-dynamics-365-data-integration-landscape-with-dbsync"/>
+        <updated>2022-03-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This episode is sponsored by 
+ 
+DBSync . 
+ 
+ Data integration challenges remain at the center of today's IT
+modernization efforts. From common ERP and CRM modernization
+scenarios to complex hybrid strategies with legacy applications,
+some of today... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Dynamics GP Users Will Be Impacted by Microsoft Security Changes on October 1, 2022]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=86717</id>
+        <link href="https://www.erpsoftwareblog.com/2022/03/how-dynamics-gp-users-will-be-impacted-by-microsoft-security-changes-on-october-1-2022/"/>
+        <updated>2022-03-01T13:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is making changes to their email security rules effective October 1, 2022, and it will impact Microsoft Dynamics GP users. Are you prepared? On October 1, 2022, Microsoft will release changes to email security for Office 365. This will prevent you from using email and workflow functionality within your system if you are not …
+  How Dynamics GP Users Will Be Impacted by Microsoft Security Changes on October 1, 2022 Read More »
+The post How Dynamics GP Users Will Be Impacted by Microsoft Security Changes on October 1, 2022 appeared first on ERP Software Blog.
+The Advantages of Moving from On-premise to Cloud 
+Microsoft Dynamics GP 2015 Is Around The Corner 
+Top 6 Reasons to Use Microsoft Dynamics for Healthcare: #3 Purchasing Automation]]></summary>
+        <author>
+            <name>Dexpro Dynamics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Connect E-Commerce to Dynamics ERP for Greater Profits!]]></title>
         <id>https://www.erpsoftwareblog.com/?p=86663</id>
@@ -1967,6 +2067,118 @@ How to Reduce Costs with Master Data Management
 IEMs with Rental Distribution: The why and how of integrating multiple ERP systems]]></summary>
         <author>
             <name>To-Increase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workflow notification actions]]></title>
+        <id>6493 at https://dynamics.fo</id>
+        <link href="https://dynamics.fo/feature/workflow-notification-actions"/>
+        <updated>2022-01-13T02:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Workflow notification actions
+
+Nathan Clouse
+
+Thu, 01/13/2022 - 03:40
+  
+  
+
+
+
+      
+    
+Module
+Workflow
+Available in Version
+10.0.17
+Learn More URL
+https://go.microsoft.com/fwlink/?linkid=2138684
+Enables the ‘View’ link on notifications created for workflow work items to open the record and take action.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wave batch job details]]></title>
+        <id>6476 at https://dynamics.fo</id>
+        <link href="https://dynamics.fo/feature/wave-batch-job-details"/>
+        <updated>2022-01-13T02:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Wave batch job details
+
+Nathan Clouse
+
+Thu, 01/13/2022 - 03:40
+  
+  
+
+
+
+      
+    
+Module
+Warehouse management
+Available in Version
+10.0.17
+Learn More URL
+https://go.microsoft.com/fwlink/?linkid=2106528
+This feature enables all users who work with waves to inspect the batch jobs and related tasks associated with any wave. This is especially useful for troubleshooting a wave that has failed. Without this feature, only administrators will typically have access to batch job details. The feature adds a new page called 'Wave batch job details', which can be made available to non-admin users and which provides a read-only view of batch jobs and related tasks. Users can open this page by selecting a wave on any of several different wave pages and then selecting the appropriate option from the Action Pane.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warehouse Slotting for transfer orders]]></title>
+        <id>6475 at https://dynamics.fo</id>
+        <link href="https://dynamics.fo/feature/warehouse-slotting-transfer-orders"/>
+        <updated>2022-01-13T02:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Warehouse Slotting for transfer orders
+
+Nathan Clouse
+
+Thu, 01/13/2022 - 03:40
+  
+  
+
+
+
+      
+    
+Module
+Warehouse management
+Available in Version
+10.0.17
+Learn More URL
+https://go.microsoft.com/fwlink/?linkid=2105700
+This feature allows warehouse managers to replenish picking locations based on demand from transfer orders that aren't yet released to the warehouse. It ensures that picking locations will include all the items needed for the transfer orders once they are released to warehouse. This feature requires that you also enable the "Warehouse slotting feature".]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warehouse slotting feature]]></title>
+        <id>6474 at https://dynamics.fo</id>
+        <link href="https://dynamics.fo/feature/warehouse-slotting-feature"/>
+        <updated>2022-01-13T02:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Warehouse slotting feature
+
+Nathan Clouse
+
+Thu, 01/13/2022 - 03:40
+  
+  
+
+
+
+      
+    
+Module
+Warehouse management
+Available in Version
+10.0.17
+Learn More URL
+https://go.microsoft.com/fwlink/?linkid=2105700
+This functionality allows for warehouse managers to plan the picking locations in the warehouse intelligently prior to releasing order to the warehouse and creating picking work. Slotting allows users to gather consolidate demand by item and unit of measure from orders, in status either ordered, reserved, or release. Once demand has been generated, it can be located to locations that will be used for picking based on quantity, unit, physical dimensions, fixed locations, etc. Once the slot plan has been established, replenishment work can be created to bring the appropriate amount of inventory to each location.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
