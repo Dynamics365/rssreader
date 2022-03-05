@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-04T01:19:34.772Z</updated>
+    <updated>2022-03-05T01:12:27.798Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central vs. NetSuite: What to Choose?]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=86829</id>
+        <link href="https://www.erpsoftwareblog.com/2022/03/dynamics-365-business-central-vs-netsuite-what-to-choose/"/>
+        <updated>2022-03-04T21:33:11.000Z</updated>
+        <summary type="html"><![CDATA[A comparison between Microsoft Dynamics 365 Business Central and NetSuite would be the most appropriate for professionals who have outgrown their legacy accounting software and need an upgrade. That's because these two ERPs are the frontrunners for growing business in the SMB market, thanks to their flexibility and scalability. These two ERPs have pertinent features …
+  Dynamics 365 Business Central vs. NetSuite: What to Choose? Read More »
+The post Dynamics 365 Business Central vs. NetSuite: What to Choose? appeared first on ERP Software Blog.
+Get More in the Cloud with Dynamics 365 Business Central 
+Service Based Architecture: A True Game Changer for Dynamics GP 2015 
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
+        <author>
+            <name>Technology Management Concepts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[customer change approval in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:56da79c8-d5ce-4dea-b228-d577d2dea277</id>
+        <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/customer-change-approval-in-microsoft-dynamics-365-finance-and-operations"/>
+        <updated>2022-03-04T11:15:36.000Z</updated>
+        <summary type="html"><![CDATA[customer change approval in Microsoft Dynamics 365 Finance and Operations
+
+To setup , enable go to
+
+
+Accounts receivable > Setup > Accounts receivable parameters.
+
+
+On the General tab...(read more)]]></summary>
+        <author>
+            <name>Rahul Mohta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Application Version 10.0.24 Feature Summary]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4e4bdfad-f872-4549-833a-26052bddcc0d</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/application-version-10-0-24-feature-summary"/>
+        <updated>2022-03-04T04:38:17.000Z</updated>
+        <summary type="html"><![CDATA[Application version 10.0.24 is now generally available as of Jan 14, 2022. For a listing of all issues fixed in this release, you can find the list here.
+Below are 10.0.24 features under the new ...(read more)]]></summary>
+        <author>
+            <name>Ryan Sandness MSFT</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Dynamics GP Project Accounting Overkill? You decide.]]></title>
         <id>https://www.erpsoftwareblog.com/?p=86721</id>

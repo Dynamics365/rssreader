@@ -908,6 +908,16 @@
       "siteUrl": "https://www.erpsoftwareblog.com",
       "articles": [
         {
+          "id": "https://www.erpsoftwareblog.com/?p=86829",
+          "author": "Technology Management Concepts",
+          "description": "A comparison between Microsoft Dynamics 365 Business Central and NetSuite would be the most appropriate for professionals who have outgrown their legacy accounting software and need an upgrade. That's because these two ERPs are the frontrunners for growing business in the SMB market, thanks to their flexibility and scalability. These two ERPs have pertinent features …\n  Dynamics 365 Business Central vs. NetSuite: What to Choose? Read More »\nThe post Dynamics 365 Business Central vs. NetSuite: What to Choose? appeared first on ERP Software Blog.\nGet More in the Cloud with Dynamics 365 Business Central \nService Based Architecture: A True Game Changer for Dynamics GP 2015 \nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve",
+          "link": "https://www.erpsoftwareblog.com/2022/03/dynamics-365-business-central-vs-netsuite-what-to-choose/",
+          "publishedOn": "2022-03-04T21:33:11.000Z",
+          "wordCount": 1914,
+          "title": "Dynamics 365 Business Central vs. NetSuite: What to Choose?",
+          "imageUrl": "https://www.erpsoftwareblog.com/wp-content/uploads/ERP-Software-Blog-Dynamics_365_Business_Central_Vs_NetSuite_What_to_Choose_944582.jpg"
+        },
+        {
           "id": "https://www.erpsoftwareblog.com/?p=86721",
           "author": "Blue Moon Industries",
           "description": "Is Dynamics GP Analytical Accounting Not Flexible Enough?   If you’ve answered yes, then Blue Moon may have the solution to meet your needs with Project Tracking w/Advanced Analytics! In case you haven’t heard, Blue Moon acquired the Encore Business Solutions GP add-ons last July which includes Project Tracking. Who’s a great fit? Project Tracking …\n  Is Dynamics GP Project Accounting Overkill? You decide. Read More »\nThe post Is Dynamics GP Project Accounting Overkill? You decide. appeared first on ERP Software Blog.\nLes 7 rapports essentiels pour gérer votre entreprise de gestion de projets avec Microsoft Dynamics GP : #2 – Rapport des travaux en cours \nThe 7 Essential Reports to Managing Your Project-Based Business with Microsoft Dynamics GP: #5 – Resource Productivity \nFour Ways Field Service Management Can Help Your Business",
@@ -2703,6 +2713,16 @@
       "feedUrl": "https://community.dynamics.com/ax/b/happyd365fo/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/happyd365fo",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:56da79c8-d5ce-4dea-b228-d577d2dea277",
+          "author": "Rahul Mohta",
+          "description": "customer change approval in Microsoft Dynamics 365 Finance and Operations\n\nTo setup , enable go to\n\n\nAccounts receivable > Setup > Accounts receivable parameters.\n\n\nOn the General tab...(read more)",
+          "link": "https://community.dynamics.com/ax/b/happyd365fo/posts/customer-change-approval-in-microsoft-dynamics-365-finance-and-operations",
+          "publishedOn": "2022-03-04T11:15:36.000Z",
+          "wordCount": 1124,
+          "title": "customer change approval in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8eddecd9-109f-40d4-9543-35f23a9d2ab8",
           "author": "Rahul Mohta",
@@ -4861,6 +4881,16 @@
       "feedUrl": "https://community.dynamics.com/ax/b/axinthefield/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/axinthefield",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4e4bdfad-f872-4549-833a-26052bddcc0d",
+          "author": "Ryan Sandness MSFT",
+          "description": "Application version 10.0.24 is now generally available as of Jan 14, 2022. For a listing of all issues fixed in this release, you can find the list here.\nBelow are 10.0.24 features under the new ...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/application-version-10-0-24-feature-summary",
+          "publishedOn": "2022-03-04T04:38:17.000Z",
+          "wordCount": 2667,
+          "title": "Application Version 10.0.24 Feature Summary",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c07795f3-0d48-4c92-87b4-1b5fd268caab",
           "author": "Amy Flowers",
