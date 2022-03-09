@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-09T06:20:58.625Z</updated>
+    <updated>2022-03-09T09:08:54.212Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -902,6 +902,16 @@ Overcome Tax Management Challenges by Leveraging Microsoft Dynamics 365 Automati
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Default Order Settings: D365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2240</id>
+        <link href="https://dynamics-tips.com/default-order-settings/"/>
+        <updated>2022-02-18T23:31:29.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations, default order settings are a core part of the product setup if you are using master planning in any capacity. The default order settings]]></summary>
+        <author>
+            <name>Tim Woods</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[x2x eCommerce Integration of Shopify with Navision]]></title>
         <id>https://www.erpsoftwareblog.com/?p=86473</id>
         <link href="https://www.erpsoftwareblog.com/2022/02/x2x-ecommerce-integration-of-shopify-with-navision/"/>
@@ -1186,6 +1196,16 @@ How Can Microsoft Dynamics enable better data access with powerful Financial Rep
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Customer and Vendor Proposed Change Approvals: D365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2221</id>
+        <link href="https://dynamics-tips.com/customer-and-vendor-proposed-change-approvals/"/>
+        <updated>2022-02-11T21:36:36.000Z</updated>
+        <summary type="html"><![CDATA[In most organizations customer and vendor setup is a task handled by the Accounting or the Supply Chain team and in some cases both with each responsible for specific setups.]]></summary>
+        <author>
+            <name>Tim Woods</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Advanced Warehouse Solution: Importance of real-time data reporting]]></title>
         <id>https://www.erpsoftwareblog.com/?p=86169</id>
         <link href="https://www.erpsoftwareblog.com/2022/02/importance-of-real-time-data-reporting/"/>
@@ -1312,6 +1332,16 @@ Challenges of Digital Transformation in Pharmaceutical Manufacturing]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Participant token ‘Department’ does not resolve to any user: D365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2206</id>
+        <link href="https://dynamics-tips.com/participant-token-department-does-not-resolve-to-any-user/"/>
+        <updated>2022-02-09T17:22:20.000Z</updated>
+        <summary type="html"><![CDATA[If you are using the purchase requisition or purchase order approval workflow and routing the workflow to approvers based on the department financial dimension you may come across the error]]></summary>
+        <author>
+            <name>Tim Woods</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Automation Leads to Greater AP Efficiency – and Other Advantages]]></title>
         <id>https://www.erpsoftwareblog.com/?p=85386</id>
         <link href="https://www.erpsoftwareblog.com/2022/02/automation-leads-to-greater-ap-efficiency-and-other-advantages/"/>
@@ -1379,6 +1409,16 @@ comment for your suggestion .]]></summary>
         <summary type="html"><![CDATA[We are excited to announce the General Availability (GA) of Power Apps portals support for Query data using portals Web API that was introduced in November 2021 release as a preview feature.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Process a Transfer Order: D365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2169</id>
+        <link href="https://dynamics-tips.com/process-a-transfer-order/"/>
+        <updated>2022-02-09T05:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Transfer orders between warehouses is a common practice for businesses with multi-site and multi-warehouse operations for replenishing and sharing inventory. Transfer orders work by issuing product from a physical warehouse]]></summary>
+        <author>
+            <name>Tim Woods</name>
         </author>
     </entry>
     <entry>
@@ -3425,6 +3465,16 @@ the Microsoft Dynamics suite and beyond.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Process Quality Orders with WMS: D365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2124</id>
+        <link href="https://dynamics-tips.com/process-quality-orders-with-wms/"/>
+        <updated>2021-11-12T22:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Quality orders in Dynamics 365 Finance and Operations are the primary mechanism for recording and processing quality results for quality related tests during various inbound, outbound, and internal warehouse processes.]]></summary>
+        <author>
+            <name>Tim Woods</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Upgrade vs re-implementation from Dynamics AX to Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c86ce4d9-6b9c-4aa3-b6c1-3145253df9e4</id>
         <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/upgrade-vs-re-implementation-from-dynamics-ax-to-microsoft-dynamics-365-finance-and-operations"/>
@@ -3583,6 +3633,16 @@ To use Power BI reports, dashboards, and tiles from your PowerBI.com account in 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Procurement Categories: Dynamics 365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2065</id>
+        <link href="https://dynamics-tips.com/procurement-categories/"/>
+        <updated>2021-10-27T22:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Procurement category hierarchies are used to classify products for reporting and analysis purposes as well as represent categories for purchasing. A category hierarchy consists of a hierarchical structure of categories]]></summary>
+        <author>
+            <name>Tim Woods</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Master planning (MRP/ planning optimization) fine tuning to ensure additional planned orders are not generated when there is some incoming supply in Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ab65f6df-2dac-46f7-8fdb-5ee5455ef5d7</id>
         <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/master-planning-mrp-planning-optimization-fine-tuning-to-ensure-additional-planned-orders-are-not-generated-when-there-is-some-incoming-supply-in-microsoft-dynamics-365-finance-and-operations"/>
@@ -3640,6 +3700,16 @@ IIA-CIA-Part1 : Essentials of Internal Auditing
 IIA-CIA-PART2 :Certified Internal Auditor - Part 2, Conducting the Internal Audit E…]]></summary>
         <author>
             <name>SANTOSH KUMAR SINGH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trade Agreements Explained: Dynamics 365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2036</id>
+        <link href="https://dynamics-tips.com/trade-agreements/"/>
+        <updated>2021-10-21T02:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Trade agreements are the primary means by which pricing and discounts are set up and applied in Dynamics 365 Finance and Operations. Trade agreements are commonly confused with sales and]]></summary>
+        <author>
+            <name>Tim Woods</name>
         </author>
     </entry>
     <entry>
@@ -3806,6 +3876,16 @@ $ git merge [branch]
 Combines the specified branch’s histo…]]></summary>
         <author>
             <name>Max Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Location Profiles Explained: D365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2025</id>
+        <link href="https://dynamics-tips.com/location-profiles/"/>
+        <updated>2021-10-06T18:38:35.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations Location profiles control the behavior of locations in an advanced warehouse management enabled warehouse. Location profiles can also enforce certain warehouse rules like allowing]]></summary>
+        <author>
+            <name>Tim Woods</name>
         </author>
     </entry>
     <entry>
@@ -4112,6 +4192,16 @@ CompanyInfo companyInfo = CompanyInfo::find();
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Create and Use Product Templates: Dynamics 365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2011</id>
+        <link href="https://dynamics-tips.com/create-and-use-product-templates/"/>
+        <updated>2021-08-05T02:01:36.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations creating a product can be a tedious time consuming process simply because there are so many options for configuring the product. However, there is]]></summary>
+        <author>
+            <name>Tim Woods</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to keep the newest D365 F&SCM system updated without any hassle]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:49246273-6b56-4fa9-8c1d-26ff9521dd19</id>
         <link href="https://community.dynamics.com/ax/b/1clickfactory365andax/posts/how-to-keep-the-newest-d365-f-scm-system-updated-without-any-hassle"/>
@@ -4120,6 +4210,16 @@ CompanyInfo companyInfo = CompanyInfo::find();
  Every Microsoft Dynamics AX customer who has migrated to the newest version of Microsoft Dynamics 365 Finance and Supply Chain Management must perform 8 Microsoft updates per...(read more)]]></summary>
         <author>
             <name>1ClickFactory Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Purchase Agreements Explained: Dynamics 365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=1989</id>
+        <link href="https://dynamics-tips.com/purchase-agreements/"/>
+        <updated>2021-07-30T13:49:18.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations a purchase agreement is the promise to buy a given quantity or value of a specific product or category from a specific vendor. Purchase]]></summary>
+        <author>
+            <name>Tim Woods</name>
         </author>
     </entry>
     <entry>

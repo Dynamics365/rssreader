@@ -5418,6 +5418,113 @@
       ]
     },
     {
+      "title": "Dynamics Tips",
+      "feedUrl": "https://dynamics-tips.com/feed/",
+      "siteUrl": "https://dynamics-tips.com",
+      "articles": [
+        {
+          "id": "https://dynamics-tips.com/?p=2240",
+          "author": "Tim Woods",
+          "description": "In Dynamics 365 Finance and Operations, default order settings are a core part of the product setup if you are using master planning in any capacity. The default order settings",
+          "link": "https://dynamics-tips.com/default-order-settings/",
+          "publishedOn": "2022-02-18T23:31:29.000Z",
+          "wordCount": 2146,
+          "title": "Default Order Settings: D365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2022/02/defaultordersetting.jpg"
+        },
+        {
+          "id": "https://dynamics-tips.com/?p=2221",
+          "author": "Tim Woods",
+          "description": "In most organizations customer and vendor setup is a task handled by the Accounting or the Supply Chain team and in some cases both with each responsible for specific setups.",
+          "link": "https://dynamics-tips.com/customer-and-vendor-proposed-change-approvals/",
+          "publishedOn": "2022-02-11T21:36:36.000Z",
+          "wordCount": 1300,
+          "title": "Customer and Vendor Proposed Change Approvals: D365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2022/02/changeapproval.jpg"
+        },
+        {
+          "id": "https://dynamics-tips.com/?p=2206",
+          "author": "Tim Woods",
+          "description": "If you are using the purchase requisition or purchase order approval workflow and routing the workflow to approvers based on the department financial dimension you may come across the error",
+          "link": "https://dynamics-tips.com/participant-token-department-does-not-resolve-to-any-user/",
+          "publishedOn": "2022-02-09T17:22:20.000Z",
+          "wordCount": 745,
+          "title": "Participant token ‘Department’ does not resolve to any user: D365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2022/02/particpanttoken.jpg"
+        },
+        {
+          "id": "https://dynamics-tips.com/?p=2169",
+          "author": "Tim Woods",
+          "description": "Transfer orders between warehouses is a common practice for businesses with multi-site and multi-warehouse operations for replenishing and sharing inventory. Transfer orders work by issuing product from a physical warehouse",
+          "link": "https://dynamics-tips.com/process-a-transfer-order/",
+          "publishedOn": "2022-02-09T05:21:41.000Z",
+          "wordCount": 2344,
+          "title": "Process a Transfer Order: D365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2022/02/ProcessTransferOrder.jpg"
+        },
+        {
+          "id": "https://dynamics-tips.com/?p=2124",
+          "author": "Tim Woods",
+          "description": "Quality orders in Dynamics 365 Finance and Operations are the primary mechanism for recording and processing quality results for quality related tests during various inbound, outbound, and internal warehouse processes.",
+          "link": "https://dynamics-tips.com/process-quality-orders-with-wms/",
+          "publishedOn": "2021-11-12T22:58:12.000Z",
+          "wordCount": 3336,
+          "title": "Process Quality Orders with WMS: D365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/11/Quality-orders.jpg"
+        },
+        {
+          "id": "https://dynamics-tips.com/?p=2065",
+          "author": "Tim Woods",
+          "description": "Procurement category hierarchies are used to classify products for reporting and analysis purposes as well as represent categories for purchasing. A category hierarchy consists of a hierarchical structure of categories",
+          "link": "https://dynamics-tips.com/procurement-categories/",
+          "publishedOn": "2021-10-27T22:42:50.000Z",
+          "wordCount": 2237,
+          "title": "Procurement Categories: Dynamics 365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/10/ProcurementCategories.jpg"
+        },
+        {
+          "id": "https://dynamics-tips.com/?p=2036",
+          "author": "Tim Woods",
+          "description": "Trade agreements are the primary means by which pricing and discounts are set up and applied in Dynamics 365 Finance and Operations. Trade agreements are commonly confused with sales and",
+          "link": "https://dynamics-tips.com/trade-agreements/",
+          "publishedOn": "2021-10-21T02:32:46.000Z",
+          "wordCount": 2765,
+          "title": "Trade Agreements Explained: Dynamics 365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/10/Trade-Agreements.jpg"
+        },
+        {
+          "id": "https://dynamics-tips.com/?p=2025",
+          "author": "Tim Woods",
+          "description": "In Dynamics 365 Finance and Operations Location profiles control the behavior of locations in an advanced warehouse management enabled warehouse. Location profiles can also enforce certain warehouse rules like allowing",
+          "link": "https://dynamics-tips.com/location-profiles/",
+          "publishedOn": "2021-10-06T18:38:35.000Z",
+          "wordCount": 1904,
+          "title": "Location Profiles Explained: D365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/10/LocationProfile.jpg"
+        },
+        {
+          "id": "https://dynamics-tips.com/?p=2011",
+          "author": "Tim Woods",
+          "description": "In Dynamics 365 Finance and Operations creating a product can be a tedious time consuming process simply because there are so many options for configuring the product. However, there is",
+          "link": "https://dynamics-tips.com/create-and-use-product-templates/",
+          "publishedOn": "2021-08-05T02:01:36.000Z",
+          "wordCount": 1108,
+          "title": "Create and Use Product Templates: Dynamics 365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/08/Product-Template.jpg"
+        },
+        {
+          "id": "https://dynamics-tips.com/?p=1989",
+          "author": "Tim Woods",
+          "description": "In Dynamics 365 Finance and Operations a purchase agreement is the promise to buy a given quantity or value of a specific product or category from a specific vendor. Purchase",
+          "link": "https://dynamics-tips.com/purchase-agreements/",
+          "publishedOn": "2021-07-30T13:49:18.000Z",
+          "wordCount": 1844,
+          "title": "Purchase Agreements Explained: Dynamics 365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/07/Purchase-agreements.jpg"
+        }
+      ]
+    },
+    {
       "title": "Microsoft Power Apps - Blog",
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
