@@ -5311,10 +5311,127 @@
       ]
     },
     {
+      "title": "Kurt Hatlevik – Dynamics 365 Blog",
+      "feedUrl": "https://kurthatlevik.com/feed/",
+      "siteUrl": "https://kurthatlevik.com",
+      "articles": [
+        {
+          "id": "http://kurthatlevik.com/?p=4312",
+          "author": "Kurt Hatlevik",
+          "description": "I have had the chance to look deep into the 2022 release wave 1 plans. There are tons of goodies, and we again see the direction where things are going. There is a lot of investments in the microservices area, and we see the platform opening up like a blooming flower. There is one specific … Continue reading D365: 2022Wave1 – Unified pricing service",
+          "link": "https://kurthatlevik.com/2022/01/26/d365-2022wave1-unified-pricing-service/",
+          "publishedOn": "2022-01-26T14:43:41.000Z",
+          "wordCount": 1295,
+          "title": "D365: 2022Wave1 – Unified pricing service",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/012622_1443_d3652022wav1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4308",
+          "author": "Kurt Hatlevik",
+          "description": "Here is very small tip. Set your windows mouse line scrolling to 4 lines when using Dynamics 365. When you then scroll in D365 lookups, one scroll-click is then jumping one page down in the lookups (in my case). #LifeHack",
+          "link": "https://kurthatlevik.com/2022/01/16/d365-4-lines-to-scroll-at-a-time/",
+          "publishedOn": "2022-01-16T17:46:18.000Z",
+          "wordCount": 901,
+          "title": "D365; 4 Lines to scroll at a time",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/011622_1746_d3654linest1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4304",
+          "author": "Kurt Hatlevik",
+          "description": "One of the most important aspects of Success By Design program is to ensure quality in the implementation process and to set the right expectations. One important setup in this process is the Microsoft Solution Blueprint Review workshop that can be offered to customers through extended FastTrack Engagement. The Solution Blueprint Review workshop covers the … Continue reading D365 – 252 Solution Blueprint review questions",
+          "link": "https://kurthatlevik.com/2022/01/06/d365-252-solution-blueprint-review-questions/",
+          "publishedOn": "2022-01-06T16:01:48.000Z",
+          "wordCount": 5169,
+          "title": "D365 – 252 Solution Blueprint review questions",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/010622_1601_d365252solu1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4301",
+          "author": "Kurt Hatlevik",
+          "description": "A small but highly productive tip is the feature of “Item list”. It has been available for years but have not gotten the deserved attention. The feature does not even have a docs page. With this feature it makes it much easier to create sales order, by copying the lines from an ‘item list’. The … Continue reading D365 Hidden Sales order gem; copy from item list",
+          "link": "https://kurthatlevik.com/2022/01/05/d365-hidden-sales-order-gem-copy-from-item-list/",
+          "publishedOn": "2022-01-05T20:50:00.000Z",
+          "wordCount": 1142,
+          "title": "D365 Hidden Sales order gem; copy from item list",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/010522_2049_d365hiddens1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4289",
+          "author": "Kurt Hatlevik",
+          "description": "I first want to thank the 92.898 visitors to my blog in 2021. It has been my pleasure to share with the community, and 2021 have been the best so far. This time, I would like to summarize my tips on what to learn and tools to use that can further bring value to our … Continue reading Dynamics 365 – top things to learn and tools to use in 2022",
+          "link": "https://kurthatlevik.com/2022/01/01/dynamics-365-top-things-to-learn-and-tool-to-use-in-2022-2/",
+          "publishedOn": "2022-01-01T15:31:29.000Z",
+          "wordCount": 2150,
+          "title": "Dynamics 365 – top things to learn and tools to use in 2022",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/010122_1531_dynamics3651.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4281",
+          "author": "Kurt Hatlevik",
+          "description": "Most of us in the field have traditionally used Microsoft Visio to show architecture, processes and systems. But there is an alternative that I would recommend to the community: https://www.diagrams.net/ This is a free, online and easy to use tool to quickly represent graphics related to what you want to show. Give it a try, … Continue reading Diagrams.net",
+          "link": "https://kurthatlevik.com/2021/12/16/diagrams-net/",
+          "publishedOn": "2021-12-16T09:14:09.000Z",
+          "wordCount": 855,
+          "title": "Diagrams.net",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/12/121621_0914_diagramsnet1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4277",
+          "author": "Kurt Hatlevik",
+          "description": "Today I would like to pay my respect to the free GitHub initiative Recurring Integrations Scheduler (RIS). RIS is a solution that transports files/messages between on-premises folders and D365FO. This is a way to perform good old file integrations, and even for automating import/export of data entities between environments. And without having to develop/program anything. … Continue reading D365 Recurring Integrations Scheduler(RIS)",
+          "link": "https://kurthatlevik.com/2021/11/02/d365-recurring-integrations-schedulerris/",
+          "publishedOn": "2021-11-02T10:18:47.000Z",
+          "wordCount": 1210,
+          "title": "D365 Recurring Integrations Scheduler(RIS)",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/11/110221_1018_d365recurri1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4266",
+          "author": "Kurt Hatlevik",
+          "description": "The Dynamics 365 Commerce team at Microsoft have created a great trial site where you can try out all their good stuff and get some guided walk through of their capabilities. Please check it out: https://manage.commerce.dynamics.com/welcome/index.html Here is your to-do list of what you should explore: B2C experience Product discovery and cloud powered search Curb-side … Continue reading How to learn and try out Dynamics 365 Commerce?",
+          "link": "https://kurthatlevik.com/2021/10/08/how-to-learn-and-try-out-dynamics-365-commerce/",
+          "publishedOn": "2021-10-08T07:36:48.000Z",
+          "wordCount": 968,
+          "title": "How to learn and try out Dynamics 365 Commerce?",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/10/100821_0736_howtolearna1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4263",
+          "author": "Kurt Hatlevik",
+          "description": "When I observe the use of Dynamics 365, I often see that most often there are well-established processes and routines for getting data into the Dynamics 365 system. But using this data is often limited to retrieving financial reports that show everything in dollars and cents. However, the information contained in the system is often … Continue reading D365 : Use your data",
+          "link": "https://kurthatlevik.com/2021/09/27/d365-use-your-data/",
+          "publishedOn": "2021-09-27T12:18:32.000Z",
+          "wordCount": 2371,
+          "title": "D365 : Use your data",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/09/092721_1218_d365useyour1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4245",
+          "author": "Kurt Hatlevik",
+          "description": "Latest & greatest tech, faster, better and new possibilities, are from a consultancy perspective fun and rewarding. But it is very seldom that these aspects are the deciding factors when it come to implementing Dynamics 365. Any organization have a finite set of resources in terms of people, knowledge, money, and time. How to best … Continue reading D365 – Building a business value review",
+          "link": "https://kurthatlevik.com/2021/08/23/d365-building-a-business-value-review/",
+          "publishedOn": "2021-08-23T11:47:59.000Z",
+          "wordCount": 5719,
+          "title": "D365 – Building a business value review",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/08/082321_1130_d365buildin1.png?w=1200"
+        }
+      ]
+    },
+    {
       "title": "Microsoft Power Apps - Blog",
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-the-general-availability-of-pay-as-you-go-for-power-apps",
+          "author": null,
+          "description": "Pay-as-you-go for Power Apps is a new way to pay for Power Apps using an Azure subscription. Pay-as-you-go allows you to share a Power Apps app with any user in your organization and then only pay if and when they use that app.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-pay-as-you-go-for-power-apps/",
+          "publishedOn": "2022-03-08T17:30:00.000Z",
+          "wordCount": 1925,
+          "title": "Announcing the general availability of pay-as-you-go for Power Apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "behind-the-scenes-what-it-takes-to-teach-gpt-3-how-to-build-low-code-apps",
           "author": null,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-09T01:15:06.104Z</updated>
+    <updated>2022-03-09T06:20:58.625Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -63,6 +63,16 @@ Keep your Retail Business Updated with the new LS Central functionalities
 How LS Retail Partner helps retailers in buying LS Retail software license?]]></summary>
         <author>
             <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing the general availability of pay-as-you-go for Power Apps]]></title>
+        <id>announcing-the-general-availability-of-pay-as-you-go-for-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-pay-as-you-go-for-power-apps/"/>
+        <updated>2022-03-08T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Pay-as-you-go for Power Apps is a new way to pay for Power Apps using an Azure subscription. Pay-as-you-go allows you to share a Power Apps app with any user in your organization and then only pay if and when they use that app.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -2025,6 +2035,16 @@ How does Business Central offer enhanced reporting and data access?]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[D365: 2022Wave1 – Unified pricing service]]></title>
+        <id>http://kurthatlevik.com/?p=4312</id>
+        <link href="https://kurthatlevik.com/2022/01/26/d365-2022wave1-unified-pricing-service/"/>
+        <updated>2022-01-26T14:43:41.000Z</updated>
+        <summary type="html"><![CDATA[I have had the chance to look deep into the 2022 release wave 1 plans. There are tons of goodies, and we again see the direction where things are going. There is a lot of investments in the microservices area, and we see the platform opening up like a blooming flower. There is one specific … Continue reading D365: 2022Wave1 – Unified pricing service]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AP Automation Benefits Every Company Size]]></title>
         <id>https://www.erpsoftwareblog.com/?p=85382</id>
         <link href="https://www.erpsoftwareblog.com/2022/01/ap-automation-benefits-every-company-size/"/>
@@ -2394,6 +2414,16 @@ It’s a Great Time to Implement Microsoft Dynamics ERP
 How the Post-Sale Experience is Changing and How Finance Teams Can Prepare Themselves]]></summary>
         <author>
             <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365; 4 Lines to scroll at a time]]></title>
+        <id>http://kurthatlevik.com/?p=4308</id>
+        <link href="https://kurthatlevik.com/2022/01/16/d365-4-lines-to-scroll-at-a-time/"/>
+        <updated>2022-01-16T17:46:18.000Z</updated>
+        <summary type="html"><![CDATA[Here is very small tip. Set your windows mouse line scrolling to 4 lines when using Dynamics 365. When you then scroll in D365 lookups, one scroll-click is then jumping one page down in the lookups (in my case). #LifeHack]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
         </author>
     </entry>
     <entry>
@@ -2853,6 +2883,26 @@ next season.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[D365 – 252 Solution Blueprint review questions]]></title>
+        <id>http://kurthatlevik.com/?p=4304</id>
+        <link href="https://kurthatlevik.com/2022/01/06/d365-252-solution-blueprint-review-questions/"/>
+        <updated>2022-01-06T16:01:48.000Z</updated>
+        <summary type="html"><![CDATA[One of the most important aspects of Success By Design program is to ensure quality in the implementation process and to set the right expectations. One important setup in this process is the Microsoft Solution Blueprint Review workshop that can be offered to customers through extended FastTrack Engagement. The Solution Blueprint Review workshop covers the … Continue reading D365 – 252 Solution Blueprint review questions]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Hidden Sales order gem; copy from item list]]></title>
+        <id>http://kurthatlevik.com/?p=4301</id>
+        <link href="https://kurthatlevik.com/2022/01/05/d365-hidden-sales-order-gem-copy-from-item-list/"/>
+        <updated>2022-01-05T20:50:00.000Z</updated>
+        <summary type="html"><![CDATA[A small but highly productive tip is the feature of “Item list”. It has been available for years but have not gotten the deserved attention. The feature does not even have a docs page. With this feature it makes it much easier to create sales order, by copying the lines from an ‘item list’. The … Continue reading D365 Hidden Sales order gem; copy from item list]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How modern technology is enabling a better approach to lean in todays volatile market]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:349ea6ff-034f-4a15-a1e4-cea060a576ad</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/how-modern-technology-is-enabling-a-better-approach-to-lean-in-todays-volatile-market"/>
@@ -2881,6 +2931,16 @@ sa.global.
  Dynamic Consulting... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 – top things to learn and tools to use in 2022]]></title>
+        <id>http://kurthatlevik.com/?p=4289</id>
+        <link href="https://kurthatlevik.com/2022/01/01/dynamics-365-top-things-to-learn-and-tool-to-use-in-2022-2/"/>
+        <updated>2022-01-01T15:31:29.000Z</updated>
+        <summary type="html"><![CDATA[I first want to thank the 92.898 visitors to my blog in 2021. It has been my pleasure to share with the community, and 2021 have been the best so far. This time, I would like to summarize my tips on what to learn and tools to use that can further bring value to our … Continue reading Dynamics 365 – top things to learn and tools to use in 2022]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
         </author>
     </entry>
     <entry>
@@ -3023,6 +3083,16 @@ billion
  Thoma Bravo shareholders will receive $57 per share as part... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diagrams.net]]></title>
+        <id>http://kurthatlevik.com/?p=4281</id>
+        <link href="https://kurthatlevik.com/2021/12/16/diagrams-net/"/>
+        <updated>2021-12-16T09:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Most of us in the field have traditionally used Microsoft Visio to show architecture, processes and systems. But there is an alternative that I would recommend to the community: https://www.diagrams.net/ This is a free, online and easy to use tool to quickly represent graphics related to what you want to show. Give it a try, … Continue reading Diagrams.net]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
         </author>
     </entry>
     <entry>
@@ -3412,6 +3482,16 @@ Open Teams Chat app from Taskbar. It helps you quickly select a chat thread dire
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[D365 Recurring Integrations Scheduler(RIS)]]></title>
+        <id>http://kurthatlevik.com/?p=4277</id>
+        <link href="https://kurthatlevik.com/2021/11/02/d365-recurring-integrations-schedulerris/"/>
+        <updated>2021-11-02T10:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Today I would like to pay my respect to the free GitHub initiative Recurring Integrations Scheduler (RIS). RIS is a solution that transports files/messages between on-premises folders and D365FO. This is a way to perform good old file integrations, and even for automating import/export of data entities between environments. And without having to develop/program anything. … Continue reading D365 Recurring Integrations Scheduler(RIS)]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5 Tips to improve the performance in a DMF import project]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:46938077-4d11-43cb-8275-cb7aab191f44</id>
         <link href="https://community.dynamics.com/ax/b/axinthefield/posts/5-tips-to-improve-the-performance-in-a-dmf-import-project"/>
@@ -3670,6 +3750,16 @@ for /f "Tokens=*" %f in ('dir /l/b/a-d/s') do (rename "%f" "%f")]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to learn and try out Dynamics 365 Commerce?]]></title>
+        <id>http://kurthatlevik.com/?p=4266</id>
+        <link href="https://kurthatlevik.com/2021/10/08/how-to-learn-and-try-out-dynamics-365-commerce/"/>
+        <updated>2021-10-08T07:36:48.000Z</updated>
+        <summary type="html"><![CDATA[The Dynamics 365 Commerce team at Microsoft have created a great trial site where you can try out all their good stuff and get some guided walk through of their capabilities. Please check it out: https://manage.commerce.dynamics.com/welcome/index.html Here is your to-do list of what you should explore: B2C experience Product discovery and cloud powered search Curb-side … Continue reading How to learn and try out Dynamics 365 Commerce?]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Extend Microsoft 365 with office add-ins]]></title>
         <id>https://nuxulu.com/2021-10-07-extend-microsoft-365/</id>
         <link href="https://nuxulu.com/2021-10-07-extend-microsoft-365/"/>
@@ -3716,6 +3806,16 @@ $ git merge [branch]
 Combines the specified branch’s histo…]]></summary>
         <author>
             <name>Max Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 : Use your data]]></title>
+        <id>http://kurthatlevik.com/?p=4263</id>
+        <link href="https://kurthatlevik.com/2021/09/27/d365-use-your-data/"/>
+        <updated>2021-09-27T12:18:32.000Z</updated>
+        <summary type="html"><![CDATA[When I observe the use of Dynamics 365, I often see that most often there are well-established processes and routines for getting data into the Dynamics 365 system. But using this data is often limited to retrieving financial reports that show everything in dollars and cents. However, the information contained in the system is often … Continue reading D365 : Use your data]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
         </author>
     </entry>
     <entry>
@@ -3999,6 +4099,16 @@ CompanyInfo companyInfo = CompanyInfo::find();
 3) Order events]]></summary>
         <author>
             <name>Rahul Mohta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 – Building a business value review]]></title>
+        <id>http://kurthatlevik.com/?p=4245</id>
+        <link href="https://kurthatlevik.com/2021/08/23/d365-building-a-business-value-review/"/>
+        <updated>2021-08-23T11:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Latest & greatest tech, faster, better and new possibilities, are from a consultancy perspective fun and rewarding. But it is very seldom that these aspects are the deciding factors when it come to implementing Dynamics 365. Any organization have a finite set of resources in terms of people, knowledge, money, and time. How to best … Continue reading D365 – Building a business value review]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
         </author>
     </entry>
     <entry>
