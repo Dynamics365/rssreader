@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-09T16:06:09.008Z</updated>
+    <updated>2022-03-10T01:17:53.466Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What businesses need to know about ethical procurement]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:fef502a6-56c7-45a6-afb8-de57b3941fbd</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/what-businesses-need-to-know-about-ethical-procurement"/>
+        <updated>2022-03-09T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Look no farther than recent headlines to understand the costs businesses incur when they ignore basic ethical guidelines .... Read More Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D365 Finance – Improve the performance on the All sales orders page]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6fed0e51-7640-4a5d-8524-5df7ed1c2fad</id>
