@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-10T01:17:53.466Z</updated>
+    <updated>2022-03-11T01:16:27.069Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Application Version 10.0.25 Feature Summary]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8749c28a-7cd4-4324-95f3-3a417e4004aa</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/application-version-10-0-25-feature-summary"/>
+        <updated>2022-03-10T15:59:58.000Z</updated>
+        <summary type="html"><![CDATA[Application version 10.0.25 will be generally available as of March 18, 2022. This release is the major release for 2022 release wave 1. For a listing of all KBs included in this release, you can find...(read more)]]></summary>
+        <author>
+            <name>Ryan Sandness MSFT</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What businesses need to know about ethical procurement]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:fef502a6-56c7-45a6-afb8-de57b3941fbd</id>
