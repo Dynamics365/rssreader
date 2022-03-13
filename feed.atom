@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-12T01:07:33.595Z</updated>
+    <updated>2022-03-13T01:09:34.522Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -288,6 +288,16 @@ Global
         <summary type="html"><![CDATA[Microsoft is working on creating a better experience for viewing release plans for Dynamics and Power Platform. In this portal, you can view all new features that are organized by what has recently re...(read more)]]></summary>
         <author>
             <name>Todd Jeska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Platform Stories]]></title>
+        <id>power-platform-stories</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-stories/"/>
+        <updated>2022-02-15T08:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a list of customer stories curated by the Power CAT team. These stories showcase the ingenuity of a wide breadth of organizations and users that have adopted low-code and Microsoft Power Platform along with Microsoft 365, Azure, and Dynamics 365. Makers of apps, flows, reports, and chatbots have digitally transformed their business processes, and in some cases transformed organization culture, careers, and lives. We hope these serve as inspiration for you as you embark on your own Power Platform journey.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
