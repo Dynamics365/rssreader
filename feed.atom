@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-14T01:13:15.546Z</updated>
+    <updated>2022-03-15T01:17:05.846Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Application Version 10.0.26 is Available for Public Preview]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ed86f24e-0c19-419d-b8f6-11bb4c98c361</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/application-version-10-0-26-is-available-for-public-preview"/>
+        <updated>2022-03-14T17:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Application version 10.0.26 is now available for public preview. If you are interested in learning more about getting access to preview builds through the Public Early Access Program (PEAP) please che...(read more)]]></summary>
+        <author>
+            <name>Todd Jeska</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSDW Podcast: Microsoft News Roundup, March 2022]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:18aae98e-7cbd-4f4f-97df-763252f914eb</id>
