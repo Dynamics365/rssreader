@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-18T01:16:43.183Z</updated>
+    <updated>2022-03-19T01:09:25.294Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics Partner Roundup: Education partnership; Construction offering; E-procurement; Promotion]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:654f7e34-48c6-45da-8ed1-6fc6f4ef8606</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-partner-roundup-education-partnership-construction-offering-e-procurement-promotion"/>
+        <updated>2022-03-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this week's Microsoft Dynamics Partner News Roundup: 
+ 
+ Sparkrock teams up with consulting firm Queue Associates 
+ SIS LLC expands its offerings to address heavy civil
+construction with its Construct 365 suite of products built on
+Dynamics 365... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Application Version 10.0.26 is Available for Public Preview]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ed86f24e-0c19-419d-b8f6-11bb4c98c361</id>
