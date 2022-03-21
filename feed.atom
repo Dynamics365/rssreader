@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-21T01:17:04.622Z</updated>
+    <updated>2022-03-21T15:31:16.622Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Apps for Non-For-Profit with Adam Cunningham]]></title>
+        <id>https://365community.online/power-apps-for-non-for-profit-with-adam-cunningham</id>
+        <link href="https://365community.online/power-apps-for-non-for-profit-with-adam-cunningham?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=power-apps-for-non-for-profit-with-adam-cunningham"/>
+        <updated>2022-03-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES:  https://podcast.nz365guy.com/364  An introduction about Adam Cunningham – life background and interest.  A conversation about Adam’s career and how he got into technology.   Talks about how Adam got involved in Power Platform and other technologies.  Discussions about the feedback and change from using Excell for reporting to Power BI  Adam talks about […]
+The post Power Apps for Non-For-Profit with Adam Cunningham appeared first on 365 Community.]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Ops Meets Dev – Introduction]]></title>
+        <id>https://365community.online/when-ops-meets-dev-introduction</id>
+        <link href="https://365community.online/when-ops-meets-dev-introduction?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=when-ops-meets-dev-introduction"/>
+        <updated>2022-03-21T11:58:00.000Z</updated>
+        <summary type="html"><![CDATA[So Hi everyone and welcome to this first introduction video of a brand new live stream that will be kicking off from the 1st April 2022 Join me, Jonny based in the UK where I will be joined by the awesome Robbie over in the USA (wave) and Swamy who is based in India (wave) […]
+The post When Ops Meets Dev – Introduction appeared first on 365 Community.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change SQL Server Analysis Services Deployment Mode from Multidimensional to Tabular]]></title>
+        <id>https://365community.online/change-sql-server-analysis-services-deployment-mode-from-multidimensional-to-tabular</id>
+        <link href="https://365community.online/change-sql-server-analysis-services-deployment-mode-from-multidimensional-to-tabular?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=change-sql-server-analysis-services-deployment-mode-from-multidimensional-to-tabular"/>
+        <updated>2022-03-21T11:00:37.000Z</updated>
+        <summary type="html"><![CDATA[I recently installed SQL Server Analysis Services (SSAS) and used the default settings during the installation. Unfortunately, this meant I installed it using a Deployment Mode of Multidimensional instead of Tabular. I wanted to avoid uninstalling so I did some poking around and found there is a setting file which can be amended to change […]
+The post Change SQL Server Analysis Services Deployment Mode from Multidimensional to Tabular appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How many teams can a Scrum Master master? – YouTube]]></title>
+        <id>https://365community.online/how-many-teams-can-a-scrum-master-master-youtube</id>
+        <link href="https://365community.online/how-many-teams-can-a-scrum-master-master-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-many-teams-can-a-scrum-master-master-youtube"/>
+        <updated>2022-03-21T01:37:46.000Z</updated>
+        <summary type="html"><![CDATA[Imagine going for a job interview with a Microsoft partner, and the hiring manager asks, “How many Dynamics 365 or Power Platform scrum teams could you coach at once?” How would you answer that? Or what follow-up questions would you ask? Find out how I’d answer that with three possible responses: the sports analogy response, […]
+The post How many teams can a Scrum Master master? – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project for the web to Project Operations migration with Power Automate]]></title>
+        <id>https://365community.online/project-for-the-web-to-project-operations-migration-with-power-automate</id>
+        <link href="https://365community.online/project-for-the-web-to-project-operations-migration-with-power-automate?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=project-for-the-web-to-project-operations-migration-with-power-automate"/>
+        <updated>2022-03-20T18:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Migrating Project for the web projects from the default environment is a question I get asked every now and then. Sometimes customers want to migrate their P4W projects to Project Operations. Another ask is migrating P4W projects from default to a Dataverse production environment. With the Project schedule APIs, there’s an answer to these asks. […]
+The post Project for the web to Project Operations migration with Power Automate appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Antti Pajunen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to disable Email Tracing Token in Dynamics 365 CE?]]></title>
+        <id>https://365community.online/how-to-disable-email-tracing-token-in-dynamics-365-ce</id>
+        <link href="https://365community.online/how-to-disable-email-tracing-token-in-dynamics-365-ce?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-disable-email-tracing-token-in-dynamics-365-ce"/>
+        <updated>2022-03-20T12:44:52.000Z</updated>
+        <summary type="html"><![CDATA[By default, whenever you send an email from Dynamics 365 CE, you would have observed that the Tracing Token appended at the end of the Email Subject like CRM:00010003. But, if you do not want to show this tracing token, follow the below steps. Step 1: Login to Power Apps Maker Portal with your credentials. […]
+The post How to disable Email Tracing Token in Dynamics 365 CE? appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to handle cases within D365 HR]]></title>
+        <id>https://365community.online/how-to-handle-cases-within-d365-hr</id>
+        <link href="https://365community.online/how-to-handle-cases-within-d365-hr?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-handle-cases-within-d365-hr"/>
+        <updated>2022-03-20T10:17:30.000Z</updated>
+        <summary type="html"><![CDATA[I’ve wanted to write about this for a while. In one of the biggest projects I was involved in as a consultant, I got the chance to manage this stream for the customer business problem. It was a very large project and the complexity was above the sky. At the moment we used D365 HR […]
+The post How to handle cases within D365 HR appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to enable model-driven apps for offline use]]></title>
+        <id>https://365community.online/how-to-enable-model-driven-apps-for-offline-use</id>
+        <link href="https://365community.online/how-to-enable-model-driven-apps-for-offline-use?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-enable-model-driven-apps-for-offline-use"/>
+        <updated>2022-03-19T11:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: Recently, Microsoft has announced the availability of the “Mobile Offline” option for Dynamics 365 CRM. This feature allows the user to interact with Dynamics 365 CRM even when there’s an unavailability of internet connection. And once the network is back, the changes or updates made by the user gets synced with Dynamics 365 CRM. […]
+The post How to enable model-driven apps for offline use appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonnychipz – In Conversation with Daniel McLoughlin – YouTube]]></title>
+        <id>https://365community.online/jonnychipz-in-conversation-with-daniel-mcloughlin-youtube</id>
+        <link href="https://365community.online/jonnychipz-in-conversation-with-daniel-mcloughlin-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jonnychipz-in-conversation-with-daniel-mcloughlin-youtube"/>
+        <updated>2022-03-19T07:07:28.000Z</updated>
+        <summary type="html"><![CDATA[Jonnychipz – In Conversation with Daniel McLoughlin Released: 18.03.22 Join John Lunn aka Jonnychipz as he is joined by Technical Product Manager Daniel McLoughlin. This episode of Jonnychipz In Conversation with’ will be released multiplatform on Azureish Live (www.twitch.tv/azureishlive) Jonnychipz Twitch (www.twitch.tv/jonnychipz) my Twitter, LinkedIn and YouTube simultaneously and its a great episode that you […]
+The post Jonnychipz – In Conversation with Daniel McLoughlin – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonnychipz Weekly #64 – Time – YouTube]]></title>
+        <id>https://365community.online/jonnychipz-weekly-64-time-youtube</id>
+        <link href="https://365community.online/jonnychipz-weekly-64-time-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jonnychipz-weekly-64-time-youtube"/>
+        <updated>2022-03-19T01:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Jonnychipz Weekly #64 – Time Released: 18.03.22 Week 64 of my Jonnychipz weekly VLOG, covering the Last Week of Azure News and Updates, Welsh Azure User Group News and some great Community Callouts. Live at 12.30pm GMT 18.03.22. on my YouTube channel (Click the link below!) This week I delve into the Azure Updates of […]
+The post Jonnychipz Weekly #64 – Time – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Dynamics Partner Roundup: Education partnership; Construction offering; E-procurement; Promotion]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:654f7e34-48c6-45da-8ed1-6fc6f4ef8606</id>
