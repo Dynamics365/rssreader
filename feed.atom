@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-21T15:31:16.622Z</updated>
+    <updated>2022-03-22T01:21:33.754Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams]]></title>
+        <id>https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams</id>
+        <link href="https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams"/>
+        <updated>2022-03-21T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This could be the most important podcast that you listen to all year! If you have flows in Power Automate running with Service Accounts then listen to this show as soon as you can. We are joined by Wictor Wilen to talk about a few of the big news stories in the last couple of […]
+The post Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams appeared first on 365 Community.]]></summary>
+        <author>
+            <name>greyhatbeard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General Availability of Power Platform Tools for Visual Studio Code and February Refresh for Power Platform CLI]]></title>
+        <id>general-availability-of-power-platform-tools-for-visual-studio-code-and-february-refresh-for-power-platform-cli</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/general-availability-of-power-platform-tools-for-visual-studio-code-and-february-refresh-for-power-platform-cli/"/>
+        <updated>2022-03-21T16:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Announcement of General Availability for the Power Platform Tools for Visual Studio Code]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Apps for Non-For-Profit with Adam Cunningham]]></title>
         <id>https://365community.online/power-apps-for-non-for-profit-with-adam-cunningham</id>

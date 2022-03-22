@@ -958,6 +958,21 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams",
+          "author": "greyhatbeard",
+          "description": "This could be the most important podcast that you listen to all year! If you have flows in Power Automate running with Service Accounts then listen to this show as soon as you can. We are joined by Wictor Wilen to talk about a few of the big news stories in the last couple of […]\nThe post Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams appeared first on 365 Community.",
+          "link": "https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams?utm_source=rss&utm_medium=rss&utm_campaign=show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams",
+          "publishedOn": "2022-03-21T22:00:00.000Z",
+          "wordCount": 669,
+          "title": "Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1455661/10292390-show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/power-apps-for-non-for-profit-with-adam-cunningham",
           "author": "NZ365Guy",
           "description": "FULL SHOW NOTES:  https://podcast.nz365guy.com/364  An introduction about Adam Cunningham – life background and interest.  A conversation about Adam’s career and how he got into technology.   Talks about how Adam got involved in Power Platform and other technologies.  Discussions about the feedback and change from using Excell for reporting to Power BI  Adam talks about […]\nThe post Power Apps for Non-For-Profit with Adam Cunningham appeared first on 365 Community.",
@@ -4374,6 +4389,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "general-availability-of-power-platform-tools-for-visual-studio-code-and-february-refresh-for-power-platform-cli",
+          "author": null,
+          "description": "Announcement of General Availability for the Power Platform Tools for Visual Studio Code",
+          "link": "https://powerapps.microsoft.com/en-us/blog/general-availability-of-power-platform-tools-for-visual-studio-code-and-february-refresh-for-power-platform-cli/",
+          "publishedOn": "2022-03-21T16:23:40.000Z",
+          "wordCount": 1008,
+          "title": "General Availability of Power Platform Tools for Visual Studio Code and February Refresh for Power Platform CLI",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "announcing-the-general-availability-of-pay-as-you-go-for-power-apps",
           "author": null,
