@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-22T01:21:33.754Z</updated>
+    <updated>2022-03-23T01:26:08.340Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: introducing the in-client Performance Profiler]]></title>
+        <id>https://365community.online/dynamics-365-business-central-introducing-the-in-client-performance-profiler</id>
+        <link href="https://365community.online/dynamics-365-business-central-introducing-the-in-client-performance-profiler?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dynamics-365-business-central-introducing-the-in-client-performance-profiler"/>
+        <updated>2022-03-22T15:42:04.000Z</updated>
+        <summary type="html"><![CDATA[With the upcoming Dynamics 365 Business Central 2022 Wave 1 release (version 20), Microsoft has enhanced the AL performance profiler (available starting from version 19 only via Visual Studio Code) giving the possibility also to functional developers/consultants, as well as customer administrators and power users to capture a user flow from within the web client […]
+The post Dynamics 365 Business Central: introducing the in-client Performance Profiler appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Security in Dataverse]]></title>
+        <id>https://365community.online/introduction-to-security-in-dataverse</id>
+        <link href="https://365community.online/introduction-to-security-in-dataverse?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=introduction-to-security-in-dataverse"/>
+        <updated>2022-03-22T14:58:00.000Z</updated>
+        <summary type="html"><![CDATA[I have been very busy the last week talking about Security in Dataverse! So, I wanted to take a few minutes to share those recordings and resources with you. Security Horror Stories I started the week talking Security Horror Stories with the CRM Rocks Podcast. You can watch this on YouTube or listen on CRM […]
+The post Introduction to Security in Dataverse appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Kylie Kiser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schooled in – Microsoft 365 Defender with Ru Campbell]]></title>
+        <id>https://365community.online/schooled-in-microsoft-365-defender-with-ru-campbell</id>
+        <link href="https://365community.online/schooled-in-microsoft-365-defender-with-ru-campbell?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=schooled-in-microsoft-365-defender-with-ru-campbell"/>
+        <updated>2022-03-22T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this YouTube Series where I am joined by a guest to get ‘Schooled In’ a particular Technical Topic. I am really pleased to announce that in this third episode I am joined by Security Architect, MVP, Blogger and Podcaster Ru Campbell, where he talks to me about Microsoft 365 Defender! Twitter: https://twitter.com/rucam365 Blog: https://campbell.scot […]
+The post Schooled in – Microsoft 365 Defender with Ru Campbell appeared first on 365 Community.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live CodeFC – Acesso externo com SPFx, Power Apps Portals e Canvas app – YouTube]]></title>
+        <id>https://365community.online/live-codefc-acesso-externo-com-spfx-power-apps-portals-e-canvas-app-youtube</id>
+        <link href="https://365community.online/live-codefc-acesso-externo-com-spfx-power-apps-portals-e-canvas-app-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=live-codefc-acesso-externo-com-spfx-power-apps-portals-e-canvas-app-youtube"/>
+        <updated>2022-03-22T11:46:37.000Z</updated>
+        <summary type="html"><![CDATA[Nessa live que vai rolar em breve no canal CodeFC vamos falar essas três tecnologias seus prós e contras e qual cenário podemos utilizar cada uma delas quando pensamos em acesso externo. 🎬Inscreva-se no CodeFC: https://www.youtube.com/c/CodeFC E fique ligado. source
+The post Live CodeFC – Acesso externo com SPFx, Power Apps Portals e Canvas app – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Saulo Soares Oliveira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parse JSON In Canvas App using Regex]]></title>
+        <id>https://365community.online/parse-json-in-canvas-app-using-regex</id>
+        <link href="https://365community.online/parse-json-in-canvas-app-using-regex?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=parse-json-in-canvas-app-using-regex"/>
+        <updated>2022-03-22T10:48:50.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: The Canvas App provides us with a visually rich representation of our data for mobile devices. Recently while trying to incorporate functionality in the Canvas App we needed a way to parse JSON. In the quest to find an appropriate approach for the same, we got to know that we can do this using […]
+The post Parse JSON In Canvas App using Regex appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Sales Reports in Dynamics 365 Sales]]></title>
+        <id>https://365community.online/new-sales-reports-in-dynamics-365-sales</id>
+        <link href="https://365community.online/new-sales-reports-in-dynamics-365-sales?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-sales-reports-in-dynamics-365-sales"/>
+        <updated>2022-03-22T09:17:00.000Z</updated>
+        <summary type="html"><![CDATA[There are a couple of new reports available in Dynamics 365 Sales which I wanted to share with you. The first report has several KPI’s and charts related to sequences in the Sales Accelerator. This report is part of 2021 Release Wave 1 and is currently in preview. It’s scheduled to be generally available later […]
+The post New Sales Reports in Dynamics 365 Sales appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preview-Sequence Reporting and Sales Usage Reports – YouTube]]></title>
+        <id>https://365community.online/preview-sequence-reporting-and-sales-usage-reports-youtube</id>
+        <link href="https://365community.online/preview-sequence-reporting-and-sales-usage-reports-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=preview-sequence-reporting-and-sales-usage-reports-youtube"/>
+        <updated>2022-03-22T09:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Preview-Sequence Reporting and Sales Usage Reports In this video I will share a few new embedded PowerBI reports for Dynamics 365 Sales. Related Article: https://d365goddess.com/new-sales-reports-in-dynamics-365-sales Blog: https://D365Goddess.com Twitter: https://twitter.com/D365Goddess LinkedIn: https://www.linkedin.com/in/diantaylor/ In this video I will share a few new embedded PowerBI reports for Dynamics 365 Sales. Related Article: https://d365goddess.com/new-sales-reports-in-dynamics-365-sales Blog: https://D365Goddess.com Twitter: https://twitter.com/D365Goddess LinkedIn: […]
+The post Preview-Sequence Reporting and Sales Usage Reports – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Release Wave 1 2022 – What’s new in Power Apps]]></title>
+        <id>https://365community.online/power-platform-release-wave-1-2022-whats-new-in-power-apps</id>
+        <link href="https://365community.online/power-platform-release-wave-1-2022-whats-new-in-power-apps?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=power-platform-release-wave-1-2022-whats-new-in-power-apps"/>
+        <updated>2022-03-22T07:17:14.000Z</updated>
+        <summary type="html"><![CDATA[With the upcoming Microsoft Power Platform 2022 Release Wave 1, I wanted to provide a guide to the community on the upcoming feature enhancements that will help make a difference in your deployments. The intention is to provide rolling commentary across the next couple of weeks with a focus on each of the major products […]
+The post Power Platform Release Wave 1 2022 – What’s new in Power Apps appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to – Synchronize Appointments between Dynamics 365 and Outlook using Server-Side Synchronization]]></title>
+        <id>https://365community.online/how-to-synchronize-appointments-between-dynamics-365-and-outlook-using-server-side-synchronization</id>
+        <link href="https://365community.online/how-to-synchronize-appointments-between-dynamics-365-and-outlook-using-server-side-synchronization?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-synchronize-appointments-between-dynamics-365-and-outlook-using-server-side-synchronization"/>
+        <updated>2022-03-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Appointments, Contacts, Fax, letters, Tasks, etc. entities can be synced both ways between Dynamics 365 and Outlook. This setting is configurable. Navigate to System Settings >> Synchronization tab Click on Synchronized Fields. It lists down all the entities there. We can define the synchronization direction by clicking on the arrow of the attribute for a […]
+The post How to – Synchronize Appointments between Dynamics 365 and Outlook using Server-Side Synchronization appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams – YouTube]]></title>
+        <id>https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams-youtube</id>
+        <link href="https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams-youtube"/>
+        <updated>2022-03-22T00:44:47.000Z</updated>
+        <summary type="html"><![CDATA[Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams This could be the most important podcast that you listen to all year! If you have flows in Power Automate running with Service Accounts then listen to this show as soon as you can. We are joined by Wictor […]
+The post Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>greyhatbeard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams]]></title>
         <id>https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams</id>
@@ -740,6 +850,200 @@ new connectors... Read the full text.]]></summary>
         <summary type="html"><![CDATA[Here is very small tip. Set your windows mouse line scrolling to 4 lines when using Dynamics 365. When you then scroll in D365 lookups, one scroll-click is then jumping one page down in the lookups (in my case). #LifeHack]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write-up adjustment extends depreciation periods]]></title>
+        <id>6497 at https://dynamics.fo</id>
+        <link href="https://dynamics.fo/feature/write-adjustment-extends-depreciation-periods"/>
+        <updated>2022-01-13T02:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Write-up adjustment extends depreciation periods
+
+Nathan Clouse
+
+Thu, 01/13/2022 - 03:40
+  
+  
+
+
+
+      
+    
+Module
+Fixed assets
+Available in Version
+10.0.17
+Learn More URL
+https://go.microsoft.com/fwlink/?linkid=2141074
+After posting a write-up adjustment to a fixed asset that applies straight-line service life, the system will extended depreciation periods to keep depreciation expenses consistent across the service life of the asset. When applying this type of adjustment, there’s a chance that depreciation amount in the last period differ from the amounts in the preceding periods.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workflow runtime job queue processing]]></title>
+        <id>6496 at https://dynamics.fo</id>
+        <link href="https://dynamics.fo/feature/workflow-runtime-job-queue-processing"/>
+        <updated>2022-01-13T02:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Workflow runtime job queue processing
+
+Nathan Clouse
+
+Thu, 01/13/2022 - 03:40
+  
+  
+
+
+
+      
+    
+Module
+Workflow
+Available in Version
+10.0.17
+Learn More URL
+https://go.microsoft.com/fwlink/?linkid=2143566
+Enables workflow message processing to use runtime jobs rather than runtime tasks. The purpose is to prevent Workflow execution from being stuck by a single long running message.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workflow pass comment to subworkflow]]></title>
+        <id>6495 at https://dynamics.fo</id>
+        <link href="https://dynamics.fo/feature/workflow-pass-comment-subworkflow"/>
+        <updated>2022-01-13T02:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Workflow pass comment to subworkflow
+
+Nathan Clouse
+
+Thu, 01/13/2022 - 03:40
+  
+  
+
+
+
+      
+    
+Module
+Workflow
+Available in Version
+10.0.17
+Learn More URL
+https://go.microsoft.com/fwlink/?linkid=2143566
+Enables the ability for last note to be passed to subworkflows.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workflow notification alternate email]]></title>
+        <id>6494 at https://dynamics.fo</id>
+        <link href="https://dynamics.fo/feature/workflow-notification-alternate-email"/>
+        <updated>2022-01-13T02:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Workflow notification alternate email
+
+Nathan Clouse
+
+Thu, 01/13/2022 - 03:40
+  
+  
+
+
+
+      
+    
+Module
+Workflow
+Available in Version
+10.0.17
+Enables the Workflow alternate email address field under User Options > Workflow. Disables the use of Sender email under User Options > Account as the email used to send Workflow notifications]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workflow maintenance batch job]]></title>
+        <id>6492 at https://dynamics.fo</id>
+        <link href="https://dynamics.fo/feature/workflow-maintenance-batch-job"/>
+        <updated>2022-01-13T02:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Workflow maintenance batch job
+
+Nathan Clouse
+
+Thu, 01/13/2022 - 03:40
+  
+  
+
+
+
+      
+    
+Module
+Workflow
+Available in Version
+10.0.17
+Learn More URL
+https://go.microsoft.com/fwlink/?linkid=2143566
+Enables the creation and execution of the Workflow Maintenance batch job.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workflow Enhanced Error]]></title>
+        <id>6491 at https://dynamics.fo</id>
+        <link href="https://dynamics.fo/feature/workflow-enhanced-error"/>
+        <updated>2022-01-13T02:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Workflow Enhanced Error
+
+Nathan Clouse
+
+Thu, 01/13/2022 - 03:40
+  
+  
+
+
+
+      
+    
+Module
+Workflow
+Available in Version
+10.0.17
+Learn More URL
+https://go.microsoft.com/fwlink/?linkid=2143566
+Enables the use of Workflow error codes and English logging text within the Workflow Engine.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Work split]]></title>
+        <id>6490 at https://dynamics.fo</id>
+        <link href="https://dynamics.fo/feature/work-split"/>
+        <updated>2022-01-13T02:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Work split
+
+Nathan Clouse
+
+Thu, 01/13/2022 - 03:40
+  
+  
+
+
+
+      
+    
+Module
+Warehouse management
+Available in Version
+10.0.17
+Learn More URL
+https://aka.ms/Work-Split
+Provides capability to split warehouse work that is in status open or in progress. It is used to move selected lines from current work to another new work to balance workload. New work can be assigned to another employee.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>

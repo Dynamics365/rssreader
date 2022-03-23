@@ -811,6 +811,76 @@
       "siteUrl": "https://dynamics.fo/",
       "articles": [
         {
+          "id": "6497 at https://dynamics.fo",
+          "author": "Nathan Clouse",
+          "description": "Write-up adjustment extends depreciation periods\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nFixed assets\nAvailable in Version\n10.0.17\nLearn More URL\nhttps://go.microsoft.com/fwlink/?linkid=2141074\nAfter posting a write-up adjustment to a fixed asset that applies straight-line service life, the system will extended depreciation periods to keep depreciation expenses consistent across the service life of the asset. When applying this type of adjustment, there’s a chance that depreciation amount in the last period differ from the amounts in the preceding periods.",
+          "link": "https://dynamics.fo/feature/write-adjustment-extends-depreciation-periods",
+          "publishedOn": "2022-01-13T02:40:06.000Z",
+          "wordCount": 215,
+          "title": "Write-up adjustment extends depreciation periods",
+          "imageUrl": null
+        },
+        {
+          "id": "6496 at https://dynamics.fo",
+          "author": "Nathan Clouse",
+          "description": "Workflow runtime job queue processing\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nWorkflow\nAvailable in Version\n10.0.17\nLearn More URL\nhttps://go.microsoft.com/fwlink/?linkid=2143566\nEnables workflow message processing to use runtime jobs rather than runtime tasks. The purpose is to prevent Workflow execution from being stuck by a single long running message.",
+          "link": "https://dynamics.fo/feature/workflow-runtime-job-queue-processing",
+          "publishedOn": "2022-01-13T02:40:06.000Z",
+          "wordCount": 186,
+          "title": "Workflow runtime job queue processing",
+          "imageUrl": null
+        },
+        {
+          "id": "6495 at https://dynamics.fo",
+          "author": "Nathan Clouse",
+          "description": "Workflow pass comment to subworkflow\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nWorkflow\nAvailable in Version\n10.0.17\nLearn More URL\nhttps://go.microsoft.com/fwlink/?linkid=2143566\nEnables the ability for last note to be passed to subworkflows.",
+          "link": "https://dynamics.fo/feature/workflow-pass-comment-subworkflow",
+          "publishedOn": "2022-01-13T02:40:06.000Z",
+          "wordCount": 169,
+          "title": "Workflow pass comment to subworkflow",
+          "imageUrl": null
+        },
+        {
+          "id": "6494 at https://dynamics.fo",
+          "author": "Nathan Clouse",
+          "description": "Workflow notification alternate email\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nWorkflow\nAvailable in Version\n10.0.17\nEnables the Workflow alternate email address field under User Options > Workflow. Disables the use of Sender email under User Options > Account as the email used to send Workflow notifications",
+          "link": "https://dynamics.fo/feature/workflow-notification-alternate-email",
+          "publishedOn": "2022-01-13T02:40:06.000Z",
+          "wordCount": 186,
+          "title": "Workflow notification alternate email",
+          "imageUrl": null
+        },
+        {
+          "id": "6492 at https://dynamics.fo",
+          "author": "Nathan Clouse",
+          "description": "Workflow maintenance batch job\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nWorkflow\nAvailable in Version\n10.0.17\nLearn More URL\nhttps://go.microsoft.com/fwlink/?linkid=2143566\nEnables the creation and execution of the Workflow Maintenance batch job.",
+          "link": "https://dynamics.fo/feature/workflow-maintenance-batch-job",
+          "publishedOn": "2022-01-13T02:40:06.000Z",
+          "wordCount": 167,
+          "title": "Workflow maintenance batch job",
+          "imageUrl": null
+        },
+        {
+          "id": "6491 at https://dynamics.fo",
+          "author": "Nathan Clouse",
+          "description": "Workflow Enhanced Error\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nWorkflow\nAvailable in Version\n10.0.17\nLearn More URL\nhttps://go.microsoft.com/fwlink/?linkid=2143566\nEnables the use of Workflow error codes and English logging text within the Workflow Engine.",
+          "link": "https://dynamics.fo/feature/workflow-enhanced-error",
+          "publishedOn": "2022-01-13T02:40:06.000Z",
+          "wordCount": 169,
+          "title": "Workflow Enhanced Error",
+          "imageUrl": null
+        },
+        {
+          "id": "6490 at https://dynamics.fo",
+          "author": "Nathan Clouse",
+          "description": "Work split\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nWarehouse management\nAvailable in Version\n10.0.17\nLearn More URL\nhttps://aka.ms/Work-Split\nProvides capability to split warehouse work that is in status open or in progress. It is used to move selected lines from current work to another new work to balance workload. New work can be assigned to another employee.",
+          "link": "https://dynamics.fo/feature/work-split",
+          "publishedOn": "2022-01-13T02:40:06.000Z",
+          "wordCount": 192,
+          "title": "Work split",
+          "imageUrl": null
+        },
+        {
           "id": "6493 at https://dynamics.fo",
           "author": "Nathan Clouse",
           "description": "Workflow notification actions\n\nNathan Clouse\n\nThu, 01/13/2022 - 03:40\n  \n  \n\n\n\n      \n    \nModule\nWorkflow\nAvailable in Version\n10.0.17\nLearn More URL\nhttps://go.microsoft.com/fwlink/?linkid=2138684\nEnables the ‘View’ link on notifications created for workflow work items to open the record and take action.",
@@ -957,6 +1027,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/dynamics-365-business-central-introducing-the-in-client-performance-profiler",
+          "author": "Stefano Demiliani",
+          "description": "With the upcoming Dynamics 365 Business Central 2022 Wave 1 release (version 20), Microsoft has enhanced the AL performance profiler (available starting from version 19 only via Visual Studio Code) giving the possibility also to functional developers/consultants, as well as customer administrators and power users to capture a user flow from within the web client […]\nThe post Dynamics 365 Business Central: introducing the in-client Performance Profiler appeared first on 365 Community.",
+          "link": "https://365community.online/dynamics-365-business-central-introducing-the-in-client-performance-profiler?utm_source=rss&utm_medium=rss&utm_campaign=dynamics-365-business-central-introducing-the-in-client-performance-profiler",
+          "publishedOn": "2022-03-22T15:42:04.000Z",
+          "wordCount": 483,
+          "title": "Dynamics 365 Business Central: introducing the in-client Performance Profiler",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/introduction-to-security-in-dataverse",
+          "author": "Kylie Kiser",
+          "description": "I have been very busy the last week talking about Security in Dataverse! So, I wanted to take a few minutes to share those recordings and resources with you. Security Horror Stories I started the week talking Security Horror Stories with the CRM Rocks Podcast. You can watch this on YouTube or listen on CRM […]\nThe post Introduction to Security in Dataverse appeared first on 365 Community.",
+          "link": "https://365community.online/introduction-to-security-in-dataverse?utm_source=rss&utm_medium=rss&utm_campaign=introduction-to-security-in-dataverse",
+          "publishedOn": "2022-03-22T14:58:00.000Z",
+          "wordCount": 462,
+          "title": "Introduction to Security in Dataverse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/schooled-in-microsoft-365-defender-with-ru-campbell",
+          "author": "John Lunn",
+          "description": "In this YouTube Series where I am joined by a guest to get ‘Schooled In’ a particular Technical Topic. I am really pleased to announce that in this third episode I am joined by Security Architect, MVP, Blogger and Podcaster Ru Campbell, where he talks to me about Microsoft 365 Defender! Twitter: https://twitter.com/rucam365 Blog: https://campbell.scot […]\nThe post Schooled in – Microsoft 365 Defender with Ru Campbell appeared first on 365 Community.",
+          "link": "https://365community.online/schooled-in-microsoft-365-defender-with-ru-campbell?utm_source=rss&utm_medium=rss&utm_campaign=schooled-in-microsoft-365-defender-with-ru-campbell",
+          "publishedOn": "2022-03-22T12:30:00.000Z",
+          "wordCount": 418,
+          "title": "Schooled in – Microsoft 365 Defender with Ru Campbell",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/live-codefc-acesso-externo-com-spfx-power-apps-portals-e-canvas-app-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Nessa live que vai rolar em breve no canal CodeFC vamos falar essas três tecnologias seus prós e contras e qual cenário podemos utilizar cada uma delas quando pensamos em acesso externo. 🎬Inscreva-se no CodeFC: https://www.youtube.com/c/CodeFC E fique ligado. source\nThe post Live CodeFC – Acesso externo com SPFx, Power Apps Portals e Canvas app – YouTube appeared first on 365 Community.",
+          "link": "https://365community.online/live-codefc-acesso-externo-com-spfx-power-apps-portals-e-canvas-app-youtube?utm_source=rss&utm_medium=rss&utm_campaign=live-codefc-acesso-externo-com-spfx-power-apps-portals-e-canvas-app-youtube",
+          "publishedOn": "2022-03-22T11:46:37.000Z",
+          "wordCount": 414,
+          "title": "Live CodeFC – Acesso externo com SPFx, Power Apps Portals e Canvas app – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/parse-json-in-canvas-app-using-regex",
+          "author": "Inogic",
+          "description": "Introduction: The Canvas App provides us with a visually rich representation of our data for mobile devices. Recently while trying to incorporate functionality in the Canvas App we needed a way to parse JSON. In the quest to find an appropriate approach for the same, we got to know that we can do this using […]\nThe post Parse JSON In Canvas App using Regex appeared first on 365 Community.",
+          "link": "https://365community.online/parse-json-in-canvas-app-using-regex?utm_source=rss&utm_medium=rss&utm_campaign=parse-json-in-canvas-app-using-regex",
+          "publishedOn": "2022-03-22T10:48:50.000Z",
+          "wordCount": 750,
+          "title": "Parse JSON In Canvas App using Regex",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-sales-reports-in-dynamics-365-sales",
+          "author": "Dian Taylor",
+          "description": "There are a couple of new reports available in Dynamics 365 Sales which I wanted to share with you. The first report has several KPI’s and charts related to sequences in the Sales Accelerator. This report is part of 2021 Release Wave 1 and is currently in preview. It’s scheduled to be generally available later […]\nThe post New Sales Reports in Dynamics 365 Sales appeared first on 365 Community.",
+          "link": "https://365community.online/new-sales-reports-in-dynamics-365-sales?utm_source=rss&utm_medium=rss&utm_campaign=new-sales-reports-in-dynamics-365-sales",
+          "publishedOn": "2022-03-22T09:17:00.000Z",
+          "wordCount": 417,
+          "title": "New Sales Reports in Dynamics 365 Sales",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/preview-sequence-reporting-and-sales-usage-reports-youtube",
+          "author": "Dian Taylor",
+          "description": "Preview-Sequence Reporting and Sales Usage Reports In this video I will share a few new embedded PowerBI reports for Dynamics 365 Sales. Related Article: https://d365goddess.com/new-sales-reports-in-dynamics-365-sales Blog: https://D365Goddess.com Twitter: https://twitter.com/D365Goddess LinkedIn: https://www.linkedin.com/in/diantaylor/ In this video I will share a few new embedded PowerBI reports for Dynamics 365 Sales. Related Article: https://d365goddess.com/new-sales-reports-in-dynamics-365-sales Blog: https://D365Goddess.com Twitter: https://twitter.com/D365Goddess LinkedIn: […]\nThe post Preview-Sequence Reporting and Sales Usage Reports – YouTube appeared first on 365 Community.",
+          "link": "https://365community.online/preview-sequence-reporting-and-sales-usage-reports-youtube?utm_source=rss&utm_medium=rss&utm_campaign=preview-sequence-reporting-and-sales-usage-reports-youtube",
+          "publishedOn": "2022-03-22T09:15:01.000Z",
+          "wordCount": 395,
+          "title": "Preview-Sequence Reporting and Sales Usage Reports – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-platform-release-wave-1-2022-whats-new-in-power-apps",
+          "author": "Saurav Dhyani",
+          "description": "With the upcoming Microsoft Power Platform 2022 Release Wave 1, I wanted to provide a guide to the community on the upcoming feature enhancements that will help make a difference in your deployments. The intention is to provide rolling commentary across the next couple of weeks with a focus on each of the major products […]\nThe post Power Platform Release Wave 1 2022 – What’s new in Power Apps appeared first on 365 Community.",
+          "link": "https://365community.online/power-platform-release-wave-1-2022-whats-new-in-power-apps?utm_source=rss&utm_medium=rss&utm_campaign=power-platform-release-wave-1-2022-whats-new-in-power-apps",
+          "publishedOn": "2022-03-22T07:17:14.000Z",
+          "wordCount": 487,
+          "title": "Power Platform Release Wave 1 2022 – What’s new in Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-synchronize-appointments-between-dynamics-365-and-outlook-using-server-side-synchronization",
+          "author": "Nishant Rana",
+          "description": "Appointments, Contacts, Fax, letters, Tasks, etc. entities can be synced both ways between Dynamics 365 and Outlook. This setting is configurable. Navigate to System Settings >> Synchronization tab Click on Synchronized Fields. It lists down all the entities there. We can define the synchronization direction by clicking on the arrow of the attribute for a […]\nThe post How to – Synchronize Appointments between Dynamics 365 and Outlook using Server-Side Synchronization appeared first on 365 Community.",
+          "link": "https://365community.online/how-to-synchronize-appointments-between-dynamics-365-and-outlook-using-server-side-synchronization?utm_source=rss&utm_medium=rss&utm_campaign=how-to-synchronize-appointments-between-dynamics-365-and-outlook-using-server-side-synchronization",
+          "publishedOn": "2022-03-22T05:00:00.000Z",
+          "wordCount": 529,
+          "title": "How to – Synchronize Appointments between Dynamics 365 and Outlook using Server-Side Synchronization",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams-youtube",
+          "author": "greyhatbeard",
+          "description": "Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams This could be the most important podcast that you listen to all year! If you have flows in Power Automate running with Service Accounts then listen to this show as soon as you can. We are joined by Wictor […]\nThe post Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams – YouTube appeared first on 365 Community.",
+          "link": "https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams-youtube?utm_source=rss&utm_medium=rss&utm_campaign=show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams-youtube",
+          "publishedOn": "2022-03-22T00:44:47.000Z",
+          "wordCount": 612,
+          "title": "Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams – YouTube",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams",
           "author": "greyhatbeard",
