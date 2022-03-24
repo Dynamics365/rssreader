@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-23T01:26:08.340Z</updated>
+    <updated>2022-03-24T01:20:13.582Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zero to Hero – Session 4 – Lesson 10 – Danish Naglekar – PCF/React Lab. – YouTube]]></title>
+        <id>https://365community.online/zero-to-hero-session-4-lesson-10-danish-naglekar-pcf-react-lab-youtube-2</id>
+        <link href="https://365community.online/zero-to-hero-session-4-lesson-10-danish-naglekar-pcf-react-lab-youtube-2?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=zero-to-hero-session-4-lesson-10-danish-naglekar-pcf-react-lab-youtube-2"/>
+        <updated>2022-03-23T15:07:27.000Z</updated>
+        <summary type="html"><![CDATA[PCF/React control Danish Naglekar – Hands on Lab. Training Material: https://www.dantas.ca/zero-to-hero source
+The post Zero to Hero – Session 4 – Lesson 10 – Danish Naglekar – PCF/React Lab. – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tae Rim Han on The MVP Show]]></title>
+        <id>https://365community.online/tae-rim-han-on-the-mvp-show</id>
+        <link href="https://365community.online/tae-rim-han-on-the-mvp-show?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tae-rim-han-on-the-mvp-show"/>
+        <updated>2022-03-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/365 A brief introduction about Tae Rim Han’s life – family background and hobbies.  A conversation about Tae’s journey into technology.  Chats about Tae’s passion when it comes to SharePoint, Dynamics, PCF and Azure.  Talks about Tae’s career background.  Tae’s views and the big difference between working for a partner and dealing… […]
+The post Tae Rim Han on The MVP Show appeared first on 365 Community.]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Validate FetchXml by using ValidateFetchXmlExpression WebAPI function in the script]]></title>
+        <id>https://365community.online/validate-fetchxml-by-using-validatefetchxmlexpression-webapi-function-in-the-script</id>
+        <link href="https://365community.online/validate-fetchxml-by-using-validatefetchxmlexpression-webapi-function-in-the-script?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=validate-fetchxml-by-using-validatefetchxmlexpression-webapi-function-in-the-script"/>
+        <updated>2022-03-23T06:25:36.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: In a recent project, we retrieved Dynamics 365 CRM data using WebAPI and fetchXml expressions. In most cases, we create fetchXml expressions, where we add attributes and filter conditions dynamically in the fetchXml.  When we execute our dynamically created fetchXml expressions, it fails with  different error messages. Here we had come across a requirement […]
+The post Validate FetchXml by using ValidateFetchXmlExpression WebAPI function in the script appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How are tasks, letters, fax, phone call synchronized between Dynamics 365 and Outlook]]></title>
+        <id>https://365community.online/how-are-tasks-letters-fax-phone-call-synchronized-between-dynamics-365-and-outlook</id>
+        <link href="https://365community.online/how-are-tasks-letters-fax-phone-call-synchronized-between-dynamics-365-and-outlook?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-are-tasks-letters-fax-phone-call-synchronized-between-dynamics-365-and-outlook"/>
+        <updated>2022-03-23T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the previous post, we saw how Appointment Synchronization works, for other activity entities the  is more or less similar. How to – Synchronize Appointments between Dynamics 365 and Outlook using Server-Side Synchronization Below is the list of activity entities that are synced by default (we cannot configure custom entities for sync) Let us start by […]
+The post How are tasks, letters, fax, phone call synchronized between Dynamics 365 and Outlook appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonnychipz Schooled In – Microsoft 365 Defender with Ru Campbell – YouTube]]></title>
+        <id>https://365community.online/jonnychipz-schooled-in-microsoft-365-defender-with-ru-campbell-youtube</id>
+        <link href="https://365community.online/jonnychipz-schooled-in-microsoft-365-defender-with-ru-campbell-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jonnychipz-schooled-in-microsoft-365-defender-with-ru-campbell-youtube"/>
+        <updated>2022-03-23T01:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Jonnychipz Schooled In – Microsoft 365 Defender with Ru Campbell Released: 22.03.22 In this YouTube Series where I am joined by a guest to get ‘Schooled In’ a particular Technical Topic. I am really pleased to announce that in this third episode I am joined by Security Architect, MVP, Blogger and Podcaster Ru Campbell, where […]
+The post Jonnychipz Schooled In – Microsoft 365 Defender with Ru Campbell – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 Business Central: introducing the in-client Performance Profiler]]></title>
         <id>https://365community.online/dynamics-365-business-central-introducing-the-in-client-performance-profiler</id>
@@ -37,6 +92,17 @@ The post Introduction to Security in Dataverse appeared first on 365 Community.]
 The post Schooled in – Microsoft 365 Defender with Ru Campbell appeared first on 365 Community.]]></summary>
         <author>
             <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salesforce Certificates | Complete Salesforce Certifications and Careers 2022 – MindMajix – YouTube]]></title>
+        <id>https://365community.online/salesforce-certificates-complete-salesforce-certifications-and-careers-2022-mindmajix-youtube</id>
+        <link href="https://365community.online/salesforce-certificates-complete-salesforce-certifications-and-careers-2022-mindmajix-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=salesforce-certificates-complete-salesforce-certifications-and-careers-2022-mindmajix-youtube"/>
+        <updated>2022-03-22T12:00:35.000Z</updated>
+        <summary type="html"><![CDATA[————————————————————————————————————————– MindMajix Community: https://mindmajix.com/community Instagram: https://www.instagram.com/mindmajix/. Facebook: https://www.facebook.com/MindMajixTec… LinkedIn : https://www.linkedin.com/company/mind… Twitter: https://twitter.com/mindmajix 🔔 Subscribe to our channel to get video updates. https://www.youtube.com/channel/UCkKemMaRnFPlNLHZ0zOYfpA?sub_confirmation=1 For more information, please write back to us at info@mindmajix.com or call India : +91 905 240 3388 USA : +1 917 456 8403 Website: https://mindmajix.com source
+The post Salesforce Certificates | Complete Salesforce Certifications and Careers 2022 – MindMajix – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Jaya Sri</name>
         </author>
     </entry>
     <entry>
