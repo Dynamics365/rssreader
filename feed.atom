@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-24T01:20:13.582Z</updated>
+    <updated>2022-03-25T01:20:09.619Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zero to Hero – Aula 4 – Power Automate e Dataverse com Gustavo Moraes – YouTube]]></title>
+        <id>https://365community.online/zero-to-hero-aula-4-power-automate-e-dataverse-com-gustavo-moraes-youtube</id>
+        <link href="https://365community.online/zero-to-hero-aula-4-power-automate-e-dataverse-com-gustavo-moraes-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=zero-to-hero-aula-4-power-automate-e-dataverse-com-gustavo-moraes-youtube"/>
+        <updated>2022-03-24T18:25:00.000Z</updated>
+        <summary type="html"><![CDATA[source
+The post Zero to Hero – Aula 4 – Power Automate e Dataverse com Gustavo Moraes – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sequence Stats and Reshuffling of columns in Sales Accelerator]]></title>
+        <id>https://365community.online/sequence-stats-and-reshuffling-of-columns-in-sales-accelerator</id>
+        <link href="https://365community.online/sequence-stats-and-reshuffling-of-columns-in-sales-accelerator?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sequence-stats-and-reshuffling-of-columns-in-sales-accelerator"/>
+        <updated>2022-03-24T16:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: Recently in Dynamics 365 CRM 2022 release wave1, I came across new capabilities that are added in the Sequence grid. There are two capabilities that were recently added to help you better understand the sequence and user interactions. The new capabilities introduced are as below: “Sequence Stats”: Used for comparing sequence performance statistics over […]
+The post Sequence Stats and Reshuffling of columns in Sales Accelerator appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCT demystified]]></title>
+        <id>https://365community.online/mct-demystified</id>
+        <link href="https://365community.online/mct-demystified?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mct-demystified"/>
+        <updated>2022-03-24T14:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Following the previous post about a practical Learning for Microsoft Business Applications Functional and Technical Consultants, this one will demystified MCT (Microsoft Certified Trainer). Microsoft Certified Trainers (MCTs) are the premier technical and instructional experts in Microsoft technologies. The official requirements to become a MCT are described here:
+The post MCT demystified appeared first on 365 Community.]]></summary>
+        <author>
+            <name>José Miguel Azevedo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Azure Bicep? – YouTube]]></title>
+        <id>https://365community.online/what-is-azure-bicep-youtube</id>
+        <link href="https://365community.online/what-is-azure-bicep-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-is-azure-bicep-youtube"/>
+        <updated>2022-03-24T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[What is Azure Bicep? In this video I look at explaining what is Azure Bicep and why it could be a great tool for your organisation. Microsoft Learn Module: https://docs.microsoft.com/learn/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5004737 Azure Bicep Docs: https://docs.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep/?WT.mc_id=AZ-MVP-5004737 0:00 Introduction 0:19 What is Azure Bicep 1:12 Benefits of Azure Bicep 3:14 When is Azure Bicep the right tool? 4:52 […]
+The post What is Azure Bicep? – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Sarah Lean 🏴󠁧󠁢󠁳󠁣󠁴󠁿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central SaaS Environment Triggers]]></title>
+        <id>https://365community.online/business-central-saas-environment-triggers</id>
+        <link href="https://365community.online/business-central-saas-environment-triggers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=business-central-saas-environment-triggers"/>
+        <updated>2022-03-24T07:11:23.000Z</updated>
+        <summary type="html"><![CDATA[So – thanks to my colleague Márton Sági (the AL Studio guy ;-)), I came across a quite interesting, but highly under-documented ability today in Business Central. One that makes the below post purely based on assumptions ;-), since it’s undocumented, and resides only in the platform part of Business Central (so there isn’t much […]
+The post Business Central SaaS Environment Triggers appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to – Define System Filters for Synchronization using SavedQuery in Dynamics 365 / CRM]]></title>
+        <id>https://365community.online/how-to-define-system-filters-for-synchronization-using-savedquery-in-dynamics-365-crm</id>
+        <link href="https://365community.online/how-to-define-system-filters-for-synchronization-using-savedquery-in-dynamics-365-crm?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-define-system-filters-for-synchronization-using-savedquery-in-dynamics-365-crm"/>
+        <updated>2022-03-24T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We covered a few Synchronization topics in the last few blogs, here we will look at defining system filters to manage which records could be synced. How to – Synchronize Appointments between Dynamics 365 and Outlook using Server-Side Synchronization How are tasks, letters, fax, phone call synchronized between Dynamics 365 and Outlook We can see few default […]
+The post How to – Define System Filters for Synchronization using SavedQuery in Dynamics 365 / CRM appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tae Rim Han on The MVP Show – YouTube]]></title>
+        <id>https://365community.online/tae-rim-han-on-the-mvp-show-youtube</id>
+        <link href="https://365community.online/tae-rim-han-on-the-mvp-show-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tae-rim-han-on-the-mvp-show-youtube"/>
+        <updated>2022-03-23T17:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Tae Rim Han on The MVP Show FULL SHOW NOTES https://podcast.nz365guy.com/365 • A brief introduction about Tae Rim Han’s life – family background and hobbies.  • A conversation about Tae’s journey into technology.  • Chats about Tae’s passion when it comes to SharePoint, Dynamics, PCF and Azure.  • Talks about Tae’s career background.  • Tae’s […]
+The post Tae Rim Han on The MVP Show – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zero to Hero – Session 4 – Lesson 10 – Danish Naglekar – PCF/React Lab. – YouTube]]></title>
         <id>https://365community.online/zero-to-hero-session-4-lesson-10-danish-naglekar-pcf-react-lab-youtube-2</id>
