@@ -1028,6 +1028,81 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/power-platform-at-the-heart-of-scotlands-new-recycling-scheme",
+          "author": "Neil Benson",
+          "description": "#112. Dani Kahil interviews Paddy Byrne about the Power Platform's role in enabling Scotland's new recycling scheme for single-use drinking containers. Scots people are famous for being careful with their money so I imagine any program to pay them for recycling containers was always going to be a big hit. Learn about Paddy's Power Platform […]\nThe post Power Platform at the heart of Scotland’s new recycling scheme appeared first on 365 Community.",
+          "link": "https://365community.online/power-platform-at-the-heart-of-scotlands-new-recycling-scheme?utm_source=rss&utm_medium=rss&utm_campaign=power-platform-at-the-heart-of-scotlands-new-recycling-scheme",
+          "publishedOn": "2022-03-28T15:00:00.000Z",
+          "wordCount": 491,
+          "title": "Power Platform at the heart of Scotland’s new recycling scheme",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/show-53-part-2-the-journey-of-yo-teams-youtube",
+          "author": "greyhatbeard",
+          "description": "Show 53 – Part 2: The journey of Yo Teams This week we are joined by the fascinating Wictor Wilen who talks about the journey that he has taken with the open source project Yo Teams. We talked about why he created the project, how it has grown, how the community has helped make it […]\nThe post Show 53 – Part 2: The journey of Yo Teams – YouTube appeared first on 365 Community.",
+          "link": "https://365community.online/show-53-part-2-the-journey-of-yo-teams-youtube?utm_source=rss&utm_medium=rss&utm_campaign=show-53-part-2-the-journey-of-yo-teams-youtube",
+          "publishedOn": "2022-03-28T14:03:37.000Z",
+          "wordCount": 592,
+          "title": "Show 53 – Part 2: The journey of Yo Teams – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/reflecting-metadata-changes-in-flow-for-dataverse-connector",
+          "author": "Priyesh Wagh",
+          "description": "Here’s what to do when the changes in Dataverse and not reflected in a Flow using Dataverse actions. Continue Reading priyeshwagh777’s Article on their blog Reflecting Metadata changes in Flow for Dataverse connector If you’re building a Flow that uses Dataverse connectors, you might need to change the metadata and it doesn’t reflect in the […]\nThe post Reflecting Metadata changes in Flow for Dataverse connector appeared first on 365 Community.",
+          "link": "https://365community.online/reflecting-metadata-changes-in-flow-for-dataverse-connector?utm_source=rss&utm_medium=rss&utm_campaign=reflecting-metadata-changes-in-flow-for-dataverse-connector",
+          "publishedOn": "2022-03-28T12:11:52.000Z",
+          "wordCount": 429,
+          "title": "Reflecting Metadata changes in Flow for Dataverse connector",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/salesforce-vlocity-training-salesforce-vlocity-course-salesforce-vlocity-introduction-youtube",
+          "author": "Jaya Sri",
+          "description": "This MindMajix Video on Salesforce Vlocity Training for both freshers and experienced will cover all basics like Multi-Select, Custom Lightning Web Components, Text, Password, and Telephone. By watching this Salesforce Vlocity video you will be able to understand Type Header, Formulas, Custom LWC, Object types, Data Sources, Picklists, Adjustments, Price List Entries, and Product Bundles. […]\nThe post Salesforce Vlocity Training | Salesforce Vlocity Course | Salesforce Vlocity Introduction – YouTube appeared first on 365 Community.",
+          "link": "https://365community.online/salesforce-vlocity-training-salesforce-vlocity-course-salesforce-vlocity-introduction-youtube?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-vlocity-training-salesforce-vlocity-course-salesforce-vlocity-introduction-youtube",
+          "publishedOn": "2022-03-28T11:45:04.000Z",
+          "wordCount": 668,
+          "title": "Salesforce Vlocity Training | Salesforce Vlocity Course | Salesforce Vlocity Introduction – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/fetchxml-builder-from-zero-to-hero-youtube",
+          "author": "Jonas Rapp ᴹᴠᴾ ??",
+          "description": "On Thursday 7. April I will give a session at https://www.dantas.ca/zero-to-hero See you there! source\nThe post FetchXML Builder from Zero to Hero – YouTube appeared first on 365 Community.",
+          "link": "https://365community.online/fetchxml-builder-from-zero-to-hero-youtube?utm_source=rss&utm_medium=rss&utm_campaign=fetchxml-builder-from-zero-to-hero-youtube",
+          "publishedOn": "2022-03-28T09:05:05.000Z",
+          "wordCount": 361,
+          "title": "FetchXML Builder from Zero to Hero – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/show-53-part-2-the-journey-of-yo-teams",
+          "author": "greyhatbeard",
+          "description": "This week we are joined by the fascinating Wictor Wilen who talks about the journey that he has taken with the open source project Yo Teams. We talked about why he created the project, how it has grown, how the community has helped make it what it is and what's next for Yo Teams (plus […]\nThe post Show 53 – Part 2: The journey of Yo Teams appeared first on 365 Community.",
+          "link": "https://365community.online/show-53-part-2-the-journey-of-yo-teams?utm_source=rss&utm_medium=rss&utm_campaign=show-53-part-2-the-journey-of-yo-teams",
+          "publishedOn": "2022-03-28T06:00:00.000Z",
+          "wordCount": 492,
+          "title": "Show 53 – Part 2: The journey of Yo Teams",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1455661/10292534-show-53-part-2-the-journey-of-yo-teams.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/business-process-flow-ui-improvement-in-dynamics-365-crm",
+          "author": "Nishant Rana",
+          "description": "With 2022 Release Wave 1, we have a small enhancement in the user interface inside the BPF path line’s color contrast. With 2022 Release Wave 1 turned off– With 2022 Release Wave 1 – the path that needs to be followed is shown now in a slightly darker shade, making it easy for an agent […]\nThe post Business Process Flow UI Improvement in Dynamics 365 / CRM appeared first on 365 Community.",
+          "link": "https://365community.online/business-process-flow-ui-improvement-in-dynamics-365-crm?utm_source=rss&utm_medium=rss&utm_campaign=business-process-flow-ui-improvement-in-dynamics-365-crm",
+          "publishedOn": "2022-03-28T05:00:00.000Z",
+          "wordCount": 512,
+          "title": "Business Process Flow UI Improvement in Dynamics 365 / CRM",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
           "id": "https://365community.online/enable-power-automate-pane-in-canvas-apps-studio-preview",
           "author": "Priyesh Wagh",
           "description": "Here’s how you can access and create Power Automate Flows from within Canvas App in a new Pane approach. Continue Reading priyeshwagh777’s Article on their blog Enable Power Automate Pane in Canvas Apps Studio | Preview Now, you can start creating Flows from within the Power Apps itself and add Power Automate as a Pane […]\nThe post Enable Power Automate Pane in Canvas Apps Studio | Preview appeared first on 365 Community.",
