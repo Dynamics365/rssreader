@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-29T01:25:06.936Z</updated>
+    <updated>2022-03-30T01:24:42.101Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Disable Hyperlink for Lookup Columns in Grid Views of Model-driven Apps]]></title>
+        <id>https://365community.online/disable-hyperlink-for-lookup-columns-in-grid-views-of-model-driven-apps</id>
+        <link href="https://365community.online/disable-hyperlink-for-lookup-columns-in-grid-views-of-model-driven-apps?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=disable-hyperlink-for-lookup-columns-in-grid-views-of-model-driven-apps"/>
+        <updated>2022-03-29T20:52:00.000Z</updated>
+        <summary type="html"><![CDATA[This post will explain how you can turn off clickable lookups in the grid views of model-driven apps. Microsoft has recently rolled out the new update for Power Apps Read-Only Grid which has a new property called “Navigation types allowed”. This property will allow the system customiser to disable clickable hyperlinks for the lookup column values and […]
+The post Disable Hyperlink for Lookup Columns in Grid Views of Model-driven Apps appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Linn Zaw Win</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where can I find my registration keys on CustomerSource?]]></title>
+        <id>https://365community.online/where-can-i-find-my-registration-keys-on-customersource</id>
+        <link href="https://365community.online/where-can-i-find-my-registration-keys-on-customersource?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=where-can-i-find-my-registration-keys-on-customersource"/>
+        <updated>2022-03-29T12:22:23.000Z</updated>
+        <summary type="html"><![CDATA[This is a short post. I went looking for a customer’s registration keys and could not remember how to get to them now that the old CustomerSource links are dead and buried. So… future “me”, this is your reminder! And for those who stumble across this, you’re welcome, I hope the info stays “correct” for […]
+The post Where can I find my registration keys on CustomerSource? appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Used and not used Objects in Business Central license]]></title>
+        <id>https://365community.online/used-and-not-used-objects-in-business-central-license</id>
+        <link href="https://365community.online/used-and-not-used-objects-in-business-central-license?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=used-and-not-used-objects-in-business-central-license"/>
+        <updated>2022-03-29T09:05:11.000Z</updated>
+        <summary type="html"><![CDATA[I publish a simple APP that allows you to see not Used objects compared to those assigned in customer license (useful on BC On-premise). For example, the customer can extract the list of all objects loaded in the APP as customizations. Even if the objects numbered 50000 are practically free to use for the Cloud, […]
+The post Used and not used Objects in Business Central license appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Roberto Stefanetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customizing the side pane in the Deal Manager Workspace]]></title>
+        <id>https://365community.online/customizing-the-side-pane-in-the-deal-manager-workspace</id>
+        <link href="https://365community.online/customizing-the-side-pane-in-the-deal-manager-workspace?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=customizing-the-side-pane-in-the-deal-manager-workspace"/>
+        <updated>2022-03-29T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The Deal Manager Workspace is a feature that was introduced to us in 2021 Wave 1, and is currently in public preview. The Deal Manager Workspace is a work space that sales users can access from within the Sales Hub app in Dynamics 365 Sales. If you want to learn more about the Deal Manager […]
+The post Customizing the side pane in the Deal Manager Workspace appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customize sidepane in Deal Manager Workspace – YouTube]]></title>
+        <id>https://365community.online/customize-sidepane-in-deal-manager-workspace-youtube</id>
+        <link href="https://365community.online/customize-sidepane-in-deal-manager-workspace-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=customize-sidepane-in-deal-manager-workspace-youtube"/>
+        <updated>2022-03-29T09:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Customize sidepane in Deal Manager Workspace In this video I will show you how you can configure the Deal Manager Workspace side pane. I will also talk about what is and what isn’t supported while configuring the side pane. Related article: https://d365goddess.com/customizing-the-side-pane-in-the-deal-manager-workspace Video: Deal Manager Workspace (Preview) – https://youtu.be/TttghCuhqH8 Blog: https://D365Goddess.com Twitter: https://twitter.com/D365Goddess LinkedIn: https://www.linkedin.com/in/diantaylor/ […]
+The post Customize sidepane in Deal Manager Workspace – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perform activities from sequence step in Sales Accelerator and correlate it with timeline activities]]></title>
+        <id>https://365community.online/perform-activities-from-sequence-step-in-sales-accelerator-and-correlate-it-with-timeline-activities</id>
+        <link href="https://365community.online/perform-activities-from-sequence-step-in-sales-accelerator-and-correlate-it-with-timeline-activities?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=perform-activities-from-sequence-step-in-sales-accelerator-and-correlate-it-with-timeline-activities"/>
+        <updated>2022-03-29T06:44:39.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we will see how the sequence feature makes teamwork or Sales Manager’s work easy. To use this feature you need to configure Sales Accelerator and create Sequences. In our previous blogs (blog 1 and blog 2 ) we have shown how to configure Sales Accelerator and create Sequence. Now, let’s see some […]
+The post Perform activities from sequence step in Sales Accelerator and correlate it with timeline activities appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to – Stop synchronization of Task / Appointment between Dynamics 365 and Outlook]]></title>
+        <id>https://365community.online/how-to-stop-synchronization-of-task-appointment-between-dynamics-365-and-outlook</id>
+        <link href="https://365community.online/how-to-stop-synchronization-of-task-appointment-between-dynamics-365-and-outlook?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-stop-synchronization-of-task-appointment-between-dynamics-365-and-outlook"/>
+        <updated>2022-03-29T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the earlier posts we saw how synchronization works for different activities type and how to work with user as well as system filters. https://nishantrana.me/2022/03/22/how-to-synchronize-appointments-between-dynamics-365-and-outlook-using-server-side-synchronization/ https://nishantrana.me/2022/03/23/how-are-tasks-letters-fax-phone-call-synchronized-between-dynamics-365-and-outlook/… Continue Reading Nishant Rana’s Article on their blog How to – Stop synchronization of Task / Appointment between Dynamics 365 and Outlook In the earlier posts we saw how […]
+The post How to – Stop synchronization of Task / Appointment between Dynamics 365 and Outlook appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Platform at the heart of Scotland’s new recycling scheme]]></title>
         <id>https://365community.online/power-platform-at-the-heart-of-scotlands-new-recycling-scheme</id>
