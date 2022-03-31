@@ -1028,6 +1028,81 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/faster-time-entries-in-project-operations-automatically-filling-the-time-entry-grid",
+          "author": "Antti Pajunen",
+          "description": "Tested on Project Operations on Dataverse version 4.28.0.120 (February 2022) Do I always have to use quick create to create a new Time Entry? Is there a way to automatically fill the Time Entry grid with all projects a resource is on? Is there a way to see all projects automatically on the Time Entry […]\nThe post Faster Time Entries in Project Operations: Automatically filling the Time Entry grid appeared first on 365 Community.",
+          "link": "https://365community.online/faster-time-entries-in-project-operations-automatically-filling-the-time-entry-grid?utm_source=rss&utm_medium=rss&utm_campaign=faster-time-entries-in-project-operations-automatically-filling-the-time-entry-grid",
+          "publishedOn": "2022-03-30T20:04:15.000Z",
+          "wordCount": 449,
+          "title": "Faster Time Entries in Project Operations: Automatically filling the Time Entry grid",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/zaid-zaim-on-the-mvp-show",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/366  A short introduction about Zaid Zaim’s life background  Zaid shares his story about how he got involved in technology  How did Zaid start in mixed reality and his journey to where he is right now?  Find out more about what Mixed Reality is  Learn more about HoloSpaces  Zaid’s role at HoloSpaces […]\nThe post Zaid Zaim on The MVP Show appeared first on 365 Community.",
+          "link": "https://365community.online/zaid-zaim-on-the-mvp-show?utm_source=rss&utm_medium=rss&utm_campaign=zaid-zaim-on-the-mvp-show",
+          "publishedOn": "2022-03-30T13:00:00.000Z",
+          "wordCount": 407,
+          "title": "Zaid Zaim on The MVP Show",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/10322133-zaid-zaim-on-the-mvp-show.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/use-of-close-all-quotes-button-to-close-all-quotes-of-opportunity-in-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "Introduction: In this blog, we will see how to close all Quotes of individual opportunities by using the ‘Close all Quotes’ button which is situated on the ribbon bar of the Opportunity entity. Scenario: We have one Opportunity with multiple Quotes which are in ‘Draft’ status. Due to some product irrelevancy, we have lost the […]\nThe post Use of “Close all Quotes” button to close all Quotes of opportunity in Dynamics 365 CRM appeared first on 365 Community.",
+          "link": "https://365community.online/use-of-close-all-quotes-button-to-close-all-quotes-of-opportunity-in-dynamics-365-crm?utm_source=rss&utm_medium=rss&utm_campaign=use-of-close-all-quotes-button-to-close-all-quotes-of-opportunity-in-dynamics-365-crm",
+          "publishedOn": "2022-03-30T11:40:08.000Z",
+          "wordCount": 792,
+          "title": "Use of “Close all Quotes” button to close all Quotes of opportunity in Dynamics 365 CRM",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/create-application-users-for-dynamics-365-environment-power-platform-admin-center",
+          "author": "Priyesh Wagh",
+          "description": "Here’s how you create Application Users from the Power Platform Admin Center instead of the Classic UI in Dynamics 365 CRM Continue Reading priyeshwagh777’s Article on their blog Create Application Users for Dynamics 365 environment | Power Platform Admin Center Here’s how you create Application Users from the Power Platform Admin Center instead of the […]\nThe post Create Application Users for Dynamics 365 environment | Power Platform Admin Center appeared first on 365 Community.",
+          "link": "https://365community.online/create-application-users-for-dynamics-365-environment-power-platform-admin-center?utm_source=rss&utm_medium=rss&utm_campaign=create-application-users-for-dynamics-365-environment-power-platform-admin-center",
+          "publishedOn": "2022-03-30T11:30:16.000Z",
+          "wordCount": 433,
+          "title": "Create Application Users for Dynamics 365 environment | Power Platform Admin Center",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/build-your-first-azure-bicep-template-youtube",
+          "author": "Sarah Lean 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "description": "Build your first Azure Bicep template Join me in this video as I walk you through deploying your first Azure Bicep template. Microsoft Learn Module: https://docs.microsoft.com/learn/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5004737 Azure Bicep Docs: https://docs.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep/?WT.mc_id=AZ-MVP-5004737 0:00 Introduction 0:09 Azure Bicep template walkthrough 0:25 Azure Bicep template parameters 1:34 Azure Bicep template resource definition 2:37 Azure Bicep template outputs 3:15 Azure […]\nThe post Build your first Azure Bicep template – YouTube appeared first on 365 Community.",
+          "link": "https://365community.online/build-your-first-azure-bicep-template-youtube?utm_source=rss&utm_medium=rss&utm_campaign=build-your-first-azure-bicep-template-youtube",
+          "publishedOn": "2022-03-30T10:45:05.000Z",
+          "wordCount": 630,
+          "title": "Build your first Azure Bicep template – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/simplanova-al-tools-salt-youtube",
+          "author": "Justina Žiūraitė",
+          "description": "Upgrades to BC taking too long? Automate migration with SALT & get guidance from our cutting edge upgrade chatbot! Since the introduction of Business Central v14 and AL/extensions, the upgrade effort of Dynamics NAV to Business Central has reached new heights – Simplanova’s recorded average project size has more than doubled since 2019. Luckily for […]\nThe post Simplanova AL Tools (SALT) – YouTube appeared first on 365 Community.",
+          "link": "https://365community.online/simplanova-al-tools-salt-youtube?utm_source=rss&utm_medium=rss&utm_campaign=simplanova-al-tools-salt-youtube",
+          "publishedOn": "2022-03-30T08:41:31.000Z",
+          "wordCount": 487,
+          "title": "Simplanova AL Tools (SALT) – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-stop-synchronization-of-task-appointment-through-system-view-using-sync-filter-manager",
+          "author": "Nishant Rana",
+          "description": "In the previous post, we saw how we can create a user filter (outlook) for a particular user and apply the same to other users through Sync Filter Manager – XrmToolBox plugin. https://nishantrana.me/2022/03/29/how-to-stop-synchronization-of-task-appointment-between-dynamics-365-and-outlook/ In this post, we’d achieve the same through System View. Here we have created below System View on… Continue Reading Nishant Rana’s […]\nThe post How to – Stop Synchronization of Task / Appointment through System View using Sync Filter Manager appeared first on 365 Community.",
+          "link": "https://365community.online/how-to-stop-synchronization-of-task-appointment-through-system-view-using-sync-filter-manager?utm_source=rss&utm_medium=rss&utm_campaign=how-to-stop-synchronization-of-task-appointment-through-system-view-using-sync-filter-manager",
+          "publishedOn": "2022-03-30T02:47:32.000Z",
+          "wordCount": 521,
+          "title": "How to – Stop Synchronization of Task / Appointment through System View using Sync Filter Manager",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
           "id": "https://365community.online/disable-hyperlink-for-lookup-columns-in-grid-views-of-model-driven-apps",
           "author": "Linn Zaw Win",
           "description": "This post will explain how you can turn off clickable lookups in the grid views of model-driven apps. Microsoft has recently rolled out the new update for Power Apps Read-Only Grid which has a new property called “Navigation types allowed”. This property will allow the system customiser to disable clickable hyperlinks for the lookup column values and […]\nThe post Disable Hyperlink for Lookup Columns in Grid Views of Model-driven Apps appeared first on 365 Community.",
@@ -1036,6 +1111,16 @@
           "wordCount": 512,
           "title": "Disable Hyperlink for Lookup Columns in Grid Views of Model-driven Apps",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/top-10-devops-tools-for-2022-best-devops-tools-learn-about-devops-tools-mindmajix-youtube",
+          "author": "Jaya Sri",
+          "description": "📌 Subscribe to our channel to get video updates. Click on the link to subscribe: https://www.youtube.com/channel/UCkKemMaRnFPlNLHZ0zOYfpA?sub_confirmation=1 MindMajix Community: https://mindmajix.com/community Instagram: https://www.instagram.com/mindmajix/. Facebook: https://www.facebook.com/MindMajixTec… LinkedIn : https://www.linkedin.com/company/mind… Twitter: https://twitter.com/mindmajix source\nThe post Top 10 DevOps Tools For 2022 | Best DevOps Tools | Learn About DevOps Tools – MindMajix – YouTube appeared first on 365 Community.",
+          "link": "https://365community.online/top-10-devops-tools-for-2022-best-devops-tools-learn-about-devops-tools-mindmajix-youtube?utm_source=rss&utm_medium=rss&utm_campaign=top-10-devops-tools-for-2022-best-devops-tools-learn-about-devops-tools-mindmajix-youtube",
+          "publishedOn": "2022-03-29T12:26:59.000Z",
+          "wordCount": 430,
+          "title": "Top 10 DevOps Tools For 2022 | Best DevOps Tools | Learn About DevOps Tools – MindMajix – YouTube",
+          "imageUrl": null
         },
         {
           "id": "https://365community.online/where-can-i-find-my-registration-keys-on-customersource",
@@ -4979,6 +5064,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "runtime-localization-support-for-code-components-on-custom-pages-and-canvas-apps",
+          "author": null,
+          "description": "Runtime localization support for Code Components on Custom pages and Canvas apps",
+          "link": "https://powerapps.microsoft.com/en-us/blog/runtime-localization-support-for-code-components-on-custom-pages-and-canvas-apps/",
+          "publishedOn": "2022-03-30T11:31:08.000Z",
+          "wordCount": 905,
+          "title": "Runtime localization support for Code components on Custom pages and Canvas apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "see-whats-new-for-power-apps-at-the-microsoft-business-applications-launch-event",
+          "author": null,
+          "description": "We’re excited to invite you to the Microsoft Business Applications Launch Event on April 6. Register now for your first look at hundreds of new features, enhancements, and innovations to transform your business into a more agile, customer-centric organization.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/see-whats-new-for-power-apps-at-the-microsoft-business-applications-launch-event/",
+          "publishedOn": "2022-03-30T09:00:47.000Z",
+          "wordCount": 1057,
+          "title": "See what’s new for Power Apps at the Microsoft Business Applications Launch Event",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "general-availability-of-power-platform-tools-for-visual-studio-code-and-february-refresh-for-power-platform-cli",
           "author": null,
