@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-31T01:24:32.274Z</updated>
+    <updated>2022-03-31T14:19:56.504Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central, OnAfterLogin and Isolated Events]]></title>
+        <id>https://365community.online/dynamics-365-business-central-onafterlogin-and-isolated-events</id>
+        <link href="https://365community.online/dynamics-365-business-central-onafterlogin-and-isolated-events?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dynamics-365-business-central-onafterlogin-and-isolated-events"/>
+        <updated>2022-03-31T07:24:14.000Z</updated>
+        <summary type="html"><![CDATA[During trainings and/or checking different partner’s extensions code, I often see that partners adds business logic in the login process (user initializations, checking licenses and more). The custom logic in the login process is normally added subscribing to the OnAfterLoginStart event of the LogInManagement codeunit. To all the partners I had the pleasure to speak […]
+The post Dynamics 365 Business Central, OnAfterLogin and Isolated Events appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Retirement Announcements – YouTube]]></title>
+        <id>https://365community.online/azure-retirement-announcements-youtube</id>
+        <link href="https://365community.online/azure-retirement-announcements-youtube?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=azure-retirement-announcements-youtube"/>
+        <updated>2022-03-31T07:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Azure Retirement Announcements Join me as I look at Azure services that have been announced are retiring! 0:00 Introduction 0:48 Azure Container Monitoring will be retired on 31 March 2025 1:37 Premium Container SKU (public preview) will be retired on 30 June 2022 2:06 Update your Azure SDK libraries by 31 March 2023 2:25 Migrate […]
+The post Azure Retirement Announcements – YouTube appeared first on 365 Community.]]></summary>
+        <author>
+            <name>Sarah Lean 🏴󠁧󠁢󠁳󠁣󠁴󠁿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Microsoft Power Platform API (preview)]]></title>
+        <id>introducing-microsoft-power-platform-api-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/introducing-microsoft-power-platform-api-preview/"/>
+        <updated>2022-03-31T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Power Platform API acts as a gateway or a single API surface that harmonizes the internal APIs from feature areas of the platform.  This results in a single endpoint (ex. api.powerplatform.com) for customers to use along with a unified set of Permissions and claims that can be requested from Azure Active Directory.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Faster Time Entries in Project Operations: Automatically filling the Time Entry grid]]></title>
         <id>https://365community.online/faster-time-entries-in-project-operations-automatically-filling-the-time-entry-grid</id>
@@ -1212,6 +1244,17 @@ of Business Apps data you have ! Let’s jump in !]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Azure API Management for Dynamics 365 F&O]]></title>
+        <id>https://ariste.info/?p=6077</id>
+        <link href="https://ariste.info/en/2022/02/azure-api-management-dynamics-365-fo/"/>
+        <updated>2022-02-09T08:00:43.000Z</updated>
+        <summary type="html"><![CDATA[In today’s post, I want to talk about using Azure API Management (APIM) along Dynamics 365 Finance and Operations. Azure API Management is a hybrid, multi-cloud management platform for APIs across all environments. This means that, after deploying an APIM account, you can create an API that can serve services from one system or multiple. [...]
+ariste.info Azure API Management for Dynamics 365 F&O]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Posting ERROR Ledger account is missing in posted invoice. (AX 2012 R3 CU9)]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:db7f6407-e682-4167-b001-9ca24eb81dcd</id>
         <link href="https://community.dynamics.com/ax/b/technicaltutorialsformsdynamicsax2012/posts/posting-error-ledger-account-is-missing-in-posted-invoice-ax-2012-r3-cu9"/>
@@ -1269,6 +1312,17 @@ comment for your suggestion .]]></summary>
         <summary type="html"><![CDATA[We are announcing the availability of a modern advanced find in model-driven apps, including usability improvements to view management, all of which enable you to be more productive with data exploration. Now available for admins to enable with 2022 Release wave 1.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My take on the X++ custom scripts feature]]></title>
+        <id>https://ariste.info/?p=6044</id>
+        <link href="https://ariste.info/en/2022/02/my-take-on-the-custom-scripts-feature/"/>
+        <updated>2022-02-03T19:23:21.000Z</updated>
+        <summary type="html"><![CDATA[So three days ago I took a look at the new 10.0.25 features currently in the PEAP program, calmly scrolling through until I saw something about custom scripts on prod, something that read: Run custom X++ scripts with zero downtime You can imagine my face when I read this. At the beginning I was confused, [...]
+ariste.info My take on the X++ custom scripts feature]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
         </author>
     </entry>
     <entry>
@@ -2230,6 +2284,17 @@ billion
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New features for Dynamics 365 in 2021: my year-in-review]]></title>
+        <id>https://ariste.info/?p=4689</id>
+        <link href="https://ariste.info/en/2021/12/new-features-dynamics-365-2021-year-review/"/>
+        <updated>2021-12-15T07:13:25.000Z</updated>
+        <summary type="html"><![CDATA[The year 2021 has almost come to an end, and it’s time to review the changes we’ve had this past year. So in case you’ve missed something, I hope you can find it here, although I won’t include all new or changed Dynamics 365 Finance & Operations features, only some of them, the ones I’ve [...]
+ariste.info New features for Dynamics 365 in 2021: my year-in-review]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Using the Microsoft Authentication Library (MSAL) with D365 Finance and Operations apps]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:98642694-c496-4615-bb3b-dbd8a0242c5a</id>
         <link href="https://community.dynamics.com/ax/b/axinthefield/posts/move-to-the-newer-microsoft-authentication-library-msal-to-acquire-a-token-for-your-integrations"/>
@@ -2396,6 +2461,17 @@ solutions to ClickLearn... Read the full text.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New Azure DevOps release tasks: MSAL authentication and ADAL deprecation]]></title>
+        <id>https://ariste.info/?p=4655</id>
+        <link href="https://ariste.info/en/2021/11/azure-devops-release-msal-authentication/"/>
+        <updated>2021-11-25T17:28:14.000Z</updated>
+        <summary type="html"><![CDATA[There’s a new version and a new task for our release pipelines that use the Azure-hosted agents. These changes have been introduced recently to support the new MSAL authentication libraries for the LCS service connection used to upload and deploy the deployable packages. The current service connections use Azure Active Directory (Azure AD) Authentication Library (ADAL), and support [...]
+ariste.info New Azure DevOps release tasks: MSAL authentication and ADAL deprecation]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Security and blockchain for Microsoft business apps: A Q&A with Thomas Berndorfer]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1f849476-09c9-42cc-a302-233ab47d1fd9</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/security-and-blockchain-for-microsoft-business-apps-a-q-a-with-thomas-berndorfer"/>
@@ -2559,6 +2635,17 @@ the Microsoft Dynamics suite and beyond.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Add a QR code to Dynamics 365 forms and reports]]></title>
+        <id>https://ariste.info/?p=4603</id>
+        <link href="https://ariste.info/en/2021/11/add-qr-code-dynamics-365-forms-reports/"/>
+        <updated>2021-11-15T07:09:36.000Z</updated>
+        <summary type="html"><![CDATA[QR codes are very present in our daily lives as a way to share information, URLs, or other data quickly. In this post, we’ll learn how to display one in a Dynamics 365 form or a SSRS report using a library which is included in our development VMs: QRCoder. Generating a QR code QRCoder is [...]
+ariste.info Add a QR code to Dynamics 365 forms and reports]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Process Quality Orders with WMS: D365 Finance and Operations]]></title>
         <id>https://dynamics-tips.com/?p=2124</id>
         <link href="https://dynamics-tips.com/process-quality-orders-with-wms/"/>
@@ -2578,6 +2665,17 @@ the Microsoft Dynamics suite and beyond.
 sharing some pointers to use as input for decision direct...(read more)]]></summary>
         <author>
             <name>Rahul Mohta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update VMs using pipelines and d365fo.tools]]></title>
+        <id>https://ariste.info/?p=4562</id>
+        <link href="https://ariste.info/en/2021/11/update-vms-using-pipelines-and-d365fo-tools/"/>
+        <updated>2021-11-08T07:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Now that Microsoft will also update additional Dynamics 365 Finance and Operations Sandbox environments, partners and customers will only need to take care of updating cloud-hosted environments, as we’ve always done. I’m sure each team manages this differently, maybe leaving it to each developer to update their VM, or there’s someone in the customer or [...]
+ariste.info Update VMs using pipelines and d365fo.tools]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
         </author>
     </entry>
     <entry>
@@ -2623,6 +2721,17 @@ Open Teams Chat app from Taskbar. It helps you quickly select a chat thread dire
         <summary type="html"><![CDATA[Performance in the Modern Point of Sale (MPOS) and Cloud Point of Sale (CPOS) is critical for a retail business. Recently I helped a customer increase performance of the search functionality for produ...(read more)]]></summary>
         <author>
             <name>Said Nikjou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Package and Model planning]]></title>
+        <id>https://ariste.info/?p=4541</id>
+        <link href="https://ariste.info/en/2021/11/package-model-planning/"/>
+        <updated>2021-11-03T07:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Creating a package or a model is one of the first things we’ll do when starting to code in a new project. It’s something very basic, but I’m still seeing some issues around this, bad practices that can lead to problems in the future. Packages or models? Is a package something different as a model? [...]
+ariste.info Package and Model planning]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
         </author>
     </entry>
     <entry>
@@ -2857,6 +2966,17 @@ WMS Warehouse management]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PriceDisc: getting prices the right way]]></title>
+        <id>https://ariste.info/?p=4197</id>
+        <link href="https://ariste.info/en/2021/10/pricedisc-getting-prices-right-way/"/>
+        <updated>2021-10-19T07:03:29.000Z</updated>
+        <summary type="html"><![CDATA[Need to get the price of an item that has a sales or purchase agreement? The PriceDisc class is here to save us! This is one of those reference posts that I’m writing for the Adrià of the future, because it’s something I forget about a lot. PriceDisc magic! There’s an obsolete method, I think [...]
+ariste.info PriceDisc: getting prices the right way]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Can ax 2012 R2 upgraded to D365 F&O directly ?]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6249f408-8b2d-431d-892d-f2698bff2acb</id>
         <link href="https://community.dynamics.com/ax/b/technicaltutorialsformsdynamicsax2012/posts/can-ax-2012-r2-upgraded-to-d365-f-o-directly-2090093625"/>
@@ -2884,6 +3004,17 @@ Ans:
 Yes It can be upgraded ax 2012 R2 to D365 F&O directly.]]></summary>
         <author>
             <name>SANTOSH KUMAR SINGH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataverse and Cross-apps capabilities: the future of FnO]]></title>
+        <id>https://ariste.info/?p=4328</id>
+        <link href="https://ariste.info/en/2021/10/dataverse-cross-apps-future-fno/"/>
+        <updated>2021-10-13T06:24:25.000Z</updated>
+        <summary type="html"><![CDATA[It’s been some time since I wrote “Is Dataverse the future of Finance and Operations apps?“, and when I did, Dataverse was still called CDS and still went through several name changes. Has anything changed since I wrote that post? Do I still see Dataverse as the future of Finance and Operations apps? Well, now [...]
+ariste.info Dataverse and Cross-apps capabilities: the future of FnO]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
         </author>
     </entry>
     <entry>
@@ -3255,6 +3386,17 @@ CompanyInfo companyInfo = CompanyInfo::find();
         <summary type="html"><![CDATA[For our customers using the client for Finance and Operations apps, we’re retiring the out-of-support WS-Federation authentication protocol, and replacing it with the industry standard OpenIdConnect OAuth security protocol. OpenIdConnect OAuth security...(read more)]]></summary>
         <author>
             <name>Paul Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restore a data package with Azure DevOps Pipelines]]></title>
+        <id>https://ariste.info/?p=4326</id>
+        <link href="https://ariste.info/en/2021/09/restore-data-package-azure-devops-pipelines/"/>
+        <updated>2021-09-01T16:17:03.000Z</updated>
+        <summary type="html"><![CDATA[You can read my complete ALM guide on Microsoft Dynamics 365 for Finance & Operations and Azure DevOps. Moving data from the production to a sandbox environment is something we regularly have to do to have real updated data to do some testing or debugging. It’s a process that takes time and that can be [...]
+ariste.info Restore a data package with Azure DevOps Pipelines]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
         </author>
     </entry>
     <entry>
