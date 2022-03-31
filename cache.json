@@ -1023,758 +1023,6 @@
       ]
     },
     {
-      "title": "365 Community",
-      "feedUrl": "https://365community.online/feed",
-      "siteUrl": "https://365community.online",
-      "articles": [
-        {
-          "id": "https://365community.online/dynamics-365-business-central-onafterlogin-and-isolated-events",
-          "author": "Stefano Demiliani",
-          "description": "During trainings and/or checking different partner’s extensions code, I often see that partners adds business logic in the login process (user initializations, checking licenses and more). The custom logic in the login process is normally added subscribing to the OnAfterLoginStart event of the LogInManagement codeunit. To all the partners I had the pleasure to speak […]\nThe post Dynamics 365 Business Central, OnAfterLogin and Isolated Events appeared first on 365 Community.",
-          "link": "https://365community.online/dynamics-365-business-central-onafterlogin-and-isolated-events?utm_source=rss&utm_medium=rss&utm_campaign=dynamics-365-business-central-onafterlogin-and-isolated-events",
-          "publishedOn": "2022-03-31T07:24:14.000Z",
-          "wordCount": 474,
-          "title": "Dynamics 365 Business Central, OnAfterLogin and Isolated Events",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/azure-retirement-announcements-youtube",
-          "author": "Sarah Lean 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-          "description": "Azure Retirement Announcements Join me as I look at Azure services that have been announced are retiring! 0:00 Introduction 0:48 Azure Container Monitoring will be retired on 31 March 2025 1:37 Premium Container SKU (public preview) will be retired on 30 June 2022 2:06 Update your Azure SDK libraries by 31 March 2023 2:25 Migrate […]\nThe post Azure Retirement Announcements – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/azure-retirement-announcements-youtube?utm_source=rss&utm_medium=rss&utm_campaign=azure-retirement-announcements-youtube",
-          "publishedOn": "2022-03-31T07:15:01.000Z",
-          "wordCount": 829,
-          "title": "Azure Retirement Announcements – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/faster-time-entries-in-project-operations-automatically-filling-the-time-entry-grid",
-          "author": "Antti Pajunen",
-          "description": "Tested on Project Operations on Dataverse version 4.28.0.120 (February 2022) Do I always have to use quick create to create a new Time Entry? Is there a way to automatically fill the Time Entry grid with all projects a resource is on? Is there a way to see all projects automatically on the Time Entry […]\nThe post Faster Time Entries in Project Operations: Automatically filling the Time Entry grid appeared first on 365 Community.",
-          "link": "https://365community.online/faster-time-entries-in-project-operations-automatically-filling-the-time-entry-grid?utm_source=rss&utm_medium=rss&utm_campaign=faster-time-entries-in-project-operations-automatically-filling-the-time-entry-grid",
-          "publishedOn": "2022-03-30T20:04:15.000Z",
-          "wordCount": 449,
-          "title": "Faster Time Entries in Project Operations: Automatically filling the Time Entry grid",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/zaid-zaim-on-the-mvp-show",
-          "author": "NZ365Guy",
-          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/366  A short introduction about Zaid Zaim’s life background  Zaid shares his story about how he got involved in technology  How did Zaid start in mixed reality and his journey to where he is right now?  Find out more about what Mixed Reality is  Learn more about HoloSpaces  Zaid’s role at HoloSpaces […]\nThe post Zaid Zaim on The MVP Show appeared first on 365 Community.",
-          "link": "https://365community.online/zaid-zaim-on-the-mvp-show?utm_source=rss&utm_medium=rss&utm_campaign=zaid-zaim-on-the-mvp-show",
-          "publishedOn": "2022-03-30T13:00:00.000Z",
-          "wordCount": 407,
-          "title": "Zaid Zaim on The MVP Show",
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1796418/10322133-zaid-zaim-on-the-mvp-show.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/use-of-close-all-quotes-button-to-close-all-quotes-of-opportunity-in-dynamics-365-crm",
-          "author": "Inogic",
-          "description": "Introduction: In this blog, we will see how to close all Quotes of individual opportunities by using the ‘Close all Quotes’ button which is situated on the ribbon bar of the Opportunity entity. Scenario: We have one Opportunity with multiple Quotes which are in ‘Draft’ status. Due to some product irrelevancy, we have lost the […]\nThe post Use of “Close all Quotes” button to close all Quotes of opportunity in Dynamics 365 CRM appeared first on 365 Community.",
-          "link": "https://365community.online/use-of-close-all-quotes-button-to-close-all-quotes-of-opportunity-in-dynamics-365-crm?utm_source=rss&utm_medium=rss&utm_campaign=use-of-close-all-quotes-button-to-close-all-quotes-of-opportunity-in-dynamics-365-crm",
-          "publishedOn": "2022-03-30T11:40:08.000Z",
-          "wordCount": 792,
-          "title": "Use of “Close all Quotes” button to close all Quotes of opportunity in Dynamics 365 CRM",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/create-application-users-for-dynamics-365-environment-power-platform-admin-center",
-          "author": "Priyesh Wagh",
-          "description": "Here’s how you create Application Users from the Power Platform Admin Center instead of the Classic UI in Dynamics 365 CRM Continue Reading priyeshwagh777’s Article on their blog Create Application Users for Dynamics 365 environment | Power Platform Admin Center Here’s how you create Application Users from the Power Platform Admin Center instead of the […]\nThe post Create Application Users for Dynamics 365 environment | Power Platform Admin Center appeared first on 365 Community.",
-          "link": "https://365community.online/create-application-users-for-dynamics-365-environment-power-platform-admin-center?utm_source=rss&utm_medium=rss&utm_campaign=create-application-users-for-dynamics-365-environment-power-platform-admin-center",
-          "publishedOn": "2022-03-30T11:30:16.000Z",
-          "wordCount": 433,
-          "title": "Create Application Users for Dynamics 365 environment | Power Platform Admin Center",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/build-your-first-azure-bicep-template-youtube",
-          "author": "Sarah Lean 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-          "description": "Build your first Azure Bicep template Join me in this video as I walk you through deploying your first Azure Bicep template. Microsoft Learn Module: https://docs.microsoft.com/learn/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5004737 Azure Bicep Docs: https://docs.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep/?WT.mc_id=AZ-MVP-5004737 0:00 Introduction 0:09 Azure Bicep template walkthrough 0:25 Azure Bicep template parameters 1:34 Azure Bicep template resource definition 2:37 Azure Bicep template outputs 3:15 Azure […]\nThe post Build your first Azure Bicep template – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/build-your-first-azure-bicep-template-youtube?utm_source=rss&utm_medium=rss&utm_campaign=build-your-first-azure-bicep-template-youtube",
-          "publishedOn": "2022-03-30T10:45:05.000Z",
-          "wordCount": 630,
-          "title": "Build your first Azure Bicep template – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/simplanova-al-tools-salt-youtube",
-          "author": "Justina Žiūraitė",
-          "description": "Upgrades to BC taking too long? Automate migration with SALT & get guidance from our cutting edge upgrade chatbot! Since the introduction of Business Central v14 and AL/extensions, the upgrade effort of Dynamics NAV to Business Central has reached new heights – Simplanova’s recorded average project size has more than doubled since 2019. Luckily for […]\nThe post Simplanova AL Tools (SALT) – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/simplanova-al-tools-salt-youtube?utm_source=rss&utm_medium=rss&utm_campaign=simplanova-al-tools-salt-youtube",
-          "publishedOn": "2022-03-30T08:41:31.000Z",
-          "wordCount": 487,
-          "title": "Simplanova AL Tools (SALT) – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-stop-synchronization-of-task-appointment-through-system-view-using-sync-filter-manager",
-          "author": "Nishant Rana",
-          "description": "In the previous post, we saw how we can create a user filter (outlook) for a particular user and apply the same to other users through Sync Filter Manager – XrmToolBox plugin. https://nishantrana.me/2022/03/29/how-to-stop-synchronization-of-task-appointment-between-dynamics-365-and-outlook/ In this post, we’d achieve the same through System View. Here we have created below System View on… Continue Reading Nishant Rana’s […]\nThe post How to – Stop Synchronization of Task / Appointment through System View using Sync Filter Manager appeared first on 365 Community.",
-          "link": "https://365community.online/how-to-stop-synchronization-of-task-appointment-through-system-view-using-sync-filter-manager?utm_source=rss&utm_medium=rss&utm_campaign=how-to-stop-synchronization-of-task-appointment-through-system-view-using-sync-filter-manager",
-          "publishedOn": "2022-03-30T02:47:32.000Z",
-          "wordCount": 521,
-          "title": "How to – Stop Synchronization of Task / Appointment through System View using Sync Filter Manager",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/disable-hyperlink-for-lookup-columns-in-grid-views-of-model-driven-apps",
-          "author": "Linn Zaw Win",
-          "description": "This post will explain how you can turn off clickable lookups in the grid views of model-driven apps. Microsoft has recently rolled out the new update for Power Apps Read-Only Grid which has a new property called “Navigation types allowed”. This property will allow the system customiser to disable clickable hyperlinks for the lookup column values and […]\nThe post Disable Hyperlink for Lookup Columns in Grid Views of Model-driven Apps appeared first on 365 Community.",
-          "link": "https://365community.online/disable-hyperlink-for-lookup-columns-in-grid-views-of-model-driven-apps?utm_source=rss&utm_medium=rss&utm_campaign=disable-hyperlink-for-lookup-columns-in-grid-views-of-model-driven-apps",
-          "publishedOn": "2022-03-29T20:52:00.000Z",
-          "wordCount": 512,
-          "title": "Disable Hyperlink for Lookup Columns in Grid Views of Model-driven Apps",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/top-10-devops-tools-for-2022-best-devops-tools-learn-about-devops-tools-mindmajix-youtube",
-          "author": "Jaya Sri",
-          "description": "📌 Subscribe to our channel to get video updates. Click on the link to subscribe: https://www.youtube.com/channel/UCkKemMaRnFPlNLHZ0zOYfpA?sub_confirmation=1 MindMajix Community: https://mindmajix.com/community Instagram: https://www.instagram.com/mindmajix/. Facebook: https://www.facebook.com/MindMajixTec… LinkedIn : https://www.linkedin.com/company/mind… Twitter: https://twitter.com/mindmajix source\nThe post Top 10 DevOps Tools For 2022 | Best DevOps Tools | Learn About DevOps Tools – MindMajix – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/top-10-devops-tools-for-2022-best-devops-tools-learn-about-devops-tools-mindmajix-youtube?utm_source=rss&utm_medium=rss&utm_campaign=top-10-devops-tools-for-2022-best-devops-tools-learn-about-devops-tools-mindmajix-youtube",
-          "publishedOn": "2022-03-29T12:26:59.000Z",
-          "wordCount": 430,
-          "title": "Top 10 DevOps Tools For 2022 | Best DevOps Tools | Learn About DevOps Tools – MindMajix – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/where-can-i-find-my-registration-keys-on-customersource",
-          "author": "Jen Kuntz",
-          "description": "This is a short post. I went looking for a customer’s registration keys and could not remember how to get to them now that the old CustomerSource links are dead and buried. So… future “me”, this is your reminder! And for those who stumble across this, you’re welcome, I hope the info stays “correct” for […]\nThe post Where can I find my registration keys on CustomerSource? appeared first on 365 Community.",
-          "link": "https://365community.online/where-can-i-find-my-registration-keys-on-customersource?utm_source=rss&utm_medium=rss&utm_campaign=where-can-i-find-my-registration-keys-on-customersource",
-          "publishedOn": "2022-03-29T12:22:23.000Z",
-          "wordCount": 488,
-          "title": "Where can I find my registration keys on CustomerSource?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/used-and-not-used-objects-in-business-central-license",
-          "author": "Roberto Stefanetti",
-          "description": "I publish a simple APP that allows you to see not Used objects compared to those assigned in customer license (useful on BC On-premise). For example, the customer can extract the list of all objects loaded in the APP as customizations. Even if the objects numbered 50000 are practically free to use for the Cloud, […]\nThe post Used and not used Objects in Business Central license appeared first on 365 Community.",
-          "link": "https://365community.online/used-and-not-used-objects-in-business-central-license?utm_source=rss&utm_medium=rss&utm_campaign=used-and-not-used-objects-in-business-central-license",
-          "publishedOn": "2022-03-29T09:05:11.000Z",
-          "wordCount": 425,
-          "title": "Used and not used Objects in Business Central license",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/customizing-the-side-pane-in-the-deal-manager-workspace",
-          "author": "Dian Taylor",
-          "description": "The Deal Manager Workspace is a feature that was introduced to us in 2021 Wave 1, and is currently in public preview. The Deal Manager Workspace is a work space that sales users can access from within the Sales Hub app in Dynamics 365 Sales. If you want to learn more about the Deal Manager […]\nThe post Customizing the side pane in the Deal Manager Workspace appeared first on 365 Community.",
-          "link": "https://365community.online/customizing-the-side-pane-in-the-deal-manager-workspace?utm_source=rss&utm_medium=rss&utm_campaign=customizing-the-side-pane-in-the-deal-manager-workspace",
-          "publishedOn": "2022-03-29T09:03:00.000Z",
-          "wordCount": 484,
-          "title": "Customizing the side pane in the Deal Manager Workspace",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/customize-sidepane-in-deal-manager-workspace-youtube",
-          "author": "Dian Taylor",
-          "description": "Customize sidepane in Deal Manager Workspace In this video I will show you how you can configure the Deal Manager Workspace side pane. I will also talk about what is and what isn’t supported while configuring the side pane. Related article: https://d365goddess.com/customizing-the-side-pane-in-the-deal-manager-workspace Video: Deal Manager Workspace (Preview) – https://youtu.be/TttghCuhqH8 Blog: https://D365Goddess.com Twitter: https://twitter.com/D365Goddess LinkedIn: https://www.linkedin.com/in/diantaylor/ […]\nThe post Customize sidepane in Deal Manager Workspace – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/customize-sidepane-in-deal-manager-workspace-youtube?utm_source=rss&utm_medium=rss&utm_campaign=customize-sidepane-in-deal-manager-workspace-youtube",
-          "publishedOn": "2022-03-29T09:00:14.000Z",
-          "wordCount": 448,
-          "title": "Customize sidepane in Deal Manager Workspace – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/perform-activities-from-sequence-step-in-sales-accelerator-and-correlate-it-with-timeline-activities",
-          "author": "Inogic",
-          "description": "In this blog, we will see how the sequence feature makes teamwork or Sales Manager’s work easy. To use this feature you need to configure Sales Accelerator and create Sequences. In our previous blogs (blog 1 and blog 2 ) we have shown how to configure Sales Accelerator and create Sequence. Now, let’s see some […]\nThe post Perform activities from sequence step in Sales Accelerator and correlate it with timeline activities appeared first on 365 Community.",
-          "link": "https://365community.online/perform-activities-from-sequence-step-in-sales-accelerator-and-correlate-it-with-timeline-activities?utm_source=rss&utm_medium=rss&utm_campaign=perform-activities-from-sequence-step-in-sales-accelerator-and-correlate-it-with-timeline-activities",
-          "publishedOn": "2022-03-29T06:44:39.000Z",
-          "wordCount": 789,
-          "title": "Perform activities from sequence step in Sales Accelerator and correlate it with timeline activities",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-stop-synchronization-of-task-appointment-between-dynamics-365-and-outlook",
-          "author": "Nishant Rana",
-          "description": "In the earlier posts we saw how synchronization works for different activities type and how to work with user as well as system filters. https://nishantrana.me/2022/03/22/how-to-synchronize-appointments-between-dynamics-365-and-outlook-using-server-side-synchronization/ https://nishantrana.me/2022/03/23/how-are-tasks-letters-fax-phone-call-synchronized-between-dynamics-365-and-outlook/… Continue Reading Nishant Rana’s Article on their blog How to – Stop synchronization of Task / Appointment between Dynamics 365 and Outlook In the earlier posts we saw how […]\nThe post How to – Stop synchronization of Task / Appointment between Dynamics 365 and Outlook appeared first on 365 Community.",
-          "link": "https://365community.online/how-to-stop-synchronization-of-task-appointment-between-dynamics-365-and-outlook?utm_source=rss&utm_medium=rss&utm_campaign=how-to-stop-synchronization-of-task-appointment-between-dynamics-365-and-outlook",
-          "publishedOn": "2022-03-29T05:00:00.000Z",
-          "wordCount": 487,
-          "title": "How to – Stop synchronization of Task / Appointment between Dynamics 365 and Outlook",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/power-platform-at-the-heart-of-scotlands-new-recycling-scheme",
-          "author": "Neil Benson",
-          "description": "#112. Dani Kahil interviews Paddy Byrne about the Power Platform's role in enabling Scotland's new recycling scheme for single-use drinking containers. Scots people are famous for being careful with their money so I imagine any program to pay them for recycling containers was always going to be a big hit. Learn about Paddy's Power Platform […]\nThe post Power Platform at the heart of Scotland’s new recycling scheme appeared first on 365 Community.",
-          "link": "https://365community.online/power-platform-at-the-heart-of-scotlands-new-recycling-scheme?utm_source=rss&utm_medium=rss&utm_campaign=power-platform-at-the-heart-of-scotlands-new-recycling-scheme",
-          "publishedOn": "2022-03-28T15:00:00.000Z",
-          "wordCount": 491,
-          "title": "Power Platform at the heart of Scotland’s new recycling scheme",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/show-53-part-2-the-journey-of-yo-teams-youtube",
-          "author": "greyhatbeard",
-          "description": "Show 53 – Part 2: The journey of Yo Teams This week we are joined by the fascinating Wictor Wilen who talks about the journey that he has taken with the open source project Yo Teams. We talked about why he created the project, how it has grown, how the community has helped make it […]\nThe post Show 53 – Part 2: The journey of Yo Teams – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/show-53-part-2-the-journey-of-yo-teams-youtube?utm_source=rss&utm_medium=rss&utm_campaign=show-53-part-2-the-journey-of-yo-teams-youtube",
-          "publishedOn": "2022-03-28T14:03:37.000Z",
-          "wordCount": 592,
-          "title": "Show 53 – Part 2: The journey of Yo Teams – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/reflecting-metadata-changes-in-flow-for-dataverse-connector",
-          "author": "Priyesh Wagh",
-          "description": "Here’s what to do when the changes in Dataverse and not reflected in a Flow using Dataverse actions. Continue Reading priyeshwagh777’s Article on their blog Reflecting Metadata changes in Flow for Dataverse connector If you’re building a Flow that uses Dataverse connectors, you might need to change the metadata and it doesn’t reflect in the […]\nThe post Reflecting Metadata changes in Flow for Dataverse connector appeared first on 365 Community.",
-          "link": "https://365community.online/reflecting-metadata-changes-in-flow-for-dataverse-connector?utm_source=rss&utm_medium=rss&utm_campaign=reflecting-metadata-changes-in-flow-for-dataverse-connector",
-          "publishedOn": "2022-03-28T12:11:52.000Z",
-          "wordCount": 429,
-          "title": "Reflecting Metadata changes in Flow for Dataverse connector",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/salesforce-vlocity-training-salesforce-vlocity-course-salesforce-vlocity-introduction-youtube",
-          "author": "Jaya Sri",
-          "description": "This MindMajix Video on Salesforce Vlocity Training for both freshers and experienced will cover all basics like Multi-Select, Custom Lightning Web Components, Text, Password, and Telephone. By watching this Salesforce Vlocity video you will be able to understand Type Header, Formulas, Custom LWC, Object types, Data Sources, Picklists, Adjustments, Price List Entries, and Product Bundles. […]\nThe post Salesforce Vlocity Training | Salesforce Vlocity Course | Salesforce Vlocity Introduction – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/salesforce-vlocity-training-salesforce-vlocity-course-salesforce-vlocity-introduction-youtube?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-vlocity-training-salesforce-vlocity-course-salesforce-vlocity-introduction-youtube",
-          "publishedOn": "2022-03-28T11:45:04.000Z",
-          "wordCount": 668,
-          "title": "Salesforce Vlocity Training | Salesforce Vlocity Course | Salesforce Vlocity Introduction – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/fetchxml-builder-from-zero-to-hero-youtube",
-          "author": "Jonas Rapp ᴹᴠᴾ ??",
-          "description": "On Thursday 7. April I will give a session at https://www.dantas.ca/zero-to-hero See you there! source\nThe post FetchXML Builder from Zero to Hero – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/fetchxml-builder-from-zero-to-hero-youtube?utm_source=rss&utm_medium=rss&utm_campaign=fetchxml-builder-from-zero-to-hero-youtube",
-          "publishedOn": "2022-03-28T09:05:05.000Z",
-          "wordCount": 361,
-          "title": "FetchXML Builder from Zero to Hero – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/show-53-part-2-the-journey-of-yo-teams",
-          "author": "greyhatbeard",
-          "description": "This week we are joined by the fascinating Wictor Wilen who talks about the journey that he has taken with the open source project Yo Teams. We talked about why he created the project, how it has grown, how the community has helped make it what it is and what's next for Yo Teams (plus […]\nThe post Show 53 – Part 2: The journey of Yo Teams appeared first on 365 Community.",
-          "link": "https://365community.online/show-53-part-2-the-journey-of-yo-teams?utm_source=rss&utm_medium=rss&utm_campaign=show-53-part-2-the-journey-of-yo-teams",
-          "publishedOn": "2022-03-28T06:00:00.000Z",
-          "wordCount": 492,
-          "title": "Show 53 – Part 2: The journey of Yo Teams",
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1455661/10292534-show-53-part-2-the-journey-of-yo-teams.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/business-process-flow-ui-improvement-in-dynamics-365-crm",
-          "author": "Nishant Rana",
-          "description": "With 2022 Release Wave 1, we have a small enhancement in the user interface inside the BPF path line’s color contrast. With 2022 Release Wave 1 turned off– With 2022 Release Wave 1 – the path that needs to be followed is shown now in a slightly darker shade, making it easy for an agent […]\nThe post Business Process Flow UI Improvement in Dynamics 365 / CRM appeared first on 365 Community.",
-          "link": "https://365community.online/business-process-flow-ui-improvement-in-dynamics-365-crm?utm_source=rss&utm_medium=rss&utm_campaign=business-process-flow-ui-improvement-in-dynamics-365-crm",
-          "publishedOn": "2022-03-28T05:00:00.000Z",
-          "wordCount": 512,
-          "title": "Business Process Flow UI Improvement in Dynamics 365 / CRM",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/enable-power-automate-pane-in-canvas-apps-studio-preview",
-          "author": "Priyesh Wagh",
-          "description": "Here’s how you can access and create Power Automate Flows from within Canvas App in a new Pane approach. Continue Reading priyeshwagh777’s Article on their blog Enable Power Automate Pane in Canvas Apps Studio | Preview Now, you can start creating Flows from within the Power Apps itself and add Power Automate as a Pane […]\nThe post Enable Power Automate Pane in Canvas Apps Studio | Preview appeared first on 365 Community.",
-          "link": "https://365community.online/enable-power-automate-pane-in-canvas-apps-studio-preview?utm_source=rss&utm_medium=rss&utm_campaign=enable-power-automate-pane-in-canvas-apps-studio-preview",
-          "publishedOn": "2022-03-27T15:00:27.000Z",
-          "wordCount": 435,
-          "title": "Enable Power Automate Pane in Canvas Apps Studio | Preview",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/asp-net-core-live-training-build-real-world-projects-dot-net-tricks-youtube",
-          "author": "Sourav Raj",
-          "description": "ASP.NET Core Live Training | Build Real World Projects | Dot Net Tricks Join our ASP.NET Core Live Training Program where Microsoft MVPs and industry expert trainers with 12+ years of experience will help you to master ASP.NET Core so that you can get up to a 100% salary hike. Why you should join our […]\nThe post ASP.NET Core Live Training | Build Real World Projects | Dot Net Tricks – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/asp-net-core-live-training-build-real-world-projects-dot-net-tricks-youtube?utm_source=rss&utm_medium=rss&utm_campaign=asp-net-core-live-training-build-real-world-projects-dot-net-tricks-youtube",
-          "publishedOn": "2022-03-26T11:22:43.000Z",
-          "wordCount": 701,
-          "title": "ASP.NET Core Live Training | Build Real World Projects | Dot Net Tricks – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/angular-live-training-build-real-world-projects-dot-net-tricks-youtube",
-          "author": "Sourav Raj",
-          "description": "Angular Live Training | Build Real World Projects | Dot Net Tricks Join our Angular Live Training Program where Microsoft MVPs and industry expert trainers with 12+ years of experience will help you to master Angular so that you can get up to a 100% salary hike. Why you should join our Angular Live Training […]\nThe post Angular Live Training | Build Real World Projects | Dot Net Tricks – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/angular-live-training-build-real-world-projects-dot-net-tricks-youtube?utm_source=rss&utm_medium=rss&utm_campaign=angular-live-training-build-real-world-projects-dot-net-tricks-youtube",
-          "publishedOn": "2022-03-26T10:58:48.000Z",
-          "wordCount": 690,
-          "title": "Angular Live Training | Build Real World Projects | Dot Net Tricks – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/jonnychipz-in-conversation-with-marc-duiker-youtube",
-          "author": "John Lunn",
-          "description": "Jonnychipz – In Conversation with Marc Duiker Released: 25.03.22 Join John Lunn aka Jonnychipz as he is joined by Senior Developer Advocate Marc Duiker. This episode of Jonnychipz In Conversation with’ will be released multiplatform on Azureish Live (www.twitch.tv/azureishlive) Jonnychipz Twitch (www.twitch.tv/jonnychipz) my Twitter, LinkedIn and YouTube simultaneously and its a great episode that you […]\nThe post Jonnychipz – In Conversation with Marc Duiker – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/jonnychipz-in-conversation-with-marc-duiker-youtube?utm_source=rss&utm_medium=rss&utm_campaign=jonnychipz-in-conversation-with-marc-duiker-youtube",
-          "publishedOn": "2022-03-26T07:12:18.000Z",
-          "wordCount": 682,
-          "title": "Jonnychipz – In Conversation with Marc Duiker – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/jonnychipz-weekly-65-mvp-summit-youtube",
-          "author": "John Lunn",
-          "description": "Jonnychipz Weekly #65 – MVP Summit Released: 25.03.22 Week 65 of my Jonnychipz weekly VLOG, covering the Last Week of Azure News and Updates, Welsh Azure User Group News and some great Community Callouts. Live at 12.30pm GMT 25.03.22. on my YouTube channel (Click the link below!) This week I delve into the Azure Updates […]\nThe post Jonnychipz Weekly #65 – MVP Summit – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/jonnychipz-weekly-65-mvp-summit-youtube?utm_source=rss&utm_medium=rss&utm_campaign=jonnychipz-weekly-65-mvp-summit-youtube",
-          "publishedOn": "2022-03-26T00:54:56.000Z",
-          "wordCount": 612,
-          "title": "Jonnychipz Weekly #65 – MVP Summit – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/jonnychipz-in-conversation-with-chris-ayers",
-          "author": "John Lunn",
-          "description": "Join John Lunn aka Jonnychipz as he is joined by Senior Customer Engineer Chris Ayers. This episode of Jonnychipz In Conversation with’ will be released multiplatform on Azureish Live (www.twitch.tv/azureishlive) Jonnychipz Twitch (www.twitch.tv/jonnychipz) my Twitter, LinkedIn and YouTube simultaneously and its a great episode that you can’t miss! Join us at 6.30pm (BST) on Friday […]\nThe post Jonnychipz – In Conversation with Chris Ayers appeared first on 365 Community.",
-          "link": "https://365community.online/jonnychipz-in-conversation-with-chris-ayers?utm_source=rss&utm_medium=rss&utm_campaign=jonnychipz-in-conversation-with-chris-ayers",
-          "publishedOn": "2022-03-25T19:20:00.000Z",
-          "wordCount": 464,
-          "title": "Jonnychipz – In Conversation with Chris Ayers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/help-ukraine-live-with-oleksandr-olashyn-youtube",
-          "author": "Victor Dantas",
-          "description": "Stand with Ukraine: https://stand-with-ukraine.pp.ua/ source\nThe post Help Ukraine!  Live with Oleksandr Olashyn – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/help-ukraine-live-with-oleksandr-olashyn-youtube?utm_source=rss&utm_medium=rss&utm_campaign=help-ukraine-live-with-oleksandr-olashyn-youtube",
-          "publishedOn": "2022-03-25T18:46:40.000Z",
-          "wordCount": 371,
-          "title": "Help Ukraine!  Live with Oleksandr Olashyn – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/zero-to-hero-session-4-lesson-11-wael-hamze-dataverse-alm-from-zero-to-hero-youtube",
-          "author": "Victor Dantas",
-          "description": "Zero to Hero – Session 4 – Lesson 11 – Wael Hamze – Dataverse ALM from Zero to Hero. source\nThe post Zero to Hero – Session 4 – Lesson 11 – Wael Hamze – Dataverse ALM from Zero to Hero. – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/zero-to-hero-session-4-lesson-11-wael-hamze-dataverse-alm-from-zero-to-hero-youtube?utm_source=rss&utm_medium=rss&utm_campaign=zero-to-hero-session-4-lesson-11-wael-hamze-dataverse-alm-from-zero-to-hero-youtube",
-          "publishedOn": "2022-03-25T18:02:20.000Z",
-          "wordCount": 429,
-          "title": "Zero to Hero – Session 4 – Lesson 11 – Wael Hamze – Dataverse ALM from Zero to Hero. – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/fluent-ui-combo-box-control-better-than-classic",
-          "author": "harditbhatia",
-          "description": "Learn how Fluent UI combo boxes differ from the classic ones. Uncover a hidden feature that limits the data brought into an app! The post Fluent UI Combo Box Control – Better than classic? appeared first on Hardit Bhatia: The Power Addict. Continue Reading Hardit Bhatia’s Article on their blog Fluent UI Combo Box Control […]\nThe post Fluent UI Combo Box Control – Better than classic? appeared first on 365 Community.",
-          "link": "https://365community.online/fluent-ui-combo-box-control-better-than-classic?utm_source=rss&utm_medium=rss&utm_campaign=fluent-ui-combo-box-control-better-than-classic",
-          "publishedOn": "2022-03-25T15:08:21.000Z",
-          "wordCount": 467,
-          "title": "Fluent UI Combo Box Control – Better than classic?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/1559852492_PowerAppsScreens.png?fit=1048%2C550&ssl=1"
-        },
-        {
-          "id": "https://365community.online/your-crm-cannot-be-more-successful-than-its-user-adoption",
-          "author": "Jim Townsend",
-          "description": "For sales force automation, the best customer relationship management system is the one that makes users successful.  For that to happen, users must adopt the CRM.  It doesn’t do much good to have a brilliant design for a system that salespeople do not use. This means that you must measure adoption both in quantity and […]\nThe post Your CRM Cannot Be More Successful than its User Adoption appeared first on 365 Community.",
-          "link": "https://365community.online/your-crm-cannot-be-more-successful-than-its-user-adoption?utm_source=rss&utm_medium=rss&utm_campaign=your-crm-cannot-be-more-successful-than-its-user-adoption",
-          "publishedOn": "2022-03-25T13:34:00.000Z",
-          "wordCount": 485,
-          "title": "Your CRM Cannot Be More Successful than its User Adoption",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/business-central-performance-data-management-tools-recap",
-          "author": "Roberto Stefanetti",
-          "description": "Performance and data management tools available in Business Central In this post I want to summarize some of the features present in Business Central (up to preview version 2022Wave1) related to performance and data tools. Microsoft has been very attentive to performance for a long time and requires that those who develop the APPs be […]\nThe post Business Central: Performance & Data management tools recap appeared first on 365 Community.",
-          "link": "https://365community.online/business-central-performance-data-management-tools-recap?utm_source=rss&utm_medium=rss&utm_campaign=business-central-performance-data-management-tools-recap",
-          "publishedOn": "2022-03-25T13:20:13.000Z",
-          "wordCount": 458,
-          "title": "Business Central: Performance & Data management tools recap",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/pingfederate-training-pingfederate-online-certification-course-pingfederate-overview-mindmajix-youtube",
-          "author": "Jaya Sri",
-          "description": "This MindMajix Video on PingFederate Training for both freshers and experienced will cover all of the essential topics of PingFederate that will help you master the use of servers along with several other management systems. By watching this PingFederate Training video you will be able to provide a seamless, secure, and simple experience to employees, […]\nThe post PingFederate Training | PingFederate Online Certification Course | PingFederate Overview – MindMajix – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/pingfederate-training-pingfederate-online-certification-course-pingfederate-overview-mindmajix-youtube?utm_source=rss&utm_medium=rss&utm_campaign=pingfederate-training-pingfederate-online-certification-course-pingfederate-overview-mindmajix-youtube",
-          "publishedOn": "2022-03-25T12:45:01.000Z",
-          "wordCount": 618,
-          "title": "PingFederate Training | PingFederate Online Certification Course | PingFederate Overview – MindMajix – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/jonnychipz-weekly-65-mvp-summit",
-          "author": "John Lunn",
-          "description": "Week 65 of my Jonnychipz weekly VLOG, covering the Last Week of Azure News and Updates, Welsh Azure User Group News and some great Community Callouts. Live at 12.30pm GMT 25.03.22. on my YouTube channel (Click the link below!) This week I delve into the Azure Updates of the week highlight some key community activity […]\nThe post Jonnychipz Weekly # 65 – MVP Summit appeared first on 365 Community.",
-          "link": "https://365community.online/jonnychipz-weekly-65-mvp-summit?utm_source=rss&utm_medium=rss&utm_campaign=jonnychipz-weekly-65-mvp-summit",
-          "publishedOn": "2022-03-25T12:00:00.000Z",
-          "wordCount": 479,
-          "title": "Jonnychipz Weekly # 65 – MVP Summit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/image-classification-model-by-microsoft-lobe-in-power-apps-part-1",
-          "author": "Inogic",
-          "description": "Introduction: With the growth in technology we have seen an incline towards the technologies related to Machine Learning and Artificial Intelligence in our day-to-day life. In recent few years Microsoft has been pushing Low-Code/ No-Code ideology and have been incorporating ML and AI technologies in their PCF control, AI Builder Models, etc. Evidence of this […]\nThe post Image Classification model by Microsoft Lobe in Power Apps – Part 1 appeared first on 365 Community.",
-          "link": "https://365community.online/image-classification-model-by-microsoft-lobe-in-power-apps-part-1?utm_source=rss&utm_medium=rss&utm_campaign=image-classification-model-by-microsoft-lobe-in-power-apps-part-1",
-          "publishedOn": "2022-03-25T05:41:46.000Z",
-          "wordCount": 759,
-          "title": "Image Classification model by Microsoft Lobe in Power Apps – Part 1",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/zero-to-hero-aula-4-power-automate-e-dataverse-com-gustavo-moraes-youtube",
-          "author": "Victor Dantas",
-          "description": "source\nThe post Zero to Hero – Aula 4 – Power Automate e Dataverse com Gustavo Moraes – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/zero-to-hero-aula-4-power-automate-e-dataverse-com-gustavo-moraes-youtube?utm_source=rss&utm_medium=rss&utm_campaign=zero-to-hero-aula-4-power-automate-e-dataverse-com-gustavo-moraes-youtube",
-          "publishedOn": "2022-03-24T18:25:00.000Z",
-          "wordCount": 401,
-          "title": "Zero to Hero – Aula 4 – Power Automate e Dataverse com Gustavo Moraes – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/sequence-stats-and-reshuffling-of-columns-in-sales-accelerator",
-          "author": "Inogic",
-          "description": "Introduction: Recently in Dynamics 365 CRM 2022 release wave1, I came across new capabilities that are added in the Sequence grid. There are two capabilities that were recently added to help you better understand the sequence and user interactions. The new capabilities introduced are as below: “Sequence Stats”: Used for comparing sequence performance statistics over […]\nThe post Sequence Stats and Reshuffling of columns in Sales Accelerator appeared first on 365 Community.",
-          "link": "https://365community.online/sequence-stats-and-reshuffling-of-columns-in-sales-accelerator?utm_source=rss&utm_medium=rss&utm_campaign=sequence-stats-and-reshuffling-of-columns-in-sales-accelerator",
-          "publishedOn": "2022-03-24T16:32:02.000Z",
-          "wordCount": 742,
-          "title": "Sequence Stats and Reshuffling of columns in Sales Accelerator",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/mct-demystified",
-          "author": "José Miguel Azevedo",
-          "description": "Following the previous post about a practical Learning for Microsoft Business Applications Functional and Technical Consultants, this one will demystified MCT (Microsoft Certified Trainer). Microsoft Certified Trainers (MCTs) are the premier technical and instructional experts in Microsoft technologies. The official requirements to become a MCT are described here:\nThe post MCT demystified appeared first on 365 Community.",
-          "link": "https://365community.online/mct-demystified?utm_source=rss&utm_medium=rss&utm_campaign=mct-demystified",
-          "publishedOn": "2022-03-24T14:32:34.000Z",
-          "wordCount": 428,
-          "title": "MCT demystified",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/what-is-azure-bicep-youtube",
-          "author": "Sarah Lean 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-          "description": "What is Azure Bicep? In this video I look at explaining what is Azure Bicep and why it could be a great tool for your organisation. Microsoft Learn Module: https://docs.microsoft.com/learn/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5004737 Azure Bicep Docs: https://docs.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep/?WT.mc_id=AZ-MVP-5004737 0:00 Introduction 0:19 What is Azure Bicep 1:12 Benefits of Azure Bicep 3:14 When is Azure Bicep the right tool? 4:52 […]\nThe post What is Azure Bicep? – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/what-is-azure-bicep-youtube?utm_source=rss&utm_medium=rss&utm_campaign=what-is-azure-bicep-youtube",
-          "publishedOn": "2022-03-24T12:15:00.000Z",
-          "wordCount": 615,
-          "title": "What is Azure Bicep? – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/business-central-saas-environment-triggers",
-          "author": "Waldo",
-          "description": "So – thanks to my colleague Márton Sági (the AL Studio guy ;-)), I came across a quite interesting, but highly under-documented ability today in Business Central. One that makes the below post purely based on assumptions ;-), since it’s undocumented, and resides only in the platform part of Business Central (so there isn’t much […]\nThe post Business Central SaaS Environment Triggers appeared first on 365 Community.",
-          "link": "https://365community.online/business-central-saas-environment-triggers?utm_source=rss&utm_medium=rss&utm_campaign=business-central-saas-environment-triggers",
-          "publishedOn": "2022-03-24T07:11:23.000Z",
-          "wordCount": 470,
-          "title": "Business Central SaaS Environment Triggers",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-define-system-filters-for-synchronization-using-savedquery-in-dynamics-365-crm",
-          "author": "Nishant Rana",
-          "description": "We covered a few Synchronization topics in the last few blogs, here we will look at defining system filters to manage which records could be synced. How to – Synchronize Appointments between Dynamics 365 and Outlook using Server-Side Synchronization How are tasks, letters, fax, phone call synchronized between Dynamics 365 and Outlook We can see few default […]\nThe post How to – Define System Filters for Synchronization using SavedQuery in Dynamics 365 / CRM appeared first on 365 Community.",
-          "link": "https://365community.online/how-to-define-system-filters-for-synchronization-using-savedquery-in-dynamics-365-crm?utm_source=rss&utm_medium=rss&utm_campaign=how-to-define-system-filters-for-synchronization-using-savedquery-in-dynamics-365-crm",
-          "publishedOn": "2022-03-24T05:00:00.000Z",
-          "wordCount": 535,
-          "title": "How to – Define System Filters for Synchronization using SavedQuery in Dynamics 365 / CRM",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/tae-rim-han-on-the-mvp-show-youtube",
-          "author": "NZ365Guy",
-          "description": "Tae Rim Han on The MVP Show FULL SHOW NOTES https://podcast.nz365guy.com/365 • A brief introduction about Tae Rim Han’s life – family background and hobbies.  • A conversation about Tae’s journey into technology.  • Chats about Tae’s passion when it comes to SharePoint, Dynamics, PCF and Azure.  • Talks about Tae’s career background.  • Tae’s […]\nThe post Tae Rim Han on The MVP Show – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/tae-rim-han-on-the-mvp-show-youtube?utm_source=rss&utm_medium=rss&utm_campaign=tae-rim-han-on-the-mvp-show-youtube",
-          "publishedOn": "2022-03-23T17:21:50.000Z",
-          "wordCount": 586,
-          "title": "Tae Rim Han on The MVP Show – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/zero-to-hero-session-4-lesson-10-danish-naglekar-pcf-react-lab-youtube-2",
-          "author": "Victor Dantas",
-          "description": "PCF/React control Danish Naglekar – Hands on Lab. Training Material: https://www.dantas.ca/zero-to-hero source\nThe post Zero to Hero – Session 4 – Lesson 10 – Danish Naglekar – PCF/React Lab. – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/zero-to-hero-session-4-lesson-10-danish-naglekar-pcf-react-lab-youtube-2?utm_source=rss&utm_medium=rss&utm_campaign=zero-to-hero-session-4-lesson-10-danish-naglekar-pcf-react-lab-youtube-2",
-          "publishedOn": "2022-03-23T15:07:27.000Z",
-          "wordCount": 417,
-          "title": "Zero to Hero – Session 4 – Lesson 10 – Danish Naglekar – PCF/React Lab. – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/tae-rim-han-on-the-mvp-show",
-          "author": "NZ365Guy",
-          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/365 A brief introduction about Tae Rim Han’s life – family background and hobbies.  A conversation about Tae’s journey into technology.  Chats about Tae’s passion when it comes to SharePoint, Dynamics, PCF and Azure.  Talks about Tae’s career background.  Tae’s views and the big difference between working for a partner and dealing… […]\nThe post Tae Rim Han on The MVP Show appeared first on 365 Community.",
-          "link": "https://365community.online/tae-rim-han-on-the-mvp-show?utm_source=rss&utm_medium=rss&utm_campaign=tae-rim-han-on-the-mvp-show",
-          "publishedOn": "2022-03-23T13:00:00.000Z",
-          "wordCount": 401,
-          "title": "Tae Rim Han on The MVP Show",
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1796418/10077415-tae-rim-han-on-the-mvp-show.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/validate-fetchxml-by-using-validatefetchxmlexpression-webapi-function-in-the-script",
-          "author": "Inogic",
-          "description": "Introduction: In a recent project, we retrieved Dynamics 365 CRM data using WebAPI and fetchXml expressions. In most cases, we create fetchXml expressions, where we add attributes and filter conditions dynamically in the fetchXml.  When we execute our dynamically created fetchXml expressions, it fails with  different error messages. Here we had come across a requirement […]\nThe post Validate FetchXml by using ValidateFetchXmlExpression WebAPI function in the script appeared first on 365 Community.",
-          "link": "https://365community.online/validate-fetchxml-by-using-validatefetchxmlexpression-webapi-function-in-the-script?utm_source=rss&utm_medium=rss&utm_campaign=validate-fetchxml-by-using-validatefetchxmlexpression-webapi-function-in-the-script",
-          "publishedOn": "2022-03-23T06:25:36.000Z",
-          "wordCount": 713,
-          "title": "Validate FetchXml by using ValidateFetchXmlExpression WebAPI function in the script",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-are-tasks-letters-fax-phone-call-synchronized-between-dynamics-365-and-outlook",
-          "author": "Nishant Rana",
-          "description": "In the previous post, we saw how Appointment Synchronization works, for other activity entities the  is more or less similar. How to – Synchronize Appointments between Dynamics 365 and Outlook using Server-Side Synchronization Below is the list of activity entities that are synced by default (we cannot configure custom entities for sync) Let us start by […]\nThe post How are tasks, letters, fax, phone call synchronized between Dynamics 365 and Outlook appeared first on 365 Community.",
-          "link": "https://365community.online/how-are-tasks-letters-fax-phone-call-synchronized-between-dynamics-365-and-outlook?utm_source=rss&utm_medium=rss&utm_campaign=how-are-tasks-letters-fax-phone-call-synchronized-between-dynamics-365-and-outlook",
-          "publishedOn": "2022-03-23T05:00:00.000Z",
-          "wordCount": 527,
-          "title": "How are tasks, letters, fax, phone call synchronized between Dynamics 365 and Outlook",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/jonnychipz-schooled-in-microsoft-365-defender-with-ru-campbell-youtube",
-          "author": "John Lunn",
-          "description": "Jonnychipz Schooled In – Microsoft 365 Defender with Ru Campbell Released: 22.03.22 In this YouTube Series where I am joined by a guest to get ‘Schooled In’ a particular Technical Topic. I am really pleased to announce that in this third episode I am joined by Security Architect, MVP, Blogger and Podcaster Ru Campbell, where […]\nThe post Jonnychipz Schooled In – Microsoft 365 Defender with Ru Campbell – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/jonnychipz-schooled-in-microsoft-365-defender-with-ru-campbell-youtube?utm_source=rss&utm_medium=rss&utm_campaign=jonnychipz-schooled-in-microsoft-365-defender-with-ru-campbell-youtube",
-          "publishedOn": "2022-03-23T01:48:25.000Z",
-          "wordCount": 478,
-          "title": "Jonnychipz Schooled In – Microsoft 365 Defender with Ru Campbell – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/dynamics-365-business-central-introducing-the-in-client-performance-profiler",
-          "author": "Stefano Demiliani",
-          "description": "With the upcoming Dynamics 365 Business Central 2022 Wave 1 release (version 20), Microsoft has enhanced the AL performance profiler (available starting from version 19 only via Visual Studio Code) giving the possibility also to functional developers/consultants, as well as customer administrators and power users to capture a user flow from within the web client […]\nThe post Dynamics 365 Business Central: introducing the in-client Performance Profiler appeared first on 365 Community.",
-          "link": "https://365community.online/dynamics-365-business-central-introducing-the-in-client-performance-profiler?utm_source=rss&utm_medium=rss&utm_campaign=dynamics-365-business-central-introducing-the-in-client-performance-profiler",
-          "publishedOn": "2022-03-22T15:42:04.000Z",
-          "wordCount": 483,
-          "title": "Dynamics 365 Business Central: introducing the in-client Performance Profiler",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/introduction-to-security-in-dataverse",
-          "author": "Kylie Kiser",
-          "description": "I have been very busy the last week talking about Security in Dataverse! So, I wanted to take a few minutes to share those recordings and resources with you. Security Horror Stories I started the week talking Security Horror Stories with the CRM Rocks Podcast. You can watch this on YouTube or listen on CRM […]\nThe post Introduction to Security in Dataverse appeared first on 365 Community.",
-          "link": "https://365community.online/introduction-to-security-in-dataverse?utm_source=rss&utm_medium=rss&utm_campaign=introduction-to-security-in-dataverse",
-          "publishedOn": "2022-03-22T14:58:00.000Z",
-          "wordCount": 462,
-          "title": "Introduction to Security in Dataverse",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/schooled-in-microsoft-365-defender-with-ru-campbell",
-          "author": "John Lunn",
-          "description": "In this YouTube Series where I am joined by a guest to get ‘Schooled In’ a particular Technical Topic. I am really pleased to announce that in this third episode I am joined by Security Architect, MVP, Blogger and Podcaster Ru Campbell, where he talks to me about Microsoft 365 Defender! Twitter: https://twitter.com/rucam365 Blog: https://campbell.scot […]\nThe post Schooled in – Microsoft 365 Defender with Ru Campbell appeared first on 365 Community.",
-          "link": "https://365community.online/schooled-in-microsoft-365-defender-with-ru-campbell?utm_source=rss&utm_medium=rss&utm_campaign=schooled-in-microsoft-365-defender-with-ru-campbell",
-          "publishedOn": "2022-03-22T12:30:00.000Z",
-          "wordCount": 418,
-          "title": "Schooled in – Microsoft 365 Defender with Ru Campbell",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/salesforce-certificates-complete-salesforce-certifications-and-careers-2022-mindmajix-youtube",
-          "author": "Jaya Sri",
-          "description": "————————————————————————————————————————– MindMajix Community: https://mindmajix.com/community Instagram: https://www.instagram.com/mindmajix/. Facebook: https://www.facebook.com/MindMajixTec… LinkedIn : https://www.linkedin.com/company/mind… Twitter: https://twitter.com/mindmajix 🔔 Subscribe to our channel to get video updates. https://www.youtube.com/channel/UCkKemMaRnFPlNLHZ0zOYfpA?sub_confirmation=1 For more information, please write back to us at info@mindmajix.com or call India : +91 905 240 3388 USA : +1 917 456 8403 Website: https://mindmajix.com source\nThe post Salesforce Certificates | Complete Salesforce Certifications and Careers 2022 – MindMajix – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/salesforce-certificates-complete-salesforce-certifications-and-careers-2022-mindmajix-youtube?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-certificates-complete-salesforce-certifications-and-careers-2022-mindmajix-youtube",
-          "publishedOn": "2022-03-22T12:00:35.000Z",
-          "wordCount": 434,
-          "title": "Salesforce Certificates | Complete Salesforce Certifications and Careers 2022 – MindMajix – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/live-codefc-acesso-externo-com-spfx-power-apps-portals-e-canvas-app-youtube",
-          "author": "Saulo Soares Oliveira",
-          "description": "Nessa live que vai rolar em breve no canal CodeFC vamos falar essas três tecnologias seus prós e contras e qual cenário podemos utilizar cada uma delas quando pensamos em acesso externo. 🎬Inscreva-se no CodeFC: https://www.youtube.com/c/CodeFC E fique ligado. source\nThe post Live CodeFC – Acesso externo com SPFx, Power Apps Portals e Canvas app – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/live-codefc-acesso-externo-com-spfx-power-apps-portals-e-canvas-app-youtube?utm_source=rss&utm_medium=rss&utm_campaign=live-codefc-acesso-externo-com-spfx-power-apps-portals-e-canvas-app-youtube",
-          "publishedOn": "2022-03-22T11:46:37.000Z",
-          "wordCount": 414,
-          "title": "Live CodeFC – Acesso externo com SPFx, Power Apps Portals e Canvas app – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/parse-json-in-canvas-app-using-regex",
-          "author": "Inogic",
-          "description": "Introduction: The Canvas App provides us with a visually rich representation of our data for mobile devices. Recently while trying to incorporate functionality in the Canvas App we needed a way to parse JSON. In the quest to find an appropriate approach for the same, we got to know that we can do this using […]\nThe post Parse JSON In Canvas App using Regex appeared first on 365 Community.",
-          "link": "https://365community.online/parse-json-in-canvas-app-using-regex?utm_source=rss&utm_medium=rss&utm_campaign=parse-json-in-canvas-app-using-regex",
-          "publishedOn": "2022-03-22T10:48:50.000Z",
-          "wordCount": 750,
-          "title": "Parse JSON In Canvas App using Regex",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-sales-reports-in-dynamics-365-sales",
-          "author": "Dian Taylor",
-          "description": "There are a couple of new reports available in Dynamics 365 Sales which I wanted to share with you. The first report has several KPI’s and charts related to sequences in the Sales Accelerator. This report is part of 2021 Release Wave 1 and is currently in preview. It’s scheduled to be generally available later […]\nThe post New Sales Reports in Dynamics 365 Sales appeared first on 365 Community.",
-          "link": "https://365community.online/new-sales-reports-in-dynamics-365-sales?utm_source=rss&utm_medium=rss&utm_campaign=new-sales-reports-in-dynamics-365-sales",
-          "publishedOn": "2022-03-22T09:17:00.000Z",
-          "wordCount": 417,
-          "title": "New Sales Reports in Dynamics 365 Sales",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/preview-sequence-reporting-and-sales-usage-reports-youtube",
-          "author": "Dian Taylor",
-          "description": "Preview-Sequence Reporting and Sales Usage Reports In this video I will share a few new embedded PowerBI reports for Dynamics 365 Sales. Related Article: https://d365goddess.com/new-sales-reports-in-dynamics-365-sales Blog: https://D365Goddess.com Twitter: https://twitter.com/D365Goddess LinkedIn: https://www.linkedin.com/in/diantaylor/ In this video I will share a few new embedded PowerBI reports for Dynamics 365 Sales. Related Article: https://d365goddess.com/new-sales-reports-in-dynamics-365-sales Blog: https://D365Goddess.com Twitter: https://twitter.com/D365Goddess LinkedIn: […]\nThe post Preview-Sequence Reporting and Sales Usage Reports – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/preview-sequence-reporting-and-sales-usage-reports-youtube?utm_source=rss&utm_medium=rss&utm_campaign=preview-sequence-reporting-and-sales-usage-reports-youtube",
-          "publishedOn": "2022-03-22T09:15:01.000Z",
-          "wordCount": 395,
-          "title": "Preview-Sequence Reporting and Sales Usage Reports – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/power-platform-release-wave-1-2022-whats-new-in-power-apps",
-          "author": "Saurav Dhyani",
-          "description": "With the upcoming Microsoft Power Platform 2022 Release Wave 1, I wanted to provide a guide to the community on the upcoming feature enhancements that will help make a difference in your deployments. The intention is to provide rolling commentary across the next couple of weeks with a focus on each of the major products […]\nThe post Power Platform Release Wave 1 2022 – What’s new in Power Apps appeared first on 365 Community.",
-          "link": "https://365community.online/power-platform-release-wave-1-2022-whats-new-in-power-apps?utm_source=rss&utm_medium=rss&utm_campaign=power-platform-release-wave-1-2022-whats-new-in-power-apps",
-          "publishedOn": "2022-03-22T07:17:14.000Z",
-          "wordCount": 487,
-          "title": "Power Platform Release Wave 1 2022 – What’s new in Power Apps",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-synchronize-appointments-between-dynamics-365-and-outlook-using-server-side-synchronization",
-          "author": "Nishant Rana",
-          "description": "Appointments, Contacts, Fax, letters, Tasks, etc. entities can be synced both ways between Dynamics 365 and Outlook. This setting is configurable. Navigate to System Settings >> Synchronization tab Click on Synchronized Fields. It lists down all the entities there. We can define the synchronization direction by clicking on the arrow of the attribute for a […]\nThe post How to – Synchronize Appointments between Dynamics 365 and Outlook using Server-Side Synchronization appeared first on 365 Community.",
-          "link": "https://365community.online/how-to-synchronize-appointments-between-dynamics-365-and-outlook-using-server-side-synchronization?utm_source=rss&utm_medium=rss&utm_campaign=how-to-synchronize-appointments-between-dynamics-365-and-outlook-using-server-side-synchronization",
-          "publishedOn": "2022-03-22T05:00:00.000Z",
-          "wordCount": 529,
-          "title": "How to – Synchronize Appointments between Dynamics 365 and Outlook using Server-Side Synchronization",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams-youtube",
-          "author": "greyhatbeard",
-          "description": "Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams This could be the most important podcast that you listen to all year! If you have flows in Power Automate running with Service Accounts then listen to this show as soon as you can. We are joined by Wictor […]\nThe post Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams-youtube?utm_source=rss&utm_medium=rss&utm_campaign=show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams-youtube",
-          "publishedOn": "2022-03-22T00:44:47.000Z",
-          "wordCount": 612,
-          "title": "Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams",
-          "author": "greyhatbeard",
-          "description": "This could be the most important podcast that you listen to all year! If you have flows in Power Automate running with Service Accounts then listen to this show as soon as you can. We are joined by Wictor Wilen to talk about a few of the big news stories in the last couple of […]\nThe post Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams appeared first on 365 Community.",
-          "link": "https://365community.online/show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams?utm_source=rss&utm_medium=rss&utm_campaign=show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams",
-          "publishedOn": "2022-03-21T22:00:00.000Z",
-          "wordCount": 669,
-          "title": "Show 53 – Part 1: What not to do with Power Automate and happy birthday Teams",
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1455661/10292390-show-53-part-1-what-not-to-do-with-power-automate-and-happy-birthday-teams.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/power-apps-for-non-for-profit-with-adam-cunningham",
-          "author": "NZ365Guy",
-          "description": "FULL SHOW NOTES:  https://podcast.nz365guy.com/364  An introduction about Adam Cunningham – life background and interest.  A conversation about Adam’s career and how he got into technology.   Talks about how Adam got involved in Power Platform and other technologies.  Discussions about the feedback and change from using Excell for reporting to Power BI  Adam talks about […]\nThe post Power Apps for Non-For-Profit with Adam Cunningham appeared first on 365 Community.",
-          "link": "https://365community.online/power-apps-for-non-for-profit-with-adam-cunningham?utm_source=rss&utm_medium=rss&utm_campaign=power-apps-for-non-for-profit-with-adam-cunningham",
-          "publishedOn": "2022-03-21T13:00:00.000Z",
-          "wordCount": 402,
-          "title": "Power Apps for Non-For-Profit with Adam Cunningham",
-          "enclosure": {
-            "url": "https://www.buzzsprout.com/1796418/10279768-power-apps-for-non-for-profit-with-adam-cunningham.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/when-ops-meets-dev-introduction",
-          "author": "John Lunn",
-          "description": "So Hi everyone and welcome to this first introduction video of a brand new live stream that will be kicking off from the 1st April 2022 Join me, Jonny based in the UK where I will be joined by the awesome Robbie over in the USA (wave) and Swamy who is based in India (wave) […]\nThe post When Ops Meets Dev – Introduction appeared first on 365 Community.",
-          "link": "https://365community.online/when-ops-meets-dev-introduction?utm_source=rss&utm_medium=rss&utm_campaign=when-ops-meets-dev-introduction",
-          "publishedOn": "2022-03-21T11:58:00.000Z",
-          "wordCount": 454,
-          "title": "When Ops Meets Dev – Introduction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/change-sql-server-analysis-services-deployment-mode-from-multidimensional-to-tabular",
-          "author": "Ian Grieve",
-          "description": "I recently installed SQL Server Analysis Services (SSAS) and used the default settings during the installation. Unfortunately, this meant I installed it using a Deployment Mode of Multidimensional instead of Tabular. I wanted to avoid uninstalling so I did some poking around and found there is a setting file which can be amended to change […]\nThe post Change SQL Server Analysis Services Deployment Mode from Multidimensional to Tabular appeared first on 365 Community.",
-          "link": "https://365community.online/change-sql-server-analysis-services-deployment-mode-from-multidimensional-to-tabular?utm_source=rss&utm_medium=rss&utm_campaign=change-sql-server-analysis-services-deployment-mode-from-multidimensional-to-tabular",
-          "publishedOn": "2022-03-21T11:00:37.000Z",
-          "wordCount": 495,
-          "title": "Change SQL Server Analysis Services Deployment Mode from Multidimensional to Tabular",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-many-teams-can-a-scrum-master-master-youtube",
-          "author": "Neil Benson",
-          "description": "Imagine going for a job interview with a Microsoft partner, and the hiring manager asks, “How many Dynamics 365 or Power Platform scrum teams could you coach at once?” How would you answer that? Or what follow-up questions would you ask? Find out how I’d answer that with three possible responses: the sports analogy response, […]\nThe post How many teams can a Scrum Master master? – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/how-many-teams-can-a-scrum-master-master-youtube?utm_source=rss&utm_medium=rss&utm_campaign=how-many-teams-can-a-scrum-master-master-youtube",
-          "publishedOn": "2022-03-21T01:37:46.000Z",
-          "wordCount": 559,
-          "title": "How many teams can a Scrum Master master? – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/project-for-the-web-to-project-operations-migration-with-power-automate",
-          "author": "Antti Pajunen",
-          "description": "Migrating Project for the web projects from the default environment is a question I get asked every now and then. Sometimes customers want to migrate their P4W projects to Project Operations. Another ask is migrating P4W projects from default to a Dataverse production environment. With the Project schedule APIs, there’s an answer to these asks. […]\nThe post Project for the web to Project Operations migration with Power Automate appeared first on 365 Community.",
-          "link": "https://365community.online/project-for-the-web-to-project-operations-migration-with-power-automate?utm_source=rss&utm_medium=rss&utm_campaign=project-for-the-web-to-project-operations-migration-with-power-automate",
-          "publishedOn": "2022-03-20T18:51:40.000Z",
-          "wordCount": 501,
-          "title": "Project for the web to Project Operations migration with Power Automate",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-disable-email-tracing-token-in-dynamics-365-ce",
-          "author": "Arun Potti",
-          "description": "By default, whenever you send an email from Dynamics 365 CE, you would have observed that the Tracing Token appended at the end of the Email Subject like CRM:00010003. But, if you do not want to show this tracing token, follow the below steps. Step 1: Login to Power Apps Maker Portal with your credentials. […]\nThe post How to disable Email Tracing Token in Dynamics 365 CE? appeared first on 365 Community.",
-          "link": "https://365community.online/how-to-disable-email-tracing-token-in-dynamics-365-ce?utm_source=rss&utm_medium=rss&utm_campaign=how-to-disable-email-tracing-token-in-dynamics-365-ce",
-          "publishedOn": "2022-03-20T12:44:52.000Z",
-          "wordCount": 510,
-          "title": "How to disable Email Tracing Token in Dynamics 365 CE?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-handle-cases-within-d365-hr",
-          "author": "Ana Inés Urrutia",
-          "description": "I’ve wanted to write about this for a while. In one of the biggest projects I was involved in as a consultant, I got the chance to manage this stream for the customer business problem. It was a very large project and the complexity was above the sky. At the moment we used D365 HR […]\nThe post How to handle cases within D365 HR appeared first on 365 Community.",
-          "link": "https://365community.online/how-to-handle-cases-within-d365-hr?utm_source=rss&utm_medium=rss&utm_campaign=how-to-handle-cases-within-d365-hr",
-          "publishedOn": "2022-03-20T10:17:30.000Z",
-          "wordCount": 449,
-          "title": "How to handle cases within D365 HR",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/MB-900-Microsoft-Dynamics-365-Fundamentals-–-Talent.jpg?fit=785%2C442&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-enable-model-driven-apps-for-offline-use",
-          "author": "Inogic",
-          "description": "Introduction: Recently, Microsoft has announced the availability of the “Mobile Offline” option for Dynamics 365 CRM. This feature allows the user to interact with Dynamics 365 CRM even when there’s an unavailability of internet connection. And once the network is back, the changes or updates made by the user gets synced with Dynamics 365 CRM. […]\nThe post How to enable model-driven apps for offline use appeared first on 365 Community.",
-          "link": "https://365community.online/how-to-enable-model-driven-apps-for-offline-use?utm_source=rss&utm_medium=rss&utm_campaign=how-to-enable-model-driven-apps-for-offline-use",
-          "publishedOn": "2022-03-19T11:35:47.000Z",
-          "wordCount": 738,
-          "title": "How to enable model-driven apps for offline use",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2019/06/Dynamics-365-API-limits.png?fit=200%2C200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/jonnychipz-in-conversation-with-daniel-mcloughlin-youtube",
-          "author": "John Lunn",
-          "description": "Jonnychipz – In Conversation with Daniel McLoughlin Released: 18.03.22 Join John Lunn aka Jonnychipz as he is joined by Technical Product Manager Daniel McLoughlin. This episode of Jonnychipz In Conversation with’ will be released multiplatform on Azureish Live (www.twitch.tv/azureishlive) Jonnychipz Twitch (www.twitch.tv/jonnychipz) my Twitter, LinkedIn and YouTube simultaneously and its a great episode that you […]\nThe post Jonnychipz – In Conversation with Daniel McLoughlin – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/jonnychipz-in-conversation-with-daniel-mcloughlin-youtube?utm_source=rss&utm_medium=rss&utm_campaign=jonnychipz-in-conversation-with-daniel-mcloughlin-youtube",
-          "publishedOn": "2022-03-19T07:07:28.000Z",
-          "wordCount": 666,
-          "title": "Jonnychipz – In Conversation with Daniel McLoughlin – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/jonnychipz-weekly-64-time-youtube",
-          "author": "John Lunn",
-          "description": "Jonnychipz Weekly #64 – Time Released: 18.03.22 Week 64 of my Jonnychipz weekly VLOG, covering the Last Week of Azure News and Updates, Welsh Azure User Group News and some great Community Callouts. Live at 12.30pm GMT 18.03.22. on my YouTube channel (Click the link below!) This week I delve into the Azure Updates of […]\nThe post Jonnychipz Weekly #64 – Time – YouTube appeared first on 365 Community.",
-          "link": "https://365community.online/jonnychipz-weekly-64-time-youtube?utm_source=rss&utm_medium=rss&utm_campaign=jonnychipz-weekly-64-time-youtube",
-          "publishedOn": "2022-03-19T01:09:51.000Z",
-          "wordCount": 610,
-          "title": "Jonnychipz Weekly #64 – Time – YouTube",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Dynamics 365 for Finance and Operations – Everything Dynamics |",
       "feedUrl": "http://www.everythingdynamicsaxbi.com/category/dynamics-365-for-finance-and-operations/feed/",
       "siteUrl": "http://www.everythingdynamicsaxbi.com",
@@ -2455,6 +1703,648 @@
       "feedUrl": "https://www.dynagile.fr/en/home-page-blog/feed/",
       "siteUrl": "https://www.dynagile.fr",
       "articles": []
+    },
+    {
+      "title": "Anitha Eswaran – Dynamics Ax",
+      "feedUrl": "https://anithasantosh.wordpress.com/feed/",
+      "siteUrl": "https://anithasantosh.wordpress.com",
+      "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2164",
+          "author": "AnithaEswaran",
+          "description": "Everytime when I add a new post to my blog, I manually update my LinkedIn Account about it. With PowerAutomate, this job is automated with two simple steps, If you have a Office365 account, login and then search for either … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/03/10/power-automate-to-trigger-the-post-alert-in-linkedin/",
+          "publishedOn": "2022-03-10T16:04:54.000Z",
+          "wordCount": 780,
+          "title": "Power Automate to trigger the post alert in LinkedIn",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/03/image-8.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2149",
+          "author": "AnithaEswaran",
+          "description": "It is now possible to access the FO pages from Microsoft teams. We can simultaneously chat and get the doubts cleared if any . Select the form which needs to be embedded in the teams. Copy the URL from address … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/03/10/access-d365fo-pages-from-microsoft-teams/",
+          "publishedOn": "2022-03-10T15:37:34.000Z",
+          "wordCount": 713,
+          "title": "Access D365FO pages from Microsoft Teams",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/03/image-4.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2135",
+          "author": "AnithaEswaran",
+          "description": "How do we limit the navigation options to the users ? For instance, I am asked to share only the Vendor form to a particular user . If the complete URL is shared, then the user will be able to … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/03/10/limit-the-navigation-in-d365fo/",
+          "publishedOn": "2022-03-10T13:34:28.000Z",
+          "wordCount": 739,
+          "title": "Limit the navigation in D365FO",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/03/image-1.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2121",
+          "author": "AnithaEswaran",
+          "description": "We often use Notepad++ for easy editing which allows us to open multiples file simultaneously. It also helps a developer to edit the code as it recognizes popular coding languages. As a developer, I found it useful not only for … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/02/15/using-notepad-for-easy-formatting/",
+          "publishedOn": "2022-02-15T15:04:44.000Z",
+          "wordCount": 1008,
+          "title": "Using Notepad++ for easy formatting",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/02/image-22.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2089",
+          "author": "AnithaEswaran",
+          "description": "With the latest FO versions, Business event endpoints doesn`t support ‘Power Automate’ and ‘CDS’. One of my projects had the Business event integration with logic apps and we used ‘Power automate’ to create the endpoint. In this post, let me … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/02/11/d365fo-business-event-with-https-endpoint/",
+          "publishedOn": "2022-02-11T11:23:03.000Z",
+          "wordCount": 1170,
+          "title": "D365FO Business Event with Https Endpoint",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/02/image-11.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2040",
+          "author": "AnithaEswaran",
+          "description": "Triggering ‘Export to package’ API from logic apps creates the output as a data package. The data package has Data file, Manifest and Package Header . In order to pass the data file for third party processing , the compressed … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/02/02/logic-apps-dixf-export-unique-file-name-creation-d365fo/",
+          "publishedOn": "2022-02-02T03:56:35.000Z",
+          "wordCount": 1125,
+          "title": "Logic apps DIXF Export – Unique file name creation – D365FO",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/01/image-16.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2025",
+          "author": "AnithaEswaran",
+          "description": "Recently during the import of data using OData , I had encountered this error which status ‘The request could not be processed at this time due to system experiencing high resource utilization”. I had not faced this issue in dev … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/01/19/odata-throttling-d365fo-the-request-could-not-be-processed-at-this-time-due-to-system-experiencing-high-resource-utilization/",
+          "publishedOn": "2022-01-19T11:32:47.000Z",
+          "wordCount": 1069,
+          "title": "OData Throttling D365FO : “The request could not be processed at this time due to system experiencing high resource utilization”",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/01/image-13.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2015",
+          "author": "AnithaEswaran",
+          "description": "In order to delete a particular record from a table in SQL server, a normal delete statement would not be helpful For instance, take an example as shown in the below screenshot Due to manual error, there are duplicate records … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/01/04/delete-duplicate-or-top-row-from-sql-server/",
+          "publishedOn": "2022-01-04T15:55:25.000Z",
+          "wordCount": 824,
+          "title": "Delete Duplicate or Top row from SQL server",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/01/image-10.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2005",
+          "author": "AnithaEswaran",
+          "description": "There are scenarios when a single string separated by commas(or any other character) to be imported as multi line string to the target application . One of my assignment had unformatted data and the requirement was to map them to … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/01/02/single-line-string-to-multi-line-postman/",
+          "publishedOn": "2022-01-02T21:13:52.000Z",
+          "wordCount": 761,
+          "title": "Single-Line string to Multi-line – Postman",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/01/image-8.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=1983",
+          "author": "AnithaEswaran",
+          "description": "In one of my assignments, I am using Azure SQL database acting as staging where I am importing the data on to it for further transformations. In order to push the data to D365 FO using recurrence, I used logic … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/01/02/connect-to-azure-sql-from-logic-apps-to-execute-d365fo-enqueue/",
+          "publishedOn": "2022-01-02T20:25:28.000Z",
+          "wordCount": 881,
+          "title": "Connect to Azure SQL from logic apps to execute D365FO Enqueue",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/01/image.png"
+        }
+      ]
+    },
+    {
+      "title": "Dynamics 365 Musings",
+      "feedUrl": "https://dynamics365musings.com/feed/",
+      "siteUrl": "https://dynamics365musings.com",
+      "articles": [
+        {
+          "id": "https://dynamics365musings.com/?p=1794",
+          "author": "peter.ramer",
+          "description": "Do you know all of the D365 development tips and tricks when working with Microsoft Dynamics 365 for Finance and Operations? Find out by watching this video. Two time Microsoft Business Applications MVP Nathan Clouse invited me to co-present with him. And I was honored and thrilled to be asked. Watch as we show you... Continue Reading →\nThe post D365 Development Tips And Tricks appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-development-tips-and-tricks/?utm_source=rss&utm_medium=rss&utm_campaign=d365-development-tips-and-tricks",
+          "publishedOn": "2022-03-14T13:00:00.000Z",
+          "wordCount": 1602,
+          "title": "D365 Development Tips And Tricks",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/03/D365-Development-Tips-And-Tricks.png"
+        },
+        {
+          "id": "https://dynamics365musings.com/?p=1759",
+          "author": "peter.ramer",
+          "description": "In the previous article, I explained how to use D365 joins to combine rows from two ore more tables together. In a continuation of that article, learn how to use D365 outer join, exists join, and NotExists join to retrieve data in some more complex scenarios. Being able to efficiently pull in the exact data... Continue Reading →\nThe post D365 Outer Join In X++ appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-outer-join/?utm_source=rss&utm_medium=rss&utm_campaign=d365-outer-join",
+          "publishedOn": "2022-02-28T15:11:54.000Z",
+          "wordCount": 3115,
+          "title": "D365 Outer Join In X++",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/02/D365-Outer-Exists-NotExists-Joins-In-X-Final.png"
+        },
+        {
+          "id": "https://dynamics365musings.com/?p=1731",
+          "author": "peter.ramer",
+          "description": "Microsoft Dynamics 365 for Finance and Operations is a relationship database. This means there are many tables that contain data that relates to each other. D365 joins combine rows from two or more tables together, based on related columns. Developers use D365 joins in x++ select statements to read and update the data they are... Continue Reading →\nThe post D365 Joins in X++ appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-joins/?utm_source=rss&utm_medium=rss&utm_campaign=d365-joins",
+          "publishedOn": "2022-02-21T22:59:34.000Z",
+          "wordCount": 2570,
+          "title": "D365 Joins in X++",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/02/D365-Joins-In-X.png"
+        },
+        {
+          "id": "https://dynamics365musings.com/?p=1697",
+          "author": "peter.ramer",
+          "description": "Any ERP system needs to process data. An x++ ‘while select statement’ allows developers to loop through specific records with ease. Then take action on those records. The x++ language in Microsoft Dynamics 365 for Finance and Operations combines the best of both SQL like language and object oriented programming. First, developers can efficiently tell... Continue Reading →\nThe post How To Write A While Select Statement appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/while-select-statement/?utm_source=rss&utm_medium=rss&utm_campaign=while-select-statement",
+          "publishedOn": "2022-02-14T14:30:00.000Z",
+          "wordCount": 2797,
+          "title": "How To Write A While Select Statement",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/02/Copy-of-How-To-Write-A-While-Select-Statement-Final.png"
+        },
+        {
+          "id": "https://dynamics365musings.com/?p=1677",
+          "author": "peter.ramer",
+          "description": "Whenever a developer needs to add code in Microsoft Dynamics 365 for Finance and Operations, the first step is to create a project. In this article I wanted to explain the steps of how to create a D365 Project in Visual Studio. And some of the key pieces to be aware of. In the future... Continue Reading →\nThe post How To Create A D365 Project In Visual Studio appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-project/?utm_source=rss&utm_medium=rss&utm_campaign=d365-project",
+          "publishedOn": "2022-02-07T15:56:11.000Z",
+          "wordCount": 1735,
+          "title": "How To Create A D365 Project In Visual Studio",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/02/How-To-Create-A-D365-Project-In-Visual-Studio.png"
+        },
+        {
+          "id": "https://dynamics365musings.com/?p=1644",
+          "author": "peter.ramer",
+          "description": "One of the coolest parts of the x++ language is using a select statement. A select statement allows developers to fetch and manipulate data from a database. The data is loaded into table variables. Finally, these table variables can have methods where code be added to work with the data. This allows developers to focus... Continue Reading →\nThe post How To Write An X++ Select Statement appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/select-statement/?utm_source=rss&utm_medium=rss&utm_campaign=select-statement",
+          "publishedOn": "2022-01-31T14:00:00.000Z",
+          "wordCount": 3188,
+          "title": "How To Write An X++ Select Statement",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/01/How-To-Write-An-X-Select-Statement.png"
+        },
+        {
+          "id": "https://dynamics365musings.com/?p=1610",
+          "author": "peter.ramer",
+          "description": "Do you have a process that you need to run in the background of Microsoft Dynamics 365 F&SC? There are two ways to create a D365 batch job. The newer way is to use SysOperation Framework in D365. However, the older way is still very much supported and used within the system. Therefore, it is... Continue Reading →\nThe post Create A D365 Batch Job appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-batch-job/?utm_source=rss&utm_medium=rss&utm_campaign=d365-batch-job",
+          "publishedOn": "2022-01-10T18:44:59.000Z",
+          "wordCount": 4043,
+          "title": "Create A D365 Batch Job",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/01/Create-A-D365-Batch-Job-Final.png"
+        },
+        {
+          "id": "https://dynamics365musings.com/?p=1565",
+          "author": "peter.ramer",
+          "description": "Developers often forget to add security in D365. After developing a new form, report, or batch job in Microsoft Dynamics 365 for Finance and Operations, you need to create Menu Items so a user can see and run the new functionality. And those Menu Items need to be added to new or existing Security objects,... Continue Reading →\nThe post Create Security In D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/create-security-in-d365/?utm_source=rss&utm_medium=rss&utm_campaign=create-security-in-d365",
+          "publishedOn": "2022-01-03T14:00:00.000Z",
+          "wordCount": 2805,
+          "title": "Create Security In D365",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2021/12/Create-Security-In-D365-1.png"
+        },
+        {
+          "id": "https://dynamics365musings.com/?p=1543",
+          "author": "peter.ramer",
+          "description": "Microsoft Dynamics 365 for Finance and Operations has existing Roles set up. These roles are associated with Users and provide access to the Menu Items. The Menu Items allow users to run forms, reports, and batch jobs. There are times when you need to change Security In D365. Perhaps you need one Role to have... Continue Reading →\nThe post Change Security In D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/change-security-in-d365/?utm_source=rss&utm_medium=rss&utm_campaign=change-security-in-d365",
+          "publishedOn": "2021-12-13T19:34:33.000Z",
+          "wordCount": 2898,
+          "title": "Change Security In D365",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2021/12/Change-Security-In-D365.png"
+        },
+        {
+          "id": "https://dynamics365musings.com/?p=1490",
+          "author": "peter.ramer",
+          "description": "In this article I will teach you how to customize security in D365 using the Security Configuration form. How to add new Roles, and add Menu Items to them. In the last article, titled ‘Security in D365‘, I explained how to setup a D365 User, and add Roles to that User. Additionally, you learned how... Continue Reading →\nThe post Customize Security In D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/customize-security-in-d365/?utm_source=rss&utm_medium=rss&utm_campaign=customize-security-in-d365",
+          "publishedOn": "2021-12-06T14:00:00.000Z",
+          "wordCount": 2606,
+          "title": "Customize Security In D365",
+          "imageUrl": "https://i1.wp.com/dynamics365musings.com/wp-content/uploads/2021/12/Customizing-Security-In-D365-Final.png?fit=1280%2C720&ssl=1"
+        }
+      ]
+    },
+    {
+      "title": "Atomic AX - Dynamics AX Tips, Tricks, How To's and Code",
+      "feedUrl": "http://www.atomicax.com/rss.xml",
+      "siteUrl": "http://www.atomicax.com/frontpage",
+      "articles": [
+        {
+          "id": "1647 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 03/15/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nforceselectorder      \nforcenestedloop      \n\nLet's explore what keywords forceSelectOrder and ForceNestedLoop do.\nIntroduction\nThe database access layer in X++ largely conceals it magic from us as developers and we hope it gets the SQL right - and it does. SQL is largely 99.9% accurate and about 95%-ish optimized for the workload presented. You can read more about some of the techniques we'll be using here. We'll be using keywords in an X++ select to how they change the query and what that change means. All tests below were run on a \"warm\" VHD using Contoso data - specifically USMF.\nSelect FirstOnly SalesTable\nFirst, we'll start with a simple select firstonly on SalesTable. This took 30 milliseconds and generated the follow…",
+          "link": "http://www.atomicax.com/article/select-firstonly-vs-select-firstonly-forceselectorder-forcenestedloop",
+          "publishedOn": "2022-03-16T02:03:59.000Z",
+          "wordCount": 2020,
+          "title": "Select FirstOnly vs Select FirstOnly ForceSelectOrder ForceNestedLoop",
+          "imageUrl": null
+        },
+        {
+          "id": "1644 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 02/08/22.\n\n\n\n\n\n\n\n\n\n\n\n\nWhat can we do with ATL to create some transactions? Let's take a look.\nAfter this post, I wanted to manufacture some data to better show that adding computed fields adds overhead for every operation within a data entity. That post somewhat showed it but I wanted something more cut and dry. I thought a good way to manufacture data in a Contoso environment would be use ATL, string together some ATL processes to create, pack, and invoice orders. In designing a way to do this, I had to fumble my way through how to do it. I wanted to add approximately 10 million processed orders. It didn't exactly work out but here is what I learned.\nLegal Entities\nRather than specificially provide values for your known legal entities, you can create Demo Dat…",
+          "link": "http://www.atomicax.com/article/using-atl-create-data-model-data-volume-testing",
+          "publishedOn": "2022-02-09T01:33:15.000Z",
+          "wordCount": 1795,
+          "title": "Using ATL to Create Data to Model Data Volume Testing",
+          "imageUrl": null
+        },
+        {
+          "id": "1641 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "What happens when you add lots of computed fields to a data entity? Let's take a look\n\n\nIn part 16, we talked about using computed columns. Next, let's take this to next logical conclusion - using them way too much. We're going to compare 4 different scenarios from a performance perspective when working with customers. We'll have the following data entities:\nCustCustomerV2Entity - we'll use this entity to establish a baseline\nAAXCustCustomerV3Entity - this is a copy of CustCustomerV2Entity with 1 additional computed field; \"Sales Last Year\"\nAAXCustCustomerV4Entity - just like AAXCustCustomerV3Entity but has 2 additional computed fields; \"Sales Last Year\" and \"Sales This Year\"\nAAXCustCustomerV5Entity - Just like AAXCustCustomerV3Entity but has 22 additional competed fields to get sales valu…",
+          "link": "http://www.atomicax.com/content/part-17-over-using-computed-fields",
+          "publishedOn": "2022-02-07T04:47:34.000Z",
+          "wordCount": 1377,
+          "title": "Part 17 - Over Using Computed Fields",
+          "imageUrl": null
+        },
+        {
+          "id": "1642 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Let's explore the order of operations when using a data entity.\nWhen creating a solution that may use a data entity, OData or not, it may be helpful to understand the precise order of operations for what gets called when in the call stack. Also, when extending OOTB data entities, what changes you are going to make may have changes to the overall performance of the data entity depending on where you put them. Since data entities are generally not the most performant things even at the best of times, having a deep understanding of what is occurring when can help prevent performance headaches later. \nWho does What When Why?\nEach operation with a data entity (CRUD + Action method(s)) has a slightly different execution path depending on how it is called, what operation is being used and by what…",
+          "link": "http://www.atomicax.com/content/part-18-order-operations-data-entities",
+          "publishedOn": "2021-12-01T03:56:11.000Z",
+          "wordCount": 1024,
+          "title": "Part 18 - Order Of Operations for Data Entities",
+          "imageUrl": null
+        },
+        {
+          "id": "1638 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "What are the differences between an Action Method and a Computed Column? Let's take a look.\nData entities have a few options for getting data to present in a specific way. One way is to use a virtual field with postLoad(). However, we can also use computed column as well as action methods. Both have their results exposed via OData but computed columns also present in the DMF when exporting (plus importing with some extra code).  \nWhat's a computed column?\nDocumentation on this can be found here. In simple terms, it is a field that is calculated whenever the data entity is executed. This is done by the view for the data entity and not with X++. The location where this type of column is populated, on the SQL server rather than the AOS, is an important distinction. This means that SQL sever i…",
+          "link": "http://www.atomicax.com/content/part-16-action-methods-and-computed-columns",
+          "publishedOn": "2021-07-17T03:05:44.000Z",
+          "wordCount": 1681,
+          "title": "Part 16 - Action Methods and Computed Columns",
+          "imageUrl": null
+        },
+        {
+          "id": "1627 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "What is Throttling, a 429 Status code, how do we handle them, and create safe patterns for using OData Entities?\nThrottling, in a general sense, is something acting upon another actor to actively hinder a process or request. Dynamics 365 For Finance and Operations recently added Priority-based Throttling. In the past, when hitting an OData endpoint, we only had to worry about non-affirmative timeouts; it took longer than 120 seconds to complete. It didn't specifically matter to me, the consumer of an endpoint, what else Finance and Ops may have going on. Now, with priority-based throttling, it is my problem as a consumer. I now get affirmative decline in the form of a 429 HTTP return code.\nWhen does throttling occur?\nI'd suggest you review the FAQ for Priority-Based Throttling. However, in…",
+          "link": "http://www.atomicax.com/content/part-15-429s-throttling-and-how-manage-it",
+          "publishedOn": "2021-07-12T03:28:03.000Z",
+          "wordCount": 1904,
+          "title": "Part 15 - 429s, Throttling and How to Manage It",
+          "imageUrl": null
+        },
+        {
+          "id": "1624 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "What can we learn about update performance from simple entities?\n\nSimilar to how we tested insert performance for simple entities, we're going to run similar tests to see what kind of performance we can expect with an update workload for a \"simple\" entity.\nThe Tests\nTo draw out values and differences, we'll be testing with 2 basic test types: \"Minimum\" and \"Maximum\", just like we have in the past. What we're trying to draw out is the performance difference between updating a record with a small amount of attributes specified and quite a few attributes specified. To help draw out our datapoints, we will be using a version of the SalesOrderHeaderV2 data entity that has all references to all tables that are not SalesTables removed. This entity exposed table SalesTable with nearly no business …",
+          "link": "http://www.atomicax.com/content/part-13-update-performance-simple-entities",
+          "publishedOn": "2021-06-21T02:18:45.000Z",
+          "wordCount": 1062,
+          "title": "Part 13 - Update Performance for Simple Entities",
+          "imageUrl": null
+        },
+        {
+          "id": "1623 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "What can we learn about update performance from complicated entities?\n\nSimilar to how we tested insert performance for complicated entities, we're going to run similar tests to see what kind of performance we can expect with an update workload.\nThe Tests\nTo draw out values and differences, we'll be testing with 2 basic test types: \"Minimum\" and \"Maximum\", just like we have in the past. What we're trying to draw out is the performance difference between updating a record with a small amount of attributes specified and quite a few attributes specified. Does the distinction matter or not so much? We'll be using the Sales Orer Header V2 entity for both tests to see how data can change performance. This is a distinct test as we'll be measuring performance of the update operation only, not the f…",
+          "link": "http://www.atomicax.com/content/part-12-update-performance-complicated-entities",
+          "publishedOn": "2021-06-21T02:14:30.000Z",
+          "wordCount": 1024,
+          "title": "Part 12 - Update Performance for Complicated Entities",
+          "imageUrl": null
+        },
+        {
+          "id": "1622 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "What can we learn about insert performance from complicated entities?\nSimlar to our last entry, what makes a data entity \"simple\"? Let's re-run the same tests from Insert Performance For Complicated Entities but with a simple entity. I would define a simple entity as an entity that has 1 or 2 tables, can perform it's tasks with a small amount of code, and is build to be light weight for a specific purpose. I would describe it as something that doesn't do much but the few things it does do, it does very quickly.\nThe Tests\nTo draw out the differences between specifying a minimalist set of attributes to create a Sales Order header and specifying lots of attributes, we'll be using a custom entity called AAXSalesOrderHeaderV2EntityReadOnly. This is a copy of SalesOrderHeaderV2 with all tables r…",
+          "link": "http://www.atomicax.com/content/part-11-insert-performance-simple-entities",
+          "publishedOn": "2021-06-07T01:40:46.000Z",
+          "wordCount": 1086,
+          "title": "Part 11 - Insert Performance for \"Simple\" Entities",
+          "imageUrl": null
+        },
+        {
+          "id": "1621 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "What can we learn about insert performance from complicated entities?\n\nWhat makes a data entity complicated? What makes a data entity slow? Let's take a look at data entity performance when inserting records and see what we can learn. First, let's define a \"complicated\" entity. I would classify a complicated entity has having lots of data sources ( 5 or more ), having lots of code related to it and in the entity itself. Additionally, because these have lots of data sources and code, depending on what fields are specified, the performance of the entity will change based on the data being specified. As a for instance consider what an entity that accepts addressing info would do when an address is specified compared to what it would do when an address is not specified. \nThe Tests\nTo draw out …",
+          "link": "http://www.atomicax.com/content/part-10-insert-performance-complicated-entities",
+          "publishedOn": "2021-06-07T01:31:07.000Z",
+          "wordCount": 1148,
+          "title": "Part 10 - Insert Performance for Complicated Entities",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Kurt Hatlevik – Dynamics 365 Blog",
+      "feedUrl": "https://kurthatlevik.com/feed/",
+      "siteUrl": "https://kurthatlevik.com",
+      "articles": [
+        {
+          "id": "http://kurthatlevik.com/?p=4312",
+          "author": "Kurt Hatlevik",
+          "description": "I have had the chance to look deep into the 2022 release wave 1 plans. There are tons of goodies, and we again see the direction where things are going. There is a lot of investments in the microservices area, and we see the platform opening up like a blooming flower. There is one specific … Continue reading D365: 2022Wave1 – Unified pricing service",
+          "link": "https://kurthatlevik.com/2022/01/26/d365-2022wave1-unified-pricing-service/",
+          "publishedOn": "2022-01-26T14:43:41.000Z",
+          "wordCount": 1295,
+          "title": "D365: 2022Wave1 – Unified pricing service",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/012622_1443_d3652022wav1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4308",
+          "author": "Kurt Hatlevik",
+          "description": "Here is very small tip. Set your windows mouse line scrolling to 4 lines when using Dynamics 365. When you then scroll in D365 lookups, one scroll-click is then jumping one page down in the lookups (in my case). #LifeHack",
+          "link": "https://kurthatlevik.com/2022/01/16/d365-4-lines-to-scroll-at-a-time/",
+          "publishedOn": "2022-01-16T17:46:18.000Z",
+          "wordCount": 901,
+          "title": "D365; 4 Lines to scroll at a time",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/011622_1746_d3654linest1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4304",
+          "author": "Kurt Hatlevik",
+          "description": "One of the most important aspects of Success By Design program is to ensure quality in the implementation process and to set the right expectations. One important setup in this process is the Microsoft Solution Blueprint Review workshop that can be offered to customers through extended FastTrack Engagement. The Solution Blueprint Review workshop covers the … Continue reading D365 – 252 Solution Blueprint review questions",
+          "link": "https://kurthatlevik.com/2022/01/06/d365-252-solution-blueprint-review-questions/",
+          "publishedOn": "2022-01-06T16:01:48.000Z",
+          "wordCount": 5169,
+          "title": "D365 – 252 Solution Blueprint review questions",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/010622_1601_d365252solu1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4301",
+          "author": "Kurt Hatlevik",
+          "description": "A small but highly productive tip is the feature of “Item list”. It has been available for years but have not gotten the deserved attention. The feature does not even have a docs page. With this feature it makes it much easier to create sales order, by copying the lines from an ‘item list’. The … Continue reading D365 Hidden Sales order gem; copy from item list",
+          "link": "https://kurthatlevik.com/2022/01/05/d365-hidden-sales-order-gem-copy-from-item-list/",
+          "publishedOn": "2022-01-05T20:50:00.000Z",
+          "wordCount": 1142,
+          "title": "D365 Hidden Sales order gem; copy from item list",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/010522_2049_d365hiddens1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4289",
+          "author": "Kurt Hatlevik",
+          "description": "I first want to thank the 92.898 visitors to my blog in 2021. It has been my pleasure to share with the community, and 2021 have been the best so far. This time, I would like to summarize my tips on what to learn and tools to use that can further bring value to our … Continue reading Dynamics 365 – top things to learn and tools to use in 2022",
+          "link": "https://kurthatlevik.com/2022/01/01/dynamics-365-top-things-to-learn-and-tool-to-use-in-2022-2/",
+          "publishedOn": "2022-01-01T15:31:29.000Z",
+          "wordCount": 2150,
+          "title": "Dynamics 365 – top things to learn and tools to use in 2022",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/010122_1531_dynamics3651.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4281",
+          "author": "Kurt Hatlevik",
+          "description": "Most of us in the field have traditionally used Microsoft Visio to show architecture, processes and systems. But there is an alternative that I would recommend to the community: https://www.diagrams.net/ This is a free, online and easy to use tool to quickly represent graphics related to what you want to show. Give it a try, … Continue reading Diagrams.net",
+          "link": "https://kurthatlevik.com/2021/12/16/diagrams-net/",
+          "publishedOn": "2021-12-16T09:14:09.000Z",
+          "wordCount": 855,
+          "title": "Diagrams.net",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/12/121621_0914_diagramsnet1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4277",
+          "author": "Kurt Hatlevik",
+          "description": "Today I would like to pay my respect to the free GitHub initiative Recurring Integrations Scheduler (RIS). RIS is a solution that transports files/messages between on-premises folders and D365FO. This is a way to perform good old file integrations, and even for automating import/export of data entities between environments. And without having to develop/program anything. … Continue reading D365 Recurring Integrations Scheduler(RIS)",
+          "link": "https://kurthatlevik.com/2021/11/02/d365-recurring-integrations-schedulerris/",
+          "publishedOn": "2021-11-02T10:18:47.000Z",
+          "wordCount": 1210,
+          "title": "D365 Recurring Integrations Scheduler(RIS)",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/11/110221_1018_d365recurri1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4266",
+          "author": "Kurt Hatlevik",
+          "description": "The Dynamics 365 Commerce team at Microsoft have created a great trial site where you can try out all their good stuff and get some guided walk through of their capabilities. Please check it out: https://manage.commerce.dynamics.com/welcome/index.html Here is your to-do list of what you should explore: B2C experience Product discovery and cloud powered search Curb-side … Continue reading How to learn and try out Dynamics 365 Commerce?",
+          "link": "https://kurthatlevik.com/2021/10/08/how-to-learn-and-try-out-dynamics-365-commerce/",
+          "publishedOn": "2021-10-08T07:36:48.000Z",
+          "wordCount": 968,
+          "title": "How to learn and try out Dynamics 365 Commerce?",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/10/100821_0736_howtolearna1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4263",
+          "author": "Kurt Hatlevik",
+          "description": "When I observe the use of Dynamics 365, I often see that most often there are well-established processes and routines for getting data into the Dynamics 365 system. But using this data is often limited to retrieving financial reports that show everything in dollars and cents. However, the information contained in the system is often … Continue reading D365 : Use your data",
+          "link": "https://kurthatlevik.com/2021/09/27/d365-use-your-data/",
+          "publishedOn": "2021-09-27T12:18:32.000Z",
+          "wordCount": 2371,
+          "title": "D365 : Use your data",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/09/092721_1218_d365useyour1.png"
+        },
+        {
+          "id": "http://kurthatlevik.com/?p=4245",
+          "author": "Kurt Hatlevik",
+          "description": "Latest & greatest tech, faster, better and new possibilities, are from a consultancy perspective fun and rewarding. But it is very seldom that these aspects are the deciding factors when it come to implementing Dynamics 365. Any organization have a finite set of resources in terms of people, knowledge, money, and time. How to best … Continue reading D365 – Building a business value review",
+          "link": "https://kurthatlevik.com/2021/08/23/d365-building-a-business-value-review/",
+          "publishedOn": "2021-08-23T11:47:59.000Z",
+          "wordCount": 5719,
+          "title": "D365 – Building a business value review",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/08/082321_1130_d365buildin1.png?w=1200"
+        }
+      ]
+    },
+    {
+      "title": "Dynamics Vision 365",
+      "feedUrl": "https://dynvision365.com/feed/",
+      "siteUrl": "https://dynvision365.com",
+      "articles": [
+        {
+          "id": "http://dynvision365.com/?p=812",
+          "author": "adalhix",
+          "description": "Getting ready for the next Azure DevOps pipeline agent update",
+          "link": "https://dynvision365.com/2021/12/10/getting-ready-for-the-next-azure-devops-pipeline-agent-update/",
+          "publishedOn": "2021-12-10T21:22:59.000Z",
+          "wordCount": 803,
+          "title": "Getting ready for the next Azure DevOps pipeline agent update",
+          "imageUrl": "https://adalhix.files.wordpress.com/2021/12/captureada2.png"
+        },
+        {
+          "id": "http://dynvision365.com/?p=754",
+          "author": "adalhix",
+          "description": "Hello, Today’s video will be about managing security in Dynamics 365 For Finance and Operations via PowerApps. We will look how D365FinOps data connector can help us to externalize security data to Power Apps or even to other technological stack solutions different than Microsoft. The agenda for today will be in a video representing some … Lire la suite Managing Dynamics 365 FinOps security roles via PowerApps →",
+          "link": "https://dynvision365.com/2021/05/22/managing-dynamics-365-finops-security-via-powerapps/",
+          "publishedOn": "2021-05-22T00:26:35.000Z",
+          "wordCount": 560,
+          "title": "Managing Dynamics 365 FinOps security roles via PowerApps",
+          "imageUrl": "https://adalhix.files.wordpress.com/2021/05/image-3.png"
+        },
+        {
+          "id": "http://dynvision365.com/?p=641",
+          "author": "adalhix",
+          "description": "Global context Today’s modern business run and interact with data daily to analyze and take strategic decisions during all the phases of project and business development via gaining insights from multiple sources of data (ERP & CRM, Files, 3rd party apps), thing that can’t be achieved easily if we are not deploying and integrating an … Lire la suite Using PowerApps for data integration between Dynamics 365 FinOps and SQL Server On-Premises →",
+          "link": "https://dynvision365.com/2021/02/14/using-powerapps-for-data-integration-between-dynamics-365-finops-and-sql-server-on-premises/",
+          "publishedOn": "2021-02-14T22:46:29.000Z",
+          "wordCount": 2016,
+          "title": "Using PowerApps for data integration between Dynamics 365 FinOps and SQL Server On-Premises",
+          "imageUrl": "https://adalhix.files.wordpress.com/2021/02/image-25.png"
+        },
+        {
+          "id": "http://adalhix.wordpress.com/?p=439",
+          "author": "adalhix",
+          "description": "Introduction In this blog series i will highlight some technical aspects about creating and managing security layer by code in Dynamics 365 For Finance and Operations, a step by step scenario to explain some components used in standard mechanisms to generate new security artifacts through x++, deep dive into Dynamics security management API and discover … Lire la suite Dynamics Security Management API in D365FinOps : part1- Security Generalities →",
+          "link": "https://dynvision365.com/2021/01/27/dynamics-security-management-api-in-d365finops-part1-security-generalities/",
+          "publishedOn": "2021-01-27T16:06:22.000Z",
+          "wordCount": 1421,
+          "title": "Dynamics Security Management API in D365FinOps : part1- Security Generalities",
+          "imageUrl": "https://adalhix.files.wordpress.com/2021/01/arch2o-12-facts-you-didnt-know-about-the-eiffel-tower-8-1.jpg?w=1200"
+        },
+        {
+          "id": "http://adalhix.wordpress.com/?p=514",
+          "author": "adalhix",
+          "description": "Unlike AX2012, one of the major Dynamics 365 FinOps architecture differents, is the D365 application and development environment separation, which means that we will have a different approach to manipulate the created objects during runtime which resides on the environment but will not exist in the AOT. Security data are concerned as well. Security is … Lire la suite Data Security management in D365FinOps →",
+          "link": "https://dynvision365.com/2021/01/20/data-security-management-in-d365finops/",
+          "publishedOn": "2021-01-20T14:32:03.000Z",
+          "wordCount": 643,
+          "title": "Data Security management in D365FinOps",
+          "imageUrl": "https://adalhix.files.wordpress.com/2021/01/image-4.png"
+        },
+        {
+          "id": "http://adalhix.wordpress.com/?p=426",
+          "author": "adalhix",
+          "description": "DynamicsCon s coming up in March with very interesting topics and speakers,Excited to share with you the link for my next submitted session about Dynamics Security Management API in #msdyn365fo, We will try to deep dive technically about one of the main component used to manage and publish security artifacts in Standard mechanisms of Dynamics 365 … Lire la suite DynamicsCon : Dynamics 365 For Finance and Operations Security API →",
+          "link": "https://dynvision365.com/2021/01/07/dynamicscon-dynamics-365-for-finance-and-operations-security-api/",
+          "publishedOn": "2021-01-07T19:29:20.000Z",
+          "wordCount": 438,
+          "title": "DynamicsCon : Dynamics 365 For Finance and Operations Security API",
+          "imageUrl": "https://adalhix.files.wordpress.com/2021/01/dug20_vote-fo-adnane-dalhi-1.jpg"
+        },
+        {
+          "id": "http://adalhix.wordpress.com/?p=358",
+          "author": "adalhix",
+          "description": "Good news to end the weekend and start the new year by new activity, Excited to share with you my next technical session at Power Community D365 Finance and Operations summit Jan 29th – 31st, during this session we will deep dive technically to understand the security management API used in Dynamics 365 For Finance … Lire la suite FinOps bootcamp : Deep Dive into Security Management API in Dynamics 365 FinOps at Power Community FinOps Summit →",
+          "link": "https://dynvision365.com/2021/01/02/deep-dive-into-security-management-api-in-dynamics-365-finops-at-power-community-finops-summit/",
+          "publishedOn": "2021-01-02T20:39:49.000Z",
+          "wordCount": 616,
+          "title": "FinOps bootcamp : Deep Dive into Security Management API in Dynamics 365 FinOps at Power Community FinOps Summit",
+          "imageUrl": "https://adalhix.files.wordpress.com/2021/01/technical-deep-dive-into-security-management-api-in-d365fo1609425726.jpg"
+        },
+        {
+          "id": "http://adalhix.wordpress.com/?p=292",
+          "author": "adalhix",
+          "description": "In Dynamics 365 For Finance and Operations workspaces provides an overview of specific activities, a colletcion of controls around a business scenario. Ths system comes with several workspaces containing specific content for different roles and organization. In this blog post i will share how we can get this list of all out-of-box system workspaces with their … Lire la suite Get workspaces metadata in D365FO →",
+          "link": "https://dynvision365.com/2020/07/24/get-workspaces-metadata-in-d365fo/",
+          "publishedOn": "2020-07-24T19:29:37.000Z",
+          "wordCount": 803,
+          "title": "Get workspaces metadata in D365FO",
+          "imageUrl": "https://adalhix.files.wordpress.com/2020/07/image.png"
+        },
+        {
+          "id": "http://adalhix.wordpress.com/?p=253",
+          "author": "adalhix",
+          "description": "In this post i will share how to export customized security data artifacts to an XML file through X++. An XML file that can be used as backup data source to be imported in a another environement or just making modifications into it (like renaming a security role / privilege / Duty) , and then … Lire la suite Export Customized Security data from D365FO to XML through X++ →",
+          "link": "https://dynvision365.com/2020/06/30/export-customized-security-data-from-d365fo-to-xml-through-x/",
+          "publishedOn": "2020-06-30T18:42:19.000Z",
+          "wordCount": 578,
+          "title": "Export Customized Security data from D365FO to XML through X++",
+          "imageUrl": "https://adalhix.files.wordpress.com/2020/06/secconfigd365fo.png"
+        },
+        {
+          "id": "http://adalhix.wordpress.com/?p=233",
+          "author": "adalhix",
+          "description": "In Dynamics 365 For Finance and Operations, we can add favorites forms via the user interface to provide quick access to the list of forms, by clicking the star icon next to the form or (to the workspace name) in the navigation pane. In this article i will share how we can add favorites forms … Lire la suite How to add favorites forms through X++ in D365FO →",
+          "link": "https://dynvision365.com/2020/05/02/how-to-add-favorites-forms-through-x-in-d365fo/",
+          "publishedOn": "2020-05-02T01:09:08.000Z",
+          "wordCount": 620,
+          "title": "How to add favorites forms through X++ in D365FO",
+          "imageUrl": "https://adalhix.files.wordpress.com/2020/05/assetscapture.png"
+        }
+      ]
+    },
+    {
+      "title": "All About Microsoft Dynamics",
+      "feedUrl": "https://allaboutdynamic.com/feed/",
+      "siteUrl": "https://allaboutdynamic.com",
+      "articles": [
+        {
+          "id": "https://allaboutdynamic.com/?p=2449",
+          "author": "Piyush Adhikari",
+          "description": "What is Progressive Web App (PWA) ? PWA is a web app that is optimized to run “like an app” on a mobile device .They look & feel like a Native App and also appear to be a like a native app that you would install from your device’s app store, but actually work within … Continue reading Convert Power Apps Portal Into A  Progressive Web Apps (PWA) : Introduction & Demo →\nThe post Convert Power Apps Portal Into A  Progressive Web Apps (PWA) : Introduction & Demo appeared first on All About Microsoft Dynamics.",
+          "link": "https://allaboutdynamic.com/2021/12/03/convert-power-apps-portal-into-a-progressive-web-apps-pwa-introduction-demo/",
+          "publishedOn": "2021-12-03T15:07:41.000Z",
+          "wordCount": 1085,
+          "title": "Convert Power Apps Portal Into A  Progressive Web Apps (PWA) : Introduction & Demo",
+          "imageUrl": "https://allaboutdynamic.com/wp-content/uploads/2021/12/image-1024x579.png"
+        },
+        {
+          "id": "https://allaboutdynamic.com/?p=2443",
+          "author": "Piyush Adhikari",
+          "description": "Requirement – The requirement is to combine and merging images to a single image using X++ & C# Dot Net Libraries in Microsoft Dynamics 365 finance and operation. Classes & Libraries – System.Drawing.BitmapSystem.Drawing.ImageSystem.Drawing.GraphicsSystem.Drawing.Imaging.ImageFormatSystem.Drawing.Color Sample Code –\nThe post Combine & Merging images to a single image using X++ & C# Dot Net Libraries appeared first on All About Microsoft Dynamics.",
+          "link": "https://allaboutdynamic.com/2021/12/01/combine-merging-images-to-a-single-image-using-x-c-dot-net-libraries/",
+          "publishedOn": "2021-12-01T09:59:59.000Z",
+          "wordCount": 742,
+          "title": "Combine & Merging images to a single image using X++ & C# Dot Net Libraries",
+          "imageUrl": "https://2893mhgw4jf3rm0k57gtbu1e-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/arrow-merge-762x429.jpg"
+        },
+        {
+          "id": "https://allaboutdynamic.com/?p=2422",
+          "author": "Piyush Adhikari",
+          "description": "In this post I will show you how you can create a free Microsoft education account & get free access to Microsoft office 365 (Office 365 A1 for faculty trial). After creating the free Microsoft office 365 account (Office 365 A1 for faculty trial) , you can access various online apps (like outlook, word, excel, … Continue reading Free Access To Microsoft Office 365 (Create Microsoft Education Account & Office 365 A1 for faculty trial) →\nThe post Free Access To Microsoft Office 365 (Create Microsoft Education Account & Office 365 A1 for faculty trial) appeared first on All About Microsoft Dynamics.",
+          "link": "https://allaboutdynamic.com/2021/11/30/free-access-to-microsoft-office-365-create-microsoft-education-account/",
+          "publishedOn": "2021-11-30T16:52:08.000Z",
+          "wordCount": 1012,
+          "title": "Free Access To Microsoft Office 365 (Create Microsoft Education Account & Office 365 A1 for faculty trial)",
+          "imageUrl": "http://blogs.kent.ac.uk/isnews/files/2019/12/Office365-all-icons-750x500.png"
+        },
+        {
+          "id": "https://allaboutdynamic.com/?p=2418",
+          "author": "Piyush Adhikari",
+          "description": "Get Free Access To A Microsoft Dynamics 365 FO Development & Training environment\nThe post Get Free Access To A Microsoft Dynamics 365 FO Development & Training environment appeared first on All About Microsoft Dynamics.",
+          "link": "https://allaboutdynamic.com/2021/11/28/get-free-access-to-a-microsoft-dynamics-365-fo-development-training-environment/",
+          "publishedOn": "2021-11-28T13:25:38.000Z",
+          "wordCount": 613,
+          "title": "Get Free Access To A Microsoft Dynamics 365 FO Development & Training environment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://allaboutdynamic.com/?p=2393",
+          "author": "Piyush Adhikari",
+          "description": "Business events provide a mechanism that allow external system receives notifications from Microsoft Dynamics 365 Finance and operations. For example – When you are posting a purchase invoice then you can send notifications/ payload / message to an external system. You can use existing standard business events which are available in the D365 FO or … Continue reading D365 FO : Developing Business Events with X++ from scratch →\nThe post D365 FO : Developing Business Events with X++ from scratch appeared first on All About Microsoft Dynamics.",
+          "link": "https://allaboutdynamic.com/2021/11/27/d365-fo-developing-business-events-with-x/",
+          "publishedOn": "2021-11-27T16:50:07.000Z",
+          "wordCount": 1078,
+          "title": "D365 FO : Developing Business Events with X++ from scratch",
+          "imageUrl": "https://lh3.googleusercontent.com/-FDY-gLlJqug/YTwrjjCtTlI/AAAAAAAAGDY/ZvCmHrSVgjkzI_7e-L2hO_9JqQJjOpyFQCLcBGAsYHQ/image.png"
+        },
+        {
+          "id": "https://allaboutdynamic.com/?p=2395",
+          "author": "Piyush Adhikari",
+          "description": "In various ERP implementation & support projects, sometime it is very hard to replicate a production / UAT environment scenario in dev box for debugging or in some cases it is tedious to do any kind of unit testing due to lack of business data. But luckily, we can solve this problem by doing restoration … Continue reading What is AdminUserProvisioning Tool in Microsoft D365 fin & ops ?  Add Admin user after backup restore →\nThe post What is AdminUserProvisioning Tool in Microsoft D365 fin & ops ?  Add Admin user after backup restore appeared first on All About Microsoft Dynamics.",
+          "link": "https://allaboutdynamic.com/2021/11/26/what-is-adminuserprovisioning-tool-in-microsoft-d365-fin-ops-add-admin-user-after-backup-restore/",
+          "publishedOn": "2021-11-26T06:57:52.000Z",
+          "wordCount": 837,
+          "title": "What is AdminUserProvisioning Tool in Microsoft D365 fin & ops ?  Add Admin user after backup restore",
+          "imageUrl": "https://allaboutdynamic.com/wp-content/uploads/2021/11/image-1.png"
+        },
+        {
+          "id": "https://allaboutdynamic.com/?p=2387",
+          "author": "Piyush Adhikari",
+          "description": "As we know, “InventTrans” table is one of the largest table in Microsoft D365 for finance and operations and this table keep growing through out the ERP lifecycle and consume more space. BUT ! here is the good news that Microsoft has released a standard feature and a standard batch job to archive inventory transactions … Continue reading Archive inventory transactions (Purge InventTrans) in Microsoft Dynamics 365 for finance and operations →\nThe post Archive inventory transactions (Purge InventTrans) in Microsoft Dynamics 365 for finance and operations appeared first on All About Microsoft Dynamics.",
+          "link": "https://allaboutdynamic.com/2021/11/25/archive-inventory-transactions-purge-inventtrans-in-microsoft-dynamics-365-for-finance-and-operations/",
+          "publishedOn": "2021-11-25T16:12:20.000Z",
+          "wordCount": 673,
+          "title": "Archive inventory transactions (Purge InventTrans) in Microsoft Dynamics 365 for finance and operations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://allaboutdynamic.com/?p=2367",
+          "author": "Piyush Adhikari",
+          "description": "What is deep links in Microsoft Dynamics 365 for finance and operation? Deep links are shareable and secures URLs to a specific form. Optional filters can be passed so that when user will open the deep link and navigate to a specific form then it will show filtered data ore records. In Microsoft D365 FO, … Continue reading D365 FO – Create deep links, shareable, secured URLs in Microsoft Dynamics 365 for finance & operations →\nThe post D365 FO – Create deep links, shareable, secured URLs in Microsoft Dynamics 365 for finance & operations appeared first on All About Microsoft Dynamics.",
+          "link": "https://allaboutdynamic.com/2021/11/22/d365-fo-create-deep-links-shareable-secured-urls-in-microsoft-dynamics-365-for-finance-operations/",
+          "publishedOn": "2021-11-22T04:43:31.000Z",
+          "wordCount": 841,
+          "title": "D365 FO – Create deep links, shareable, secured URLs in Microsoft Dynamics 365 for finance & operations",
+          "imageUrl": "https://a.storyblok.com/f/47007/2400x1260/9a2dc15518/2020-02_deeplinking_blog_card_1-0.png"
+        },
+        {
+          "id": "https://allaboutdynamic.com/?p=2360",
+          "author": "Piyush Adhikari",
+          "description": "To get free access to a Dynamics 365 FO (VM) development & training environment! click on below link and then click on Launch VM Mode. That’s it ! Lab – Configure address books – Learn | Microsoft Docs\nThe post Get free access to a Dynamics 365 FO (VM) development & training  environment! appeared first on All About Microsoft Dynamics.",
+          "link": "https://allaboutdynamic.com/2021/11/19/get-free-access-to-a-dynamics-365-fo-vm-development-training-environment/",
+          "publishedOn": "2021-11-19T07:53:12.000Z",
+          "wordCount": 710,
+          "title": "Get free access to a Dynamics 365 FO (VM) development & training  environment!",
+          "imageUrl": "https://allaboutdynamic.com/wp-content/uploads/2021/11/image.png"
+        },
+        {
+          "id": "https://allaboutdynamic.com/?p=2075",
+          "author": "Piyush Adhikari",
+          "description": "Requirement : The requirement is to create a zip file from a set of document entries available in document handling, creating a download link and sends the link to user browser. In this requirement we are using Microsoft Dynamics 365 for finance and operations classes – documentmanagement, ziparchive & ziparchiveentry. Sample Code :\nThe post D365 Fin & Ops : ZIP, Compress & Archive multiple files using X++ & class ZipArchiveEntry appeared first on All About Microsoft Dynamics.",
+          "link": "https://allaboutdynamic.com/2021/11/19/d365-fin-ops-zip-compress-archive-multiple-files-using-x-class-ziparchiveentry/",
+          "publishedOn": "2021-11-19T07:22:24.000Z",
+          "wordCount": 830,
+          "title": "D365 Fin & Ops : ZIP, Compress & Archive multiple files using X++ & class ZipArchiveEntry",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Rahul Mohta blog for Microsoft Dynamics 365 Finance and Operations",
@@ -4975,113 +4865,6 @@
           "wordCount": 901,
           "title": "Lifecycle Services requests failing",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        }
-      ]
-    },
-    {
-      "title": "Kurt Hatlevik – Dynamics 365 Blog",
-      "feedUrl": "https://kurthatlevik.com/feed/",
-      "siteUrl": "https://kurthatlevik.com",
-      "articles": [
-        {
-          "id": "http://kurthatlevik.com/?p=4312",
-          "author": "Kurt Hatlevik",
-          "description": "I have had the chance to look deep into the 2022 release wave 1 plans. There are tons of goodies, and we again see the direction where things are going. There is a lot of investments in the microservices area, and we see the platform opening up like a blooming flower. There is one specific … Continue reading D365: 2022Wave1 – Unified pricing service",
-          "link": "https://kurthatlevik.com/2022/01/26/d365-2022wave1-unified-pricing-service/",
-          "publishedOn": "2022-01-26T14:43:41.000Z",
-          "wordCount": 1295,
-          "title": "D365: 2022Wave1 – Unified pricing service",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/012622_1443_d3652022wav1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4308",
-          "author": "Kurt Hatlevik",
-          "description": "Here is very small tip. Set your windows mouse line scrolling to 4 lines when using Dynamics 365. When you then scroll in D365 lookups, one scroll-click is then jumping one page down in the lookups (in my case). #LifeHack",
-          "link": "https://kurthatlevik.com/2022/01/16/d365-4-lines-to-scroll-at-a-time/",
-          "publishedOn": "2022-01-16T17:46:18.000Z",
-          "wordCount": 901,
-          "title": "D365; 4 Lines to scroll at a time",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/011622_1746_d3654linest1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4304",
-          "author": "Kurt Hatlevik",
-          "description": "One of the most important aspects of Success By Design program is to ensure quality in the implementation process and to set the right expectations. One important setup in this process is the Microsoft Solution Blueprint Review workshop that can be offered to customers through extended FastTrack Engagement. The Solution Blueprint Review workshop covers the … Continue reading D365 – 252 Solution Blueprint review questions",
-          "link": "https://kurthatlevik.com/2022/01/06/d365-252-solution-blueprint-review-questions/",
-          "publishedOn": "2022-01-06T16:01:48.000Z",
-          "wordCount": 5169,
-          "title": "D365 – 252 Solution Blueprint review questions",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/010622_1601_d365252solu1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4301",
-          "author": "Kurt Hatlevik",
-          "description": "A small but highly productive tip is the feature of “Item list”. It has been available for years but have not gotten the deserved attention. The feature does not even have a docs page. With this feature it makes it much easier to create sales order, by copying the lines from an ‘item list’. The … Continue reading D365 Hidden Sales order gem; copy from item list",
-          "link": "https://kurthatlevik.com/2022/01/05/d365-hidden-sales-order-gem-copy-from-item-list/",
-          "publishedOn": "2022-01-05T20:50:00.000Z",
-          "wordCount": 1142,
-          "title": "D365 Hidden Sales order gem; copy from item list",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/010522_2049_d365hiddens1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4289",
-          "author": "Kurt Hatlevik",
-          "description": "I first want to thank the 92.898 visitors to my blog in 2021. It has been my pleasure to share with the community, and 2021 have been the best so far. This time, I would like to summarize my tips on what to learn and tools to use that can further bring value to our … Continue reading Dynamics 365 – top things to learn and tools to use in 2022",
-          "link": "https://kurthatlevik.com/2022/01/01/dynamics-365-top-things-to-learn-and-tool-to-use-in-2022-2/",
-          "publishedOn": "2022-01-01T15:31:29.000Z",
-          "wordCount": 2150,
-          "title": "Dynamics 365 – top things to learn and tools to use in 2022",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/01/010122_1531_dynamics3651.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4281",
-          "author": "Kurt Hatlevik",
-          "description": "Most of us in the field have traditionally used Microsoft Visio to show architecture, processes and systems. But there is an alternative that I would recommend to the community: https://www.diagrams.net/ This is a free, online and easy to use tool to quickly represent graphics related to what you want to show. Give it a try, … Continue reading Diagrams.net",
-          "link": "https://kurthatlevik.com/2021/12/16/diagrams-net/",
-          "publishedOn": "2021-12-16T09:14:09.000Z",
-          "wordCount": 855,
-          "title": "Diagrams.net",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/12/121621_0914_diagramsnet1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4277",
-          "author": "Kurt Hatlevik",
-          "description": "Today I would like to pay my respect to the free GitHub initiative Recurring Integrations Scheduler (RIS). RIS is a solution that transports files/messages between on-premises folders and D365FO. This is a way to perform good old file integrations, and even for automating import/export of data entities between environments. And without having to develop/program anything. … Continue reading D365 Recurring Integrations Scheduler(RIS)",
-          "link": "https://kurthatlevik.com/2021/11/02/d365-recurring-integrations-schedulerris/",
-          "publishedOn": "2021-11-02T10:18:47.000Z",
-          "wordCount": 1210,
-          "title": "D365 Recurring Integrations Scheduler(RIS)",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/11/110221_1018_d365recurri1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4266",
-          "author": "Kurt Hatlevik",
-          "description": "The Dynamics 365 Commerce team at Microsoft have created a great trial site where you can try out all their good stuff and get some guided walk through of their capabilities. Please check it out: https://manage.commerce.dynamics.com/welcome/index.html Here is your to-do list of what you should explore: B2C experience Product discovery and cloud powered search Curb-side … Continue reading How to learn and try out Dynamics 365 Commerce?",
-          "link": "https://kurthatlevik.com/2021/10/08/how-to-learn-and-try-out-dynamics-365-commerce/",
-          "publishedOn": "2021-10-08T07:36:48.000Z",
-          "wordCount": 968,
-          "title": "How to learn and try out Dynamics 365 Commerce?",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/10/100821_0736_howtolearna1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4263",
-          "author": "Kurt Hatlevik",
-          "description": "When I observe the use of Dynamics 365, I often see that most often there are well-established processes and routines for getting data into the Dynamics 365 system. But using this data is often limited to retrieving financial reports that show everything in dollars and cents. However, the information contained in the system is often … Continue reading D365 : Use your data",
-          "link": "https://kurthatlevik.com/2021/09/27/d365-use-your-data/",
-          "publishedOn": "2021-09-27T12:18:32.000Z",
-          "wordCount": 2371,
-          "title": "D365 : Use your data",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/09/092721_1218_d365useyour1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4245",
-          "author": "Kurt Hatlevik",
-          "description": "Latest & greatest tech, faster, better and new possibilities, are from a consultancy perspective fun and rewarding. But it is very seldom that these aspects are the deciding factors when it come to implementing Dynamics 365. Any organization have a finite set of resources in terms of people, knowledge, money, and time. How to best … Continue reading D365 – Building a business value review",
-          "link": "https://kurthatlevik.com/2021/08/23/d365-building-a-business-value-review/",
-          "publishedOn": "2021-08-23T11:47:59.000Z",
-          "wordCount": 5719,
-          "title": "D365 – Building a business value review",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/08/082321_1130_d365buildin1.png?w=1200"
         }
       ]
     },
