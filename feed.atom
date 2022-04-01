@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-03-31T17:06:24.632Z</updated>
+    <updated>2022-04-01T01:44:09.297Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hearing Australia  Audiologist adopts Microsoft Power Platform to transform hearing loss prevention program]]></title>
+        <id>hearing-australia-audiologist-adopts-microsoft-power-platform-to-transform-hearing-loss-prevention-program</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/hearing-australia-audiologist-adopts-microsoft-power-platform-to-transform-hearing-loss-prevention-program/"/>
+        <updated>2022-03-31T12:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Hearing Australia is Australia’s largest provider of government-funded hearing services and have been servicing people with hearing loss in Australia for 75 years. This is an inspiring story that features Jacqui Peck, an Audiologist who taught herself Power Platform while visiting remote communities in the Australian outback. She partnered with the ICT team, as a fusion development team, to transform one of their key programs for hearing assessments. The solution was built using Dataverse, Power Apps, Power Automate and Power BI. Over 100 Community Engagement Officers and Audiologists use it each month and it has become a single source of truth for program data. This has also helped secure continued funding from a government grant.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Microsoft Power Platform API (preview)]]></title>
         <id>introducing-microsoft-power-platform-api-preview</id>

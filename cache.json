@@ -4981,6 +4981,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "hearing-australia-audiologist-adopts-microsoft-power-platform-to-transform-hearing-loss-prevention-program",
+          "author": null,
+          "description": "Hearing Australia is Australia’s largest provider of government-funded hearing services and have been servicing people with hearing loss in Australia for 75 years. This is an inspiring story that features Jacqui Peck, an Audiologist who taught herself Power Platform while visiting remote communities in the Australian outback. She partnered with the ICT team, as a fusion development team, to transform one of their key programs for hearing assessments. The solution was built using Dataverse, Power Apps, Power Automate and Power BI. Over 100 Community Engagement Officers and Audiologists use it each month and it has become a single source of truth for program data. This has also helped secure continued funding from a government grant.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/hearing-australia-audiologist-adopts-microsoft-power-platform-to-transform-hearing-loss-prevention-program/",
+          "publishedOn": "2022-03-31T12:00:38.000Z",
+          "wordCount": 3238,
+          "title": "Hearing Australia  Audiologist adopts Microsoft Power Platform to transform hearing loss prevention program",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "introducing-microsoft-power-platform-api-preview",
           "author": null,
           "description": "Power Platform API acts as a gateway or a single API surface that harmonizes the internal APIs from feature areas of the platform.  This results in a single endpoint (ex. api.powerplatform.com) for customers to use along with a unified set of Permissions and claims that can be requested from Azure Active Directory.",
