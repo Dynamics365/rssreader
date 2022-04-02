@@ -2,10 +2,201 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-01T01:44:09.297Z</updated>
+    <updated>2022-04-02T01:23:26.332Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to fix common issues and entry mistakes with Budget Control Data Maintenance]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1b5986c6-ecde-41fc-a13f-18eda60cd44c</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/how-to-fix-common-issues-and-entry-mistakes-with-budget-control-data-maintenance"/>
+        <updated>2022-04-01T16:34:39.000Z</updated>
+        <summary type="html"><![CDATA[Budget Control Data Maintenance is a few years old now but it isn't something that most folks are familiar with yet. Today I will answer common questions on how this works and what benefits it pro...(read more)]]></summary>
+        <author>
+            <name>Ryan Sandness MSFT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Git with 1 Package]]></title>
+        <id>1654 at http://www.atomicax.com</id>
+        <link href="http://www.atomicax.com/article/using-git-1-package"/>
+        <updated>2022-04-01T12:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 04/01/22.
+
+
+
+
+
+
+
+
+
+
+
+
+Using Git with 1 Package
+When using Git for F&O, there are 2 basic flavors of using it; with 1 package or more than 1 package. This post will cover how to setup Git for use with 1 package.
+To learn out to create a Git repo in Azure DevOps, please refer to MSFT documentation. To learn how to create a repo on Github, please refer to GitHub documentation.
+Using Azure DevOps
+In your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then Connect to a project. 
+
+Next, select your repo and place it in your PackagesLocalDirectory. K drive on cloud hosted machines and C on VHDs. 
+
+Wait for it to clone and, that's it. Refresh your models like usual and you can develop against 1 package using Git in Azure DevOps. This is what the sync'd directory will look like. 
+
+Using GitHub
+In your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then click Clone 
+
+Log into GitHub then select your repo making sure to change the local path to include your PackagesLocalDirectory path.
+
+Click clone and wait. That's it. Your repo folder will look like this:
+
+Callout: If using VHD, drive will be the C drive rather than K drive.
+Conclusion
+Very straight forward process. However, when using this style of package manage, you will only ever be allowed 1 package. You can add as many models as you like but you'll only ever have 1 package. This includes ISV packages as well including binary or source packages. I recommend this style of management for personal projects or something you'll be sharing on GitHub. I wouldn't recommend this approach for use on an implementation project.
+ 
+
+
+
+
+View the discussion thread.
+
+
+
+Reported:]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIT ALM Field Guide]]></title>
+        <id>1639 at http://www.atomicax.com</id>
+        <link href="http://www.atomicax.com/content/git-alm-field-guide"/>
+        <updated>2022-04-01T12:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Using Git rather than TFVC, a field guide.
+This collection of works will help you with moving from using TFVC to using Git for your x++ development. This page will have several chapters linked as they are published. However, how do you know which is the best fit for you, your team, your organization or your project? Let's take an inventory.
+You
+If you're reading this, I assume you're interested in getting away from TFVC for some reason, you're a technically focused individual, and you understand the differences between using Git and TFVC. 
+Your Team
+Your team should also be aware of what it takes to be successful in order to make a switch from TFVC to Git. They may need some additional training in order to get the the most out of Git. Developing and delivering with Git is a different exper…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active record count in ValidTimeState tables]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6dd1ba9b-63b6-4b7b-bf90-fd30ff2b14f0</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/active-record-count-in-validtimestate-tables"/>
+        <updated>2022-03-31T17:42:31.000Z</updated>
+        <summary type="html"><![CDATA[In the previous blog post we have explored how to tell how many records do we have per company account using a T-SQL Query. But AX does have a concept which SQL cannot cope with, and makes it a bit h...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find tables without cacheLookup property set]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a8cf40e8-e6de-42ba-9776-cb2a8ad27d3d</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/find-tables-without-cachelookup-property-set"/>
+        <updated>2022-03-31T17:29:31.000Z</updated>
+        <summary type="html"><![CDATA[During the cleanup exercise of our code upgrade to Dynamics 365 Finance and Operations we have noticed that many of our custom tables did not have the cacheLookup configured. It can have a negative p...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL record count by company]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:709a8673-af80-4370-bc57-5af05c945df5</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/sql-record-count-by-company"/>
+        <updated>2022-03-31T17:18:46.000Z</updated>
+        <summary type="html"><![CDATA[As part of our Data Upgrade from AX 2012 to Dynamics 365 Finance and Operations we had to ensure a way of telling how many records do we have per data area. Data import via entities are company-based...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identify tables to migrate]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2c6ae4f3-fe65-44cf-835b-3ff03cde6176</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/identify-tables-to-migrate"/>
+        <updated>2022-03-31T17:06:36.000Z</updated>
+        <summary type="html"><![CDATA[When we have decided to use a Data migration instead of a Data upgrade to D365FO we had to come up with a way to identify tables to migrate.
+
+
+
+The AX developer client already has a form under Tools ...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removing SSRS document archives]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6def3685-5b12-4424-9cd9-d0fbe630d3a9</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/removing-ssrs-document-archives"/>
+        <updated>2022-03-31T16:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Throughout the years we have noticed that out SRSReport Document Type for Document attachments grew over the size of 90GB. This was getting filled by having the Print to document archive checkbox tic...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding objects marked for deletion]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d5fda4a3-7023-426c-a8cb-991831fcdc41</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/finding-objects-marked-for-deletion"/>
+        <updated>2022-03-31T16:29:43.000Z</updated>
+        <summary type="html"><![CDATA[During our code upgrade we have identified that the SysDeletedObjects configuration keys were still turned on. Also many DEL_-prefixed fields were being referred or used in various places. We had to ...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: The Latest in Output and Document Management]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:35fdcca0-aebf-4f1b-81a1-2b5582d7f068</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-the-latest-in-output-and-document-management"/>
+        <updated>2022-03-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[.... Read More Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modifying D365FO metadata using reflection]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3cdf394a-2695-4ae8-8544-4b9ec175bc57</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/modifying-d365fo-metadata-using-reflection"/>
+        <updated>2022-03-31T14:39:30.000Z</updated>
+        <summary type="html"><![CDATA[As part of our code upgrade to Dynamics 365 Finance and Operations we have removed some processes, for which the security roles had to be refreshed en mass. For this I have decided to go with modifyi...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data histogram equalization]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3a91eb36-85d4-4b89-8f96-9e3fe12bda4e</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/data-histogram-equalization"/>
+        <updated>2022-03-31T14:19:34.000Z</updated>
+        <summary type="html"><![CDATA[The Document Attachments were stored in our AX 2012 database, and were occupying several hundred GBs. As part of the migration to D365FO we had to export these files in bulk. The most efficient way i...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FormDataSource display methods must be static]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f397362a-8cce-46e2-9bea-71d2b255ea9c</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/formdatasource-display-methods-must-be-static"/>
+        <updated>2022-03-31T13:15:57.000Z</updated>
+        <summary type="html"><![CDATA[During our Dynamics 365 code upgrade the display methods on forms were raising an error. The new rule is that FormDataSource display methods must be static calls. Here is the relevant section from th...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DictSecurityKey is deprecated]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:449ec0de-7c61-454f-b981-8f0bcf54caa2</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/dictsecuritykey-is-deprecated"/>
+        <updated>2022-03-31T13:00:10.000Z</updated>
+        <summary type="html"><![CDATA[In the new Microsoft Dynamics 365 Finance and Operations release a lot of things have changed in terms of reflection. One of them that we have used frequently for security access validation is gone, ...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hearing Australia  Audiologist adopts Microsoft Power Platform to transform hearing loss prevention program]]></title>
         <id>hearing-australia-audiologist-adopts-microsoft-power-platform-to-transform-hearing-loss-prevention-program</id>
