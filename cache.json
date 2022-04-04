@@ -1934,6 +1934,16 @@
       "siteUrl": "http://www.atomicax.com/frontpage",
       "articles": [
         {
+          "id": "1648 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "How Shoud I Manage Packages in Git?\nThere are 2 options when looking at Git for managing your X++ code. The main driver for which option you select is if you will only ever have 1 package in your code base or more than 1. This include any ISVs or any other item that will have a code footprint anywhere in F&O. To learn more about packages, please see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-tools/models. \n1 Package as a Branch\nThis option is the simplest. You would have 1 package as a branch. A good example of this is this GitHub project. It's a small package that add a features, it only depends on OOTB F&O packages and models and has no other dependencies not does anything else depend on it. It doesn't get any more simple than this. However, this may not work…",
+          "link": "http://www.atomicax.com/content/part-1-package-management",
+          "publishedOn": "2022-04-03T18:37:59.000Z",
+          "wordCount": 1103,
+          "title": "Part 1 - Package Management",
+          "imageUrl": null
+        },
+        {
           "id": "1654 at http://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 04/01/22.\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Git with 1 Package\nWhen using Git for F&O, there are 2 basic flavors of using it; with 1 package or more than 1 package. This post will cover how to setup Git for use with 1 package.\nTo learn out to create a Git repo in Azure DevOps, please refer to MSFT documentation. To learn how to create a repo on Github, please refer to GitHub documentation.\nUsing Azure DevOps\nIn your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then Connect to a project. \n\nNext, select your repo and place it in your PackagesLocalDirectory. K drive on cloud hosted machines and C on VHDs. \n\nWait for it to clone and, that's it. Refresh your models like usual and you can develop against 1 package using Git in Azure DevOps. This is what the sync'd directory will look like. \n\nUsing GitHub\nIn your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then click Clone \n\nLog into GitHub then select your repo making sure to change the local path to include your PackagesLocalDirectory path.\n\nClick clone and wait. That's it. Your repo folder will look like this:\n\nCallout: If using VHD, drive will be the C drive rather than K drive.\nConclusion\nVery straight forward process. However, when using this style of package manage, you will only ever be allowed 1 package. You can add as many models as you like but you'll only ever have 1 package. This includes ISV packages as well including binary or source packages. I recommend this style of management for personal projects or something you'll be sharing on GitHub. I wouldn't recommend this approach for use on an implementation project.\n \n\n\n\n\nView the discussion thread.\n\n\n\nReported:",
@@ -1951,6 +1961,16 @@
           "publishedOn": "2022-04-01T12:29:21.000Z",
           "wordCount": 1064,
           "title": "GIT ALM Field Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "1655 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 03/25/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nGit      \nSource Control      \n\nWant to use Git with more than 1 Package? Let's review.\nThe process to get Git working with F&O can be a little involved and it may not make sense the first time. The issue we're presented with is that Git assumes you are starting with nothing - a directory that doesn't exist. When you fetch source code - clone it - Git wants you to clone it into a directory that doesn't exist yet. Our PackagesLocalDirectory very much so already exists. So, we have to help Git by moving in pieces of the repo into the directory then get everything back in working order. There are a few different ways to do this: The Hard Way and the easier way. \n \nThe Hard Way\nWe'll be using https://github.com/NathanClouseAX/FO…",
+          "link": "http://www.atomicax.com/article/using-git-more-1-package",
+          "publishedOn": "2022-03-26T03:16:29.000Z",
+          "wordCount": 1326,
+          "title": "Using Git with More than 1 Package",
           "imageUrl": null
         },
         {

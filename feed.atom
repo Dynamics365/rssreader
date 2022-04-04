@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-03T01:37:11.353Z</updated>
+    <updated>2022-04-04T01:38:01.203Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Part 1 - Package Management]]></title>
+        <id>1648 at http://www.atomicax.com</id>
+        <link href="http://www.atomicax.com/content/part-1-package-management"/>
+        <updated>2022-04-03T18:37:59.000Z</updated>
+        <summary type="html"><![CDATA[How Shoud I Manage Packages in Git?
+There are 2 options when looking at Git for managing your X++ code. The main driver for which option you select is if you will only ever have 1 package in your code base or more than 1. This include any ISVs or any other item that will have a code footprint anywhere in F&O. To learn more about packages, please see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-tools/models. 
+1 Package as a Branch
+This option is the simplest. You would have 1 package as a branch. A good example of this is this GitHub project. It's a small package that add a features, it only depends on OOTB F&O packages and models and has no other dependencies not does anything else depend on it. It doesn't get any more simple than this. However, this may not work…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to fix common issues and entry mistakes with Budget Control Data Maintenance]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1b5986c6-ecde-41fc-a13f-18eda60cd44c</id>
@@ -235,6 +248,38 @@ The AX developer client already has a form under Tools ...(read more)]]></summar
         <summary type="html"><![CDATA[We’re excited to invite you to the Microsoft Business Applications Launch Event on April 6. Register now for your first look at hundreds of new features, enhancements, and innovations to transform your business into a more agile, customer-centric organization.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Git with More than 1 Package]]></title>
+        <id>1655 at http://www.atomicax.com</id>
+        <link href="http://www.atomicax.com/article/using-git-more-1-package"/>
+        <updated>2022-03-26T03:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/25/22.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+Git      
+Source Control      
+
+Want to use Git with more than 1 Package? Let's review.
+The process to get Git working with F&O can be a little involved and it may not make sense the first time. The issue we're presented with is that Git assumes you are starting with nothing - a directory that doesn't exist. When you fetch source code - clone it - Git wants you to clone it into a directory that doesn't exist yet. Our PackagesLocalDirectory very much so already exists. So, we have to help Git by moving in pieces of the repo into the directory then get everything back in working order. There are a few different ways to do this: The Hard Way and the easier way. 
+ 
+The Hard Way
+We'll be using https://github.com/NathanClouseAX/FO…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>

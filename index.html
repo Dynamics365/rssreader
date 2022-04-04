@@ -22,6 +22,56 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-04-04 datetime="2022-04-03T18:37:59.000Z">2022-04-04</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-04-04 datetime="2022-04-03T18:37:59.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Atomic AX - Dynamics AX Tips, Tricks, How To&#x27;s and Code</button>
+                  <a class="source-heading__link" href="http://www.atomicax.com/frontpage">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="1648 at http://www.atomicax.com"
+                        open
+                      >
+                        <summary class="article-expander__title">Part 1 - Package Management</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://www.atomicax.com/content/part-1-package-management">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>How Shoud I Manage Packages in Git?
+There are 2 options when looking at Git for managing your X++ code. The main driver for which option you select is if you will only ever have 1 package in your code base or more than 1. This include any ISVs or any other item that will have a code footprint anywhere in F&amp;O. To learn more about packages, please see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-tools/models. 
+1 Package as a Branch
+This option is the simplest. You would have 1 package as a branch. A good example of this is this GitHub project. It&#x27;s a small package that add a features, it only depends on OOTB F&amp;O packages and models and has no other dependencies not does anything else depend on it. It doesn&#x27;t get any more simple than this. However, this may not work…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-04-01 datetime="2022-04-01T16:34:39.000Z">2022-04-01</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-04-01 datetime="2022-04-01T16:34:39.000Z"></time>
           </button>
@@ -552,6 +602,75 @@ The AX developer client already has a form under Tools ...(read more)</span>
                               <img src="https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>We’re excited to invite you to the Microsoft Business Applications Launch Event on April 6. Register now for your first look at hundreds of new features, enhancements, and innovations to transform your business into a more agile, customer-centric organization.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-03-26 datetime="2022-03-26T03:16:29.000Z">2022-03-26</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-03-26 datetime="2022-03-26T03:16:29.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Atomic AX - Dynamics AX Tips, Tricks, How To&#x27;s and Code</button>
+                  <a class="source-heading__link" href="http://www.atomicax.com/frontpage">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="1655 at http://www.atomicax.com"
+                        open
+                      >
+                        <summary class="article-expander__title">Using Git with More than 1 Package</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://www.atomicax.com/article/using-git-more-1-package">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Submitted by Nathan Clouse on 03/25/22.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+Git      
+Source Control      
+
+Want to use Git with more than 1 Package? Let&#x27;s review.
+The process to get Git working with F&amp;O can be a little involved and it may not make sense the first time. The issue we&#x27;re presented with is that Git assumes you are starting with nothing - a directory that doesn&#x27;t exist. When you fetch source code - clone it - Git wants you to clone it into a directory that doesn&#x27;t exist yet. Our PackagesLocalDirectory very much so already exists. So, we have to help Git by moving in pieces of the repo into the directory then get everything back in working order. There are a few different ways to do this: The Hard Way and the easier way. 
+ 
+The Hard Way
+We&#x27;ll be using https://github.com/NathanClouseAX/FO…</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;4
                                   min&hairsp;)</span>
                             </span>
@@ -22353,8 +22472,8 @@ This posting is provided &quot;AS IS&quot; with no warranties, and confers no ri
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/2083831706">
-        <time id="build-timestamp" datetime="2022-04-03T01:37:11.281Z">2022-04-03T01:37:11.281Z</time>
+      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/2087178353">
+        <time id="build-timestamp" datetime="2022-04-04T01:38:01.146Z">2022-04-04T01:38:01.146Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>
