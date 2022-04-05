@@ -1827,6 +1827,16 @@
       "siteUrl": "https://dynamics365musings.com",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=1817",
+          "author": "peter.ramer",
+          "description": "There exist many forms to show the user data in Microsoft Dynamics 365 for Finance and Operations. However, sometimes it is very useful to look at all of the unfiltered data in a specific table. In this article, you will learn the multiple ways to use the D365 table browser. There have been many articles... Continue Reading →\nThe post How To Use The D365 Table Browser appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-table-browser/?utm_source=rss&utm_medium=rss&utm_campaign=d365-table-browser",
+          "publishedOn": "2022-04-04T13:00:00.000Z",
+          "wordCount": 2108,
+          "title": "How To Use The D365 Table Browser",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/04/How-To-Use-The-D365-Table-Browser-3.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=1794",
           "author": "peter.ramer",
           "description": "Do you know all of the D365 development tips and tricks when working with Microsoft Dynamics 365 for Finance and Operations? Find out by watching this video. Two time Microsoft Business Applications MVP Nathan Clouse invited me to co-present with him. And I was honored and thrilled to be asked. Watch as we show you... Continue Reading →\nThe post D365 Development Tips And Tricks appeared first on Dynamics 365 Musings.",
@@ -1933,6 +1943,16 @@
       "feedUrl": "http://www.atomicax.com/rss.xml",
       "siteUrl": "http://www.atomicax.com/frontpage",
       "articles": [
+        {
+          "id": "1649 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Let's take a look at the lifecyle of a Git Branch.\nUnlike TFVC, branches in Git are typically short lived when it comes to development. In TFVC you may have a branch for each developer or a branch for development in general, another for test then a release branch. In Git, we will be using branches differently. We'll get a change request as a work item in DevOps, review it, create a branch, assign to a developer to do the work plus commit it, optional build automation may occur, next a pull request, or PR, with a review and then the changes are accepted into the parent branch. We'll walk through this in specific details. In this example, we'll be using a bug but you can replace \"bug\" with \"Feature\", \"Product Backlog Item\", \"Change Request\", \"Customization\", \"Enhancement\", or any other word …",
+          "link": "http://www.atomicax.com/content/part-2-lifecycle-branch",
+          "publishedOn": "2022-04-04T02:00:49.000Z",
+          "wordCount": 1181,
+          "title": "Part 2 - Lifecycle of a Branch",
+          "imageUrl": null
+        },
         {
           "id": "1648 at http://www.atomicax.com",
           "author": "Nathan Clouse",
@@ -5140,6 +5160,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "monitor-all-your-dataflow-refreshes-with-a-power-bi-dashboard",
+          "author": null,
+          "description": "Enhanced Dataflow Refresh History allows you to leverage the managed dataverse tables to view and monitor your dataflow refreshes in your environment.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/monitor-all-your-dataflow-refreshes-with-a-power-bi-dashboard/",
+          "publishedOn": "2022-04-04T08:00:00.000Z",
+          "wordCount": 780,
+          "title": "Monitor all your Dataflow refreshes with a Power BI dashboard",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "hearing-australia-audiologist-adopts-microsoft-power-platform-to-transform-hearing-loss-prevention-program",
           "author": null,
