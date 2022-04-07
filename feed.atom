@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-06T01:24:52.226Z</updated>
+    <updated>2022-04-07T01:24:01.510Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Part 4 - GitHub]]></title>
+        <id>1651 at http://www.atomicax.com</id>
+        <link href="http://www.atomicax.com/content/part-4-github"/>
+        <updated>2022-04-07T01:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Can you use Git Hub? yes.
+GitHub is also an option you could pursue when moving to Git. GitHub has a lot of new features and offerings that Azure DevOps does not have. However, there is basically no documentation from MSFT on how to configure builds and various other automation options in GitHub. I'm sure it's possible but there will be a fair amount of guess work. Getting your pipelines fully converted to YAML will be the first step in making the transition to GitHub.
+Community (Free)
+I use GitHub to host all of my community projects which is great for that. I can share the code and anyone can pick it up and use it as they see fit. Private repos are now also an option. However, these still below to a named person so you'd want a service account or centrally managed account to create all projects.
+Pro
+For 4 USD a month, you can upgrade 1 account on GitHub to GitHub Pro, which gives you more stuff. Using YAML plus actions, you could probably get a lot of the same benefits from Azure DevOps without having to use DevOps. 
+Thoughts
+ I think the prospect of using Github for community or personal development for F&O is a good idea. Git is simple and so is GitHub. You can work and share your code with whomever you like. Additionally, private repos are now free so you can use those, too.
+However, the prospect of using Github for an implementation or support project is a much harder sell for the client or organization. While I'm pretty sure you could use GitHub to get to around the same service level as Azure DevOps, there is a fair amount of risk. That risk is, in my opinion, simply too great to suggest using it for the time being. There is nearly no documentation on the subject and there is no one at MSFT you can call for help specific to F&O. Although it may look like Azure DevOps isn't the favorite for MSFT in terms of product hype or feature development, DevOps is still a proven tool we can rely on. I got the chart below from this site but I think it's really helpful given the context.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 3 - Developing with VS 2019 / 2022]]></title>
+        <id>1650 at http://www.atomicax.com</id>
+        <link href="http://www.atomicax.com/content/part-3-developing-vs-2019-2022"/>
+        <updated>2022-04-07T00:59:06.000Z</updated>
+        <summary type="html"><![CDATA[What's it like developing using Git?
+Developing in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 : A messy tips blogpost]]></title>
+        <id>http://kurthatlevik.com/?p=4320</id>
+        <link href="https://kurthatlevik.com/2022/04/06/d365-a-messy-tips-blogpost/"/>
+        <updated>2022-04-06T14:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Hi friends. We learn new things every day, and I wanted to share a new messy blogpost where you will find undocumented some tips. Enjoy. Azure Zone Pinning Sometimes I have experienced that Dynamics 365 performs slower than expected. I have in a few scenarios tracked this down the fact that the services are distributed … Continue reading D365 : A messy tips blogpost]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Public Preview of a new Power Apps application on Windows]]></title>
+        <id>announcing-public-preview-of-a-new-power-apps-application-on-windows</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-a-new-power-apps-application-on-windows/"/>
+        <updated>2022-04-06T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you want a fast and modern way to get to your apps on Windows devices, this is your week! We’re thrilled to announce the release of Power Apps (Preview) for Windows.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Use The D365 Table Browser]]></title>
         <id>https://dynamics365musings.com/?p=1817</id>

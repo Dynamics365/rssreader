@@ -1944,6 +1944,26 @@
       "siteUrl": "http://www.atomicax.com/frontpage",
       "articles": [
         {
+          "id": "1651 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Can you use Git Hub? yes.\nGitHub is also an option you could pursue when moving to Git. GitHub has a lot of new features and offerings that Azure DevOps does not have. However, there is basically no documentation from MSFT on how to configure builds and various other automation options in GitHub. I'm sure it's possible but there will be a fair amount of guess work. Getting your pipelines fully converted to YAML will be the first step in making the transition to GitHub.\nCommunity (Free)\nI use GitHub to host all of my community projects which is great for that. I can share the code and anyone can pick it up and use it as they see fit. Private repos are now also an option. However, these still below to a named person so you'd want a service account or centrally managed account to create all projects.\nPro\nFor 4 USD a month, you can upgrade 1 account on GitHub to GitHub Pro, which gives you more stuff. Using YAML plus actions, you could probably get a lot of the same benefits from Azure DevOps without having to use DevOps. \nThoughts\n I think the prospect of using Github for community or personal development for F&O is a good idea. Git is simple and so is GitHub. You can work and share your code with whomever you like. Additionally, private repos are now free so you can use those, too.\nHowever, the prospect of using Github for an implementation or support project is a much harder sell for the client or organization. While I'm pretty sure you could use GitHub to get to around the same service level as Azure DevOps, there is a fair amount of risk. That risk is, in my opinion, simply too great to suggest using it for the time being. There is nearly no documentation on the subject and there is no one at MSFT you can call for help specific to F&O. Although it may look like Azure DevOps isn't the favorite for MSFT in terms of product hype or feature development, DevOps is still a proven tool we can rely on. I got the chart below from this site but I think it's really helpful given the context.",
+          "link": "http://www.atomicax.com/content/part-4-github",
+          "publishedOn": "2022-04-07T01:22:40.000Z",
+          "wordCount": 941,
+          "title": "Part 4 - GitHub",
+          "imageUrl": null
+        },
+        {
+          "id": "1650 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "What's it like developing using Git?\nDeveloping in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …",
+          "link": "http://www.atomicax.com/content/part-3-developing-vs-2019-2022",
+          "publishedOn": "2022-04-07T00:59:06.000Z",
+          "wordCount": 1254,
+          "title": "Part 3 - Developing with VS 2019 / 2022",
+          "imageUrl": null
+        },
+        {
           "id": "1649 at http://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Let's take a look at the lifecyle of a Git Branch.\nUnlike TFVC, branches in Git are typically short lived when it comes to development. In TFVC you may have a branch for each developer or a branch for development in general, another for test then a release branch. In Git, we will be using branches differently. We'll get a change request as a work item in DevOps, review it, create a branch, assign to a developer to do the work plus commit it, optional build automation may occur, next a pull request, or PR, with a review and then the changes are accepted into the parent branch. We'll walk through this in specific details. In this example, we'll be using a bug but you can replace \"bug\" with \"Feature\", \"Product Backlog Item\", \"Change Request\", \"Customization\", \"Enhancement\", or any other word …",
@@ -2100,6 +2120,16 @@
       "feedUrl": "https://kurthatlevik.com/feed/",
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
+        {
+          "id": "http://kurthatlevik.com/?p=4320",
+          "author": "Kurt Hatlevik",
+          "description": "Hi friends. We learn new things every day, and I wanted to share a new messy blogpost where you will find undocumented some tips. Enjoy. Azure Zone Pinning Sometimes I have experienced that Dynamics 365 performs slower than expected. I have in a few scenarios tracked this down the fact that the services are distributed … Continue reading D365 : A messy tips blogpost",
+          "link": "https://kurthatlevik.com/2022/04/06/d365-a-messy-tips-blogpost/",
+          "publishedOn": "2022-04-06T14:24:20.000Z",
+          "wordCount": 1370,
+          "title": "D365 : A messy tips blogpost",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/04/040622_1424_d365amessy1.png"
+        },
         {
           "id": "http://kurthatlevik.com/?p=4312",
           "author": "Kurt Hatlevik",
@@ -5160,6 +5190,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-public-preview-of-a-new-power-apps-application-on-windows",
+          "author": null,
+          "description": "If you want a fast and modern way to get to your apps on Windows devices, this is your week! We’re thrilled to announce the release of Power Apps (Preview) for Windows.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-a-new-power-apps-application-on-windows/",
+          "publishedOn": "2022-04-06T01:00:00.000Z",
+          "wordCount": 1040,
+          "title": "Announcing Public Preview of a new Power Apps application on Windows",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "monitor-all-your-dataflow-refreshes-with-a-power-bi-dashboard",
           "author": null,
