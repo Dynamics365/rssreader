@@ -1957,6 +1957,16 @@
           "id": "1650 at http://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "What's it like developing using Git?\nDeveloping in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …",
+          "link": "http://www.atomicax.com/content/part-3-developing-vs-2019",
+          "publishedOn": "2022-04-07T00:59:06.000Z",
+          "wordCount": 1286,
+          "title": "Part 3 - Developing with VS 2019",
+          "imageUrl": null
+        },
+        {
+          "id": "1650 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "What's it like developing using Git?\nDeveloping in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …",
           "link": "http://www.atomicax.com/content/part-3-developing-vs-2019-2022",
           "publishedOn": "2022-04-07T00:59:06.000Z",
           "wordCount": 1254,
@@ -4720,6 +4730,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axinthefield",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ed084e5f-e938-4adc-8a61-216ceb2be8a9",
+          "author": "Said Nikjou",
+          "description": "Some customers are reporting issues with the Expense Category Mileage rates. The System is using the standard rate for mileage calculation instead of using the Expense Category Mileage rates based on ...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/expense-reports--mileage-calculation-improvements-when-using-mileage-rate-tiers",
+          "publishedOn": "2022-04-08T00:59:08.000Z",
+          "wordCount": 1147,
+          "title": "Expense Reports -Mileage calculation improvements when using mileage rate tiers",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1b5986c6-ecde-41fc-a13f-18eda60cd44c",
           "author": "Ryan Sandness MSFT",
           "description": "Budget Control Data Maintenance is a few years old now but it isn't something that most folks are familiar with yet. Today I will answer common questions on how this works and what benefits it pro...(read more)",
@@ -5190,6 +5210,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "virtual-code-components-for-power-apps-using-react-and-fluent-ui-react-platform-libraries",
+          "author": null,
+          "description": "Virtual components and platform libraries support for code components",
+          "link": "https://powerapps.microsoft.com/en-us/blog/virtual-code-components-for-power-apps-using-react-and-fluent-ui-react-platform-libraries/",
+          "publishedOn": "2022-04-07T13:00:00.000Z",
+          "wordCount": 1225,
+          "title": "React (virtual) and Fluent UI code components using platform libraries",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "announcing-public-preview-of-a-new-power-apps-application-on-windows",
           "author": null,

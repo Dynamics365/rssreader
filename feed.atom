@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-07T01:24:01.510Z</updated>
+    <updated>2022-04-08T01:27:25.028Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Expense Reports -Mileage calculation improvements when using mileage rate tiers]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ed084e5f-e938-4adc-8a61-216ceb2be8a9</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/expense-reports--mileage-calculation-improvements-when-using-mileage-rate-tiers"/>
+        <updated>2022-04-08T00:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Some customers are reporting issues with the Expense Category Mileage rates. The System is using the standard rate for mileage calculation instead of using the Expense Category Mileage rates based on ...(read more)]]></summary>
+        <author>
+            <name>Said Nikjou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React (virtual) and Fluent UI code components using platform libraries]]></title>
+        <id>virtual-code-components-for-power-apps-using-react-and-fluent-ui-react-platform-libraries</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/virtual-code-components-for-power-apps-using-react-and-fluent-ui-react-platform-libraries/"/>
+        <updated>2022-04-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Virtual components and platform libraries support for code components]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part 4 - GitHub]]></title>
         <id>1651 at http://www.atomicax.com</id>
@@ -20,6 +40,17 @@ For 4 USD a month, you can upgrade 1 account on GitHub to GitHub Pro, which give
 Thoughts
  I think the prospect of using Github for community or personal development for F&O is a good idea. Git is simple and so is GitHub. You can work and share your code with whomever you like. Additionally, private repos are now free so you can use those, too.
 However, the prospect of using Github for an implementation or support project is a much harder sell for the client or organization. While I'm pretty sure you could use GitHub to get to around the same service level as Azure DevOps, there is a fair amount of risk. That risk is, in my opinion, simply too great to suggest using it for the time being. There is nearly no documentation on the subject and there is no one at MSFT you can call for help specific to F&O. Although it may look like Azure DevOps isn't the favorite for MSFT in terms of product hype or feature development, DevOps is still a proven tool we can rely on. I got the chart below from this site but I think it's really helpful given the context.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 3 - Developing with VS 2019]]></title>
+        <id>1650 at http://www.atomicax.com</id>
+        <link href="http://www.atomicax.com/content/part-3-developing-vs-2019"/>
+        <updated>2022-04-07T00:59:06.000Z</updated>
+        <summary type="html"><![CDATA[What's it like developing using Git?
+Developing in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …]]></summary>
         <author>
             <name>Nathan Clouse</name>
         </author>
