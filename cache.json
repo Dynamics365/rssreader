@@ -584,6 +584,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:af34440f-89bc-46b1-b52b-346be5d44d27",
+          "author": "MSDynamicsWorld.com",
+          "description": "This episode is sponsored by \r\n Binary Stream\r\nSoftware .  \r\n \r\n \r\n The thinking around service-based business models has moved far\r\nbeyond traditional scenarios. Today, forward-thinking businesses in\r\na range of industries are deploying service-oriented... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-binary-stream-s-khaled-nassra-on-the-rise-of-services-oriented-business-models",
+          "publishedOn": "2022-04-11T16:00:00.000Z",
+          "wordCount": 944,
+          "title": "MSDW Podcast: Binary Stream's Khaled Nassra on the rise of services-oriented business models",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:35fdcca0-aebf-4f1b-81a1-2b5582d7f068",
           "author": "MSDynamicsWorld.com",
           "description": ".... Read More Read the full text.",
@@ -1826,6 +1836,16 @@
       "feedUrl": "https://dynamics365musings.com/feed/",
       "siteUrl": "https://dynamics365musings.com",
       "articles": [
+        {
+          "id": "https://dynamics365musings.com/?p=1806",
+          "author": "peter.ramer",
+          "description": "Of the of the most important things to know how to do in Microsoft Dynamics 365 for Finance and Operations is to work with data. In this article you will learn how to insert data in D365 using x++. There are several different ways to insert data. Therefore, understanding when to use each one is... Continue Reading →\nThe post How To Insert Data In D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/insert-data-in-d365-2/?utm_source=rss&utm_medium=rss&utm_campaign=insert-data-in-d365-2",
+          "publishedOn": "2022-04-11T13:00:00.000Z",
+          "wordCount": 2596,
+          "title": "How To Insert Data In D365",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/04/How-To-Insert-Data-In-D365.png"
+        },
         {
           "id": "https://dynamics365musings.com/?p=1817",
           "author": "peter.ramer",
@@ -5210,6 +5230,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-public-preview-of-wrap-for-power-apps",
+          "author": null,
+          "description": "Introducing wrap – the brand new feature to create mobile apps with Power Apps. Power Apps is now officially a Mobile Application Development Platform (MADP/MXDP).",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-wrap-for-power-apps/",
+          "publishedOn": "2022-04-11T09:37:02.000Z",
+          "wordCount": 863,
+          "title": "Announcing Public Preview of wrap for Power Apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "virtual-code-components-for-power-apps-using-react-and-fluent-ui-react-platform-libraries",
           "author": null,
