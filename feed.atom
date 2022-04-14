@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-13T01:42:37.362Z</updated>
+    <updated>2022-04-14T01:42:37.424Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365: My take on the new Microsoft focus]]></title>
+        <id>http://kurthatlevik.com/?p=4325</id>
+        <link href="https://kurthatlevik.com/2022/04/13/d365-my-take-on-the-new-microsoft-focus/"/>
+        <updated>2022-04-13T14:58:56.000Z</updated>
+        <summary type="html"><![CDATA[On the 6. April 2022 Microsoft had a launch event for Dynamics 365, where Charles Lamanna (Corporate Vice President, Business Applications & Platform) was the key speaker, and presented the latest wave of Dynamics 365. The main innovation theme was organized around 3 concepts; Data, AI and Collaboration. The main keynote states that Data is … Continue reading D365: My take on the new Microsoft focus]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSDW Podcast: Binary Stream's Khaled Nassra on the rise of services-oriented business models]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:af34440f-89bc-46b1-b52b-346be5d44d27</id>

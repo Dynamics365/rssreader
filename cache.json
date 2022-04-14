@@ -2151,6 +2151,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4325",
+          "author": "Kurt Hatlevik",
+          "description": "On the 6. April 2022 Microsoft had a launch event for Dynamics 365, where Charles Lamanna (Corporate Vice President, Business Applications & Platform) was the key speaker, and presented the latest wave of Dynamics 365. The main innovation theme was organized around 3 concepts; Data, AI and Collaboration. The main keynote states that Data is … Continue reading D365: My take on the new Microsoft focus",
+          "link": "https://kurthatlevik.com/2022/04/13/d365-my-take-on-the-new-microsoft-focus/",
+          "publishedOn": "2022-04-13T14:58:56.000Z",
+          "wordCount": 1655,
+          "title": "D365: My take on the new Microsoft focus",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/04/041322_1458_d365mytakeo1.png"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4320",
           "author": "Kurt Hatlevik",
           "description": "Hi friends. We learn new things every day, and I wanted to share a new messy blogpost where you will find undocumented some tips. Enjoy. Azure Zone Pinning Sometimes I have experienced that Dynamics 365 performs slower than expected. I have in a few scenarios tracked this down the fact that the services are distributed … Continue reading D365 : A messy tips blogpost",
