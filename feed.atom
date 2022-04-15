@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-14T01:42:37.424Z</updated>
+    <updated>2022-04-15T01:37:23.723Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Evolution of Point-Of-Sale with Store Commerce App for Windows]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:76472334-811a-4290-bd45-a7ddeda8af01</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/the-evolution-of-point-of-sale-with-store-commerce-app-for-windows"/>
+        <updated>2022-04-14T14:27:51.000Z</updated>
+        <summary type="html"><![CDATA[The Store Commerce app for windows is a technology upgrade to the existing Modern point of sale (MPOS). The new Store Commerce app includes the following benefits:  
+
+Better performance
+Easier u...(read more)]]></summary>
+        <author>
+            <name>Said Nikjou</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D365: My take on the new Microsoft focus]]></title>
         <id>http://kurthatlevik.com/?p=4325</id>
