@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-18T01:50:03.934Z</updated>
+    <updated>2022-04-19T01:47:39.782Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Improve D365 Commerce performance with channel-side calculation on POS inventory lookup]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:aff3956e-b41e-4440-a4da-4ee860626bb6</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/improve-d365-commerce-performance-with-channel-side-calculation-on-pos-inventory-lookup"/>
+        <updated>2022-04-18T16:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Real-time Service (RTS) is an integrated service that provides real-time communication between Headquarters and channels. Real-time Service (RTS) enables individual POS computers and online stores to ...(read more)]]></summary>
+        <author>
+            <name>Said Nikjou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Update Data In D365]]></title>
+        <id>https://dynamics365musings.com/?p=1845</id>
+        <link href="https://dynamics365musings.com/update-data-in-d365/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=update-data-in-d365"/>
+        <updated>2022-04-18T14:43:49.000Z</updated>
+        <summary type="html"><![CDATA[After users enter in data in Microsoft Dynamics 365 for Finance and Operations you often need to process the data. In this article you will learn how to update data in D365 using x++. There are several different ways to update data. And there are several important things you need to know in order to... Continue Reading →
+The post How To Update Data In D365 appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the new Power Automate pane in Power Apps!]]></title>
+        <id>introducing-the-new-power-automate-pane-in-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/introducing-the-new-power-automate-pane-in-power-apps/"/>
+        <updated>2022-04-18T08:33:14.000Z</updated>
+        <summary type="html"><![CDATA[The new Power Automate Pane offers improved integration between Power Automate and Power Apps canvas apps. Create, edit, and refresh flows directly inline with the canvas app authoring experience.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Evolution of Point-Of-Sale with Store Commerce App for Windows]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:76472334-811a-4290-bd45-a7ddeda8af01</id>
