@@ -2161,6 +2161,21 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4332",
+          "author": "Kurt Hatlevik",
+          "description": "Hi friends. A few weeks ago, Microsoft announced that the D365 Store Commerce App is now GA. The MPOS will enter “end-of-support” in release 10.0.33(Spring 2023) according to the following whitepaper. There are still features missing in Store Commerce, like dual display etc, but this will be added in later releases (10.0.28+). One of the … Continue reading D365 Store Commerce performance test",
+          "link": "https://kurthatlevik.com/2022/04/20/d365-store-commerce-performance-test/",
+          "publishedOn": "2022-04-20T10:02:43.000Z",
+          "wordCount": 1284,
+          "title": "D365 Store Commerce performance test",
+          "enclosure": {
+            "url": "https://videos.files.wordpress.com/uRqmzpCA/store-commerce-online_mp4_hd.mp4",
+            "length": "16179200",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/04/042022_0943_d365storeco1.png"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4325",
           "author": "Kurt Hatlevik",
           "description": "On the 6. April 2022 Microsoft had a launch event for Dynamics 365, where Charles Lamanna (Corporate Vice President, Business Applications & Platform) was the key speaker, and presented the latest wave of Dynamics 365. The main innovation theme was organized around 3 concepts; Data, AI and Collaboration. The main keynote states that Data is … Continue reading D365: My take on the new Microsoft focus",
@@ -4769,6 +4784,16 @@
       "feedUrl": "https://community.dynamics.com/ax/b/axinthefield/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/axinthefield",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8b31e7a7-9243-4ae6-af67-d7b9ab0ae4c5",
+          "author": "Said Nikjou",
+          "description": "Azure Data Factory is a cloud-based data integration service that allows you to create data-driven workflows in the cloud for orchestrating and automating data movement and transformation. Using Azur...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/modern-data-warehouse-mdw--copy-data-from-d365-finance-and-sc-using-azure-data-factory",
+          "publishedOn": "2022-04-20T15:24:46.000Z",
+          "wordCount": 1357,
+          "title": "Modern Data Warehouse (MDW) -Copy data from D365 Finance and SC using Azure Data Factory",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:aff3956e-b41e-4440-a4da-4ee860626bb6",
           "author": "Said Nikjou",
