@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-21T01:44:20.493Z</updated>
+    <updated>2022-04-22T01:51:00.385Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -68,6 +68,16 @@ Better performance
 Easier u...(read more)]]></summary>
         <author>
             <name>Said Nikjou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing the AAD User Virtual Table  Find and add any AAD user to your records.]]></title>
+        <id>announcing-the-aad-user-virtual-table-find-and-add-any-aad-user-to-your-records</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-the-aad-user-virtual-table-find-and-add-any-aad-user-to-your-records/"/>
+        <updated>2022-04-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I am happy to announce a new Out of the Box virtual table for Dataverse, AAD User. AAD User makes it easy to retrieve any user that is in your organization’s Azure Active Directory as well as user details like job title, email, phone number and more.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>

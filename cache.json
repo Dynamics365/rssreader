@@ -5306,6 +5306,16 @@
           "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
         },
         {
+          "id": "announcing-the-aad-user-virtual-table-find-and-add-any-aad-user-to-your-records",
+          "author": null,
+          "description": "I am happy to announce a new Out of the Box virtual table for Dataverse, AAD User. AAD User makes it easy to retrieve any user that is in your organization’s Azure Active Directory as well as user details like job title, email, phone number and more.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-the-aad-user-virtual-table-find-and-add-any-aad-user-to-your-records/",
+          "publishedOn": "2022-04-14T07:00:00.000Z",
+          "wordCount": 829,
+          "title": "Announcing the AAD User Virtual Table  Find and add any AAD user to your records.",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/04/AADUser-tables.jpg"
+        },
+        {
           "id": "announcing-public-preview-of-wrap-for-power-apps",
           "author": null,
           "description": "Introducing wrap – the brand new feature to create mobile apps with Power Apps. Power Apps is now officially a Mobile Application Development Platform (MADP/MXDP).",
