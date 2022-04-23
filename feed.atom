@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-22T01:51:00.385Z</updated>
+    <updated>2022-04-23T01:36:09.254Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Document Attachment as Notes in D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2185</id>
+        <link href="https://anithasantosh.wordpress.com/2022/04/22/document-attachment-as-notes-in-d365fo/"/>
+        <updated>2022-04-22T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[I`ve already posted on exporting and importing attachments in D365 FO. There are various types of attachment available in FO . For instance, as File, image, Notes, URL etc. If you are importing the attachment as Notes, it can be … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modern Data Warehouse (MDW) -Copy data from D365 Finance and SC using Azure Data Factory]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8b31e7a7-9243-4ae6-af67-d7b9ab0ae4c5</id>
