@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-24T01:36:40.932Z</updated>
+    <updated>2022-04-25T01:37:52.294Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -522,6 +522,32 @@ The process to get Git working with F&O can be a little involved and it may not 
  
 The Hard Way
 We'll be using https://github.com/NathanClouseAX/FO…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 5 - Pull Requests (PRs)]]></title>
+        <id>1652 at http://www.atomicax.com</id>
+        <link href="http://www.atomicax.com/content/part-5-pull-requests-prs"/>
+        <updated>2022-03-22T00:40:26.000Z</updated>
+        <summary type="html"><![CDATA[what is a pull request? how do they work? what do they signify?
+Create a Pull Request (PR)
+The code is done but not the work. The developer still has to singal that his work is complete. We'll want to create a Pull Request or PR for short. There are 2 ways to do this. The first is in VS, which will just redirect you to Azure DevOps. The second is Azure DevOps. In VS, it can be found here:
+
+In Azure DevOps, go to Repors, select your repo, select your branch then click "create a pull request".
+
+Inside the PR, you can add some details for the PR. Additionally, reviewers and actions can be configured inside DevOps.
+
+Notice you can select what you are creating a PR into. You can set a reviewer or additional reviewer if you'd like. Also notice that the PR is automagically associated with out bug work item. Let's create the PR.
+
+As you can see, it merged successfully on its own and now we, or the approver, can approve and complete. Typically we wouldn't approve our own PRs. We'll see this when we complete.
+
+We'll have an option for the merge type, if we want to use something different. Additionally, we have "complete associate work items after merging" checked as well as "delete bug200 after merging". This will resolve the bug setting it's status to done and deleting the branch we created for the work item called "bug200". Next, click "Complete merge". This is what the bug work item looks like after completing the PR:
+
+The work item's status is "Done". Also note the links section. We can see that we had a commit and PR. However, the link to branch is now gone because the branch itself is gone.
+Conclusion
+Because Git Branches allow us to pull everything up, rather the push specific changesets like in TFVC, we can more easily keep track of what is where. As a for instance, until bug 200's work gets a completed PR, I know it's only in the branch for that work item.]]></summary>
         <author>
             <name>Nathan Clouse</name>
         </author>

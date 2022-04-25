@@ -2064,6 +2064,16 @@
           "imageUrl": null
         },
         {
+          "id": "1652 at http://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "what is a pull request? how do they work? what do they signify?\nCreate a Pull Request (PR)\nThe code is done but not the work. The developer still has to singal that his work is complete. We'll want to create a Pull Request or PR for short. There are 2 ways to do this. The first is in VS, which will just redirect you to Azure DevOps. The second is Azure DevOps. In VS, it can be found here:\n\nIn Azure DevOps, go to Repors, select your repo, select your branch then click \"create a pull request\".\n\nInside the PR, you can add some details for the PR. Additionally, reviewers and actions can be configured inside DevOps.\n\nNotice you can select what you are creating a PR into. You can set a reviewer or additional reviewer if you'd like. Also notice that the PR is automagically associated with out bug work item. Let's create the PR.\n\nAs you can see, it merged successfully on its own and now we, or the approver, can approve and complete. Typically we wouldn't approve our own PRs. We'll see this when we complete.\n\nWe'll have an option for the merge type, if we want to use something different. Additionally, we have \"complete associate work items after merging\" checked as well as \"delete bug200 after merging\". This will resolve the bug setting it's status to done and deleting the branch we created for the work item called \"bug200\". Next, click \"Complete merge\". This is what the bug work item looks like after completing the PR:\n\nThe work item's status is \"Done\". Also note the links section. We can see that we had a commit and PR. However, the link to branch is now gone because the branch itself is gone.\nConclusion\nBecause Git Branches allow us to pull everything up, rather the push specific changesets like in TFVC, we can more easily keep track of what is where. As a for instance, until bug 200's work gets a completed PR, I know it's only in the branch for that work item.",
+          "link": "http://www.atomicax.com/content/part-5-pull-requests-prs",
+          "publishedOn": "2022-03-22T00:40:26.000Z",
+          "wordCount": 886,
+          "title": "Part 5 - Pull Requests (PRs)",
+          "imageUrl": null
+        },
+        {
           "id": "1647 at http://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 03/15/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nforceselectorder      \nforcenestedloop      \n\nLet's explore what keywords forceSelectOrder and ForceNestedLoop do.\nIntroduction\nThe database access layer in X++ largely conceals it magic from us as developers and we hope it gets the SQL right - and it does. SQL is largely 99.9% accurate and about 95%-ish optimized for the workload presented. You can read more about some of the techniques we'll be using here. We'll be using keywords in an X++ select to how they change the query and what that change means. All tests below were run on a \"warm\" VHD using Contoso data - specifically USMF.\nSelect FirstOnly SalesTable\nFirst, we'll start with a simple select firstonly on SalesTable. This took 30 milliseconds and generated the follow…",
