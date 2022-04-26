@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-25T01:37:52.294Z</updated>
+    <updated>2022-04-26T01:50:00.153Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Write A D365 Find Method]]></title>
+        <id>https://dynamics365musings.com/?p=1867</id>
+        <link href="https://dynamics365musings.com/d365-find-method/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-find-method"/>
+        <updated>2022-04-25T14:10:21.000Z</updated>
+        <summary type="html"><![CDATA[One of the most common tasks when writing code in Microsoft Dynamics 365 for Finance and Operations, is to retrieve a record from the database. Once you have the record, you can read, update, or delete it. In this article I will show you how to write a D365 find method. A ‘Find’ method makes... Continue Reading →
+The post How To Write A D365 Find Method appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Fx: String interpolation, Index function, and RandBetween function]]></title>
+        <id>power-fx-string-interpolation-index-function-and-randbetween-function</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-fx-string-interpolation-index-function-and-randbetween-function/"/>
+        <updated>2022-04-25T07:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Power Fx has added three great new features.  String interpolation enables expressions to be embedded within strings, making it easier to combine parts of a string into a whole.  The Index function does away with Last of FirstN patterns.  The RandBetween function makes it easier to work with integer random numbers.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Document Attachment as Notes in D365FO]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2185</id>

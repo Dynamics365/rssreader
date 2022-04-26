@@ -1847,6 +1847,16 @@
       "siteUrl": "https://dynamics365musings.com",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=1867",
+          "author": "peter.ramer",
+          "description": "One of the most common tasks when writing code in Microsoft Dynamics 365 for Finance and Operations, is to retrieve a record from the database. Once you have the record, you can read, update, or delete it. In this article I will show you how to write a D365 find method. A ‘Find’ method makes... Continue Reading →\nThe post How To Write A D365 Find Method appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-find-method/?utm_source=rss&utm_medium=rss&utm_campaign=d365-find-method",
+          "publishedOn": "2022-04-25T14:10:21.000Z",
+          "wordCount": 2165,
+          "title": "How To Write A D365 Find Method",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/04/How-To-Write-A-D365-Find-Method.jpg"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=1845",
           "author": "peter.ramer",
           "description": "After users enter in data in Microsoft Dynamics 365 for Finance and Operations you often need to process the data. In this article you will learn how to update data in D365 using x++. There are several different ways to update data. And there are several important things you need to know in order to... Continue Reading →\nThe post How To Update Data In D365 appeared first on Dynamics 365 Musings.",
@@ -5315,6 +5325,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "power-fx-string-interpolation-index-function-and-randbetween-function",
+          "author": null,
+          "description": "Power Fx has added three great new features.  String interpolation enables expressions to be embedded within strings, making it easier to combine parts of a string into a whole.  The Index function does away with Last of FirstN patterns.  The RandBetween function makes it easier to work with integer random numbers.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-fx-string-interpolation-index-function-and-randbetween-function/",
+          "publishedOn": "2022-04-25T07:34:06.000Z",
+          "wordCount": 1147,
+          "title": "Power Fx: String interpolation, Index function, and RandBetween function",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "introducing-the-new-power-automate-pane-in-power-apps",
           "author": null,
