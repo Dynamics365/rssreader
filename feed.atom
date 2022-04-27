@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-26T01:50:00.153Z</updated>
+    <updated>2022-04-27T01:50:33.684Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Apps supports the new SharePoint list image column type]]></title>
+        <id>power-apps-supports-the-new-sharepoint-list-image-column-type</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-supports-the-new-sharepoint-list-image-column-type/"/>
+        <updated>2022-04-26T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Blog post on Power App support for the new SharePoint image column type]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Write A D365 Find Method]]></title>
         <id>https://dynamics365musings.com/?p=1867</id>

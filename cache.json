@@ -5326,6 +5326,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "power-apps-supports-the-new-sharepoint-list-image-column-type",
+          "author": null,
+          "description": "Blog post on Power App support for the new SharePoint image column type",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-apps-supports-the-new-sharepoint-list-image-column-type/",
+          "publishedOn": "2022-04-26T09:00:03.000Z",
+          "wordCount": 916,
+          "title": "Power Apps supports the new SharePoint list image column type",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "power-fx-string-interpolation-index-function-and-randbetween-function",
           "author": null,
           "description": "Power Fx has added three great new features.  String interpolation enables expressions to be embedded within strings, making it easier to combine parts of a string into a whole.  The Index function does away with Last of FirstN patterns.  The RandBetween function makes it easier to work with integer random numbers.",
