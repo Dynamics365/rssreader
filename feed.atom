@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-28T02:20:14.193Z</updated>
+    <updated>2022-04-29T01:51:43.373Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing General Availability (GA) for In-app notifications in Model-driven apps]]></title>
+        <id>announcing-general-availability-ga-for-in-app-notifications-in-model-driven-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-for-in-app-notifications-in-model-driven-apps/"/>
+        <updated>2022-04-28T12:06:38.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to announce that the in-app notifications feature has reached General Availability (GA).]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: News Roundup, April 2022]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2dfe78fa-a72c-4b0b-82f7-c58601552b9d</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-news-roundup-april-2022"/>
+        <updated>2022-04-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We wrap up a busy April with a news roundup edition of the
+podcast. We begin with a dive into some performance details from
+Microsoft's Q3 2022 earnings, including a miss on Dynamics revenue,
+strength in Power Platform, and stabile and healthy Azure... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Healthcare Management with ERP Integrated eCommerce Solution]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e08feba6-dd4c-4bd4-a97a-a6ef5e6f711c</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/improving-healthcare-management-with-erp-integrated-ecommerce-solution"/>
+        <updated>2022-04-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise resource planning (ERP) software solutions serve a
+wide range of organizations in the healthcare management industry.
+Hospitals, clinics, physician’s offices, medical staffing
+companies, and more are among the major healthcare institutions... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Apps supports the new SharePoint list image column type]]></title>
         <id>power-apps-supports-the-new-sharepoint-list-image-column-type</id>
@@ -7530,60 +7566,6 @@ The ‘Automatic cancel&#...(read more)]]></summary>
         <summary type="html"><![CDATA[I’ve encountered a problem when posting a product receipt on a purchase order that you need to see to believe. For this reason, I’ve recorded a video which shows the problem and the cause....(read more)]]></summary>
         <author>
             <name>Guy Terry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AX2012 - Listing reports which run against AX SSAS Cubes]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6771af2f-3b43-4fd2-9f4b-db8681c75f25</id>
-        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/ax2012---listing-reports-which-run-against-ax-ssas-cubes"/>
-        <updated>2015-06-05T13:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Just to share a quick tip. If you need to know which SSRS reports in AX gather data from AX OLAP cubes, you can run the query below in SSMS against the report server database.
-
-      
- SELECT a.Path, a.Name as FullName,
- SUBSTRING(a.Name, 1, CHARINDEX('.', a.Name)-1) as ReportName,
- SUBSTRING(a.Name, CHARINDEX('.', a.Name)+1, 1000) as DesignName,
- a.Parameter, b.Name, b.Extension
- FROM Catalog a
- JOIN DataSource b
- ON a.ItemID = b.ItemID
- WHERE b.Name = 'DynamicsAXOLAP' 
- Order by a.Name, b.Name, a.Path          
-
-The result is like this:
-
-There are report name, design name and an XML presentation of the Parameters. The ReportName column contains the name of the reports, which match the nodes under \SSRS Reports\Reports in AOT.
-
-This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
-        <author>
-            <name>Dominic Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AX2012 - Listing reports which run against AX SSAS Cubes]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:98da6721-d436-4bec-9501-1c87e78e2429</id>
-        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/ax2012-listing-reports-which-run-against-ax-ssas-cubes"/>
-        <updated>2015-06-05T13:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Just to share a quick tip. If you need to know which SSRS reports in AX gather data from AX OLAP cubes, you can run the query below in SSMS against the report server database.
-
-      
- SELECT a.Path, a.Name as FullName,
- SUBSTRING(a.Name, 1, CHARINDEX('.', a.Name)-1) as ReportName,
- SUBSTRING(a.Name, CHARINDEX('.', a.Name)+1, 1000) as DesignName,
- a.Parameter, b.Name, b.Extension
- FROM Catalog a
- JOIN DataSource b
- ON a.ItemID = b.ItemID
- WHERE b.Name = 'DynamicsAXOLAP' 
- Order by a.Name, b.Name, a.Path          
-
-The result is like this:
-
-There are report name, design name and an XML presentation of the Parameters. The ReportName column contains the name of the reports, which match the nodes under \SSRS Reports\Reports in AOT.
-
-This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
-        <author>
-            <name>Dominic Lee</name>
         </author>
     </entry>
 </feed>
