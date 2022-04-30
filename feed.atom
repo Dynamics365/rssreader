@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-04-29T01:51:43.373Z</updated>
+    <updated>2022-04-30T01:52:13.294Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meet the developers combining Power Platform and Azure to go faster]]></title>
+        <id>meet-the-developers-combining-power-platform-and-azure-to-go-faster</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/meet-the-developers-combining-power-platform-and-azure-to-go-faster/"/>
+        <updated>2022-04-29T08:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Software developers around the world are embracing low-code as a powerful part of their toolkit — they look at Power Platform as the next layer of abstraction that reduces repeated work, adds to their skill set, and lets them focus their coding energy on the problems that matter most. The increased level of productivity is also changing the way these developers work with their users — as fusion teams creating a much more active and rewarding environment for building impactful solutions faster than ever before.
+Let’s meet a few of these developers and look at examples of solutions built using Power Platform along with Azure services.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing General Availability (GA) for In-app notifications in Model-driven apps]]></title>
         <id>announcing-general-availability-ga-for-in-app-notifications-in-model-driven-apps</id>

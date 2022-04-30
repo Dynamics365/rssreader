@@ -5326,6 +5326,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "meet-the-developers-combining-power-platform-and-azure-to-go-faster",
+          "author": null,
+          "description": "Software developers around the world are embracing low-code as a powerful part of their toolkit — they look at Power Platform as the next layer of abstraction that reduces repeated work, adds to their skill set, and lets them focus their coding energy on the problems that matter most. The increased level of productivity is also changing the way these developers work with their users — as fusion teams creating a much more active and rewarding environment for building impactful solutions faster than ever before.\r\nLet’s meet a few of these developers and look at examples of solutions built using Power Platform along with Azure services.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/meet-the-developers-combining-power-platform-and-azure-to-go-faster/",
+          "publishedOn": "2022-04-29T08:00:31.000Z",
+          "wordCount": 3765,
+          "title": "Meet the developers combining Power Platform and Azure to go faster",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/04/ProDevProfiles1.jpg"
+        },
+        {
           "id": "announcing-general-availability-ga-for-in-app-notifications-in-model-driven-apps",
           "author": null,
           "description": "We are happy to announce that the in-app notifications feature has reached General Availability (GA).",
