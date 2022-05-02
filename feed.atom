@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-01T02:09:40.816Z</updated>
+    <updated>2022-05-02T01:51:59.722Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics Partner Roundup: ERP go-lives; AEC win; Reporting integration]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:31c19032-8edb-48b7-9499-61d6d1ded85c</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-partner-roundup-erp-go-lives-aec-win-reporting-integration"/>
+        <updated>2022-04-30T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this week's Microsoft Dynamics Partner News Roundup: 
+ 
+ Microsoft Dynamics partner announces go-live of Dynamics 365
+Finance and Supply Chain ERP at Herma Group 
+ MATCH Hospitality selects InTWO for Dynamics 365 ERP roll-out
+in Qatar 
+ SmithGroup... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet the developers combining Power Platform and Azure to go faster]]></title>
         <id>meet-the-developers-combining-power-platform-and-azure-to-go-faster</id>
