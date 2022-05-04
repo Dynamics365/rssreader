@@ -5336,6 +5336,26 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "announcing-new-data-sources-for-the-virtual-connection-provider",
+          "author": null,
+          "description": "I am happy to announce that we are adding Excel and SharePoint to the Virtual Connection Providers for Virtual Tables. You may have used the SQL virtual connection provider during its public preview and now we are happy to respond to you requests for more data sources by enabling this functionality for two of the largest external data sources for Power Apps.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-new-data-sources-for-the-virtual-connection-provider/",
+          "publishedOn": "2022-05-03T11:26:17.000Z",
+          "wordCount": 1003,
+          "title": "Announcing New Data Sources for the Virtual Connection Provider",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "6-people-who-changed-careers-with-low-code-from-power-apps",
+          "author": null,
+          "description": "The tech sector is booming with jobs and opportunities. But for some people, the question is: how do I get in? Few people have degrees in computer science, IT, or engineering—so, coding jobs seem out of reach. However, with low-code app tools, some grit and curiosity, anyone can now realize a career in tech. This is one of the most exciting elements of Microsoft Power Platform.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/6-people-who-changed-careers-with-low-code-from-power-apps/",
+          "publishedOn": "2022-05-03T07:55:19.000Z",
+          "wordCount": 4096,
+          "title": "6 people who changed careers with low-code from Power Apps",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/05/CareerChangeBlog_Thumbnail.jpg"
+        },
+        {
           "id": "meet-the-developers-combining-power-platform-and-azure-to-go-faster",
           "author": null,
           "description": "Software developers around the world are embracing low-code as a powerful part of their toolkit — they look at Power Platform as the next layer of abstraction that reduces repeated work, adds to their skill set, and lets them focus their coding energy on the problems that matter most. The increased level of productivity is also changing the way these developers work with their users — as fusion teams creating a much more active and rewarding environment for building impactful solutions faster than ever before.\r\nLet’s meet a few of these developers and look at examples of solutions built using Power Platform along with Azure services.",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-03T01:52:17.260Z</updated>
+    <updated>2022-05-04T01:49:48.251Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing New Data Sources for the Virtual Connection Provider]]></title>
+        <id>announcing-new-data-sources-for-the-virtual-connection-provider</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-new-data-sources-for-the-virtual-connection-provider/"/>
+        <updated>2022-05-03T11:26:17.000Z</updated>
+        <summary type="html"><![CDATA[I am happy to announce that we are adding Excel and SharePoint to the Virtual Connection Providers for Virtual Tables. You may have used the SQL virtual connection provider during its public preview and now we are happy to respond to you requests for more data sources by enabling this functionality for two of the largest external data sources for Power Apps.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 people who changed careers with low-code from Power Apps]]></title>
+        <id>6-people-who-changed-careers-with-low-code-from-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/6-people-who-changed-careers-with-low-code-from-power-apps/"/>
+        <updated>2022-05-03T07:55:19.000Z</updated>
+        <summary type="html"><![CDATA[The tech sector is booming with jobs and opportunities. But for some people, the question is: how do I get in? Few people have degrees in computer science, IT, or engineering—so, coding jobs seem out of reach. However, with low-code app tools, some grit and curiosity, anyone can now realize a career in tech. This is one of the most exciting elements of Microsoft Power Platform.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Dynamics Partner Roundup: ERP go-lives; AEC win; Reporting integration]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:31c19032-8edb-48b7-9499-61d6d1ded85c</id>
