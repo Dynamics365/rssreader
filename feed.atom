@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-04T01:49:48.251Z</updated>
+    <updated>2022-05-05T01:44:51.667Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thank you to the Microsoft Power Platform community]]></title>
+        <id>thank-you-to-the-microsoft-power-platform-community</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/thank-you-to-the-microsoft-power-platform-community/"/>
+        <updated>2022-05-04T07:55:54.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Power Apps and Microsoft Power Platform have come a long way since we announced four years ago, and we’re excited to share some significant milestones that we have recently achieved.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing New Data Sources for the Virtual Connection Provider]]></title>
         <id>announcing-new-data-sources-for-the-virtual-connection-provider</id>

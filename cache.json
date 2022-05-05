@@ -5336,6 +5336,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "thank-you-to-the-microsoft-power-platform-community",
+          "author": null,
+          "description": "Microsoft Power Apps and Microsoft Power Platform have come a long way since we announced four years ago, and we’re excited to share some significant milestones that we have recently achieved.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/thank-you-to-the-microsoft-power-platform-community/",
+          "publishedOn": "2022-05-04T07:55:54.000Z",
+          "wordCount": 1530,
+          "title": "Thank you to the Microsoft Power Platform community",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/05/WIN22_Productivity_117.jpg"
+        },
+        {
           "id": "announcing-new-data-sources-for-the-virtual-connection-provider",
           "author": null,
           "description": "I am happy to announce that we are adding Excel and SharePoint to the Virtual Connection Providers for Virtual Tables. You may have used the SQL virtual connection provider during its public preview and now we are happy to respond to you requests for more data sources by enabling this functionality for two of the largest external data sources for Power Apps.",
