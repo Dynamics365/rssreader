@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-09T01:47:57.969Z</updated>
+    <updated>2022-05-10T01:20:55.771Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast Transcript: Joe Corigliano on Microsoft ISV strategy and building community]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d248862e-28d6-4393-8ed0-6732e70b32e1</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/podcast-transcript-joe-corigliano-on-microsoft-isv-strategy-and-building-community"/>
+        <updated>2022-05-09T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The following transcript is taken from our recent 
+ podcast episode with ISV strategist and Microsoft
+veteran  Joe Corigiliano on the complex and strategic
+relationship between Microsoft and its ISV partners. 
+ … 
+ JASON GUMPERT  00:01 
+ Welcome... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thank you to the Microsoft Power Platform community]]></title>
         <id>thank-you-to-the-microsoft-power-platform-community</id>
