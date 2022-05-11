@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-10T01:20:55.771Z</updated>
+    <updated>2022-05-11T01:52:20.188Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Updating ownership for Power Apps apps]]></title>
+        <id>updating-ownership-for-power-apps-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/updating-ownership-for-power-apps-apps/"/>
+        <updated>2022-05-10T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to update the ownership of a Power App (Model-driven and Canvas apps).]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast Transcript: Joe Corigliano on Microsoft ISV strategy and building community]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d248862e-28d6-4393-8ed0-6732e70b32e1</id>
@@ -20,6 +30,17 @@ relationship between Microsoft and its ISV partners.
  Welcome... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create A D365 Development Environment]]></title>
+        <id>https://dynamics365musings.com/?p=1908</id>
+        <link href="https://dynamics365musings.com/d365-development-environment/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-development-environment"/>
+        <updated>2022-05-09T13:33:04.000Z</updated>
+        <summary type="html"><![CDATA[In order to develop in Microsoft Dynamics 365 for Finance and Operations, you need a development environment. In this article, you will learn how to create a D365 development environment. Once this environment is setup, you can use it to perform testing of the system. As well as develop new functionality using Visual Studio. You... Continue Reading →
+The post Create A D365 Development Environment appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
         </author>
     </entry>
     <entry>
