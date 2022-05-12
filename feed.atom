@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-11T01:52:20.188Z</updated>
+    <updated>2022-05-12T01:51:35.112Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Development sprint scrum planning practices for Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:172cd775-586d-4b8d-ba6f-7990217ffe3e</id>
+        <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/development-sprint-scrum-planning-practices-for-microsoft-dynamics-365-finance-and-operations"/>
+        <updated>2022-05-11T10:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Development sprint scrum planning practices for Microsoft Dynamics 365 Finance and Operations
+
+Sharing some tips:
+
+
+Define solution backlog
+FDD: Feature/User Story?
+
+
+DevOps tracking/Queries/Sprint
+
+
+...(read more)]]></summary>
+        <author>
+            <name>Rahul Mohta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Access Migration to Power Apps and Dataverse is released to General Availability]]></title>
+        <id>access-migration-to-power-apps-and-dataverse-is-released-to-general-availability</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/access-migration-to-power-apps-and-dataverse-is-released-to-general-availability/"/>
+        <updated>2022-05-11T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Beginning today, Microsoft Access users can migrate their data into Power Apps and Dataverse.  Customers who have the current or monthly channel for Microsoft 365 and Office can update their Microsoft Access to make use of the Dataverse Connector and migration tool. The Access migration tool and connector provided within MS Access streamlines the process of migrating tables, relationships, and data with setup taking just a few minutes, and migration handled for you.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Updating ownership for Power Apps apps]]></title>
         <id>updating-ownership-for-power-apps-apps</id>

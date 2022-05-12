@@ -2597,6 +2597,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/happyd365fo",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:172cd775-586d-4b8d-ba6f-7990217ffe3e",
+          "author": "Rahul Mohta",
+          "description": "Development sprint scrum planning practices for Microsoft Dynamics 365 Finance and Operations\n\nSharing some tips:\n\n\nDefine solution backlog\nFDD: Feature/User Story?\n\n\nDevOps tracking/Queries/Sprint\n\n\n...(read more)",
+          "link": "https://community.dynamics.com/ax/b/happyd365fo/posts/development-sprint-scrum-planning-practices-for-microsoft-dynamics-365-finance-and-operations",
+          "publishedOn": "2022-05-11T10:43:30.000Z",
+          "wordCount": 1000,
+          "title": "Development sprint scrum planning practices for Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:56da79c8-d5ce-4dea-b228-d577d2dea277",
           "author": "Rahul Mohta",
           "description": "customer change approval in Microsoft Dynamics 365 Finance and Operations\n\nTo setup , enable go to\n\n\nAccounts receivable > Setup > Accounts receivable parameters.\n\n\nOn the General tab...(read more)",
@@ -5355,6 +5365,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "access-migration-to-power-apps-and-dataverse-is-released-to-general-availability",
+          "author": null,
+          "description": "Beginning today, Microsoft Access users can migrate their data into Power Apps and Dataverse.  Customers who have the current or monthly channel for Microsoft 365 and Office can update their Microsoft Access to make use of the Dataverse Connector and migration tool. The Access migration tool and connector provided within MS Access streamlines the process of migrating tables, relationships, and data with setup taking just a few minutes, and migration handled for you.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/access-migration-to-power-apps-and-dataverse-is-released-to-general-availability/",
+          "publishedOn": "2022-05-11T08:00:00.000Z",
+          "wordCount": 1107,
+          "title": "Access Migration to Power Apps and Dataverse is released to General Availability",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/05/Accessmigrationlogos.jpg"
+        },
         {
           "id": "updating-ownership-for-power-apps-apps",
           "author": null,
