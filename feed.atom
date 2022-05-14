@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-13T01:54:13.291Z</updated>
+    <updated>2022-05-14T01:58:29.624Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: What does Microsoft's Cloud Partner Program mean for Dynamics partners?]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a459ce57-3aec-4c5d-b8b6-ff54135fb4b7</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-what-does-microsoft-s-cloud-partner-program-mean-for-dynamics-partners"/>
+        <updated>2022-05-13T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft revealed its plans to revamp its partner model
+recently, replacing the Partner Network with the 
+ Cloud Partner Program . In the Dynamics 365 and
+Power Platform space, veteran partners have already started to take
+measure of the impact of... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Development sprint scrum planning practices for Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:172cd775-586d-4b8d-ba6f-7990217ffe3e</id>
