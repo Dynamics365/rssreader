@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-16T01:39:25.728Z</updated>
+    <updated>2022-05-17T01:43:25.609Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Azure Monitor with D365 FO On-premises]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ac7673da-5256-4677-a6b4-39709230065a</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/oversee-d365-fo-on-premises-deployments-with-azure-monitor"/>
+        <updated>2022-05-15T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I would like to share field experience and provide you with a quick overview of Azure Monitor and demonstrate how fast and easily you can build a tool that can help you to monitor yo...(read more)]]></summary>
+        <author>
+            <name>Eugene Dmytriienko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSDW Podcast: What does Microsoft's Cloud Partner Program mean for Dynamics partners?]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a459ce57-3aec-4c5d-b8b6-ff54135fb4b7</id>
@@ -3326,6 +3336,16 @@ ariste.info PriceDisc: getting prices the right way]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GA release of Large file and Image support in Power Apps canvas and UCI]]></title>
+        <id>ga-release-of-large-file-and-image-support-in-power-apps-canvas-and-uci</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/ga-release-of-large-file-and-image-support-in-power-apps-canvas-and-uci/"/>
+        <updated>2021-10-18T11:00:55.000Z</updated>
+        <summary type="html"><![CDATA[GA Support for File and Image in Power App Canvas]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Can ax 2012 R2 upgraded to D365 F&O directly ?]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6249f408-8b2d-431d-892d-f2698bff2acb</id>
         <link href="https://community.dynamics.com/ax/b/technicaltutorialsformsdynamicsax2012/posts/can-ax-2012-r2-upgraded-to-d365-f-o-directly-2090093625"/>
@@ -4495,6 +4515,16 @@ Insights with Microsoft technologies all combined, as part of Industry 4.0
 concept - let’s go !]]></summary>
         <author>
             <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Platform: Learning Resources]]></title>
+        <id>microsoft-powerapps-learning-resources</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/"/>
+        <updated>2021-04-15T12:00:37.000Z</updated>
+        <summary type="html"><![CDATA[As members of the Power CAT team driving customer success and adoption, we often get asked for a summary of resources to share with customers on their Power Platform journey. This blog post includes a set of links we’ve curated to help novice, intermediate and advanced users as they take this journey with us.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>

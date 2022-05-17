@@ -4865,6 +4865,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axinthefield",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ac7673da-5256-4677-a6b4-39709230065a",
+          "author": "Eugene Dmytriienko",
+          "description": "In this post I would like to share field experience and provide you with a quick overview of Azure Monitor and demonstrate how fast and easily you can build a tool that can help you to monitor yo...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/oversee-d365-fo-on-premises-deployments-with-azure-monitor",
+          "publishedOn": "2022-05-15T00:22:00.000Z",
+          "wordCount": 2170,
+          "title": "Using Azure Monitor with D365 FO On-premises",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8b31e7a7-9243-4ae6-af67-d7b9ab0ae4c5",
           "author": "Said Nikjou",
           "description": "Azure Data Factory is a cloud-based data integration service that allows you to create data-driven workflows in the cloud for orchestrating and automating data movement and transformation. Using Azur...(read more)",
@@ -5724,6 +5734,26 @@
           "wordCount": 974,
           "title": "Localizing content on a custom page",
           "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "ga-release-of-large-file-and-image-support-in-power-apps-canvas-and-uci",
+          "author": null,
+          "description": "GA Support for File and Image in Power App Canvas",
+          "link": "https://powerapps.microsoft.com/en-us/blog/ga-release-of-large-file-and-image-support-in-power-apps-canvas-and-uci/",
+          "publishedOn": "2021-10-18T11:00:55.000Z",
+          "wordCount": 1022,
+          "title": "GA release of Large file and Image support in Power Apps canvas and UCI",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "microsoft-powerapps-learning-resources",
+          "author": null,
+          "description": "As members of the Power CAT team driving customer success and adoption, we often get asked for a summary of resources to share with customers on their Power Platform journey. This blog post includes a set of links we’ve curated to help novice, intermediate and advanced users as they take this journey with us.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/",
+          "publishedOn": "2021-04-15T12:00:37.000Z",
+          "wordCount": 2566,
+          "title": "Microsoft Power Platform: Learning Resources",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2020/09/PowerPlatformGraphic_learningresources.jpg"
         }
       ]
     }
