@@ -584,6 +584,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bc85f35d-b840-4d29-98be-0bf9a471f81f",
+          "author": "MSDynamicsWorld.com",
+          "description": "The marketplace for supply\r\nchain-focused ISV solutions in the Microsoft Business Applications\r\nspace has been growing rapidly in recent years, even as Microsoft\r\nhas expanded its functional footprint for Dynamics 365 Finance and\r\nSupply Chain Management... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/event-preview-supply-chain-showcase-for-dynamics-365-finance-supply-chain-management",
+          "publishedOn": "2022-05-18T17:00:00.000Z",
+          "wordCount": 948,
+          "title": "Event Preview: Supply Chain Showcase for Dynamics 365 Finance & Supply Chain Management",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a459ce57-3aec-4c5d-b8b6-ff54135fb4b7",
           "author": "MSDynamicsWorld.com",
           "description": "Microsoft revealed its plans to revamp its partner model\r\nrecently, replacing the Partner Network with the \r\n Cloud Partner Program . In the Dynamics 365 and\r\nPower Platform space, veteran partners have already started to take\r\nmeasure of the impact of... Read the full text.",
@@ -5385,6 +5395,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-the-general-availability-of-the-modern-app-designer",
+          "author": null,
+          "description": "Power apps is excited to announce the general availability of the modern app designer, which enables a seamless, intuitive way to build robust model-driven apps.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-the-modern-app-designer/",
+          "publishedOn": "2022-05-19T09:00:00.000Z",
+          "wordCount": 742,
+          "title": "Announcing the general availability of the Power Apps modern app designer",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "access-migration-to-power-apps-and-dataverse-is-released-to-general-availability",
           "author": null,

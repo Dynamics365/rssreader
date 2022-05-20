@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-19T01:53:46.496Z</updated>
+    <updated>2022-05-20T01:44:46.629Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing the general availability of the Power Apps modern app designer]]></title>
+        <id>announcing-the-general-availability-of-the-modern-app-designer</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-the-modern-app-designer/"/>
+        <updated>2022-05-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Power apps is excited to announce the general availability of the modern app designer, which enables a seamless, intuitive way to build robust model-driven apps.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Preview: Supply Chain Showcase for Dynamics 365 Finance & Supply Chain Management]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bc85f35d-b840-4d29-98be-0bf9a471f81f</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/event-preview-supply-chain-showcase-for-dynamics-365-finance-supply-chain-management"/>
+        <updated>2022-05-18T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The marketplace for supply
+chain-focused ISV solutions in the Microsoft Business Applications
+space has been growing rapidly in recent years, even as Microsoft
+has expanded its functional footprint for Dynamics 365 Finance and
+Supply Chain Management... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Azure Monitor with D365 FO On-premises]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ac7673da-5256-4677-a6b4-39709230065a</id>
