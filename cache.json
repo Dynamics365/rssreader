@@ -5396,6 +5396,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "power-platform-command-line-new-updates-april-refresh-v1-15-x",
+          "author": null,
+          "description": "New Details of the April Refresh",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-platform-command-line-new-updates-april-refresh-v1-15-x/",
+          "publishedOn": "2022-05-20T09:00:00.000Z",
+          "wordCount": 928,
+          "title": "Power Platform Command Line: New Updates (April Refresh) v1.15.x",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "announcing-the-general-availability-of-the-modern-app-designer",
           "author": null,
           "description": "Power apps is excited to announce the general availability of the modern app designer, which enables a seamless, intuitive way to build robust model-driven apps.",

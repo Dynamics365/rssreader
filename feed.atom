@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-20T01:44:46.629Z</updated>
+    <updated>2022-05-21T01:19:40.252Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Command Line: New Updates (April Refresh) v1.15.x]]></title>
+        <id>power-platform-command-line-new-updates-april-refresh-v1-15-x</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-command-line-new-updates-april-refresh-v1-15-x/"/>
+        <updated>2022-05-20T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New Details of the April Refresh]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing the general availability of the Power Apps modern app designer]]></title>
         <id>announcing-the-general-availability-of-the-modern-app-designer</id>
