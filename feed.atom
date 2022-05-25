@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-24T01:49:45.305Z</updated>
+    <updated>2022-05-25T01:48:57.710Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New: turn images and designs into apps using AI-powered express design]]></title>
+        <id>new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds/"/>
+        <updated>2022-05-24T07:55:41.000Z</updated>
+        <summary type="html"><![CDATA[The growth of low code right now is staggering. Gartner believes that over the next three years 70 percent of new applications inside of companies are going to be developed using low code.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing the preview of Microsoft Power Pages]]></title>
+        <id>announcing-the-preview-of-microsoft-power-pages</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-the-preview-of-microsoft-power-pages/"/>
+        <updated>2022-05-24T07:55:32.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the  preview of Microsoft Power Pages, the fifth product in the Microsoft Power Platform family.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing rich text editor for Power Apps portals]]></title>
+        <id>announcing-rich-text-editor-for-power-apps-portals</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-rich-text-editor-for-power-apps-portals/"/>
+        <updated>2022-05-24T02:44:24.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to announce the Rich text Editor support in Power Apps portals is now available with portals version 9.4.3.x.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use A D365 Number Sequence]]></title>
+        <id>https://dynamics365musings.com/?p=1981</id>
+        <link href="https://dynamics365musings.com/d365-number-sequence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-number-sequence"/>
+        <updated>2022-05-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A D365 number sequence allows the system to generate a unique value. As well as use a defined format for the type of record being used. This is extremely helpful. There are sometimes, such as with item numbers, where you might have a specific value you use to already identify something. On the other hand,... Continue Reading →
+The post How To Use A D365 Number Sequence appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Platform Command Line: New Updates (April Refresh) v1.15.x]]></title>
         <id>power-platform-command-line-new-updates-april-refresh-v1-15-x</id>

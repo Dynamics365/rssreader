@@ -1907,6 +1907,16 @@
       "siteUrl": "https://dynamics365musings.com",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=1981",
+          "author": "peter.ramer",
+          "description": "A D365 number sequence allows the system to generate a unique value. As well as use a defined format for the type of record being used. This is extremely helpful. There are sometimes, such as with item numbers, where you might have a specific value you use to already identify something. On the other hand,... Continue Reading →\nThe post How To Use A D365 Number Sequence appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-number-sequence/?utm_source=rss&utm_medium=rss&utm_campaign=d365-number-sequence",
+          "publishedOn": "2022-05-23T13:00:00.000Z",
+          "wordCount": 2087,
+          "title": "How To Use A D365 Number Sequence",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/05/How-To-Use-A-D365-Number-Sequence.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=1908",
           "author": "peter.ramer",
           "description": "In order to develop in Microsoft Dynamics 365 for Finance and Operations, you need a development environment. In this article, you will learn how to create a D365 development environment. Once this environment is setup, you can use it to perform testing of the system. As well as develop new functionality using Visual Studio. You... Continue Reading →\nThe post Create A D365 Development Environment appeared first on Dynamics 365 Musings.",
@@ -5395,6 +5405,36 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds",
+          "author": null,
+          "description": "The growth of low code right now is staggering. Gartner believes that over the next three years 70 percent of new applications inside of companies are going to be developed using low code.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds/",
+          "publishedOn": "2022-05-24T07:55:41.000Z",
+          "wordCount": 1411,
+          "title": "New: turn images and designs into apps using AI-powered express design",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/05/Untitled.png"
+        },
+        {
+          "id": "announcing-the-preview-of-microsoft-power-pages",
+          "author": null,
+          "description": "We are pleased to announce the  preview of Microsoft Power Pages, the fifth product in the Microsoft Power Platform family.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-the-preview-of-microsoft-power-pages/",
+          "publishedOn": "2022-05-24T07:55:32.000Z",
+          "wordCount": 698,
+          "title": "Announcing the preview of Microsoft Power Pages",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/05/165089_PP_Power-Pages_ImageResize_ProductAnnouncement_1200x800.jpg"
+        },
+        {
+          "id": "announcing-rich-text-editor-for-power-apps-portals",
+          "author": null,
+          "description": "We are happy to announce the Rich text Editor support in Power Apps portals is now available with portals version 9.4.3.x.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-rich-text-editor-for-power-apps-portals/",
+          "publishedOn": "2022-05-24T02:44:24.000Z",
+          "wordCount": 627,
+          "title": "Announcing rich text editor for Power Apps portals",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "power-platform-command-line-new-updates-april-refresh-v1-15-x",
           "author": null,
