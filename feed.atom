@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-26T01:51:33.466Z</updated>
+    <updated>2022-05-27T01:47:43.197Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The remote certificate is invalid according to the validation procedure]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2202</id>
+        <link href="https://anithasantosh.wordpress.com/2022/05/26/the-remote-certificate-is-invalid-according-to-the-validation-procedure/"/>
+        <updated>2022-05-26T09:29:04.000Z</updated>
+        <summary type="html"><![CDATA[We faced the below issues in our dev environments and the team was unable to access the URL. As a workaround, in ‘Microsoft Edge’ we had an option of clicking ‘Advanced’ button which allowed us to redirect to the URL. … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New: turn images and designs into apps using AI-powered express design]]></title>
         <id>new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds</id>
