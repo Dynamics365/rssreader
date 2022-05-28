@@ -1790,6 +1790,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2218",
+          "author": "AnithaEswaran",
+          "description": "When a VM is already configured with tfs using one user id, until the workspace is deleted from Source control, another user will not able to configure it . In order to execute the below command to delete the workspace … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/05/27/the-working-folder-source-path-is-already-in-use-by-the-workspace-workspace-nameowner-on-computer-tfs-server/",
+          "publishedOn": "2022-05-27T09:11:26.000Z",
+          "wordCount": 747,
+          "title": "The working folder [source path] is already in use by the workspace [workspace name];[owner] on computer [tfs server]",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2202",
           "author": "AnithaEswaran",
           "description": "We faced the below issues in our dev environments and the team was unable to access the URL. As a workaround, in ‘Microsoft Edge’ we had an option of clicking ‘Advanced’ button which allowed us to redirect to the URL. … Continue reading →",
@@ -2422,6 +2432,16 @@
       "feedUrl": "https://dynvision365.com/feed/",
       "siteUrl": "https://dynvision365.com",
       "articles": [
+        {
+          "id": "http://dynvision365.com/?p=903",
+          "author": "adalhix",
+          "description": "Most businesses handle a tremendous amount of data on a daily basis, when one of the main challenging tasks during the ERP life cycle systems, is its capability to offer agile and prebuilt modern data integration patterns for complex business scenarios to communitate easily with other systems, and ensure continiuous data integration and data storage … Lire la suite Data export via Power automate and Data management package API →",
+          "link": "https://dynvision365.com/2022/05/27/data-export-via-power-automate-and-data-management-package-api/",
+          "publishedOn": "2022-05-27T19:21:01.000Z",
+          "wordCount": 1501,
+          "title": "Data export via Power automate and Data management package API",
+          "imageUrl": "https://adalhix.files.wordpress.com/2022/05/safeimagekit-resized-imgpng.png"
+        },
         {
           "id": "http://dynvision365.com/?p=812",
           "author": "adalhix",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-05-27T01:47:43.197Z</updated>
+    <updated>2022-05-28T01:42:25.684Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data export via Power automate and Data management package API]]></title>
+        <id>http://dynvision365.com/?p=903</id>
+        <link href="https://dynvision365.com/2022/05/27/data-export-via-power-automate-and-data-management-package-api/"/>
+        <updated>2022-05-27T19:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Most businesses handle a tremendous amount of data on a daily basis, when one of the main challenging tasks during the ERP life cycle systems, is its capability to offer agile and prebuilt modern data integration patterns for complex business scenarios to communitate easily with other systems, and ensure continiuous data integration and data storage … Lire la suite Data export via Power automate and Data management package API →]]></summary>
+        <author>
+            <name>adalhix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The working folder [source path] is already in use by the workspace [workspace name];[owner] on computer [tfs server]]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2218</id>
+        <link href="https://anithasantosh.wordpress.com/2022/05/27/the-working-folder-source-path-is-already-in-use-by-the-workspace-workspace-nameowner-on-computer-tfs-server/"/>
+        <updated>2022-05-27T09:11:26.000Z</updated>
+        <summary type="html"><![CDATA[When a VM is already configured with tfs using one user id, until the workspace is deleted from Source control, another user will not able to configure it . In order to execute the below command to delete the workspace … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The remote certificate is invalid according to the validation procedure]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2202</id>
