@@ -584,6 +584,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d39fe65d-10d1-453c-8981-37660823f32d",
+          "author": "MSDynamicsWorld.com",
+          "description": "While often out of the spotlight, hundreds of Microsoft Dynamics\r\nprofessionals in Ukraine have worked for years with customers and\r\npartners around the world. Like the rest of their country, they saw\r\ntheir lives upended by the Russian invasion in February... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-update-on-the-dynamics-community-in-ukraine",
+          "publishedOn": "2022-05-31T17:00:00.000Z",
+          "wordCount": 951,
+          "title": "MSDW Podcast: Update on the Dynamics community in Ukraine",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bc85f35d-b840-4d29-98be-0bf9a471f81f",
           "author": "MSDynamicsWorld.com",
           "description": "The marketplace for supply\r\nchain-focused ISV solutions in the Microsoft Business Applications\r\nspace has been growing rapidly in recent years, even as Microsoft\r\nhas expanded its functional footprint for Dynamics 365 Finance and\r\nSupply Chain Management... Read the full text.",
@@ -5435,6 +5445,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-the-general-availability-of-canvas-components-and-component-libraries",
+          "author": null,
+          "description": "Canvas components and components libraries empower low-code/no-code citizen developers to build reusable UX components which can be used across screens in an app or across apps in an environment. Canvas libraries along with the apps can be packaged and moved to other environments using standard Dataverse solutions and you can push component updates through solutions.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-canvas-components-and-component-libraries/",
+          "publishedOn": "2022-06-01T10:49:43.000Z",
+          "wordCount": 961,
+          "title": "Announcing the general availability of canvas components and component libraries",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds",
           "author": null,

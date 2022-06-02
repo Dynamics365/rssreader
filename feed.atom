@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-01T02:02:59.480Z</updated>
+    <updated>2022-06-02T01:52:47.538Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing the general availability of canvas components and component libraries]]></title>
+        <id>announcing-the-general-availability-of-canvas-components-and-component-libraries</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-canvas-components-and-component-libraries/"/>
+        <updated>2022-06-01T10:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Canvas components and components libraries empower low-code/no-code citizen developers to build reusable UX components which can be used across screens in an app or across apps in an environment. Canvas libraries along with the apps can be packaged and moved to other environments using standard Dataverse solutions and you can push component updates through solutions.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: Update on the Dynamics community in Ukraine]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d39fe65d-10d1-453c-8981-37660823f32d</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-update-on-the-dynamics-community-in-ukraine"/>
+        <updated>2022-05-31T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While often out of the spotlight, hundreds of Microsoft Dynamics
+professionals in Ukraine have worked for years with customers and
+partners around the world. Like the rest of their country, they saw
+their lives upended by the Russian invasion in February... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data export via Power automate and Data management package API]]></title>
         <id>http://dynvision365.com/?p=903</id>
