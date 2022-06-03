@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-02T01:52:47.538Z</updated>
+    <updated>2022-06-03T01:35:42.504Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365FO DIXF : No update if the record already exists]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2223</id>
+        <link href="https://anithasantosh.wordpress.com/2022/06/02/d365fo-dixf-no-update-if-the-record-already-exists/"/>
+        <updated>2022-06-02T07:46:07.000Z</updated>
+        <summary type="html"><![CDATA[DIXF framework updates the existing records based on the Primary key defined in the entity. But there are scenarios where we don`t need to trigger an update . For instance, if I am importing a vendor file with primary address … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing the general availability of Power Apps modern commanding]]></title>
+        <id>announcing-the-general-availability-of-power-apps-modern-commanding</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-power-apps-modern-commanding/"/>
+        <updated>2022-06-02T07:01:31.000Z</updated>
+        <summary type="html"><![CDATA[We’re very excited to announce General Availability for modern commanding. Commanding (formerly known as the Ribbon in Model-driven apps) has been re-imagined from the ground up and many new capabilities are available with this GA release.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing the general availability of canvas components and component libraries]]></title>
         <id>announcing-the-general-availability-of-canvas-components-and-component-libraries</id>
@@ -505,6 +525,19 @@ The post How To Insert Data In D365 appeared first on Dynamics 365 Musings.]]></
     </entry>
     <entry>
         <title type="html"><![CDATA[Part 4 - GitHub]]></title>
+        <id>1651 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/part-4-github"/>
+        <updated>2022-04-07T01:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Can you use Git Hub? yes.
+GitHub is also an option you could pursue when moving to Git. GitHub has a lot of new features and offerings that Azure DevOps does not have. However, there is basically no documentation from MSFT on how to configure builds and various other automation options in GitHub. I'm sure it's possible but there will be a fair amount of guess work. Getting your pipelines fully converted to YAML will be the first step in making the transition to GitHub.
+Community (Free)
+I use GitHub to host all of my community projects which is great for that. I can share the code and anyone can pick it up and use it as they see fit. Private repos are now also an option. However, these still below to a named person so you'd want a service account or centrally managed account to create all p…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 4 - GitHub]]></title>
         <id>1651 at http://www.atomicax.com</id>
         <link href="http://www.atomicax.com/content/part-4-github"/>
         <updated>2022-04-07T01:22:40.000Z</updated>
@@ -517,6 +550,17 @@ For 4 USD a month, you can upgrade 1 account on GitHub to GitHub Pro, which give
 Thoughts
  I think the prospect of using Github for community or personal development for F&O is a good idea. Git is simple and so is GitHub. You can work and share your code with whomever you like. Additionally, private repos are now free so you can use those, too.
 However, the prospect of using Github for an implementation or support project is a much harder sell for the client or organization. While I'm pretty sure you could use GitHub to get to around the same service level as Azure DevOps, there is a fair amount of risk. That risk is, in my opinion, simply too great to suggest using it for the time being. There is nearly no documentation on the subject and there is no one at MSFT you can call for help specific to F&O. Although it may look like Azure DevOps isn't the favorite for MSFT in terms of product hype or feature development, DevOps is still a proven tool we can rely on. I got the chart below from this site but I think it's really helpful given the context.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 3 - Developing with VS 2019]]></title>
+        <id>1650 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/part-3-developing-vs-2019"/>
+        <updated>2022-04-07T00:59:06.000Z</updated>
+        <summary type="html"><![CDATA[What's it like developing using Git?
+Developing in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …]]></summary>
         <author>
             <name>Nathan Clouse</name>
         </author>
@@ -586,11 +630,35 @@ The post How To Use The D365 Table Browser appeared first on Dynamics 365 Musing
     </entry>
     <entry>
         <title type="html"><![CDATA[Part 2 - Lifecycle of a Branch]]></title>
+        <id>1649 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/part-2-lifecycle-branch"/>
+        <updated>2022-04-04T02:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Let's take a look at the lifecyle of a Git Branch.
+Unlike TFVC, branches in Git are typically short lived when it comes to development. In TFVC you may have a branch for each developer or a branch for development in general, another for test then a release branch. In Git, we will be using branches differently. We'll get a change request as a work item in DevOps, review it, create a branch, assign to a developer to do the work plus commit it, optional build automation may occur, next a pull request, or PR, with a review and then the changes are accepted into the parent branch. We'll walk through this in specific details. In this example, we'll be using a bug but you can replace "bug" with "Feature", "Product Backlog Item", "Change Request", "Customization", "Enhancement", or any other word …]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 2 - Lifecycle of a Branch]]></title>
         <id>1649 at http://www.atomicax.com</id>
         <link href="http://www.atomicax.com/content/part-2-lifecycle-branch"/>
         <updated>2022-04-04T02:00:49.000Z</updated>
         <summary type="html"><![CDATA[Let's take a look at the lifecyle of a Git Branch.
 Unlike TFVC, branches in Git are typically short lived when it comes to development. In TFVC you may have a branch for each developer or a branch for development in general, another for test then a release branch. In Git, we will be using branches differently. We'll get a change request as a work item in DevOps, review it, create a branch, assign to a developer to do the work plus commit it, optional build automation may occur, next a pull request, or PR, with a review and then the changes are accepted into the parent branch. We'll walk through this in specific details. In this example, we'll be using a bug but you can replace "bug" with "Feature", "Product Backlog Item", "Change Request", "Customization", "Enhancement", or any other word …]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 1 - Package Management]]></title>
+        <id>1648 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/part-1-package-management"/>
+        <updated>2022-04-03T18:37:59.000Z</updated>
+        <summary type="html"><![CDATA[How Shoud I Manage Packages in Git?
+There are 2 options when looking at Git for managing your X++ code. The main driver for which option you select is if you will only ever have 1 package in your code base or more than 1. This include any ISVs or any other item that will have a code footprint anywhere in F&O. To learn more about packages, please see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-tools/models. 
+1 Package as a Branch
+This option is the simplest. You would have 1 package as a branch. A good example of this is this GitHub project. It's a small package that add a features, it only depends on OOTB F&O packages and models and has no other dependencies not does anything else depend on it. It doesn't get any more simple than this. However, this may not work…]]></summary>
         <author>
             <name>Nathan Clouse</name>
         </author>
@@ -616,6 +684,58 @@ This option is the simplest. You would have 1 package as a branch. A good exampl
         <summary type="html"><![CDATA[Budget Control Data Maintenance is a few years old now but it isn't something that most folks are familiar with yet. Today I will answer common questions on how this works and what benefits it pro...(read more)]]></summary>
         <author>
             <name>Ryan Sandness MSFT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Git with 1 Package]]></title>
+        <id>1654 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/using-git-1-package"/>
+        <updated>2022-04-01T12:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 04/01/22.
+
+
+
+
+
+
+
+
+
+
+
+
+Using Git with 1 Package
+When using Git for F&O, there are 2 basic flavors of using it; with 1 package or more than 1 package. This post will cover how to setup Git for use with 1 package.
+To learn out to create a Git repo in Azure DevOps, please refer to MSFT documentation. To learn how to create a repo on Github, please refer to GitHub documentation.
+Using Azure DevOps
+In your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then Connect to a project. 
+
+Next, select your repo and place it in your PackagesLocalDirectory. K drive on cloud hosted machines and C on VHDs. 
+
+Wait for it to clone and, that's it. Refresh your models like usual and you can develop against 1 package using Git in Azure DevOps. This is what the sync'd directory will look like. 
+
+Using GitHub
+In your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then click Clone 
+
+Log into GitHub then select your repo making sure to change the local path to include your PackagesLocalDirectory path.
+
+Click clone and wait. That's it. Your repo folder will look like this:
+
+Callout: If using VHD, drive will be the C drive rather than K drive.
+Conclusion
+Very straight forward process. However, when using this style of package manage, you will only ever be allowed 1 package. You can add as many models as you like but you'll only ever have 1 package. This includes ISV packages as well including binary or source packages. I recommend this style of management for personal projects or something you'll be sharing on GitHub. I wouldn't recommend this approach for use on an implementation project.
+ 
+
+
+
+
+View the discussion thread.
+
+
+
+Reported:]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
@@ -666,6 +786,21 @@ View the discussion thread.
 
 
 Reported:]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIT ALM Field Guide]]></title>
+        <id>1639 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/git-alm-field-guide"/>
+        <updated>2022-04-01T12:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Using Git rather than TFVC, a field guide.
+This collection of works will help you with moving from using TFVC to using Git for your x++ development. This page will have several chapters linked as they are published. However, how do you know which is the best fit for you, your team, your organization or your project? Let's take an inventory.
+You
+If you're reading this, I assume you're interested in getting away from TFVC for some reason, you're a technically focused individual, and you understand the differences between using Git and TFVC. 
+Your Team
+Your team should also be aware of what it takes to be successful in order to make a switch from TFVC to Git. They may need some additional training in order to get the the most out of Git. Developing and delivering with Git is a different exper…]]></summary>
         <author>
             <name>Nathan Clouse</name>
         </author>
@@ -841,6 +976,38 @@ The AX developer client already has a form under Tools ...(read more)]]></summar
     </entry>
     <entry>
         <title type="html"><![CDATA[Using Git with More than 1 Package]]></title>
+        <id>1655 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/using-git-more-1-package"/>
+        <updated>2022-03-26T03:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/25/22.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+Git      
+Source Control      
+
+Want to use Git with more than 1 Package? Let's review.
+The process to get Git working with F&O can be a little involved and it may not make sense the first time. The issue we're presented with is that Git assumes you are starting with nothing - a directory that doesn't exist. When you fetch source code - clone it - Git wants you to clone it into a directory that doesn't exist yet. Our PackagesLocalDirectory very much so already exists. So, we have to help Git by moving in pieces of the repo into the directory then get everything back in working order. There are a few different ways to do this: The Hard Way, the easier way, and the easiest way.
+ 
+The Hard Way
+We'll be using https://github.com/…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Git with More than 1 Package]]></title>
         <id>1655 at http://www.atomicax.com</id>
         <link href="http://www.atomicax.com/article/using-git-more-1-package"/>
         <updated>2022-03-26T03:16:29.000Z</updated>
@@ -867,6 +1034,47 @@ The process to get Git working with F&O can be a little involved and it may not 
  
 The Hard Way
 We'll be using https://github.com/NathanClouseAX/FO…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 5 - Pull Requests (PRs)]]></title>
+        <id>1652 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/part-5-pull-requests-prs"/>
+        <updated>2022-03-22T00:40:26.000Z</updated>
+        <summary type="html"><![CDATA[what is a pull request? how do they work? what do they signify?
+Create a Pull Request (PR)
+The code is done but not the work. The developer still has to singal that his work is complete. We'll want to create a Pull Request or PR for short. There are 2 ways to do this. The first is in VS, which will just redirect you to Azure DevOps. The second is Azure DevOps. In VS, it can be found here:
+
+In Azure DevOps, go to Repors, select your repo, select your branch then click "create a pull request".
+
+Inside the PR, you can add some details for the PR. Additionally, reviewers and actions can be configured inside DevOps.
+
+Notice you can select what you are creating a PR into. You can set a reviewer or additional reviewer if you'd like. Also notice that the PR is automagically associated with out bug work item. Let's create the PR.
+
+As you can see, it merged successfully on its own and now we, or the approver, can approve and complete. Typically we wouldn't approve our own PRs. We'll see this when we complete.
+
+We'll have an option for the merge type, if we want to use something different. Additionally, we have "complete associate work items after merging" checked as well as "delete bug200 after merging". This will resolve the bug setting it's status to done and deleting the branch we created for the work item called "bug200". Next, click "Complete merge". This is what the bug work item looks like after completing the PR:
+
+The work item's status is "Done". Also note the links section. We can see that we had a commit and PR. However, the link to branch is now gone because the branch itself is gone.
+Conclusion
+Because Git Branches allow us to pull everything up, rather the push specific changesets like in TFVC, we can more easily keep track of what is where. As a for instance, until bug 200's work gets a completed PR, I know it's only in the branch for that work item.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Blog Main Tag: 
+Git]]></summary>
         <author>
             <name>Nathan Clouse</name>
         </author>
@@ -920,6 +1128,38 @@ construction with its Construct 365 suite of products built on
 Dynamics 365... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Select FirstOnly vs Select FirstOnly ForceSelectOrder ForceNestedLoop]]></title>
+        <id>1647 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/select-firstonly-vs-select-firstonly-forceselectorder-forcenestedloop"/>
+        <updated>2022-03-16T02:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/15/22.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+forceselectorder      
+forcenestedloop      
+
+Let's explore what keywords forceSelectOrder and ForceNestedLoop do.
+Introduction
+The database access layer in X++ largely conceals it magic from us as developers and we hope it gets the SQL right - and it does. SQL is largely 99.9% accurate and about 95%-ish optimized for the workload presented. You can read more about some of the techniques we'll be using here. We'll be using keywords in an X++ select to how they change the query and what that change means. All tests below were run on a "warm" VHD using Contoso data - specifically USMF.
+Select FirstOnly SalesTable
+First, we'll start with a simple select firstonly on SalesTable. This took 30 milliseconds and generated the follow…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
@@ -1487,6 +1727,32 @@ comment for your suggestion .]]></summary>
         <summary type="html"><![CDATA[Transfer orders between warehouses is a common practice for businesses with multi-site and multi-warehouse operations for replenishing and sharing inventory. Transfer orders work by issuing product from a physical warehouse]]></summary>
         <author>
             <name>Tim Woods</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using ATL to Create Data to Model Data Volume Testing]]></title>
+        <id>1644 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/using-atl-create-data-model-data-volume-testing"/>
+        <updated>2022-02-09T01:33:15.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/08/22.
+
+
+
+
+
+
+
+
+
+
+
+
+What can we do with ATL to create some transactions? Let's take a look.
+After this post, I wanted to manufacture some data to better show that adding computed fields adds overhead for every operation within a data entity. That post somewhat showed it but I wanted something more cut and dry. I thought a good way to manufacture data in a Contoso environment would be use ATL, string together some ATL processes to create, pack, and invoice orders. In designing a way to do this, I had to fumble my way through how to do it. I wanted to add approximately 10 million processed orders. It didn't exactly work out but here is what I learned.
+Legal Entities
+Rather than specificially provide values for your known legal entities, you can create Demo Dat…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
@@ -7852,16 +8118,6 @@ Filed under: Uncategorized]]></summary>
         <updated>2015-07-15T07:41:42.000Z</updated>
         <summary type="html"><![CDATA[In AX 2012 R3, a new field appeared on the Customer form. The field is labelled ‘Automatic cancel’, and is so innocuous you may well have not even noticed it:
 The ‘Automatic cancel&#...(read more)]]></summary>
-        <author>
-            <name>Guy Terry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Nothing happens’ when posting a Purchase order product receipt]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:45b7ab24-3420-4e15-9190-a3568196070d</id>
-        <link href="https://community.dynamics.com/ax/b/guyterrysaxblog/posts/nothing-happens-when-posting-a-purchase-order-product-receipt"/>
-        <updated>2015-07-09T22:26:57.000Z</updated>
-        <summary type="html"><![CDATA[I’ve encountered a problem when posting a product receipt on a purchase order that you need to see to believe. For this reason, I’ve recorded a video which shows the problem and the cause....(read more)]]></summary>
         <author>
             <name>Guy Terry</name>
         </author>

@@ -1800,6 +1800,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2223",
+          "author": "AnithaEswaran",
+          "description": "DIXF framework updates the existing records based on the Primary key defined in the entity. But there are scenarios where we don`t need to trigger an update . For instance, if I am importing a vendor file with primary address … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/06/02/d365fo-dixf-no-update-if-the-record-already-exists/",
+          "publishedOn": "2022-06-02T07:46:07.000Z",
+          "wordCount": 792,
+          "title": "D365FO DIXF : No update if the record already exists",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2218",
           "author": "AnithaEswaran",
           "description": "When a VM is already configured with tfs using one user id, until the workspace is deleted from Source control, another user will not able to configure it . In order to execute the below command to delete the workspace … Continue reading →",
@@ -2101,8 +2111,18 @@
     {
       "title": "Atomic AX - Dynamics AX Tips, Tricks, How To's and Code",
       "feedUrl": "http://www.atomicax.com/rss.xml",
-      "siteUrl": "http://www.atomicax.com/frontpage",
+      "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
+        {
+          "id": "1651 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Can you use Git Hub? yes.\nGitHub is also an option you could pursue when moving to Git. GitHub has a lot of new features and offerings that Azure DevOps does not have. However, there is basically no documentation from MSFT on how to configure builds and various other automation options in GitHub. I'm sure it's possible but there will be a fair amount of guess work. Getting your pipelines fully converted to YAML will be the first step in making the transition to GitHub.\nCommunity (Free)\nI use GitHub to host all of my community projects which is great for that. I can share the code and anyone can pick it up and use it as they see fit. Private repos are now also an option. However, these still below to a named person so you'd want a service account or centrally managed account to create all p…",
+          "link": "https://www.atomicax.com/content/part-4-github",
+          "publishedOn": "2022-04-07T01:22:40.000Z",
+          "wordCount": 954,
+          "title": "Part 4 - GitHub",
+          "imageUrl": null
+        },
         {
           "id": "1651 at http://www.atomicax.com",
           "author": "Nathan Clouse",
@@ -2111,6 +2131,16 @@
           "publishedOn": "2022-04-07T01:22:40.000Z",
           "wordCount": 941,
           "title": "Part 4 - GitHub",
+          "imageUrl": null
+        },
+        {
+          "id": "1650 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "What's it like developing using Git?\nDeveloping in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …",
+          "link": "https://www.atomicax.com/content/part-3-developing-vs-2019",
+          "publishedOn": "2022-04-07T00:59:06.000Z",
+          "wordCount": 1276,
+          "title": "Part 3 - Developing with VS 2019",
           "imageUrl": null
         },
         {
@@ -2134,6 +2164,16 @@
           "imageUrl": null
         },
         {
+          "id": "1649 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Let's take a look at the lifecyle of a Git Branch.\nUnlike TFVC, branches in Git are typically short lived when it comes to development. In TFVC you may have a branch for each developer or a branch for development in general, another for test then a release branch. In Git, we will be using branches differently. We'll get a change request as a work item in DevOps, review it, create a branch, assign to a developer to do the work plus commit it, optional build automation may occur, next a pull request, or PR, with a review and then the changes are accepted into the parent branch. We'll walk through this in specific details. In this example, we'll be using a bug but you can replace \"bug\" with \"Feature\", \"Product Backlog Item\", \"Change Request\", \"Customization\", \"Enhancement\", or any other word …",
+          "link": "https://www.atomicax.com/content/part-2-lifecycle-branch",
+          "publishedOn": "2022-04-04T02:00:49.000Z",
+          "wordCount": 1144,
+          "title": "Part 2 - Lifecycle of a Branch",
+          "imageUrl": null
+        },
+        {
           "id": "1649 at http://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Let's take a look at the lifecyle of a Git Branch.\nUnlike TFVC, branches in Git are typically short lived when it comes to development. In TFVC you may have a branch for each developer or a branch for development in general, another for test then a release branch. In Git, we will be using branches differently. We'll get a change request as a work item in DevOps, review it, create a branch, assign to a developer to do the work plus commit it, optional build automation may occur, next a pull request, or PR, with a review and then the changes are accepted into the parent branch. We'll walk through this in specific details. In this example, we'll be using a bug but you can replace \"bug\" with \"Feature\", \"Product Backlog Item\", \"Change Request\", \"Customization\", \"Enhancement\", or any other word …",
@@ -2141,6 +2181,16 @@
           "publishedOn": "2022-04-04T02:00:49.000Z",
           "wordCount": 1181,
           "title": "Part 2 - Lifecycle of a Branch",
+          "imageUrl": null
+        },
+        {
+          "id": "1648 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "How Shoud I Manage Packages in Git?\nThere are 2 options when looking at Git for managing your X++ code. The main driver for which option you select is if you will only ever have 1 package in your code base or more than 1. This include any ISVs or any other item that will have a code footprint anywhere in F&O. To learn more about packages, please see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-tools/models. \n1 Package as a Branch\nThis option is the simplest. You would have 1 package as a branch. A good example of this is this GitHub project. It's a small package that add a features, it only depends on OOTB F&O packages and models and has no other dependencies not does anything else depend on it. It doesn't get any more simple than this. However, this may not work…",
+          "link": "https://www.atomicax.com/content/part-1-package-management",
+          "publishedOn": "2022-04-03T18:37:59.000Z",
+          "wordCount": 1070,
+          "title": "Part 1 - Package Management",
           "imageUrl": null
         },
         {
@@ -2154,6 +2204,16 @@
           "imageUrl": null
         },
         {
+          "id": "1654 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 04/01/22.\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Git with 1 Package\nWhen using Git for F&O, there are 2 basic flavors of using it; with 1 package or more than 1 package. This post will cover how to setup Git for use with 1 package.\nTo learn out to create a Git repo in Azure DevOps, please refer to MSFT documentation. To learn how to create a repo on Github, please refer to GitHub documentation.\nUsing Azure DevOps\nIn your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then Connect to a project. \n\nNext, select your repo and place it in your PackagesLocalDirectory. K drive on cloud hosted machines and C on VHDs. \n\nWait for it to clone and, that's it. Refresh your models like usual and you can develop against 1 package using Git in Azure DevOps. This is what the sync'd directory will look like. \n\nUsing GitHub\nIn your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then click Clone \n\nLog into GitHub then select your repo making sure to change the local path to include your PackagesLocalDirectory path.\n\nClick clone and wait. That's it. Your repo folder will look like this:\n\nCallout: If using VHD, drive will be the C drive rather than K drive.\nConclusion\nVery straight forward process. However, when using this style of package manage, you will only ever be allowed 1 package. You can add as many models as you like but you'll only ever have 1 package. This includes ISV packages as well including binary or source packages. I recommend this style of management for personal projects or something you'll be sharing on GitHub. I wouldn't recommend this approach for use on an implementation project.\n \n\n\n\n\nView the discussion thread.\n\n\n\nReported:",
+          "link": "https://www.atomicax.com/article/using-git-1-package",
+          "publishedOn": "2022-04-01T12:40:45.000Z",
+          "wordCount": 825,
+          "title": "Using Git with 1 Package",
+          "imageUrl": null
+        },
+        {
           "id": "1654 at http://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 04/01/22.\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Git with 1 Package\nWhen using Git for F&O, there are 2 basic flavors of using it; with 1 package or more than 1 package. This post will cover how to setup Git for use with 1 package.\nTo learn out to create a Git repo in Azure DevOps, please refer to MSFT documentation. To learn how to create a repo on Github, please refer to GitHub documentation.\nUsing Azure DevOps\nIn your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then Connect to a project. \n\nNext, select your repo and place it in your PackagesLocalDirectory. K drive on cloud hosted machines and C on VHDs. \n\nWait for it to clone and, that's it. Refresh your models like usual and you can develop against 1 package using Git in Azure DevOps. This is what the sync'd directory will look like. \n\nUsing GitHub\nIn your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then click Clone \n\nLog into GitHub then select your repo making sure to change the local path to include your PackagesLocalDirectory path.\n\nClick clone and wait. That's it. Your repo folder will look like this:\n\nCallout: If using VHD, drive will be the C drive rather than K drive.\nConclusion\nVery straight forward process. However, when using this style of package manage, you will only ever be allowed 1 package. You can add as many models as you like but you'll only ever have 1 package. This includes ISV packages as well including binary or source packages. I recommend this style of management for personal projects or something you'll be sharing on GitHub. I wouldn't recommend this approach for use on an implementation project.\n \n\n\n\n\nView the discussion thread.\n\n\n\nReported:",
@@ -2161,6 +2221,16 @@
           "publishedOn": "2022-04-01T12:40:45.000Z",
           "wordCount": 854,
           "title": "Using Git with 1 Package",
+          "imageUrl": null
+        },
+        {
+          "id": "1639 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Using Git rather than TFVC, a field guide.\nThis collection of works will help you with moving from using TFVC to using Git for your x++ development. This page will have several chapters linked as they are published. However, how do you know which is the best fit for you, your team, your organization or your project? Let's take an inventory.\nYou\nIf you're reading this, I assume you're interested in getting away from TFVC for some reason, you're a technically focused individual, and you understand the differences between using Git and TFVC. \nYour Team\nYour team should also be aware of what it takes to be successful in order to make a switch from TFVC to Git. They may need some additional training in order to get the the most out of Git. Developing and delivering with Git is a different exper…",
+          "link": "https://www.atomicax.com/content/git-alm-field-guide",
+          "publishedOn": "2022-04-01T12:29:21.000Z",
+          "wordCount": 1084,
+          "title": "GIT ALM Field Guide",
           "imageUrl": null
         },
         {
@@ -2174,6 +2244,16 @@
           "imageUrl": null
         },
         {
+          "id": "1655 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 03/25/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nGit      \nSource Control      \n\nWant to use Git with more than 1 Package? Let's review.\nThe process to get Git working with F&O can be a little involved and it may not make sense the first time. The issue we're presented with is that Git assumes you are starting with nothing - a directory that doesn't exist. When you fetch source code - clone it - Git wants you to clone it into a directory that doesn't exist yet. Our PackagesLocalDirectory very much so already exists. So, we have to help Git by moving in pieces of the repo into the directory then get everything back in working order. There are a few different ways to do this: The Hard Way, the easier way, and the easiest way.\n \nThe Hard Way\nWe'll be using https://github.com/…",
+          "link": "https://www.atomicax.com/article/using-git-more-1-package",
+          "publishedOn": "2022-03-26T03:16:29.000Z",
+          "wordCount": 1458,
+          "title": "Using Git with More than 1 Package",
+          "imageUrl": null
+        },
+        {
           "id": "1655 at http://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 03/25/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nGit      \nSource Control      \n\nWant to use Git with more than 1 Package? Let's review.\nThe process to get Git working with F&O can be a little involved and it may not make sense the first time. The issue we're presented with is that Git assumes you are starting with nothing - a directory that doesn't exist. When you fetch source code - clone it - Git wants you to clone it into a directory that doesn't exist yet. Our PackagesLocalDirectory very much so already exists. So, we have to help Git by moving in pieces of the repo into the directory then get everything back in working order. There are a few different ways to do this: The Hard Way and the easier way. \n \nThe Hard Way\nWe'll be using https://github.com/NathanClouseAX/FO…",
@@ -2181,6 +2261,16 @@
           "publishedOn": "2022-03-26T03:16:29.000Z",
           "wordCount": 1326,
           "title": "Using Git with More than 1 Package",
+          "imageUrl": null
+        },
+        {
+          "id": "1652 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "what is a pull request? how do they work? what do they signify?\nCreate a Pull Request (PR)\nThe code is done but not the work. The developer still has to singal that his work is complete. We'll want to create a Pull Request or PR for short. There are 2 ways to do this. The first is in VS, which will just redirect you to Azure DevOps. The second is Azure DevOps. In VS, it can be found here:\n\nIn Azure DevOps, go to Repors, select your repo, select your branch then click \"create a pull request\".\n\nInside the PR, you can add some details for the PR. Additionally, reviewers and actions can be configured inside DevOps.\n\nNotice you can select what you are creating a PR into. You can set a reviewer or additional reviewer if you'd like. Also notice that the PR is automagically associated with out bug work item. Let's create the PR.\n\nAs you can see, it merged successfully on its own and now we, or the approver, can approve and complete. Typically we wouldn't approve our own PRs. We'll see this when we complete.\n\nWe'll have an option for the merge type, if we want to use something different. Additionally, we have \"complete associate work items after merging\" checked as well as \"delete bug200 after merging\". This will resolve the bug setting it's status to done and deleting the branch we created for the work item called \"bug200\". Next, click \"Complete merge\". This is what the bug work item looks like after completing the PR:\n\nThe work item's status is \"Done\". Also note the links section. We can see that we had a commit and PR. However, the link to branch is now gone because the branch itself is gone.\nConclusion\nBecause Git Branches allow us to pull everything up, rather the push specific changesets like in TFVC, we can more easily keep track of what is where. As a for instance, until bug 200's work gets a completed PR, I know it's only in the branch for that work item.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nBlog Main Tag: \nGit",
+          "link": "https://www.atomicax.com/content/part-5-pull-requests-prs",
+          "publishedOn": "2022-03-22T00:40:26.000Z",
+          "wordCount": 941,
+          "title": "Part 5 - Pull Requests (PRs)",
           "imageUrl": null
         },
         {
@@ -2194,6 +2284,16 @@
           "imageUrl": null
         },
         {
+          "id": "1647 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 03/15/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nforceselectorder      \nforcenestedloop      \n\nLet's explore what keywords forceSelectOrder and ForceNestedLoop do.\nIntroduction\nThe database access layer in X++ largely conceals it magic from us as developers and we hope it gets the SQL right - and it does. SQL is largely 99.9% accurate and about 95%-ish optimized for the workload presented. You can read more about some of the techniques we'll be using here. We'll be using keywords in an X++ select to how they change the query and what that change means. All tests below were run on a \"warm\" VHD using Contoso data - specifically USMF.\nSelect FirstOnly SalesTable\nFirst, we'll start with a simple select firstonly on SalesTable. This took 30 milliseconds and generated the follow…",
+          "link": "https://www.atomicax.com/article/select-firstonly-vs-select-firstonly-forceselectorder-forcenestedloop",
+          "publishedOn": "2022-03-16T02:03:59.000Z",
+          "wordCount": 1943,
+          "title": "Select FirstOnly vs Select FirstOnly ForceSelectOrder ForceNestedLoop",
+          "imageUrl": null
+        },
+        {
           "id": "1647 at http://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 03/15/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nforceselectorder      \nforcenestedloop      \n\nLet's explore what keywords forceSelectOrder and ForceNestedLoop do.\nIntroduction\nThe database access layer in X++ largely conceals it magic from us as developers and we hope it gets the SQL right - and it does. SQL is largely 99.9% accurate and about 95%-ish optimized for the workload presented. You can read more about some of the techniques we'll be using here. We'll be using keywords in an X++ select to how they change the query and what that change means. All tests below were run on a \"warm\" VHD using Contoso data - specifically USMF.\nSelect FirstOnly SalesTable\nFirst, we'll start with a simple select firstonly on SalesTable. This took 30 milliseconds and generated the follow…",
@@ -2201,6 +2301,16 @@
           "publishedOn": "2022-03-16T02:03:59.000Z",
           "wordCount": 2020,
           "title": "Select FirstOnly vs Select FirstOnly ForceSelectOrder ForceNestedLoop",
+          "imageUrl": null
+        },
+        {
+          "id": "1644 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 02/08/22.\n\n\n\n\n\n\n\n\n\n\n\n\nWhat can we do with ATL to create some transactions? Let's take a look.\nAfter this post, I wanted to manufacture some data to better show that adding computed fields adds overhead for every operation within a data entity. That post somewhat showed it but I wanted something more cut and dry. I thought a good way to manufacture data in a Contoso environment would be use ATL, string together some ATL processes to create, pack, and invoice orders. In designing a way to do this, I had to fumble my way through how to do it. I wanted to add approximately 10 million processed orders. It didn't exactly work out but here is what I learned.\nLegal Entities\nRather than specificially provide values for your known legal entities, you can create Demo Dat…",
+          "link": "https://www.atomicax.com/article/using-atl-create-data-model-data-volume-testing",
+          "publishedOn": "2022-02-09T01:33:15.000Z",
+          "wordCount": 1732,
+          "title": "Using ATL to Create Data to Model Data Volume Testing",
           "imageUrl": null
         },
         {
@@ -3864,16 +3974,6 @@
           "wordCount": 1658,
           "title": "Automatically cancel (or delete) Sales Order lines for Supplementary Items",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:45b7ab24-3420-4e15-9190-a3568196070d",
-          "author": "Guy Terry",
-          "description": "I’ve encountered a problem when posting a product receipt on a purchase order that you need to see to believe. For this reason, I’ve recorded a video which shows the problem and the cause....(read more)",
-          "link": "https://community.dynamics.com/ax/b/guyterrysaxblog/posts/nothing-happens-when-posting-a-purchase-order-product-receipt",
-          "publishedOn": "2015-07-09T22:26:57.000Z",
-          "wordCount": 929,
-          "title": "‘Nothing happens’ when posting a Purchase order product receipt",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -5445,6 +5545,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-the-general-availability-of-power-apps-modern-commanding",
+          "author": null,
+          "description": "We’re very excited to announce General Availability for modern commanding. Commanding (formerly known as the Ribbon in Model-driven apps) has been re-imagined from the ground up and many new capabilities are available with this GA release.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-power-apps-modern-commanding/",
+          "publishedOn": "2022-06-02T07:01:31.000Z",
+          "wordCount": 1032,
+          "title": "Announcing the general availability of Power Apps modern commanding",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "announcing-the-general-availability-of-canvas-components-and-component-libraries",
           "author": null,
