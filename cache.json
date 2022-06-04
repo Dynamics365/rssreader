@@ -2411,6 +2411,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4355",
+          "author": "Kurt Hatlevik",
+          "description": "I give the Microsoft FastTrack team and team producing the docs all credit for the following blogpost! We very often get information overload, and then there is great to get a more compressed summary of what is important to consider in D365 projects. Here is the text from an email that is sent out to … Continue reading FastTrack recommendations for success",
+          "link": "https://kurthatlevik.com/2022/06/03/fasttrack-recommendations-for-success/",
+          "publishedOn": "2022-06-03T08:33:37.000Z",
+          "wordCount": 2339,
+          "title": "FastTrack recommendations for success",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/06/060322_0807_fasttrackre1.png"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4332",
           "author": "Kurt Hatlevik",
           "description": "Hi friends. A few weeks ago, Microsoft announced that the D365 Store Commerce App is now GA. The MPOS will enter “end-of-support” in release 10.0.33(Spring 2023) according to the following whitepaper. There are still features missing in Store Commerce, like dual display etc, but this will be added in later releases (10.0.28+). One of the … Continue reading D365 Store Commerce performance test",

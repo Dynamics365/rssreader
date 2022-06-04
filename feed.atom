@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-03T01:35:42.504Z</updated>
+    <updated>2022-06-04T01:35:44.548Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FastTrack recommendations for success]]></title>
+        <id>http://kurthatlevik.com/?p=4355</id>
+        <link href="https://kurthatlevik.com/2022/06/03/fasttrack-recommendations-for-success/"/>
+        <updated>2022-06-03T08:33:37.000Z</updated>
+        <summary type="html"><![CDATA[I give the Microsoft FastTrack team and team producing the docs all credit for the following blogpost! We very often get information overload, and then there is great to get a more compressed summary of what is important to consider in D365 projects. Here is the text from an email that is sent out to … Continue reading FastTrack recommendations for success]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D365FO DIXF : No update if the record already exists]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2223</id>
