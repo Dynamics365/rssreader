@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-06T01:48:00.582Z</updated>
+    <updated>2022-06-07T01:41:39.070Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing general availability of our new Dataverse experiences on Power Apps]]></title>
+        <id>announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps/"/>
+        <updated>2022-06-06T10:39:29.000Z</updated>
+        <summary type="html"><![CDATA[When building apps, data is the core of your experience – and Dataverse is a natural solution for Power Apps. Dataverse gives us a huge breadth of features to work with so we’ve been investing in familiar and intuitive experiences for our users so that they can get the best out of Dataverse.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FastTrack recommendations for success]]></title>
         <id>http://kurthatlevik.com/?p=4355</id>

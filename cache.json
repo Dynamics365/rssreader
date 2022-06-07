@@ -5556,6 +5556,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps",
+          "author": null,
+          "description": "When building apps, data is the core of your experience – and Dataverse is a natural solution for Power Apps. Dataverse gives us a huge breadth of features to work with so we’ve been investing in familiar and intuitive experiences for our users so that they can get the best out of Dataverse.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps/",
+          "publishedOn": "2022-06-06T10:39:29.000Z",
+          "wordCount": 1387,
+          "title": "Announcing general availability of our new Dataverse experiences on Power Apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "announcing-the-general-availability-of-power-apps-modern-commanding",
           "author": null,
           "description": "We’re very excited to announce General Availability for modern commanding. Commanding (formerly known as the Ribbon in Model-driven apps) has been re-imagined from the ground up and many new capabilities are available with this GA release.",
