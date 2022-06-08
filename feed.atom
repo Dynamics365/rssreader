@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-07T01:41:39.070Z</updated>
+    <updated>2022-06-08T01:43:34.660Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Develop A D365 Number Sequence]]></title>
+        <id>https://dynamics365musings.com/?p=2027</id>
+        <link href="https://dynamics365musings.com/develop-a-d365-number-sequence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=develop-a-d365-number-sequence"/>
+        <updated>2022-06-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the last article, “How to Use a D365 Numbers Sequence“, you learned that a number sequence is a system generated unique value. Additionally, you learned how to set up and use them. In this article, learn how you can develop a D365 number sequence to your own field using X++. And how to add... Continue Reading →
+The post How To Develop A D365 Number Sequence appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing general availability of our new Dataverse experiences on Power Apps]]></title>
         <id>announcing-general-availability-of-our-new-dataverse-experiences-on-power-apps</id>
@@ -8127,17 +8138,6 @@ Filed under: Uncategorized]]></summary>
         <link href="https://community.dynamics.com/ax/b/guyterrysaxblog/posts/recreate-your-replenishment-template-lines-after-installing-cu9"/>
         <updated>2015-07-15T21:21:04.000Z</updated>
         <summary type="html"><![CDATA[CU9 for Dynamics AX 2012 R3 contains several updates for functionality in the Warehouse management module. One of them is KB 3051622 “Warehouse Management (WHS) Replenishment performance issue&#...(read more)]]></summary>
-        <author>
-            <name>Guy Terry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatically cancel (or delete) Sales Order lines for Supplementary Items]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b56e8ef1-3c8f-48e1-a62c-8fdb36dbe8cc</id>
-        <link href="https://community.dynamics.com/ax/b/guyterrysaxblog/posts/automatically-cancel-or-delete-sales-order-lines-for-supplementary-items"/>
-        <updated>2015-07-15T07:41:42.000Z</updated>
-        <summary type="html"><![CDATA[In AX 2012 R3, a new field appeared on the Customer form. The field is labelled ‘Automatic cancel’, and is so innocuous you may well have not even noticed it:
-The ‘Automatic cancel&#...(read more)]]></summary>
         <author>
             <name>Guy Terry</name>
         </author>

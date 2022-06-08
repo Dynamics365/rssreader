@@ -1947,6 +1947,16 @@
       "siteUrl": "https://dynamics365musings.com",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=2027",
+          "author": "peter.ramer",
+          "description": "In the last article, “How to Use a D365 Numbers Sequence“, you learned that a number sequence is a system generated unique value. Additionally, you learned how to set up and use them. In this article, learn how you can develop a D365 number sequence to your own field using X++. And how to add... Continue Reading →\nThe post How To Develop A D365 Number Sequence appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/develop-a-d365-number-sequence/?utm_source=rss&utm_medium=rss&utm_campaign=develop-a-d365-number-sequence",
+          "publishedOn": "2022-06-06T13:00:00.000Z",
+          "wordCount": 2148,
+          "title": "How To Develop A D365 Number Sequence",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/05/How-To-Develop-A-D365-Number-Sequence-Final.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=1981",
           "author": "peter.ramer",
           "description": "A D365 number sequence allows the system to generate a unique value. As well as use a defined format for the type of record being used. This is extremely helpful. There are sometimes, such as with item numbers, where you might have a specific value you use to already identify something. On the other hand,... Continue Reading →\nThe post How To Use A D365 Number Sequence appeared first on Dynamics 365 Musings.",
@@ -3973,16 +3983,6 @@
           "publishedOn": "2015-07-15T21:21:04.000Z",
           "wordCount": 1315,
           "title": "Recreate your Replenishment template lines after installing CU9",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b56e8ef1-3c8f-48e1-a62c-8fdb36dbe8cc",
-          "author": "Guy Terry",
-          "description": "In AX 2012 R3, a new field appeared on the Customer form. The field is labelled ‘Automatic cancel’, and is so innocuous you may well have not even noticed it:\nThe ‘Automatic cancel&#...(read more)",
-          "link": "https://community.dynamics.com/ax/b/guyterrysaxblog/posts/automatically-cancel-or-delete-sales-order-lines-for-supplementary-items",
-          "publishedOn": "2015-07-15T07:41:42.000Z",
-          "wordCount": 1658,
-          "title": "Automatically cancel (or delete) Sales Order lines for Supplementary Items",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
