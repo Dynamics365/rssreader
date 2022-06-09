@@ -1800,6 +1800,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2229",
+          "author": "AnithaEswaran",
+          "description": "With a simple set up, it is easy to display the navigation link or path of the form. This feature will be useful for developers when they discuss with client or functional team . Navigate to System Administration -> Set … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/06/08/display-navigation-link-in-d365fo/",
+          "publishedOn": "2022-06-08T08:55:12.000Z",
+          "wordCount": 703,
+          "title": "Display Navigation link in D365FO",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/06/image-1.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2223",
           "author": "AnithaEswaran",
           "description": "DIXF framework updates the existing records based on the Primary key defined in the entity. But there are scenarios where we don`t need to trigger an update . For instance, if I am importing a vendor file with primary address … Continue reading →",
@@ -2572,6 +2582,16 @@
       "feedUrl": "https://dynvision365.com/feed/",
       "siteUrl": "https://dynvision365.com",
       "articles": [
+        {
+          "id": "http://dynvision365.com/?p=993",
+          "author": "adalhix",
+          "description": "Last week i shared an article about Power automate flow integration with Dynamics 365 FinOps to export data by using Data management package REST API, and we have seen the 2 different options that support file-based integration scenarios that can be used as data batch API in D365 FinOps, when each API can be considered … Lire la suite Using Azure LogicApps and D365FinOps business events for data export scenarios →",
+          "link": "https://dynvision365.com/2022/06/08/using-azure-logicapps-and-d365finops-business-events-for-data-export-scenarios/",
+          "publishedOn": "2022-06-08T19:22:18.000Z",
+          "wordCount": 1784,
+          "title": "Using Azure LogicApps and D365FinOps business events for data export scenarios",
+          "imageUrl": "https://adalhix.files.wordpress.com/2022/06/azure-logic-apps-d365-finops-a.png"
+        },
         {
           "id": "http://dynvision365.com/?p=903",
           "author": "adalhix",
@@ -3973,16 +3993,6 @@
           "publishedOn": "2015-07-31T11:10:29.000Z",
           "wordCount": 1083,
           "title": "Upgrade to Windows 10",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d76f8658-d508-4bdf-acc2-27d4f6939790",
-          "author": "Guy Terry",
-          "description": "CU9 for Dynamics AX 2012 R3 contains several updates for functionality in the Warehouse management module. One of them is KB 3051622 “Warehouse Management (WHS) Replenishment performance issue&#...(read more)",
-          "link": "https://community.dynamics.com/ax/b/guyterrysaxblog/posts/recreate-your-replenishment-template-lines-after-installing-cu9",
-          "publishedOn": "2015-07-15T21:21:04.000Z",
-          "wordCount": 1315,
-          "title": "Recreate your Replenishment template lines after installing CU9",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
