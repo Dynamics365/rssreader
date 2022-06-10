@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-09T01:43:50.060Z</updated>
+    <updated>2022-06-10T01:50:13.944Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to talk to your AX customers about Microsoft Dynamics 365 Finance & Supply Chain Management business value]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e2bba9b5-53a9-46ca-9123-95d6d38bdff1</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/how-to-talk-to-your-ax-customers-about-microsoft-dynamics-365-finance-supply-chain-management-business-value"/>
+        <updated>2022-06-08T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discussions about migrating to Microsoft
+Dynamics 365 Finance and Supply Chain Management (formerly known as
+F&O) can make your Dynamics AX customers feel fearful and
+resistant to change. Identifying those fears and ways to overcome
+them can help... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Azure LogicApps and D365FinOps business events for data export scenarios]]></title>
         <id>http://dynvision365.com/?p=993</id>
