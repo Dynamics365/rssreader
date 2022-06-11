@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-10T01:50:13.944Z</updated>
+    <updated>2022-06-11T01:43:45.230Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft partner HSO acquires Canada-based SHEA Solutions]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1968f7f0-6367-4100-9f4b-70d4640dd87b</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-partner-hso-acquires-canada-based-shea-solutions"/>
+        <updated>2022-06-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Global Microsoft partner HSO announced it has acquired Canada-based
+SHEA Solutions.
+ SHEA specializes in Dynamics 365 solutions for retail and
+manufacturing including D365 Finance, Supply Chain Management,
+Commerce, and Project Operations. The company... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to talk to your AX customers about Microsoft Dynamics 365 Finance & Supply Chain Management business value]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e2bba9b5-53a9-46ca-9123-95d6d38bdff1</id>
