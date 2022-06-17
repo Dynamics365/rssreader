@@ -5596,6 +5596,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "dataverse-service-client-is-now-generally-available",
+          "author": null,
+          "description": "The Dataverse Service Client SDK is now Generally Available for developers to use",
+          "link": "https://powerapps.microsoft.com/en-us/blog/dataverse-service-client-is-now-generally-available/",
+          "publishedOn": "2022-06-16T10:37:49.000Z",
+          "wordCount": 769,
+          "title": "Dataverse Service Client is now Generally Available",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "announcing-general-availability-of-wrap-for-power-apps",
           "author": null,
           "description": "Wrap for Power Apps integrates low-code enterprise apps with Power Apps mobile technology to produce secure enterprise mobile apps with rich native mobile experiences and seamless end-to-end branding suitable for customer-facing frontline worker scenarios.",
