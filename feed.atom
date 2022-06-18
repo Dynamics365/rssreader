@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-17T01:47:56.235Z</updated>
+    <updated>2022-06-18T01:48:22.266Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: Today's data management landscape for Dynamics customers with Michael Simms]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:69d0f5d6-0f0d-4836-8b59-787670e3edc4</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-today-s-data-management-landscape-for-dynamics-customers-with-michael-simms"/>
+        <updated>2022-06-16T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This episode is sponsored by 
+ Columbus . 
+ 
+ 
+ The data and reporting needs of Dynamics ERP customers have
+changed over the years, but the skills and tools have not always
+kept up. Preparing for the next phase of operational and financial
+management... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dataverse Service Client is now Generally Available]]></title>
         <id>dataverse-service-client-is-now-generally-available</id>
