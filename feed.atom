@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-18T01:48:22.266Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-19T01:55:14.722Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Default location of VS Projects ,instead of repos folder : D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2244</id>
+        <link href="https://anithasantosh.wordpress.com/2022/06/18/default-location-of-vs-projects-instead-of-repos-folder-d365fo/"/>
+        <updated>2022-06-18T12:25:44.000Z</updated>
+        <summary type="html"><![CDATA[I noticed in all the FO VMs, the project location has been set to ‘repos’ folder. . Though this set up doesn`t pose any errors,it is always a best practice to save the projects in its location where the TFS … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alphabetical ordering of Labels in D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2238</id>
+        <link href="https://anithasantosh.wordpress.com/2022/06/18/alphabetical-ordering-of-labels-in-d365fo/"/>
+        <updated>2022-06-18T12:14:33.000Z</updated>
+        <summary type="html"><![CDATA[We usually append the new labels at the end of the label file. It is difficult to search the label in case if we need to check if the label exists already. From PU50, it is possible to arrange the … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSDW Podcast: Today's data management landscape for Dynamics customers with Michael Simms]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:69d0f5d6-0f0d-4836-8b59-787670e3edc4</id>

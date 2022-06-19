@@ -1840,6 +1840,26 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2244",
+          "author": "AnithaEswaran",
+          "description": "I noticed in all the FO VMs, the project location has been set to ‘repos’ folder. . Though this set up doesn`t pose any errors,it is always a best practice to save the projects in its location where the TFS … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/06/18/default-location-of-vs-projects-instead-of-repos-folder-d365fo/",
+          "publishedOn": "2022-06-18T12:25:44.000Z",
+          "wordCount": 3183,
+          "title": "Default location of VS Projects ,instead of repos folder : D365FO",
+          "imageUrl": "https://s0.wp.com/i/buttonw-com.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2238",
+          "author": "AnithaEswaran",
+          "description": "We usually append the new labels at the end of the label file. It is difficult to search the label in case if we need to check if the label exists already. From PU50, it is possible to arrange the … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/06/18/alphabetical-ordering-of-labels-in-d365fo/",
+          "publishedOn": "2022-06-18T12:14:33.000Z",
+          "wordCount": 3170,
+          "title": "Alphabetical ordering of Labels in D365FO",
+          "imageUrl": "https://s0.wp.com/i/buttonw-com.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2229",
           "author": "AnithaEswaran",
           "description": "With a simple set up, it is easy to display the navigation link or path of the form. This feature will be useful for developers when they discuss with client or functional team . Navigate to System Administration -> Set … Continue reading →",
@@ -6078,5 +6098,5 @@
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }
