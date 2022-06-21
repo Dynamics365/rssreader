@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-20T01:49:17.499Z</updated>
+    <updated>2022-06-21T01:50:59.885Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 and the illusions of competence]]></title>
+        <id>http://kurthatlevik.com/?p=4387</id>
+        <link href="https://kurthatlevik.com/2022/06/20/dynamics-365-and-the-illusions-of-competence/"/>
+        <updated>2022-06-20T19:47:56.000Z</updated>
+        <summary type="html"><![CDATA[The Dynamics 365 community is flooding over with excellent articles, video’s, blogposts and learning services, and I enjoy learning new stuff. When I consume the shared content, I feel that I really understand the concept and that it increases my competency. My “knowledge ego” bolster and I feel have a deep understanding on new subjects … Continue reading Dynamics 365 and the illusions of competence]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Default location of VS Projects ,instead of repos folder : D365FO]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2244</id>
