@@ -5636,6 +5636,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "announcing-general-availability-of-power-apps-for-windows",
+          "author": null,
+          "description": "This week we are happy to announce the general availability (GA) of our new Power Apps application for Windows. This builds on the public preview announced April 2022 in Announcing Public Preview of a new Power Apps application on Windows.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-power-apps-for-windows/",
+          "publishedOn": "2022-06-21T06:38:00.000Z",
+          "wordCount": 1506,
+          "title": "Announcing general availability of Power Apps for Windows",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "dataverse-service-client-is-now-generally-available",
           "author": null,
           "description": "The Dataverse Service Client SDK is now Generally Available for developers to use",

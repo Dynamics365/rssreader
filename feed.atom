@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-21T01:50:59.885Z</updated>
+    <updated>2022-06-22T01:59:21.308Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing general availability of Power Apps for Windows]]></title>
+        <id>announcing-general-availability-of-power-apps-for-windows</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-power-apps-for-windows/"/>
+        <updated>2022-06-21T06:38:00.000Z</updated>
+        <summary type="html"><![CDATA[This week we are happy to announce the general availability (GA) of our new Power Apps application for Windows. This builds on the public preview announced April 2022 in Announcing Public Preview of a new Power Apps application on Windows.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 and the illusions of competence]]></title>
         <id>http://kurthatlevik.com/?p=4387</id>
