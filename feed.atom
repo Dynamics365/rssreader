@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-22T01:59:21.308Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-23T01:50:09.215Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Date format issue in ‘Execute a SQL Query (V2)’ logic apps – D365FO integration]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2252</id>
+        <link href="https://anithasantosh.wordpress.com/2022/06/22/date-format-issue-in-execute-a-sql-query-v2-logic-apps-d365fo-integration/"/>
+        <updated>2022-06-22T18:58:53.000Z</updated>
+        <summary type="html"><![CDATA[I had already explained about using sql query execution in my earlier blog posts. Recently I had another issue when using date column in the select list . For instance, in the below screenshot one of the field in the … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing general availability of Power Apps for Windows]]></title>
         <id>announcing-general-availability-of-power-apps-for-windows</id>

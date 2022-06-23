@@ -1840,6 +1840,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2252",
+          "author": "AnithaEswaran",
+          "description": "I had already explained about using sql query execution in my earlier blog posts. Recently I had another issue when using date column in the select list . For instance, in the below screenshot one of the field in the … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/06/22/date-format-issue-in-execute-a-sql-query-v2-logic-apps-d365fo-integration/",
+          "publishedOn": "2022-06-22T18:58:53.000Z",
+          "wordCount": 3292,
+          "title": "Date format issue in ‘Execute a SQL Query (V2)’ logic apps – D365FO integration",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/06/image-9.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2244",
           "author": "AnithaEswaran",
           "description": "I noticed in all the FO VMs, the project location has been set to ‘repos’ folder. . Though this set up doesn`t pose any errors,it is always a best practice to save the projects in its location where the TFS … Continue reading →",
@@ -6118,5 +6128,5 @@
       ]
     }
   ],
-  "cliVersion": "1.15.0"
+  "cliVersion": "1.15.1"
 }
