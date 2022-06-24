@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-23T01:50:09.215Z</updated>
+    <updated>2022-06-24T01:53:36.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -8271,16 +8271,6 @@ Filed under: Uncategorized]]></summary>
         <link href="https://community.dynamics.com/ax/b/guyterrysaxblog/posts/pimp-your-ax-demo-vm"/>
         <updated>2015-08-03T22:03:39.000Z</updated>
         <summary type="html"><![CDATA[Recently, Microsoft released an updated Demonstration VM for Dynamics AX 2012 R3 CU9. You can find it here on PartnerSource, and here on CustomerSource. For the last VM (CU8), I converted both the Vir...(read more)]]></summary>
-        <author>
-            <name>Guy Terry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upgrade to Windows 10]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:24c60989-c311-43a4-aa97-bb42c2b3a8bb</id>
-        <link href="https://community.dynamics.com/ax/b/guyterrysaxblog/posts/upgrade-to-windows-10"/>
-        <updated>2015-07-31T11:10:29.000Z</updated>
-        <summary type="html"><![CDATA[This post is nothing to do with Dynamics AX, but I thought I record how my upgrade to Windows 10 went. I said to myself that I wouldn’t install it straight away, since I’d prefer others to...(read more)]]></summary>
         <author>
             <name>Guy Terry</name>
         </author>
