@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-24T01:53:36.127Z</updated>
+    <updated>2022-06-25T01:55:27.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creating Extensions from related AOT object – D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2266</id>
+        <link href="https://anithasantosh.wordpress.com/2022/06/24/creating-extensions-from-related-aot-object-d365fo/"/>
+        <updated>2022-06-24T10:22:30.000Z</updated>
+        <summary type="html"><![CDATA[From PU50, it is now easy to create extension from related AOT object. Earlier, the approach was to create a class and then fill out details if it for table or class or data entity. Below pic shows creating form … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power platform Developer tools May Refresh]]></title>
+        <id>power-platform-developer-tools-may-refresh</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-may-refresh/"/>
+        <updated>2022-06-24T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new may refresh for Power Platform Command line tools]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Date format issue in ‘Execute a SQL Query (V2)’ logic apps – D365FO integration]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2252</id>

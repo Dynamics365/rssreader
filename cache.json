@@ -1840,6 +1840,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2266",
+          "author": "AnithaEswaran",
+          "description": "From PU50, it is now easy to create extension from related AOT object. Earlier, the approach was to create a class and then fill out details if it for table or class or data entity. Below pic shows creating form … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/06/24/creating-extensions-from-related-aot-object-d365fo/",
+          "publishedOn": "2022-06-24T10:22:30.000Z",
+          "wordCount": 3155,
+          "title": "Creating Extensions from related AOT object – D365FO",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/06/image-13.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2252",
           "author": "AnithaEswaran",
           "description": "I had already explained about using sql query execution in my earlier blog posts. Recently I had another issue when using date column in the select list . For instance, in the below screenshot one of the field in the … Continue reading →",
@@ -5635,6 +5645,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "power-platform-developer-tools-may-refresh",
+          "author": null,
+          "description": "The new may refresh for Power Platform Command line tools",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-may-refresh/",
+          "publishedOn": "2022-06-24T09:00:00.000Z",
+          "wordCount": 1771,
+          "title": "Power platform Developer tools May Refresh",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "announcing-general-availability-of-power-apps-for-windows",
           "author": null,
