@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-27T01:57:28.216Z</updated>
+    <updated>2022-06-28T01:54:47.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Upcoming deprecations in Power Apps portals]]></title>
+        <id>upcoming-deprecations-in-power-apps-portals</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/upcoming-deprecations-in-power-apps-portals/"/>
+        <updated>2022-06-27T12:43:45.000Z</updated>
+        <summary type="html"><![CDATA[We are securing and simplifying the platform by deprecating list of features]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating Extensions from related AOT object – D365FO]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2266</id>
@@ -74,6 +84,16 @@
         <summary type="html"><![CDATA[We usually append the new labels at the end of the label file. It is difficult to search the label in case if we need to check if the label exists already. From PU50, it is possible to arrange the … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Hebrew and Arabic languages for Power Apps portals]]></title>
+        <id>introducing-hebrew-and-arabic-language-in-power-apps-portals</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/introducing-hebrew-and-arabic-language-in-power-apps-portals/"/>
+        <updated>2022-06-16T20:43:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce Hebrew and Arabic language support for Power Apps portals]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -8283,16 +8303,6 @@ Filed under: Uncategorized]]></summary>
         <summary type="html"><![CDATA[Hi Friends,Microsoft dynamics AX provides text translation possibilities on some standard entities like products, ledger accounts, financial dimension and few more. Text translations are displayed on ...(read more)]]></summary>
         <author>
             <name>Rachit Garg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pimp your AX demo VM]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b61ad336-1182-4af0-a465-6b749bf54d36</id>
-        <link href="https://community.dynamics.com/ax/b/guyterrysaxblog/posts/pimp-your-ax-demo-vm"/>
-        <updated>2015-08-03T22:03:39.000Z</updated>
-        <summary type="html"><![CDATA[Recently, Microsoft released an updated Demonstration VM for Dynamics AX 2012 R3 CU9. You can find it here on PartnerSource, and here on CustomerSource. For the last VM (CU8), I converted both the Vir...(read more)]]></summary>
-        <author>
-            <name>Guy Terry</name>
         </author>
     </entry>
 </feed>

@@ -4064,16 +4064,6 @@
           "wordCount": 1753,
           "title": "Power BI comes of age",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b61ad336-1182-4af0-a465-6b749bf54d36",
-          "author": "Guy Terry",
-          "description": "Recently, Microsoft released an updated Demonstration VM for Dynamics AX 2012 R3 CU9. You can find it here on PartnerSource, and here on CustomerSource. For the last VM (CU8), I converted both the Vir...(read more)",
-          "link": "https://community.dynamics.com/ax/b/guyterrysaxblog/posts/pimp-your-ax-demo-vm",
-          "publishedOn": "2015-08-03T22:03:39.000Z",
-          "wordCount": 3546,
-          "title": "Pimp your AX demo VM",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -5646,6 +5636,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "upcoming-deprecations-in-power-apps-portals",
+          "author": null,
+          "description": "We are securing and simplifying the platform by deprecating list of features",
+          "link": "https://powerapps.microsoft.com/en-us/blog/upcoming-deprecations-in-power-apps-portals/",
+          "publishedOn": "2022-06-27T12:43:45.000Z",
+          "wordCount": 1938,
+          "title": "Upcoming deprecations in Power Apps portals",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "power-platform-developer-tools-may-refresh",
           "author": null,
           "description": "The new may refresh for Power Platform Command line tools",
@@ -5663,6 +5663,16 @@
           "publishedOn": "2022-06-21T06:38:00.000Z",
           "wordCount": 1506,
           "title": "Announcing general availability of Power Apps for Windows",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "introducing-hebrew-and-arabic-language-in-power-apps-portals",
+          "author": null,
+          "description": "We are excited to announce Hebrew and Arabic language support for Power Apps portals",
+          "link": "https://powerapps.microsoft.com/en-us/blog/introducing-hebrew-and-arabic-language-in-power-apps-portals/",
+          "publishedOn": "2022-06-16T20:43:00.000Z",
+          "wordCount": 1349,
+          "title": "Introducing Hebrew and Arabic languages for Power Apps portals",
           "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
         },
         {
