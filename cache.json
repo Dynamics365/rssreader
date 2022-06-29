@@ -5115,6 +5115,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axinthefield",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:044c44ad-dbb6-42f0-ac19-69b1dda49a8c",
+          "author": "Chris Roehrich",
+          "description": "The licensing related reports in D365FO can provide license assignment information but they don't really tell us if the user that is assigned a particular license type is using it. For example, yo...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/using-azure-application-insights-to-monitor-license-usage-in-d365-finance-and-operations",
+          "publishedOn": "2022-06-28T18:00:00.000Z",
+          "wordCount": 3977,
+          "title": "Using Azure Application Insights to monitor license usage in D365 Finance and Operations",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ac7673da-5256-4677-a6b4-39709230065a",
           "author": "Eugene Dmytriienko",
           "description": "In this post I would like to share field experience and provide you with a quick overview of Azure Monitor and demonstrate how fast and easily you can build a tool that can help you to monitor yo...(read more)",
@@ -5635,6 +5645,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "call2recycle-manages-industrywide-e-bike-battery-recycling-program-with-power-pages",
+          "author": null,
+          "description": "As a non-profit operating for over 25 years, Call2Recycle helps consumers and over 200 battery and battery-powered product companies keep batteries out of landfills. They partnered with EFOQUS to digitize their sales, finance and operations processes using Dynamics 365 Business Central and Dynamics 365 Sales. This blog post describes how they used Power Pages to extend their existing system with an external facing portal that facilitates enrollment and training of e-bike retailers.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/call2recycle-manages-industrywide-e-bike-battery-recycling-program-with-power-pages/",
+          "publishedOn": "2022-06-28T08:00:12.000Z",
+          "wordCount": 2796,
+          "title": "Call2Recycle manages industrywide e-bike battery recycling program with Power Pages",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/06/01_Call2Recycle_Banner2.jpg"
+        },
         {
           "id": "upcoming-deprecations-in-power-apps-portals",
           "author": null,

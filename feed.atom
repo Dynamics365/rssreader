@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-28T01:54:47.427Z</updated>
+    <updated>2022-06-29T01:56:58.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Azure Application Insights to monitor license usage in D365 Finance and Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:044c44ad-dbb6-42f0-ac19-69b1dda49a8c</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/using-azure-application-insights-to-monitor-license-usage-in-d365-finance-and-operations"/>
+        <updated>2022-06-28T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The licensing related reports in D365FO can provide license assignment information but they don't really tell us if the user that is assigned a particular license type is using it. For example, yo...(read more)]]></summary>
+        <author>
+            <name>Chris Roehrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call2Recycle manages industrywide e-bike battery recycling program with Power Pages]]></title>
+        <id>call2recycle-manages-industrywide-e-bike-battery-recycling-program-with-power-pages</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/call2recycle-manages-industrywide-e-bike-battery-recycling-program-with-power-pages/"/>
+        <updated>2022-06-28T08:00:12.000Z</updated>
+        <summary type="html"><![CDATA[As a non-profit operating for over 25 years, Call2Recycle helps consumers and over 200 battery and battery-powered product companies keep batteries out of landfills. They partnered with EFOQUS to digitize their sales, finance and operations processes using Dynamics 365 Business Central and Dynamics 365 Sales. This blog post describes how they used Power Pages to extend their existing system with an external facing portal that facilitates enrollment and training of e-bike retailers.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Upcoming deprecations in Power Apps portals]]></title>
         <id>upcoming-deprecations-in-power-apps-portals</id>
