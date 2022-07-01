@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-06-30T01:56:21.987Z</updated>
+    <updated>2022-07-01T02:06:26.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Logs in Dynamics 365: not anymore!]]></title>
+        <id>https://ariste.info/?p=6151</id>
+        <link href="https://ariste.info/en/2022/06/logs-dynamics-365/"/>
+        <updated>2022-06-30T06:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk about logs in Dynamics 365 Finance and Operations. And I don’t mean the built-in database logs we’ve had since the old Axapta days. I’m talking about plain logs, a table and a form to see how/why data is changing, or logging external calls to OData or custom web services endpoints in the ERP. [...]
+ariste.info Logs in Dynamics 365: not anymore!]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: The Microsoft Dynamics channel's uncertain economic outlook]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:81e6ff63-bd24-40df-afcb-73f2bacf3d7c</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-the-microsoft-dynamics-channel-s-uncertain-economic-outlook"/>
+        <updated>2022-06-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft partner executives who have been focused on their
+immediate challenges in recent years would be well served to use
+the start of Microsoft's FY23 to turn their attention to longer
+term strategies for maintaining profitability in an economic... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Azure Application Insights to monitor license usage in D365 Finance and Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:044c44ad-dbb6-42f0-ac19-69b1dda49a8c</id>

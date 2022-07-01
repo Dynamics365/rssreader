@@ -584,6 +584,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:81e6ff63-bd24-40df-afcb-73f2bacf3d7c",
+          "author": "MSDynamicsWorld.com",
+          "description": "Microsoft partner executives who have been focused on their\r\nimmediate challenges in recent years would be well served to use\r\nthe start of Microsoft's FY23 to turn their attention to longer\r\nterm strategies for maintaining profitability in an economic... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-the-microsoft-dynamics-channel-s-uncertain-economic-outlook",
+          "publishedOn": "2022-06-29T14:00:00.000Z",
+          "wordCount": 3179,
+          "title": "MSDW Podcast: The Microsoft Dynamics channel's uncertain economic outlook",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a51a933a-df77-4488-b86a-33350bfce8d4",
           "author": "MSDynamicsWorld.com",
           "description": "This article was co-authored by George Brown, co-founder of\r\nPartner Economics. \r\n \r\n \r\n \r\n At this year’s Directions North America conference in\r\nOrlando, we presented the results of our latest partner\r\nbenchmarking study, along with our forecast for... Read the full text.",
@@ -1736,6 +1746,16 @@
       "feedUrl": "https://ariste.info/en/feed/",
       "siteUrl": "https://ariste.info/en/",
       "articles": [
+        {
+          "id": "https://ariste.info/?p=6151",
+          "author": "Adrià Ariste Santacreu",
+          "description": "Let’s talk about logs in Dynamics 365 Finance and Operations. And I don’t mean the built-in database logs we’ve had since the old Axapta days. I’m talking about plain logs, a table and a form to see how/why data is changing, or logging external calls to OData or custom web services endpoints in the ERP. [...]\nariste.info Logs in Dynamics 365: not anymore!",
+          "link": "https://ariste.info/en/2022/06/logs-dynamics-365/",
+          "publishedOn": "2022-06-30T06:36:14.000Z",
+          "wordCount": 3349,
+          "title": "Logs in Dynamics 365: not anymore!",
+          "imageUrl": "https://static.ariste.info/wp-content/uploads/2022/06/F1-1024x1024.jpeg"
+        },
         {
           "id": "https://ariste.info/?p=6077",
           "author": "Adrià Ariste Santacreu",
