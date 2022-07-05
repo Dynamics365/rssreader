@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-04T02:04:29.828Z</updated>
+    <updated>2022-07-05T01:56:51.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Write a D365 Runnable Class (Job)]]></title>
+        <id>https://dynamics365musings.com/?p=2087</id>
+        <link href="https://dynamics365musings.com/d365-runnable-class/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-runnable-class"/>
+        <updated>2022-07-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Often times as a developer you have the need to quickly write and run some x++ code in Microsoft Dynamics 365 for Finance and Operations. In this article, I will explain how to write a D365 runnable class (Job). These jobs can be used to quickly test and experiment with some code. As well as... Continue Reading →
+The post How To Write a D365 Runnable Class (Job) appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Logs in Dynamics 365: not anymore!]]></title>
         <id>https://ariste.info/?p=6151</id>
