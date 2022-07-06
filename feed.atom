@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-05T01:56:51.021Z</updated>
+    <updated>2022-07-06T02:07:15.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Button search from Action Pane – D365 FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2277</id>
+        <link href="https://anithasantosh.wordpress.com/2022/07/05/button-search-from-action-pane-d365-fo/"/>
+        <updated>2022-07-05T13:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Finding a button in a form is difficult if it has complex design with Action pane having multiple tabs , various button groups in the tabs and so on. For instance, Sales order form. How to search the button ‘Cash … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Write a D365 Runnable Class (Job)]]></title>
         <id>https://dynamics365musings.com/?p=2087</id>

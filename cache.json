@@ -1870,6 +1870,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2277",
+          "author": "AnithaEswaran",
+          "description": "Finding a button in a form is difficult if it has complex design with Action pane having multiple tabs , various button groups in the tabs and so on. For instance, Sales order form. How to search the button ‘Cash … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/07/05/button-search-from-action-pane-d365-fo/",
+          "publishedOn": "2022-07-05T13:55:16.000Z",
+          "wordCount": 3240,
+          "title": "Button search from Action Pane – D365 FO",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/07/image-3.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2266",
           "author": "AnithaEswaran",
           "description": "From PU50, it is now easy to create extension from related AOT object. Earlier, the approach was to create a class and then fill out details if it for table or class or data entity. Below pic shows creating form … Continue reading →",
