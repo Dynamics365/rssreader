@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-06T02:07:15.538Z</updated>
+    <updated>2022-07-07T02:02:40.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Review feedback and ratings from your users to improve your apps]]></title>
+        <id>review-feedback-and-ratings-from-your-users-to-improve-your-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/review-feedback-and-ratings-from-your-users-to-improve-your-apps/"/>
+        <updated>2022-07-06T11:52:40.000Z</updated>
+        <summary type="html"><![CDATA[Highly sought-after feature from our community and a step towards improving quality of apps built on Power Platform.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B2B eCommerce for manufacturers: How to stay relevant in 2022]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:12569398-3bc0-4954-a2f7-faf47ab014f2</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/b2b-ecommerce-for-manufacturers-how-to-stay-relevant-in-2022"/>
+        <updated>2022-07-05T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[B2B eCommerce for manufacturers has evolved
+dramatically in recent years, driven by technological advances and
+customer demands. In all probability, digitization is the key to
+success in the future of the manufacturing industry. 
+ Let’s have a look... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Button search from Action Pane – D365 FO]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2277</id>

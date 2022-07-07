@@ -584,6 +584,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:12569398-3bc0-4954-a2f7-faf47ab014f2",
+          "author": "MSDynamicsWorld.com",
+          "description": "B2B eCommerce for manufacturers has evolved\r\ndramatically in recent years, driven by technological advances and\r\ncustomer demands. In all probability, digitization is the key to\r\nsuccess in the future of the manufacturing industry. \r\n Let’s have a look... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/b2b-ecommerce-for-manufacturers-how-to-stay-relevant-in-2022",
+          "publishedOn": "2022-07-05T17:00:00.000Z",
+          "wordCount": 3343,
+          "title": "B2B eCommerce for manufacturers: How to stay relevant in 2022",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:81e6ff63-bd24-40df-afcb-73f2bacf3d7c",
           "author": "MSDynamicsWorld.com",
           "description": "Microsoft partner executives who have been focused on their\r\nimmediate challenges in recent years would be well served to use\r\nthe start of Microsoft's FY23 to turn their attention to longer\r\nterm strategies for maintaining profitability in an economic... Read the full text.",
@@ -5695,6 +5705,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "review-feedback-and-ratings-from-your-users-to-improve-your-apps",
+          "author": null,
+          "description": "Highly sought-after feature from our community and a step towards improving quality of apps built on Power Platform.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/review-feedback-and-ratings-from-your-users-to-improve-your-apps/",
+          "publishedOn": "2022-07-06T11:52:40.000Z",
+          "wordCount": 1431,
+          "title": "Review feedback and ratings from your users to improve your apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "call2recycle-manages-industrywide-e-bike-battery-recycling-program-with-power-pages",
           "author": null,
