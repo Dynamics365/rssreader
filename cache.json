@@ -1650,6 +1650,16 @@
       "siteUrl": "https://msdyn365fo.wordpress.com",
       "articles": [
         {
+          "id": "http://msdyn365fo.wordpress.com/?p=539",
+          "author": "Paul Heisterkamp",
+          "description": "I recently had the problem, that I got the error message “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write from Lifecycle Services (LCS). When I tried setting up dual-write from within Microsoft Dynamics 365 for Finance and Operations, I got the following error message: … Continue reading Error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write →",
+          "link": "https://msdyn365fo.wordpress.com/2022/07/07/error-finance-and-operations-apps-xxxdevaos-cloudax-dynamics-com-is-not-discoverable-please-refer-to-the-documentation-for-details-during-setup-of-dual-write-2/",
+          "publishedOn": "2022-07-07T07:17:10.000Z",
+          "wordCount": 2697,
+          "title": "Error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write",
+          "imageUrl": "https://msdyn365fo.files.wordpress.com/2022/07/error-finance-and-operations-apps-xxxdevaos.cloudax.dynamics.com-is-not-discoverable.-please-refer-to-the-documentation-for-details-during-setup-of-dual-write.png?w=1200"
+        },
+        {
           "id": "https://msdyn365fo.wordpress.com/?p=522",
           "author": "Paul Heisterkamp",
           "description": "After an abstinence from blogging, today I found some time to create a new post about a topic I recently discussed with other folks from the community on Yammer. I was quite busy with other topics because of a longer parental leave phase and also some speaker engagements, so you will see session from me … Continue reading How to Push your MsDyn365FO deployable package to Azure Artifacts as NuGet packages →",

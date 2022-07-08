@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-07T02:02:40.641Z</updated>
+    <updated>2022-07-08T01:59:20.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write]]></title>
+        <id>http://msdyn365fo.wordpress.com/?p=539</id>
+        <link href="https://msdyn365fo.wordpress.com/2022/07/07/error-finance-and-operations-apps-xxxdevaos-cloudax-dynamics-com-is-not-discoverable-please-refer-to-the-documentation-for-details-during-setup-of-dual-write-2/"/>
+        <updated>2022-07-07T07:17:10.000Z</updated>
+        <summary type="html"><![CDATA[I recently had the problem, that I got the error message “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write from Lifecycle Services (LCS). When I tried setting up dual-write from within Microsoft Dynamics 365 for Finance and Operations, I got the following error message: … Continue reading Error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Review feedback and ratings from your users to improve your apps]]></title>
         <id>review-feedback-and-ratings-from-your-users-to-improve-your-apps</id>
