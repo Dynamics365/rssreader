@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-08T01:59:20.416Z</updated>
+    <updated>2022-07-09T01:48:12.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maximize Financial Visibility with Microsoft Dynamics 365]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ca9f5153-67a8-4676-a249-9df21e846b2b</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/maximize-financial-visibility-with-microsoft-dynamics-365"/>
+        <updated>2022-07-08T06:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Get the tools that maximize profitability and financial visibility across your business. And be the disruptive force leading your industry 
+
+Learn more about Microsoft Dynamics 365 Finance here: https...(read more)]]></summary>
+        <author>
+            <name>Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Party postal address sales tax group V2]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:637bf0b8-6521-48c3-b68e-32b4c54f15e0</id>
+        <link href="https://community.dynamics.com/ax/b/guyterrysaxblog/posts/party-postal-address-sales-tax-group-v2"/>
+        <updated>2022-07-07T21:04:29.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 F&O, if you want to import addresses which have a Sales tax group, you will probably need to use the Party postal address sales tax group V2 data entity. (And if you are importing...(read more)]]></summary>
+        <author>
+            <name>Guy Terry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write]]></title>
         <id>http://msdyn365fo.wordpress.com/?p=539</id>

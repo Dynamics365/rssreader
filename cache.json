@@ -427,6 +427,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/howtovideos",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ca9f5153-67a8-4676-a249-9df21e846b2b",
+          "author": "Community Manager",
+          "description": "Get the tools that maximize profitability and financial visibility across your business. And be the disruptive force leading your industry \n\nLearn more about Microsoft Dynamics 365 Finance here: https...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/maximize-financial-visibility-with-microsoft-dynamics-365",
+          "publishedOn": "2022-07-08T06:00:46.000Z",
+          "wordCount": 3146,
+          "title": "Maximize Financial Visibility with Microsoft Dynamics 365",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8f90099c-b57c-4746-9b7b-7a64e39ac1b2",
           "author": "Community Manager",
           "description": "In this video you will learn how to add an image to an existing business document using Business document management in Microsoft Dynamics 365 Finance and Operations apps. \n \nhttps://docs.microsoft.co...(read more)",
@@ -4035,6 +4045,16 @@
       "feedUrl": "https://community.dynamics.com/ax/b/guyterrysaxblog/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/guyterrysaxblog",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:637bf0b8-6521-48c3-b68e-32b4c54f15e0",
+          "author": "Guy Terry",
+          "description": "In Dynamics 365 F&O, if you want to import addresses which have a Sales tax group, you will probably need to use the Party postal address sales tax group V2 data entity. (And if you are importing...(read more)",
+          "link": "https://community.dynamics.com/ax/b/guyterrysaxblog/posts/party-postal-address-sales-tax-group-v2",
+          "publishedOn": "2022-07-07T21:04:29.000Z",
+          "wordCount": 3505,
+          "title": "Party postal address sales tax group V2",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:09469cea-7951-431b-b3f4-812e773a80f0",
           "author": "Guy Terry",
