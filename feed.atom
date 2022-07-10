@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-09T01:48:12.547Z</updated>
+    <updated>2022-07-10T02:04:45.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From the Microsoft Dynamics 365 Finance & Operations Blogs: Number sequences; Navigation modules; Logs; Payment remittance]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5a57847d-0e02-4948-a82b-db19a31eccab</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/from-the-microsoft-dynamics-365-finance-operations-blogs-number-sequences-navigation-modules-logs-payment-remittance"/>
+        <updated>2022-07-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this Dynamics 365 Finance & Operations blog roundup: 
+ 
+ AX – D365FO – number sequences explained 
+ How to grant access to navigation modules in D365FO 
+ Logs in Dynamics 365: not anymore! 
+ How to add sender email address for payment remittance... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maximize Financial Visibility with Microsoft Dynamics 365]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ca9f5153-67a8-4676-a249-9df21e846b2b</id>
