@@ -594,6 +594,26 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:051a38ff-49bd-4419-9adc-0b4eec6a13bf",
+          "author": "MSDynamicsWorld.com",
+          "description": "André Arnaud de Calavon of To-Increase contributed to this\r\narticle. \r\n \r\n \r\n \r\n According to a \r\n report by KPMG , 56% of CEOs are concerned about\r\nthe integrity of the data they are using for decision-making and\r\n45% believe that a lack of quality customer... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/master-data-management-implementation-in-dynamics-365-erp-5-best-practices",
+          "publishedOn": "2022-07-12T13:00:00.000Z",
+          "wordCount": 3352,
+          "title": "Master Data Management Implementation in Dynamics 365 ERP: 5 Best Practices",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5fe49660-cd65-4127-8e27-a0fa68053d05",
+          "author": "MSDynamicsWorld.com",
+          "description": "The Microsoft Business Applications product line's new look is\r\nstarting to come into focus under the leadership of CVP Charles\r\nLamanna. In \r\n \r\na recent conversation with Microsoft MVP Steve Mordue, Lamanna\r\ndiscussed some of his team's recent work... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-talking-microsoft-leadership-product-and-channel-with-steve-mordue",
+          "publishedOn": "2022-07-11T23:00:00.000Z",
+          "wordCount": 3347,
+          "title": "MSDW Podcast: Talking Microsoft leadership, product, and channel with Steve Mordue",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5a57847d-0e02-4948-a82b-db19a31eccab",
           "author": "MSDynamicsWorld.com",
           "description": "In this Dynamics 365 Finance & Operations blog roundup: \r\n \r\n AX – D365FO – number sequences explained \r\n How to grant access to navigation modules in D365FO \r\n Logs in Dynamics 365: not anymore! \r\n How to add sender email address for payment remittance... Read the full text.",
@@ -2114,7 +2134,7 @@
     {
       "title": "Dynamics 365 Musings",
       "feedUrl": "https://dynamics365musings.com/feed/",
-      "siteUrl": "https://dynamics365musings.com",
+      "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
           "id": "https://dynamics365musings.com/?p=2087",
@@ -2887,7 +2907,7 @@
     {
       "title": "All About Microsoft Dynamics",
       "feedUrl": "https://allaboutdynamic.com/feed/",
-      "siteUrl": "https://allaboutdynamic.com",
+      "siteUrl": "https://allaboutdynamic.com/",
       "articles": [
         {
           "id": "https://allaboutdynamic.com/?p=2449",
@@ -5745,6 +5765,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-public-preview-of-auto-updates-for-power-apps",
+          "author": null,
+          "description": "The public preview for app auto updates",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-auto-updates-for-power-apps/",
+          "publishedOn": "2022-07-12T08:35:00.000Z",
+          "wordCount": 1516,
+          "title": "Announcing public preview of Auto Updates for Power Apps  Dynamics CE",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "review-feedback-and-ratings-from-your-users-to-improve-your-apps",
           "author": null,

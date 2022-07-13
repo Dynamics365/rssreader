@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-12T02:03:19.472Z</updated>
+    <updated>2022-07-13T01:56:14.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Data Management Implementation in Dynamics 365 ERP: 5 Best Practices]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:051a38ff-49bd-4419-9adc-0b4eec6a13bf</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/master-data-management-implementation-in-dynamics-365-erp-5-best-practices"/>
+        <updated>2022-07-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[André Arnaud de Calavon of To-Increase contributed to this
+article. 
+ 
+ 
+ 
+ According to a 
+ report by KPMG , 56% of CEOs are concerned about
+the integrity of the data they are using for decision-making and
+45% believe that a lack of quality customer... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing public preview of Auto Updates for Power Apps  Dynamics CE]]></title>
+        <id>announcing-public-preview-of-auto-updates-for-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-auto-updates-for-power-apps/"/>
+        <updated>2022-07-12T08:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The public preview for app auto updates]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: Talking Microsoft leadership, product, and channel with Steve Mordue]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5fe49660-cd65-4127-8e27-a0fa68053d05</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-talking-microsoft-leadership-product-and-channel-with-steve-mordue"/>
+        <updated>2022-07-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Microsoft Business Applications product line's new look is
+starting to come into focus under the leadership of CVP Charles
+Lamanna. In 
+ 
+a recent conversation with Microsoft MVP Steve Mordue, Lamanna
+discussed some of his team's recent work... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From the Microsoft Dynamics 365 Finance & Operations Blogs: Number sequences; Navigation modules; Logs; Payment remittance]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5a57847d-0e02-4948-a82b-db19a31eccab</id>
