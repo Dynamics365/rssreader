@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-13T01:56:14.821Z</updated>
+    <updated>2022-07-14T02:02:42.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Improve monitoring of Dataverse plugins using Application insights]]></title>
+        <id>improve-monitoring-of-dataverse-plugins-using-application-insights</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/improve-monitoring-of-dataverse-plugins-using-application-insights/"/>
+        <updated>2022-07-13T10:58:55.000Z</updated>
+        <summary type="html"><![CDATA[Announcing General Availability of Application Insights for plugins]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drive Project Business Success with Microsoft Dynamics 365]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5cf68c4a-a502-4b83-be09-4cf78fb1f4fc</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/drive-project-business-success-with-microsoft-dynamics-365"/>
+        <updated>2022-07-13T06:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Drive success amid hyper-competitive and ever-changing market forces—using an agile project-based services solution that helps you adapt faster, work smarter, and perform better. 
+
+Learn more about Dy...(read more)]]></summary>
+        <author>
+            <name>Community Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Data Management Implementation in Dynamics 365 ERP: 5 Best Practices]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:051a38ff-49bd-4419-9adc-0b4eec6a13bf</id>

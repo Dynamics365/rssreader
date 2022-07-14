@@ -427,6 +427,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/howtovideos",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5cf68c4a-a502-4b83-be09-4cf78fb1f4fc",
+          "author": "Community Manager",
+          "description": "Drive success amid hyper-competitive and ever-changing market forces—using an agile project-based services solution that helps you adapt faster, work smarter, and perform better. \n\nLearn more about Dy...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/drive-project-business-success-with-microsoft-dynamics-365",
+          "publishedOn": "2022-07-13T06:00:58.000Z",
+          "wordCount": 3153,
+          "title": "Drive Project Business Success with Microsoft Dynamics 365",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ca9f5153-67a8-4676-a249-9df21e846b2b",
           "author": "Community Manager",
           "description": "Get the tools that maximize profitability and financial visibility across your business. And be the disruptive force leading your industry \n\nLearn more about Microsoft Dynamics 365 Finance here: https...(read more)",
@@ -1337,7 +1347,7 @@
     {
       "title": "Comments on: Dynamics 365 for Finance and Operations Blog",
       "feedUrl": "https://alexdmeyer.com/dynamics-365-for-finance-and-operations-blog/feed/",
-      "siteUrl": "https://alexdmeyer.com",
+      "siteUrl": "https://alexdmeyer.com/dynamics-365-for-finance-and-operations-blog/",
       "articles": []
     },
     {
@@ -5765,6 +5775,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "improve-monitoring-of-dataverse-plugins-using-application-insights",
+          "author": null,
+          "description": "Announcing General Availability of Application Insights for plugins",
+          "link": "https://powerapps.microsoft.com/en-us/blog/improve-monitoring-of-dataverse-plugins-using-application-insights/",
+          "publishedOn": "2022-07-13T10:58:55.000Z",
+          "wordCount": 1476,
+          "title": "Improve monitoring of Dataverse plugins using Application insights",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/07/appinsightslinkedtoenvironment-1-1.gif"
+        },
         {
           "id": "announcing-public-preview-of-auto-updates-for-power-apps",
           "author": null,
