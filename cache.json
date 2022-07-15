@@ -3214,6 +3214,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/ftdynamicsax",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e448da3a-b382-4b51-a2d0-0cf639c80348",
+          "author": "Dominic Lee",
+          "description": "A user reports that when using the \"Open in Excel\" option, the D365 Finance Excel add-in would not sign in properly. She was using this feature often and everything was working. But now when she clicks \"Sign in\", it seems to runs for a little bit and then back to the below screen with the message \"Not authenticated\" at the bottom.\n\n\n\nWe tried different ways to tackle this issue but below is what eventually worked.\n\nIn the Excel add-in, click the gear button\n\n\nChange the server URL to connect to another environment (e.g. a Tier 2 UAT environment)\n\n\nRepeat #2 but change the server URL back to the Production environment\nJust like magic, now the add-in connects without a hitch\n\nTechnology is just wonderful, isn't it?\n\n\n\nThis posting is provided \"AS IS\" with no warranties, and confers no rights.",
+          "link": "https://community.dynamics.com/ax/b/ftdynamicsax/posts/excel-add-in-would-not-login",
+          "publishedOn": "2022-07-13T23:33:00.000Z",
+          "wordCount": 3261,
+          "title": "Excel Add-in would not login",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d2b41f4d-4627-423c-8219-a37d92eca0dd",
           "author": "Dominic Lee",
           "description": "Recently I wanted to create a custom serivce in D365 taking in a JSON input. I did my usual google search but ended up needing additional trial and error to complete the use case. Here I'll share the solution I have.. \nFirstly, create a contract class which represent the a Json object \n \n/// <summary>\n/// The Student Information object contains the Student ID and Name\n/// </summary>\n[DataContractAttribute]\nclass StudentInfoContract\n{\n    str studentId;\n    str studentName;\n    [DataMemberAttribute(\"Student Id\")]\n    public str parmStudentId(str _studentId = studentId)\n    {\n        studentId = _studentId;\n        return studentId;\n    }\n    [DataMemberAttribute(\"Student Name\")]\n    public str parmStudentName(str _studentName = studentName)\n    {\n        studentName = _studentName;\n        …",

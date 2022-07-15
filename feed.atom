@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-14T02:02:42.722Z</updated>
+    <updated>2022-07-15T02:09:35.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Excel Add-in would not login]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e448da3a-b382-4b51-a2d0-0cf639c80348</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/excel-add-in-would-not-login"/>
+        <updated>2022-07-13T23:33:00.000Z</updated>
+        <summary type="html"><![CDATA[A user reports that when using the "Open in Excel" option, the D365 Finance Excel add-in would not sign in properly. She was using this feature often and everything was working. But now when she clicks "Sign in", it seems to runs for a little bit and then back to the below screen with the message "Not authenticated" at the bottom.
+
+
+
+We tried different ways to tackle this issue but below is what eventually worked.
+
+In the Excel add-in, click the gear button
+
+
+Change the server URL to connect to another environment (e.g. a Tier 2 UAT environment)
+
+
+Repeat #2 but change the server URL back to the Production environment
+Just like magic, now the add-in connects without a hitch
+
+Technology is just wonderful, isn't it?
+
+
+
+This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improve monitoring of Dataverse plugins using Application insights]]></title>
         <id>improve-monitoring-of-dataverse-plugins-using-application-insights</id>
