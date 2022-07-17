@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-15T02:09:35.741Z</updated>
+    <updated>2022-07-17T02:02:15.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enable Workforce Transformation with Microsoft Dynamics 365]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:eb76e3a8-1c80-4b89-9833-34fd36bb8140</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/enable-workforce-transformation-with-microsoft-dynamics-365"/>
+        <updated>2022-07-15T06:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 delivers world-class HR solutions built to empower every employee to help create a leading organization that is agile, resilient, and efficient. Intelligent, user-friendly tools...(read more)]]></summary>
+        <author>
+            <name>Community Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Excel Add-in would not login]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e448da3a-b382-4b51-a2d0-0cf639c80348</id>
