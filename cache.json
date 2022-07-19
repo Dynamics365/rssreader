@@ -1710,6 +1710,16 @@
       "siteUrl": "https://msdyn365fo.wordpress.com",
       "articles": [
         {
+          "id": "http://msdyn365fo.wordpress.com/?p=550",
+          "author": "Paul Heisterkamp",
+          "description": "With the latest versions of Microsoft Dynamics 365 for Finance and Operations (10.0.27+) we got a new setup in Visual Studio to select specific packages, for which we want to load symbols for debugging. In previous versions we were only able to select between symbols from elements of the current project or all symbols. The … Continue reading Stabilize your MsDyn365FO debugging experience →",
+          "link": "https://msdyn365fo.wordpress.com/2022/07/18/stabilize-your-msdyn365fo-debugging-experience/",
+          "publishedOn": "2022-07-18T07:19:36.000Z",
+          "wordCount": 2704,
+          "title": "Stabilize your MsDyn365FO debugging experience",
+          "imageUrl": "https://msdyn365fo.files.wordpress.com/2022/07/stabilize-your-msdyn365fo-debugging-experience.png"
+        },
+        {
           "id": "http://msdyn365fo.wordpress.com/?p=539",
           "author": "Paul Heisterkamp",
           "description": "I recently had the problem, that I got the error message “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write from Lifecycle Services (LCS). When I tried setting up dual-write from within Microsoft Dynamics 365 for Finance and Operations, I got the following error message: … Continue reading Error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write →",
@@ -5795,6 +5805,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "boost-maker-productivity-inside-dataverse-using-formula-columns",
+          "author": null,
+          "description": "Boost your productivity inside Dataverse using formula columns!",
+          "link": "https://powerapps.microsoft.com/en-us/blog/boost-maker-productivity-inside-dataverse-using-formula-columns/",
+          "publishedOn": "2022-07-18T12:05:00.000Z",
+          "wordCount": 1680,
+          "title": "Boost maker productivity inside Dataverse using formula columns!",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "announcing-general-availability-of-visualizing-views-in-power-apps-with-power-bi",
+          "author": null,
+          "description": "Visualize data in a view and get insights quickly with Power BI quick reports generally available on Power Apps’ view pages. The capabilities of Power Apps, Power BI and Dataverse are integrated in a seamless experience to help you understand your data easily.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-visualizing-views-in-power-apps-with-power-bi/",
+          "publishedOn": "2022-07-18T06:00:00.000Z",
+          "wordCount": 1658,
+          "title": "Announcing general availability of visualizing views in Power Apps with Power BI",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "improve-monitoring-of-dataverse-plugins-using-application-insights",
           "author": null,

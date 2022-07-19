@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-18T02:03:00.605Z</updated>
+    <updated>2022-07-19T02:10:15.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Boost maker productivity inside Dataverse using formula columns!]]></title>
+        <id>boost-maker-productivity-inside-dataverse-using-formula-columns</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/boost-maker-productivity-inside-dataverse-using-formula-columns/"/>
+        <updated>2022-07-18T12:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Boost your productivity inside Dataverse using formula columns!]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stabilize your MsDyn365FO debugging experience]]></title>
+        <id>http://msdyn365fo.wordpress.com/?p=550</id>
+        <link href="https://msdyn365fo.wordpress.com/2022/07/18/stabilize-your-msdyn365fo-debugging-experience/"/>
+        <updated>2022-07-18T07:19:36.000Z</updated>
+        <summary type="html"><![CDATA[With the latest versions of Microsoft Dynamics 365 for Finance and Operations (10.0.27+) we got a new setup in Visual Studio to select specific packages, for which we want to load symbols for debugging. In previous versions we were only able to select between symbols from elements of the current project or all symbols. The … Continue reading Stabilize your MsDyn365FO debugging experience →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing general availability of visualizing views in Power Apps with Power BI]]></title>
+        <id>announcing-general-availability-of-visualizing-views-in-power-apps-with-power-bi</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-visualizing-views-in-power-apps-with-power-bi/"/>
+        <updated>2022-07-18T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Visualize data in a view and get insights quickly with Power BI quick reports generally available on Power Apps’ view pages. The capabilities of Power Apps, Power BI and Dataverse are integrated in a seamless experience to help you understand your data easily.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enable Workforce Transformation with Microsoft Dynamics 365]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:eb76e3a8-1c80-4b89-9833-34fd36bb8140</id>
