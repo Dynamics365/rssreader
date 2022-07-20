@@ -2167,6 +2167,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=2077",
+          "author": "peter.ramer",
+          "description": "One thing that every user cares about on every single sales order is the totals. After adding all of the items to a sales order in Microsoft Dynamics 365 for Finance and Operations, the totals show you how much tax, shipping, sub-total and overall total money is owed. In this article I will show you... Continue Reading →\nThe post How To View D365 Sales Order Totals appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-sales-order-totals/?utm_source=rss&utm_medium=rss&utm_campaign=d365-sales-order-totals",
+          "publishedOn": "2022-07-18T13:00:00.000Z",
+          "wordCount": 3727,
+          "title": "How To View D365 Sales Order Totals",
+          "imageUrl": "https://i0.wp.com/dynamics365musings.com/wp-content/uploads/2022/07/How-To-View-D365-Sales-Order-Totals.png?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=2087",
           "author": "peter.ramer",
           "description": "Often times as a developer you have the need to quickly write and run some x++ code in Microsoft Dynamics 365 for Finance and Operations. In this article, I will explain how to write a D365 runnable class (Job). These jobs can be used to quickly test and experiment with some code. As well as... Continue Reading →\nThe post How To Write a D365 Runnable Class (Job) appeared first on Dynamics 365 Musings.",

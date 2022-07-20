@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-19T02:10:15.468Z</updated>
+    <updated>2022-07-20T01:56:40.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To View D365 Sales Order Totals]]></title>
+        <id>https://dynamics365musings.com/?p=2077</id>
+        <link href="https://dynamics365musings.com/d365-sales-order-totals/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-sales-order-totals"/>
+        <updated>2022-07-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One thing that every user cares about on every single sales order is the totals. After adding all of the items to a sales order in Microsoft Dynamics 365 for Finance and Operations, the totals show you how much tax, shipping, sub-total and overall total money is owed. In this article I will show you... Continue Reading →
+The post How To View D365 Sales Order Totals appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boost maker productivity inside Dataverse using formula columns!]]></title>
         <id>boost-maker-productivity-inside-dataverse-using-formula-columns</id>
