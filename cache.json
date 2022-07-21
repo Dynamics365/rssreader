@@ -5816,6 +5816,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "announcing-public-preview-of-eslint-rules-for-power-apps-and-dynamics-365",
+          "author": null,
+          "description": "We are excited to announce the public preview of ESLint rules for Power Apps model-driven apps and Dynamics 365 CE. This will help you find and fix issues in your JavaScript code before being packaged into a solution.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-eslint-rules-for-power-apps-and-dynamics-365/",
+          "publishedOn": "2022-07-20T07:54:00.000Z",
+          "wordCount": 1551,
+          "title": "Announcing public preview of ESLint rules for Power Apps and Dynamics 365",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "boost-maker-productivity-inside-dataverse-using-formula-columns",
           "author": null,
           "description": "Boost your productivity inside Dataverse using formula columns!",

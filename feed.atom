@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-20T01:56:40.099Z</updated>
+    <updated>2022-07-21T01:57:55.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing public preview of ESLint rules for Power Apps and Dynamics 365]]></title>
+        <id>announcing-public-preview-of-eslint-rules-for-power-apps-and-dynamics-365</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-eslint-rules-for-power-apps-and-dynamics-365/"/>
+        <updated>2022-07-20T07:54:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the public preview of ESLint rules for Power Apps model-driven apps and Dynamics 365 CE. This will help you find and fix issues in your JavaScript code before being packaged into a solution.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To View D365 Sales Order Totals]]></title>
         <id>https://dynamics365musings.com/?p=2077</id>
