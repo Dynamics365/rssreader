@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-21T01:57:55.676Z</updated>
+    <updated>2022-07-22T02:01:08.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -2081,6 +2081,23 @@ The post D365 Joins in X++ appeared first on Dynamics 365 Musings.]]></summary>
         <summary type="html"><![CDATA[Microsoft is working on creating a better experience for viewing release plans for Dynamics and Power Platform. In this portal, you can view all new features that are organized by what has recently re...(read more)]]></summary>
         <author>
             <name>Todd Jeska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics AX 2012 naar D365 F&O kookboek]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f6ddc3c9-71ef-47ad-9847-513eded03a27</id>
+        <link href="https://community.dynamics.com/ax/b/axstart/posts/dynamics-ax-2012-naar-d365-f-o-kookboek"/>
+        <updated>2022-02-17T11:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics AX 2012 naar D365 F&O kookboek
+Ik heb al heel wat datamigraties gedaan, maar om eerlijk te zijn houd ik niet van de volledige data- en codemigratie.
+Dus ja, ik doe de codemigratie, maar de gemigreerde code is vanuit mijn oogpunt slechts een library met mogelijke herbruikbare oplossingen. We refactoreren deze code altijd, maar dat zal een impact hebben op de datamigratie. Dus, hoe kunnen we het op de juiste manier doen? We maken de nieuwe masterdata, en als deze taak is voltooid, moet je migreren naar de volgende topics. De truc is dat je ook de customizations van bovenstaande topics moet toevoegen op de data-entiteiten. Deze truc werkt zelfs voor AX 2009. Dus, hier is een overzicht van alles wat geëxporteerd moet worden.
+Wat moet je exporteren?
+
+Customers
+Sales tax exempt numbers
+…]]></summary>
+        <author>
+            <name>Dick Wenning</name>
         </author>
     </entry>
     <entry>

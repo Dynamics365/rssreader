@@ -4814,6 +4814,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axstart",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f6ddc3c9-71ef-47ad-9847-513eded03a27",
+          "author": "Dick Wenning",
+          "description": "Dynamics AX 2012 naar D365 F&O kookboek\nIk heb al heel wat datamigraties gedaan, maar om eerlijk te zijn houd ik niet van de volledige data- en codemigratie.\nDus ja, ik doe de codemigratie, maar de gemigreerde code is vanuit mijn oogpunt slechts een library met mogelijke herbruikbare oplossingen. We refactoreren deze code altijd, maar dat zal een impact hebben op de datamigratie. Dus, hoe kunnen we het op de juiste manier doen? We maken de nieuwe masterdata, en als deze taak is voltooid, moet je migreren naar de volgende topics. De truc is dat je ook de customizations van bovenstaande topics moet toevoegen op de data-entiteiten. Deze truc werkt zelfs voor AX 2009. Dus, hier is een overzicht van alles wat geëxporteerd moet worden.\nWat moet je exporteren?\n\nCustomers\nSales tax exempt numbers\n…",
+          "link": "https://community.dynamics.com/ax/b/axstart/posts/dynamics-ax-2012-naar-d365-f-o-kookboek",
+          "publishedOn": "2022-02-17T11:54:16.000Z",
+          "wordCount": 4009,
+          "title": "Dynamics AX 2012 naar D365 F&O kookboek",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:2035182c-b394-4a44-914c-aa5077a2ebf4",
           "author": "Dick Wenning",
           "description": "It is a general issue with D365FO development on those development VMs (virtual machines) when it is not working as planned, in the end we throw it away and start over. In the next blog I will explain some tricks to solve issues on the disk space. Look at the next example, we use a disk of 32GB and need 20 of them so we have 640 GB of disk space.\n\n\n\n\nOf course, check the prices: Pricing – Managed Disks | Microsoft Azure.\nBesides the disk size I also use DS13 V2, so I can upgrade to Managed Disks: Performance tuning development VM (Virtual Machine) – Kaya Consulting (kaya-consulting.com)\nWhy not 10 * 64 GB or 5 * 128 GB? It is all about IOPS!\nLater, in Azure it will look like below.\n\n\n\n\nWhen we look at the VM with Disk Management we see a striped disk that has partitions for database and ‘A…",
