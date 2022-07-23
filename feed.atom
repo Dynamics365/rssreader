@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-22T02:01:08.324Z</updated>
+    <updated>2022-07-23T01:57:35.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Want to leverage AI with Microsoft Dynamics 365 Finance and Supply Chain for Insights?]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c45610b7-f328-42b0-896e-03e3abd3df2c</id>
+        <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/want-to-leverage-ai-with-microsoft-dynamics-365-finance-and-supply-chain-for-insights"/>
+        <updated>2022-07-22T08:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Human expertise combined with Artificial Intelligence (AI)can open opportunity doors like never before.
+
+Whether it is insights for decision making in financials area or supply chain area, Now both ke...(read more)]]></summary>
+        <author>
+            <name>Rahul Mohta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing public preview of ESLint rules for Power Apps and Dynamics 365]]></title>
         <id>announcing-public-preview-of-eslint-rules-for-power-apps-and-dynamics-365</id>
