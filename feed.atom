@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-26T02:07:46.386Z</updated>
+    <updated>2022-07-27T02:05:17.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Regression Suite Automation Tool, a day in a live]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b1cf6270-ece7-4621-8544-29f18963ced8</id>
+        <link href="https://community.dynamics.com/ax/b/axstart/posts/regression-suite-automation-tool-a-day-in-a-live"/>
+        <updated>2022-07-26T09:43:48.000Z</updated>
+        <summary type="html"><![CDATA[We have been working for a while now with RSAT at various customers, it is stable, but we see sometime small glitches in user experience. In general, what is happening, if you haven’t maintained/used it for a while (for instance when during implementation RSAT is configured and used (for instance as provisioning tool), but then […]
+Het bericht Regression Suite Automation Tool, a day in a live verscheen eerst op Kaya Consulting.]]></summary>
+        <author>
+            <name>Dick Wenning</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whats new: Power Apps July 2022 Feature Update]]></title>
         <id>whats-new-power-apps-july-2022-feature-update</id>
@@ -6347,6 +6358,40 @@ extensibility / feedbacks - functional side also for Dynamics 365 Finance
 Insights, believe it’s worth it ….]]></summary>
         <author>
             <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database movement from Tier 1 to Tier 1]]></title>
+        <id>https://nuxulu.com/2020-07-14-database-movement-tier1-to-tier1/</id>
+        <link href="https://nuxulu.com/2020-07-14-database-movement-tier1-to-tier1/"/>
+        <updated>2020-07-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In GOLD, export GOLD bak file
+In MIG, stop all services: Batch, DIXF, MR
+In MIG, backup AXDB MIG
+in MIG, AxDB to AxDB_Orgi
+In MIG, Create AxDB_New
+In MIG,resotre GOLD to AxDB_New
+AxDB_Gold to AxDB
+Start all the services and resett IIS in LCS
+DB Sync
+
+
+
+1
+2
+3
+4
+5
+
+
+
+ALTER DATABASE AxDB SET Single_user With Rollback immediate
+alter database AxDB Modify name = AxDB_Orig
+alter database AxDB_Orig SET MULTI_USER
+alter database AxDB_Gold Modify name = AxDB
+select * from [USERINFO]]]></summary>
+        <author>
+            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>
