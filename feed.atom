@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-27T02:05:17.166Z</updated>
+    <updated>2022-07-28T01:56:09.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Boost Developer Productivity with Dependent Assemblies for Plug-ins]]></title>
+        <id>boost-developer-productivity-with-dependent-assemblies-for-plug-ins</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/boost-developer-productivity-with-dependent-assemblies-for-plug-ins/"/>
+        <updated>2022-07-27T12:30:56.000Z</updated>
+        <summary type="html"><![CDATA[We are thrilled to announce that Dependent Assemblies for plug-ins is all set for preview. We need your feedback on this feature and you can start providing it today. This feature is designed to boost developer productivity by eliminating the overhead of using ILMerge to manually merge dependent assemblies. With dependent assemblies, rather than register an individual .NET assembly, you will upload a NuGet Package that contains your plug-in assembly AND any dependent assemblies. Unlike ILMerge, you can also include other file resources, such as JSON files containing localized strings.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Regression Suite Automation Tool, a day in a live]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b1cf6270-ece7-4621-8544-29f18963ced8</id>
