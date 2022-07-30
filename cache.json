@@ -1857,6 +1857,16 @@
       "siteUrl": "https://ariste.info/en/",
       "articles": [
         {
+          "id": "https://ariste.info/?p=6263",
+          "author": "Adrià Ariste Santacreu",
+          "description": "We’ve seen a lot of improvements to the product since it was released as AX7, and some name changes too 😝 And one of the areas where we’ve seen more enhancements is the batch framework. And since the currently live last version of Dynamics 365 Finance and Operations, 10.0.28, we have a new feature that [...]\nariste.info Priority-based batch scheduling in Dynamics 365",
+          "link": "https://ariste.info/en/2022/07/priority-based-batch-scheduling-dynamics/",
+          "publishedOn": "2022-07-29T05:41:00.000Z",
+          "wordCount": 3333,
+          "title": "Priority-based batch scheduling in Dynamics 365",
+          "imageUrl": "https://static.ariste.info/wp-content/uploads/2022/07/IMG-2391-1024x1024.png"
+        },
+        {
           "id": "https://ariste.info/?p=6151",
           "author": "Adrià Ariste Santacreu",
           "description": "Let’s talk about logs in Dynamics 365 Finance and Operations. And I don’t mean the built-in database logs we’ve had since the old Axapta days. I’m talking about plain logs, a table and a form to see how/why data is changing, or logging external calls to OData or custom web services endpoints in the ERP. [...]\nariste.info Logs in Dynamics 365: not anymore!",

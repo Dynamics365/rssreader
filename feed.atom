@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-29T02:05:24.639Z</updated>
+    <updated>2022-07-30T01:57:29.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Priority-based batch scheduling in Dynamics 365]]></title>
+        <id>https://ariste.info/?p=6263</id>
+        <link href="https://ariste.info/en/2022/07/priority-based-batch-scheduling-dynamics/"/>
+        <updated>2022-07-29T05:41:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve seen a lot of improvements to the product since it was released as AX7, and some name changes too 😝 And one of the areas where we’ve seen more enhancements is the batch framework. And since the currently live last version of Dynamics 365 Finance and Operations, 10.0.28, we have a new feature that [...]
+ariste.info Priority-based batch scheduling in Dynamics 365]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boost Developer Productivity with Dependent Assemblies for Plug-ins]]></title>
         <id>boost-developer-productivity-with-dependent-assemblies-for-plug-ins</id>
