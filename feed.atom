@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-07-31T02:10:43.715Z</updated>
+    <updated>2022-08-01T02:08:23.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Event Preview: What to expect at September's DynamicsCon LIVE]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d1a1d43f-26c9-4d58-96a2-2688acc988fb</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/event-preview-what-to-expect-at-september-s-dynamicscon-live"/>
+        <updated>2022-07-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Updated programming to feature many Microsoft MVPs as Dynamics User Group plans for broader community efforts .... Read More Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Priority-based batch scheduling in Dynamics 365]]></title>
         <id>https://ariste.info/?p=6263</id>
