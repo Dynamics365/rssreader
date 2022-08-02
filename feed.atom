@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-01T02:08:23.581Z</updated>
+    <updated>2022-08-02T02:16:39.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[sa.global acquires DXC Technology's Microsoft Dynamics solutions ReQlogic and Homebuilder One]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3e3b5e0a-d7b8-4f32-a3d7-5cab6f65fd45</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/sa-global-acquires-dxc-technology-s-microsoft-dynamics-solutions-reqlogic-and-homebuilder-one"/>
+        <updated>2022-08-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft partner sa.global has acquired two Dynamics ERP-based
+products from DXC Technologies. 
+ The two products, SMB productivity suite ReQlogic and
+homebuilding industry solution Homebuilder One, will broaden
+sa.global’s customer base, adding about... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Event Preview: What to expect at September's DynamicsCon LIVE]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d1a1d43f-26c9-4d58-96a2-2688acc988fb</id>
@@ -8726,16 +8740,6 @@ Filed under: Uncategorized]]></summary>
         <summary type="html"><![CDATA[Earlier in the year, I took a look at Power BI, and tried to find out what it could do with AX data. My ambition was to use Power BI’s natural language search to build reports on AX data. Natura...(read more)]]></summary>
         <author>
             <name>Guy Terry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AX2012 : Adding text translations to entities using X++ [Technical walk-through]]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d4d6e322-8e20-4537-99e7-404f5d6e0db8</id>
-        <link href="https://community.dynamics.com/ax/b/dynamicsaxconcoction/posts/ax2012-adding-text-translations-to-entities-using-x-technical-walk-through"/>
-        <updated>2015-09-07T13:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi Friends,Microsoft dynamics AX provides text translation possibilities on some standard entities like products, ledger accounts, financial dimension and few more. Text translations are displayed on ...(read more)]]></summary>
-        <author>
-            <name>Rachit Garg</name>
         </author>
     </entry>
 </feed>

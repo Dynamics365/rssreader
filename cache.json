@@ -634,6 +634,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3e3b5e0a-d7b8-4f32-a3d7-5cab6f65fd45",
+          "author": "MSDynamicsWorld.com",
+          "description": "Microsoft partner sa.global has acquired two Dynamics ERP-based\nproducts from DXC Technologies. \n The two products, SMB productivity suite ReQlogic and\nhomebuilding industry solution Homebuilder One, will broaden\nsa.global’s customer base, adding about... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/sa-global-acquires-dxc-technology-s-microsoft-dynamics-solutions-reqlogic-and-homebuilder-one",
+          "publishedOn": "2022-08-01T15:00:00.000Z",
+          "wordCount": 3344,
+          "title": "sa.global acquires DXC Technology's Microsoft Dynamics solutions ReQlogic and Homebuilder One",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d1a1d43f-26c9-4d58-96a2-2688acc988fb",
           "author": "MSDynamicsWorld.com",
           "description": "Updated programming to feature many Microsoft MVPs as Dynamics User Group plans for broader community efforts .... Read More Read the full text.",
@@ -4587,16 +4597,6 @@
           "publishedOn": "2015-11-03T08:05:00.000Z",
           "wordCount": 952,
           "title": "AX2012 : Tip when using date effective tables as a reference data source",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d4d6e322-8e20-4537-99e7-404f5d6e0db8",
-          "author": "Rachit Garg",
-          "description": "Hi Friends,Microsoft dynamics AX provides text translation possibilities on some standard entities like products, ledger accounts, financial dimension and few more. Text translations are displayed on ...(read more)",
-          "link": "https://community.dynamics.com/ax/b/dynamicsaxconcoction/posts/ax2012-adding-text-translations-to-entities-using-x-technical-walk-through",
-          "publishedOn": "2015-09-07T13:28:00.000Z",
-          "wordCount": 1389,
-          "title": "AX2012 : Adding text translations to entities using X++ [Technical walk-through]",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
