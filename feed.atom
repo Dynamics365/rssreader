@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-02T02:16:39.909Z</updated>
+    <updated>2022-08-03T01:58:14.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DXC sells Americas Microsoft Dynamics group to EY, continuing separation]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1a63786a-a5dc-42fd-99dc-bccad6237c3a</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/dxc-sells-americas-microsoft-dynamics-group-to-ey-continuing-separation"/>
+        <updated>2022-08-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ernst & Young (EY) announced it has
+acquired the Americas Microsoft Dynamics services business of DXC
+Technology.
+ The DXC team will join the EY Microsoft Services Group, part of
+EY Consulting Services, to grow their business applications
+coverage in... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastpath acquires Identity Governance and Administration (IGA) solution ideiio]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4fcbbf39-ca0f-4f03-8d69-8404ddae317a</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/fastpath-acquires-identity-governance-and-administration-iga-solution-ideiio"/>
+        <updated>2022-08-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fastpath Solutions, makers of access control and Separation of
+Duties (SoD) solutions for business applications, announced they
+have acquired ideiio, makers of an identity governance and
+administration (IGA) solution. 
+ The combined capabilities will... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sa.global acquires DXC Technology's Microsoft Dynamics solutions ReQlogic and Homebuilder One]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3e3b5e0a-d7b8-4f32-a3d7-5cab6f65fd45</id>
