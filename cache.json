@@ -5906,6 +5906,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "bring-microsoft-365-collaboration-to-your-model-driven-apps",
+          "author": null,
+          "description": "Collaboration controls (Preview) enable you to easily add M365 capabilities to your Power Apps line of business custom applications to simplify user workflows when collaborating on business processes in Teams or Power Apps.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/bring-microsoft-365-collaboration-to-your-model-driven-apps/",
+          "publishedOn": "2022-08-04T08:00:00.000Z",
+          "wordCount": 1937,
+          "title": "Bring Microsoft 365 collaboration to your model-driven apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "boost-developer-productivity-with-dependent-assemblies-for-plug-ins",
           "author": null,
           "description": "We are thrilled to announce that Dependent Assemblies for plug-ins is all set for preview. We need your feedback on this feature and you can start providing it today. This feature is designed to boost developer productivity by eliminating the overhead of using ILMerge to manually merge dependent assemblies. With dependent assemblies, rather than register an individual .NET assembly, you will upload a NuGet Package that contains your plug-in assembly AND any dependent assemblies. Unlike ILMerge, you can also include other file resources, such as JSON files containing localized strings.",

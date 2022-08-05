@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-04T01:54:06.425Z</updated>
+    <updated>2022-08-05T01:57:10.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bring Microsoft 365 collaboration to your model-driven apps]]></title>
+        <id>bring-microsoft-365-collaboration-to-your-model-driven-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/bring-microsoft-365-collaboration-to-your-model-driven-apps/"/>
+        <updated>2022-08-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Collaboration controls (Preview) enable you to easily add M365 capabilities to your Power Apps line of business custom applications to simplify user workflows when collaborating on business processes in Teams or Power Apps.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DXC sells Americas Microsoft Dynamics group to EY, continuing separation]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1a63786a-a5dc-42fd-99dc-bccad6237c3a</id>
