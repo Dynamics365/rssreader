@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-09T02:02:49.209Z</updated>
+    <updated>2022-08-10T01:44:59.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creating canvas apps as Dataverse solutions by default (preview)]]></title>
+        <id>creating-canvas-apps-as-dataverse-solutions-by-default-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/creating-canvas-apps-as-dataverse-solutions-by-default-preview/"/>
+        <updated>2022-08-09T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the release of Canvas apps creation as Dataverse solutions by default in public preview]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avalara acquired by Vista Equity Partners for $8 billion]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:93951292-4757-43f5-8e87-60cfe78b1a7d</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/avalara-acquired-by-vista-equity-partners-for-8-billion"/>
+        <updated>2022-08-08T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tax compliance vendor Avalara has
+been purchased by Vista Equity Partners, the companies announced
+today. The all-cash transaction is valued at $8.4 billion, or a 27%
+premium over Avalara’s share price as of July 6.
+ “In partnering with Vista, Avalara... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D365 Commerce : Omitting serialization of null and default values in JSON payloads]]></title>
         <id>http://kurthatlevik.com/?p=4390</id>
