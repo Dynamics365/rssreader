@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-10T01:44:59.419Z</updated>
+    <updated>2022-08-11T01:48:37.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Updating MsDyn365FO model parameters from projects context menu in Visual Studio]]></title>
+        <id>http://msdyn365fo.wordpress.com/?p=546</id>
+        <link href="https://msdyn365fo.wordpress.com/2022/08/10/updating-msdyn365fo-model-parameters-from-projects-context-menu-in-visual-studio/"/>
+        <updated>2022-08-10T06:41:33.000Z</updated>
+        <summary type="html"><![CDATA[I recently found a new entry in the context menu of Microsoft Dynamics 365 for Finance and Operations projects which represents a shortcut for updating the model parameters for the model/package linked to the project. Before you had to navigate via Extensions > Dynamics 365 > Model Management > Update Model Parameters… to the list … Continue reading Updating MsDyn365FO model parameters from projects context menu in Visual Studio →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating canvas apps as Dataverse solutions by default (preview)]]></title>
         <id>creating-canvas-apps-as-dataverse-solutions-by-default-preview</id>

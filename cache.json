@@ -1780,6 +1780,16 @@
       "siteUrl": "https://msdyn365fo.wordpress.com",
       "articles": [
         {
+          "id": "http://msdyn365fo.wordpress.com/?p=546",
+          "author": "Paul Heisterkamp",
+          "description": "I recently found a new entry in the context menu of Microsoft Dynamics 365 for Finance and Operations projects which represents a shortcut for updating the model parameters for the model/package linked to the project. Before you had to navigate via Extensions > Dynamics 365 > Model Management > Update Model Parameters… to the list … Continue reading Updating MsDyn365FO model parameters from projects context menu in Visual Studio →",
+          "link": "https://msdyn365fo.wordpress.com/2022/08/10/updating-msdyn365fo-model-parameters-from-projects-context-menu-in-visual-studio/",
+          "publishedOn": "2022-08-10T06:41:33.000Z",
+          "wordCount": 2622,
+          "title": "Updating MsDyn365FO model parameters from projects context menu in Visual Studio",
+          "imageUrl": "https://msdyn365fo.files.wordpress.com/2022/07/updating-msdyn365fo-model-parameters-from-projects-context-menu-in-visual-studio.png"
+        },
+        {
           "id": "http://msdyn365fo.wordpress.com/?p=550",
           "author": "Paul Heisterkamp",
           "description": "With the latest versions of Microsoft Dynamics 365 for Finance and Operations (10.0.27+) we got a new setup in Visual Studio to select specific packages, for which we want to load symbols for debugging. In previous versions we were only able to select between symbols from elements of the current project or all symbols. The … Continue reading Stabilize your MsDyn365FO debugging experience →",
