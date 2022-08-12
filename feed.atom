@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-11T01:48:37.662Z</updated>
+    <updated>2022-08-12T01:52:06.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inline editing, modern browsing, and more with the new Power Apps grid control]]></title>
+        <id>inline-editing-modern-browsing-and-more-with-the-new-power-apps-grid-control</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/inline-editing-modern-browsing-and-more-with-the-new-power-apps-grid-control/"/>
+        <updated>2022-08-11T13:38:32.000Z</updated>
+        <summary type="html"><![CDATA[The new Power Apps grid control in model-driven apps is officially in public preview! This control can be used for both read-only and editable scenarios, supports infinite scrolling for a modern browsing experience, and allows pro-dev makers to customize the appearance of cells. Try it out today!]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Updating MsDyn365FO model parameters from projects context menu in Visual Studio]]></title>
         <id>http://msdyn365fo.wordpress.com/?p=546</id>
