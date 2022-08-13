@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-12T01:52:06.197Z</updated>
+    <updated>2022-08-13T01:46:30.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New version of Power Platform Build Tools and a Feature packed update of Power Platform CLI]]></title>
+        <id>new-version-of-power-platform-build-tools-and-a-feature-packed-update-of-power-platform-cli</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/new-version-of-power-platform-build-tools-and-a-feature-packed-update-of-power-platform-cli/"/>
+        <updated>2022-08-12T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to announce a new version of the Power Platform Build Tools (Azure DevOps tasks) and our monthly update to Power Platform CLI. Read on for significant new features coming this month, including: Power Platform Build Tools: Now based on Power Platform CLI New CLI command to assign user New CLI command to … 
+Continue reading “New version of Power Platform Build Tools and a Feature packed update of Power Platform CLI”]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inline editing, modern browsing, and more with the new Power Apps grid control]]></title>
         <id>inline-editing-modern-browsing-and-more-with-the-new-power-apps-grid-control</id>

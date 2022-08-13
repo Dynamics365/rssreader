@@ -5936,6 +5936,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "new-version-of-power-platform-build-tools-and-a-feature-packed-update-of-power-platform-cli",
+          "author": null,
+          "description": "We are happy to announce a new version of the Power Platform Build Tools (Azure DevOps tasks) and our monthly update to Power Platform CLI. Read on for significant new features coming this month, including: Power Platform Build Tools: Now based on Power Platform CLI New CLI command to assign user New CLI command to … \nContinue reading “New version of Power Platform Build Tools and a Feature packed update of Power Platform CLI”",
+          "link": "https://powerapps.microsoft.com/en-us/blog/new-version-of-power-platform-build-tools-and-a-feature-packed-update-of-power-platform-cli/",
+          "publishedOn": "2022-08-12T09:00:00.000Z",
+          "wordCount": 2866,
+          "title": "New version of Power Platform Build Tools and a Feature packed update of Power Platform CLI",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "inline-editing-modern-browsing-and-more-with-the-new-power-apps-grid-control",
           "author": null,
           "description": "The new Power Apps grid control in model-driven apps is officially in public preview! This control can be used for both read-only and editable scenarios, supports infinite scrolling for a modern browsing experience, and allows pro-dev makers to customize the appearance of cells. Try it out today!",
