@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-17T02:13:05.142Z</updated>
+    <updated>2022-08-18T02:10:30.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automatically create a Power App from a REST API]]></title>
+        <id>automatically-create-a-power-app-from-a-rest-api</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/automatically-create-a-power-app-from-a-rest-api/"/>
+        <updated>2022-08-17T08:07:42.000Z</updated>
+        <summary type="html"><![CDATA[You’ve deployed a REST API for your new service, and you’ve created a custom connector so that the Power Platform can work with it. Now what? We are excited to announce a new Power Platform CLI command that will create a fully functional canvas Power App that can be used to explore and validate your … 
+Continue reading “Automatically create a Power App from a REST API”]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Use D365 Batch Jobs]]></title>
         <id>https://dynamics365musings.com/?p=2153</id>

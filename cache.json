@@ -5946,6 +5946,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "automatically-create-a-power-app-from-a-rest-api",
+          "author": null,
+          "description": "You’ve deployed a REST API for your new service, and you’ve created a custom connector so that the Power Platform can work with it. Now what? We are excited to announce a new Power Platform CLI command that will create a fully functional canvas Power App that can be used to explore and validate your … \nContinue reading “Automatically create a Power App from a REST API”",
+          "link": "https://powerapps.microsoft.com/en-us/blog/automatically-create-a-power-app-from-a-rest-api/",
+          "publishedOn": "2022-08-17T08:07:42.000Z",
+          "wordCount": 1715,
+          "title": "Automatically create a Power App from a REST API",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "power-fx-error-handling-graduates-to-preview",
           "author": null,
           "description": "Reliable error handling moves to preview for Power Fx and Power Apps.  You now have all the tools you need to detect, replace, report, and log errors, including a good default behavior if you never take advantage of these tools.  And, bonus, you can also now write blank (or null) values to databases.",
