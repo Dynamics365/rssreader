@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-18T02:10:30.542Z</updated>
+    <updated>2022-08-19T02:02:32.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: Building your digital supply chain]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3ef73c9b-c7c1-45a2-a30d-a86bce29e80e</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-building-your-digital-supply-chain"/>
+        <updated>2022-08-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Editor's Note: This episode is sponsored by TIE Kinetix. 
+ 
+ No two companies follow the same path to modernizing their
+supply chain, but successful supply chain transformation projects
+share some important characteristics, says our guest Dave Mazur of... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automatically create a Power App from a REST API]]></title>
         <id>automatically-create-a-power-app-from-a-rest-api</id>
