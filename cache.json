@@ -2664,6 +2664,16 @@
           "imageUrl": null
         },
         {
+          "id": "1645 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Let's see how data values effect entity performance.\n\nRelated to Part 17, I didn't quite get the result I was looking for so I created a large amount of data - approximately 400k orders. We will be running the same tests as in part 17 - only the amount of data has changed. I wasn't satisfied with creating, confirming, packing and invoicing 400k Sales Orders. I let the multithreaded batch job run a little bit longer this time and created approximately 4.5 million SO's that were confirmed, packed, and invoiced. Here Is what I found.\nData Growth Rate (more Infinite Hyper Death)\nI was interested in the overall growth of data over time just to see what is happeneding in terms of throughput. Also, I wanted to record if there was a measureable difference between using Standard HDDs on the VM vers…",
+          "link": "https://www.atomicax.com/content/part-175-more-over-using-computed-fields",
+          "publishedOn": "2022-02-09T03:05:06.000Z",
+          "wordCount": 1158,
+          "title": "Part 17.5 - (more) Over Using Computed Fields",
+          "imageUrl": null
+        },
+        {
           "id": "1644 at https://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 02/08/22.\n\n\n\n\n\n\n\n\n\n\n\n\nWhat can we do with ATL to create some transactions? Let's take a look.\nAfter this post, I wanted to manufacture some data to better show that adding computed fields adds overhead for every operation within a data entity. That post somewhat showed it but I wanted something more cut and dry. I thought a good way to manufacture data in a Contoso environment would be use ATL, string together some ATL processes to create, pack, and invoice orders. In designing a way to do this, I had to fumble my way through how to do it. I wanted to add approximately 10 million processed orders. It didn't exactly work out but here is what I learned.\nLegal Entities\nRather than specificially provide values for your known legal entities, you can create Demo Dat…",

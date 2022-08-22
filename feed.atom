@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-21T01:56:37.199Z</updated>
+    <updated>2022-08-22T02:01:08.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -2514,6 +2514,20 @@ comment for your suggestion .]]></summary>
         <summary type="html"><![CDATA[Transfer orders between warehouses is a common practice for businesses with multi-site and multi-warehouse operations for replenishing and sharing inventory. Transfer orders work by issuing product from a physical warehouse]]></summary>
         <author>
             <name>Tim Woods</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 17.5 - (more) Over Using Computed Fields]]></title>
+        <id>1645 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/part-175-more-over-using-computed-fields"/>
+        <updated>2022-02-09T03:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Let's see how data values effect entity performance.
+
+Related to Part 17, I didn't quite get the result I was looking for so I created a large amount of data - approximately 400k orders. We will be running the same tests as in part 17 - only the amount of data has changed. I wasn't satisfied with creating, confirming, packing and invoicing 400k Sales Orders. I let the multithreaded batch job run a little bit longer this time and created approximately 4.5 million SO's that were confirmed, packed, and invoiced. Here Is what I found.
+Data Growth Rate (more Infinite Hyper Death)
+I was interested in the overall growth of data over time just to see what is happeneding in terms of throughput. Also, I wanted to record if there was a measureable difference between using Standard HDDs on the VM vers…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
