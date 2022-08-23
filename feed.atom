@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-22T02:01:08.917Z</updated>
+    <updated>2022-08-23T02:08:49.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Manage D365 Batch Jobs]]></title>
+        <id>https://dynamics365musings.com/?p=2175</id>
+        <link href="https://dynamics365musings.com/manage-d365-batch-jobs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=manage-d365-batch-jobs"/>
+        <updated>2022-08-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Previously, you learned how to use batch jobs to automate and offload recurring tasks to the server. In this article, we will cover how to manage D365 batch jobs. This includes jobs that will run once. As well as those running on a recurrence. When a batch job has an error, or stops running, a... Continue Reading →
+The post How To Manage D365 Batch Jobs appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSDW Podcast: Building your digital supply chain]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3ef73c9b-c7c1-45a2-a30d-a86bce29e80e</id>

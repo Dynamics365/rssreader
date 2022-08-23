@@ -2267,6 +2267,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=2175",
+          "author": "peter.ramer",
+          "description": "Previously, you learned how to use batch jobs to automate and offload recurring tasks to the server. In this article, we will cover how to manage D365 batch jobs. This includes jobs that will run once. As well as those running on a recurrence. When a batch job has an error, or stops running, a... Continue Reading →\nThe post How To Manage D365 Batch Jobs appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/manage-d365-batch-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=manage-d365-batch-jobs",
+          "publishedOn": "2022-08-22T13:00:00.000Z",
+          "wordCount": 4335,
+          "title": "How To Manage D365 Batch Jobs",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/08/How-To-Manage-D365-Batch-Jobs.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=2153",
           "author": "peter.ramer",
           "description": "In this article learn to how use D365 batch jobs to automate and offload recurring tasks to the server. This will allow your employees to be more productive and save time. Learn to recognize when a process can be run as a batch job. And learn about the many processes that can be run by... Continue Reading →\nThe post How To Use D365 Batch Jobs appeared first on Dynamics 365 Musings.",
