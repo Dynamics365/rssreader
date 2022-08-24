@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-23T02:08:49.969Z</updated>
+    <updated>2022-08-24T02:04:40.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Search and find Dynamics 365 records with Microsoft Search]]></title>
+        <id>search-and-find-dynamics-365-records-with-microsoft-search</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/search-and-find-dynamics-365-records-with-microsoft-search/"/>
+        <updated>2022-08-23T13:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Enable Dynamics 365 records to show in Microsoft Search]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Manage D365 Batch Jobs]]></title>
         <id>https://dynamics365musings.com/?p=2175</id>

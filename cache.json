@@ -5976,6 +5976,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "search-and-find-dynamics-365-records-with-microsoft-search",
+          "author": null,
+          "description": "Enable Dynamics 365 records to show in Microsoft Search",
+          "link": "https://powerapps.microsoft.com/en-us/blog/search-and-find-dynamics-365-records-with-microsoft-search/",
+          "publishedOn": "2022-08-23T13:43:32.000Z",
+          "wordCount": 1586,
+          "title": "Search and find Dynamics 365 records with Microsoft Search",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/08/FederatedSearchBlog-Pic1-1.png"
+        },
+        {
           "id": "automatically-create-a-power-app-from-a-rest-api",
           "author": null,
           "description": "You’ve deployed a REST API for your new service, and you’ve created a custom connector so that the Power Platform can work with it. Now what? We are excited to announce a new Power Platform CLI command that will create a fully functional canvas Power App that can be used to explore and validate your … \nContinue reading “Automatically create a Power App from a REST API”",
