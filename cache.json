@@ -1446,6 +1446,17 @@
       "siteUrl": "https://www.powerazure365.com/",
       "articles": [
         {
+          "id": "5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:63072b1b2f6f157402d75d05",
+          "author": "Aurélien Clere",
+          "description": "New article here to explain a new solution I have made for Data ALM (and \r\nautomation everywhere) in terms of data movement for Dynamics 365 Finance \r\nOperations. For the code ALM part, and even for RSAT, all the way it’s \r\nquite really easy to manage from development to release (especially thanks \r\nto Azure Dev Ops). But what about data / refresh / copy / backup and \r\nrestore ? From many years now on, I was (as partner) trying to do it the \r\nmore automatically I can for customers - and even me in fact... But as of \r\ntoday, and as a gift for the community, I release a brand new solution to \r\ninstall it and manage that without any MANUAL actions for all steps \r\nrequired for data movement ! I hope that it will help you a lot - like it \r\nwill help me a lot for me, believe me - tons of hours saved. Let’s jump in \r\n!",
+          "link": "https://www.powerazure365.com/blog-1/data-alm-dynamics-365-finance-operations",
+          "publishedOn": "2022-08-25T12:01:07.000Z",
+          "wordCount": null,
+          "title": "Data ALM Dynamics 365 Finance Operations",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:6204dcae8288115911169526",
           "author": "Aurélien Clere",
           "description": "It was time for me to do a long blog post article about something really \r\nimportant about Dynamics 365 : How to deploy a global end-to-end \r\nArchitecture for BI and AI/ML very quickly, with of course the Azure Data \r\nPlatform : aka Data Lake and Synapse Analytics. After several deployments, \r\nand of course several best practices and projects, time to share my thought \r\nabout this and help you deploy a real Modern Data warehouse with all kind \r\nof Business Apps data you have ! Let’s jump in !",

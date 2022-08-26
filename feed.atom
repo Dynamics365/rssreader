@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-25T02:09:32.905Z</updated>
+    <updated>2022-08-26T02:22:39.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data ALM Dynamics 365 Finance Operations]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:63072b1b2f6f157402d75d05</id>
+        <link href="https://www.powerazure365.com/blog-1/data-alm-dynamics-365-finance-operations"/>
+        <updated>2022-08-25T12:01:07.000Z</updated>
+        <summary type="html"><![CDATA[New article here to explain a new solution I have made for Data ALM (and 
+automation everywhere) in terms of data movement for Dynamics 365 Finance 
+Operations. For the code ALM part, and even for RSAT, all the way it’s 
+quite really easy to manage from development to release (especially thanks 
+to Azure Dev Ops). But what about data / refresh / copy / backup and 
+restore ? From many years now on, I was (as partner) trying to do it the 
+more automatically I can for customers - and even me in fact... But as of 
+today, and as a gift for the community, I release a brand new solution to 
+install it and manage that without any MANUAL actions for all steps 
+required for data movement ! I hope that it will help you a lot - like it 
+will help me a lot for me, believe me - tons of hours saved. Let’s jump in 
+!]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Search and find Dynamics 365 records with Microsoft Search]]></title>
         <id>search-and-find-dynamics-365-records-with-microsoft-search</id>
