@@ -5987,6 +5987,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "announcing-public-preview-of-ip-based-cookie-binding-in-dataverse",
+          "author": null,
+          "description": "IP cookie binding in Dataverse IP based cookie binding will help our customer’s organization in responding to cookie replay security threat in Dataverse. IP based cookie binding blocks the cookie replay attack. It does it by evaluating the IP address attached to the cookie. If cookie IP address in the request is different than the … \nContinue reading “Announcing Public Preview of IP based cookie binding in Dataverse”",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-ip-based-cookie-binding-in-dataverse/",
+          "publishedOn": "2022-08-26T08:55:04.000Z",
+          "wordCount": 1498,
+          "title": "Announcing Public Preview of IP based cookie binding in Dataverse",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "search-and-find-dynamics-365-records-with-microsoft-search",
           "author": null,
           "description": "Enable Dynamics 365 records to show in Microsoft Search",
