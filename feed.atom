@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-27T02:10:30.657Z</updated>
+    <updated>2022-08-28T02:22:46.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Your Microsoft Dynamics 365 Integration with the Right Framework]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:48521670-f68b-45d4-b034-b68634a75645</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/master-your-microsoft-dynamics-365-integration-with-the-right-framework"/>
+        <updated>2022-08-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Digital transformation is booming as
+organizational leaders need to compile and interpret large swaths
+of data and use it to create actionable insight. According to
+Gartner, CFOs say that 80% of new investment dollars are going
+toward digital growth.... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Public Preview of IP based cookie binding in Dataverse]]></title>
         <id>announcing-public-preview-of-ip-based-cookie-binding-in-dataverse</id>
