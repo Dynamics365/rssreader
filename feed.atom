@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-29T02:19:28.856Z</updated>
+    <updated>2022-08-30T02:23:07.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing Public Preview for Power Platform App Install API  Tools Support]]></title>
+        <id>announcing-public-preview-for-power-platform-app-install-api-tools-support</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-for-power-platform-app-install-api-tools-support/"/>
+        <updated>2022-08-29T12:58:14.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the Public Preview of Power Platform Application Install API! This capability enables automation of install and update experiences that are offered only through the Power Platform Admin Center experience today. Installs can also be automated for applications available from AppSource provided at least one such install of the said application … 
+Continue reading “Announcing Public Preview for Power Platform App Install API & Tools Support”]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Your Microsoft Dynamics 365 Integration with the Right Framework]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:48521670-f68b-45d4-b034-b68634a75645</id>
