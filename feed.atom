@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-08-31T02:30:04.011Z</updated>
+    <updated>2022-09-01T02:05:39.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s new: Power Apps August 2022 Feature Update]]></title>
+        <id>whats-new-power-apps-august-2022-feature-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-august-2022-feature-update/"/>
+        <updated>2022-08-31T10:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share: Trust … 
+Continue reading “What’s new: Power Apps August 2022 Feature Update”]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Public Preview for Power Platform App Install API  Tools Support]]></title>
         <id>announcing-public-preview-for-power-platform-app-install-api-tools-support</id>
@@ -8972,16 +8983,6 @@ This way you wont need to search a label value from within Ax
 Filed under: Uncategorized]]></summary>
         <author>
             <name>Shashi s</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power BI comes of age]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a61fbfa8-9063-4cde-884f-1409b27926ad</id>
-        <link href="https://community.dynamics.com/ax/b/guyterrysaxblog/posts/power-bi-comes-of-age"/>
-        <updated>2015-10-07T23:17:31.000Z</updated>
-        <summary type="html"><![CDATA[Earlier in the year, I took a look at Power BI, and tried to find out what it could do with AX data. My ambition was to use Power BI’s natural language search to build reports on AX data. Natura...(read more)]]></summary>
-        <author>
-            <name>Guy Terry</name>
         </author>
     </entry>
 </feed>

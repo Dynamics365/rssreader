@@ -4395,16 +4395,6 @@
           "wordCount": 1158,
           "title": "How would you like to double the number of DIXF entities you have?",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a61fbfa8-9063-4cde-884f-1409b27926ad",
-          "author": "Guy Terry",
-          "description": "Earlier in the year, I took a look at Power BI, and tried to find out what it could do with AX data. My ambition was to use Power BI’s natural language search to build reports on AX data. Natura...(read more)",
-          "link": "https://community.dynamics.com/ax/b/guyterrysaxblog/posts/power-bi-comes-of-age",
-          "publishedOn": "2015-10-07T23:17:31.000Z",
-          "wordCount": 1753,
-          "title": "Power BI comes of age",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -5996,6 +5986,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "whats-new-power-apps-august-2022-feature-update",
+          "author": null,
+          "description": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share: Trust … \nContinue reading “What’s new: Power Apps August 2022 Feature Update”",
+          "link": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-august-2022-feature-update/",
+          "publishedOn": "2022-08-31T10:38:22.000Z",
+          "wordCount": 2958,
+          "title": "What’s new: Power Apps August 2022 Feature Update",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/08/image-4.png"
+        },
         {
           "id": "announcing-public-preview-for-power-platform-app-install-api-tools-support",
           "author": null,
