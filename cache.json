@@ -2812,6 +2812,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4395",
+          "author": "Kurt Hatlevik",
+          "description": "I often work in an WYSIWYG pattern, where I do a change, and then look at the change when working with D365 eCommerce. I’m changing products, attributes, categories, customer hierarchies, forms. One thing that had me irritated, is the extensive caching being done in D365 eCommerce, and you can read more about data action cache … Continue reading D365 eCommerce : Invalidate the cache",
+          "link": "https://kurthatlevik.com/2022/09/01/d365-ecommerce-invalidate-the-cache/",
+          "publishedOn": "2022-09-01T06:40:45.000Z",
+          "wordCount": 2855,
+          "title": "D365 eCommerce : Invalidate the cache",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/09/090122_0640_d365ecommer1.png"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4390",
           "author": "Kurt Hatlevik",
           "description": "I have always been interested in how to improve performance, and I have understood that there is no silver bullet or switch you just can turn to get dramatically improvements. The path towards performance is a delicate balance between functionality, usability, scalability and effort/budget. Together with friends, I think we have found some low-hanging fruits … Continue reading D365 Commerce : Omitting serialization of null and default values in JSON payloads",

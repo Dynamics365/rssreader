@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-09-01T02:05:39.153Z</updated>
+    <updated>2022-09-02T02:11:28.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365 eCommerce : Invalidate the cache]]></title>
+        <id>http://kurthatlevik.com/?p=4395</id>
+        <link href="https://kurthatlevik.com/2022/09/01/d365-ecommerce-invalidate-the-cache/"/>
+        <updated>2022-09-01T06:40:45.000Z</updated>
+        <summary type="html"><![CDATA[I often work in an WYSIWYG pattern, where I do a change, and then look at the change when working with D365 eCommerce. I’m changing products, attributes, categories, customer hierarchies, forms. One thing that had me irritated, is the extensive caching being done in D365 eCommerce, and you can read more about data action cache … Continue reading D365 eCommerce : Invalidate the cache]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s new: Power Apps August 2022 Feature Update]]></title>
         <id>whats-new-power-apps-august-2022-feature-update</id>
