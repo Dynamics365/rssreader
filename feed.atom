@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-09-02T02:11:28.678Z</updated>
+    <updated>2022-09-03T02:22:01.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Extend modern commands with custom pages and geospatial mapping]]></title>
+        <id>extend-modern-commands-with-custom-pages-and-geospatial-mapping</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/extend-modern-commands-with-custom-pages-and-geospatial-mapping/"/>
+        <updated>2022-09-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, learn how to extend Power Apps modern commanding by leveraging geospatial mapping with custom pages, and sending a notification about the map.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Creator Kit – Efficiently create performant Fluent UI based Power Apps]]></title>
+        <id>introducing-the-creator-kit-efficiently-create-performant-fluent-ui-based-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/introducing-the-creator-kit-efficiently-create-performant-fluent-ui-based-power-apps/"/>
+        <updated>2022-09-01T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are proud to formally introduce the first stable release of the Power Platform Creator Kit – a free toolkit that optimizes development in Power Apps.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D365 eCommerce : Invalidate the cache]]></title>
         <id>http://kurthatlevik.com/?p=4395</id>
