@@ -1948,6 +1948,16 @@
       "siteUrl": "https://ariste.info/en/",
       "articles": [
         {
+          "id": "https://ariste.info/?p=6338",
+          "author": "Adrià Ariste Santacreu",
+          "description": "I’m back with additional information about Azure API Management! More Azure content, and I’ll probably continue to produce posts regarding Azure in the future. I believe there are numerous ways to learn new things, and for me, two of them are writing blog posts and using new technologies to solve problems at work. Of course, [...]\nariste.info Azure API Management for your integrations",
+          "link": "https://ariste.info/en/2022/09/azure-api-management-architecture/",
+          "publishedOn": "2022-09-06T08:21:32.000Z",
+          "wordCount": 4216,
+          "title": "Azure API Management for your integrations",
+          "imageUrl": "https://static.ariste.info/wp-content/uploads/2022/09/APIMArch-1024x1024.png"
+        },
+        {
           "id": "https://ariste.info/?p=6263",
           "author": "Adrià Ariste Santacreu",
           "description": "We’ve seen a lot of improvements to the product since it was released as AX7, and some name changes too 😝 And one of the areas where we’ve seen more enhancements is the batch framework. And since the currently live last version of Dynamics 365 Finance and Operations, 10.0.28, we have a new feature that [...]\nariste.info Priority-based batch scheduling in Dynamics 365",
@@ -5996,6 +6006,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "3-primary-reasons-to-learn-dataverse",
+          "author": null,
+          "description": "If you’ve been on the fence about learning Dataverse for your Power Platform solutions, then this blog is for you. We will explore proven motivators for learning, as well as using, Dataverse. It’s not only for Power Apps solutions; you will see that it can also facilitate data stewardship and data insights through it’s partnership with Azure Synapse.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/3-primary-reasons-to-learn-dataverse/",
+          "publishedOn": "2022-09-06T08:00:00.000Z",
+          "wordCount": 2443,
+          "title": "3 Primary Reasons to Learn Dataverse",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "extend-modern-commands-with-custom-pages-and-geospatial-mapping",
           "author": null,
