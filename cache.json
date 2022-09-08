@@ -6007,6 +6007,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "announcing-public-preview-of-content-security-policy-for-power-apps",
+          "author": null,
+          "description": "We’re excited to announce the public preview of Content Security Policy (CSP) configuration for Power Apps. CSP can be configured using the settings under the Privacy + Security settings section of an environment in Power Platform Admin Center.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-content-security-policy-for-power-apps/",
+          "publishedOn": "2022-09-07T08:01:00.000Z",
+          "wordCount": 1648,
+          "title": "Announcing public preview of Content Security Policy for Power Apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "3-primary-reasons-to-learn-dataverse",
           "author": null,
           "description": "If you’ve been on the fence about learning Dataverse for your Power Platform solutions, then this blog is for you. We will explore proven motivators for learning, as well as using, Dataverse. It’s not only for Power Apps solutions; you will see that it can also facilitate data stewardship and data insights through it’s partnership with Azure Synapse.",
