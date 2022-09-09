@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-09-08T02:12:22.133Z</updated>
+    <updated>2022-09-09T02:21:44.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Administration Planning]]></title>
+        <id>power-platform-administration-planning</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-administration-planning/"/>
+        <updated>2022-09-08T09:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Behind the scenes, your IT and Center of Excellence team spends time configuring, managing and nurturing the adoption of the Power Platform.  In this post, learn about a new tool to help you plan who you need on your team and find the highest-impact opportunities to streamline your administrative effort.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step GlobalUpdate script for service model: RetailServer on machine: DEV-VM is failing during MsDyn365FO package deployment]]></title>
+        <id>http://msdyn365fo.wordpress.com/?p=553</id>
+        <link href="https://msdyn365fo.wordpress.com/2022/09/08/step-globalupdate-script-for-service-model-retailserver-on-machine-dev-vm-is-failing-during-msdyn365fo-package-deployment/"/>
+        <updated>2022-09-08T08:00:32.000Z</updated>
+        <summary type="html"><![CDATA[In the past I often had the problem that during package deployment of an service update via Lifecycle Services (LCS) the step “GlobalUpdate script for service model: RetailServer” unexpectedly failed. The reason why this was not expected is that I´m not using the RetailServer at all, so the component should be in the same state … Continue reading Step GlobalUpdate script for service model: RetailServer on machine: DEV-VM is failing during MsDyn365FO package deployment →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing public preview of Content Security Policy for Power Apps]]></title>
         <id>announcing-public-preview-of-content-security-policy-for-power-apps</id>
