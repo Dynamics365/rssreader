@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-09-11T02:20:14.999Z</updated>
+    <updated>2022-09-12T02:25:25.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From the Microsoft Dynamics 365 Finance & Operations Blogs: Manage batch jobs; Error 412; Quality management; Security]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a3691875-8e5c-4668-a8ca-a6305f8f0dc9</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/from-the-microsoft-dynamics-365-finance-operations-blogs-manage-batch-jobs-error-412-quality-management-security"/>
+        <updated>2022-09-10T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this week's Dynamics 365 Finance & Operations blog
+roundup: 
+ 
+ How to manage Dynamics 365 batch jobs 
+ Analyzing Error 412 when exporting to data lake in D365 Finance
+and Operations 
+ Quality management in D365FO 
+ Security in D365FO: less is more... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSDW Podcast: The value of a platform for business process consumption]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6ae4564a-2525-4349-adf7-d50997c8b694</id>
