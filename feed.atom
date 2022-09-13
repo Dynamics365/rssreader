@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-09-12T02:25:25.214Z</updated>
+    <updated>2022-09-13T02:21:27.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Fx: Introducing ParseJSON]]></title>
+        <id>power-fx-introducing-parsejson</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-fx-introducing-parsejson/"/>
+        <updated>2022-09-12T11:04:22.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the experimental release of our ParseJSON function, which can parse JSON strings into Power Fx objects and types.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From the Microsoft Dynamics 365 Finance & Operations Blogs: Manage batch jobs; Error 412; Quality management; Security]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a3691875-8e5c-4668-a8ca-a6305f8f0dc9</id>

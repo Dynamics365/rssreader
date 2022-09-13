@@ -6037,6 +6037,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "power-fx-introducing-parsejson",
+          "author": null,
+          "description": "We are pleased to announce the experimental release of our ParseJSON function, which can parse JSON strings into Power Fx objects and types.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-fx-introducing-parsejson/",
+          "publishedOn": "2022-09-12T11:04:22.000Z",
+          "wordCount": 2717,
+          "title": "Power Fx: Introducing ParseJSON",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "power-platform-administration-planning",
           "author": null,
           "description": "Behind the scenes, your IT and Center of Excellence team spends time configuring, managing and nurturing the adoption of the Power Platform.  In this post, learn about a new tool to help you plan who you need on your team and find the highest-impact opportunities to streamline your administrative effort.",
