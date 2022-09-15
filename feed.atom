@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-09-14T02:13:33.155Z</updated>
+    <updated>2022-09-15T02:27:10.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: Machine Learning in Accounts Payable for Microsoft Dynamics 365]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2c909118-d424-4dd2-a1f6-65eaed537d74</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-machine-learning-in-accounts-payable-for-microsoft-dynamics-365"/>
+        <updated>2022-09-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Editor's Note: This episode is sponsored by 
+ Dooap . 
+ 
+ 
+ Machine learning technology has become more common and more
+accessible in AP automation solutions in recent years. Our guest,
+Kristin Ewart of Dooap, tells us how her clients are deploying ML... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IaC with Bicep: deploy Azure API Management Architecture]]></title>
         <id>https://ariste.info/?p=6439</id>
