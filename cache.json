@@ -6067,6 +6067,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "power-fx-introducing-named-formulas",
+          "author": null,
+          "description": "Simplify your app’s initialization, reduce app load time, reuse logic, and improve the maintainability of your apps with an old and very powerful concept form Excel.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-fx-introducing-named-formulas/",
+          "publishedOn": "2022-09-16T11:07:21.000Z",
+          "wordCount": 3270,
+          "title": "Power Fx: Introducing Named Formulas",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "power-fx-introducing-parsejson",
           "author": null,
           "description": "We are pleased to announce the experimental release of our ParseJSON function, which can parse JSON strings into Power Fx objects and types.",

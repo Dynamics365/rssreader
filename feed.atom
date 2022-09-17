@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-09-16T02:27:14.233Z</updated>
+    <updated>2022-09-17T02:08:52.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Fx: Introducing Named Formulas]]></title>
+        <id>power-fx-introducing-named-formulas</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-fx-introducing-named-formulas/"/>
+        <updated>2022-09-16T11:07:21.000Z</updated>
+        <summary type="html"><![CDATA[Simplify your app’s initialization, reduce app load time, reuse logic, and improve the maintainability of your apps with an old and very powerful concept form Excel.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSDW Podcast: Machine Learning in Accounts Payable for Microsoft Dynamics 365]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2c909118-d424-4dd2-a1f6-65eaed537d74</id>
