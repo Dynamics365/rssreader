@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-09-18T02:31:49.953Z</updated>
+    <updated>2022-09-19T02:26:20.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Purchase Requisition: D365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2345</id>
+        <link href="https://dynamics-tips.com/purchase-requisition/"/>
+        <updated>2022-09-18T19:59:32.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations the purchase requisition is an internal document that allows users to create purchase requests for products, services and fixed assets for various purposes. An]]></summary>
+        <author>
+            <name>Ali Khan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Fx: Introducing Named Formulas]]></title>
         <id>power-fx-introducing-named-formulas</id>
@@ -14,6 +24,26 @@
         <summary type="html"><![CDATA[Simplify your app’s initialization, reduce app load time, reuse logic, and improve the maintainability of your apps with an old and very powerful concept form Excel.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Import and Set Up Users: D365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2318</id>
+        <link href="https://dynamics-tips.com/import-and-set-up-users/"/>
+        <updated>2022-09-16T02:35:42.000Z</updated>
+        <summary type="html"><![CDATA[As a system administrator you have the important duty of managing user access and security. In D365 F&O the import users functionality allows System Administrators to import the users from]]></summary>
+        <author>
+            <name>Ali Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory Value Report: D365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2289</id>
+        <link href="https://dynamics-tips.com/inventory-value-report/"/>
+        <updated>2022-09-15T17:23:44.000Z</updated>
+        <summary type="html"><![CDATA[The inventory value report shows the details about the physical and financial quantities as well as physical and financial quantities of inventory. In this article, we will see how to]]></summary>
+        <author>
+            <name>Ali Khan</name>
         </author>
     </entry>
     <entry>
@@ -67,6 +97,16 @@ real challenges. Often the... Read the full text.]]></summary>
         <summary type="html"><![CDATA[We are pleased to announce the experimental release of our ParseJSON function, which can parse JSON strings into Power Fx objects and types.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arrival Overview: D365 Finance and Operations]]></title>
+        <id>https://dynamics-tips.com/?p=2263</id>
+        <link href="https://dynamics-tips.com/arrival-overview/"/>
+        <updated>2022-09-11T21:17:22.000Z</updated>
+        <summary type="html"><![CDATA[The arrival overview is a workbench that shows the overview of the expected incoming deliveries along with estimated details of the items e.g., item quantities, item volume and item weight]]></summary>
+        <author>
+            <name>Ali Khan</name>
         </author>
     </entry>
     <entry>
