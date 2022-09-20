@@ -6,6 +6,26 @@
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
         {
+          "id": "https://nuxulu.com/2022-09-18-admin-provisioning-tools/",
+          "author": "Max Nguyen",
+          "description": "After restoring database backup, you want to be able to login to Dynamics 365 Finance Operations with different ternant, you need to use the admin provisioning tool to assign a new tenant.\nFrom 10.0.24 verison, the admin provisioning tool can be found at\nVHD: C:\\AOSService\\PackagesLocalDirectory\\bin\\AdminUserProvisioning.exe\nCloud- hosted: K:\\AOSService\\PackagesLocalDirectory\\bin\\AdminUserProvisioning.exe\nAfter running Provisioning.exe wtih admin right, you will see the update for the admin user in SQL.\nImage\n\">\n        \n    userinfo\n    \nSome errors you might face:\nFailure\n        \nCan not stop the DynamicsAXBatch service on computer\nFailure\n        \nExecution Timeout Expired. The timeout period elapsed prior to completion of the operation or the server is not responding.\nFailure\n        \nThe remote server returned an error: (500) Internal Server Error.\nResolution, you can simply stop and start the services manually:\nWorld Wide Web Publishing Service\nMicrosoft Dynamics 365 Unified Operations: Batch Management Service\nOr you can restart VM using LCS or Azure portal.\nIf the issue Can not stop the DynamicsAXBatch service on computer still persist\nYou can kill the batch service using cmd:\nOpen CMD\nsc queryex DynamicsAxBatch\ntaskkill /f /pid 8064\nImage\n\">\n        \n    queryex\n    \nThere is another error about Database\nFailure\n        \nCannot open database “AxDB” requested by the login. The login failed.\nLogin failed for user ‘axdbadmin’.\nPlease this post for getting VHD Database password.",
+          "link": "https://nuxulu.com/2022-09-18-admin-provisioning-tools/",
+          "publishedOn": "2022-09-18T00:00:00.000Z",
+          "wordCount": 433,
+          "title": "Admin provisioning tools in Dynamics 365 Finance Operations",
+          "imageUrl": "https://nuxulu.com/2022-09-18-admin-provisioning-tools/2022-09-18-admin-provisioning-tools.png"
+        },
+        {
+          "id": "https://nuxulu.com/2022-06-20-unable-to-trace-error/",
+          "author": "Max Nguyen",
+          "description": "The error pops when you start the trace: Unable to start trace, the required event providers were not found. Contact your system administrator.\nImage\n\">\n        \n    trace-error\n    \nCause: Some how you dont have Dynamics in event viewer\nImage\n\">\n        \n    no-dynamics\n    \nResolution: execute the script below under C:\\Temp in powershell\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n\n\n\n$AOSSetupETWManifestDir = \"K:\\AosService\\WebRoot\\Monitoring\"\nforeach ($manifestFile in Get-ChildItem -Path $AOSSetupETWManifestDir\\*.man | select-object -Property BaseName,Name)\n{\n    $dllFile=\"\"\n    if ((Test-Path \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName).Instrumentation.dll\"))\n    {\n        $dllFile = \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName).Instrumentation.dll\"\n    }\n    elseif ((Test-Path \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName)Resource.dll\"))\n    {\n        $dllFile = \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName)Resource.dll\"\n    }\n    elseif ((Test-Path \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName).dll\"))\n    {\n        $dllFile = \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName).dll\"\n    }\n    else \n    {\n        Write-Host \"Warn : Skipping $AOSSetupETWManifestDir\\$($manifestFile.Name) as DLL not found\"\n        Continue    \n    }\n \n    Write-Host \"Installing $AOSSetupETWManifestDir\\$($manifestFile.Name) using $dllFile\"\n    wevtutil.exe im \"$AOSSetupETWManifestDir\\$($manifestFile.Name)\" /rf:\"$dllFile\" /mf:\"$dllFile\"\n    Write-Host \"Finished installing $AOSSetupETWManifestDir\\$($manifestFile.Name) `n`n\"\n}\n\n\n\n\n\nThen restart the VM by LCS or Azure portal, you will get the Dynamics back in the event viewer and able to start the trace normally.\nImage\n\">\n        \n    dynamics-event",
+          "link": "https://nuxulu.com/2022-06-20-unable-to-trace-error/",
+          "publishedOn": "2022-06-20T00:00:00.000Z",
+          "wordCount": 413,
+          "title": "Unable to start trace, the required event providers were not found. Contact your system administrator",
+          "imageUrl": "https://nuxulu.com/2022-06-20-unable-to-trace-error/dynamics-event.png"
+        },
+        {
           "id": "https://nuxulu.com/2021-12-21-troubleshooting-dvt-script-for-service-model/",
           "author": "Max Nguyen",
           "description": "While doing upgrade to the latest version Dynamics 365 Finance & Operations on tier 1 environment, you might got some errors related to DVT auto scripts.\n1. DVT script for service model: AOSService on machine\nAn error at step 72\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n\n\n\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Step>\n   <ID>72</ID>\n   <RunbookID>498de9aee46e403e9dcd97b40166775e</RunbookID>\n   <PackageId>dd4119e4331248d5a6ba9b987eef440d</PackageId>\n   <PackageType>PlatAppBinaryHotfixPackage</PackageType>\n   <CompletedManually>false</CompletedManually>\n   <Description>DVT script for service model: AOSService on machine: </Description>\n   <MachineName></MachineName>\n   <ServiceModelName>AOSService</ServiceModelName>\n   <ScriptToExecute>\n      <FileName>AutoRu…",
@@ -3190,6 +3210,16 @@
       "feedUrl": "https://allaboutdynamic.com/feed/",
       "siteUrl": "https://allaboutdynamic.com/",
       "articles": [
+        {
+          "id": "https://allaboutdynamic.com/?p=2769",
+          "author": "Piyush Adhikari",
+          "description": "Hello Folks, today I am sharing you the standard way to point QR code with Logo in X++. This code will return you a container which can be use directly in image control inside a SSRS report or in an ER report format\nThe post Print QR Code With Logo In X++ & Microsoft Dynamics 365 for finance and operations. appeared first on All About Microsoft Dynamics.",
+          "link": "https://allaboutdynamic.com/2022/09/19/print-qr-code-with-logo-in-x-microsoft-dynamics-365-for-finance-and-operations/",
+          "publishedOn": "2022-09-19T12:22:26.000Z",
+          "wordCount": 1890,
+          "title": "Print QR Code With Logo In X++ & Microsoft Dynamics 365 for finance and operations.",
+          "imageUrl": "https://allaboutdynamic.com/wp-content/uploads/2022/09/image.png"
+        },
         {
           "id": "https://allaboutdynamic.com/?p=2449",
           "author": "Piyush Adhikari",
