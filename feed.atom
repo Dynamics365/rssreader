@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-09-20T02:15:33.454Z</updated>
+    <updated>2022-09-21T02:28:10.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Apps brings collaboration to center stage with 3 big announcements]]></title>
+        <id>power-apps-brings-collaboration-to-center-stage-with-3-big-announcements</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-brings-collaboration-to-center-stage-with-3-big-announcements/"/>
+        <updated>2022-09-20T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As we kick off the first ever Microsoft Power Platform Conference to a sold-out crowd buzzing with energy, the power of a thriving and collaborative low code community has never been clearer. Our major product announcements today reflect that truth. We’re excited to share three important new ways to collaborate – whether you’re building an app together with a team, looking for help inside your company, or taking Teams itself to the next level as a collaborative workplace.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensure relieble Releases on Dynamics 365 FinOps]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ea90e64e-9393-46da-88c5-9d2322491375</id>
+        <link href="https://community.dynamics.com/ax/b/moredatamoresuccess/posts/ensure-relieble-releases-on-dynamics-365-finops"/>
+        <updated>2022-09-19T16:27:38.000Z</updated>
+        <summary type="html"><![CDATA[As Microsoft Dynamics 365 Finance & Operation Release 10.0.29 is General available all Dynamics 365 Finance & Operations customer can apply self-update for their environments from last week o...(read more)]]></summary>
+        <author>
+            <name>andreasraithel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Print QR Code With Logo In X++ & Microsoft Dynamics 365 for finance and operations.]]></title>
         <id>https://allaboutdynamic.com/?p=2769</id>

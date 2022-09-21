@@ -3936,6 +3936,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/moredatamoresuccess",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ea90e64e-9393-46da-88c5-9d2322491375",
+          "author": "andreasraithel",
+          "description": "As Microsoft Dynamics 365 Finance & Operation Release 10.0.29 is General available all Dynamics 365 Finance & Operations customer can apply self-update for their environments from last week o...(read more)",
+          "link": "https://community.dynamics.com/ax/b/moredatamoresuccess/posts/ensure-relieble-releases-on-dynamics-365-finops",
+          "publishedOn": "2022-09-19T16:27:38.000Z",
+          "wordCount": 3889,
+          "title": "Ensure relieble Releases on Dynamics 365 FinOps",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d3f08bc7-b031-4a3f-8cfc-1308a99848ac",
           "author": "andreasraithel",
           "description": "Recently I was requested to support a customer for the setup of product attributes. As this is a very common task and not as complicated I told him: \n\nkeep all attributes unique\nsetup attribute types...\n\n(read more)",
@@ -6136,6 +6146,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "power-apps-brings-collaboration-to-center-stage-with-3-big-announcements",
+          "author": null,
+          "description": "As we kick off the first ever Microsoft Power Platform Conference to a sold-out crowd buzzing with energy, the power of a thriving and collaborative low code community has never been clearer. Our major product announcements today reflect that truth. We’re excited to share three important new ways to collaborate – whether you’re building an app together with a team, looking for help inside your company, or taking Teams itself to the next level as a collaborative workplace.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-apps-brings-collaboration-to-center-stage-with-3-big-announcements/",
+          "publishedOn": "2022-09-20T05:00:00.000Z",
+          "wordCount": 2511,
+          "title": "Power Apps brings collaboration to center stage with 3 big announcements",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/09/Low-Code-Designer-for-Power-Apps-Cards.png"
+        },
         {
           "id": "power-fx-introducing-named-formulas",
           "author": null,
