@@ -654,6 +654,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:228a7f02-6e0c-4dad-b499-cdef47d1c5cb",
+          "author": "MSDynamicsWorld.com",
+          "description": "How should a Microsoft Dynamics partner keep their clients\nhappy? A panel of Dynamics ERP and CRM customers and partners at\nthe DynamicsCon Live event last week shared their ideas based on\nreal experiences, both good and bad. \n Though they had different... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/what-makes-a-good-client-partner-relationship-microsoft-dynamics-users-share-their-advice",
+          "publishedOn": "2022-09-21T00:00:00.000Z",
+          "wordCount": null,
+          "title": "What makes a good client-partner relationship? Microsoft Dynamics users share their advice",
+          "imageUrl": null
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:2c909118-d424-4dd2-a1f6-65eaed537d74",
           "author": "MSDynamicsWorld.com",
           "description": "Editor's Note: This episode is sponsored by \n Dooap . \n \n \n Machine learning technology has become more common and more\naccessible in AP automation solutions in recent years. Our guest,\nKristin Ewart of Dooap, tells us how her clients are deploying ML... Read the full text.",
@@ -3916,16 +3926,6 @@
           "publishedOn": "2016-01-11T03:08:33.000Z",
           "wordCount": 1084,
           "title": "[AX2012] Moving Project to a diferent Model",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1c6bfc2b-ecd1-4ff7-87ca-db90211447aa",
-          "author": "Shashi s",
-          "description": "Coming from my previous blog post Get list of security roles with name , I extracted the label via SQL. I had to break up the Label ID into the Module and then the number.\nModelElementLabel to get the label value\nFollowing code can get the Label via SQL\nThis way you wont need to search a label value from within Ax\nFiled under: Uncategorized",
-          "link": "https://community.dynamics.com/ax/b/shashisaxblog/posts/ax2012-fetching-a-label-value-from-sql",
-          "publishedOn": "2015-10-29T01:33:45.000Z",
-          "wordCount": 879,
-          "title": "[AX2012] Fetching a Label value from SQL",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]

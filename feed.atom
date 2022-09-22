@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-09-21T02:28:10.139Z</updated>
+    <updated>2022-09-22T02:13:35.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What makes a good client-partner relationship? Microsoft Dynamics users share their advice]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:228a7f02-6e0c-4dad-b499-cdef47d1c5cb</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/what-makes-a-good-client-partner-relationship-microsoft-dynamics-users-share-their-advice"/>
+        <updated>2022-09-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How should a Microsoft Dynamics partner keep their clients
+happy? A panel of Dynamics ERP and CRM customers and partners at
+the DynamicsCon Live event last week shared their ideas based on
+real experiences, both good and bad. 
+ Though they had different... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Apps brings collaboration to center stage with 3 big announcements]]></title>
         <id>power-apps-brings-collaboration-to-center-stage-with-3-big-announcements</id>
@@ -9360,20 +9374,6 @@ Here I connect to AX us…]]></summary>
         <summary type="html"><![CDATA[Hi Friends,Reference data sources is a powerful feature in AX 2012. A reference data source enables you to add the replacement fields for a surrogate foreign key replacement to a form design. It is us...(read more)]]></summary>
         <author>
             <name>Rachit Garg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AX2012] Fetching a Label value from SQL]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1c6bfc2b-ecd1-4ff7-87ca-db90211447aa</id>
-        <link href="https://community.dynamics.com/ax/b/shashisaxblog/posts/ax2012-fetching-a-label-value-from-sql"/>
-        <updated>2015-10-29T01:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Coming from my previous blog post Get list of security roles with name , I extracted the label via SQL. I had to break up the Label ID into the Module and then the number.
-ModelElementLabel to get the label value
-Following code can get the Label via SQL
-This way you wont need to search a label value from within Ax
-Filed under: Uncategorized]]></summary>
-        <author>
-            <name>Shashi s</name>
         </author>
     </entry>
 </feed>
