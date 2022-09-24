@@ -134,6 +134,616 @@
           "wordCount": 275,
           "title": "Database movement from Tier 1 to Tier 1",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2020-07-08-ms-600-extending-sharepoint/",
+          "author": "Max Nguyen",
+          "description": "Markmap\n\n* {\n  margin: 0;\n  padding: 0;\n}\n#mindmap {\n  display: block;\n  width: 100vw;\n  height: 100vh;\n}\n\n\n\n\n((t,a,e,n)=>{const{Markmap:o,loadPlugins:s}=window.markmap;(a?a(s,e,n):Promise.resolve()).then(()=>{o.create(\"svg#mindmap\",null,t)})})({\"t\":\"root\",\"d\":0,\"v\":\"\",\"c\":[{\"t\":\"heading\",\"d\":1,\"v\":\"1. Introduction\",\"c\":[{\"t\":\"list_item\",\"d\":2,\"v\":\"Experience using SharePoint Online at the intermediate level\"},{\"t\":\"list_item\",\"d\":2,\"v\":\"Ability to program with JavaScript, TypeScript, and Node.js\"},{\"t\":\"list_item\",\"d\":2,\"v\":\"Experience using Visual Studio Code at the intermediate level\"},{\"t\":\"list_item\",\"d\":2,\"v\":\"Access to a Microsoft 365 tenant\"}]},{\"t\":\"heading\",\"d\":1,\"v\":\"2. SharePoint Framework overview & extensibility options\",\"c\":[{\"t\":\"heading\",\"d\":2,\"v\":\"2.1. SharePoint Framewor…",
+          "link": "https://nuxulu.com/2020-07-08-ms-600-extending-sharepoint/",
+          "publishedOn": "2020-07-08T00:00:00.000Z",
+          "wordCount": 1002,
+          "title": "MS-600 Extending Sharepoint",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2020-07-07-platform-vs-framework/",
+          "author": "Max Nguyen",
+          "description": "Framework\nIn programming, frameworks allow programmers to concentrate on the actual tasks they are faced with rather than to waste their time reinventing the wheel. Usually, frameworks are shipped with a set of predefined functions and classes. When using Spring (Java) or Symfony (PHP) for example, programmers do not need to think about things such as persistence, routing and session management too much because the work is done by standardized framework components.\nPlatform\nplatform, on the other hand, provides both the hardware and the software tools needed to run an application – be it a standalone program or one which has been built on top of a framework. Mostly, it comes in the flavor of Platform-as-a-Service (PaaS), meaning that the code-base of the platform software itself is not distributed or licensed.\nLike .NET platform or Windows platform or various cloud-based Platform-as-a-service solutions (like Heruko)\nNodejs, JAVA, .NET are examples of platforms or development platforms. This becomes the core of web application.\nYou work on a platform. You use a framework.",
+          "link": "https://nuxulu.com/2020-07-07-platform-vs-framework/",
+          "publishedOn": "2020-07-07T00:00:00.000Z",
+          "wordCount": 278,
+          "title": "Framework vs. Platform",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2020-06-30-how-to-upgrade-to-visual-studio-2017-.net-4.7.2/",
+          "author": "Max Nguyen",
+          "description": "For the upcoming Dynamics 365 Finance Updates, Visual Studio 2017 and .NET runtime 4.7.2 required for PU36/10.0.12 or higher; New VMs deployed with PU36/10.0.12 or higher will have Visual Studio 2017 as well as .NET runtime 4.7.2 already installed.\nFor your dev/test/build Tier1 VMs, Microsoft recommends just redeploying a new VM, and you will be all set!\nIf you cannot deploy new VMs, please follow below steps to update .NET runtime, VS 2017 before installing PU36/10.0.12 or higher, this will be applied for cloud-hosted environment\n1. Download VS Professional 2017 15.9 here and install it\n2. The .NET runtime download is available here by clicking on the Download .NET Framework 4.7.2 Runtime and running the installation, restart required.\n3. Go to Dynamics Lifecycle Services and download PU36/10.0.12 or any higher package which is a part of the Platform and application binary, the VSIX file is located in the DevToolsService\\Scripts folder.\n\nYou need to install Microsoft.Dynamics.Framework.Tools.Installer and then Microsoft.Dynamics.Framework.Tools.InternalDevTools.\nAfter the installation, open the VS2017 if you should see Dynamics 365 menu extension like below\n\n4. If you try to access the client before applying the package you will get the error like below in event viewer and unable to access the environment, so you need to apply an update first.\nFailure\n        \nAX is shutting down due to an error. Serialization version mismatch detect, make sure the runtime dlls are in sync with the deployed metadata. Version of file ‘194’. Version of dll ‘193’.\n5. In LCS, navigate to your cloud-hosted environment, and apply Platform and application binary package PU36/10.0.12 or higher. After completed upgrading, you will be able to access the environment client.\nOverall, there is no change in the compiler, metadata; this is only an update to the Visual Studio extensions and NET runtime for the tier1 VMs.",
+          "link": "https://nuxulu.com/2020-06-30-how-to-upgrade-to-visual-studio-2017-.net-4.7.2/",
+          "publishedOn": "2020-06-30T00:00:00.000Z",
+          "wordCount": 569,
+          "title": "How to upgrade to Visual Studio 2017, .NET 4.7.2 for PU36/10.0.12 and higher",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2020-06-28-dynamics-365-finops-data-integration-using-microsoft-forms-part-2/",
+          "author": "Kome Hoang",
+          "description": "1. Example two: A new Forms response is submitted then Flow promts for an approval request before a new record is created in Vendors table\nIn the last example, we created a simple Flow to create a new Vendor Account from submitted Forms responses. The process was made as simple as it could be: When a new Forms response if submitted, a new Vendor Account will be created on D365FO client.\nTo make the process more reliable, we will now add an approval step to the Flow. It means before a new Vendor Account is created, the user will have the right to Approve or Reject the request.\n1.1. Step 1: Add a new step to the Flow\nThe flow that we have is like this.\nFlow step 1\n\">\n        \n    The old flow\n    \nWe will add a step right before the new record is created.\nFlow step 2\n\">\n        \n    Add a ne…",
+          "link": "https://nuxulu.com/2020-06-28-dynamics-365-finops-data-integration-using-microsoft-forms-part-2/",
+          "publishedOn": "2020-06-28T00:00:00.000Z",
+          "wordCount": 1465,
+          "title": "Dynamics 365 FinOps Data Integration using Microsoft Forms (Part 2)",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2020-05-24-dynamics-365-finops-data-integration-using-microsoft-forms-part-1/",
+          "author": "Kome Hoang",
+          "description": "With any D365FO users, Data Management workspace and Data Entities should have become one of the most used and well-known tools in the system. We all agree how powerful such integration framework is, especially when it comes to a large number of records that we would need to import into different tables.\nThe classic method that we have been utilizing is to include all source data in a single (or multiple, much depending on the purpose and order of data integration) Excel sheet, trigger an import execution, pass any validation layers that present and ultimately have the data available on D365FO. Now, I would like to propose another method that might come useful in some circumstances: Using Microsoft Forms.\nIntroduction\n\">\n        \n    The trio\n    \nWhen\nThis method should be at its finest w…",
+          "link": "https://nuxulu.com/2020-05-24-dynamics-365-finops-data-integration-using-microsoft-forms-part-1/",
+          "publishedOn": "2020-05-24T00:00:00.000Z",
+          "wordCount": 1317,
+          "title": "Dynamics 365 FinOps Data Integration using Microsoft Forms (Part 1)",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2020-05-10-database-sync-after-data-type-on-field-has-been-changed/",
+          "author": "Max Nguyen",
+          "description": "You will got an error like this when doing Database Synchronization after changing the data type of the field on the table:\nFailure\n        \nInvalidOperationException: Table … : Converting Field ‘..’ of Type ‘..’ to ‘..’ is not support. Please drop the original field, sync the table and add new field with same name if needed.\nSolution:\nDrop the table and delete references from SQLDictionary\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n\n\n\nDROP TABLE AXDB.dbo.NAMEOFTABLE\n\nDELETE\nFROM AXDB.dbo.SQLDICTIONARY\nWHERE TABLEID IN (\n SELECT TABLEID\n FROM SQLDICTIONARY\n WHERE NAME = 'NAMEOFTABLE'\n  AND FIELDID = 0\n)\n\n\n\n\n\nRestart IIS\nIn VS 2015, run DB sync again.\nThank you for reading.",
+          "link": "https://nuxulu.com/2020-05-10-database-sync-after-data-type-on-field-has-been-changed/",
+          "publishedOn": "2020-05-10T00:00:00.000Z",
+          "wordCount": 258,
+          "title": "Database Sync after data type on field has been changed",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2020-04-09-how-to-ignore-standard-code-in-dynamics-365-finance-and-operations/",
+          "author": "Alex Ong",
+          "description": "Failure\n        \nDisclaimers: Try at your own risk, this is consider as a bug and it will be fixed soon.\nAccording to this MS article about Chain Of Command https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/extensibility/method-wrapping-coc#wrapper-methods-must-always-call-next\n“Wrapper methods must always call next Wrapper methods in an extension class must always call next, so that the next method in the chain and, finally, the original implementation are always called. This restriction helps guarantee that every method in the chain contributes to the result. In the current implementation of this restriction, the call to next must be in the first-level statements in the method body.”\nSo as described in the article, the Chain Of Command in Dynamics 365 finance and operat…",
+          "link": "https://nuxulu.com/2020-04-09-how-to-ignore-standard-code-in-dynamics-365-finance-and-operations/",
+          "publishedOn": "2020-04-09T00:00:00.000Z",
+          "wordCount": 686,
+          "title": "How to skip standard code in Dynamics 365 finance and operations",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2020-04-06-getting-onebox-vhd-dynamics-365-finance-and-operations-virtual-machine/",
+          "author": "Max Nguyen",
+          "description": "1. Download Dynamics 365 finance and operations VHD files\nGo to the LCS main page and select Shared asset library or go to Shared Asset Library.\nSelect the asset type Downloadable VHD.\nFind the VHD you are looking for based on the desired Finance and Operation version. The VHD is divided into multiple file parts that you need to download. For example, the asset files that start with “VHD - 10.0.5” are the different files you need in order to install version 10.0.5.\nDownload all files (parts) associated with the desired VHD to a local folder.\nAfter the download is complete, run the executable file that you downloaded, accept the software license agreement, and choose a file path to extract the VHD to.\nThis creates a local VHD file that you can use to run a local virtual machine.\nSign in to …",
+          "link": "https://nuxulu.com/2020-04-06-getting-onebox-vhd-dynamics-365-finance-and-operations-virtual-machine/",
+          "publishedOn": "2020-04-06T00:00:00.000Z",
+          "wordCount": 993,
+          "title": "Getting onebox VHD Dynamics 365 finance and operations virtual machine",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2020-04-05-azure-storage-emulator-port-conflict-with-existing-application/",
+          "author": "Max Nguyen",
+          "description": "The Microsoft Azure storage emulator is a tool that emulates the Azure Blob, Queue, and Table services for local development purposes. You can test your application against the storage services locally without creating an Azure subscription or incurring any costs. When you’re satisfied with how your application is working in the emulator, switch to using an Azure storage account in the cloud.\nIn Dynamics 365 finance and operations onebox environment, we also use Microsoft Azure Storage Emulator for same purposes. There is a common problem when you try to start its service or using Data entity Import/Export\n\nPort conflict with existing application\n{:.error}\nReason\nBy default, Azure storage emulator is using port number 10000, 10001, 10002 for Blob, Queue and Table services respectively. And there is a progress/system takes those ports already, so you are not able to start its service.\nWe can simply use this command in CMD to see which one has conflict\nnetstat -p tcp -ano | findstr :10001\n\nThe process ID 4 is currently taking port 10001.\nResolution\nYou can either terminate the conflict program or change the default port for Azure Storage Emulator.\nTo determine the conflict program we can use this command in CMD\nRun following command to check which application/process has the same port, then simply go to task manager and terminate it.\ntasklist /fi \"pid eq 4\"\n\nTo change the default port for Azure storage Emulator\nGo to your storage emulator default installation folder, which is located at C:\\Program Files (x86)\\Microsoft SDKs\\Azure\\Storage Emulator, open the AzureStorageEmulator.exe.config by notepad and edit the port number to different number\n\nWhen done, try to start its service again using\nAzureStorageEmulator.exe start\n\nThank you for reading.",
+          "link": "https://nuxulu.com/2020-04-05-azure-storage-emulator-port-conflict-with-existing-application/",
+          "publishedOn": "2020-04-05T00:00:00.000Z",
+          "wordCount": 456,
+          "title": "Azure Storage Emulator 'Port conflict with existing application', Dynamics 365 finance and operations",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2020-01-25-create-po-confirm-receipt-post/",
+          "author": "Max Nguyen",
+          "description": "The script will work for Dynamics 365 Finance & Operations version\n\n\n\n  1\n  2\n  3\n  4\n  5\n  6\n  7\n  8\n  9\n 10\n 11\n 12\n 13\n 14\n 15\n 16\n 17\n 18\n 19\n 20\n 21\n 22\n 23\n 24\n 25\n 26\n 27\n 28\n 29\n 30\n 31\n 32\n 33\n 34\n 35\n 36\n 37\n 38\n 39\n 40\n 41\n 42\n 43\n 44\n 45\n 46\n 47\n 48\n 49\n 50\n 51\n 52\n 53\n 54\n 55\n 56\n 57\n 58\n 59\n 60\n 61\n 62\n 63\n 64\n 65\n 66\n 67\n 68\n 69\n 70\n 71\n 72\n 73\n 74\n 75\n 76\n 77\n 78\n 79\n 80\n 81\n 82\n 83\n 84\n 85\n 86\n 87\n 88\n 89\n 90\n 91\n 92\n 93\n 94\n 95\n 96\n 97\n 98\n 99\n100\n101\n102\n103\n104\n105\n106\n107\n108\n109\n110\n111\n112\n113\n114\n115\n116\n117\n118\n119\n120\n121\n122\n123\n124\n125\n126\n127\n128\n129\n130\n131\n132\n133\n134\n135\n136\n137\n138\n139\n140\n141\n142\n143\n144\n145\n146\n147\n148\n149\n150\n151\n152\n153\n154\n155\n156\n157\n158\n159\n160\n161\n162\n163\n164\n165\n166\n167\n168\n169\n\n\n\nclass MaxGeneratePO\n{\n    public static void main(A…",
+          "link": "https://nuxulu.com/2020-01-25-create-po-confirm-receipt-post/",
+          "publishedOn": "2020-01-25T00:00:00.000Z",
+          "wordCount": 721,
+          "title": "Create Purchase Orders - Confirm - Product receipt - Post using X++ in Dynamics 365 Finance & Operations",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2019-12-17-dynamics-365-finance-and-operations-odata-consuming-length-cannot-be-less-than-zero/",
+          "author": "Max Nguyen",
+          "description": "When you consume a custom data entity, you get an error\nFailure\n        \nerrorSystem.ArgumentOutOfRangeException : Length cannot be less than zero” and it works fine for standard data entities.\n\nThe reason is the temporary XML file where the metadata stored which mismatches with the metadata from https://<yourenvironment>.cloudax.dynamics.com/data/$metadata\nYou can follow this post to understand how to create the XML file.\nIf you try to regenerate the metadata by saving the ODataClient.tt file, the XML will be accumulated, and the error keeps happening.\nThe resolution here is simply delete it and regenerate metadata again by saving the ODataClient.tt file\n\nThank you for reading.",
+          "link": "https://nuxulu.com/2019-12-17-dynamics-365-finance-and-operations-odata-consuming-length-cannot-be-less-than-zero/",
+          "publishedOn": "2019-12-17T00:00:00.000Z",
+          "wordCount": 276,
+          "title": "Dynamics 365 finance and operations ODATA consuming - Length cannot be less than zero",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2019-12-18-enable-power-bi-embedded-in-cloud-hosted-dynamics-365-finance-and-operations-8.0-/",
+          "author": "Max Nguyen",
+          "description": "In this article, we will go through how to enable Power BI embedded in Dynamics 365 finance and operations version 10 in a cloud-hosted environment (customer managed). From the previous version of FinOps, Power BI embedded uses workspace collections at Azure to display the report, since the workspace collections have been deprecated, Microsoft also disables power BI embedded in cloud-hosted environments. You can only enable Power BI embedded in multiple boxes environments like UAT and production.\n1. Create workspace collections\nAlthough the workspace collections have been deprecated, it does not show in the Azure portal and you could not create it by using the Azure portal, but you can create and manage by using Azure CLI.\nOpen PowerShell and run following\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n…",
+          "link": "https://nuxulu.com/2019-12-18-enable-power-bi-embedded-in-cloud-hosted-dynamics-365-finance-and-operations-8.0-/",
+          "publishedOn": "2019-12-17T00:00:00.000Z",
+          "wordCount": 888,
+          "title": "Enable Power BI Embedded in cloud hosted Dynamics 365 finance and operations 8.0 +",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2019-12-16-consuming-dynamics-365-finance-and-operations-odata-services-from-net/",
+          "author": "Max Nguyen",
+          "description": "1. Authentication\nWe need an authentication to connect Dynamics 365 finance and operations from .Net application by using service principal.\nHow to create an app registration in Azure https://docs.microsoft.com/en-us/azure/active-directory/develop/app-registrations-training-guide-for-app-registrations-legacy-users\nYou also need to add required permissions for Dynamics 365 finance and operations, please follow\nhttps://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/services-home-page#register-a-web-application-with-aad\nThis is what you should have\n\n2. Register your external application\na. In the FinOps application, go to System administration > Setup > Azure Active Directory applications.\nb.\tSelect New.\nc.\tFill in the fields for the new record:\nIn the Client Id fie…",
+          "link": "https://nuxulu.com/2019-12-16-consuming-dynamics-365-finance-and-operations-odata-services-from-net/",
+          "publishedOn": "2019-12-16T00:00:00.000Z",
+          "wordCount": 766,
+          "title": "Consuming Dynamics 365 Finance and Operations OData services from .NET",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2019-11-05-business-events-and-https-endpoint/",
+          "author": "Max Nguyen",
+          "description": "In Dynamics 365 finance and operations, Business events provide a mechanism that lets external systems receive notifications from FinOps applications. In this way, the systems can perform business actions in response to business events.\nThere are 3 types of business events: Application business events, Workflow business events, and Alerts as business events. You can also implement a new business event.\nBusiness events can be consumed using Microsoft Flow and Azure messaging services, and we use endpoint to manage the destinations for sending business events to, Microsoft supports many endpoints: Azure Service Bus Queue, Azure Service Bus Topic, Azure Event Grid, Azure Event Hub, HTTPS, Microsoft Flow.\nIn this article I will show how to send business event to HTTPs endpoint that leveraging …",
+          "link": "https://nuxulu.com/2019-11-05-business-events-and-https-endpoint/",
+          "publishedOn": "2019-11-05T00:00:00.000Z",
+          "wordCount": 841,
+          "title": "Business events and HTTPs endpoint",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2019-10-15-insert-multiple-records-in-single-request-using-odata-from-postman/",
+          "author": "Max Nguyen",
+          "description": "Got inspired by this topic, I’d like to write this article to show you how to post multiple records in single request by using Postman.\nGenerally, batch requests are supported in the OData service, The easiest way is you can use the C# code approach from github and the excel add-ins in Dynamics 365 for finance and operations use Odata batch to communicate in a single request but how can we leverage it in Postman.\nUsing Excel add-in then add 2 customer groups records and submit to Dynamics 365 for finance and operations, while you are doing that using fiddler on the same box to see how the odata batch framework works.\nThis can be done from POSTMAN too and you need to use header and body as you see in Fiddler.\nFor basic setting up Dynamics 365 for finance and operations and Postman please fo…",
+          "link": "https://nuxulu.com/2019-10-15-insert-multiple-records-in-single-request-using-odata-from-postman/",
+          "publishedOn": "2019-10-15T00:00:00.000Z",
+          "wordCount": 622,
+          "title": "Insert multiple records in single request using Odata from Postman",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2019-10-10-extend-the-standard-reports-in-dynamics-365-finance-and-operations/",
+          "author": "Max Nguyen",
+          "description": "In this article, I will show the procedure for the SSRS Reports development and customization in Dynamics 365 finance and operations (Version 8.1 and above).\nThe scenario is you would like to extend the customer account statement report with 2 main tasks\nCreate custom design for the report\nExpand the standard report data sets\nSame with AX 2012 version, there is no change on how you developer a new SSRS report with query based and report data provider. But if you want to extend or modify the standard one you need to understand how to use extensions in general, Event handlers and Chain of Command.\nThe steps\n1. Adding a new field\nThe main temp table is CustAccountStatementExtTmp, right click and create an extension; I’m going to add a new string field MaxTxT\n\n\n2. Duplicate the report\nDuplicat…",
+          "link": "https://nuxulu.com/2019-10-10-extend-the-standard-reports-in-dynamics-365-finance-and-operations/",
+          "publishedOn": "2019-10-10T00:00:00.000Z",
+          "wordCount": 791,
+          "title": "Extend the standard reports in Dynamics 365 finance and operations",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2019-09-28-technical-referece-report-data-entites-d365/",
+          "author": "Max Nguyen",
+          "description": "The following reports provide details about technical objects available in Dynamics 365 for Finance Operations version 10.0. This version was released in May 2019 and has a build number of 10.0.2.",
+          "link": "https://nuxulu.com/2019-09-28-technical-referece-report-data-entites-d365/",
+          "publishedOn": "2019-09-28T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Technical reference - Data entity - Dynamics 365 finance and operations",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2019-08-05-database-sync-d365fo/",
+          "author": "Max Nguyen",
+          "description": "You can either execute the script for cloud-hosted, onebox VHD, or UAT environment. This is not applied with one-box Microsoft hosted environment.\nOpen PowerShell, run following script\n\n\n\n1\n2\n3\n4\n5\n6\n7\n\n\n\nK:\\AOSService\\webroot\\bin\\Microsoft.Dynamics.AX.Deployment.Setup.exe \n-bindir \"K:\\AosService\\PackagesLocalDirectory\" \nmetadatadir \"K:\\AosService\\PackagesLocalDirectory\" \n-sqluser \"axdbadmin\" -sqlserver \".\" -sqldatabase \"AxDB\" \n-setupmode \"sync\" -syncmode \"fullall\" \n-isazuresql \"false\" -sqlpwd \"************\" \n-logfilename \"C:\\Temp\\dbsync.log\"\n\n\n\n\n\nFor example\n\n\n\n1\n2\n3\n4\n5\n6\n7\n\n\n\nK:\\AOSService\\webroot\\bin\\Microsoft.Dynamics.AX.Deployment.Setup.exe \n-bindir \"K:\\AosService\\PackagesLocalDirectory\" \nmetadatadir \"K:\\AosService\\PackagesLocalDirectory\" \n-sqluser \"axdbadmin\" -sqlserver \".\" -sqldatabase \"AxDB\" \n-setupmode \"sync\" -syncmode \"fullall\" \n-isazuresql \"false\" -sqlpwd \"AOSWebSite@123\" \n-logfilename \"C:\\Temp\\dbsync.log\"\n\n\n\n\n\nAX DB user you can get from LCS, if you want to sync Azure DB please change -isazuresql to True",
+          "link": "https://nuxulu.com/2019-08-05-database-sync-d365fo/",
+          "publishedOn": "2019-08-05T00:00:00.000Z",
+          "wordCount": 250,
+          "title": "Dynamics 365 for finance and operations database synchronization using command line",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-08-07-exception-handling-in-dynamics-365-for-finance-and-operation/",
+          "author": "Max Nguyen",
+          "description": "When we write a code, or make a customization to Dynamics 365 For Operation which is using X++ should make use of Exception Handling to provide some context for the message or a different more useful message. In this article, I will be exploring how I can come up with a uniform way to catch multiple types of exception that can be raised in X++.\n1. Exception type\nThere are many several types of exception and the type differs depending on what caused the error. Much of exception types are determined by the kernel and are not normally thrown by application code. All exception types, however, can be caught, and it is the developers’ responsibility to decide which exceptions need to be handled.\nThe exception type is identified using the system-based enumeration called an exception. Because it i…",
+          "link": "https://nuxulu.com/2017-08-07-exception-handling-in-dynamics-365-for-finance-and-operation/",
+          "publishedOn": "2017-08-07T00:00:00.000Z",
+          "wordCount": 1427,
+          "title": "Exception Handling in Dynamics 365 For Finance and Operation",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-07-24-management-reporter-in-dynamics-365-for-operation/",
+          "author": "Max Nguyen",
+          "description": "1. Overview Management Reporter in New AX\nManagement Reporter is now Financial reports.\nAs you know Management Reporter is a real-time financial reporting application that is designed to empower information workers to quickly and easily create, generate, secure, and publish financial statements, such as Profit and Loss statements, balance sheets, and cash flow reports.\nIn Dynamics 365 For Operation, I can access these reports within AX means directly from the web client in the browser. This feature allows me to run financial statements, such as a balance sheet and income statements.\nThe 22 default reports that are included, default financial reports including income statements, balance sheet reports, cash flow statements, and general ledger reports, which can be modified depending on your …",
+          "link": "https://nuxulu.com/2017-07-24-management-reporter-in-dynamics-365-for-operation/",
+          "publishedOn": "2017-07-24T01:33:44.000Z",
+          "wordCount": 1031,
+          "title": "Management reporter in new AX, Dynamics 365 For Operation",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-04-10-oops_concept/",
+          "author": "false",
+          "description": "There are many explanations that we can find in internet about C# OOP, but here in my article I will give a very simple example. In this article, I will use a “House (like the houses we live in) “as a real-time example for easy understanding of OOP Concept in C#.\n1. Class\nClass is a like a Blueprint.\nBlueprint is outline drawing of our actual plan. For example if we plan to build our new house, the Engineer will explain our new house plan with a blue print as shown in the image below. Once we finalized the plan the engineer will start building the house with same plan.\nSame like blueprint class is an outline of program. Using the class we can write our own method and declare the variables and using the objects we can access the class Method and Variables. The class will be complete with Va…",
+          "link": "https://nuxulu.com/2017-04-10-oops_concept/",
+          "publishedOn": "2017-04-11T00:00:00.000Z",
+          "wordCount": 5911,
+          "title": "Basic C# OOP Concept",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-03-29-how-to-create-main-menu-in-dynamics-ax-2012/",
+          "author": "Max Nguyen",
+          "description": "All main entry points to the UI and reports are access though the menu structure. This is presented in three ways: the left-hand navigation pane, the content area, and the navigation bar (at the top of the client). The menu design is controlled from the Menus node in the AOT.\nEach module will have a menu, which is created by adding a menu reference (or shortcut) to the main menu:\n\n  \n\nThis matches the list of modules shown in the client’s left-hand navigation pane.\nCreate Menu in AOT\nOpen your project.\nRight-click on the Menus node and select New > Menu.\nRename the menu as YourMainMeunuName and open the property sheet.\nFor Porperties of created Menu:\n. Enter the label and create a label.\n. As this menu will be a module with company-specifc information, set the SetCompany property to Yes.\n. Choose the icons in the NormalImage property and set ImageLocation to EmbeddedResource.\nCreate Submenu, by right-clicking on the menu and navigating to New | Submenu.\nFinally, we need to add our menu as a module to the main menu, which is done as follows:\nPlace the AOT window next to our project window (if required, open the AOT window by pressing Ctrl + D).\nScroll down to Menus and expand MainMenu.\nRight-click on MainMenu and navigate to New > Menu reference.\nThis opens a new window titled Select: Menus. Locate your menu and drag it to MainMenu, as shown in the following screenshot (the title changes from Select: Menus to the path of the select node when you click on it):\n\n  \n\nNote: Do not drag the menu from your project!\nSave AOT and you can check new menu on AX client.\nThank you for reading!",
+          "link": "https://nuxulu.com/2017-03-29-how-to-create-main-menu-in-dynamics-ax-2012/",
+          "publishedOn": "2017-03-29T00:00:00.000Z",
+          "wordCount": 422,
+          "title": "How to create main menu in Dynamics AX 2012",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-19-number-sequence-farmework-in-dynamics-ax-2012/",
+          "author": "Max Nguyen",
+          "description": "For this demo, I will create New module along with NumberSequence, about creating Number Sequence without module you also use same steps just leave some steps base on Design picture above.\nETD\nCreate ETD ContosoId extends num datatype.\nTable\nCreate Contoso Table with ContosoId field.\nEnum\nCreate a new enum value Contoso in BaseEnum NumberSeqModule.\nThis value will be used to link number sequence to the module and to restrict displayed number sequence by module in Form.\nNumberSeqModule Class\nCreate NumberSeqModuleXXX class\nCreate a new NumberSeqModuleXXX class, such as NumberSeqModuleContoso, which extends the NumberSeqApplicationModule class. The sample code for creating this class is as follows:\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n\n\n\npublic cla…",
+          "link": "https://nuxulu.com/2017-01-19-number-sequence-farmework-in-dynamics-ax-2012/",
+          "publishedOn": "2017-01-19T00:00:00.000Z",
+          "wordCount": 1483,
+          "title": "Number sequence farmework overview in Dynamics AX 2012",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-19-overview-delete-action-in-dyanmics-ax-2012/",
+          "author": "Max Nguyen",
+          "description": "We normally create action delete in foreign table to make sure referential integrity in Logic and validation.\nThe delete action has the following options: None, Restricted, Cascade, Cascade + Restricted\nNone:\nThis has no effect, and effectively disables the delete action. This is useful if you want to specifically state do nothing so that someone else doesn’t try to correct what seems to be an omission.\nRestricted:\nThis will prevent the record from being deleted if there are records in the related table that match the selected relation. This occurs within the validateDelete table event, which is called by the delete table event.\nCascade:\nThis will delete the record in the related table, based on the relation. Ex: A sales order line is of no use without a sales order. This is an extension of the delete table event.\nCascade + Restricted\nThis is a little special. In a two-table scenario, it is the same as Restricted. It will stop the record from being deleted if a related record exists. But if the record is being deleted as part of a cascade from a table related to it, the records will be deleted.\nfor more infomation about how to create DeleteActions at MSDN.",
+          "link": "https://nuxulu.com/2017-01-19-overview-delete-action-in-dyanmics-ax-2012/",
+          "publishedOn": "2017-01-19T00:00:00.000Z",
+          "wordCount": 332,
+          "title": "Overview delete action in Dyanmics AX 2012",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-12-handle-aif-error-messages-in-dynamics-ax-2012-r3/",
+          "author": "Max Nguyen",
+          "description": "Normally, when we consume AIF Service, we use this code like below to handle Error messages\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n\n\n\ntry\n{\n\tclient.register(ctx, contract);\n\tConsole.WriteLine(\"items registed on Trans Id: \" + contract.InventTransId + \" with \" + contract.Qty + \" quantities.\");\n\tConsole.ReadLine();\n}\ncatch (Exception ex)\n{\n\tConsole.WriteLine(string.Format(\"Ex: {0}\", ex.Message));\n\tConsole.ReadLine();\n}\n\n\n\n\n\nIf it cause error, message would return like this\n\nIf you want to know more details, you have to go In Dynamics ax AIF Exceptions form then check\n\nIt’s quite hard for 3rd party developer, especially they don’t have right to access AX server.\nAnyway, we can get meaningful error message by doing below steps\nCheck that box in AIF inbound ports\n\n\nUse FaultException class to get message\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n\n\n\ntry\n{\n\tclient.register(ctx, contract);\n\tConsole.WriteLine(\"items registed on Trans Id: \" + contract.InventTransId + \" with \" + contract.Qty + \" quantities.\");\n\tConsole.ReadLine();\n\n}\ncatch (System.ServiceModel.FaultException<ItemsRegistration.RegRef.AifFault> aifFault)\n{\n\t//FaultMessageList[] list = aifFault.Detail.FaultMessageListArray[0];\n\tInfologMessage[] list = aifFault.Detail.InfologMessageList;\n\n\tforeach (InfologMessage message in list)\n\t{\n\t\tConsole.WriteLine(message.Message);\n\n\t}\n\tConsole.ReadLine();\n\n}\n\n\n\n\n\nwhat we got\n\nThank you for reading.",
+          "link": "https://nuxulu.com/2017-01-12-handle-aif-error-messages-in-dynamics-ax-2012-r3/",
+          "publishedOn": "2017-01-12T00:00:00.000Z",
+          "wordCount": 337,
+          "title": "Handle AIF error messages in dynamics AX 2012 R3",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-12-how-to-create-http-adapter-port/",
+          "author": "Max Nguyen",
+          "description": "We normally use NETTCP adapter for .NET system, It going to very easy to consume by.\nAs my experience, if we use NETTCP adapter for consuming by Java system, we will need add some extension or 3rd party due to binding and mismatch schema and of course client doesn’t want to do that either me.\nSo, my solution is creating HTTP adapter for Java, you can also use .NET system to consume HTTP adapter without any problems\nHow to do\nYou need to make sure install web services component on Internet Information Services (IIS) and verify that the default website is working.\n\n\nIn AX, under System administrator > Services and AIF > Web sites, open from a create new record follow information\nName: DynamicsAXAif60\nVirtual directory share path: \\\\YourServerName\\MicrosoftDynamicsAXAif60\nURL: http://YourServerName/MicrosoftDynamicsAXAif60\nFrom now on, you can create AIF inbound port with HTTP adapter.\n\nAfter you’ve actived the services, that Port will deployed under DynamicsAXAif60 folder in IIS.\nThank you for reading.",
+          "link": "https://nuxulu.com/2017-01-12-how-to-create-http-adapter-port/",
+          "publishedOn": "2017-01-12T00:00:00.000Z",
+          "wordCount": 288,
+          "title": "How to create HTTP adapter port",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-12-respone-in-aif-custom-service-class/",
+          "author": "Max Nguyen",
+          "description": "At the previous post I already show how to customize Response Value list in AIF Document standard service, today we will talk about response in Custom AIF service class.\nWe already know for Custom AIF service we actually need 2 classes, one is contract for data input and one is service to process a logic. With Response class, it’s literally same with contract class. They both hold parm value.\ncontract class gets parametters.\nResponse class sets return values.\nScenario\nI want to get HcmPersonnelNumberId and HcmWorkerName of current userID on C#.NET application.\nSolution\nWrite Custom AIF service to get Worker information, and then public this service.\nWrite C#.NET console to consume that service.\nWalkthrough\nResponse class\n\n\n\n1\n2\n3\n4\n5\n6\n\n\n\n[DataContractAttribute]\nclass MaxWorkerResponse\n{\n …",
+          "link": "https://nuxulu.com/2017-01-12-respone-in-aif-custom-service-class/",
+          "publishedOn": "2017-01-12T00:00:00.000Z",
+          "wordCount": 513,
+          "title": "Response in AIF custom service class",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-11-aif-custom-response-value-in-dynamics-ax-2012-r3/",
+          "author": "Max Nguyen",
+          "description": "For this demonstration, I use AIF service to create Sales order with SalesSalesOrderService and I gonna consume AIF using C#.NET.\nNormally, in consume service application we handle return value by using EntityKeyList, EntityKey, KeyData[0].Value. And for Sales Order It will return Created SalesID.\nLet’s take a look on AxdSalesOrder class. More about Axd class please prefer this.\nThen go to createList method, this method will handle response value\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n\n\n\npublic AifEntityKeyList createList(\n    AifDocumentXml                  _xml,\n    AifEndpointActionPolicyInfo     _actionPolicyInfo,\n    AifConstraintListCollection     _constraintListCollection)\n{\n    AifEntityKeyList aifEntityKeyList;\n\n    aifEntityKeyList = super(_xml, _actionPolicyInfo, _constrai…",
+          "link": "https://nuxulu.com/2017-01-11-aif-custom-response-value-in-dynamics-ax-2012-r3/",
+          "publishedOn": "2017-01-11T00:00:00.000Z",
+          "wordCount": 643,
+          "title": "AIF Custom response value in Dynamics AX 2012 R3",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-10-block-vendor-and-send-email-for-notification-in-dynamics-ax/",
+          "author": "Max Nguyen",
+          "description": "Main requirements is Using batch to find and block vendor base on last transaction condition and notify for them by emails.\nSet up E-mail parameters\nFor set up email, we need Go to AX System administrator > Setup > E-mail parameters\n\nVendor emails\nVendor emails locate on LogisticsElectronicAddress.Locator, partyTable.PrimaryContactEmail, partyLocation.Location, please take a look on this job to find how to update Vendor emails and you also could see the relations more clearly.\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n\n\n\nstatic void UpdateVendorEmail(Args _args)\n{\n    VendTable                   vendTable;\n    LogisticsElectronicAddress  electronicAddress;\n    DirPartyTable               partyTable;\n    …",
+          "link": "https://nuxulu.com/2017-01-10-block-vendor-and-send-email-for-notification-in-dynamics-ax/",
+          "publishedOn": "2017-01-10T00:00:00.000Z",
+          "wordCount": 888,
+          "title": "How to block vendor and send email for notification.",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-03-simple-custom-serivce-in-ax-r3/",
+          "author": "Max Nguyen",
+          "description": "There is a maximum of one Primary Key per table, whereas a table can have several alternate keys. The primary key is usually the type of key that other tables, called child tables, refer to when a foreign key field in those other tables need a relational identifier.\nFor new tables the default is a primary key based on the RecId field , incremented number or a completely meaningless number that is generated by the system surrogate key.\nAlternate key can be chosen as the Replacement Key of a table that can display on forms instead of a meaningless numeric primary key value. Each table can have a maximum of one replacement key.\nNatural key has meaning to people. Most replacement keys are natural keys.\nRelations represents a foreign key.\nThank you for reading!",
+          "link": "https://nuxulu.com/2017-01-03-simple-custom-serivce-in-ax-r3/",
+          "publishedOn": "2017-01-03T00:00:00.000Z",
+          "wordCount": 263,
+          "title": "Simple summary Keys are in Dynamics AX",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-02-ax1004-error/",
+          "author": "Max Nguyen",
+          "description": "I got this error at version Dynamics 2012 R3 CU9, SQL Server 2014, Windows Server 2012 R2.\nThose kind of errors will come when you move report from Dev Server to Live Server, even compilation in DP Class, Query, Contract, table … without any error\nImage\n\">\n        \n    Image_rounded\n    {:.rounded}\nAX1004: Reference System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 was not a valid model assembly.\nMSB3644: The reference assemblies for framework “.NETFramework,Version=v4.0” were not found. To resolve this, install the SDK or Targeting Pack for this framework version or retarget your application to a version of the framework for which you have the SDK \nCause\nThere is no reference Assemblies Version 4.0  under C:\\Program Files (x86)\\Reference Assemblies\\Microsoft\\Framework\\.NETFramework on Windows Server 2012 R2 (only Version 4.5 it have)\nSolution\nCopy those Assemblies from your any where (Windows 7,8,10) to Server\nRestore and compile again.\nThank you for reading!",
+          "link": "https://nuxulu.com/2017-01-02-ax1004-error/",
+          "publishedOn": "2017-01-02T00:00:00.000Z",
+          "wordCount": 254,
+          "title": "AX1004 error in Dynamics AX",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-02-recalculate-inventsum/",
+          "author": "Max Nguyen",
+          "description": "InventSum is needed to recalculate sometimes. We should use InventSumRecalcItem class in Dynamics AX.\n\n\n\n1\n2\n3\n4\n5\n\n\n\n\nInventSumRecalcItem InventSumRecalcItem;\n;\nInventSumRecalcItem = new InventSumRecalcItem(\"ITEM001\", true, checkfix::fix);\nInventSumRecalcItem.updatenow();\n\n\n\n\n\nFirst parameter : ItemId\nSecond parameter : Show errors\nThird parameter : Fix or only check\nWhat if you want to calculate for all items:\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n\nInventTable InventTable;\nInventSumRecalcItem InventSumRecalcItem;\n\nWHILE SELECT InventTable\n\tWHERE (InventTable.ItemType == ItemType::Item) || (InventTable.ItemType == ItemType::BOM)\n\t{\n\t\tInventSumRecalcItem = new InventSumRecalcItem(InventTable.ItemId, true, checkfix::fix);\n\t\tInventSumRecalcItem.updatenow();\n\t}\n\n\n\n\n\nThank you for reading!",
+          "link": "https://nuxulu.com/2017-01-02-recalculate-inventsum/",
+          "publishedOn": "2017-01-02T00:00:00.000Z",
+          "wordCount": 214,
+          "title": "Recalculate InventSum in Dynamics AX",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-02-simple-summary-keys-are-in-dynamics-ax/",
+          "author": "Max Nguyen",
+          "description": "There is a maximum of one Primary Key per table, whereas a table can have several alternate keys. The primary key is usually the type of key that other tables, called child tables, refer to when a foreign key field in those other tables need a relational identifier.\nFor new tables the default is a primary key based on the RecId field , incremented number or a completely meaningless number that is generated by the system surrogate key.\nAs The RecId data type, surrogate keys exist on a primary key table. As The RefRecId ETD, surrogate foreign keys exist on a foreign key table (Ex: Party field is on CustTable Table).\nAlternate key can be chosen as the Replacement Key of a table that can display on forms instead of a meaningless numeric primary key value. Each table can have a maximum of one replacement key.\nNatural key has meaning to people. A set of fields that uniquely identify a record and would have formed the primary key of the table, if not for the existence of a surrogate key.\nRelations represents a foreign key.\nThank you for reading!",
+          "link": "https://nuxulu.com/2017-01-02-simple-summary-keys-are-in-dynamics-ax/",
+          "publishedOn": "2017-01-02T00:00:00.000Z",
+          "wordCount": 328,
+          "title": "Simple summary Keys are in Dynamics AX",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-02-using-methods-in-table-filters-query-ranges-in-dynamics-ax-2012/",
+          "author": "Max Nguyen",
+          "description": "In Dynamics AX, there is a class called SysQueryRangeUtil that can be utilized in both query ranges and table filters. Using methods from this class allow you to be very precise about what dates you want to use in reports or for filtering your data.\nLet’s say you have a report that you always want to run to see orders with shipping dates of the next day. It is possible to do so by using one of the methods from the SysQueryRangeUtil. The use of the letter ’t’ will work for today’s date, but when you try to add days to it, it doesn’t work in reports. Instead, I will use the currentdate() method and add 1 to it.\nAll methods & expressions must be surrounded by parentheses as shown below.\n\nFiltering the requested ship dates in an AX query for tomorrow (current day() + 1)\nOn any form with a grid…",
+          "link": "https://nuxulu.com/2017-01-02-using-methods-in-table-filters-query-ranges-in-dynamics-ax-2012/",
+          "publishedOn": "2017-01-02T00:00:00.000Z",
+          "wordCount": 596,
+          "title": "Using Methods in Table Filters & Query Ranges in Dynamics AX 2012",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2017-01-01-difference-between-queryfilter-and-querybuildrange/",
+          "author": "Max Nguyen",
+          "description": "In Dynamics AX, we have two way to filter the result set of records in joined query is using QueryFilter class and QueryBuildRange class.\nSo what’s difference between them? when do we use QueryFilter class? When do we use QueryBuildRange class?\nToday, i will make a simple sample to show what is difference between them.\nI have two table :\nTable DuyDang_ParentTable which have 1 columns : ID.\n\nTable DuyDang_ChildTable which have 3 columns : ID, ParentID, Qty.\n\nand they have relation like this : DuyDang_ParentTable.ID = DuyDang_ChildTable.ParentID.\nI have the Outer Join query:\nUse QueryFilter class:\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n\n\n\nstatic void DuyDang_QueryFilter(Args _args)\n{\n    Query query;\n    QueryBu…",
+          "link": "https://nuxulu.com/2017-01-01-difference-between-queryfilter-and-querybuildrange/",
+          "publishedOn": "2017-01-01T00:00:00.000Z",
+          "wordCount": 605,
+          "title": "Difference between QueryFilter and QueryBuildRrange",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-12-30-useful-functions-to-use-in-ax-2012/",
+          "author": "Max Nguyen",
+          "description": "Useful functions to use in AX 2012\n\n\n\n   1\n   2\n   3\n   4\n   5\n   6\n   7\n   8\n   9\n  10\n  11\n  12\n  13\n  14\n  15\n  16\n  17\n  18\n  19\n  20\n  21\n  22\n  23\n  24\n  25\n  26\n  27\n  28\n  29\n  30\n  31\n  32\n  33\n  34\n  35\n  36\n  37\n  38\n  39\n  40\n  41\n  42\n  43\n  44\n  45\n  46\n  47\n  48\n  49\n  50\n  51\n  52\n  53\n  54\n  55\n  56\n  57\n  58\n  59\n  60\n  61\n  62\n  63\n  64\n  65\n  66\n  67\n  68\n  69\n  70\n  71\n  72\n  73\n  74\n  75\n  76\n  77\n  78\n  79\n  80\n  81\n  82\n  83\n  84\n  85\n  86\n  87\n  88\n  89\n  90\n  91\n  92\n  93\n  94\n  95\n  96\n  97\n  98\n  99\n 100\n 101\n 102\n 103\n 104\n 105\n 106\n 107\n 108\n 109\n 110\n 111\n 112\n 113\n 114\n 115\n 116\n 117\n 118\n 119\n 120\n 121\n 122\n 123\n 124\n 125\n 126\n 127\n 128\n 129\n 130\n 131\n 132\n 133\n 134\n 135\n 136\n 137\n 138\n 139\n 140\n 141\n 142\n 143\n 144\n 145\n 146\n 147\n 148\n 149\n 150\n 151\n 152\n 1…",
+          "link": "https://nuxulu.com/2016-12-30-useful-functions-to-use-in-ax-2012/",
+          "publishedOn": "2016-12-30T00:00:00.000Z",
+          "wordCount": 4471,
+          "title": "Useful functions to use in AX 2012",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-12-29-crud-purchase-requisition-using-aif-in-dynamics-ax-2012-r3/",
+          "author": "Max Nguyen",
+          "description": "The workflow process moves purchase requisitions through the review process, from an initial status of Draft to a final status of Approved. When a purchase requisition is submitted for review, the workflow process is started. After a purchase requisition is approved, a purchase order can be generated for the purchase requisition lines and submitted to the vendor for order fulfillment.\nWe will use AIF standard service for import PR from outside, service name PurchReqImportService.\nin AxPurchReqTable class and setPurchReqId() method\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n\n\n\nprotected void setPurchReqId()\n{\n    NumberSequenceReference numberSequenceReference;\n\n    if (this.isMethodEx…",
+          "link": "https://nuxulu.com/2016-12-29-crud-purchase-requisition-using-aif-in-dynamics-ax-2012-r3/",
+          "publishedOn": "2016-12-29T00:00:00.000Z",
+          "wordCount": 661,
+          "title": "CRUD Purchase Requisition using AIF in Dynamics AX 2012 R3",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-12-28-crud-purchase-order-using-aif-in-dynamics-ax-2012-r3/",
+          "author": "Max Nguyen",
+          "description": "Due to Purchase order doesn’t have Standard document service so we have to create new Document service for that using AIF wizards.\nI’m using AIF document service with NETTCP or HTTP Adapter to Create Purchase order service, here is steps\nCreate Query\nwith three datasouce (PurchTable, PurchLine, InventDim) likes below\n\n\nAs best practice for Document service, name of query should be start with Axd* prefix.\nUsing AIF Wizards\nIn AX development environment, go to Tools > Wizards > AIF document service wizards\n\nChoose recent created query and click next.\nCreate Service operation and AxBC class\n\nClick next and then Generate.\nYou will get service project in Private project\nDeploy and create service\n•\tRight click on PurchOrderService > Add-Ins > Register service\n•\tSystem administration > Setup > Se…",
+          "link": "https://nuxulu.com/2016-12-28-crud-purchase-order-using-aif-in-dynamics-ax-2012-r3/",
+          "publishedOn": "2016-12-28T00:00:00.000Z",
+          "wordCount": 883,
+          "title": "CRUD Purchase order using AIF in Dynamics AX 2012 R3",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-12-28-insert-update-delete-order-line-through-aif-in-ax-2012-r3/",
+          "author": "Max Nguyen",
+          "description": "In previous post, I already show how to create purchase order through AIF with NETTCP or HTTP adapter. In this post, we will get little deep more about action on line of order.\nThe following code sample shows how to insert, update, delete a line of an existing purchase order through AIF, currently I’m using C#.NET console project for demo.\nAs Partial update, we must include just the fields to change and any fields required by the document (you can check Data policies in AIF Service ports form for that).\nAlso, notice how action properties are specified – no matter we do with the line, which means updating the order.\nI’m giving you an idea how it looks like, here is the code\nThe first method will handle the key of AIF Service\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n\n\n\nprivate static …",
+          "link": "https://nuxulu.com/2016-12-28-insert-update-delete-order-line-through-aif-in-ax-2012-r3/",
+          "publishedOn": "2016-12-28T00:00:00.000Z",
+          "wordCount": 557,
+          "title": "Insert, update, Delete order line through AIF In AX 2012 R3",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-12-27-crud-items-products-products-master-dimension-variants-using-aif-in-dynamics-ax-2012-r3/",
+          "author": "Max Nguyen",
+          "description": "Scenarios:\nI’m trying to create product/master product in Dynamics AX using AIF inbound port, the AIF services consume by C#.NET.\nFrom AX 2012 R2, Item is replaced with Product. Item master was in Inventory Management Module, now there is a separate module for item/product creation Product information Management.\nSome definitions you should know\nThere are two types of Products in 2012 they are:\nProduct\nProduct information management/Common/Products/Products\nProduct Master\nProduct information management/Common/Products/Products master\na. Variants:\nTo create a product variant, you must define at least one product dimension for a product master. You can also rename dimensions.\nTo create product variants, you must complete the following tasks:\nSet up dimensions, such as size, color, and style.…",
+          "link": "https://nuxulu.com/2016-12-27-crud-items-products-products-master-dimension-variants-using-aif-in-dynamics-ax-2012-r3/",
+          "publishedOn": "2016-12-27T00:00:00.000Z",
+          "wordCount": 1562,
+          "title": "CRUD Items, products, products master dimension, variants using AIF in Dynamics AX 2012 R3",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-12-26-posting-cust-payment-journal-using-x-/",
+          "author": "Max Nguyen",
+          "description": "Base on JournalId on LedgerJournalTable you can use code below to post the transactions\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n\n\n\n//Contract class\n[\n    DataMemberAttribute('gJournalId'),\n    SysOperationDisplayOrderAttribute('1')\n]\npublic LedgerJournalId parmJournalNum(LedgerJournalId _journalId = gJournalId)\n{\n    gJournalId = _journalId;\n\n    return gJournalId;\n}\n\n//Processing class\n[SysEntryPointAttribute]\npublic void process(MAV_PostCustPaymentJourContract _contract)\n{\n    LedgerJournalTable      ledgerJournalTable;\n    LedgerJournalCheckPost  postCustPaymentJournal;\n\n    ledgerJournalTable = LedgerJournalTable::find(_contract.parmJournalNum());\n    if (ledgerJournalTable)\n    {\n        postCustPaymentJournal = LedgerJournalCheckPost::newLedgerJournalTable(ledgerJournalTable, NoYes::Yes);\n        postCustPaymentJournal.run();\n    }\n}",
+          "link": "https://nuxulu.com/2016-12-26-posting-cust-payment-journal-using-x-/",
+          "publishedOn": "2016-12-26T00:00:00.000Z",
+          "wordCount": 216,
+          "title": "Posting cust payment journal using X++",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-11-25-the-type-system-of-dynamics-ax-2012/",
+          "author": "Max Nguyen",
+          "description": "The Microsoft Dynamics AX runtime manages the storage of value type data on the call stack and reference type objects on the memory heap.\nThe call stack is the memory structure that holds data about the active methods called during program execution. The memory heap is the memory area that allocates storage for objects that are destroyed automatically by the Microsoft Dynamics AX run-time.\nValue types\nValue types include the built-in primitive types, extended data types, enumeration types, and built-in collection types.\nThe primitive types are boolean, int, int64, real, date, utcDateTime, timeofday, str, and guid.\nThe extended data types are specialized primitive types and specialized base enumerations.\nThe enumeration types are base enumerations and extended data types.\nThe collection typ…",
+          "link": "https://nuxulu.com/2016-11-25-the-type-system-of-dynamics-ax-2012/",
+          "publishedOn": "2016-11-24T01:22:39.000Z",
+          "wordCount": 534,
+          "title": "The Type system of Dynamics AX 2012",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-11-23-copy-data-between-microsoft-dynamics-ax-companies-using-dixf-in-ax-2012-r3/",
+          "author": "Max Nguyen",
+          "description": "",
+          "link": "https://nuxulu.com/2016-11-23-copy-data-between-microsoft-dynamics-ax-companies-using-dixf-in-ax-2012-r3/",
+          "publishedOn": "2016-11-17T00:11:11.000Z",
+          "wordCount": 153,
+          "title": "Copy data between Microsoft Dynamics AX companies using DIXF In AX 2012 R3",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-11-23-step-by-step-how-to-build-ssrs-report---advanced-rdp-class/",
+          "author": "Max Nguyen",
+          "description": "",
+          "link": "https://nuxulu.com/2016-11-23-step-by-step-how-to-build-ssrs-report---advanced-rdp-class/",
+          "publishedOn": "2016-11-17T00:11:11.000Z",
+          "wordCount": 152,
+          "title": "Step by Step How to build SSRS Report - Advanced RDP Class",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-11-10-types-services-microsoft-dynamics-ax-2012/",
+          "author": "Max Nguyen",
+          "description": "Document services\nDocument services use documents to represent business objects such as purchase and sales orders, customers, vendors, and so on.\nA document service is composed of the following components:\nDocument query : This is a query that is created in the Application Object Tree (AOT) and contains all the tables that are related to the business object that you want to expose. Based on this query, the Document Service Generation Wizard can be used to generate the other artifacts that make up the document service.\nTable AxBC classes : An AxBC class is a wrapper for a table and contains business logic that is needed for Create, Read, Update, Delete (CRUD) operations.\nDocument class : The purpose of the document class is to contain business logic that is associated with the creation and …",
+          "link": "https://nuxulu.com/2016-11-10-types-services-microsoft-dynamics-ax-2012/",
+          "publishedOn": "2016-11-10T09:47:00.000Z",
+          "wordCount": 1533,
+          "title": "Types of services in Microsoft Dynamics AX 2012",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-11-08-microsoft_dyanmics_ax_2012_test_data_transfer_tool/",
+          "author": "Max Nguyen",
+          "description": "SUMMARY\nTool can be used for two different purposes. One is to install demo data and other one is elaborated as below. Customers often need to have a production dataset to use when building and validating customizations in non-production environments.\nThe Microsoft Dynamics AX 2012 Test Data Transfer Tool (beta) is a tool that helps move data between from production to non-production environments or from non-production environments to production environments to make a new production environment. But you must be careful becasue the tool imports data table by table and deletes the data in the table before importing. Hence it is highly advised against running the tool for import in production environments.\nBENEFITS\nExport and import data outside AX, without running an AOS instance.\nExport and…",
+          "link": "https://nuxulu.com/2016-11-08-microsoft_dyanmics_ax_2012_test_data_transfer_tool/",
+          "publishedOn": "2016-11-08T09:47:00.000Z",
+          "wordCount": 643,
+          "title": "Microsoft AX 2012 Test Data Transfer Tool",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-11-08-understanding_modifedfield_table_method_in_dax_2012/",
+          "author": "Max Nguyen",
+          "description": "Dear all,\nWe use modifiedField() method to perform any actions  after the field is modifed\nEx:\nCreate new table with 2 fields ItemId and ItemNameDisplay  from Extended Data Types node in AOT then Override modifiedField() in Table’s method node, something likes:\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n\n\n\npublic void modifiedField(FieldId _fieldId)\n{\n    InventTable inventTable;\n    super(_fieldId);\n    switch (_fieldId)\n    {\n        case fieldNum(IBD_Invent,itemid):\n            this.ItemNameDisplay = inventTable::find(this.itemid).NameAlias;\n            break;\n    }\n}\n\n\n\n\n\nthe modifiedField() method is located on tables and it is called by a form (or a dataset) when any field is changed. It has field ID as a parameter and therefore it is very easy to write code reacting to a change of a particular field. It is so easy that the modifiedField() method is often used even in such cases, when it really shouldn’t be used.\nIf you want to get previous field value in the modifiedField() for comparative purpose, you can use this.orig() method:\n\n\n\n1\n2\n3\n4\n5\n\n\n\npublic void modifiedField(fieldId _fieldId)\n{\n    super(_fieldId);\n    info(strfmt(\"Field number %1 changed from %2 to %3\",_fieldId,this.orig().(_fieldId),this.(_fieldId)));\n}",
+          "link": "https://nuxulu.com/2016-11-08-understanding_modifedfield_table_method_in_dax_2012/",
+          "publishedOn": "2016-11-08T06:47:00.000Z",
+          "wordCount": 303,
+          "title": "Understanding modifedField() Table method in DAX 2012",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-10-07-ssrs-sql-server-reporting-services-expressions-or-functions-used-in-ssrs/",
+          "author": "Max Nguyen",
+          "description": "Expressions are usually used for appearance of the data in a report, change properties of the fields, calculate some values and display them in a proper way, compares values between data of fields and then display them.\nTypes of Expressions\nWe have 3 types:\nGlobals\nOperators - Arithmetic, Comparison,Concatenation, Logical\nCommon Functions - Text, Date & Time, Math, Inspection, Program Flow, Aggregate, Financial, Conversion, Miscellaneous\nWe can see each and every one very deataily\n1. Globals\nGlobal expressions executes/works in Page Header and Footer parts only.\nExecutionTime  Shows date and time at when report executes\nPageNumber shows page number of each and every page but allowed only in page header and footer\nReportName  displays name of the active report what name we have assigned to …",
+          "link": "https://nuxulu.com/2016-10-07-ssrs-sql-server-reporting-services-expressions-or-functions-used-in-ssrs/",
+          "publishedOn": "2016-10-07T00:00:00.000Z",
+          "wordCount": 1352,
+          "title": "Expressions or Functions used in SSRS",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-09-06-evolution-of-programming-languages/",
+          "author": "Max Nguyen",
+          "description": "",
+          "link": "https://nuxulu.com/2016-09-06-evolution-of-programming-languages/",
+          "publishedOn": "2016-09-06T09:47:00.000Z",
+          "wordCount": 119,
+          "title": "Evolution of programming languages",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-07-05-create-record-in-dimensionattributevaluecombination-manually/",
+          "author": "Max Nguyen",
+          "description": "Sometime we need this RecId value in DimansionAttributeValueCombination Table for some reasons likes putting new dimension in LedgerDimension field in LedgerJournalTrans Table, or somewhere else.\nSuppose my Account structure likes: MainAcct - Dept - Woker - SubAcct - Item,\nyou can custom base on your struture.\nThis code is for creating a record into DimansionAttributeValueCombination in code and then get RecID of this.\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n\n\n\nstatic void createDimensionAttributeValueCombination(Args _args)\n{\n    DimensionAttributeValueContract     ValueContract;\n    DimensionAttributeValueCombination  davc;\n    MainAccount                         valueMainAccount;\n    DimensionStorag…",
+          "link": "https://nuxulu.com/2016-07-05-create-record-in-dimensionattributevaluecombination-manually/",
+          "publishedOn": "2016-07-05T09:47:00.000Z",
+          "wordCount": 464,
+          "title": "Create record in DimensionAttributeValueCombination table manually.",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-01-17-how-to-verify-active-inventory-dimensions-on-an-item/",
+          "author": "Max Nguyen",
+          "description": "If you want to list items come along with their Actvie Dimension, you can do it easily with this simple job\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n\nInventTable     inventTable;\nInventDimParm   inventDimParm;\n;\ninventTable   = InventTable::find('110924');\ninventDimParm =  InventDimParm::activeDimFlag(InventDimGroupSetup::newInventTable(inventTable));\nif(inventDimParm.InventSiteIdFlag)\n{\n\tinfo(\"Site Actived\");\n}",
+          "link": "https://nuxulu.com/2016-01-17-how-to-verify-active-inventory-dimensions-on-an-item/",
+          "publishedOn": "2016-01-17T09:22:50.000Z",
+          "wordCount": 180,
+          "title": "How to verify active inventory dimensions on an item",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-01-15-only-integrated-security-is-supported-for-ax-queries/",
+          "author": "Max Nguyen",
+          "description": "I updated my dynamics Ax development Environment by restoring Database from Production Database . After the restoring the database, when I run any report form Dynamics Ax, all gave error  “Only integrated security is supported for AX queries.”\nThe reporting Services are still working fine.\nFor this, best way to redeploy them, create a new report folder, open Microsoft Dynamics Ax 2012 Management Shell (make sure you run Powershell as Administrator).\nPublish-AXReport -ReportName *",
+          "link": "https://nuxulu.com/2016-01-15-only-integrated-security-is-supported-for-ax-queries/",
+          "publishedOn": "2016-01-17T09:22:50.000Z",
+          "wordCount": 210,
+          "title": "Only integrated security is supported for AX queries",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-01-15-ssrs-report-server-settings-validation-error-ax-2012-r3-cu9/",
+          "author": "Max Nguyen",
+          "description": "Recently I updated my dynamics Ax development Environment by restoring Database from Production Dynamics AX DB and I got this problem\nMake sure that SQL Server Reporting Services is configured correctly. Verify the Web Service URL and Report Manager URL configuration in the SQL Reporting Services Configuration Manager.\nAnyway, The reporting Services are still working fine and i have already granted the AX Admin as System Administrator under site settings, Home folder settings and DynamicsAX folder with “Browser, Content Manager, DynamicsAXBrowser, My Reports, Publisher, Report Builder” roles.\nSolution is we need disable UAC (I’m using Windows Server 2012 R2) by Regedit\ngo to Regedit: “HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionpoliciessystem” and changing the DWORD “EnableLUA” from 1 to 0.\nAfter the reboot, UAC is disabled.\nHappy AXsing",
+          "link": "https://nuxulu.com/2016-01-15-ssrs-report-server-settings-validation-error-ax-2012-r3-cu9/",
+          "publishedOn": "2016-01-15T09:22:50.000Z",
+          "wordCount": 256,
+          "title": "SSRS Report Server Settings Validation Error- AX 2012 R3 CU9",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2016-01-07-link-type-and-join-types-in-ax-2012/",
+          "author": "Max Nguyen",
+          "description": "Link Type\nActive:\nParent and child data source is updated immediately when a new record in the parent data source is selected. Continuous updates consume lots of resources consuming.\nDelayed:\nParent and child A pause is inserted before linked child data sources are updated. This enables faster navigation in the parent data source because the records from child data sources are not updated immediately.\nFor example, you can scroll a list of orders where you do not want to review the lines associated with the order until you stop scrolling.\nPassive: Parent and child Linked child data sources are not updated automatically. Updates of the child data source must be programmed on the active() method of the master data source.\nJoin Types\nInnerJoin Combined data source select the record from the ma…",
+          "link": "https://nuxulu.com/2016-01-07-link-type-and-join-types-in-ax-2012/",
+          "publishedOn": "2016-01-06T21:39:12.000Z",
+          "wordCount": 549,
+          "title": "Link Type and Join Types in ax 2012",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2015-12-30-how-to-use-operator-in-querybuildrange/",
+          "author": "Max Nguyen",
+          "description": "This blog post is show how to apply OR conditions in query build ranges in a simple way on same field in a table. Let’s see the simple query :\n\n\n\n1\n\n\n\nselect * from CustTable where AccountNum == '2001' || AccountNum == '2002'\n\n\n\n\n\nWe can find out solutions on MSDN  by using expression in query ranges, but as it has lot of specifications which needs to be followed. However there is a simple way to do it :\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n\n\n\nstatic void Job12(Args _args)\n{\n    CustTable cust;\n    Query query = new Query();\n    QueryBuildDataSource qbds;\n    QueryBuildRange queryRange1, queryRange2;\n    ;\n\n    qbds = query.addDataSource(tableNum(CustTable));\n\n    queryRange1 = qbds.addRange(fieldNum(CustTable, AccountNum));\n    queryRange1.value('1168201');\n\n    queryRange2 = qbds.addRange(fieldNum(CustTable, AccountNum));\n    queryRange2.value('9034518');\n\n    info(qbds.toString());\n}\n\n\n\n\n\nResult in string format as below image :\n\n\n\n1\n\n\n\nSELECT * FROM CustTable(CustTable_1) WHERE ((AccountNum = N'1168201') OR (AccountNum = N'9034518'))\n\n\n\n\n\nThanks for reading :). Happy New Year.",
+          "link": "https://nuxulu.com/2015-12-30-how-to-use-operator-in-querybuildrange/",
+          "publishedOn": "2015-12-29T21:23:09.000Z",
+          "wordCount": 286,
+          "title": "How to use operator \"or\" in QueryBuildRange",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2015-12-16-how-to-install-2-instances-ssrs-on-1-server/",
+          "author": "Max Nguyen",
+          "description": "Scenario:\nI have 2 AOS AX (maybe same in one server or different servers), but only one server for reporting server (I will install and configure multiple SRS instances in this server). Thing is how can we install and configure 2 SSRS instances on same server and running for 2 AOS.\neasierly, please take a look the picture below\n\nFigure 1: Two SSRS instance are running same server.\nProblems:\nFirst you need to install 2 SSRS instance in same server, and install reporting service component for first AOS, this step is very simple. The problems come when we install second reporting service component for second AOS.\nReporting service component uses business connector to connect to AX, and it’s saved on configuration in Registry. When we install second reporting service component it will through message that component already installed.\nHow to do:\nAfter installed second instance into C:\\Program Files\\Microsoft SQL Server\\MSRS12.InstanceName\\Reporting Services\\ReportServer\\bin, we need to create one Dynamics.AX.ReportConfiguration.axc file by AX configuration client with second AOS information.\n\n\nopen MS Dyanmics AX Management Shell, run command below:\nInstall-AXReportInstanceExtensions –ReportServerInstanceName [SSRSInstanceName] -Credential [DomainNameUserName]\n\n\ngoto C:\\Program Files\\Microsoft SQL Server\\MSRS12.SecondInstance\\Reporting Services\\ReportServer fix fileconfi with value from Execution to FullTrust\n\nAfter this, remember restart reporting services.\n\nFrom now on, you can run 2 AX reporting instance in same server.\nThank you for reading!",
+          "link": "https://nuxulu.com/2015-12-16-how-to-install-2-instances-ssrs-on-1-server/",
+          "publishedOn": "2015-12-16T02:01:11.000Z",
+          "wordCount": 343,
+          "title": "How to install two instances SSRS on one server",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2015-11-20-ax-2012-r3-cu8-cu9-and-tfs-online-2013-error/",
+          "author": "Max Nguyen",
+          "description": "When you try connecting between TFS and Dynamics AX CU8, CU9 and you got error like this:\nError 1\nTeam Foundation services are not available from server  ****.visualstudio.com/defaultcollection.\nTechnical information (for administrator):\nTF400813: Resource not available for anonymous access. Client authentication required.\nError 2\nCould not load file or assembly ‘Microsoft.TeamFoundation.Client, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a’ or one of its dependencies. The system cannot find the file specified.\nClient computers that are not running Visual Studio 2010 must have the Team Foundation Server 2010 SP1 Object Model installed to use TFS source control with Microsoft Dynamics AX.\nTFS support TFS 2010, TFS 2012, TFS 2013 and TFS online, but to connect to these from AX you will need “TFS 2010 object model Sp1” which is client to connect to server.\nAfter install Team Foundation Server 2010 SP1 Object Model above. Client computers that are not running Visual Studio 2010 must have hotfix KB 2662296 installed to use TFS source control with Microsoft Dynamics AX.\nOnce you have installed the above , restart your AOS and open AX client again, then try to check-in some Jobs.",
+          "link": "https://nuxulu.com/2015-11-20-ax-2012-r3-cu8-cu9-and-tfs-online-2013-error/",
+          "publishedOn": "2015-11-20T06:52:40.000Z",
+          "wordCount": 320,
+          "title": "AX 2012 R3 CU8 CU9 and TFS Online 2013 Error",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2015-11-17-caching-form-into-aos-to-increase-performance-for-dynamics-ax/",
+          "author": "Max Nguyen",
+          "description": "Scenario:\nNormally when we open form for the first time in Dynamics AX, it will take sometimes to compilte and cache into AOS. That’s why at second time always faster.\nIf we often restart AOS, how can we keep performance ?\nSolution:\nAfter restart AOS we can let some scripts run to open up some often used forms then cache to AOS, then close those forms.\nHere is the code\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n\n\n\nstatic void WarmupRF(Args _args)\n\n{\n    UtilElements e;\n    TreeNode treeNode;\n    FormRun formRun;\n\n    Args args = new Args();\n\n    while select e\n        where e.utilLevel  == UtilEntryLevel::var    //<-- specify layer here\n        &&    e.recordType == UtilElementType::Form  //<-- and only forms\n        &&    e.name like \"nameofformPrefix\"\n\n        {\n            try\n            {\n                treeNode = xUtilElements::getNodeInTree(xUtilElements::parentElement(e));\n                args.name(treeNode.AOTname());\n                formRun = ClassFactory.formRunClass(args);\n                formRun.init();\n                //formRun.run();   //<-- No need to run the form, but sometimes it can load the data\n                formRun.close();\n            }\n            catch\n            {\n                Infolog.clear();\n                continue;\n            }\n        }\n}",
+          "link": "https://nuxulu.com/2015-11-17-caching-form-into-aos-to-increase-performance-for-dynamics-ax/",
+          "publishedOn": "2015-11-16T20:13:45.000Z",
+          "wordCount": 312,
+          "title": "Caching form into AOS to increase performance for Dynamics AX",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2015-11-13-how-to-use-like-operator-in-querybuildrange/",
+          "author": "Max Nguyen",
+          "description": "To make something as the LIKE operator in a query, just assign a value to the QueryRange including a wildcard.\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n\n\n\nstatic void QueryBuildRange_Sample(Args _args)\n{\n    Query                       query = new Query();\n    QueryRun                    queryRun;\n    QueryBuildDataSource        qbds;\n    QueryBuildRange             queryRange;   \n    CustTable                   custTable;\n    \n    qbds.addDataSource(tableNum(CustTable));\n    \n    queryRange = qbds.addRange(fieldNum(CustTable, AccountNum));\n    \n    queryRange.value(\"axd*\");\n    \n    queryRun = new QueryRun(query);\n    \n    while(queryRun.next())\n    {\n        custTable = queryRun.get(tableNum(CustTable));\n        print custTable.AccountNum;\n    }\n    pause;\n}",
+          "link": "https://nuxulu.com/2015-11-13-how-to-use-like-operator-in-querybuildrange/",
+          "publishedOn": "2015-11-13T00:00:00.000Z",
+          "wordCount": 218,
+          "title": "HOW TO USE \"LIKE\" OPERATOR IN QueryBuildRange",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2015-11-03-defaultvale-combobox-in-x/",
+          "author": "Max Nguyen",
+          "description": "Beside modify metadata on form properties, as best practice we can use code like below to assign default value for combobox.\nYou can use this code in the form’s init method after super():\n\n\n\n1\n\n\n\nComboBoxName.selection(ComboBoxName::DefaultValue);\n\n\n\n\n\nIf this is a table field we should you best practice overriding the initValue method in the table:\n\n\n\n1\n\n\n\nthis.ComboBoxName = ComboBoxName::DefaultValue;\n\n\n\n\n\nOverride initValue in the form’s datasource only if it should be a specific behaviour in this form only.",
+          "link": "https://nuxulu.com/2015-11-03-defaultvale-combobox-in-x/",
+          "publishedOn": "2015-11-12T23:57:46.000Z",
+          "wordCount": 199,
+          "title": "DefaultValue ComboBox in Dynamics AX with X++",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2015-11-03-rename-a-database-in-sql-server/",
+          "author": "Max Nguyen",
+          "description": "Open Microsoft SQL Server Management Studio.\nConnect to the server where in the DB you want to rename is located.\nModify the following script and run it\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n\n\n\n-- Replace all MyDBs with the name of the DB you want to change its name\nUSE [MyDB];\n-- Changing Physical names and paths\n-- Replace all NewMyDB with the new name you want to set for the DB\n-- Replace 'C:...NewMyDB.mdf' with full path of new DB file to be used\nALTER DATABASE MyDB MODIFY FILE (NAME = ' MyDB ', FILENAME = 'C:...NewMyDB.mdf');\n-- Replace 'C:...NewMyDB_log.ldf' with full path of new DB log file to be used\nALTER DATABASE MyDB MODIFY FILE (NAME = ' MyDB _log', FILENAME = 'C:...NewMyDB_log.ldf');\n-- Changing logical names\nALTER DATABASE MyDB MODIFY FILE (NAME = MyDB, NEWNAME = NewMyDB);\nALTER DATABASE MyDB MODIFY FILE (NAME = MyDB _log, NEWNAME = NewMyDB_log);\n\n\n\n\n\nRight click on the DB and select Tasks>Take Offline\nGo to the location that MDF and LDF files are located and rename them exactly as you specified in first two alter commands. If you changed the folder path, then you need to move them there.\nGo back to Microsoft SQL Server Management Studio and right click on the DB and select Tasks>Bring Online.",
+          "link": "https://nuxulu.com/2015-11-03-rename-a-database-in-sql-server/",
+          "publishedOn": "2015-11-02T20:45:13.000Z",
+          "wordCount": 349,
+          "title": "Rename a Database in SQL Server",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         }
       ]
     },
@@ -653,6 +1263,16 @@
       "feedUrl": "https://community.dynamics.com/ax/b/axmsdwnews/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5a05c12d-5bcf-4cdc-843a-a97c6d527f68",
+          "author": "MSDynamicsWorld.com",
+          "description": "Although Microsoft Dynamics ERPs offer robust capabilities,\nsometimes organizations realize they have specialized requirements\nnot covered by their out-of-the-box solution. When that happens,\nthey can turn to third-party solutions to ensure that their... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/22-takeaways-to-expect-from-the-microsoft-dynamics-erp-financial-management-tools-showcase-series",
+          "publishedOn": "2022-09-22T17:00:00.000Z",
+          "wordCount": 3345,
+          "title": "22 Takeaways to Expect from the Microsoft Dynamics ERP Financial Management Tools Showcase Series",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:228a7f02-6e0c-4dad-b499-cdef47d1c5cb",
           "author": "MSDynamicsWorld.com",
