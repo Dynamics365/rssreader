@@ -734,16 +734,6 @@
           "wordCount": 199,
           "title": "DefaultValue ComboBox in Dynamics AX with X++",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://nuxulu.com/2015-11-03-rename-a-database-in-sql-server/",
-          "author": "Max Nguyen",
-          "description": "Open Microsoft SQL Server Management Studio.\nConnect to the server where in the DB you want to rename is located.\nModify the following script and run it\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n\n\n\n-- Replace all MyDBs with the name of the DB you want to change its name\nUSE [MyDB];\n-- Changing Physical names and paths\n-- Replace all NewMyDB with the new name you want to set for the DB\n-- Replace 'C:...NewMyDB.mdf' with full path of new DB file to be used\nALTER DATABASE MyDB MODIFY FILE (NAME = ' MyDB ', FILENAME = 'C:...NewMyDB.mdf');\n-- Replace 'C:...NewMyDB_log.ldf' with full path of new DB log file to be used\nALTER DATABASE MyDB MODIFY FILE (NAME = ' MyDB _log', FILENAME = 'C:...NewMyDB_log.ldf');\n-- Changing logical names\nALTER DATABASE MyDB MODIFY FILE (NAME = MyDB, NEWNAME = NewMyDB);\nALTER DATABASE MyDB MODIFY FILE (NAME = MyDB _log, NEWNAME = NewMyDB_log);\n\n\n\n\n\nRight click on the DB and select Tasks>Take Offline\nGo to the location that MDF and LDF files are located and rename them exactly as you specified in first two alter commands. If you changed the folder path, then you need to move them there.\nGo back to Microsoft SQL Server Management Studio and right click on the DB and select Tasks>Bring Online.",
-          "link": "https://nuxulu.com/2015-11-03-rename-a-database-in-sql-server/",
-          "publishedOn": "2015-11-02T20:45:13.000Z",
-          "wordCount": 349,
-          "title": "Rename a Database in SQL Server",
-          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         }
       ]
     },
@@ -3007,6 +2997,16 @@
       "feedUrl": "https://dynamics365musings.com/feed/",
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
+        {
+          "id": "https://dynamics365musings.com/?p=2247",
+          "author": "peter.ramer",
+          "description": "In Microsoft Dynamics 365 for Finance and Operations one of the most common tasks is to create forms. Forms allow users to enter data into the system, view existing data, and interact with the system. In a previous article I explained the basics of how to create a form in D365. In this article, I... Continue Reading →\nThe post Simple List and Details Form in D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/simple-list-and-details/?utm_source=rss&utm_medium=rss&utm_campaign=simple-list-and-details",
+          "publishedOn": "2022-09-26T13:00:00.000Z",
+          "wordCount": 4618,
+          "title": "Simple List and Details Form in D365",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/09/Simple-List-and-Details-Form-In-D365.png"
+        },
         {
           "id": "https://dynamics365musings.com/?p=2175",
           "author": "peter.ramer",
@@ -5429,16 +5429,6 @@
           "wordCount": 1185,
           "title": "Using X++ Delegates in the new Dynamics AX (aka AX 7)",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:250eddbd-e0cb-4625-81bc-29e97b006948",
-          "author": "Rachit Garg",
-          "description": "Hi Friends,Reference data sources is a powerful feature in AX 2012. A reference data source enables you to add the replacement fields for a surrogate foreign key replacement to a form design. It is us...(read more)",
-          "link": "https://community.dynamics.com/ax/b/dynamicsaxconcoction/posts/ax2012-tip-when-using-date-effective-tables-as-a-reference-data-source",
-          "publishedOn": "2015-11-03T08:05:00.000Z",
-          "wordCount": 952,
-          "title": "AX2012 : Tip when using date effective tables as a reference data source",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -6766,6 +6756,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "power-platform-developer-tools-monthly-release-update-august-refresh",
+          "author": null,
+          "description": "This is about the monthly releases that happens for Pro-developer tooling",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-monthly-release-update-august-refresh/",
+          "publishedOn": "2022-09-26T10:11:20.000Z",
+          "wordCount": 1985,
+          "title": "Power Platform Developer Tools monthly release update (August Refresh)",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "power-apps-brings-collaboration-to-center-stage-with-3-big-announcements",
           "author": null,

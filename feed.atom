@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-09-26T02:23:01.734Z</updated>
+    <updated>2022-09-27T02:11:46.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Simple List and Details Form in D365]]></title>
+        <id>https://dynamics365musings.com/?p=2247</id>
+        <link href="https://dynamics365musings.com/simple-list-and-details/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=simple-list-and-details"/>
+        <updated>2022-09-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In Microsoft Dynamics 365 for Finance and Operations one of the most common tasks is to create forms. Forms allow users to enter data into the system, view existing data, and interact with the system. In a previous article I explained the basics of how to create a form in D365. In this article, I... Continue Reading →
+The post Simple List and Details Form in D365 appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Developer Tools monthly release update (August Refresh)]]></title>
+        <id>power-platform-developer-tools-monthly-release-update-august-refresh</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-monthly-release-update-august-refresh/"/>
+        <updated>2022-09-26T10:11:20.000Z</updated>
+        <summary type="html"><![CDATA[This is about the monthly releases that happens for Pro-developer tooling]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[22 Takeaways to Expect from the Microsoft Dynamics ERP Financial Management Tools Showcase Series]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5a05c12d-5bcf-4cdc-843a-a97c6d527f68</id>
@@ -11624,64 +11645,6 @@ this.ComboBoxName = ComboBoxName::DefaultValue;
 
 
 Override initValue in the form’s datasource only if it should be a specific behaviour in this form only.]]></summary>
-        <author>
-            <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AX2012 : Tip when using date effective tables as a reference data source]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:250eddbd-e0cb-4625-81bc-29e97b006948</id>
-        <link href="https://community.dynamics.com/ax/b/dynamicsaxconcoction/posts/ax2012-tip-when-using-date-effective-tables-as-a-reference-data-source"/>
-        <updated>2015-11-03T08:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi Friends,Reference data sources is a powerful feature in AX 2012. A reference data source enables you to add the replacement fields for a surrogate foreign key replacement to a form design. It is us...(read more)]]></summary>
-        <author>
-            <name>Rachit Garg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rename a Database in SQL Server]]></title>
-        <id>https://nuxulu.com/2015-11-03-rename-a-database-in-sql-server/</id>
-        <link href="https://nuxulu.com/2015-11-03-rename-a-database-in-sql-server/"/>
-        <updated>2015-11-02T20:45:13.000Z</updated>
-        <summary type="html"><![CDATA[Open Microsoft SQL Server Management Studio.
-Connect to the server where in the DB you want to rename is located.
-Modify the following script and run it
-
-
-
- 1
- 2
- 3
- 4
- 5
- 6
- 7
- 8
- 9
-10
-11
-
-
-
--- Replace all MyDBs with the name of the DB you want to change its name
-USE [MyDB];
--- Changing Physical names and paths
--- Replace all NewMyDB with the new name you want to set for the DB
--- Replace 'C:...NewMyDB.mdf' with full path of new DB file to be used
-ALTER DATABASE MyDB MODIFY FILE (NAME = ' MyDB ', FILENAME = 'C:...NewMyDB.mdf');
--- Replace 'C:...NewMyDB_log.ldf' with full path of new DB log file to be used
-ALTER DATABASE MyDB MODIFY FILE (NAME = ' MyDB _log', FILENAME = 'C:...NewMyDB_log.ldf');
--- Changing logical names
-ALTER DATABASE MyDB MODIFY FILE (NAME = MyDB, NEWNAME = NewMyDB);
-ALTER DATABASE MyDB MODIFY FILE (NAME = MyDB _log, NEWNAME = NewMyDB_log);
-
-
-
-
-
-Right click on the DB and select Tasks>Take Offline
-Go to the location that MDF and LDF files are located and rename them exactly as you specified in first two alter commands. If you changed the folder path, then you need to move them there.
-Go back to Microsoft SQL Server Management Studio and right click on the DB and select Tasks>Bring Online.]]></summary>
         <author>
             <name>Max Nguyen</name>
         </author>
