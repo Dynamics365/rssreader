@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-09-29T02:23:34.680Z</updated>
+    <updated>2022-09-30T02:42:10.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -25,6 +25,28 @@ The post Simple List and Details Form in D365 appeared first on Dynamics 365 Mus
         <summary type="html"><![CDATA[This is about the monthly releases that happens for Pro-developer tooling]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add new fields to data entity or composite entity Dynamics 365]]></title>
+        <id>https://nuxulu.com/2022-09-23-add-custom-fields-to-composite-entity/</id>
+        <link href="https://nuxulu.com/2022-09-23-add-custom-fields-to-composite-entity/"/>
+        <updated>2022-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s take a composite entity SalesOrderV3Entity as an example.
+Scenario
+I will need to add new fields to Sales order header that can be used in the composite entity SalesOrderV3Entity.
+the composite entity SalesOrderV3Entity uses a standard data entity SalesOrderHeaderV2Entity for sales order header; so, we need to extend SalesOrderHeaderV2Entity.
+The Steps
+Add new fields to Main table SalesTable
+Add new fields to the entity SalesOrderHeaderV2Entity
+Add new fields to the staging table SalesOrderHeaderV2Staging
+Build and sync.
+Go to Workspaces -> Data Management -> Framework parameters -> Advanced entity configuration settings -> Refresh entity list.
+You can automate the Refresh entity list task here
+Go to Workspaces -> Data Management -> Data Entities, find SALES ORDER HEADERS V2 and Generate mapping for it.
+The new custom fields will be generated for the entity mapping.]]></summary>
+        <author>
+            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>
@@ -7095,6 +7117,79 @@ extensibility / feedbacks - functional side also for Dynamics 365 Finance
 Insights, believe it’s worth it ….]]></summary>
         <author>
             <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To d365fo.tools]]></title>
+        <id>https://nuxulu.com/2020-07-14-d365fo.tools/</id>
+        <link href="https://nuxulu.com/2020-07-14-d365fo.tools/"/>
+        <updated>2020-07-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Basic
+Reference
+        
+
+https://github.com/d365collaborative/d365fo.tools/wiki
+
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+
+
+#Installation
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Install-Module -Name d365fo.tools #-AllowClobber
+Import-Module -Name d365fo.tools
+Uninstall-Module -Name d365fo.tools
+Update-Module -Name d365fo.tools 
+
+#help
+Get-Command -Module d365fo.tools
+Get-Help New-D365Bacpac
+Get-Help New-D365Bacpac -Full
+Get-Help New-D365Bacpac -Examples 
+Get-Help Get-D365AzureDevOpsNuget  -Full
+
+#deploy report
+Publish-D365SsrsReport -Module Kaynecustomization -ReportName KACheque_US.Report
+
+#environment
+Get-D365Environment -All
+Stop-D365Environment -All
+Stop-D365Environment -Aos -Batch
+Start-D365Environmen…]]></summary>
+        <author>
+            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>
