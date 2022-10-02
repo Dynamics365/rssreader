@@ -6,6 +6,16 @@
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
         {
+          "id": "https://nuxulu.com/2022-09-28-remove-person-from-users/",
+          "author": "Max Nguyen",
+          "description": "Whenever you add a new person to an user in the user SysUserInfoPage form, the person field grays out.\nImage\n\">\n        \n    userinfo\n    \nTo remove the person from that user:\nIn the user form System administration > Users > Users, go to Maintain versions.\nDelete the person.",
+          "link": "https://nuxulu.com/2022-09-28-remove-person-from-users/",
+          "publishedOn": "2022-09-28T00:00:00.000Z",
+          "wordCount": 287,
+          "title": "Remove a person from an user Dynamics 365 Finance Operations",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2022-09-23-add-custom-fields-to-composite-entity/",
           "author": "Max Nguyen",
           "description": "Let’s take a composite entity SalesOrderV3Entity as an example.\nScenario\nI will need to add new fields to Sales order header that can be used in the composite entity SalesOrderV3Entity.\nthe composite entity SalesOrderV3Entity uses a standard data entity SalesOrderHeaderV2Entity for sales order header; so, we need to extend SalesOrderHeaderV2Entity.\nThe Steps\nAdd new fields to Main table SalesTable\nAdd new fields to the entity SalesOrderHeaderV2Entity\nAdd new fields to the staging table SalesOrderHeaderV2Staging\nBuild and sync.\nGo to Workspaces -> Data Management -> Framework parameters -> Advanced entity configuration settings -> Refresh entity list.\nYou can automate the Refresh entity list task here\nGo to Workspaces -> Data Management -> Data Entities, find SALES ORDER HEADERS V2 and Generate mapping for it.\nThe new custom fields will be generated for the entity mapping.",
@@ -254,6 +264,16 @@
           "wordCount": 721,
           "title": "Create Purchase Orders - Confirm - Product receipt - Post using X++ in Dynamics 365 Finance & Operations",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2020-01-01-microsoft-dynamics-ax-2012-update-process/",
+          "author": "Max Nguyen",
+          "description": "What is an Update?\nUpdates include hotfixes, cumulative updates, and feature packs.\nHotfix: A fix or set of fixes that address a specific issue, problem, or customer scenario.\nCumulative update: An update that contains all previous hotfixes to date.\nFeature pack: A group of updates that relate to a feature area or group of functionality. Contains design changes.\n1. Types of Hotfixes\nTo determine which type of update is in a package, download the package, and then extract contents and review\nthem to determine which type of update it is.\nImage\n\">\n        \n    Types of Hotfixes\n    \n2. How can I tell if a binary update requires a schema update, and model store reinitialization?\nThe KB article will indicate  that a hotfix requires a schema update, and that you should reinitialize the model sto…",
+          "link": "https://nuxulu.com/2020-01-01-microsoft-dynamics-ax-2012-update-process/",
+          "publishedOn": "2020-01-01T00:00:00.000Z",
+          "wordCount": 928,
+          "title": "Microsoft Dynamics AX 2012 Update Process",
+          "imageUrl": "https://nuxulu.com/2020-01-01-microsoft-dynamics-ax-2012-update-process/Dynamics-AX-2012.png"
         },
         {
           "id": "https://nuxulu.com/2019-12-17-dynamics-365-finance-and-operations-odata-consuming-length-cannot-be-less-than-zero/",
@@ -6629,6 +6649,36 @@
       "feedUrl": "https://dynamics-tips.com/feed/",
       "siteUrl": "https://dynamics-tips.com",
       "articles": [
+        {
+          "id": "https://dynamics-tips.com/?p=2581",
+          "author": "Ali Khan",
+          "description": "In D365 Finance and Operations sales category hierarchies are used for products and services classification or hierarchical reporting and analysis purposes. Microsoft Dynamics 365 allows you to create multilevel category",
+          "link": "https://dynamics-tips.com/sales-categories/",
+          "publishedOn": "2022-09-28T21:30:04.000Z",
+          "wordCount": 3812,
+          "title": "Sales Categories: D365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/10/ProcurementCategories.jpg"
+        },
+        {
+          "id": "https://dynamics-tips.com/?p=2466",
+          "author": "Ali Khan",
+          "description": "Cross-docking is a warehouse operation in which the items required to fulfil an outbound order are automatically directed to the outbound bay-door or staging area from the receiving location of",
+          "link": "https://dynamics-tips.com/cross-docking-with-awms/",
+          "publishedOn": "2022-09-26T17:58:55.000Z",
+          "wordCount": 7228,
+          "title": "Cross-docking with AWMS: D365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2022/09/CrossDocking.jpg"
+        },
+        {
+          "id": "https://dynamics-tips.com/?p=2412",
+          "author": "Ali Khan",
+          "description": "In D365 Finance and Operations email templates help administrators design what gets sent to a user during events that trigger an email like a workflow or an alert. In this",
+          "link": "https://dynamics-tips.com/email-templates-dynamics-365-finance-and-operations/",
+          "publishedOn": "2022-09-23T02:34:22.000Z",
+          "wordCount": 4017,
+          "title": "Email Templates: Dynamics 365 Finance and Operations",
+          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2022/09/EmailTemplate.jpg"
+        },
         {
           "id": "https://dynamics-tips.com/?p=2345",
           "author": "Ali Khan",
