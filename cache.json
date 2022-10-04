@@ -3038,6 +3038,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=2314",
+          "author": "peter.ramer",
+          "description": "Learn how to add a form splitter to resize areas of a form in Microsoft Dynamics AX and D365 F&O. This improves the usability of the form, and increases productivity. Instead of continually scrolling back and forth, users have greater control of what is shown on the screen. Based on the way they are currently... Continue Reading →\nThe post How To Add A Form Splitter appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/how-to-add-a-form-splitter/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-a-form-splitter",
+          "publishedOn": "2022-10-03T13:00:00.000Z",
+          "wordCount": 3863,
+          "title": "How To Add A Form Splitter",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/09/How-Too-Add-A-Form-Splitter-in-Dynamics.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=2247",
           "author": "peter.ramer",
           "description": "In Microsoft Dynamics 365 for Finance and Operations one of the most common tasks is to create forms. Forms allow users to enter data into the system, view existing data, and interact with the system. In a previous article I explained the basics of how to create a form in D365. In this article, I... Continue Reading →\nThe post Simple List and Details Form in D365 appeared first on Dynamics 365 Musings.",
