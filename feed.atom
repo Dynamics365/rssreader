@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-10-05T02:05:39.272Z</updated>
+    <updated>2022-10-06T01:59:04.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Test Engine: An open platform for automated testing of canvas apps]]></title>
+        <id>introducing-test-engine-an-open-platform-for-automated-testing-of-canvas-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/introducing-test-engine-an-open-platform-for-automated-testing-of-canvas-apps/"/>
+        <updated>2022-10-05T14:27:41.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce the initial preview of Test Engine, an evolution of our Power Apps testing tools. Test Engine builds upon the key use cases of Test Studio, but takes it in a new, powerful direction through open source collaboration and use of the Playwright browser testing platform. The goals of Test Engine are to provide customers with a robust testing platform for all types of Power Apps, and to make it super easy to integrate automated testing into your app development processes.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s new: Power Apps September 2022 Feature Update]]></title>
         <id>whats-new-power-apps-september-2022-feature-update</id>
