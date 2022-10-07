@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-10-06T01:59:04.925Z</updated>
+    <updated>2022-10-07T02:12:06.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -11745,107 +11745,6 @@ static void WarmupRF(Args _args)
         <summary type="html"><![CDATA[A colleague pointed me to a hotfix that will be released in AX 2012 R3 CU10. The hotfix is KB3061216 and is called ‘Support for new DIXF entities’. The hotfix description lists fourteen AX...(read more)]]></summary>
         <author>
             <name>Guy Terry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOW TO USE "LIKE" OPERATOR IN QueryBuildRange]]></title>
-        <id>https://nuxulu.com/2015-11-13-how-to-use-like-operator-in-querybuildrange/</id>
-        <link href="https://nuxulu.com/2015-11-13-how-to-use-like-operator-in-querybuildrange/"/>
-        <updated>2015-11-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To make something as the LIKE operator in a query, just assign a value to the QueryRange including a wildcard.
-
-
-
- 1
- 2
- 3
- 4
- 5
- 6
- 7
- 8
- 9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-
-
-
-static void QueryBuildRange_Sample(Args _args)
-{
-    Query                       query = new Query();
-    QueryRun                    queryRun;
-    QueryBuildDataSource        qbds;
-    QueryBuildRange             queryRange;   
-    CustTable                   custTable;
-    
-    qbds.addDataSource(tableNum(CustTable));
-    
-    queryRange = qbds.addRange(fieldNum(CustTable, AccountNum));
-    
-    queryRange.value("axd*");
-    
-    queryRun = new QueryRun(query);
-    
-    while(queryRun.next())
-    {
-        custTable = queryRun.get(tableNum(CustTable));
-        print custTable.AccountNum;
-    }
-    pause;
-}]]></summary>
-        <author>
-            <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DefaultValue ComboBox in Dynamics AX with X++]]></title>
-        <id>https://nuxulu.com/2015-11-03-defaultvale-combobox-in-x/</id>
-        <link href="https://nuxulu.com/2015-11-03-defaultvale-combobox-in-x/"/>
-        <updated>2015-11-12T23:57:46.000Z</updated>
-        <summary type="html"><![CDATA[Beside modify metadata on form properties, as best practice we can use code like below to assign default value for combobox.
-You can use this code in the form’s init method after super():
-
-
-
-1
-
-
-
-ComboBoxName.selection(ComboBoxName::DefaultValue);
-
-
-
-
-
-If this is a table field we should you best practice overriding the initValue method in the table:
-
-
-
-1
-
-
-
-this.ComboBoxName = ComboBoxName::DefaultValue;
-
-
-
-
-
-Override initValue in the form’s datasource only if it should be a specific behaviour in this form only.]]></summary>
-        <author>
-            <name>Max Nguyen</name>
         </author>
     </entry>
 </feed>

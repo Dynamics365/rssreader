@@ -754,26 +754,6 @@
           "wordCount": 312,
           "title": "Caching form into AOS to increase performance for Dynamics AX",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://nuxulu.com/2015-11-13-how-to-use-like-operator-in-querybuildrange/",
-          "author": "Max Nguyen",
-          "description": "To make something as the LIKE operator in a query, just assign a value to the QueryRange including a wildcard.\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n\n\n\nstatic void QueryBuildRange_Sample(Args _args)\n{\n    Query                       query = new Query();\n    QueryRun                    queryRun;\n    QueryBuildDataSource        qbds;\n    QueryBuildRange             queryRange;   \n    CustTable                   custTable;\n    \n    qbds.addDataSource(tableNum(CustTable));\n    \n    queryRange = qbds.addRange(fieldNum(CustTable, AccountNum));\n    \n    queryRange.value(\"axd*\");\n    \n    queryRun = new QueryRun(query);\n    \n    while(queryRun.next())\n    {\n        custTable = queryRun.get(tableNum(CustTable));\n        print custTable.AccountNum;\n    }\n    pause;\n}",
-          "link": "https://nuxulu.com/2015-11-13-how-to-use-like-operator-in-querybuildrange/",
-          "publishedOn": "2015-11-13T00:00:00.000Z",
-          "wordCount": 218,
-          "title": "HOW TO USE \"LIKE\" OPERATOR IN QueryBuildRange",
-          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://nuxulu.com/2015-11-03-defaultvale-combobox-in-x/",
-          "author": "Max Nguyen",
-          "description": "Beside modify metadata on form properties, as best practice we can use code like below to assign default value for combobox.\nYou can use this code in the form’s init method after super():\n\n\n\n1\n\n\n\nComboBoxName.selection(ComboBoxName::DefaultValue);\n\n\n\n\n\nIf this is a table field we should you best practice overriding the initValue method in the table:\n\n\n\n1\n\n\n\nthis.ComboBoxName = ComboBoxName::DefaultValue;\n\n\n\n\n\nOverride initValue in the form’s datasource only if it should be a specific behaviour in this form only.",
-          "link": "https://nuxulu.com/2015-11-03-defaultvale-combobox-in-x/",
-          "publishedOn": "2015-11-12T23:57:46.000Z",
-          "wordCount": 199,
-          "title": "DefaultValue ComboBox in Dynamics AX with X++",
-          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         }
       ]
     },
