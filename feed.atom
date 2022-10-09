@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-10-08T01:55:33.619Z</updated>
+    <updated>2022-10-09T02:12:09.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -11735,16 +11735,6 @@ static void WarmupRF(Args _args)
 }]]></summary>
         <author>
             <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How would you like to double the number of DIXF entities you have?]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3e5cffb6-c54f-4754-b792-28e9cc2c1f75</id>
-        <link href="https://community.dynamics.com/ax/b/guyterrysaxblog/posts/how-would-you-like-to-double-the-number-of-dixf-entities-you-have"/>
-        <updated>2015-11-14T22:30:41.000Z</updated>
-        <summary type="html"><![CDATA[A colleague pointed me to a hotfix that will be released in AX 2012 R3 CU10. The hotfix is KB3061216 and is called ‘Support for new DIXF entities’. The hotfix description lists fourteen AX...(read more)]]></summary>
-        <author>
-            <name>Guy Terry</name>
         </author>
     </entry>
 </feed>
