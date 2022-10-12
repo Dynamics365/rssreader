@@ -3861,6 +3861,16 @@
       "siteUrl": "https://allaboutdynamic.com/",
       "articles": [
         {
+          "id": "https://allaboutdynamic.com/?p=2834",
+          "author": "Piyush Adhikari",
+          "description": "Requirement – User will open power bi embedded in Microsoft Dynamics 365 for finance and operations. Pre-filtered data of vendor purchase invoices should come only for those warehouses which are tagged to current user or running user id. Solution – In D365 FO we use class- PBIReportControllerBase to call a Power BI embedded report. The … Continue reading Pass the parameter from D365 FO to Power BI Embedded and Filter records in Power BI →\nThe post Pass the parameter from D365 FO to Power BI Embedded and Filter records in Power BI appeared first on All About Microsoft Dynamics.",
+          "link": "https://allaboutdynamic.com/2022/10/11/pass-the-parameter-from-d365-fo-to-power-bi-embedded-and-filter-records-in-power-bi/",
+          "publishedOn": "2022-10-11T07:49:52.000Z",
+          "wordCount": 2090,
+          "title": "Pass the parameter from D365 FO to Power BI Embedded and Filter records in Power BI",
+          "imageUrl": "https://allaboutdynamic.com/wp-content/uploads/2022/10/image.png"
+        },
+        {
           "id": "https://allaboutdynamic.com/?p=2769",
           "author": "Piyush Adhikari",
           "description": "Hello Folks, today I am sharing you the standard way to point QR code with Logo in X++. This code will return you a container which can be use directly in image control inside a SSRS report or in an ER report format\nThe post Print QR Code With Logo In X++ & Microsoft Dynamics 365 for finance and operations. appeared first on All About Microsoft Dynamics.",
@@ -4242,26 +4252,6 @@
           "publishedOn": "2015-11-20T08:53:00.000Z",
           "wordCount": 1189,
           "title": "Use PowerShell and Business Connector to retrieve data from Dynamics AX (AX2009) - Part 2",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:442d15ee-3507-4e1d-a60e-80c0b5f35a93",
-          "author": "Dominic Lee",
-          "description": "Not long ago I started a new position as an in-house AX specialist. Part of my job is to provide support to users on their AX issues. Here I face a challenge that, due to organization structure, I don't have direct access to the SQL database. If I want to quickly check some data in AX I am then left with the table browser. Another option is to write X++ jobs but then I'll have to take care of showing the data (e.g. using infolog) myself. In short, it's not ideal.\nI missed the ability to write ad-hoc scripts and the ability to conveniently re-run them (Used to be T-SQL scripts for me). Then I thought I can use PowerShell! I tried to look up the internet for PS scripts to access AX and saw this. Unfortunately, I couldn't get it to work. Well, time to write my own. =D \nHere I connect to AX us…",
-          "link": "https://community.dynamics.com/ax/b/ftdynamicsax/posts/use-powershell-and-business-connector-to-retrieve-data-from-dynamics-ax-ax2009-713453702",
-          "publishedOn": "2015-11-18T07:20:00.000Z",
-          "wordCount": 1065,
-          "title": "Use PowerShell and Business Connector to retrieve data from Dynamics AX (AX2009)",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:97b30f4b-ff1c-482f-a2c9-2adc636cd629",
-          "author": "Dominic Lee",
-          "description": "Not long ago I started a new position as an in-house AX specialist. Part of my job is to provide support to users on their AX issues. Here I face a challenge that, due to organization structure, I don't have direct access to the SQL database. If I want to quickly check some data in AX I am then left with the table browser. Another option is to write X++ jobs but then I'll have to take care of showing the data (e.g. using infolog) myself. In short, it's not ideal.\nI missed the ability to write ad-hoc scripts and the ability to conveniently re-run them (Used to be T-SQL scripts for me). Then I thought I can use PowerShell! I tried to look up the internet for PS scripts to access AX and saw this. Unfortunately, I couldn't get it to work. Well, time to write my own. =D \nHere I connect to AX us…",
-          "link": "https://community.dynamics.com/ax/b/ftdynamicsax/posts/use-powershell-and-business-connector-to-retrieve-data-from-dynamics-ax-ax2009",
-          "publishedOn": "2015-11-18T06:20:00.000Z",
-          "wordCount": 1065,
-          "title": "Use PowerShell and Business Connector to retrieve data from Dynamics AX (AX2009)",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -6195,6 +6185,16 @@
       "feedUrl": "https://community.dynamics.com/ax/b/axinthefield/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/axinthefield",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1947fe11-c706-4b5d-845f-7d3846aed26e",
+          "author": "Victor Tang",
+          "description": "Feature Deprecation\nAs we have previously announced effective March 14, 2022, the support for XSLT scripting in Data management is deprecated to improve security and data protection within finance and...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/bank-statement-import-or-export-of-positive-pay-file-through-dixf-has-been-deprecated-in-10-0-29",
+          "publishedOn": "2022-10-10T11:25:14.000Z",
+          "wordCount": 3903,
+          "title": "Bank statement import or export of positive pay file through DIXF has been deprecated in 10.0.29",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:044c44ad-dbb6-42f0-ac19-69b1dda49a8c",
           "author": "Chris Roehrich",

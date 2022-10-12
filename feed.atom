@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-10-11T02:09:36.737Z</updated>
+    <updated>2022-10-12T02:27:08.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pass the parameter from D365 FO to Power BI Embedded and Filter records in Power BI]]></title>
+        <id>https://allaboutdynamic.com/?p=2834</id>
+        <link href="https://allaboutdynamic.com/2022/10/11/pass-the-parameter-from-d365-fo-to-power-bi-embedded-and-filter-records-in-power-bi/"/>
+        <updated>2022-10-11T07:49:52.000Z</updated>
+        <summary type="html"><![CDATA[Requirement – User will open power bi embedded in Microsoft Dynamics 365 for finance and operations. Pre-filtered data of vendor purchase invoices should come only for those warehouses which are tagged to current user or running user id. Solution – In D365 FO we use class- PBIReportControllerBase to call a Power BI embedded report. The … Continue reading Pass the parameter from D365 FO to Power BI Embedded and Filter records in Power BI →
+The post Pass the parameter from D365 FO to Power BI Embedded and Filter records in Power BI appeared first on All About Microsoft Dynamics.]]></summary>
+        <author>
+            <name>Piyush Adhikari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bank statement import or export of positive pay file through DIXF has been deprecated in 10.0.29]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1947fe11-c706-4b5d-845f-7d3846aed26e</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/bank-statement-import-or-export-of-positive-pay-file-through-dixf-has-been-deprecated-in-10-0-29"/>
+        <updated>2022-10-10T11:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Feature Deprecation
+As we have previously announced effective March 14, 2022, the support for XSLT scripting in Data management is deprecated to improve security and data protection within finance and...(read more)]]></summary>
+        <author>
+            <name>Victor Tang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Test Engine: An open platform for automated testing of canvas apps]]></title>
         <id>introducing-test-engine-an-open-platform-for-automated-testing-of-canvas-apps</id>
@@ -11628,30 +11650,6 @@ After install Team Foundation Server 2010 SP1 Object Model above. Client compute
 Once you have installed the above , restart your AOS and open AX client again, then try to check-in some Jobs.]]></summary>
         <author>
             <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use PowerShell and Business Connector to retrieve data from Dynamics AX (AX2009)]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:442d15ee-3507-4e1d-a60e-80c0b5f35a93</id>
-        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/use-powershell-and-business-connector-to-retrieve-data-from-dynamics-ax-ax2009-713453702"/>
-        <updated>2015-11-18T07:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Not long ago I started a new position as an in-house AX specialist. Part of my job is to provide support to users on their AX issues. Here I face a challenge that, due to organization structure, I don't have direct access to the SQL database. If I want to quickly check some data in AX I am then left with the table browser. Another option is to write X++ jobs but then I'll have to take care of showing the data (e.g. using infolog) myself. In short, it's not ideal.
-I missed the ability to write ad-hoc scripts and the ability to conveniently re-run them (Used to be T-SQL scripts for me). Then I thought I can use PowerShell! I tried to look up the internet for PS scripts to access AX and saw this. Unfortunately, I couldn't get it to work. Well, time to write my own. =D 
-Here I connect to AX us…]]></summary>
-        <author>
-            <name>Dominic Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use PowerShell and Business Connector to retrieve data from Dynamics AX (AX2009)]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:97b30f4b-ff1c-482f-a2c9-2adc636cd629</id>
-        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/use-powershell-and-business-connector-to-retrieve-data-from-dynamics-ax-ax2009"/>
-        <updated>2015-11-18T06:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Not long ago I started a new position as an in-house AX specialist. Part of my job is to provide support to users on their AX issues. Here I face a challenge that, due to organization structure, I don't have direct access to the SQL database. If I want to quickly check some data in AX I am then left with the table browser. Another option is to write X++ jobs but then I'll have to take care of showing the data (e.g. using infolog) myself. In short, it's not ideal.
-I missed the ability to write ad-hoc scripts and the ability to conveniently re-run them (Used to be T-SQL scripts for me). Then I thought I can use PowerShell! I tried to look up the internet for PS scripts to access AX and saw this. Unfortunately, I couldn't get it to work. Well, time to write my own. =D 
-Here I connect to AX us…]]></summary>
-        <author>
-            <name>Dominic Lee</name>
         </author>
     </entry>
 </feed>
