@@ -6797,6 +6797,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "announcing-the-general-availability-of-managed-environments",
+          "author": null,
+          "description": "Dive deeper in our Managed Environments general availability announcement and learn how you can gain more visibility and control over your application ecosystem today.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-managed-environments/",
+          "publishedOn": "2022-10-12T08:55:00.000Z",
+          "wordCount": 1474,
+          "title": "Announcing the general availability of Managed Environments",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/10/WIN23_PRO_HP_Elite_Folio_Office_003.png"
+        },
+        {
           "id": "introducing-test-engine-an-open-platform-for-automated-testing-of-canvas-apps",
           "author": null,
           "description": "We’re excited to announce the initial preview of Test Engine, an evolution of our Power Apps testing tools. Test Engine builds upon the key use cases of Test Studio, but takes it in a new, powerful direction through open source collaboration and use of the Playwright browser testing platform. The goals of Test Engine are to provide customers with a robust testing platform for all types of Power Apps, and to make it super easy to integrate automated testing into your app development processes.",
