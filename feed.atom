@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-10-13T02:18:57.747Z</updated>
+    <updated>2022-10-14T02:30:51.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -11584,80 +11584,6 @@ After this, remember restart reporting services.
 
 From now on, you can run 2 AX reporting instance in same server.
 Thank you for reading!]]></summary>
-        <author>
-            <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use PowerShell and Business Connector to retrieve data from Dynamics AX (AX2009) - Part 2]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e37319de-2774-431b-8356-529ab64ce59d</id>
-        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/use-powershell-and-business-connector-to-retrieve-data-from-dynamics-ax-ax2009---part-2"/>
-        <updated>2015-11-20T09:53:00.000Z</updated>
-        <summary type="html"><![CDATA[In my last post I mentioned the reason I use Powershell to draw data from AX. What I want to achieve is ease of drawing data from AX and the ability to save and re-run queries. I wrote a basic script module to do this.
-The main utility from the module is a new cmdlet New-AXSelectStmt. It is used to pass X++ select statement to AX and get a list of PSObject as return.
-A simple example would be:
-                
-New-AXSelectStmt CustTable -stmt "SELECT * FROM %1" 
-<# Result
- # AccountNum     : 1302
- # Name           : Turtle Wholesales
- # Address        : 123 Peach Street Aberdeen, MD 21001 US
- # Phone          : 123-555-0168
- # TeleFax        : 321-555-0157
- # InvoiceAccount : 
- # CustGroup      : 10
- # LineDisc       : 
- # PaymTermId     : N060
- # CashDisc       :  
- #>
-It is also possible…]]></summary>
-        <author>
-            <name>Dominic Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use PowerShell and Business Connector to retrieve data from Dynamics AX (AX2009) - Part 2]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ca78b598-d465-4e93-a1d7-6491b29cfad6</id>
-        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/use-powershell-and-business-connector-to-retrieve-data-from-dynamics-ax-ax2009-part-2"/>
-        <updated>2015-11-20T08:53:00.000Z</updated>
-        <summary type="html"><![CDATA[In my last post I mentioned the reason I use Powershell to draw data from AX. What I want to achieve is ease of drawing data from AX and the ability to save and re-run queries. I wrote a basic script module to do this.
-The main utility from the module is a new cmdlet New-AXSelectStmt. It is used to pass X++ select statement to AX and get a list of PSObject as return.
-A simple example would be:
-                
-New-AXSelectStmt CustTable -stmt "SELECT * FROM %1" 
-<# Result
- # AccountNum     : 1302
- # Name           : Turtle Wholesales
- # Address        : 123 Peach Street Aberdeen, MD 21001 US
- # Phone          : 123-555-0168
- # TeleFax        : 321-555-0157
- # InvoiceAccount : 
- # CustGroup      : 10
- # LineDisc       : 
- # PaymTermId     : N060
- # CashDisc       :  
- #>
-It is also possible…]]></summary>
-        <author>
-            <name>Dominic Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AX 2012 R3 CU8 CU9 and TFS Online 2013 Error]]></title>
-        <id>https://nuxulu.com/2015-11-20-ax-2012-r3-cu8-cu9-and-tfs-online-2013-error/</id>
-        <link href="https://nuxulu.com/2015-11-20-ax-2012-r3-cu8-cu9-and-tfs-online-2013-error/"/>
-        <updated>2015-11-20T06:52:40.000Z</updated>
-        <summary type="html"><![CDATA[When you try connecting between TFS and Dynamics AX CU8, CU9 and you got error like this:
-Error 1
-Team Foundation services are not available from server  ****.visualstudio.com/defaultcollection.
-Technical information (for administrator):
-TF400813: Resource not available for anonymous access. Client authentication required.
-Error 2
-Could not load file or assembly ‘Microsoft.TeamFoundation.Client, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a’ or one of its dependencies. The system cannot find the file specified.
-Client computers that are not running Visual Studio 2010 must have the Team Foundation Server 2010 SP1 Object Model installed to use TFS source control with Microsoft Dynamics AX.
-TFS support TFS 2010, TFS 2012, TFS 2013 and TFS online, but to connect to these from AX you will need “TFS 2010 object model Sp1” which is client to connect to server.
-After install Team Foundation Server 2010 SP1 Object Model above. Client computers that are not running Visual Studio 2010 must have hotfix KB 2662296 installed to use TFS source control with Microsoft Dynamics AX.
-Once you have installed the above , restart your AOS and open AX client again, then try to check-in some Jobs.]]></summary>
         <author>
             <name>Max Nguyen</name>
         </author>
