@@ -3542,6 +3542,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4405",
+          "author": "Kurt Hatlevik",
+          "description": "Your have surely heard about Sturgeon’s law that “90% of everything is crap”. Dynamics 365 is one of the most comprehensive and feature rich business application in the marked and trying to learn or use all the features would be lifelong study effort beyond the capacity of any person. I can say with 100% certainty … Continue reading Dynamics 365 – 90% of everything is crap",
+          "link": "https://kurthatlevik.com/2022/10/17/dynamics-365-90-of-everything-is-crap/",
+          "publishedOn": "2022-10-17T21:21:26.000Z",
+          "wordCount": 3766,
+          "title": "Dynamics 365 – 90% of everything is crap",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/10/101722_2120_dynamics3651.png"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4395",
           "author": "Kurt Hatlevik",
           "description": "I often work in an WYSIWYG pattern, where I do a change, and then look at the change when working with D365 eCommerce. I’m changing products, attributes, categories, customer hierarchies, forms. One thing that had me irritated, is the extensive caching being done in D365 eCommerce, and you can read more about data action cache … Continue reading D365 eCommerce : Invalidate the cache",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-10-17T02:33:25.397Z</updated>
+    <updated>2022-10-18T02:25:08.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 – 90% of everything is crap]]></title>
+        <id>http://kurthatlevik.com/?p=4405</id>
+        <link href="https://kurthatlevik.com/2022/10/17/dynamics-365-90-of-everything-is-crap/"/>
+        <updated>2022-10-17T21:21:26.000Z</updated>
+        <summary type="html"><![CDATA[Your have surely heard about Sturgeon’s law that “90% of everything is crap”. Dynamics 365 is one of the most comprehensive and feature rich business application in the marked and trying to learn or use all the features would be lifelong study effort beyond the capacity of any person. I can say with 100% certainty … Continue reading Dynamics 365 – 90% of everything is crap]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing the general availability of Managed Environments]]></title>
         <id>announcing-the-general-availability-of-managed-environments</id>
