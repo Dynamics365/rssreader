@@ -6443,6 +6443,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5d1ef8fd-ac41-4fc7-a909-2b999ec54178",
+          "author": "Zezhang Zhao",
+          "description": "Accounts Payable teams around the globe spend hours processing invoices that come from different channelsfax, mail, email, handwritten, and electronic data interchange (EDI). The sheer volume of invoices is a difficult burden to overcomeand the numbe...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/automate-your-accounts-payable-process-with-invoice-capture",
+          "publishedOn": "2022-10-18T22:26:02.000Z",
+          "wordCount": 3793,
+          "title": "Automate your Accounts Payable process with invoice capture",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:7f087578-07df-44ed-bf43-f2afaeff1bab",
           "author": "Paul Liew",
           "description": "For our customers using the client for Finance and Operations apps, we’re retiring the out-of-support WS-Federation authentication protocol, and replacing it with the industry standard OpenIdConnect OAuth security protocol. OpenIdConnect OAuth security...(read more)",
@@ -6776,6 +6786,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "power-platform-developer-tools-monthly-release-september-refresh",
+          "author": null,
+          "description": "We are happy to announce our new update for the month of October i.e., “September Refresh”. Those of you who have been following us already know of this trend, because the work our team does in the prior month gets released in the following month. Hence in October, we release the September Refresh. With that … \nContinue reading “Power Platform Developer Tools monthly release (September Refresh)”",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-monthly-release-september-refresh/",
+          "publishedOn": "2022-10-19T11:51:26.000Z",
+          "wordCount": 1734,
+          "title": "Power Platform Developer Tools monthly release (September Refresh)",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "announcing-public-preview-of-maker-matching-in-power-apps",
+          "author": null,
+          "description": "We are excited to announce the public preview release of maker matching in Power Apps! Maker matching, available within the integrated virtual agent, connects new makers with other experienced makers, advisors, and internal community members who can help directly when you need it. The support bot also surfaces relevant internal resources and community channels to … \nContinue reading “Connect with other makers in your organization via maker matching, now in public preview!”",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-maker-matching-in-power-apps/",
+          "publishedOn": "2022-10-18T10:00:29.000Z",
+          "wordCount": 1588,
+          "title": "Connect with other makers in your organization via maker matching, now in public preview!",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "announcing-the-general-availability-of-managed-environments",
           "author": null,

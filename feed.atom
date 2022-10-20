@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-10-18T02:25:08.518Z</updated>
+    <updated>2022-10-20T02:20:46.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Developer Tools monthly release (September Refresh)]]></title>
+        <id>power-platform-developer-tools-monthly-release-september-refresh</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-monthly-release-september-refresh/"/>
+        <updated>2022-10-19T11:51:26.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to announce our new update for the month of October i.e., “September Refresh”. Those of you who have been following us already know of this trend, because the work our team does in the prior month gets released in the following month. Hence in October, we release the September Refresh. With that … 
+Continue reading “Power Platform Developer Tools monthly release (September Refresh)”]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate your Accounts Payable process with invoice capture]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5d1ef8fd-ac41-4fc7-a909-2b999ec54178</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/automate-your-accounts-payable-process-with-invoice-capture"/>
+        <updated>2022-10-18T22:26:02.000Z</updated>
+        <summary type="html"><![CDATA[Accounts Payable teams around the globe spend hours processing invoices that come from different channelsfax, mail, email, handwritten, and electronic data interchange (EDI). The sheer volume of invoices is a difficult burden to overcomeand the numbe...(read more)]]></summary>
+        <author>
+            <name>Zezhang Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect with other makers in your organization via maker matching, now in public preview!]]></title>
+        <id>announcing-public-preview-of-maker-matching-in-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-maker-matching-in-power-apps/"/>
+        <updated>2022-10-18T10:00:29.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the public preview release of maker matching in Power Apps! Maker matching, available within the integrated virtual agent, connects new makers with other experienced makers, advisors, and internal community members who can help directly when you need it. The support bot also surfaces relevant internal resources and community channels to … 
+Continue reading “Connect with other makers in your organization via maker matching, now in public preview!”]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 – 90% of everything is crap]]></title>
         <id>http://kurthatlevik.com/?p=4405</id>
