@@ -6,6 +6,16 @@
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
         {
+          "id": "https://nuxulu.com/2022-10-20-how-to-remove-ssrs-reports-in-d365/",
+          "author": "Max Nguyen",
+          "description": "There are 2 ways that you can delete SSRS reports in FinOps cloud-Hosted\n1. Using Report server configuiration manager web portal\nOpen Report server configuiration manager from your VM FinOps Cloud-Hosted and active the Web Portal\nImage\n\">\n        \n    2022-10-20-how-to-remove-ssrs-reports-in-d365-1\n    \nYou can delete any report from [Servername]/Reports/browse/Dynamics\nImage\n\">\n        \n    2022-10-20-how-to-remove-ssrs-reports-in-d365-3\n    \n1. Using Powershell script\nGo to RemoveAllReportsFromSsrs.ps1 under K:\\AosService\\PackagesLocalDirectory\\Plugins\\AxReportVmRoleStartupTask\nRun the script to remove all SSRS report.\nIf you want to remove a specific report, you can manipulate the $ReportName\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n\n\n\n################################################################################\n# This script is used to manually remove reports to SSRS server\n################################################################################\nparam\n(\n    [Parameter(Mandatory=$false)]\n    [string]$LogFilePath,\n    [Alias(\"ReportServerFqdn\", \"ReportServerName\")]\n    [Parameter(Mandatory=$false)]\n    [string[]]$ReportServerIp = \"127.0.0.1\",\n    [Parameter(Mandatory=$false)]\n\t[string[]]$ReportName = \"[report-name].[design-name]\",\n    [Parameter(Mandatory=$false)]\n\t[switch]$UseHttps = $false,\n    [Parameter(Mandatory=$false)]\n\t[int]$HttpsPort = 443,\n    [Parameter(Mandatory=$false)]\n    [switch]$Help = $false\n)\n\n\n\n\n\nCheck this article for deploy report using PS script.",
+          "link": "https://nuxulu.com/2022-10-20-how-to-remove-ssrs-reports-in-d365/",
+          "publishedOn": "2022-10-20T00:00:00.000Z",
+          "wordCount": 379,
+          "title": "How to remove SSRS reports in FinOps Cloud-Hosted",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2022-09-28-remove-person-from-users/",
           "author": "Max Nguyen",
           "description": "Whenever you add a new person to an user in the user SysUserInfoPage form, the person field grays out.\nImage\n\">\n        \n    userinfo\n    \nTo remove the person from that user:\nIn the user form System administration > Users > Users, go to Maintain versions.\nDelete the person.",
