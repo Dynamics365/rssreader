@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-10-25T02:27:26.276Z</updated>
+    <updated>2022-10-25T13:31:07.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -3093,6 +3093,16 @@ The post D365 Joins in X++ appeared first on Dynamics 365 Musings.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Tutorial] Look up data in the Warehouse management app using detours]]></title>
+        <id>http://kashperuk.blogspot.com/2022/02/tutorial-look-up-data-in-warehouse.html</id>
+        <link href="http://kashperuk.blogspot.com/2022/02/tutorial-look-up-data-in-warehouse.html"/>
+        <updated>2022-02-21T09:00:00.003Z</updated>
+        <summary type="html"><![CDATA[Idea and Feature introductionAll of you are familiar with the Ideas portal, and in the Supply Chain Management team we do everything we can to include the features requested there into our plans.One feature in particular has been sitting there in the Warehouse management top 5 for quite a whileDrop down to select purchase order (and order line) when receiving via Mobile deviceThe problem]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Default Order Settings: D365 Finance and Operations]]></title>
         <id>https://dynamics-tips.com/?p=2240</id>
         <link href="https://dynamics-tips.com/default-order-settings/"/>
@@ -3591,6 +3601,16 @@ new connectors... Read the full text.]]></summary>
         <summary type="html"><![CDATA[This is my first blog post in 2022, I would like to share with you related to validation and payment control for payment journals and would share with you peace of code to capture the event hand...(read more)]]></summary>
         <author>
             <name>Shankar Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Tutorial] Warehouse management app detours]]></title>
+        <id>http://kashperuk.blogspot.com/2022/01/tutorial-warehouse-management-app.html</id>
+        <link href="http://kashperuk.blogspot.com/2022/01/tutorial-warehouse-management-app.html"/>
+        <updated>2022-01-17T14:20:00.002Z</updated>
+        <summary type="html"><![CDATA[Feature overviewWarehouse management app detours is a feature we have shipped recently, available as part of 10.0.23, which enables a warehouse worker to park a task they are currently executing, perform another mobile device operation, and then come back to exactly where they left off, once the detour is complete. This is feedback we have heard way too often from workers in the warehouse, saying]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
     <entry>
@@ -4759,6 +4779,16 @@ The post D365 FO : Developing Business Events with X++ from scratch appeared fir
 The post What is AdminUserProvisioning Tool in Microsoft D365 fin & ops ?  Add Admin user after backup restore appeared first on All About Microsoft Dynamics.]]></summary>
         <author>
             <name>Piyush Adhikari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[We're hiring!] Multiple open positions for passionate and talented software engineers in Microsoft Cloud for Sustainability team in Atlanta, GA]]></title>
+        <id>http://kashperuk.blogspot.com/2021/11/were-hiring-multiple-open-positions-for.html</id>
+        <link href="http://kashperuk.blogspot.com/2021/11/were-hiring-multiple-open-positions-for.html"/>
+        <updated>2021-11-25T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyoneAs you might have read on Yammer or other social media, I have decided to take a step away from Finance and Operations and Warehouse management, and a few months back accepted to lead the Sustainability engineering team in Atlanta, Georgia. The team is working on  2 new exciting and relevant products, Microsoft Cloud for Sustainability, as well as the Microsoft Emissions Impact]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
     <entry>
@@ -6333,6 +6363,16 @@ When we look at the VM with Disk Management we see a striped disk that has parti
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Announcement] Warehouse App task validation framework (RSAT for WMA) now available on Tier 2 environments]]></title>
+        <id>http://kashperuk.blogspot.com/2021/05/announcement-warehouse-app-task.html</id>
+        <link href="http://kashperuk.blogspot.com/2021/05/announcement-warehouse-app-task.html"/>
+        <updated>2021-05-28T20:59:00.001Z</updated>
+        <summary type="html"><![CDATA[RefresherIn a recent post, I talked about testing, using the ATL framework to write easy-to-read test automation. This is a developer activity recommended for ISVs and partners, to ensure their customizations against regressions. At a customer site, if a developer team is unavailable, or for testing E2E scenarios in the system, Microsoft recommends using the RSAT tool. You can see a quick summary]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Enhance workplace automation with prebuilt RPA templates for Dynamics 365 (preview)]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a44c185c-3e70-4202-b493-7ea3f61a5efb</id>
         <link href="https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/enhance-workplace-automation-with-prebuilt-rpa-templates-for-dynamics-365-preview"/>
@@ -6415,6 +6455,26 @@ or you can duplicate any standard entity. I created AutomationDataEntity. Right-
 24…]]></summary>
         <author>
             <name>Max Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Tutorial] Find your Device ID and Warehouse management app version]]></title>
+        <id>http://kashperuk.blogspot.com/2021/05/tutorial-find-your-device-id-and.html</id>
+        <link href="http://kashperuk.blogspot.com/2021/05/tutorial-find-your-device-id-and.html"/>
+        <updated>2021-05-24T10:53:00.000Z</updated>
+        <summary type="html"><![CDATA[IntroductionThe two basic things support needs any time you log a support case is your application version, as well as your session id or similar, plus the timestamp of when the issue occurred. This helps troubleshoot the specific issue reported.Well, with the Warehouse management app, it's pretty much the same. We'd like to know the app version you're running, as well as the Device ID of the]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Development tutorial] Thoughts on test automation + more sample tests using ATL]]></title>
+        <id>http://kashperuk.blogspot.com/2021/05/development-tutorial-thoughts-on-test.html</id>
+        <link href="http://kashperuk.blogspot.com/2021/05/development-tutorial-thoughts-on-test.html"/>
+        <updated>2021-05-23T21:04:00.003Z</updated>
+        <summary type="html"><![CDATA[I recently had an interesting discussion around testing and specifically Microsoft testing efforts and frameworks, namely, ATL. If you are not familiar with this framework - you've been living under a rock. Get out from under there and go read some articles about it, like the one belowhttps://kashperuk.blogspot.com/2019/05/development-tutorial-sample-test-tips.htmlThe discussion revolved around]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
     <entry>
@@ -6624,6 +6684,16 @@ concept - let’s go !]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Development tutorial] Extending the work list and work pick line overview flow fields]]></title>
+        <id>http://kashperuk.blogspot.com/2021/04/development-tutorial-extending-work.html</id>
+        <link href="http://kashperuk.blogspot.com/2021/04/development-tutorial-extending-work.html"/>
+        <updated>2021-04-13T00:14:00.002Z</updated>
+        <summary type="html"><![CDATA[IntroductionWhenever we talk about the work list, and recently also the work pick line overview feature, customers think this could be a great optimization for their warehouse, but frequently, they want to display some business-specific information on the cards, that would help drive the decisions, but that information is not available out of the box on the work list.In this post I'd like to]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Downloadable courses retiring in October, 2021]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c178ebf8-faba-48a1-b3cb-3d4b3fdef8ef</id>
         <link href="https://community.dynamics.com/365/b/learningcurriculum/posts/downloadable-courses-retiring-in-october-2021"/>
@@ -6672,6 +6742,16 @@ We've seen a significant reduction in the number of downloads of the e-learning
         <summary type="html"><![CDATA[In my previous post I covered the use of the d365fo.tools to setup a NuGet source and to upload NuGet packages to an Azure DevOps artifact feed. In this post I want to show one way, how we can use the d365fo.tools to update the NuGet packages with the newest version available in the LCS […]]]></summary>
         <author>
             <name>Marijan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Tutorial] Work pick line overview]]></title>
+        <id>http://kashperuk.blogspot.com/2021/03/tutorial-work-pick-line-overview.html</id>
+        <link href="http://kashperuk.blogspot.com/2021/03/tutorial-work-pick-line-overview.html"/>
+        <updated>2021-03-14T14:12:00.003Z</updated>
+        <summary type="html"><![CDATA[IntroductionWork pick line overview is a feature that is currently in Public preview, and will become generally available in one of the upcoming Dynamics 365 SCM releases.It provides the flexibility to experienced warehouse workers to change the work picking route on the spot, based on the current situation the system is unaware of. For example:some of the goods on the order might need to be]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
     <entry>
@@ -6758,6 +6838,19 @@ In...
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Ann] Warehouse management app for Dynamics 365 SCM is in Public Preview]]></title>
+        <id>http://kashperuk.blogspot.com/2021/02/ann-warehouse-management-app-for.html</id>
+        <link href="http://kashperuk.blogspot.com/2021/02/ann-warehouse-management-app-for.html"/>
+        <updated>2021-02-09T00:10:00.003Z</updated>
+        <summary type="html"><![CDATA[The day has come when we are ready for Public preview of the reworked Warehouse management app. SummaryThe Warehouse Management app is a complete remake, using the “frontline
+worker” visual style, as seen in Production floor execution and HoloLens
+Guide. The new design concepts are based on extensive usability studies
+including a broad worker population. The solution is designed to help workers]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Create tracking dimension in D365FO.]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0ceef68d-aa47-462e-a2ab-3fed684aa7b3</id>
         <link href="https://community.dynamics.com/ax/b/axstart/posts/create-tracking-dimension-in-d365fo-1114947400"/>
@@ -6813,6 +6906,16 @@ It is a good article with also an example code, but it will not work incase you 
         <summary type="html"><![CDATA[Introduction In this blog series i will highlight some technical aspects about creating and managing security layer by code in Dynamics 365 For Finance and Operations, a step by step scenario to explain some components used in standard mechanisms to generate new security artifacts through x++, deep dive into Dynamics security management API and discover … Lire la suite Dynamics Security Management API in D365FinOps : part1- Security Generalities →]]></summary>
         <author>
             <name>adalhix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outbound workload visualization]]></title>
+        <id>http://axscm.wordpress.com/?p=1682</id>
+        <link href="https://axscm.wordpress.com/2021/01/26/outbound-workload-visualization/"/>
+        <updated>2021-01-26T21:06:35.000Z</updated>
+        <summary type="html"><![CDATA[In the past few years Microsoft have invested considerably in WMS functionality in Dynamics 365 SCM. Especially the support for outbound warehouse processes like pick, pack and ship has been expanded. But up until now, D365 SCM has lacked a good tool to provide overview on the progress of picking in the warehouse. So I&ellipsis;Read the full post »]]></summary>
+        <author>
+            <name>birgerlarsen</name>
         </author>
     </entry>
     <entry>
@@ -7088,6 +7191,16 @@ I wanted to share a summary from the analysis I did...
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Tutorial] Piece by piece receiving process with Advanced Warehouse Management in Dynamics 365 SCM]]></title>
+        <id>http://kashperuk.blogspot.com/2020/11/tutorial-piece-by-piece-receiving.html</id>
+        <link href="http://kashperuk.blogspot.com/2020/11/tutorial-piece-by-piece-receiving.html"/>
+        <updated>2020-11-03T22:33:00.004Z</updated>
+        <summary type="html"><![CDATA[IntroductionIn a recent post (Piece by piece picking process with Advanced Warehouse Management in Dynamics 365 SCM) I described the configuration necessary to allow performing picking in the warehouse by scanning each SKU one by one aka "piece by piece". I suggest you familiarize yourself with this post as I will be re-using the master data setup here. In this post, we will be receiving a]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PowerApp performs Sales Order on Hand availability in Dynamics 365F/SCM/C]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f534ef38-cf84-4435-82c4-3a1f38c7c43a</id>
         <link href="https://community.dynamics.com/ax/b/moredatamoresuccess/posts/powerapp-performs-sales-order-on-hand-availability-in-dynamics-365f-scm-c"/>
@@ -7117,6 +7230,16 @@ Let’s jump in !]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Tool] Display contents of an X++ container from SQL database field]]></title>
+        <id>http://kashperuk.blogspot.com/2020/10/tool-display-contents-of-x-container.html</id>
+        <link href="http://kashperuk.blogspot.com/2020/10/tool-display-contents-of-x-container.html"/>
+        <updated>2020-10-28T14:22:00.001Z</updated>
+        <summary type="html"><![CDATA[Almost 15 years ago AndyD from AxForum blew me away with a post that was giving a glimpse into how the X++ containers are stored in the database. Ever since then I had a TODO for myself to write a blog post explaining this in detail and covering the various types that can be stored, basically allowing to review the contents of the container from DB without writing X++ code.Luckily, today is the]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Solve RDL Sandboxing Problems that Arise When Opening SSRS Reports for D365 F&SCM 10.0.13 Platform Update]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5eb63fd8-8c62-411a-a763-50bce4b49e40</id>
         <link href="https://community.dynamics.com/ax/b/1clickfactory365andax/posts/how-to-solve-rdl-sandboxing-problems-that-arise-when-opening-ssrs-reports-for-d365-f-scm-10-0-13-platform-update"/>
@@ -7124,6 +7247,16 @@ Let’s jump in !]]></summary>
         <summary type="html"><![CDATA[When upgrading your UAT environment to Dynamics 365 Finance and Supply Chain Management version 10.0.13 platform update 36, you may encounter several problems with SSRS reports. 1ClickFactory’s Dynamics...(read more)]]></summary>
         <author>
             <name>1ClickFactory Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Tutorial] Piece by piece picking process with Advanced Warehouse Management in Dynamics 365 SCM]]></title>
+        <id>http://kashperuk.blogspot.com/2020/10/tutorial-piece-by-piece-picking-process.html</id>
+        <link href="http://kashperuk.blogspot.com/2020/10/tutorial-piece-by-piece-picking-process.html"/>
+        <updated>2020-10-17T23:11:00.005Z</updated>
+        <summary type="html"><![CDATA[IntroductionWe are often asked - is it possible to configure the system to require the workers on the floor to scan each item they are picking, to ensure a more accurate picking operation where multiple same/similar items need to be picked. This is, for example, very common in the Retail industry, or in smaller distribution centers dealing with apparel or footwear. In this blog post I will]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
     <entry>
@@ -7358,6 +7491,20 @@ extensibility / feedbacks - functional side also for Dynamics 365 Finance
 Insights, believe it’s worth it ….]]></summary>
         <author>
             <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flights vs Feature management - practical overview]]></title>
+        <id>http://kashperuk.blogspot.com/2020/07/flights-vs-feature-management-practical.html</id>
+        <link href="http://kashperuk.blogspot.com/2020/07/flights-vs-feature-management-practical.html"/>
+        <updated>2020-07-15T00:17:00.002Z</updated>
+        <summary type="html"><![CDATA[Terminology
+
+The primary purpose of flights and features both is to implement a controlled roll-out of new functionality into the product, so as not to disrupt existing business operations. One of Microsoft's primary goals with OneVersion is to ensure we do not break anyone.
+
+By their nature, both the flights and the features are transient in nature, i.e., they will be removed from the product]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
     <entry>
@@ -7941,6 +8088,16 @@ Thank you for reading.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vendor Managed Inventory with Powerapps and electronic reporting]]></title>
+        <id>http://axscm.wordpress.com/?p=1495</id>
+        <link href="https://axscm.wordpress.com/2020/05/05/vendor-managed-inventory-with-powerapps-and-electronic-reporting/"/>
+        <updated>2020-05-05T20:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 for Finance and Operations (D365FO) has basic support for Vendor Managed Inventory (VMI) in the form of Consignment replenishment orders. From a warehouse perspective, there are however some serious limitations to consignment replenishment orders. In this post I discuss how you can overcome some of these limitations using Powerapps and Electronic Reporting. VMI&ellipsis;Read the full post »]]></summary>
+        <author>
+            <name>birgerlarsen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Expense Management with AI Builder for Dynamics 365 F&O]]></title>
         <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5eb143dc48591c0bd6b2905a</id>
         <link href="https://www.powerazure365.com/blog-1/ai-builder-powerplatform-for-expense-management-in-dynamics-365-finance-and-operations"/>
@@ -8496,6 +8653,16 @@ and Power Platform.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Eliminating gaps with Configurable business documents]]></title>
+        <id>http://axscm.wordpress.com/?p=1388</id>
+        <link href="https://axscm.wordpress.com/2020/02/12/eliminating-gaps-with-configurable-business-documents/"/>
+        <updated>2020-02-12T20:35:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I look into how configurable business documents can be used to fulfill many document requirements, that has previously been considered gaps in D365FO. These gaps can now be eliminated by configuring… the configurable business documents. The obvious use of configurable business documents is to adjust the layout of all the predefined business&ellipsis;Read the full post »]]></summary>
+        <author>
+            <name>birgerlarsen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Not Exist Joins in F&O 10.0.9 Advanced query?!]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d5b13930-6f30-483c-b0f6-d3399cc572fb</id>
         <link href="https://community.dynamics.com/ax/b/guyterrysaxblog/posts/not-exist-joins-in-f-o-10-0-9-advanced-query"/>
@@ -8783,6 +8950,16 @@ experiences.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Configurable warehouse business documents – part 2]]></title>
+        <id>http://axscm.wordpress.com/?p=1278</id>
+        <link href="https://axscm.wordpress.com/2020/01/06/configurable-warehouse-business-documents-part-2/"/>
+        <updated>2020-01-06T20:28:15.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post Configurable warehouse business documents, I examined if the warehouse pick list layout in D365FO could be configured by superusers and consultants without the need for developer assistance. Using the new configurable business documents (CBD hereafter) framework I was able to remove irrelevant information like load/order barcodes and the print work step.&ellipsis;Read the full post »]]></summary>
+        <author>
+            <name>birgerlarsen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dynamics 365 FinOps Demand Forecasting with Azure Machine Learning]]></title>
         <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5e0df132192cf25f69544803</id>
         <link href="https://www.powerazure365.com/blog-1/dynamics-365-finops-demand-forecasting-with-azure-machine-learning"/>
@@ -8836,6 +9013,16 @@ There are some very usefull options, like usage of manage multiple user accounts
 (read more)]]></summary>
         <author>
             <name>andreasraithel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configurable warehouse business documents]]></title>
+        <id>http://axscm.wordpress.com/?p=1235</id>
+        <link href="https://axscm.wordpress.com/2019/12/19/configurable-warehouse-business-documents/"/>
+        <updated>2019-12-19T22:26:39.000Z</updated>
+        <summary type="html"><![CDATA[With the introduction of configurable business documents for D365FO, it’s now possible to configure the layout and content of many of the business documents in D365FO. This also includes warehouse documents like pick list, container contents, load list, commercial invoice etc. The configuration is done in excel and word and in some cases in the&ellipsis;Read the full post »]]></summary>
+        <author>
+            <name>birgerlarsen</name>
         </author>
     </entry>
     <entry>
@@ -8992,6 +9179,16 @@ As we see many users are often overwhelmed to build fitting queries and columns.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Reduce warehouse costs using shipment consolidation]]></title>
+        <id>http://axscm.wordpress.com/?p=1147</id>
+        <link href="https://axscm.wordpress.com/2019/10/17/reduce-warehouse-costs-using-shipment-consolidation/"/>
+        <updated>2019-10-17T20:40:18.000Z</updated>
+        <summary type="html"><![CDATA[The Dynamics 365 2019 release wave 2 contains so much new WMS functionality, that you really have to invest considerable time to digest and understand all the new features becoming available in the coming months. In this post I will be looking into shipment consolidation – an area that has been significantly improved with the&ellipsis;Read the full post »]]></summary>
+        <author>
+            <name>birgerlarsen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Insert multiple records in single request using Odata from Postman]]></title>
         <id>https://nuxulu.com/2019-10-15-insert-multiple-records-in-single-request-using-odata-from-postman/</id>
         <link href="https://nuxulu.com/2019-10-15-insert-multiple-records-in-single-request-using-odata-from-postman/"/>
@@ -9070,6 +9267,32 @@ For information on how to run these dow...(read more)]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Announcement] New version of Dynamics 365 Finance and Operations - Warehousing released]]></title>
+        <id>http://kashperuk.blogspot.com/2019/09/announcement-new-version-of-dynamics.html</id>
+        <link href="http://kashperuk.blogspot.com/2019/09/announcement-new-version-of-dynamics.html"/>
+        <updated>2019-09-19T16:54:00.001Z</updated>
+        <summary type="html"><![CDATA[Our Warehouse Mobile App has been updated to version 1.6.0.0.
+
+Please find below the high-level list of changes coming with the new release:
+
+
+
+<!--[if !supportLists]-->·       
+<!--[endif]-->Multiple
+connection settings now possible
+
+<!--[if !supportLists]-->·       
+<!--[endif]-->Work
+list filter now disappears when scrolling down
+
+<!--[if !supportLists]-->·       
+<!--[endif]-->Work
+list]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MSDyn365FO: Containerization]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:fb0cba7d-8946-462e-9de6-d736033552fa</id>
         <link href="https://community.dynamics.com/ax/b/galynafedorovaaxblog/posts/msdyn365fo-containerization"/>
@@ -9079,6 +9302,16 @@ Containerization also called as packing is the process of using standardized con
 (read more)]]></summary>
         <author>
             <name>Galyna Fedorova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zone replenishment]]></title>
+        <id>http://axscm.wordpress.com/?p=1085</id>
+        <link href="https://axscm.wordpress.com/2019/08/07/zone-replenishment/"/>
+        <updated>2019-08-07T22:04:43.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 for finance and operations (hereafter D365FO) already supports a number of replenishment variations in the warehouse, including wave, load and min/max replenishment. With version 10.0.2 a new replenishment variation, called Zone replenishment is available for preview and generally available October 2019. Why zone replenishment? Zone replenishment solves a rather common gap related to&ellipsis;Read the full post »]]></summary>
+        <author>
+            <name>birgerlarsen</name>
         </author>
     </entry>
     <entry>
@@ -9214,6 +9447,43 @@ I have a powershell script that copies all the dll’s into that folder]]></summ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Development tutorial] Sample test + tips for using ATL (Acceptance Test Library) to implement tests in Warehouse management]]></title>
+        <id>http://kashperuk.blogspot.com/2019/05/development-tutorial-sample-test-tips.html</id>
+        <link href="http://kashperuk.blogspot.com/2019/05/development-tutorial-sample-test-tips.html"/>
+        <updated>2019-05-20T23:49:00.002Z</updated>
+        <summary type="html"><![CDATA[Hopefully, by now everyone is familiar with the fact that we shipped our internal test framework for all ISVs, partners and customers to use.
+We have published pretty detailed documentation about the framework on docs.microsoft.com:
+
+https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/perf-test/acceptance-test-library
+
+I, however, learn much better when looking at samples.]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confirm and Transfer]]></title>
+        <id>http://axscm.wordpress.com/?p=1092</id>
+        <link href="https://axscm.wordpress.com/2019/05/09/confirm-and-transfer/"/>
+        <updated>2019-05-09T20:05:28.000Z</updated>
+        <summary type="html"><![CDATA[As part of the 10.0.1 release of Dynamics 365 for operations (hereafter D365FO) Microsoft released a small – but very useful feature called Confirm and Transfer. The Confirm and transfer feature is solving a very annoying issue in the current warehouse loading process. This feature is part of a “wave” of new warehouse features originating&ellipsis;Read the full post »]]></summary>
+        <author>
+            <name>birgerlarsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcement: MDCC is looking for Dynamics 365 Finance and Operations engineers]]></title>
+        <id>http://kashperuk.blogspot.com/2019/05/announcement-mdcc-is-looking-for.html</id>
+        <link href="http://kashperuk.blogspot.com/2019/05/announcement-mdcc-is-looking-for.html"/>
+        <updated>2019-05-06T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm really happy to share that we've updated the description of open positions (Example: https://careers.microsoft.com/us/en/job/616931/Software-Engineer) to really reflect the focus of the team here in Lyngby, Denmark.
+
+And we couldn't be more serious about finding the right talent to help us build an even better product within Supply Chain Management on the Microsoft Dynamics 365 Finance and]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[D365 FO EDMX / OData trimmer – Make your metadata smaller]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:7702a3f3-4e47-4b70-a523-f7aa1f50af99</id>
         <link href="https://community.dynamics.com/ax/b/shashisaxblog/posts/d365-fo-edmx-odata-trimmer-make-your-metadata-smaller"/>
@@ -9249,6 +9519,21 @@ Advertisements]]></summary>
 (read more)]]></summary>
         <author>
             <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Heads up] Explicit dependency required for enabling Process Guide based flows in Warehouse Mobile App]]></title>
+        <id>http://kashperuk.blogspot.com/2019/03/heads-up-explicit-dependency-required.html</id>
+        <link href="http://kashperuk.blogspot.com/2019/03/heads-up-explicit-dependency-required.html"/>
+        <updated>2019-03-28T21:44:00.004Z</updated>
+        <summary type="html"><![CDATA[Introduction
+With release of version 8.1.3 (build numbers going as 8.1.227.xxxx), we introduced an additional configuration option on the Mobile device menu items, which controls whether or not the system will attempt using the Process Guide framework for executing a mobile flow
+This is a temporary configuration option, and is supposed to serve two purposes:
+
+
+Allow having a partially]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
     <entry>
@@ -9316,6 +9601,29 @@ This course provides information, concepts, and demonstrations about X++ in Dyna
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Container quality inspection with PowerApps and Dynamics 365FO]]></title>
+        <id>http://axscm.wordpress.com/?p=1048</id>
+        <link href="https://axscm.wordpress.com/2018/12/14/container-quality-inspection-with-powerapps-and-dynamics-365fo-part-1/"/>
+        <updated>2018-12-14T00:23:21.000Z</updated>
+        <summary type="html"><![CDATA[I’m currently working with a company that ship goods around the world in containers. Occasionally the container and/or the goods are damaged during transport. To be able to document that possible damage happened during transport, the company has implemented a quality process, where every outbound container is photographed before and after packing. The current process&ellipsis;Read the full post »]]></summary>
+        <author>
+            <name>birgerlarsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Tutorial] Automating Release to Warehouse process through Wave Template configuration]]></title>
+        <id>http://kashperuk.blogspot.com/2018/12/tutorial-automating-release-to.html</id>
+        <link href="http://kashperuk.blogspot.com/2018/12/tutorial-automating-release-to.html"/>
+        <updated>2018-12-03T00:58:00.001Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Currently many companies resort to manually choosing which shipments need to be added to a wave we are about to process, which is slow and error prone, as the user needs to check up on each of the shipments, understand where it is headed, what types of items are on it, which mode of delivery is used, etc.
+
+Today I would like to show a demo example of how to configure wave templates,]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Looking to the future that’s already here]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:497e3ca8-f115-47db-8dd5-3b4432c9cc62</id>
         <link href="https://community.dynamics.com/ax/b/moredatamoresuccess/posts/looking-to-the-future-that-s-already-here"/>
@@ -9323,6 +9631,18 @@ This course provides information, concepts, and demonstrations about X++ in Dyna
         <summary type="html"><![CDATA[In addition to the more technical contributions in this blog, I would like to refer today to three very interesting reports from the ERP environment. I think they give an impressive look forward and w...(read more)]]></summary>
         <author>
             <name>andreasraithel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Development Tutorial] Tired of WHSWorkExecuteDisplay*? ProcessGuide to the rescue!]]></title>
+        <id>http://kashperuk.blogspot.com/2018/11/development-tutorial-tired-of.html</id>
+        <link href="http://kashperuk.blogspot.com/2018/11/development-tutorial-tired-of.html"/>
+        <updated>2018-11-16T08:12:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have ever tried extending the warehouse mobile flows in Dynamics 365 Finance and Operations, you know the code is very complex and extremely difficult to make sense of and modify without introducing regressions in unpredictable scenarios.
+
+This was of course on our mind as well for some time, which is now I am pleased to announce the release of a new framework for implementing such flows,]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
     <entry>
@@ -9336,6 +9656,16 @@ This course provides information, concepts, and demonstrations about X++ in Dyna
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Using PowerApps to support warehouse processes]]></title>
+        <id>http://axscm.wordpress.com/?p=993</id>
+        <link href="https://axscm.wordpress.com/2018/10/30/using-powerapps-to-support-warehouse-processes/"/>
+        <updated>2018-10-30T18:53:44.000Z</updated>
+        <summary type="html"><![CDATA[Written by Steffen Daugaard Pedersen and Birger Larsen The warehouse app for Dynamics 365 for Operations and Finance (hereafter D365FOE) offers out-of-the-box support for both basic and more advanced warehouse processes. There are however some areas, where the process support can be improved. In this post we investigate if PowerApps can be used to compliment&ellipsis;Read the full post »]]></summary>
+        <author>
+            <name>birgerlarsen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Synchronize Models between workspaces in MSDyn365FO]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c50cff88-73f7-4c9b-81dc-b02e237cf86a</id>
         <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/synchronize-models-between-workspaces-in-msdyn365fo"/>
@@ -9344,6 +9674,33 @@ This course provides information, concepts, and demonstrations about X++ in Dyna
 (read more)]]></summary>
         <author>
             <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Tutorial] Reading On-Hand information for Warehouse enabled items]]></title>
+        <id>http://kashperuk.blogspot.com/2018/10/tutorial-reading-on-hand-information.html</id>
+        <link href="http://kashperuk.blogspot.com/2018/10/tutorial-reading-on-hand-information.html"/>
+        <updated>2018-10-17T17:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Having difficulty understanding your own business data is probably not something you would expect to happen to you, but I know many people, including many 10+ AX experts who have a difficult time following the information about item availability when it comes to warehouse related items.
+
+In this blog post, I will try to walk you through a specific example, line by line, column by column.
+
+Note I]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telemetry as part of the Dynamics 365 Finance and Operations life-cycle]]></title>
+        <id>http://kashperuk.blogspot.com/2018/10/telemetry-as-part-of-dynamics-365.html</id>
+        <link href="http://kashperuk.blogspot.com/2018/10/telemetry-as-part-of-dynamics-365.html"/>
+        <updated>2018-10-15T15:19:00.000Z</updated>
+        <summary type="html"><![CDATA[How much telemetry are we collecting?
+A lot, like, really a lot!
+
+That includes kernel level information, like an online user session requesting web access to a particular AOS to perform business operations through the web UI, a web service request to handle a mobile device operation, an OData request for exporting or importing data, exceptions and other infolog messages displayed to the user,]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
     <entry>
@@ -9474,6 +9831,32 @@ conn...(read more)]]></summary>
         <summary type="html"><![CDATA[I thought I’d share my top Tips and Tricks for Dynamics 365 for Finance and Operations. When working with the application you always learn some new shortcuts and cool features…]]></summary>
         <author>
             <name>Espen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Learning] Transportation management in Dynamics 365 Finance & Operations]]></title>
+        <id>http://kashperuk.blogspot.com/2018/06/learning-transportation-management-in.html</id>
+        <link href="http://kashperuk.blogspot.com/2018/06/learning-transportation-management-in.html"/>
+        <updated>2018-06-06T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[I don't talk much about TMS in this blog, so I decided to correct that a bit, and post a set of educational links for those interested in starting up with Transportation management in AX.
+
+If you are already familiar with all the concepts, you probably won't gain that much from these, but for those just starting up, I think it can provide a great overview of what the system can do.
+
+You can start]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extensibility: You can now log extensibility requests for Microsoft through LCS]]></title>
+        <id>http://kashperuk.blogspot.com/2018/06/extensibility-you-can-now-log.html</id>
+        <link href="http://kashperuk.blogspot.com/2018/06/extensibility-you-can-now-log.html"/>
+        <updated>2018-06-02T22:59:00.000Z</updated>
+        <summary type="html"><![CDATA[If you weren't living under a rock for the last 2 years, you have already heard about us locking down overlayering starting with the latest release of  Dynamics 365 for Finance and Operations 8.0, and relying solely on the extension model of developing customizations going forward.
+
+But, of course, as this is a moving target, not everything can be done through extensions in the current release.]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
     <entry>
@@ -9683,6 +10066,30 @@ Source: https://msdn.microsoft.com/en-us/library/ee308453.aspx]]></summary>
         <summary type="html"><![CDATA[Often Consultants for Dynamics 365 for Finance and Operations have to design new Solutions. On this way too much it is neccessry to research in which tables specific data are stored and how are the ta...(read more)]]></summary>
         <author>
             <name>andreasraithel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Development tutorial: Extensibility: Replaceable in Chain of Command methods]]></title>
+        <id>http://kashperuk.blogspot.com/2017/10/development-tutorial-extensibility_7.html</id>
+        <link href="http://kashperuk.blogspot.com/2017/10/development-tutorial-extensibility_7.html"/>
+        <updated>2017-10-07T12:47:00.001Z</updated>
+        <summary type="html"><![CDATA[Recently we announced a new and pretty powerful Extensibility feature, wrapping methods with Chain of Command in augmentation classes. This allows to write much cleaner extensions with fewer lines of code, as well as provides some extra capabilities like access to protected fields and methods of augmented object, easier way of ensuring a single transaction scope for standard and extension code,]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Development Tutorial: Extensibility: Adding a table display/edit method and showing it on a form in PU11]]></title>
+        <id>http://kashperuk.blogspot.com/2017/10/development-tutorial-extensibility.html</id>
+        <link href="http://kashperuk.blogspot.com/2017/10/development-tutorial-extensibility.html"/>
+        <updated>2017-10-07T08:26:00.001Z</updated>
+        <summary type="html"><![CDATA[In my previous post I described the capabilities of the Dynamics 365 FOE platform update 10, when it comes to working with display/edit methods.
+
+In Platform Update 11 a few improvements came out, which I will describe below (with an example).
+
+Let's use the same example as in my previous post, and add a new display method showing the internal product name for a selected product - we'll compose]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
     <entry>
