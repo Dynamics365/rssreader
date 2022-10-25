@@ -6797,6 +6797,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "engage-your-maker-community-with-the-new-power-platform-communication-site-template",
+          "author": null,
+          "description": "Today, we are announcing the Power Platform communication site template. The Power Platform communication site template is a SharePoint communication site that provides you with a starting point of content and page templates as you’re setting up your internal Power Platform wiki and hub site. This communication site is designed to be the place where the Power Platform maker and user community within your organization can find the news and resources they need, including digital governance and compliance guardrails, upcoming events, success stories and more.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/engage-your-maker-community-with-the-new-power-platform-communication-site-template/",
+          "publishedOn": "2022-10-24T08:00:00.000Z",
+          "wordCount": 1747,
+          "title": "Engage your maker community with the new Power Platform communication site template",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/10/ppcst.png"
+        },
+        {
           "id": "power-platform-developer-tools-monthly-release-september-refresh",
           "author": null,
           "description": "We are happy to announce our new update for the month of October i.e., “September Refresh”. Those of you who have been following us already know of this trend, because the work our team does in the prior month gets released in the following month. Hence in October, we release the September Refresh. With that … \nContinue reading “Power Platform Developer Tools monthly release (September Refresh)”",

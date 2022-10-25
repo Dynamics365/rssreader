@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-10-24T02:32:55.953Z</updated>
+    <updated>2022-10-25T02:27:26.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Engage your maker community with the new Power Platform communication site template]]></title>
+        <id>engage-your-maker-community-with-the-new-power-platform-communication-site-template</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/engage-your-maker-community-with-the-new-power-platform-communication-site-template/"/>
+        <updated>2022-10-24T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are announcing the Power Platform communication site template. The Power Platform communication site template is a SharePoint communication site that provides you with a starting point of content and page templates as you’re setting up your internal Power Platform wiki and hub site. This communication site is designed to be the place where the Power Platform maker and user community within your organization can find the news and resources they need, including digital governance and compliance guardrails, upcoming events, success stories and more.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to remove SSRS reports in FinOps Cloud-Hosted]]></title>
         <id>https://nuxulu.com/2022-10-20-how-to-remove-ssrs-reports-in-d365/</id>
