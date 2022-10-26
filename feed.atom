@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-10-25T13:31:07.861Z</updated>
+    <updated>2022-10-26T02:02:42.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Making it easier to work with the right environment]]></title>
+        <id>making-it-easier-to-work-with-the-right-environment</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/making-it-easier-to-work-with-the-right-environment/"/>
+        <updated>2022-10-25T09:16:10.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the general availability of the enhanced environment picking experience. The enhanced environment picking experience makes it easier to find the right environment to work with. For example, makers can now directly tell environments with Dataverse apart from those without Dataverse, as well as environments where they have sufficient maker and … 
+Continue reading “Making it easier to work with the right environment”]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Engage your maker community with the new Power Platform communication site template]]></title>
         <id>engage-your-maker-community-with-the-new-power-platform-communication-site-template</id>

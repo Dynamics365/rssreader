@@ -7166,6 +7166,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "making-it-easier-to-work-with-the-right-environment",
+          "author": null,
+          "description": "We are pleased to announce the general availability of the enhanced environment picking experience. The enhanced environment picking experience makes it easier to find the right environment to work with. For example, makers can now directly tell environments with Dataverse apart from those without Dataverse, as well as environments where they have sufficient maker and … \nContinue reading “Making it easier to work with the right environment”",
+          "link": "https://powerapps.microsoft.com/en-us/blog/making-it-easier-to-work-with-the-right-environment/",
+          "publishedOn": "2022-10-25T09:16:10.000Z",
+          "wordCount": 1685,
+          "title": "Making it easier to work with the right environment",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "engage-your-maker-community-with-the-new-power-platform-communication-site-template",
           "author": null,
           "description": "Today, we are announcing the Power Platform communication site template. The Power Platform communication site template is a SharePoint communication site that provides you with a starting point of content and page templates as you’re setting up your internal Power Platform wiki and hub site. This communication site is designed to be the place where the Power Platform maker and user community within your organization can find the news and resources they need, including digital governance and compliance guardrails, upcoming events, success stories and more.",
