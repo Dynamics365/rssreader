@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-10-26T02:02:42.767Z</updated>
+    <updated>2022-10-27T01:59:13.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing general availability of Power Apps Ideas]]></title>
+        <id>announcing-general-availability-of-power-apps-ideas</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-power-apps-ideas/"/>
+        <updated>2022-10-26T09:49:35.000Z</updated>
+        <summary type="html"><![CDATA[We’re pleased to announce that Power Apps Ideas are now generally available. Now you can easily write a Power Fx formula using natural language or examples.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making it easier to work with the right environment]]></title>
         <id>making-it-easier-to-work-with-the-right-environment</id>

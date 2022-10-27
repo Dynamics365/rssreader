@@ -7166,6 +7166,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "announcing-general-availability-of-power-apps-ideas",
+          "author": null,
+          "description": "We’re pleased to announce that Power Apps Ideas are now generally available. Now you can easily write a Power Fx formula using natural language or examples.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-power-apps-ideas/",
+          "publishedOn": "2022-10-26T09:49:35.000Z",
+          "wordCount": 1636,
+          "title": "Announcing general availability of Power Apps Ideas",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/10/nl2fx_ga_blog.gif"
+        },
+        {
           "id": "making-it-easier-to-work-with-the-right-environment",
           "author": null,
           "description": "We are pleased to announce the general availability of the enhanced environment picking experience. The enhanced environment picking experience makes it easier to find the right environment to work with. For example, makers can now directly tell environments with Dataverse apart from those without Dataverse, as well as environments where they have sufficient maker and … \nContinue reading “Making it easier to work with the right environment”",
