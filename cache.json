@@ -6,6 +6,16 @@
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
         {
+          "id": "https://nuxulu.com/2022-10-27-how-to-get-d365-azure-blob-storage-str/",
+          "author": "Max Nguyen",
+          "description": "In Dynamics 365 for Finance and Operations Azure storage is used to\nStore files for Attachments\nData import and export jobs\nWhen FinOps prints a report via Document Reporting Services, SSRS Reporting Services generates an EMF image for each page of the generated document. FinOps then temporarily saves the generated EMF files to Azure Blob storage.\nPrinting archive\nAnd more!\nIf you are using tier 1 Cloud-Hosted environment, you can find the azure storage from the Azure resource group in Azure portal.\nFor tier 1, UAT tier 2, and PROD Tier 3, you can create a runnable class and execute to get the Azure storage connection string.\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n\nusing Microsoft.Dynamics.Clx.ServicesWrapper;\nclass GetAzureBlob\n{\n    public static void main(Args _args)\n    {\n        info('AzureStorageConnectionString = ' + CloudInfrastructure::GetCsuStorageConnectionString());\n        info('ClientCertificateThumbprint = ' + CloudInfrastructure::GetCsuClientCertificateThumbprint());\n    }\n}\n\n\n\n\n\nOnce you have the connection string, you can connect it to MS Azure Storage Explorer, Power Automate, or consuming in any framwork/language for integration/backup purposes.",
+          "link": "https://nuxulu.com/2022-10-27-how-to-get-d365-azure-blob-storage-str/",
+          "publishedOn": "2022-10-27T00:00:00.000Z",
+          "wordCount": 395,
+          "title": "How to get FinOps Azure storage blob connection string",
+          "imageUrl": "https://nuxulu.com/2022-10-27-how-to-get-d365-azure-blob-storage-str/azure-storage.png"
+        },
+        {
           "id": "https://nuxulu.com/2022-10-20-how-to-remove-ssrs-reports-in-d365/",
           "author": "Max Nguyen",
           "description": "There are 2 ways that you can delete SSRS reports in FinOps cloud-Hosted\n1. Using Report server configuiration manager web portal\nOpen Report server configuiration manager from your VM FinOps Cloud-Hosted and active the Web Portal\nImage\n\">\n        \n    2022-10-20-how-to-remove-ssrs-reports-in-d365-1\n    \nYou can delete any report from [Servername]/Reports/browse/Dynamics\nImage\n\">\n        \n    2022-10-20-how-to-remove-ssrs-reports-in-d365-3\n    \n1. Using Powershell script\nGo to RemoveAllReportsFromSsrs.ps1 under K:\\AosService\\PackagesLocalDirectory\\Plugins\\AxReportVmRoleStartupTask\nRun the script to remove all SSRS report.\nIf you want to remove a specific report, you can manipulate the $ReportName\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n\n\n\n################################################################################\n# This script is used to manually remove reports to SSRS server\n################################################################################\nparam\n(\n    [Parameter(Mandatory=$false)]\n    [string]$LogFilePath,\n    [Alias(\"ReportServerFqdn\", \"ReportServerName\")]\n    [Parameter(Mandatory=$false)]\n    [string[]]$ReportServerIp = \"127.0.0.1\",\n    [Parameter(Mandatory=$false)]\n\t[string[]]$ReportName = \"[report-name].[design-name]\",\n    [Parameter(Mandatory=$false)]\n\t[switch]$UseHttps = $false,\n    [Parameter(Mandatory=$false)]\n\t[int]$HttpsPort = 443,\n    [Parameter(Mandatory=$false)]\n    [switch]$Help = $false\n)\n\n\n\n\n\nCheck this article for deploy report using PS script.",
@@ -7165,6 +7175,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-public-preview-of-coauthoring-in-modern-app-designer",
+          "author": null,
+          "description": "We are happy to announce that Coauthoring is now available in most of the regions allowing fusion teams to build better apps faster. With coauthoring you can see who is working on the same app at the same time, and you can see their applied changes in real-time. You don’t need to worry anymore about … \nContinue reading “Announcing public preview of coauthoring in Modern app designer “",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-coauthoring-in-modern-app-designer/",
+          "publishedOn": "2022-10-27T13:48:47.000Z",
+          "wordCount": 1943,
+          "title": "Announcing public preview of coauthoring in Modern app designer",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/10/CELA-coauthoring-demo-scaled.gif"
+        },
         {
           "id": "announcing-general-availability-of-power-apps-ideas",
           "author": null,
