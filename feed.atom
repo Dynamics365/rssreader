@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-01T02:21:21.188Z</updated>
+    <updated>2022-11-02T02:08:02.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Formula repair now in preview]]></title>
+        <id>formula-repair-now-in-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/formula-repair-now-in-preview/"/>
+        <updated>2022-11-01T11:01:21.000Z</updated>
+        <summary type="html"><![CDATA[We’re glad to announce that formula repair is now available for you in preview. We know when writing formulas, errors are unavoidable, and troubleshooting could be time-consuming and cumbersome even for tiny errors like a missing parenthesis. With formula repair, now you may skip some of the troubleshooting effort as whenever you have a formula … 
+Continue reading “Formula repair now in preview”]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use D365 View Details]]></title>
+        <id>https://dynamics365musings.com/?p=2372</id>
+        <link href="https://dynamics365musings.com/d365-view-details/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-view-details"/>
+        <updated>2022-10-31T13:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 for Finance and Operations uses relational data. For example, a sales order will have a customer account field that references a customer. Users can use the D365 view details functionality to quickly open up the customer details form. This is much faster than making users opening up a new browser page, and... Continue Reading →
+The post How To Use D365 View Details appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s new: Power Apps October 2022 Feature Update]]></title>
         <id>whats-new-power-apps-october-2022-feature-update</id>

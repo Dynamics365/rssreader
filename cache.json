@@ -3018,6 +3018,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=2372",
+          "author": "peter.ramer",
+          "description": "Microsoft Dynamics 365 for Finance and Operations uses relational data. For example, a sales order will have a customer account field that references a customer. Users can use the D365 view details functionality to quickly open up the customer details form. This is much faster than making users opening up a new browser page, and... Continue Reading →\nThe post How To Use D365 View Details appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-view-details/?utm_source=rss&utm_medium=rss&utm_campaign=d365-view-details",
+          "publishedOn": "2022-10-31T13:16:37.000Z",
+          "wordCount": 3409,
+          "title": "How To Use D365 View Details",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/10/How-To-Use-D365-View-Details.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=2314",
           "author": "peter.ramer",
           "description": "Learn how to add a form splitter to resize areas of a form in Microsoft Dynamics AX and D365 F&O. This improves the usability of the form, and increases productivity. Instead of continually scrolling back and forth, users have greater control of what is shown on the screen. Based on the way they are currently... Continue Reading →\nThe post How To Add A Form Splitter appeared first on Dynamics 365 Musings.",
@@ -7175,6 +7185,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "formula-repair-now-in-preview",
+          "author": null,
+          "description": "We’re glad to announce that formula repair is now available for you in preview. We know when writing formulas, errors are unavoidable, and troubleshooting could be time-consuming and cumbersome even for tiny errors like a missing parenthesis. With formula repair, now you may skip some of the troubleshooting effort as whenever you have a formula … \nContinue reading “Formula repair now in preview”",
+          "link": "https://powerapps.microsoft.com/en-us/blog/formula-repair-now-in-preview/",
+          "publishedOn": "2022-11-01T11:01:21.000Z",
+          "wordCount": 1484,
+          "title": "Formula repair now in preview",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "whats-new-power-apps-october-2022-feature-update",
           "author": null,
