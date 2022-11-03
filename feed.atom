@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-02T02:08:02.237Z</updated>
+    <updated>2022-11-03T01:54:36.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Do more with less, with Power Apps. Now at 25% off]]></title>
+        <id>do-more-with-less-with-power-apps-now-at-25-off</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/do-more-with-less-with-power-apps-now-at-25-off/"/>
+        <updated>2022-11-02T15:04:30.000Z</updated>
+        <summary type="html"><![CDATA[Per user licenses are now available at 25% off for new customers of Power Apps.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Formula repair now in preview]]></title>
         <id>formula-repair-now-in-preview</id>
