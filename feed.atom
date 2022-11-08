@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-07T01:50:27.592Z</updated>
+    <updated>2022-11-08T01:50:09.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Override The D365 JumpRef]]></title>
+        <id>https://dynamics365musings.com/?p=2412</id>
+        <link href="https://dynamics365musings.com/d365-jumpref/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-jumpref"/>
+        <updated>2022-11-07T14:32:43.000Z</updated>
+        <summary type="html"><![CDATA[In the last article I explained how to use the D365 view details functionality to navigate to a related form. In this article, I will explain how to override the D365 JumpRef to open a different form, or pass information to filter the form in a different way. The reason why you would do this... Continue Reading →
+The post How To Override The D365 JumpRef appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delete Party records having no reference in GAB – D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2293</id>
+        <link href="https://anithasantosh.wordpress.com/2022/11/07/delete-party-records-having-no-reference-in-gab-d365fo/"/>
+        <updated>2022-11-07T09:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Take a scenario where the user creates a customer / Vendor for testing purpose. If there are no transactions , the record can be deleted from the form. But the reference still exists in global address book. It is not … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do more with less, with Power Apps. Now at 25% off]]></title>
         <id>do-more-with-less-with-power-apps-now-at-25-off</id>
