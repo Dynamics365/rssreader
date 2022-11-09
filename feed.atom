@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-08T01:50:09.127Z</updated>
+    <updated>2022-11-09T02:00:43.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Install XML formatter in notepad ++]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2306</id>
+        <link href="https://anithasantosh.wordpress.com/2022/11/08/install-xml-formatter-in-notepad/"/>
+        <updated>2022-11-08T13:14:08.000Z</updated>
+        <summary type="html"><![CDATA[This is off-topic from my regular posts. Notepad++ is a handy tool which serves as source code editor. Being a developer, I use it for various purposes : Code reading, formatting xml, investigating DIXF issues, bulk modification of the records … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Override The D365 JumpRef]]></title>
         <id>https://dynamics365musings.com/?p=2412</id>
@@ -12232,37 +12242,6 @@ SELECT * FROM CustTable(CustTable_1) WHERE ((AccountNum = N'1168201') OR (Accoun
 
 
 Thanks for reading :). Happy New Year.]]></summary>
-        <author>
-            <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to install two instances SSRS on one server]]></title>
-        <id>https://nuxulu.com/2015-12-16-how-to-install-2-instances-ssrs-on-1-server/</id>
-        <link href="https://nuxulu.com/2015-12-16-how-to-install-2-instances-ssrs-on-1-server/"/>
-        <updated>2015-12-16T02:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Scenario:
-I have 2 AOS AX (maybe same in one server or different servers), but only one server for reporting server (I will install and configure multiple SRS instances in this server). Thing is how can we install and configure 2 SSRS instances on same server and running for 2 AOS.
-easierly, please take a look the picture below
-
-Figure 1: Two SSRS instance are running same server.
-Problems:
-First you need to install 2 SSRS instance in same server, and install reporting service component for first AOS, this step is very simple. The problems come when we install second reporting service component for second AOS.
-Reporting service component uses business connector to connect to AX, and it’s saved on configuration in Registry. When we install second reporting service component it will through message that component already installed.
-How to do:
-After installed second instance into C:\Program Files\Microsoft SQL Server\MSRS12.InstanceName\Reporting Services\ReportServer\bin, we need to create one Dynamics.AX.ReportConfiguration.axc file by AX configuration client with second AOS information.
-
-
-open MS Dyanmics AX Management Shell, run command below:
-Install-AXReportInstanceExtensions –ReportServerInstanceName [SSRSInstanceName] -Credential [DomainNameUserName]
-
-
-goto C:\Program Files\Microsoft SQL Server\MSRS12.SecondInstance\Reporting Services\ReportServer fix fileconfi with value from Execution to FullTrust
-
-After this, remember restart reporting services.
-
-From now on, you can run 2 AX reporting instance in same server.
-Thank you for reading!]]></summary>
         <author>
             <name>Max Nguyen</name>
         </author>

@@ -744,16 +744,6 @@
           "wordCount": 286,
           "title": "How to use operator \"or\" in QueryBuildRange",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://nuxulu.com/2015-12-16-how-to-install-2-instances-ssrs-on-1-server/",
-          "author": "Max Nguyen",
-          "description": "Scenario:\nI have 2 AOS AX (maybe same in one server or different servers), but only one server for reporting server (I will install and configure multiple SRS instances in this server). Thing is how can we install and configure 2 SSRS instances on same server and running for 2 AOS.\neasierly, please take a look the picture below\n\nFigure 1: Two SSRS instance are running same server.\nProblems:\nFirst you need to install 2 SSRS instance in same server, and install reporting service component for first AOS, this step is very simple. The problems come when we install second reporting service component for second AOS.\nReporting service component uses business connector to connect to AX, and it’s saved on configuration in Registry. When we install second reporting service component it will through message that component already installed.\nHow to do:\nAfter installed second instance into C:\\Program Files\\Microsoft SQL Server\\MSRS12.InstanceName\\Reporting Services\\ReportServer\\bin, we need to create one Dynamics.AX.ReportConfiguration.axc file by AX configuration client with second AOS information.\n\n\nopen MS Dyanmics AX Management Shell, run command below:\nInstall-AXReportInstanceExtensions –ReportServerInstanceName [SSRSInstanceName] -Credential [DomainNameUserName]\n\n\ngoto C:\\Program Files\\Microsoft SQL Server\\MSRS12.SecondInstance\\Reporting Services\\ReportServer fix fileconfi with value from Execution to FullTrust\n\nAfter this, remember restart reporting services.\n\nFrom now on, you can run 2 AX reporting instance in same server.\nThank you for reading!",
-          "link": "https://nuxulu.com/2015-12-16-how-to-install-2-instances-ssrs-on-1-server/",
-          "publishedOn": "2015-12-16T02:01:11.000Z",
-          "wordCount": 343,
-          "title": "How to install two instances SSRS on one server",
-          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         }
       ]
     },
@@ -2810,6 +2800,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2306",
+          "author": "AnithaEswaran",
+          "description": "This is off-topic from my regular posts. Notepad++ is a handy tool which serves as source code editor. Being a developer, I use it for various purposes : Code reading, formatting xml, investigating DIXF issues, bulk modification of the records … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/11/08/install-xml-formatter-in-notepad/",
+          "publishedOn": "2022-11-08T13:14:08.000Z",
+          "wordCount": 3594,
+          "title": "Install XML formatter in notepad ++",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/11/image-7.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=2293",
           "author": "AnithaEswaran",
