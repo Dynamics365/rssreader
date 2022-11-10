@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-09T02:00:43.552Z</updated>
+    <updated>2022-11-10T01:53:28.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Security in Microsoft Dataverse]]></title>
+        <id>security-in-microsoft-dataverse</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/security-in-microsoft-dataverse/"/>
+        <updated>2022-11-09T08:56:00.000Z</updated>
+        <summary type="html"><![CDATA[What is Dataverse?  Microsoft Dataverse is a cloud-based, low-code solution that lets you securely store and manage data that’s used by business applications. With your data stored in Microsoft Dataverse, there are many ways to access or modify it. You can work with the data natively with tools such as Power Apps or Power Automate, … 
+Continue reading “Security in Microsoft Dataverse “]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Install XML formatter in notepad ++]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2306</id>

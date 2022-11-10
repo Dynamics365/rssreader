@@ -7206,6 +7206,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "security-in-microsoft-dataverse",
+          "author": null,
+          "description": "What is Dataverse?  Microsoft Dataverse is a cloud-based, low-code solution that lets you securely store and manage data that’s used by business applications. With your data stored in Microsoft Dataverse, there are many ways to access or modify it. You can work with the data natively with tools such as Power Apps or Power Automate, … \nContinue reading “Security in Microsoft Dataverse “",
+          "link": "https://powerapps.microsoft.com/en-us/blog/security-in-microsoft-dataverse/",
+          "publishedOn": "2022-11-09T08:56:00.000Z",
+          "wordCount": 1876,
+          "title": "Security in Microsoft Dataverse",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "do-more-with-less-with-power-apps-now-at-25-off",
           "author": null,
           "description": "Per user licenses are now available at 25% off for new customers of Power Apps.",
