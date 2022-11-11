@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-10T01:53:28.069Z</updated>
+    <updated>2022-11-11T01:53:35.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re-enable Users after Database Refresh]]></title>
+        <id>1657 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/re-enable-users-after-database-refresh"/>
+        <updated>2022-11-10T02:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 11/09/22.
+
+
+
+
+
+
+
+
+
+
+
+
+Enabling Users after a database refresh is a pain. Let's automate that away.
+Re-enabling users in UAT after a data refresh from PROD can be annoying, especially if  you have to be granted access to the environment administrator's account. Let's work through one way of creating a pipeline in Azure DevOps to re-enable a list of users using D365.FO Tools, PowerShell and a few OData tricks.
+First, Create an App Registration
+You can use this link for a walkthrough. We only need a client ID and a client secret. Nothing else needs to be configured in Azure. This should be created in the same tenant as the environment we want to connect to.
+Next, Add the App in F&O
+Use this link to add the App Registration in F&O. We should select the environment…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Security in Microsoft Dataverse]]></title>
         <id>security-in-microsoft-dataverse</id>
@@ -15,6 +43,23 @@
 Continue reading “Security in Microsoft Dataverse “]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reservation and on-hand inventory in warehouse management]]></title>
+        <id>https://nuxulu.com/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/</id>
+        <link href="https://nuxulu.com/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/"/>
+        <updated>2022-11-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Inventory reservation hierarchy in Warehouse management
+The reservation functionality can be used only for items that are enabled for warehouse management processes. However, if an item is itself enabled for warehouse management processes, it can be used both in warehouses that are enabled for warehouse management processes and warehouses that are not. The behavior in reservation scenarios is different, depending on the warehouse setup.
+The functionality is built on reservation hierarchies and is intended to support the following:
+Flexible warehouse operations.
+Postponement of reservation details.
+Clear separation of which inventory dimensions can be specified, and when they can be specified.
+1.1 Reservation hierarchies
+A typical reservation hierarchy for an item that uses the Site, War…]]></summary>
+        <author>
+            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>

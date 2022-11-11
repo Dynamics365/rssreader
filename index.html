@@ -22,6 +22,71 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-10 datetime="2022-11-10T02:21:22.000Z">2022-11-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-10 datetime="2022-11-10T02:21:22.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Atomic AX - Dynamics AX Tips, Tricks, How To&#x27;s and Code</button>
+                  <a class="source-heading__link" href="https://www.atomicax.com/frontpage">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="1657 at https://www.atomicax.com"
+                        open
+                      >
+                        <summary class="article-expander__title">Re-enable Users after Database Refresh</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.atomicax.com/article/re-enable-users-after-database-refresh">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Submitted by Nathan Clouse on 11/09/22.
+
+
+
+
+
+
+
+
+
+
+
+
+Enabling Users after a database refresh is a pain. Let&#x27;s automate that away.
+Re-enabling users in UAT after a data refresh from PROD can be annoying, especially if  you have to be granted access to the environment administrator&#x27;s account. Let&#x27;s work through one way of creating a pipeline in Azure DevOps to re-enable a list of users using D365.FO Tools, PowerShell and a few OData tricks.
+First, Create an App Registration
+You can use this link for a walkthrough. We only need a client ID and a client secret. Nothing else needs to be configured in Azure. This should be created in the same tenant as the environment we want to connect to.
+Next, Add the App in F&amp;O
+Use this link to add the App Registration in F&amp;O. We should select the environment…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-09 datetime="2022-11-09T08:56:00.000Z">2022-11-09</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-09 datetime="2022-11-09T08:56:00.000Z"></time>
           </button>
@@ -53,6 +118,47 @@
                               <span>What is Dataverse?  Microsoft Dataverse is a cloud-based, low-code solution that lets you securely store and manage data that’s used by business applications. With your data stored in Microsoft Dataverse, there are many ways to access or modify it. You can work with the data natively with tools such as Power Apps or Power Automate, … 
 Continue reading “Security in Microsoft Dataverse “</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >All Posts - Dynamics 365 Finance &amp; Operations | nuxulu.com</button>
+                  <a class="source-heading__link" href="https://nuxulu.com/posts/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://nuxulu.com/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/"
+                        open
+                      >
+                        <summary class="article-expander__title">Reservation and on-hand inventory in warehouse management</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://nuxulu.com/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://nuxulu.com/Icon/mstile-150x150.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>1. Inventory reservation hierarchy in Warehouse management
+The reservation functionality can be used only for items that are enabled for warehouse management processes. However, if an item is itself enabled for warehouse management processes, it can be used both in warehouses that are enabled for warehouse management processes and warehouses that are not. The behavior in reservation scenarios is different, depending on the warehouse setup.
+The functionality is built on reservation hierarchies and is intended to support the following:
+Flexible warehouse operations.
+Postponement of reservation details.
+Clear separation of which inventory dimensions can be specified, and when they can be specified.
+1.1 Reservation hierarchies
+A typical reservation hierarchy for an item that uses the Site, War…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -36046,8 +36152,8 @@ Thanks for reading :). Happy New Year.</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/3433344721">
-        <time id="build-timestamp" datetime="2022-11-10T01:53:27.986Z">2022-11-10T01:53:27.986Z</time>
+      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/3441880204">
+        <time id="build-timestamp" datetime="2022-11-11T01:53:35.816Z">2022-11-11T01:53:35.816Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
