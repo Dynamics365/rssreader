@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-11T01:53:35.897Z</updated>
+    <updated>2022-11-12T01:49:21.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Refresh new objects in SQL server]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2317</id>
+        <link href="https://anithasantosh.wordpress.com/2022/11/11/refresh-new-objects-in-sql-server/"/>
+        <updated>2022-11-11T21:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Whenever we create a new object (table/View/Stored procedure etc) in SQL server , the change will not be immediately reflected in query window. Intelisense works for the existing artifacts , but the new ones will be effective when we restart … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update to using Application Insights for monitoring D365 Finance and Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4f377741-5ae7-4611-a1f4-aec9ea4f249b</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/update-to-using-application-insights-for-monitoring-d365-finance-and-operations"/>
+        <updated>2022-11-10T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I previously wrote a blog post on one way to monitor licensing usage with Azure Application Insights. With the 10.0.30 update for D365 Finance and Operations that is available, it is easier now with n...(read more)]]></summary>
+        <author>
+            <name>Chris Roehrich</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re-enable Users after Database Refresh]]></title>
         <id>1657 at https://www.atomicax.com</id>

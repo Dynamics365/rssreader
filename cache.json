@@ -2811,6 +2811,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2317",
+          "author": "AnithaEswaran",
+          "description": "Whenever we create a new object (table/View/Stored procedure etc) in SQL server , the change will not be immediately reflected in query window. Intelisense works for the existing artifacts , but the new ones will be effective when we restart … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/11/11/refresh-new-objects-in-sql-server/",
+          "publishedOn": "2022-11-11T21:20:23.000Z",
+          "wordCount": 3575,
+          "title": "Refresh new objects in SQL server",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/11/image-12.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2306",
           "author": "AnithaEswaran",
           "description": "This is off-topic from my regular posts. Notepad++ is a handy tool which serves as source code editor. Being a developer, I use it for various purposes : Code reading, formatting xml, investigating DIXF issues, bulk modification of the records … Continue reading →",
@@ -6604,6 +6614,16 @@
       "feedUrl": "https://community.dynamics.com/ax/b/axinthefield/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/axinthefield",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4f377741-5ae7-4611-a1f4-aec9ea4f249b",
+          "author": "Chris Roehrich",
+          "description": "I previously wrote a blog post on one way to monitor licensing usage with Azure Application Insights. With the 10.0.30 update for D365 Finance and Operations that is available, it is easier now with n...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/update-to-using-application-insights-for-monitoring-d365-finance-and-operations",
+          "publishedOn": "2022-11-10T21:30:00.000Z",
+          "wordCount": 4066,
+          "title": "Update to using Application Insights for monitoring D365 Finance and Operations",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1947fe11-c706-4b5d-845f-7d3846aed26e",
           "author": "Victor Tang",
