@@ -6,6 +6,16 @@
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
         {
+          "id": "https://nuxulu.com/2022-11-13-extend-on-hand-entities-fin-ops/",
+          "author": "Max Nguyen",
+          "description": "There are some entities that you can use to get the on-hand inventory from Dynamics 365 Finance Operations:\n\n\n\n1\n2\n3\n4\n5\n6\n\n\n\nInventorySiteOnHandEntity\nInventorySiteOnHandV2Entity\nInventWarehouseInventoryStatusOnHandEntity\nInventWarehouseInventoryStatusOnHandV2Entity\nInventWarehouseOnHandEntity\nInventWarehouseOnHandV2Entity\n\n\n\n\n\nYou can extend the ententies by adding new fields to tables and entities.\nAfter you add fields to tables that are used by the inventSiteOnHandView view, you must sync the engine so that the extensions are correctly recognized.\nExtend the InventSiteOnHandView view by adding the extension field.\nExtend the InventSiteOnHandAggregatedView view with the extension fields.\nExtend the InventSiteOnHandAggregatedViewBuilder viewBuilder class by modifying the getExtensionFields() method. In this way, you map old view fields to new view fields when viewBuilder synchronization is run.\nFor example, you’ve added the following four fields to the InventTable table through extension:\n• Custom field 1\n• Custom field 2\n• Custom field 3\n• Custom field 4\nIn the case, you must modify the getExtensionFields() method in the following way.",
+          "link": "https://nuxulu.com/2022-11-13-extend-on-hand-entities-fin-ops/",
+          "publishedOn": "2022-11-13T00:00:00.000Z",
+          "wordCount": 362,
+          "title": "Extend on-hand inventory entities FinOps",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/",
           "author": "Max Nguyen",
           "description": "1. Inventory reservation hierarchy in Warehouse management\nThe reservation functionality can be used only for items that are enabled for warehouse management processes. However, if an item is itself enabled for warehouse management processes, it can be used both in warehouses that are enabled for warehouse management processes and warehouses that are not. The behavior in reservation scenarios is different, depending on the warehouse setup.\nThe functionality is built on reservation hierarchies and is intended to support the following:\nFlexible warehouse operations.\nPostponement of reservation details.\nClear separation of which inventory dimensions can be specified, and when they can be specified.\n1.1 Reservation hierarchies\nA typical reservation hierarchy for an item that uses the Site, War…",
@@ -7245,6 +7255,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "new-ways-to-share-power-apps-community-forum-ideas",
+          "author": null,
+          "description": "Between Nov 15 and Nov 29, 2022, Power Apps Ideas will migrate to a brand-new platform powered by Dynamics 365 Customer Service Community.  On top of providing our community with a brand-new interface to share ideas, the migration will enable our product teams to be much more responsive to user feedback and better integrate your … \nContinue reading “New ways to share Power Apps community forum ideas “",
+          "link": "https://powerapps.microsoft.com/en-us/blog/new-ways-to-share-power-apps-community-forum-ideas/",
+          "publishedOn": "2022-11-14T08:00:00.000Z",
+          "wordCount": 1708,
+          "title": "New ways to share Power Apps community forum ideas",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "security-in-microsoft-dataverse",
           "author": null,

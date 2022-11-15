@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-14T01:48:41.679Z</updated>
+    <updated>2022-11-15T01:46:15.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New ways to share Power Apps community forum ideas]]></title>
+        <id>new-ways-to-share-power-apps-community-forum-ideas</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/new-ways-to-share-power-apps-community-forum-ideas/"/>
+        <updated>2022-11-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Between Nov 15 and Nov 29, 2022, Power Apps Ideas will migrate to a brand-new platform powered by Dynamics 365 Customer Service Community.  On top of providing our community with a brand-new interface to share ideas, the migration will enable our product teams to be much more responsive to user feedback and better integrate your … 
+Continue reading “New ways to share Power Apps community forum ideas “]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extend on-hand inventory entities FinOps]]></title>
+        <id>https://nuxulu.com/2022-11-13-extend-on-hand-entities-fin-ops/</id>
+        <link href="https://nuxulu.com/2022-11-13-extend-on-hand-entities-fin-ops/"/>
+        <updated>2022-11-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are some entities that you can use to get the on-hand inventory from Dynamics 365 Finance Operations:
+
+
+
+1
+2
+3
+4
+5
+6
+
+
+
+InventorySiteOnHandEntity
+InventorySiteOnHandV2Entity
+InventWarehouseInventoryStatusOnHandEntity
+InventWarehouseInventoryStatusOnHandV2Entity
+InventWarehouseOnHandEntity
+InventWarehouseOnHandV2Entity
+
+
+
+
+
+You can extend the ententies by adding new fields to tables and entities.
+After you add fields to tables that are used by the inventSiteOnHandView view, you must sync the engine so that the extensions are correctly recognized.
+Extend the InventSiteOnHandView view by adding the extension field.
+Extend the InventSiteOnHandAggregatedView view with the extension fields.
+Extend the InventSiteOnHandAggregatedViewBuilder viewBuilder class by modifying the getExtensionFields() method. In this way, you map old view fields to new view fields when viewBuilder synchronization is run.
+For example, you’ve added the following four fields to the InventTable table through extension:
+• Custom field 1
+• Custom field 2
+• Custom field 3
+• Custom field 4
+In the case, you must modify the getExtensionFields() method in the following way.]]></summary>
+        <author>
+            <name>Max Nguyen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Refresh new objects in SQL server]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2317</id>
