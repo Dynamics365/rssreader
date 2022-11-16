@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-15T01:46:15.038Z</updated>
+    <updated>2022-11-16T01:47:10.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update: Release of Modern Learn page in Power Apps!]]></title>
+        <id>update-release-of-modern-learn-page-in-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/update-release-of-modern-learn-page-in-power-apps/"/>
+        <updated>2022-11-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we are pleased to announce the release of the modern Learn page in Power Apps! The new Learn experience has consolidated content from all Microsoft resources to help with your onboarding and upskilling journey. The Overview tab of the new Learn page includes a dynamic banner at the top – to help keep you … 
+Continue reading “Update: Release of Modern Learn page in Power Apps!”]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Override The JumpRef On A Base Form]]></title>
+        <id>https://dynamics365musings.com/?p=2461</id>
+        <link href="https://dynamics365musings.com/override-the-jumpref/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=override-the-jumpref"/>
+        <updated>2022-11-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Previously, I explained how to use View Details to navigate to a related form. After that, I explained how override this functionality to navigate to a different form by overriding the D365 jumpRef method. Lastly, I will explain how to override the JumpRef on a base Microsoft form. Why Are Base Microsoft Forms Different? Unlike... Continue Reading →
+The post Override The JumpRef On A Base Form appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New ways to share Power Apps community forum ideas]]></title>
         <id>new-ways-to-share-power-apps-community-forum-ideas</id>

@@ -3058,6 +3058,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=2461",
+          "author": "peter.ramer",
+          "description": "Previously, I explained how to use View Details to navigate to a related form. After that, I explained how override this functionality to navigate to a different form by overriding the D365 jumpRef method. Lastly, I will explain how to override the JumpRef on a base Microsoft form. Why Are Base Microsoft Forms Different? Unlike... Continue Reading →\nThe post Override The JumpRef On A Base Form appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/override-the-jumpref/?utm_source=rss&utm_medium=rss&utm_campaign=override-the-jumpref",
+          "publishedOn": "2022-11-14T14:00:00.000Z",
+          "wordCount": 3371,
+          "title": "Override The JumpRef On A Base Form",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/11/Override-The-JumpRef-On-A-Base-Form-Final.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=2412",
           "author": "peter.ramer",
           "description": "In the last article I explained how to use the D365 view details functionality to navigate to a related form. In this article, I will explain how to override the D365 JumpRef to open a different form, or pass information to filter the form in a different way. The reason why you would do this... Continue Reading →\nThe post How To Override The D365 JumpRef appeared first on Dynamics 365 Musings.",
@@ -7255,6 +7265,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "update-release-of-modern-learn-page-in-power-apps",
+          "author": null,
+          "description": "Today we are pleased to announce the release of the modern Learn page in Power Apps! The new Learn experience has consolidated content from all Microsoft resources to help with your onboarding and upskilling journey. The Overview tab of the new Learn page includes a dynamic banner at the top – to help keep you … \nContinue reading “Update: Release of Modern Learn page in Power Apps!”",
+          "link": "https://powerapps.microsoft.com/en-us/blog/update-release-of-modern-learn-page-in-power-apps/",
+          "publishedOn": "2022-11-15T10:00:00.000Z",
+          "wordCount": 1443,
+          "title": "Update: Release of Modern Learn page in Power Apps!",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "new-ways-to-share-power-apps-community-forum-ideas",
           "author": null,
