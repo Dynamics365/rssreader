@@ -116,6 +116,46 @@
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
         {
+          "id": "https://nuxulu.com/theme-documentation-basics/",
+          "author": "false",
+          "description": "Discover what the Hugo - LoveIt theme is all about and the core-concepts behind it.\n1 Requirements\nThanks to the simplicity of Hugo, Hugo is the only dependency of this theme.\nJust install latest version of  Hugo (> 0.62.0) for your OS (Windows, Linux, macOS).\nWhy not support earlier versions of Hugo?\n        \nSince Markdown Render Hooks was introduced in the Hugo Christmas Edition, this theme only supports Hugo versions above 0.62.0.\nHugo extended version is recommended\n        \nSince some features of this theme need to processes  SCSS to  CSS, it is recommended to use Hugo extended version for better experience.\n2 Installation\nThe following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you learn more about it by following this …",
+          "link": "https://nuxulu.com/theme-documentation-basics/",
+          "publishedOn": "2021-10-10T13:29:01.000Z",
+          "wordCount": 4570,
+          "title": "Theme Documentation - Basics",
+          "imageUrl": "https://nuxulu.com/theme-documentation-basics/featured-image.jpg"
+        },
+        {
+          "id": "https://nuxulu.com/emoji-support/",
+          "author": "false",
+          "description": "Emoji can be enabled in a Hugo project in a number of ways.\nThe emojify function can be called directly in templates or Inline Shortcodes.\nTo enable emoji globally, set enableEmoji to true in your site configuration and then you can type emoji shorthand codes directly in content files.\nThese begin and end with a colon and include the code of an emoji:\n\n\n\n1\n2\n3\n\n\n\nGone camping! :tent: Be back soon.\n\nThat is so funny! :joy:\n\n\n\n\n\nThe rendered output looks like this:\nGone camping! ⛺ Be back soon.\nThat is so funny! 😂\nThe following cheat sheet is a useful reference for emoji shorthand codes.\nSmileys & Emotion\nFace Smiling\nicon\ncode\nicon\ncode\n\n\n\n\n😀\ngrinning\n😃\nsmiley\n\n\n😄\nsmile\n😁\ngrin\n\n\n😆\nlaughing \n satisfied\n😅\nsweat_smile\n\n\n🤣\nrofl\n😂\njoy\n\n\n🙂\nslightly_smiling_face\n🙃\nupside_down_face\n\n\n😉\n…",
+          "link": "https://nuxulu.com/emoji-support/",
+          "publishedOn": "2021-10-10T09:55:28.000Z",
+          "wordCount": 355,
+          "title": "Emoji Support",
+          "imageUrl": "https://nuxulu.com/emoji-support/featured-image.jpg"
+        },
+        {
+          "id": "https://nuxulu.com/theme-documentation-built-in-shortcodes/",
+          "author": "false",
+          "description": "Hugo provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.\nHugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.\nBut this happens to be a bad idea. Everyone uses Markdown because it’s pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.\nTo avoid this limitations, Hugo created shortcodes.\nA shortcode is a simple snippet that can generate reasonable HTML code and conforms to Markdown’s design philosophy.\nHugo ships with a set of predefined shortcodes that represent very common usage. These shortcodes are provided for author convenience and to keep your markdown content clean.\n1 figure\n…",
+          "link": "https://nuxulu.com/theme-documentation-built-in-shortcodes/",
+          "publishedOn": "2021-10-10T08:29:41.000Z",
+          "wordCount": 515,
+          "title": "Theme Documentation - Built-in Shortcodes",
+          "imageUrl": "https://nuxulu.com/theme-documentation-built-in-shortcodes/featured-image.png"
+        },
+        {
+          "id": "https://nuxulu.com/theme-documentation-extended-shortcodes/",
+          "author": "false",
+          "description": "LoveIt theme provides multiple shortcodes on top of built-in ones in Hugo.\n1 style\n\n\n        \nNote\n        \nHugo extended version is necessary for style shortcode.\nstyle is a shortcode to insert custom style in your post.\nThe style shortcode has two positional parameters.\nThe first one is the custom style content,\nwhich supports nesting syntax in  SASS\nand & referring to this parent HTML element.\nAnd the second one is the tag name of the HTML element wrapping the content you want to change style, and whose default value is div.\nExample style input:\n\n\n\n1\n2\n3\n\n\n\n{{< style \"text-align:right; strong{color:#00b1ff;}\" >}}\nThis is a **right-aligned** paragraph.\n{{< /style >}}\n\n\n\n\n\nThe rendered output looks like this:\nThis is a right-aligned paragraph.\n2 link\n\nlink shortcode is an alternative to M…",
+          "link": "https://nuxulu.com/theme-documentation-extended-shortcodes/",
+          "publishedOn": "2021-10-10T08:29:41.000Z",
+          "wordCount": 1028,
+          "title": "Theme Documentation - Extended Shortcodes",
+          "imageUrl": "https://nuxulu.com/theme-documentation-extended-shortcodes/featured-image.jpg"
+        },
+        {
           "id": "https://nuxulu.com/2021-10-10-batch-rename-files-to-lowercase/",
           "author": "Max Nguyen",
           "description": "Go to the directory and run the following command:\nfor /f \"Tokens=*\" %f in ('dir /l/b/a-d') do (rename \"%f\" \"%f\")\nfor /f “Tokens=*” %%f in (‘dir /l/b/a-d’) do (rename “%%f” “%%f”)\nrename folders\nfor /f \"Tokens=*\" %f in ('dir /l/b') do (rename \"%f\" \"%f\")\nRecursive version (added /r to dir)\nfor /f \"Tokens=*\" %f in ('dir /l/b/a-d/s') do (rename \"%f\" \"%f\")",
@@ -124,6 +164,26 @@
           "wordCount": 159,
           "title": "Batch rename files to lowercase?",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/theme-documentation-content/",
+          "author": "false",
+          "description": "Find out how to create and organize your content quickly and intuitively in LoveIt theme.\n1 Contents Organization\nA few suggestions to help you get a good looking site quickly:\nKeep post pages in the content/posts directory, for example: content/posts/my-first-post.md\nKeep other pages in the content directory, for example: content/about.md\nLocal resources organization\nLocal Resource Reference\n        \n\nThere are three ways to reference local resources such as images and music:\nUsing page resources in page bundles.\nYou can reference page resources by the value for Resources.GetMatch or the filepath of the resource relative to the page directory directly.\nStore resources in the assets directory, which is /assets by default.\nThe filepath of the resource to reference in the post is relative to…",
+          "link": "https://nuxulu.com/theme-documentation-content/",
+          "publishedOn": "2021-10-10T07:58:26.000Z",
+          "wordCount": 2039,
+          "title": "Theme Documentation - Content",
+          "imageUrl": "https://nuxulu.com/theme-documentation-content/featured-image.jpg"
+        },
+        {
+          "id": "https://nuxulu.com/basic-markdown-syntax/",
+          "author": "false",
+          "description": "1 Headings\n2 Comments\n3 Horizontal Rules\n___\n4 Body Copy\n5 Inline HTML\n6 Emphasis\n\nBold\nItalics\nStrikethrough\nCombination\n7 Blockquotes\n8 Lists\n\nUnordered\nOrdered\nTask Lists\n9 Code\n\nInline Code\nIndented Code\nBlock Fenced Code\nSyntax Highlighting\n10 Tables\n11 Links {#links}\n\nBasic Link\nAdd a Title\nNamed Anchors\n12 Footnotes\n13 Images\nThis article offers a sample of basic Markdown syntax that can be used in Hugo content files.\nNote\n        \nThis article is a shameful copy of the great Grav original page.\nIf you want to know about the extended Markdown syntax of LoveIt theme, please read extended Markdown syntax page.\nLet’s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.\nMarkd…",
+          "link": "https://nuxulu.com/basic-markdown-syntax/",
+          "publishedOn": "2021-10-10T00:00:00.000Z",
+          "wordCount": 2734,
+          "title": "Basic Markdown Syntax",
+          "imageUrl": "https://nuxulu.com/basic-markdown-syntax/featured-image.png"
         },
         {
           "id": "https://nuxulu.com/2021-10-07-extend-microsoft-365/",
@@ -6750,6 +6810,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=7356",
+          "author": "Eugen Glasow",
+          "description": "Under the “reverse charge system” it is the company receiving the service that is liable to pay the VAT, and not the company providing the service. Normally, the net amount of VAT to pay is offset by the same amount of the receivable VAT, and the tax burden remains 0. But not […]\nThe post Sometimes you pay Reverse Charge in D365 appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/sometimes-you-pay-reverse-charge-in-d365/",
+          "publishedOn": "2022-11-16T19:28:04.000Z",
+          "wordCount": 2219,
+          "title": "Sometimes you pay Reverse Charge in D365",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2017/03/VAT.jpg"
+        },
         {
           "id": "https://erconsult.eu/?p=7315",
           "author": "Eugen Glasow",
