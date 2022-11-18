@@ -3315,6 +3315,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/11/16/introducing-microsoft-supply-chain-platform-an-open-flexible-collaborative-and-secure-platform/",
+          "author": "Ray Smith",
+          "description": "Earlier this week, we announced the Microsoft Supply Chain Platform. At the core of the Supply Chain Platform is the Microsoft Supply Chain Center, which introduces a ready-made command center for users to manage disparate supply chain data. \nThe post Introducing Microsoft Supply Chain Platform—an open, flexible, collaborative, and secure platform appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/11/16/introducing-microsoft-supply-chain-platform-an-open-flexible-collaborative-and-secure-platform/",
+          "publishedOn": "2022-11-16T17:00:00.000Z",
+          "wordCount": 3700,
+          "title": "Introducing Microsoft Supply Chain Platform—an open, flexible, collaborative, and secure platform",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/CLO17_warehouse_003.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/15/improve-packing-efficiency-with-the-warehouse-management-mobile-app/",
+          "author": "Per Lykke Lynnerup",
+          "description": "Traditionally, warehouse workers pack items for shipment at a specific packing station, using a process that's optimized to ship small and medium-sized parcels. To improve packing efficiency when working in larger areas and with larger items, the Warehouse Management mobile app in Microsoft Dynamics 365 Supply Chain Management now provides a mobile packing experience thatRead more\nThe post Improve packing efficiency with the Warehouse Management mobile app appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/15/improve-packing-efficiency-with-the-warehouse-management-mobile-app/",
+          "publishedOn": "2022-11-15T20:35:00.000Z",
+          "wordCount": 1564,
+          "title": "Improve packing efficiency with the Warehouse Management mobile app",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/Slide1-1024x576.webp"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/11/save-personalized-views-of-customer-service-dashboards-as-report-bookmarks/",
           "author": "Sukesh Kaul",
           "description": "With Microsoft Dynamics 365 Customer Service 2022 release wave 2, we've supercharged the humble bookmark. It's no longer just a way to easily get back to your favorite analytics dashboards. Now you can use bookmarks to get back to your personalized views of those dashboards, no cape needed.\nThe post Save personalized views of Customer Service dashboards as report bookmarks appeared first on Microsoft Dynamics 365 Blog.",
@@ -3827,6 +3847,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=4787",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2022/11/17/project-operations-cost-allocations/",
+          "publishedOn": "2022-11-17T18:41:12.000Z",
+          "wordCount": 2545,
+          "title": "Project Operations & Cost Allocations",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2022/09/en.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=4766",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -4306,16 +4336,6 @@
           "publishedOn": "2021-01-21T07:17:41.000Z",
           "wordCount": 1961,
           "title": "Retail Task management – make it easy",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f16765dd-7ff2-41ef-852f-5f4521edda7f",
-          "author": "andreasraithel",
-          "description": "Many companies around the world use Microsoft Dynamics 365 in a wide range of language regions. That is why Microsoft Dynamics 365F/SCM/C is provided with many language versions. To use the multilingualism...\n(read more)",
-          "link": "https://community.dynamics.com/ax/b/moredatamoresuccess/posts/accelerate-your-product-translations-within-dynamics-365",
-          "publishedOn": "2020-11-17T19:48:10.000Z",
-          "wordCount": 1892,
-          "title": "Accelerate your product translations within Dynamics 365",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -5375,6 +5395,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d52a46f6-6d52-4240-890f-c40799d17479",
+          "author": "Eugen Glasow",
+          "description": "Sometimes you pay Reverse Charge in D365\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/sometimes-you-pay-reverse-charge-in-d365",
+          "publishedOn": "2022-11-16T19:28:04.000Z",
+          "wordCount": 3000,
+          "title": "Sometimes you pay Reverse Charge in D365",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:9fc313cf-70e4-43f8-be5d-6987243d442e",
           "author": "Eugen Glasow",
@@ -7051,6 +7081,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "equinor-forecasts-an-annual-savings-of-more-than-500-million-nok-on-their-power-platform-solution",
+          "author": null,
+          "description": "In this new blog series, we are sharing examples of customers who have been able to Do More With Less by utilizing the Power Platform. Learn about how Equinor digitally transformed multiple use cases in the logistics and supply chain area while furthering governance and training in their organization.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/equinor-forecasts-an-annual-savings-of-more-than-500-million-nok-on-their-power-platform-solution/",
+          "publishedOn": "2022-11-17T09:09:06.000Z",
+          "wordCount": 1873,
+          "title": "Equinor forecasts an annual savings of more than 500 million NOK on their Power Platform solution",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "update-release-of-modern-learn-page-in-power-apps",
           "author": null,

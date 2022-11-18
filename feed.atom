@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-17T01:46:39.167Z</updated>
+    <updated>2022-11-18T01:50:18.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Project Operations & Cost Allocations]]></title>
+        <id>http://dynamicsax-fico.com/?p=4787</id>
+        <link href="https://dynamicsax-fico.com/2022/11/17/project-operations-cost-allocations/"/>
+        <updated>2022-11-17T18:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equinor forecasts an annual savings of more than 500 million NOK on their Power Platform solution]]></title>
+        <id>equinor-forecasts-an-annual-savings-of-more-than-500-million-nok-on-their-power-platform-solution</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/equinor-forecasts-an-annual-savings-of-more-than-500-million-nok-on-their-power-platform-solution/"/>
+        <updated>2022-11-17T09:09:06.000Z</updated>
+        <summary type="html"><![CDATA[In this new blog series, we are sharing examples of customers who have been able to Do More With Less by utilizing the Power Platform. Learn about how Equinor digitally transformed multiple use cases in the logistics and supply chain area while furthering governance and training in their organization.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sometimes you pay Reverse Charge in D365]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d52a46f6-6d52-4240-890f-c40799d17479</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/sometimes-you-pay-reverse-charge-in-d365"/>
+        <updated>2022-11-16T19:28:04.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you pay Reverse Charge in D365		
+				
+				
+				
+					
+					
+						
+											
+												...(read more)]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sometimes you pay Reverse Charge in D365]]></title>
         <id>https://erconsult.eu/?p=7356</id>
@@ -15,6 +53,17 @@
 The post Sometimes you pay Reverse Charge in D365 appeared first on ER-Consult.]]></summary>
         <author>
             <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Microsoft Supply Chain Platform—an open, flexible, collaborative, and secure platform]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2022/11/16/introducing-microsoft-supply-chain-platform-an-open-flexible-collaborative-and-secure-platform/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2022/11/16/introducing-microsoft-supply-chain-platform-an-open-flexible-collaborative-and-secure-platform/"/>
+        <updated>2022-11-16T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week, we announced the Microsoft Supply Chain Platform. At the core of the Supply Chain Platform is the Microsoft Supply Chain Center, which introduces a ready-made command center for users to manage disparate supply chain data. 
+The post Introducing Microsoft Supply Chain Platform—an open, flexible, collaborative, and secure platform appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ray Smith</name>
         </author>
     </entry>
     <entry>
@@ -46,6 +95,17 @@ Similar to the Revenue deferr…]]></summary>
 Continue reading ‘HcmWorkerV2’ »]]></summary>
         <author>
             <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve packing efficiency with the Warehouse Management mobile app]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/11/15/improve-packing-efficiency-with-the-warehouse-management-mobile-app/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/15/improve-packing-efficiency-with-the-warehouse-management-mobile-app/"/>
+        <updated>2022-11-15T20:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Traditionally, warehouse workers pack items for shipment at a specific packing station, using a process that's optimized to ship small and medium-sized parcels. To improve packing efficiency when working in larger areas and with larger items, the Warehouse Management mobile app in Microsoft Dynamics 365 Supply Chain Management now provides a mobile packing experience thatRead more
+The post Improve packing efficiency with the Warehouse Management mobile app appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Per Lykke Lynnerup</name>
         </author>
     </entry>
     <entry>
@@ -11257,17 +11317,6 @@ AP Automation using AI Builder in the Power...
 (read more)]]></summary>
         <author>
             <name>Henrik Marx Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerate your product translations within Dynamics 365]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f16765dd-7ff2-41ef-852f-5f4521edda7f</id>
-        <link href="https://community.dynamics.com/ax/b/moredatamoresuccess/posts/accelerate-your-product-translations-within-dynamics-365"/>
-        <updated>2020-11-17T19:48:10.000Z</updated>
-        <summary type="html"><![CDATA[Many companies around the world use Microsoft Dynamics 365 in a wide range of language regions. That is why Microsoft Dynamics 365F/SCM/C is provided with many language versions. To use the multilingualism...
-(read more)]]></summary>
-        <author>
-            <name>andreasraithel</name>
         </author>
     </entry>
 </feed>
