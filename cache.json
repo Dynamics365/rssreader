@@ -3728,6 +3728,263 @@
       ]
     },
     {
+      "title": "D365 Snippets",
+      "feedUrl": "https://www.d365snippets.com/feeds/posts/default",
+      "siteUrl": "https://www.d365snippets.com/",
+      "articles": [
+        {
+          "id": "https://www.d365snippets.com/2022/11/how-to-creare-a-label-file-in-d365-fo-2022-update.html",
+          "author": null,
+          "description": "What is a Label file in Dynamics 365 FO?\nIn D365 FO development you can directly input the labels, titles, or captions of any user interface, But in Standard project development, we need labels for displaying captions or titles in our user interface. The best practical method to achieve this goal is to use a label file. This label file contains a list of label IDs and related labels which are to be displayed on the user interfaces. You can call the label IDs to the user interfaces where you want to display the label. So, after creating a label file you must need to input a Label ID, a Label that is to be displayed on the user interfaces.\nIn this article, I will show you how to create a label file and how to use the created label file to display texts or titles on the user interfaces. \nIf y…",
+          "link": "https://www.d365snippets.com/2022/11/how-to-creare-a-label-file-in-d365-fo-2022-update.html",
+          "publishedOn": "2022-11-11T19:16:00.005Z",
+          "wordCount": 9286,
+          "title": "How to Create a Label File in D365 FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrlJVIbHZUVhv1tvcV8Fjwew3J9peXrwTtppou2GtX5F4jpVWrblxst5BD_LJEE1a4R4DordFjALExRs6W4J74N3VRdYkAyJbTyNlK_uLpIme4HBSsa9srWvm_pYrIV7uioRFmdBcEooi0rjAxguFTXeZdNBE8L8USE6TiXXr4NTlFFehxHL_h_KuH/s16000/how-to-creare-a-label-file-in-d365-fo-2022-update.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/10/what-is-a-model-in-D365-FO-and-how-to-create-a-model-in-D365-FO.html",
+          "author": null,
+          "description": "As we know, the complete D365 Finance and Operation developments are based on these four terminologies Package, Model, Project, and Element. So as a developer you need to know processes how to create a model, how to update a model, and how to delete a model.\n\n\n\nWhat is a Model in D365?\n\nA model is a group of elements, such as metadata and source files, that typically constitute a distributable software solution and includes customizations of an existing solution. A model is a design-time concept, for example, a warehouse management model or a project accounting model. A model always belongs to a package. A package is a deployment and compilation unit of one or more models. It includes model metadata, binaries, and other associated resources. One or more packages can be packaged into a depl…",
+          "link": "https://www.d365snippets.com/2022/10/what-is-a-model-in-D365-FO-and-how-to-create-a-model-in-D365-FO.html",
+          "publishedOn": "2022-10-28T16:11:00.003Z",
+          "wordCount": 9415,
+          "title": "What is a model in D365FO and how To create a model in D365FO - Online Training Course Part 5",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZrqc5s20FC9qpCvAJSACQq92Jj-_UbAcxRJtkFKqeYpo9F6lVY61KDrLpMReoXi1k8NwFiguWJBWu_iT4K9KdMWT-ZiGwp4ClqhEMCQc3ifSf-zjBMm1C7Bd3uNYuSoWVp6Nfy7RLNRoRDVLUSLZqgoH667tMZXlpHaOvA0Py-xuPycEdHQwqNhif/s16000/what-is-a-model-in-D365-FO-and-how-to-create-a-model-in-D365-FO.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/10/how-to-create-lookup-in-d365fo-using-x-code-2022-update.html",
+          "author": null,
+          "description": "In the previous article, I already showed the very simplest type of lookup in D365 FO, which was EDT lookup, for making an EDT type lookup, a developer does not need to worry more about writing x++ coding. In this tutorial, we are going to make a custom lookup using x++ for form in D365FO.\n \nWhat is a lookup in D365 FO? \n Lookups are the standard way to display a list of possible selection values to the user. For a user, while editing or creating database records, a lookup makes the data entry easy and errorless. In Microsoft dynamics 365 finance and operations, there are many ways of creating lookups. \n Normally, standard lookups are created automatically by the system in Dynamics 365 for Finance and Operations and are based on the extended data types and table setup. They are based on ta…",
+          "link": "https://www.d365snippets.com/2022/10/how-to-create-lookup-in-d365fo-using-x-code-2022-update.html",
+          "publishedOn": "2022-10-17T19:37:00.016Z",
+          "wordCount": 9403,
+          "title": "How to create lookup in D365FO using X++",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9FVd2A_7QG-vuTCzXW-JU4T_svThIkLUJlmYWSVAaARqQLas2XnVcnqFk77Qj1ogEFEuG-Y6F6bGdaXkxlqrF1xTqWjxy5zyAgSjejokPMuS78fk5Cum1S9850KF-ae64wwGYDW3CqLFHN0QlcFpLVazrOy_zES890A6XMMtagaG5raIt2XhnkdFU/s16000/Screenshot_1.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/10/auto-lookup-using-edt-with-table-reference-in-d365-fo.html",
+          "author": null,
+          "description": "How to create a lookup in D365FO using X++?\n\nLookups are the standard way to display a list of possible selection values to the user. For a user, while editing or creating database records, a lookup makes the data entry easy and errorless. In Microsoft dynamics 365 finance and operations, there are many ways of creating lookups.\nEDT and Table Relation Type lookups are the simplest forms of lookups in Microsoft dynamics 365 finance and operations.\nIn this article, I will describe the very simplest type of lookup, which is EDT lookup, for making an EDT type lookup, a developer does not need to worry more about writing x++ coding, \n   \nNormally, standard lookups are created automatically by the system in Dynamics 365 for Finance and Operations and are based on the extended data types and tabl…",
+          "link": "https://www.d365snippets.com/2022/10/auto-lookup-using-edt-with-table-reference-in-d365-fo.html",
+          "publishedOn": "2022-10-14T19:09:00.012Z",
+          "wordCount": 9041,
+          "title": "How to Create Auto Lookup Using EDT with Table Reference in D365 F&O",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcPRFLvuzPtqWC5wrtIWHo13QZPB-WWsmYb9aEavx9SjLRv2dcfc8fEmbVgk1Pbb39hiylCvHBlaX2OAvtb0i8kn_kB-XDA2OHji_31K_0OBD9d3-d50GDPSIq2miApPbtcdJ-qhTZVHoNt78zfbUyMMJk_5DtwIZRl9Eyy-QM0_K21rU8t_iqoTwJ/s16000/Screenshot_5.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/10/understanding-layers-in-dynamics-365-finance-and-operations-online-training-course-part-4.html",
+          "author": null,
+          "description": "In Microsoft Dynamics 365 Finance and Operations, the layer system is used to manage application components in a predefined order. USR layer is the highest layer and SYS is the lowest layer. The purpose of layers is to give developers the option to modify Microsoft's code but only in one of the layers that the developer has access to.\n\n\n\nThe following table shows all layers and associated usage:\n\n\nUSR - The user layer is for user modifications, such as reports. \nCUS - The customer layer is for modifications that are specific to a company. \nVAR - Value Added Resellers (VAR) can make modifications or new developments to the VAR layer as specified by the customers or as a strategy for creating an industry-specific solution. \nISV - When an Independent Software Vendor (ISV) creates its own solution, its modifications are saved in the ISV layer. \nSLN - The solution layer is used by distributors to implement vertical partner solutions. \nFPK - The FPK layer is an application object patch layer reserved by Microsoft for future patching or other updates.\nGLS - When the application is modified to match country or region-specific legal demands, these modifications are saved in the GLS layer.\nSYS - The standard application is implemented at the lowest level, the SYS layer. The application objects in the standard application can never be deleted.\n\n\nThe bottom layer would be the SYS layer, which is where the standard application code resides and is accessible only to Microsoft. Other layers like ISV (Independent Software Vendor) and VAR (Value Added Reseller) can be accessed by providing keys provided by Microsoft for each layer except USR (User) who does not need a key.",
+          "link": "https://www.d365snippets.com/2022/10/understanding-layers-in-dynamics-365-finance-and-operations-online-training-course-part-4.html",
+          "publishedOn": "2022-10-03T09:05:00.006Z",
+          "wordCount": 8754,
+          "title": "Understanding Layers in Dynamics 365 Finance and Operations - Online Training Course Part 4",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghQ6kAmM1QrTZ_-fx5_wvPS6WA9AdPWJGajNTjV1CjrAleAp5XHJvn58XQLMLsHQLQlxJ5fi7Q6FdVRFJacC-AkIsD2mZcGliWLNqgp7qdW3OA32stN76x0vmSWN7MjLHSStP4ykeXNpydiKtyMG3OVvYGtcsI2r36ltQui64ABHoafqXxqt00pVUj/s16000/Understanding%20Layers%20in%20Dynamics%20365%20Finance%20and%20Operations.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/10/three-tier-architecture-in-dynamics-365-finance-and-operations-online-training-course-part-3.html",
+          "author": null,
+          "description": "From the client environment (normally a Browser) request is sent to the AOS server. AOS server stands for Application Object Server will process this request. So, all requests and responses are processed from the AOS environment. If required, this AOS is communicated with the Database server, and finally processed response is sent back to the client. This is the normal Three tier architecture followed by D365.",
+          "link": "https://www.d365snippets.com/2022/10/three-tier-architecture-in-dynamics-365-finance-and-operations-online-training-course-part-3.html",
+          "publishedOn": "2022-10-02T13:58:00.006Z",
+          "wordCount": 8561,
+          "title": "Three Tier Architecture in Dynamics 365 Finance and Operations - Online Training Course Part 3",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFxymn02J8JgXvUzhfdglva2IA6l9iQR6mScFBWfCaAdASbBpbLpMytiV8zlT0DlpvZub1amIBKAeB9tDTvMBpoLKD_s_airF5xz90bNiqk6Vqq1I2kFu90XGWUMoJj5uRdBtLGL6FNIH9uNm6VTqDA7Vs9o_vNUQNHMCJ48ykEQmhyQDl_FLxyWph/s16000/Three%20Tier%20Architecture%20in%20Dynamics%20365%20Finance%20and%20Operations.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/10/what-is-microsoft-dynamics-365-finance-and-operations-online-training-course-part1.html",
+          "author": null,
+          "description": "All the articles written here are mainly targeted at beginners. If you are a beginner or planning your career with dynamics 365 finance and operations, these articles are for you.\n In the coming sessions, we must practice more to get a clear picture of the concepts. So, we need to configure the technical and functional environments, \n If you are a beginner don't worry about the technical and functional environments, all the practical sessions we covered through this training sessions are by using Microsoft's free Lab. There you can set up an online Virtual Machine for D365 F&O for Technical and Functional learning purposes Freely. Microsoft provides a VM Mode for a free, web-based virtual machine environment for D365 F&O Learners. \n Read this Article: How to Set Up a Free Virtual Machine f…",
+          "link": "https://www.d365snippets.com/2022/10/what-is-microsoft-dynamics-365-finance-and-operations-online-training-course-part1.html",
+          "publishedOn": "2022-10-02T13:43:00.006Z",
+          "wordCount": 9004,
+          "title": "What is Microsoft Dynamics 365 Finance and Operations? - Online Training Course Part1",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqiN7tqr4NwcFO8H9DHm9FNnJ7W761qfyCJjwsDN9lJMllI0kwveIk9VCsMaocR2i5H1zfDtuUhVxAaStEtelkL1UsNnW09PmGs2ScgQvkeUFHdTyrQIdHjGRGkJJXhE5Iq7xCDa8dL5gM7NeSD6jR9khaWKCgOBQcAyh7hqWCcpEzTOZ_EPtJ86zm/s16000/microsoft%20dynamics%20365%20finance%20and%20operations%20free%20online%20course.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/10/development-system-requirements-for-microsoft-dynamics-365-finance-and-operations-online-training-course-part2.html",
+          "author": null,
+          "description": "It can be hosted locally or can use the Microsoft cloud platform, Microsoft Azure. A minimum of 16 GB of RAM and 2 CPU Cores are required, more RAM and CPU cores increase the speed of compilation. This is the basic requirement for running a Dynamics 365 application.\n\n\n\nDevelopment environments can be hosted locally or on Microsoft Azure. The build process, X++ compilation, and generation of cross-reference information typically run satisfactorily on machines with 16 GB of memory and two CPU cores. The compiler uses available resources, so more RAM and more cores will speed up compilation, especially if there is contention for resources from other concurrent processes. If you run concurrent processes, we recommend 24 GB of memory with four cores. A minimum of two CPU cores is recommended because the developer environment contains many components running simultaneously. Components include AOS Web Application, Visual Studio, Management Reporter, and SQL Server.",
+          "link": "https://www.d365snippets.com/2022/10/development-system-requirements-for-microsoft-dynamics-365-finance-and-operations-online-training-course-part2.html",
+          "publishedOn": "2022-10-02T13:42:00.002Z",
+          "wordCount": 8653,
+          "title": "Development system requirements for Microsoft Dynamics 365 Finance and Operations? - Online Training Course Part2",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0QNxY8oPfuy-j1HakN52aJNQjm2NsqrmoTJjUPvgTKXqxSz098jyEmJnGevrzQjb9D06H3xd52gb8Zqad9RpsyFiVXEQt-l8BTtaRJBN9VD6pEPmL47Np5OgIQ1z1N19vyhTiaFv4ibfpmgtv9oW0nBKa4e5fP0dnnViNSdy7mXtjNucQMYKYnGnz/s16000/Development%20system%20requirements%20for%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/09/how-to-create-a-calculator-in-d365-fo-x-programming.html",
+          "author": null,
+          "description": "Building a calculator is a great project, especially if you have just started learning Dynamics 365 Finance and Operations Technical. It is quite simple for people of any skill level. This project covers the interactions between UI Design and Programming Functionality.\nTo get started, you need to consider the basic functionalities of a calculator. They include addition, subtraction, multiplication, division, delete, all-clear, and of course, the ability to use decimal numbers in performing these operations. But here we simply describe the basic four operations addition, subtraction, multiplication, and division.\nIf you are a beginner use Microsoft's free VM, where you can access both the Technical and Functional environments.\n\n\nIn the previous article, I already explained the UI Design pro…",
+          "link": "https://www.d365snippets.com/2022/09/how-to-create-a-calculator-in-d365-fo-x-programming.html",
+          "publishedOn": "2022-09-06T20:17:00.009Z",
+          "wordCount": 8965,
+          "title": "How To Create a Calculator in D365 F&O - Part 2  ( Adding  X++ Programming Functionality )",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinIgowK6Zn2zmGgdHFGU4NY2Ei5UeEz-ppliLxsygsX8-6uRB4eK1H0uKLH_Pu8G6kccblyGPc4f7MoFUVkVObBeNsRDl46ktvF3zx8cAElTHdZrQnnr7lNUxu9LPcqyrDJI9AIKlIJrc-JVn35aQrcpxMXsvVnYfOpp-0X_aLFx_Mxh9ENYBi_5dD/s16000/x++%20coding.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/09/how-to-create-a-calculator-in-d365-fo-ui-design.html",
+          "author": null,
+          "description": "Building a calculator is a great project, especially if you have just started learning Dynamics 365 Finance and Operations Technical. It is quite simple for people of any skill level. This project covers the interactions between UI Design and Programming Functionality.\n\nTo get started, you need to consider the basic functionalities of a calculator. They include addition, subtraction, multiplication, division, delete, all-clear, and of course, the ability to use decimal numbers in performing these operations. But here we simply describe the basic four operations addition, subtraction, multiplication, and division.\n\nIn this article, I will explain only the UI Design process. In the next article, I will explain to you how to add Programming Functionality for functioning the basic functionalit…",
+          "link": "https://www.d365snippets.com/2022/09/how-to-create-a-calculator-in-d365-fo-ui-design.html",
+          "publishedOn": "2022-09-04T20:23:00.023Z",
+          "wordCount": 9322,
+          "title": "How To Create a Calculator in D365 F&O - Part 1  UI Design",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQEzqH4TlLiTIwUrki1jHNA7HtPrg0QWqkTDhIFjtqveAroUt1NocXHaWyesUj1jfYMJxHVr81eGp3UYtW_gL_SzBEzZ3e_wS2CWfU1vEJetVww5tZYIZejjqFNi4VcHJkowsUB6frBkFWaD2nJEHM2PVFZUPkThwZpbENe4EVY3M6MjcUojEpTk5O/w640-h359/How%20To%20Create%20a%20Calculator%20in%20D365%20F&O%20-%20Part%201%20%20UI%20Design.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/08/how-to-add-a-field-in-a-table-and-add-it-into-a-form-data-source-and-form-in-dynamics-365-fo.html",
+          "author": null,
+          "description": "I think this is one of the best articles which is very useful for beginners to understand the basic concept of customization in dynamics 365 FO. Here I am showing you how to add a field in a table and add this field into a form data source and form.\nFrom a beginner's perspective, adding a field to a table and reflecting on this newly created field at a form level will be good for their practices.\nSo let us start the topic, for easy understanding, I am taking the customer table CustTable and Customer Form CustTable, adding one remark filed in the Customer table, and adding this newly created table field into the form data source and form itself.\n\n\nIn the previous articles, I showed How to add a new field to an existing table in dynamics 365 finance and operations. This article is the contin…",
+          "link": "https://www.d365snippets.com/2022/08/how-to-add-a-field-in-a-table-and-add-it-into-a-form-data-source-and-form-in-dynamics-365-fo.html",
+          "publishedOn": "2022-08-02T18:56:00.012Z",
+          "wordCount": 9035,
+          "title": "How to add a field in a table and add it into a form data source and form in Dynamics 365 FO?",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOTohtVogI426GvcSvDxxuJmzVWk2SR2uj_g3bX7asV4DfyVWWeP00WKcXwyV8NrnezfTDsawe9QIYlZnRuqGlNlw4ADT9zFAHjLuJFcY0TKzA6oFm3KHv5If4UR--kN4VOB4Pt6qJf1LhZAb9OI9lsOH_H-y8B3ucLrl6VotGuTKyEzYxkS6QAynZ/s16000/How%20to%20add%20a%20field%20in%20a%20table%20and%20add%20it%20into%20a%20form%20data%20source%20and%20form%20in%20Dynamics%20365%20FO.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/07/best-books-for-d365-fo-developers-and-cechnical-consultants.html",
+          "author": null,
+          "description": "If you are a Dynamics 365 or AX developer primarily focused on delivering time-proven applications, then the books are for you. This book is also ideal for people who want to raise their programming skills above the beginner level, and, at the same time, learn the functional aspects of Dynamics 365 for Financial and Operations. Some X++ coding experience is expected.\nIf you are a beginner and looking for a career in Dynamics 365 FO, you must read these books. In my experience with D365 F&O learning, I have read many D365 F&O books for developers and consultants. I think that reading a book sometimes it’s better to have a good understanding of how to do things in the best way and not just solve the problem. \nIn this article, I will sort my Top 5 D365 F&O books based on my experience. If you…",
+          "link": "https://www.d365snippets.com/2022/07/best-books-for-d365-fo-developers-and-cechnical-consultants.html",
+          "publishedOn": "2022-07-20T20:33:00.037Z",
+          "wordCount": 10002,
+          "title": "Best books for D365 F&O Developers and Technical Consultants",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWpYvvkaqZoG5RBNJogzs5cpWsgiM-NN9JDHMoIPgaZgZHPob3tC7jx9yCSNAen9he_y0m6AnWbXxtxxlbvJSpjTJMsmlmzT4pN2zPHMzmEPZc8uazn0ZZn_e3HWUr2DQyLZ5NyDjEI-QxbiZZMxAJbMVLpwR2OD4mZ3EJdIYhJ7lXQkv6sVLrYEW7/s16000/book1.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/07/how-to-add-a-new-field-to-an-existing-tabel-in-dynamics-365-finance-and-operations.html",
+          "author": null,
+          "description": "In the previous article, we already discussed The model management in dynamics 365 F&O. In this article I will show how to add a new field to an existing table in dynamics 365 finance and operations. In most dynamics 365 finance and operations development, this is a common scenario.\nHow do achieve this task? is it possible to change the structure of existing base tables in dynamics 365? Yes,  In dynamics 365 this task is achieved by using the extension method.\nAn extension is a way to add functionality to an existing object in D365FO without modifying the base code of that object. Your extensions are compiled into their own DLLs, which are separate from the D365 base system libraries. \n\n\nIt also makes it easier for Microsoft to patch their SYS layer code. Microsoft has added to allow custo…",
+          "link": "https://www.d365snippets.com/2022/07/how-to-add-a-new-field-to-an-existing-tabel-in-dynamics-365-finance-and-operations.html",
+          "publishedOn": "2022-07-16T12:59:00.020Z",
+          "wordCount": 9186,
+          "title": "How to Add a New Field to An Existing Tabel in Dynamics 365 Finance and Operations",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlx-21leVmkOIb1uGZuiQ-LkrssWvhPGGbdCBJjYFPM3aC_9GfKQ-pmc02vOa4SCdCpFvZiDrPouRvFcTveT3OSGC01mNG6HZnrF8FYJMgV17UGSvQqCKuIi_YX6OE1xVEKwk80lctpC31LqP9YWOQlv-i7oW3hYOUtCr5onVgYN_eNf58PL0fw1EH/s16000/how-to-add-a-new-field-to-an-existing-tabel-in-dynamics-365-finance-and-operations.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/07/what-is-model-indfo-2022-with-example.html",
+          "author": null,
+          "description": "In previous articles, we already discussed and created different models which are mandatorily required for customization. In this article, I am going to explain what a model is and why models are used in d365 projects.\nAs we know, the complete D365 Finance and Operation developments are based on these four terminologies Package, Model, Project, and Element. So as a developer you need to know processes how to create a model, how to update a model, and how to delete a model.\nHere’s a table of contents to help you find your way around:\n  \n  \nTable of contents\n\n\nWhat is a Model in D365?\nWhere is Model Data Stored in D365?\nCreating a model in D365.\nUpdate a model in D365.\nDeleting a model in D365.\n\n   \n  \n\n\n\nWhat is a Model in D365?\n \nA model is a design-time concept. A particular model can con…",
+          "link": "https://www.d365snippets.com/2022/07/what-is-model-indfo-2022-with-example.html",
+          "publishedOn": "2022-07-08T16:41:00.028Z",
+          "wordCount": 9482,
+          "title": "What is Model in D365FO With Examples",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXC9nuufFNLz5U51o0Ov22m8EGEqI0syEG3b-ORSWdPMDieee_gTjcXHuXGArgijHkb2IGEjQPGG-Ms3mpPLX77Cw_9UZszuh5hkXYIRBsEz63l7YgXFocke8mFxae52BKehh386XJGl7xsHMRGvIphKySj9ZlccBStWb689vwojKQM-dJgOP0RJB8/s16000/what-is-model-indfo-2022-with-example.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/07/what-is-scm-what-is-supply-chain-management.html",
+          "author": null,
+          "description": "Supply Chain Management is defined as the process of managing the production and distributional flow to ensure flawless delivery and distribution of its products. It is one of the most important business activities to increase profits and customer satisfaction. \nSCM deals with the management of all the processes which are involved from creating raw material to delivering the final product to the consumer. In this article, we have discussed the objectives of supply chain management with a complete illustration and examples. We made it very simple for you to understand SCM objectives.\n\n\nSupply Chain analytics provide the manager a flow chart where they can analyze each and every step of product distribution and point out the problems in the system. For instance, in case of a big order, the m…",
+          "link": "https://www.d365snippets.com/2022/07/what-is-scm-what-is-supply-chain-management.html",
+          "publishedOn": "2022-07-03T18:19:00.056Z",
+          "wordCount": 10151,
+          "title": "Supply Chain Mangement (SCM) - Basic Concepts",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkckrGZLF2pVTQHDCblsqDO-iyJROuApVPN9hKUMTWPrdf-6CRwNPiV1CfPKqBowHBr4N9mknY-uhVdPMBKgthMuJcVdoh4zO5i_jrtORYFE8vRAXCfDsHoI-lRjd19s8gTHkDEV4HnjO4-41MmQ8NSHxCAHSdui_zdNtZZBYQ7c4_yxLCcd6LIROQ/s16000/what-is-scm-what-is-supply-chain-management.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/06/what-is-container-in-dynamics-365-finance-and-operations.html",
+          "author": null,
+          "description": "In the previous article i explained How to create a dialog in Dynamics 365 Finance and Operations. In this article \"we learn what is a Container in Dynamics 365 Finance and Operations with a nice example\". As we know in X++, data types are divided into primitive data types and composite data types. Examples for primitive data types are int, str, real …. etc and examples for composite data types Arrays, Containers, Collection Classes.\nWhat is a container in X++ ?\nA container is a “composite data type”, which contains an ordered sequence of values (primitive dataTypes – int, str, real, date, boolean, enum etc.) or other containers or/and some composite data types. A container can be stored in the database as a dataBase coloumn created through AOT especially used to store images/files as a bl…",
+          "link": "https://www.d365snippets.com/2022/06/what-is-container-in-dynamics-365-finance-and-operations.html",
+          "publishedOn": "2022-06-16T18:58:00.043Z",
+          "wordCount": 9234,
+          "title": "What is a Container in Dynamics 365 Finance and Operations?",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglcqBoR18CHkLLNHIngoCxPNbm4bgRBstOMpqQhjelCstxFhal5WlAtLz7cHMK-OJ3y5eO5-40HVpMYiMrTsRYxFF8kYlrRug7pENmI-enY0WxafetJZG9UhZBeMLrjzSdVZ2pSyfZqcwyG7ZuSE0vuV7ZMRfgNLk833KOxbnzoSK-MRMCeLOqSG-G/s16000/Container%20in%20Dynamics%20365%20Finance%20and%20Operations.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/06/how-to-create-a-dialog-in-dynamics-365-finance-and-operations-2022.html",
+          "author": null,
+          "description": "In Microsoft Dynamics 365 Finance and Operations, a Dialog is a simple form with a standardized layout, which is created by using the Dialog system class. Dialogs are commonly used for small user tasks, such as filling the input values for generating a report, and presenting only the most important fields to the user when creating a new record etc. Since dialogues are used for small tasks, which is not commonly used for making complex forms, It also should not open a secondary window that requires user interaction. All user interaction should be carried out within the dialog.\nIf you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft'f Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development.\nIn Microsoft Dynmaics 365 Finan…",
+          "link": "https://www.d365snippets.com/2022/06/how-to-create-a-dialog-in-dynamics-365-finance-and-operations-2022.html",
+          "publishedOn": "2022-06-08T19:47:00.011Z",
+          "wordCount": 9525,
+          "title": "How to create a dialog in Dynamics 365 Finance and Operations.",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit-lJiDHKHN5zN4Sq4KLJrbjXRSecIAaYtGTsfe7G2NFPWimkjH5TSlS8u_eH5nNH-oO6oco-Itmc3aELH0BZA1JhXFhWvk3JM8PyHvYbfYGeNfUH3gYYGyXlKUyhCNyMKRMEwMiC9Grqn19NKvFQAXF7edt2cLS7Or5A0ff4RU7yS6fgxQ4Zqp-7g/s16000/How%20to%20create%20a%20dialog%20in%20Dynamics%20365%20Finance%20and%20Operations.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/05/how-to-use-normal-table-as-temp-table-in-dynamics-365-finance-and-operations.html",
+          "author": null,
+          "description": "Microsoft D365 operates with normal databse tables and temporary table based on the requirement in a project, Regular tables are normal standard physical tables in SQL server database. Where as InMemory tables are temporary tables which are held in the memory and written to local disc after reaching a certain limit of the system especially in Application Object Server (AOS).\nIf you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft'f Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\n\n\n\nWhy we Use Normal Table as Temp Table in Dynamics 365 Finance and Operations ?\nBasically, Standared Dynamics 365 Finance and Operation projects contains many temporary table and regular tables.Imagine a scenario that you have to creat…",
+          "link": "https://www.d365snippets.com/2022/05/how-to-use-normal-table-as-temp-table-in-dynamics-365-finance-and-operations.html",
+          "publishedOn": "2022-05-24T20:10:00.018Z",
+          "wordCount": 9010,
+          "title": "How to Use Normal Table as Temp Table in Dynamics 365 Finance and Operations",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXPTHUMB6aonhft-cM50Aou-Zk89k7mOc7s4-LaMEUtJpWlgDvojOymnGuZU_8rwDLkevhTcxJSWZD6YaD5epQ3kgDrRZZIhYeDsGZcyrRzdCASB0L_qpA7BR_b48P16687MC6KC0_Ir3j4l5FzkHPICIpVrYTOhtvgvWOdzHk--6t4ouIMwd1sKNf/s16000/How%20to%20Use%20Normal%20Table%20as%20Temp%20Table%20in%20Dynamics%20365%20Finance%20and%20Operations.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/05/what-is-erp-and-how-does-it-works.html",
+          "author": null,
+          "description": "ERP stands for \"Enterprise Resource Planning\". It's a software application that helps perform various business-critical functions on-the-go. From gathering, storing, and analyzing information to managing finance, human resources, manufacturing, supply chain, customer relationship management, etc. it does everything. Enterprise resource planning software employs process re-engineering concepts to implement the best standards and practices in the business. This helps increase revenue, improves employee efficiency, and controls costs.\nIf you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft'f Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\n\n\nERP was coined in 1990 which managing the core of business including functi…",
+          "link": "https://www.d365snippets.com/2022/05/what-is-erp-and-how-does-it-works.html",
+          "publishedOn": "2022-05-20T17:49:00.013Z",
+          "wordCount": 9849,
+          "title": "What is ERP and how does it work?",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjgkAYKzS3dH7kuzA09i9AOaTIYNbPilc1QcTb0IpshwqUO8yREVWbtfp7znkKftI8uFSBectXYGFSI4QMyBFP4icR5S0y62C-49MWwfW8cp90zDav3p8ul-AZcggoFuFgncNIa3EBdd0mIcL8XtkTQGCaXkU17N4Xyfbt-GxxkV2bp83gRGo7LKfa/s16000/what%20is%20erp%20and%20how%20does%20it%20work.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/02/importing-data-from-an-xml-file-in-dynamics-365-with-example.html",
+          "author": null,
+          "description": "As we already discussed the topic in the previous post How to Import Records from Excel Using X++ Code in D365FO. In this article, I would like to show  \"How to import data from an XML file or Read data from an XML file using x++ code in Microsoft Dynamics 365\".\nIf you are a beginner or learner, you don’t have a dynamic 365 developing or functional environment, you can use Microsoft free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\nWhat is XML File?\nAn XML file is an extensible markup language file, and it is used to structure data for storage and transport. In an XML file, there are both tags and text. The tags provide the structure to the data. The text in the file that you wish to store is surrounded by these tags, which adhere to specific syn…",
+          "link": "https://www.d365snippets.com/2022/02/importing-data-from-an-xml-file-in-dynamics-365-with-example.html",
+          "publishedOn": "2022-02-26T15:13:00.037Z",
+          "wordCount": 9113,
+          "title": "Importing Data from An XML File in Dynamics 365 with Example.",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi9Z7_-FqvNxZhzqY7cI7zz6Z7KcXZIJnR8sA-HEPGJD2gWAhV8FhADSX6Y56rcWB3AqdHtOAb2duchcsdw4cqimcNUAvti8CT7wxm6IC9VLWaDmwfJ9CV55jZlozkQiE1qNNLY5n_ASiwUNiYxX89K-Q1dsg5VmyWZnMCyZM2XwR_EvXyU3WH8U9eJ=s16000"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/02/how-to-create-number-sequence-in-microsoft-dynamics-365-for-finance-and-operations.html",
+          "author": null,
+          "description": "In this article we can discuss “How to Create Number Sequence in Microsoft Dynamics 365 for Finance and Operations by Number Sequence form.If you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft'f Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\n\n In Microsoft Dynamics 365 Number sequences are used generate readable, unique identifiers for master data records and transaction records for record identification. Generally, Number sequences are specially formatted numbers which used to refer a master record or transaction record in any ERP Systems. A master data (for example: Vendor Master, Customer Master, Products Master etc…) or transaction data (for example:  Supplier Order, Payment Voucher, Journal Entry etc…) r…",
+          "link": "https://www.d365snippets.com/2022/02/how-to-create-number-sequence-in-microsoft-dynamics-365-for-finance-and-operations.html",
+          "publishedOn": "2022-02-05T15:49:00.023Z",
+          "wordCount": 9841,
+          "title": "How to Create Number Sequence in Microsoft Dynamics 365 for Finance and Operations",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhe9YTKHZLm0gINAS94MzMKY_SWjV5i9vijrp_k9VWGrhU3VKcpfBMO5mWOXeO5-jysrdO_TSvjsHidP_VmKSqjGsQ-Njrj0p6bKETHGsLvxfXxoQNvMLwJgf3xuBjeq2WeEHdEJQLPJsM1v8SDex2ZWl0W3H4NkgPHJDydsfW0Y_yCjAexsgaQFggs=w400-h333"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/01/what-is-macro-in-d365-how-to-execute-macro-in-sql-statement-in-d365.html",
+          "author": null,
+          "description": "In this article I will show you how to execute a macro in SQL statements in D365FO or How to process data using a macro in a SQL statement in D365FO, before going to the depth of the topic we have to learn the basic concept of macros in Microsoft dynamics 365 finance and operations.\nIf you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft's Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\n\nWhat is Macro?\nIn a standard D365 FO application, there are macros that are reused many times across the application. By Using the macros approach, we can save development time by allowing you to reuse the piece of X++ SQL statements. These macros are actually full or partial X++ SQL queries that can be called with various argum…",
+          "link": "https://www.d365snippets.com/2022/01/what-is-macro-in-d365-how-to-execute-macro-in-sql-statement-in-d365.html",
+          "publishedOn": "2022-01-20T12:49:00.023Z",
+          "wordCount": 9259,
+          "title": "What is Macro in D365 ? How to Execute Macro in SQL Statement in D365FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh82QNuVPa3ie2duKPftnNYVMF63nIReK0WiwFXQIja4lxj9BhccfNcdtm0ke1aplb2sivWuTWfKytV55A7Xbch8Er5XpexU-01tth5thT5jDyvdClyn73HOzZ9a_rmORl0C38aV5LbjwwyPOTnzq48rNSkw524WFz_GgLOkXEwDtdqrLux9_4eYQer/s16000/what-is-macro-in-d365-how-to-execute-macro-in-sql-statement-in-d365.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/01/event-han.html",
+          "author": null,
+          "description": "In dynamics AX 2012, customization on tables, forms, and classes was done by simply overriding methods on them, But In Dynamics 365 for Operations, the preferred mechanism for customizations to existing objects is to use event handlers to react to various events rather than overriding methods on tables, forms, and classes.\nIf you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft's Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\n\nFor example, to change what happens when a button is clicked in AX 2012 you override the clicked method and put code either before or after the super() call. In Dynamics 365 for Operations, you can react to the OnClicked event by copying the event handler method for the event and pasting …",
+          "link": "https://www.d365snippets.com/2022/01/event-han.html",
+          "publishedOn": "2022-01-13T11:58:00.060Z",
+          "wordCount": 9239,
+          "title": "Event Handlers in D365 with Example",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgQnaaidbWjWMm9ZZVHm9p2TqmZPWEDr9-tXKvLg_Cl4jZHMf1aiEPW3U8EPn8kVbCxzuEF6XELaiW7NRuvbIAgspwLodTaC9hGb5K9TnTfQqZeFKaNYtbcK4q22bq4Ecszy_r9y0UcjqapU7In8fJr-_G6UItAgIcvW7V52KMnXhSm0uH4Tmkpi7kB=s16000"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/01/how-to-get-current-logged-user-information-using-xpp-in-d365fo.html",
+          "author": null,
+          "description": "Suppose you have a small requirement where you have to pick and display current log in user informations like name , department , position etc.The code below will help out in fetching current user Information in AX 7 or D365 FO. Here i fetching the basic details of logged user including User Id, Person Name and working position. In dynamics 365 fo user details and associated personal information are keeping in difference tables. But by using the below x++ codes , you can easily fetch the details.\nIf you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft'f Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\n\n\nFor this you create a runnable class then copy and paste below codes to the main method. \n\n\n\nclass RunnableUser…",
+          "link": "https://www.d365snippets.com/2022/01/how-to-get-current-logged-user-information-using-xpp-in-d365fo.html",
+          "publishedOn": "2022-01-11T10:37:00.038Z",
+          "wordCount": 8751,
+          "title": "How to get current logged user information using x++ code in D365fo",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhG_EDashldnpbY1PTLd7_6qkfQgCm5YfViWqVsR7wpkXDNbwIYSnV3q3gjgNQNviaYnqouEf9Fjtmm2Px2iE1Bj9AepUULHlJL6xDmhImZIdgwugYxNzLNbH01uWYvJ98zdKGbqxEkMIlJxqBJqUspfapnMiUCXoSBVWzlSKZ7wOR26LRUnRezG7z2=w400-h225"
+        },
+        {
+          "id": "https://www.d365snippets.com/2022/01/how-to-open-external-url-in-d365-using-xpp-code.html",
+          "author": null,
+          "description": "In this article i write a small tip \"how to open external URL in D365 using x++ code?\". If you want to navigate the user’s browser to a different URL programmatically (and not by providing a link they can click) this can be done very easily by using the new class Browser.With the new version Dynamics AX or D365 there are new APIs that are needed because of the technological changes.\n\n\nThe Browser class only has one single method, navigate, which has three parameters (of which only the first is mandatory): \n     - URL (string)\n     - Prompt (boolean)\n     - Open in new tab (boolean) \n\nIn Visual Studio Create One Runnable Class, In the main method write the below code .\n\n\nclass ExternalURL\n{        \n    \n    /// The specified arguments.\n    public static void main(Args _args)\n    {\n        Browser browser = new Browser();\n        browser.navigate('http://d365snippets.com', true, false);\n    }\n}\n\nsimple example using a runnable class could look like this . If you run it, it’ll open a new tab with the starting page of this blog.For best practice you create a action menu set its object type to class and set object with runnable class name. Add this menu item to required menu extension. Save compile On clicking menu item from navigation.A popup windows open,if your browser pop window is blocked, Allow popup option.If this code helps you please share to others. \nHappy coding with D365 Snippets",
+          "link": "https://www.d365snippets.com/2022/01/how-to-open-external-url-in-d365-using-xpp-code.html",
+          "publishedOn": "2022-01-10T08:36:00.033Z",
+          "wordCount": 8660,
+          "title": "How to Open External URL in D365 Using X++ Code",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhmYsL4Utd1Mj6tM2N3qkWmQKXERPDUzRGc-9ICcqgM8lzMYYO31RQZd68ErXsoX0Lo9LiC-Sm8awL02p11gT-wXTuU4LJjFlhWTdw_JP_-FetouDBkEGB99Z9HTnGb06pNbxklEOt3_AZrVwk0JDDOBC9gt6l49vCs8GpOmNoZXDP9QdMT6e0WFTyj=w400-h160"
+        }
+      ]
+    },
+    {
       "title": "Microsoft Cloud Solutions - Tools & Tutorials",
       "feedUrl": "http://feeds.feedburner.com/KashperukIvan/",
       "siteUrl": "http://kashperuk.blogspot.com/",
@@ -3893,6 +4150,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=18408",
+          "author": "André Arnaud de Calavon",
+          "description": "In the past, I already wrote a blog for awareness about the session date in Microsoft Dynamics. When you read this blog, you will learn about the purpose, but also that there are two options to change the session date in the standard application. However this is a great and helpful feature, some organizations might […]\nThe post Security how-to: Disable change of session date for users appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2022/11/security-how-to-disable-change-of-session-date-for-users/",
+          "publishedOn": "2022-11-18T12:03:28.000Z",
+          "wordCount": 3707,
+          "title": "Security how-to: Disable change of session date for users",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2022/11/SecuritySessionDate.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=18393",
           "author": "André Arnaud de Calavon",
@@ -5881,6 +6148,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/msdynamics365-empowered-community/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/msdynamics365-empowered-community",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d4174505-60ad-436d-b621-eda5835b236e",
+          "author": "Ramit Paul",
+          "description": "Dear Microsoft BizApps Community,\nWelcome to my next blog on TAX Engine Extension for GST INDIA, this blog is a must-be read and is very important, and useful for a consultant, who works for INDIA GST localization.\nINDIA GST localization has a very r...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/msdynamics365-empowered-community/posts/tax-engine-extension-for-gst-india-with-no-code",
+          "publishedOn": "2022-11-18T06:17:20.000Z",
+          "wordCount": 4209,
+          "title": "TAX Engine Extension for GST INDIA with NO CODE",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:001d5dfd-7b50-46a3-add1-1da517cff4d6",
           "author": "Ramit Paul",
