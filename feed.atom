@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-19T01:44:44.109Z</updated>
+    <updated>2022-11-20T01:50:56.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Safety level of invoiced orders [Purchase order] in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2256</id>
+        <link href="https://exploredynamics365.home.blog/2022/11/19/safety-level-of-invoiced-orders-purchase-order-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2022-11-19T14:08:48.000Z</updated>
+        <summary type="html"><![CDATA[In this blog we are going to see how we control addition of lines for our Invoiced purchase orders. Specify whether to allow changes to a fully invoiced purchase order. None – You can add new order lines to an invoiced purchase order. Warning – you can add new order lines to an invoiced purchase […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safety level of invoiced orders [Purchase order] in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2256</id>
+        <link href="https://exploredynamics365.home.blog/2022/11/19/safety-level-of-invoiced-orders-purchase-order-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2022-11-19T14:08:48.000Z</updated>
+        <summary type="html"><![CDATA[In this blog we are going to see how we control addition of lines for our Invoiced purchase orders. Specify whether to allow changes to a fully invoiced purchase order. None – You can add new order lines to an invoiced purchase order. Warning – you can add new order lines to an invoiced purchase […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Security how-to: Disable change of session date for users]]></title>
         <id>https://dynamicspedia.com/?p=18408</id>

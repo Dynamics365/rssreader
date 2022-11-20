@@ -3519,6 +3519,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2256",
+          "author": "Saurabh Bharti",
+          "description": "In this blog we are going to see how we control addition of lines for our Invoiced purchase orders. Specify whether to allow changes to a fully invoiced purchase order. None – You can add new order lines to an invoiced purchase order. Warning – you can add new order lines to an invoiced purchase […]",
+          "link": "https://exploredynamics365.home.blog/2022/11/19/safety-level-of-invoiced-orders-purchase-order-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2022-11-19T14:08:48.000Z",
+          "wordCount": 2447,
+          "title": "Safety level of invoiced orders [Purchase order] in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2022/11/images-1.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2239",
           "author": "Saurabh Bharti",
           "description": "In this blog, I am going to explain about the new general ledger account statement report using electronic reporting. This is really a helpful report for extracting general ledger transactions. Note: The General ledger statement by main account report in Excel format is available in Dynamics 365 Finance as of version 10.0.27. General journal account entries on […]",
@@ -3625,6 +3635,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2256",
+          "author": "Saurabh Bharti",
+          "description": "In this blog we are going to see how we control addition of lines for our Invoiced purchase orders. Specify whether to allow changes to a fully invoiced purchase order. None – You can add new order lines to an invoiced purchase order. Warning – you can add new order lines to an invoiced purchase […]",
+          "link": "https://exploredynamics365.home.blog/2022/11/19/safety-level-of-invoiced-orders-purchase-order-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2022-11-19T14:08:48.000Z",
+          "wordCount": 2447,
+          "title": "Safety level of invoiced orders [Purchase order] in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2022/11/images-1.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2239",
           "author": "Saurabh Bharti",
