@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-20T01:50:56.724Z</updated>
+    <updated>2022-11-21T01:47:12.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #2]]></title>
+        <id>http://dynamicsax-fico.com/?p=4847</id>
+        <link href="https://dynamicsax-fico.com/2022/11/20/microsoft-bizapps-deutschland-podcast-2/"/>
+        <updated>2022-11-20T17:24:52.000Z</updated>
+        <summary type="html"><![CDATA[In the second podcast we talk to Marco Arndt about arineo as a Microsoft partner.  If you do not yet …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Safety level of invoiced orders [Purchase order] in Microsoft Dynamics 365 finance and operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2256</id>
