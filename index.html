@@ -22,6 +22,144 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-22 datetime="2022-11-22T13:17:18.000Z">2022-11-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-22 datetime="2022-11-22T13:17:18.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >henrikmarx</button>
+                  <a class="source-heading__link" href="https://henrikmarxlarsen.wordpress.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://henrikmarxlarsen.wordpress.com/?p&#x3D;2886"
+                        open
+                      >
+                        <summary class="article-expander__title">Call Data Management in Dynamics 365 Finance and Operations using OData Actions</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://henrikmarxlarsen.wordpress.com/2022/11/22/call-data-management-in-dynamics-365-finance-and-operations-using-odata-actions/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://henrikmarxlarsen.files.wordpress.com/2022/11/odata-1.png?w&#x3D;1200" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>With OData actions, it is easy to execute data jobs in Dynamics 365 Finance and Operations.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >DaxOnline</button>
+                  <a class="source-heading__link" href="http://daxonline.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="1815"
+                        open
+                      >
+                        <summary class="article-expander__title">Single financial dimension value lookup</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://daxonline.org/1815-single-financial-dimension-value-lookup.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Look up to display single financial dimension name values:
+    [FormControlEventHandler(formControlStr(AssetParameters, VKInterfacesGroup_VKFixedAssetBusinessUnitValue), FormControlEventType::Lookup)]
+    public static void VKInterfacesGroup_VKFixedAssetBusinessUnitValue_OnLookup(FormControl sender, FormControlEventArgs e)
+    {
+        #VKFinancialDimensions
+
+        FormStringControl   ctrl &#x3D; sender as FormStringControl;
+        Args                args;
+        FormRun             formRun;
+        DimensionAttribute  dimensionAttribute;
+
+        select dimensionAttribute
+            where dimensionAttribute.Name &#x3D;&#x3D; #FinancialDimensionName;
+
+        args &#x3D; new Args();
+        args.record(dimensionAttribute);
+        args.caller(sender);
+        args.name(formstr(DimensionLookup));
+        formRun &#x3D; classfactory.formRunClass(args);
+        formRun.init();
+
+        ctrl.performFormLookup(formRun);
+    }</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Dynamics 365 Blog</button>
+                  <a class="source-heading__link" href="https://cloudblogs.microsoft.com/dynamics365/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/21/collaborative-customer-support-helps-agents-resolve-issues-faster/"
+                        open
+                      >
+                        <summary class="article-expander__title">Collaborative customer support helps agents resolve issues faster</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/21/collaborative-customer-support-helps-agents-resolve-issues-faster/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/SUR21_SurfaceLaptop4_Contextual_IceBlue_29_RGB-scaled.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>With most customer support agents now working remotely, the days of getting help from a peer in the next cubicle are over. Working in isolation, agents are frustrated, issues take longer to resolve, and customers aren&#x27;t happy. But while agents are isolated, resolving a customer issue often requires input from multiple departments across the company.
+The post Collaborative customer support helps agents resolve issues faster appeared first on Microsoft Dynamics 365 Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-21 datetime="2022-11-20T17:24:52.000Z">2022-11-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-21 datetime="2022-11-20T17:24:52.000Z"></time>
           </button>
@@ -134,6 +272,41 @@ Continue reading →</span>
                               <img src="https://exploredynamics365home.files.wordpress.com/2022/11/images-1.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>In this blog we are going to see how we control addition of lines for our Invoiced purchase orders. Specify whether to allow changes to a fully invoiced purchase order. None – You can add new order lines to an invoiced purchase order. Warning – you can add new order lines to an invoiced purchase […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Dynamics 365 Blog</button>
+                  <a class="source-heading__link" href="https://cloudblogs.microsoft.com/dynamics365/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/18/discover-new-ways-to-analyze-your-customer-service-data/"
+                        open
+                      >
+                        <summary class="article-expander__title">Discover new ways to analyze your Customer Service data</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/18/discover-new-ways-to-analyze-your-customer-service-data/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/CLO22_Cafe_014-1024x683.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>To run a digital contact center effectively, supervisors need up-to-the-minute insights on all the activity between agents and customers. With new enhancements to Microsoft Dynamics 365 Customer Service, it&#x27;s easier than ever to find and customize the historical analytics you need to identify key areas for improvement.
+The post Discover new ways to analyze your Customer Service data appeared first on Microsoft Dynamics 365 Blog.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;8
                                   min&hairsp;)</span>
                             </span>
@@ -34764,60 +34937,10 @@ In this blog post, I will...
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2020-11-23 datetime="2020-11-23T08:22:59.000Z">2020-11-23</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2020-11-23 datetime="2020-11-23T08:22:59.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >A practitioner&#x27;s views on Dynamics 365 for Finance and Operations</button>
-                  <a class="source-heading__link" href="https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="f7860544-fd88-4f76-8c0c-6920dd39f354:0aa66cf6-0990-428d-ac9f-6a6ce20f9764"
-                        open
-                      >
-                        <summary class="article-expander__title">A Closer Look at How I Use AI Builder Models inside a Power Apps App</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/a-closer-look-at-how-i-use-ai-builder-models-inside-a-power-apps-app-952283432">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_&#x3D;637798982754763787" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Previously, we looked at how to create and train AI models using AI Builder in Power Apps and how it can be embedded in an app in these four blog posts:
-AP Automation using AI Builder in the Power...
-(read more)</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;14
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/3519647223">
-        <time id="build-timestamp" datetime="2022-11-22T01:48:43.671Z">2022-11-22T01:48:43.671Z</time>
+      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/3528507704">
+        <time id="build-timestamp" datetime="2022-11-23T01:36:56.454Z">2022-11-23T01:36:56.454Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

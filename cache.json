@@ -3208,6 +3208,16 @@
       "siteUrl": "http://daxonline.org/",
       "articles": [
         {
+          "id": "1815",
+          "author": "Vasiliy Kovalenko",
+          "description": "Look up to display single financial dimension name values:\n    [FormControlEventHandler(formControlStr(AssetParameters, VKInterfacesGroup_VKFixedAssetBusinessUnitValue), FormControlEventType::Lookup)]\n    public static void VKInterfacesGroup_VKFixedAssetBusinessUnitValue_OnLookup(FormControl sender, FormControlEventArgs e)\n    {\n        #VKFinancialDimensions\n\n        FormStringControl   ctrl = sender as FormStringControl;\n        Args                args;\n        FormRun             formRun;\n        DimensionAttribute  dimensionAttribute;\n\n        select dimensionAttribute\n            where dimensionAttribute.Name == #FinancialDimensionName;\n\n        args = new Args();\n        args.record(dimensionAttribute);\n        args.caller(sender);\n        args.name(formstr(DimensionLookup));\n        formRun = classfactory.formRunClass(args);\n        formRun.init();\n\n        ctrl.performFormLookup(formRun);\n    }",
+          "link": "http://daxonline.org/1815-single-financial-dimension-value-lookup.html",
+          "publishedOn": "2022-11-22T07:08:49.000Z",
+          "wordCount": 241,
+          "title": "Single financial dimension value lookup",
+          "imageUrl": null
+        },
+        {
           "id": "1812",
           "author": "Vasiliy Kovalenko",
           "description": "Copy infolog messages:\n    str getInfologMessages(int _fromLine = 1, int _toLine = infolog.num())\n    {\n        SysInfologEnumerator enumerator;\n        SysInfologMessageStruct msgStruct;\n        //Exception exception;\n        str allMessages = '';\n\n        enumerator = SysInfologEnumerator::newData(infolog.copy(_fromLine, _toLine));\n        while (enumerator.moveNext())\n        {\n            msgStruct = new SysInfologMessageStruct(enumerator.currentMessage());\n            //exception = enumerator.currentException();\n            allMessages = ((allMessages) ? \"\\n\" : '') + msgStruct.message();\n        }\n        return allMessages;\n    }\nGet all infolog data:\ninfolog.infologData();\nRe-import infolog data:\ninfolog.import(InfologDataErrorMessage);\ninfolog.clear(0);",
@@ -3314,6 +3324,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/21/collaborative-customer-support-helps-agents-resolve-issues-faster/",
+          "author": "Pulkita Dua",
+          "description": "With most customer support agents now working remotely, the days of getting help from a peer in the next cubicle are over. Working in isolation, agents are frustrated, issues take longer to resolve, and customers aren't happy. But while agents are isolated, resolving a customer issue often requires input from multiple departments across the company.\nThe post Collaborative customer support helps agents resolve issues faster appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/21/collaborative-customer-support-helps-agents-resolve-issues-faster/",
+          "publishedOn": "2022-11-21T18:03:00.000Z",
+          "wordCount": 2001,
+          "title": "Collaborative customer support helps agents resolve issues faster",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/SUR21_SurfaceLaptop4_Contextual_IceBlue_29_RGB-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/18/discover-new-ways-to-analyze-your-customer-service-data/",
+          "author": "Vikram Yerrabhaneni",
+          "description": "To run a digital contact center effectively, supervisors need up-to-the-minute insights on all the activity between agents and customers. With new enhancements to Microsoft Dynamics 365 Customer Service, it's easier than ever to find and customize the historical analytics you need to identify key areas for improvement.\nThe post Discover new ways to analyze your Customer Service data appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/18/discover-new-ways-to-analyze-your-customer-service-data/",
+          "publishedOn": "2022-11-18T18:05:00.000Z",
+          "wordCount": 2265,
+          "title": "Discover new ways to analyze your Customer Service data",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/CLO22_Cafe_014-1024x683.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/11/16/introducing-microsoft-supply-chain-platform-an-open-flexible-collaborative-and-secure-platform/",
           "author": "Ray Smith",
@@ -5674,16 +5704,6 @@
           "wordCount": 3659,
           "title": "Adding Routing Capabilities to Asset Management in Dynamics 365 Supply Chain Management",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0aa66cf6-0990-428d-ac9f-6a6ce20f9764",
-          "author": "Henrik Marx Larsen",
-          "description": "Previously, we looked at how to create and train AI models using AI Builder in Power Apps and how it can be embedded in an app in these four blog posts:\nAP Automation using AI Builder in the Power...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/a-closer-look-at-how-i-use-ai-builder-models-inside-a-power-apps-app-952283432",
-          "publishedOn": "2020-11-23T08:22:59.000Z",
-          "wordCount": 4190,
-          "title": "A Closer Look at How I Use AI Builder Models inside a Power Apps App",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -7264,6 +7284,16 @@
       "feedUrl": "https://henrikmarxlarsen.wordpress.com/feed/",
       "siteUrl": "https://henrikmarxlarsen.wordpress.com",
       "articles": [
+        {
+          "id": "http://henrikmarxlarsen.wordpress.com/?p=2886",
+          "author": "Henrik Marx Larsen",
+          "description": "With OData actions, it is easy to execute data jobs in Dynamics 365 Finance and Operations.",
+          "link": "https://henrikmarxlarsen.wordpress.com/2022/11/22/call-data-management-in-dynamics-365-finance-and-operations-using-odata-actions/",
+          "publishedOn": "2022-11-22T13:17:18.000Z",
+          "wordCount": 3801,
+          "title": "Call Data Management in Dynamics 365 Finance and Operations using OData Actions",
+          "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2022/11/odata-1.png?w=1200"
+        },
         {
           "id": "http://henrikmarxlarsen.wordpress.com/?p=2871",
           "author": "Henrik Marx Larsen",

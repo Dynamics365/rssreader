@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-22T01:48:43.736Z</updated>
+    <updated>2022-11-23T01:36:56.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Call Data Management in Dynamics 365 Finance and Operations using OData Actions]]></title>
+        <id>http://henrikmarxlarsen.wordpress.com/?p=2886</id>
+        <link href="https://henrikmarxlarsen.wordpress.com/2022/11/22/call-data-management-in-dynamics-365-finance-and-operations-using-odata-actions/"/>
+        <updated>2022-11-22T13:17:18.000Z</updated>
+        <summary type="html"><![CDATA[With OData actions, it is easy to execute data jobs in Dynamics 365 Finance and Operations.]]></summary>
+        <author>
+            <name>Henrik Marx Larsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single financial dimension value lookup]]></title>
+        <id>1815</id>
+        <link href="http://daxonline.org/1815-single-financial-dimension-value-lookup.html"/>
+        <updated>2022-11-22T07:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Look up to display single financial dimension name values:
+    [FormControlEventHandler(formControlStr(AssetParameters, VKInterfacesGroup_VKFixedAssetBusinessUnitValue), FormControlEventType::Lookup)]
+    public static void VKInterfacesGroup_VKFixedAssetBusinessUnitValue_OnLookup(FormControl sender, FormControlEventArgs e)
+    {
+        #VKFinancialDimensions
+
+        FormStringControl   ctrl = sender as FormStringControl;
+        Args                args;
+        FormRun             formRun;
+        DimensionAttribute  dimensionAttribute;
+
+        select dimensionAttribute
+            where dimensionAttribute.Name == #FinancialDimensionName;
+
+        args = new Args();
+        args.record(dimensionAttribute);
+        args.caller(sender);
+        args.name(formstr(DimensionLookup));
+        formRun = classfactory.formRunClass(args);
+        formRun.init();
+
+        ctrl.performFormLookup(formRun);
+    }]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collaborative customer support helps agents resolve issues faster]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/11/21/collaborative-customer-support-helps-agents-resolve-issues-faster/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/21/collaborative-customer-support-helps-agents-resolve-issues-faster/"/>
+        <updated>2022-11-21T18:03:00.000Z</updated>
+        <summary type="html"><![CDATA[With most customer support agents now working remotely, the days of getting help from a peer in the next cubicle are over. Working in isolation, agents are frustrated, issues take longer to resolve, and customers aren't happy. But while agents are isolated, resolving a customer issue often requires input from multiple departments across the company.
+The post Collaborative customer support helps agents resolve issues faster appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Pulkita Dua</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #2]]></title>
         <id>http://dynamicsax-fico.com/?p=4847</id>
@@ -35,6 +88,17 @@ Continue reading →]]></summary>
         <summary type="html"><![CDATA[In this blog we are going to see how we control addition of lines for our Invoiced purchase orders. Specify whether to allow changes to a fully invoiced purchase order. None – You can add new order lines to an invoiced purchase order. Warning – you can add new order lines to an invoiced purchase […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover new ways to analyze your Customer Service data]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/11/18/discover-new-ways-to-analyze-your-customer-service-data/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/18/discover-new-ways-to-analyze-your-customer-service-data/"/>
+        <updated>2022-11-18T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[To run a digital contact center effectively, supervisors need up-to-the-minute insights on all the activity between agents and customers. With new enhancements to Microsoft Dynamics 365 Customer Service, it's easier than ever to find and customize the historical analytics you need to identify key areas for improvement.
+The post Discover new ways to analyze your Customer Service data appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Vikram Yerrabhaneni</name>
         </author>
     </entry>
     <entry>
@@ -11755,18 +11819,6 @@ In this blog post, I will...
         <summary type="html"><![CDATA[The blog post describes how to analyse execution of batch jobs in Power BI Desktop]]></summary>
         <author>
             <name>Gatsby RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Closer Look at How I Use AI Builder Models inside a Power Apps App]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0aa66cf6-0990-428d-ac9f-6a6ce20f9764</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/a-closer-look-at-how-i-use-ai-builder-models-inside-a-power-apps-app-952283432"/>
-        <updated>2020-11-23T08:22:59.000Z</updated>
-        <summary type="html"><![CDATA[Previously, we looked at how to create and train AI models using AI Builder in Power Apps and how it can be embedded in an app in these four blog posts:
-AP Automation using AI Builder in the Power...
-(read more)]]></summary>
-        <author>
-            <name>Henrik Marx Larsen</name>
         </author>
     </entry>
 </feed>
