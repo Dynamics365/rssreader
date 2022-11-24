@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-23T01:36:56.524Z</updated>
+    <updated>2022-11-24T01:40:48.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Leading US hospice care provider VITAS Healthcare processes 2 million patient visits to date with Power Platform]]></title>
+        <id>leading-us-hospice-care-provider-vitas-healthcare-processes-2million-patients</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/leading-us-hospice-care-provider-vitas-healthcare-processes-2million-patients/"/>
+        <updated>2022-11-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VITAS Healthcare is nation’s largest single-source provider of end-of-life care delivering meaningful hospice and palliative care to its patients and their families across 14 states and the District of Columbia. VITAS has used a Power Platform solution called “Emmy” to process 2 million patient visits – equivalent to 92% of all patient visits.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Developers tool  October update]]></title>
+        <id>power-platform-developers-tool-october-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-developers-tool-october-update/"/>
+        <updated>2022-11-23T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are delighted to share our October update for the Power Platform Developer tools. With this update, we are releasing some capabilities that have been in high demand by the developer community. So let us get into it. Power platform Command line updates Model builder We are bringing the ability to generate C# classes for…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call Data Management in Dynamics 365 Finance and Operations using OData Actions]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:30c1123a-1b3d-4cd4-8cf5-0c4cdfd85b8e</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/call-data-management-in-dynamics-365-finance-and-operations-using-odata-actions"/>
+        <updated>2022-11-22T13:17:18.000Z</updated>
+        <summary type="html"><![CDATA[With OData actions we are able to invoke operations in Data Management. This way we can start import and export jobs or query various data elements. 
+
+
+
+
+This is useful when we want an external appli...(read more)]]></summary>
+        <author>
+            <name>Henrik Marx Larsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call Data Management in Dynamics 365 Finance and Operations using OData Actions]]></title>
         <id>http://henrikmarxlarsen.wordpress.com/?p=2886</id>
@@ -46,6 +81,16 @@
     }]]></summary>
         <author>
             <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT integrates with Microsoft Dynamics 365 Supply Chain Management]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:cdaed85a-b8f0-484e-9c5b-7dd4dee6b96b</id>
+        <link href="https://community.dynamics.com/ax/b/moredatamoresuccess/posts/iot-integrates-with-microsoft-dynamics-365-supply-chain-management"/>
+        <updated>2022-11-21T19:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Recently I’ve done a proof of concept with one of my customers and I was animated to cooperate more closely with Enterprise Asset Management (aka EAM) module in Microsoft Dynamics 365 Supply Ch...(read more)]]></summary>
+        <author>
+            <name>andreasraithel</name>
         </author>
     </entry>
     <entry>

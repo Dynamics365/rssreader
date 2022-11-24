@@ -4626,6 +4626,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/moredatamoresuccess",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:cdaed85a-b8f0-484e-9c5b-7dd4dee6b96b",
+          "author": "andreasraithel",
+          "description": "Recently I’ve done a proof of concept with one of my customers and I was animated to cooperate more closely with Enterprise Asset Management (aka EAM) module in Microsoft Dynamics 365 Supply Ch...(read more)",
+          "link": "https://community.dynamics.com/ax/b/moredatamoresuccess/posts/iot-integrates-with-microsoft-dynamics-365-supply-chain-management",
+          "publishedOn": "2022-11-21T19:49:34.000Z",
+          "wordCount": 5468,
+          "title": "IoT integrates with Microsoft Dynamics 365 Supply Chain Management",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ea90e64e-9393-46da-88c5-9d2322491375",
           "author": "andreasraithel",
           "description": "As Microsoft Dynamics 365 Finance & Operation Release 10.0.29 is General available all Dynamics 365 Finance & Operations customer can apply self-update for their environments from last week o...(read more)",
@@ -5595,6 +5605,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:30c1123a-1b3d-4cd4-8cf5-0c4cdfd85b8e",
+          "author": "Henrik Marx Larsen",
+          "description": "With OData actions we are able to invoke operations in Data Management. This way we can start import and export jobs or query various data elements. \n\n\n\n\nThis is useful when we want an external appli...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/call-data-management-in-dynamics-365-finance-and-operations-using-odata-actions",
+          "publishedOn": "2022-11-22T13:17:18.000Z",
+          "wordCount": 4189,
+          "title": "Call Data Management in Dynamics 365 Finance and Operations using OData Actions",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8d5a48f7-e24c-4fcb-851c-13707cb5c99f",
           "author": "Henrik Marx Larsen",
@@ -7418,6 +7438,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "leading-us-hospice-care-provider-vitas-healthcare-processes-2million-patients",
+          "author": null,
+          "description": "VITAS Healthcare is nation’s largest single-source provider of end-of-life care delivering meaningful hospice and palliative care to its patients and their families across 14 states and the District of Columbia. VITAS has used a Power Platform solution called “Emmy” to process 2 million patient visits – equivalent to 92% of all patient visits.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/leading-us-hospice-care-provider-vitas-healthcare-processes-2million-patients/",
+          "publishedOn": "2022-11-23T13:00:00.000Z",
+          "wordCount": 1737,
+          "title": "Leading US hospice care provider VITAS Healthcare processes 2 million patient visits to date with Power Platform",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/11/vitas-infographic-1.png"
+        },
+        {
+          "id": "power-platform-developers-tool-october-update",
+          "author": null,
+          "description": "We are delighted to share our October update for the Power Platform Developer tools. With this update, we are releasing some capabilities that have been in high demand by the developer community. So let us get into it. Power platform Command line updates Model builder We are bringing the ability to generate C# classes for…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-platform-developers-tool-october-update/",
+          "publishedOn": "2022-11-23T09:00:00.000Z",
+          "wordCount": 1792,
+          "title": "Power Platform Developers tool  October update",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "equinor-forecasts-an-annual-savings-of-more-than-500-million-nok-on-their-power-platform-solution",
           "author": null,
