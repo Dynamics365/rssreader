@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-25T01:36:51.801Z</updated>
+    <updated>2022-11-26T01:26:19.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -11854,16 +11854,6 @@ In this blog post, I will...
         <summary type="html"><![CDATA[Effective December 1, 2020, for all 10.0+ versions of Dynamics 365 Financial Dimension Framework we are preventing deletion from the following Dimension tables: DimensionAttribute DimensionAttributeValue DimensionAttributeSet DimensionAttributeSetItem...(read more)]]></summary>
         <author>
             <name>Ryan Carlson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysing Dynamics AX / Dynamics 365FO batch performance using Power BI]]></title>
-        <id>https://denistrunin.com/performance-powerbibatch/</id>
-        <link href="https://denistrunin.com/performance-powerbibatch/"/>
-        <updated>2020-11-25T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The blog post describes how to analyse execution of batch jobs in Power BI Desktop]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
         </author>
     </entry>
 </feed>
