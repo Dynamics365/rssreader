@@ -3549,6 +3549,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2263",
+          "author": "Saurabh Bharti",
+          "description": "Finally, we have a solution for managing purchase accruals in D365 finance an operation which was not available as good solution for a long time. As we know we had two different methods Accrual scheme and periodic journal, but both had its own issue but now using Subscription billing Expense deferral we can solve this […]",
+          "link": "https://exploredynamics365.home.blog/2022/11/26/subscription-billing-expense-deferrals-purchase-accruals-in-microsoft-dynamics-365-finance-and-operations-part-5/",
+          "publishedOn": "2022-11-26T14:15:19.000Z",
+          "wordCount": 2553,
+          "title": "[Subscription Billing] Expense deferrals (Purchase accruals) in Microsoft dynamics 365 finance and operations: Part-5",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2022/11/0.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2256",
           "author": "Saurabh Bharti",
           "description": "In this blog we are going to see how we control addition of lines for our Invoiced purchase orders. Specify whether to allow changes to a fully invoiced purchase order. None – You can add new order lines to an invoiced purchase order. Warning – you can add new order lines to an invoiced purchase […]",
@@ -3665,6 +3675,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2263",
+          "author": "Saurabh Bharti",
+          "description": "Finally, we have a solution for managing purchase accruals in D365 finance an operation which was not available as good solution for a long time. As we know we had two different methods Accrual scheme and periodic journal, but both had its own issue but now using Subscription billing Expense deferral we can solve this […]",
+          "link": "https://exploredynamics365.home.blog/2022/11/26/subscription-billing-expense-deferrals-purchase-accruals-in-microsoft-dynamics-365-finance-and-operations-part-5/",
+          "publishedOn": "2022-11-26T14:15:19.000Z",
+          "wordCount": 2553,
+          "title": "[Subscription Billing] Expense deferrals (Purchase accruals) in Microsoft dynamics 365 finance and operations: Part-5",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2022/11/0.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2256",
           "author": "Saurabh Bharti",

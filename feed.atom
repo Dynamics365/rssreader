@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-26T01:26:19.521Z</updated>
+    <updated>2022-11-27T01:43:01.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Subscription Billing] Expense deferrals (Purchase accruals) in Microsoft dynamics 365 finance and operations: Part-5]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2263</id>
+        <link href="https://exploredynamics365.home.blog/2022/11/26/subscription-billing-expense-deferrals-purchase-accruals-in-microsoft-dynamics-365-finance-and-operations-part-5/"/>
+        <updated>2022-11-26T14:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Finally, we have a solution for managing purchase accruals in D365 finance an operation which was not available as good solution for a long time. As we know we had two different methods Accrual scheme and periodic journal, but both had its own issue but now using Subscription billing Expense deferral we can solve this […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Subscription Billing] Expense deferrals (Purchase accruals) in Microsoft dynamics 365 finance and operations: Part-5]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2263</id>
+        <link href="https://exploredynamics365.home.blog/2022/11/26/subscription-billing-expense-deferrals-purchase-accruals-in-microsoft-dynamics-365-finance-and-operations-part-5/"/>
+        <updated>2022-11-26T14:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Finally, we have a solution for managing purchase accruals in D365 finance an operation which was not available as good solution for a long time. As we know we had two different methods Accrual scheme and periodic journal, but both had its own issue but now using Subscription billing Expense deferral we can solve this […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leading US hospice care provider VITAS Healthcare processes 2 million patient visits to date with Power Platform]]></title>
         <id>leading-us-hospice-care-provider-vitas-healthcare-processes-2million-patients</id>
