@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-28T01:27:28.867Z</updated>
+    <updated>2022-11-29T01:35:44.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365 SysOperation Framework Parameters]]></title>
+        <id>https://dynamics365musings.com/?p=2491</id>
+        <link href="https://dynamics365musings.com/d365-sysoperation-framework-parameters/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-sysoperation-framework-parameters"/>
+        <updated>2022-11-28T14:54:39.000Z</updated>
+        <summary type="html"><![CDATA[There are times when you will want to pass your batch job some parameters to control what data is processed. In this article, learn how to add D365 SysOperation Framework parameters. Adding parameters to the user interface gives users more control and makes the batch job more useful. Instead of always needing to process all... Continue Reading →
+The post D365 SysOperation Framework Parameters appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Subscription Billing] Expense deferrals (Purchase accruals) in Microsoft dynamics 365 finance and operations: Part-5]]></title>
         <id>http://exploredynamics365.home.blog/?p=2263</id>

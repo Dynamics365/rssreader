@@ -2208,6 +2208,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=2491",
+          "author": "peter.ramer",
+          "description": "There are times when you will want to pass your batch job some parameters to control what data is processed. In this article, learn how to add D365 SysOperation Framework parameters. Adding parameters to the user interface gives users more control and makes the batch job more useful. Instead of always needing to process all... Continue Reading →\nThe post D365 SysOperation Framework Parameters appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-sysoperation-framework-parameters/?utm_source=rss&utm_medium=rss&utm_campaign=d365-sysoperation-framework-parameters",
+          "publishedOn": "2022-11-28T14:54:39.000Z",
+          "wordCount": 2994,
+          "title": "D365 SysOperation Framework Parameters",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/11/D365-SysOperation-Framework-Parameters-Final-1.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=2461",
           "author": "peter.ramer",
           "description": "Previously, I explained how to use View Details to navigate to a related form. After that, I explained how override this functionality to navigate to a different form by overriding the D365 jumpRef method. Lastly, I will explain how to override the JumpRef on a base Microsoft form. Why Are Base Microsoft Forms Different? Unlike... Continue Reading →\nThe post Override The JumpRef On A Base Form appeared first on Dynamics 365 Musings.",
