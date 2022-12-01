@@ -1671,6 +1671,16 @@
       "siteUrl": "https://msdyn365fo.wordpress.com",
       "articles": [
         {
+          "id": "http://msdyn365fo.wordpress.com/?p=533",
+          "author": "Paul Heisterkamp",
+          "description": "I know that rebuilding database index is a polarizing topic. Anyway I want to share with you what I´ve recently found. Over the last service updates the Microsoft Dynamics 365 for Finance and Operations database got some handy new stored procedures to e. g. rebuild indexes. You can use those stored procedures on Tier1 environments … Continue reading Rebuild your index on MsDyn365FO Tier1 and Tier2+ environments →",
+          "link": "https://msdyn365fo.wordpress.com/2022/11/30/rebuild-your-index-on-msdyn365fo-tier1-and-tier2-environments/",
+          "publishedOn": "2022-11-30T09:40:22.000Z",
+          "wordCount": 2851,
+          "title": "Rebuild your index on MsDyn365FO Tier1 and Tier2+ environments",
+          "imageUrl": "https://msdyn365fo.files.wordpress.com/2022/07/rebuild-your-index-on-dyn365fo-tier1-and-tier2-environments.png"
+        },
+        {
           "id": "http://msdyn365fo.wordpress.com/?p=553",
           "author": "Paul Heisterkamp",
           "description": "In the past I often had the problem that during package deployment of an service update via Lifecycle Services (LCS) the step “GlobalUpdate script for service model: RetailServer” unexpectedly failed. The reason why this was not expected is that I´m not using the RetailServer at all, so the component should be in the same state … Continue reading Step GlobalUpdate script for service model: RetailServer on machine: DEV-VM is failing during MsDyn365FO package deployment →",
@@ -3335,6 +3345,36 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/28/apple-messages-for-business-channel-added-to-dynamics-365-customer-service/",
+          "author": "Annaka Shewchuk",
+          "description": "The Apple Messages for Business channel is now available in Dynamics 365 Customer Service as part of our digital messaging offer, helping you reach even more customers.\nThe post Apple Messages for Business channel added to Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/28/apple-messages-for-business-channel-added-to-dynamics-365-customer-service/",
+          "publishedOn": "2022-11-28T15:40:50.000Z",
+          "wordCount": 2194,
+          "title": "Apple Messages for Business channel added to Dynamics 365 Customer Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/MSC21_Getty_lifestyle_1151007843-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/23/call-overflow-management-a-gift-to-callers-and-agents-this-holiday-season/",
+          "author": "Anusha Balasubramanian",
+          "description": "Ana is excitedly setting up her new smartphone when the screen goes blank. In dismay, she calls customer service. The estimated wait time is more than 30 minutes. All the agents are busy handling the holiday spike in call volume.\nThe post Call overflow management: A gift to callers and agents this holiday season appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/23/call-overflow-management-a-gift-to-callers-and-agents-this-holiday-season/",
+          "publishedOn": "2022-11-23T19:39:00.000Z",
+          "wordCount": 2046,
+          "title": "Call overflow management: A gift to callers and agents this holiday season",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/MSC21_PICHA_mobile_73046-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/22/improve-worker-efficiency-with-automatic-detour-lookups-in-the-warehouse-management-mobile-app/",
+          "author": "Per Lykke Lynnerup",
+          "description": "Detours in the Warehouse Management mobile app in Dynamics 365 Supply Chain Management allow a worker to temporarily jump into another flow and come back to exactly where they were to continue the interrupted process. We have enhanced the detour feature to enable the system to fetch data related to the current task automatically, and then use the data in the detour flow.\nThe post Improve worker efficiency with automatic detour lookups in the Warehouse Management mobile app​ appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/22/improve-worker-efficiency-with-automatic-detour-lookups-in-the-warehouse-management-mobile-app/",
+          "publishedOn": "2022-11-22T18:08:00.000Z",
+          "wordCount": 1917,
+          "title": "Improve worker efficiency with automatic detour lookups in the Warehouse Management mobile app​",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/M365CO20_BusinessVoice_008-scaled.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/21/collaborative-customer-support-helps-agents-resolve-issues-faster/",
           "author": "Pulkita Dua",
           "description": "With most customer support agents now working remotely, the days of getting help from a peer in the next cubicle are over. Working in isolation, agents are frustrated, issues take longer to resolve, and customers aren't happy. But while agents are isolated, resolving a customer issue often requires input from multiple departments across the company.\nThe post Collaborative customer support helps agents resolve issues faster appeared first on Microsoft Dynamics 365 Blog.",
@@ -3481,6 +3521,16 @@
       "feedUrl": "https://dev.goshoom.net/feed/",
       "siteUrl": "https://dev.goshoom.net",
       "articles": [
+        {
+          "id": "https://dev.goshoom.net/?p=9826",
+          "author": "Martin Dráb",
+          "description": "Despite the fact that I built a Powershell module for maintenance tasks of AX 2009 and AX 2012 environments, I’m not much involved in d365fo.tools module. The credit goes to other people, especially Mötz Jensen. Nevertheless I’ve recently added a small feature to Get-D365Module that you might be interested in. Get-D365Module normally returns modules (packages) ...\nContinue reading ‘Get-D365Module -InDependencyOrder’ »",
+          "link": "https://dev.goshoom.net/2022/11/get-d365module-independencyorder/",
+          "publishedOn": "2022-11-30T10:49:24.000Z",
+          "wordCount": 1354,
+          "title": "Get-D365Module -InDependencyOrder",
+          "imageUrl": null
+        },
         {
           "id": "https://dev.goshoom.net/?p=9820",
           "author": "Martin Dráb",
@@ -5600,16 +5650,6 @@
           "wordCount": 1263,
           "title": "5 scenarios that show how credit limits are determined in Dynamics 365 Finance",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:dc727d28-abb3-4142-91d4-04fcf35c223d",
-          "author": "Ryan Carlson",
-          "description": "Effective December 1, 2020, for all 10.0+ versions of Dynamics 365 Financial Dimension Framework we are preventing deletion from the following Dimension tables: DimensionAttribute DimensionAttributeValue DimensionAttributeSet DimensionAttributeSetItem...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/prepare-for-dimension-table-changes-in-financial-dimension-framework",
-          "publishedOn": "2020-11-30T21:00:03.000Z",
-          "wordCount": 1258,
-          "title": "Prepare for dimension table changes in Financial Dimension Framework",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -5743,16 +5783,6 @@
           "publishedOn": "2021-01-19T08:40:33.000Z",
           "wordCount": 3583,
           "title": "Adding a Power Apps app as a Tile in the Dynamics 365 Finance and Operations Dashboard",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:aa5057b3-eb01-4d01-bcf1-796197dcde25",
-          "author": "Henrik Marx Larsen",
-          "description": "Ever thought it would be nice to know how long it takes to get from where you are to a functional location in Asset Management (AM)? With Power Apps and Bing Maps you can.\nIn this blog post, I will...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/adding-routing-capabilities-to-asset-management-in-dynamics-365-supply-chain-management",
-          "publishedOn": "2020-12-01T11:24:00.000Z",
-          "wordCount": 3659,
-          "title": "Adding Routing Capabilities to Asset Management in Dynamics 365 Supply Chain Management",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -7458,6 +7488,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "rabobank-streamlines-processes-taking-three-weeks-to-three-minutes",
+          "author": null,
+          "description": "As part of a broad digitization strategy, Rabobank adopted Power Platform to streamline internal processes. Rabobank currently uses more than 2,500 Power Apps and Power Automate solutions, including solutions that reduced processing time from three weeks to three minutes.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/rabobank-streamlines-processes-taking-three-weeks-to-three-minutes/",
+          "publishedOn": "2022-11-30T13:00:00.000Z",
+          "wordCount": 2178,
+          "title": "Rabobank streamlines complex process from three weeks to three minutes using Microsoft Power Platform",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/11/rabobank-infographic.png"
+        },
+        {
+          "id": "protecting-data-with-dataverse",
+          "author": null,
+          "description": "Part 1: Security from External Threats In this blog series, we will be covering how to protect data in Dataverse from external and internal threats (both from internal users and Microsoft). In today’s post, we will focus on protecting data from external threats. Secure Data from Hackers and Malicious Intent How can I protect my…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/protecting-data-with-dataverse/",
+          "publishedOn": "2022-11-30T11:22:00.000Z",
+          "wordCount": 1750,
+          "title": "Protecting data with Dataverse",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "microsoft-and-pmi-announce-certifications-for-university-students-to-drive-employability",
           "author": null,

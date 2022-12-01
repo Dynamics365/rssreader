@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-11-30T01:36:30.952Z</updated>
+    <updated>2022-12-01T01:47:12.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rabobank streamlines complex process from three weeks to three minutes using Microsoft Power Platform]]></title>
+        <id>rabobank-streamlines-processes-taking-three-weeks-to-three-minutes</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/rabobank-streamlines-processes-taking-three-weeks-to-three-minutes/"/>
+        <updated>2022-11-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of a broad digitization strategy, Rabobank adopted Power Platform to streamline internal processes. Rabobank currently uses more than 2,500 Power Apps and Power Automate solutions, including solutions that reduced processing time from three weeks to three minutes.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protecting data with Dataverse]]></title>
+        <id>protecting-data-with-dataverse</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/protecting-data-with-dataverse/"/>
+        <updated>2022-11-30T11:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Part 1: Security from External Threats In this blog series, we will be covering how to protect data in Dataverse from external and internal threats (both from internal users and Microsoft). In today’s post, we will focus on protecting data from external threats. Secure Data from Hackers and Malicious Intent How can I protect my…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get-D365Module -InDependencyOrder]]></title>
+        <id>https://dev.goshoom.net/?p=9826</id>
+        <link href="https://dev.goshoom.net/2022/11/get-d365module-independencyorder/"/>
+        <updated>2022-11-30T10:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Despite the fact that I built a Powershell module for maintenance tasks of AX 2009 and AX 2012 environments, I’m not much involved in d365fo.tools module. The credit goes to other people, especially Mötz Jensen. Nevertheless I’ve recently added a small feature to Get-D365Module that you might be interested in. Get-D365Module normally returns modules (packages) ...
+Continue reading ‘Get-D365Module -InDependencyOrder’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebuild your index on MsDyn365FO Tier1 and Tier2+ environments]]></title>
+        <id>http://msdyn365fo.wordpress.com/?p=533</id>
+        <link href="https://msdyn365fo.wordpress.com/2022/11/30/rebuild-your-index-on-msdyn365fo-tier1-and-tier2-environments/"/>
+        <updated>2022-11-30T09:40:22.000Z</updated>
+        <summary type="html"><![CDATA[I know that rebuilding database index is a polarizing topic. Anyway I want to share with you what I´ve recently found. Over the last service updates the Microsoft Dynamics 365 for Finance and Operations database got some handy new stored procedures to e. g. rebuild indexes. You can use those stored procedures on Tier1 environments … Continue reading Rebuild your index on MsDyn365FO Tier1 and Tier2+ environments →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft and PMI announce certifications for university students to drive employability]]></title>
         <id>microsoft-and-pmi-announce-certifications-for-university-students-to-drive-employability</id>
@@ -14,6 +55,17 @@
         <summary type="html"><![CDATA[Microsoft and the Project Management Institute (PMI) are partnering to announce the Microsoft Power Platform University Hub. The University Hub teaches students how to solve a wide range of business problems with low-code—one of the fastest growing technologies in the job landscape today.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Messages for Business channel added to Dynamics 365 Customer Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/11/28/apple-messages-for-business-channel-added-to-dynamics-365-customer-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/28/apple-messages-for-business-channel-added-to-dynamics-365-customer-service/"/>
+        <updated>2022-11-28T15:40:50.000Z</updated>
+        <summary type="html"><![CDATA[The Apple Messages for Business channel is now available in Dynamics 365 Customer Service as part of our digital messaging offer, helping you reach even more customers.
+The post Apple Messages for Business channel added to Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Annaka Shewchuk</name>
         </author>
     </entry>
     <entry>
@@ -48,6 +100,17 @@ The post D365 SysOperation Framework Parameters appeared first on Dynamics 365 M
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Call overflow management: A gift to callers and agents this holiday season]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/11/23/call-overflow-management-a-gift-to-callers-and-agents-this-holiday-season/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/23/call-overflow-management-a-gift-to-callers-and-agents-this-holiday-season/"/>
+        <updated>2022-11-23T19:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Ana is excitedly setting up her new smartphone when the screen goes blank. In dismay, she calls customer service. The estimated wait time is more than 30 minutes. All the agents are busy handling the holiday spike in call volume.
+The post Call overflow management: A gift to callers and agents this holiday season appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Anusha Balasubramanian</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Leading US hospice care provider VITAS Healthcare processes 2 million patient visits to date with Power Platform]]></title>
         <id>leading-us-hospice-care-provider-vitas-healthcare-processes-2million-patients</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/leading-us-hospice-care-provider-vitas-healthcare-processes-2million-patients/"/>
@@ -65,6 +128,17 @@ The post D365 SysOperation Framework Parameters appeared first on Dynamics 365 M
         <summary type="html"><![CDATA[We are delighted to share our October update for the Power Platform Developer tools. With this update, we are releasing some capabilities that have been in high demand by the developer community. So let us get into it. Power platform Command line updates Model builder We are bringing the ability to generate C# classes for…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve worker efficiency with automatic detour lookups in the Warehouse Management mobile app​]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/11/22/improve-worker-efficiency-with-automatic-detour-lookups-in-the-warehouse-management-mobile-app/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/22/improve-worker-efficiency-with-automatic-detour-lookups-in-the-warehouse-management-mobile-app/"/>
+        <updated>2022-11-22T18:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Detours in the Warehouse Management mobile app in Dynamics 365 Supply Chain Management allow a worker to temporarily jump into another flow and come back to exactly where they were to continue the interrupted process. We have enhanced the detour feature to enable the system to fetch data related to the current task automatically, and then use the data in the detour flow.
+The post Improve worker efficiency with automatic detour lookups in the Warehouse Management mobile app​ appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Per Lykke Lynnerup</name>
         </author>
     </entry>
     <entry>
@@ -11873,28 +11947,6 @@ Start all services
 With the current security on the MS hosted Tier 1 boxes, it is getting more complex to comple…]]></summary>
         <author>
             <name>Dick Wenning</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Routing Capabilities to Asset Management in Dynamics 365 Supply Chain Management]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:aa5057b3-eb01-4d01-bcf1-796197dcde25</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/adding-routing-capabilities-to-asset-management-in-dynamics-365-supply-chain-management"/>
-        <updated>2020-12-01T11:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever thought it would be nice to know how long it takes to get from where you are to a functional location in Asset Management (AM)? With Power Apps and Bing Maps you can.
-In this blog post, I will...
-(read more)]]></summary>
-        <author>
-            <name>Henrik Marx Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare for dimension table changes in Financial Dimension Framework]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:dc727d28-abb3-4142-91d4-04fcf35c223d</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/prepare-for-dimension-table-changes-in-financial-dimension-framework"/>
-        <updated>2020-11-30T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Effective December 1, 2020, for all 10.0+ versions of Dynamics 365 Financial Dimension Framework we are preventing deletion from the following Dimension tables: DimensionAttribute DimensionAttributeValue DimensionAttributeSet DimensionAttributeSetItem...(read more)]]></summary>
-        <author>
-            <name>Ryan Carlson</name>
         </author>
     </entry>
 </feed>
