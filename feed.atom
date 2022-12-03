@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-02T01:23:14.281Z</updated>
+    <updated>2022-12-03T01:19:56.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s new: Power Apps November 2022 Feature Update]]></title>
+        <id>whats-new-power-apps-november-2022-feature-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-november-2022-feature-update/"/>
+        <updated>2022-12-02T10:07:31.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share. We…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rabobank streamlines complex process from three weeks to three minutes using Microsoft Power Platform]]></title>
         <id>rabobank-streamlines-processes-taking-three-weeks-to-three-minutes</id>
