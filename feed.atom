@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-03T01:19:56.470Z</updated>
+    <updated>2022-12-04T01:25:32.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -55,6 +55,28 @@ Continue reading ‘Get-D365Module -InDependencyOrder’ »]]></summary>
         <summary type="html"><![CDATA[I know that rebuilding database index is a polarizing topic. Anyway I want to share with you what I´ve recently found. Over the last service updates the Microsoft Dynamics 365 for Finance and Operations database got some handy new stored procedures to e. g. rebuild indexes. You can use those stored procedures on Tier1 environments … Continue reading Rebuild your index on MsDyn365FO Tier1 and Tier2+ environments →]]></summary>
         <author>
             <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The right work assignment method can improve agent satisfaction and utilization]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/11/29/the-right-work-assignment-method-can-improve-agent-satisfaction-and-utilization/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/29/the-right-work-assignment-method-can-improve-agent-satisfaction-and-utilization/"/>
+        <updated>2022-11-29T18:21:00.000Z</updated>
+        <summary type="html"><![CDATA[As a contact center manager, you need to ensure that customers are routed to the right agent while balancing factors like customer satisfaction, tiered SLA commitments, and agent satisfaction and utilization. Automated work assignment in Microsoft Dynamics 365 Customer Service can help.
+The post The right work assignment method can improve agent satisfaction and utilization appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Shivani Sugandha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 steps for transforming customer experience with Dynamics 365 Marketing       and Customer Insights updates]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2022/11/29/5-steps-for-transforming-customer-experience-with-dynamics-365-marketing-and-customer-insights-updates/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2022/11/29/5-steps-for-transforming-customer-experience-with-dynamics-365-marketing-and-customer-insights-updates/"/>
+        <updated>2022-11-29T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hyper-personalized, self-driven, seamless interaction across any channel at any time is no longer a nice-to-have but a must-have as customers want to engage on their own terms and expect businesses to deliver even better experiences.
+The post 5 steps for transforming customer experience with Dynamics 365 Marketing       and Customer Insights updates appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jim Nakashima</name>
         </author>
     </entry>
     <entry>
