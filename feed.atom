@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-05T01:22:43.713Z</updated>
+    <updated>2022-12-06T01:22:14.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Choice of Options from logic apps to Microsoft Teams]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2334</id>
+        <link href="https://anithasantosh.wordpress.com/2022/12/05/choice-of-options-from-logic-apps-to-microsoft-teams/"/>
+        <updated>2022-12-05T22:02:23.000Z</updated>
+        <summary type="html"><![CDATA[With recent addition of connectors in Logic apps, users can choose to use these connectors for configuring poll , approval and many more process. I am skipping the part of creating logic apps and given below the first step of … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 SysOperation Framework Lookup]]></title>
+        <id>https://dynamics365musings.com/?p=2535</id>
+        <link href="https://dynamics365musings.com/d365-sysoperation-framework-lookup/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-sysoperation-framework-lookup"/>
+        <updated>2022-12-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are times when the default parameters created for a SysOperation Framework job do not function as desired. In this article, learn to override the D365 SysOperation Framework lookup to show different columns and data than are shown by default. All of this is accomplished by creating a fourth class that extends SysOperationAutomaticUIBuilder. Review Before... Continue Reading →
+The post D365 SysOperation Framework Lookup appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delegate the Mailbox Approval Process]]></title>
+        <id>delegate-the-mailbox-approval-process</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/delegate-the-mailbox-approval-process/"/>
+        <updated>2022-12-05T13:43:19.000Z</updated>
+        <summary type="html"><![CDATA[I am excited to share that the mailbox approval process can now be delegated to another user instead of always requiring a Global or Exchange admin.  Introduction  Server-Side Synchronization is a feature which enables Dynamics or Power Apps users to send/receive email and synchronize appointments, contacts, and tasks with Exchange. To enable a connection to…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing a menu item is not enough – form parts]]></title>
+        <id>https://dynamicspedia.com/?p=18422</id>
+        <link href="https://dynamicspedia.com/2022/12/securing-a-menu-item-is-not-enough-form-parts/"/>
+        <updated>2022-12-05T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Implementing the correct security is not only about granting access to menu items. You need to understand the full architecture and realize the menu item linked to a menu is only one option when Microsoft mentions user interface elements in their documentation about the security architecture. I will spend several blogs explaining more options that […]
+The post Securing a menu item is not enough – form parts appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s new: Power Apps November 2022 Feature Update]]></title>
         <id>whats-new-power-apps-november-2022-feature-update</id>

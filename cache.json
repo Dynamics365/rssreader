@@ -1981,6 +1981,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2334",
+          "author": "AnithaEswaran",
+          "description": "With recent addition of connectors in Logic apps, users can choose to use these connectors for configuring poll , approval and many more process. I am skipping the part of creating logic apps and given below the first step of … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2022/12/05/choice-of-options-from-logic-apps-to-microsoft-teams/",
+          "publishedOn": "2022-12-05T22:02:23.000Z",
+          "wordCount": 3602,
+          "title": "Choice of Options from logic apps to Microsoft Teams",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/12/image-7.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2317",
           "author": "AnithaEswaran",
           "description": "Whenever we create a new object (table/View/Stored procedure etc) in SQL server , the change will not be immediately reflected in query window. Intelisense works for the existing artifacts , but the new ones will be effective when we restart … Continue reading →",
@@ -2217,6 +2227,16 @@
       "feedUrl": "https://dynamics365musings.com/feed/",
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
+        {
+          "id": "https://dynamics365musings.com/?p=2535",
+          "author": "peter.ramer",
+          "description": "There are times when the default parameters created for a SysOperation Framework job do not function as desired. In this article, learn to override the D365 SysOperation Framework lookup to show different columns and data than are shown by default. All of this is accomplished by creating a fourth class that extends SysOperationAutomaticUIBuilder. Review Before... Continue Reading →\nThe post D365 SysOperation Framework Lookup appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-sysoperation-framework-lookup/?utm_source=rss&utm_medium=rss&utm_campaign=d365-sysoperation-framework-lookup",
+          "publishedOn": "2022-12-05T14:00:00.000Z",
+          "wordCount": 3257,
+          "title": "D365 SysOperation Framework Lookup",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/11/D365-SysOperation-Framework-Override-Lookups.png"
+        },
         {
           "id": "https://dynamics365musings.com/?p=2491",
           "author": "peter.ramer",
@@ -4310,6 +4330,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=18422",
+          "author": "André Arnaud de Calavon",
+          "description": "Implementing the correct security is not only about granting access to menu items. You need to understand the full architecture and realize the menu item linked to a menu is only one option when Microsoft mentions user interface elements in their documentation about the security architecture. I will spend several blogs explaining more options that […]\nThe post Securing a menu item is not enough – form parts appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2022/12/securing-a-menu-item-is-not-enough-form-parts/",
+          "publishedOn": "2022-12-05T05:00:00.000Z",
+          "wordCount": 4626,
+          "title": "Securing a menu item is not enough – form parts",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2022/12/SecurityFormParts.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=18408",
           "author": "André Arnaud de Calavon",
@@ -7508,6 +7538,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "delegate-the-mailbox-approval-process",
+          "author": null,
+          "description": "I am excited to share that the mailbox approval process can now be delegated to another user instead of always requiring a Global or Exchange admin.  Introduction  Server-Side Synchronization is a feature which enables Dynamics or Power Apps users to send/receive email and synchronize appointments, contacts, and tasks with Exchange. To enable a connection to…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/delegate-the-mailbox-approval-process/",
+          "publishedOn": "2022-12-05T13:43:19.000Z",
+          "wordCount": 1406,
+          "title": "Delegate the Mailbox Approval Process",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "whats-new-power-apps-november-2022-feature-update",
           "author": null,
