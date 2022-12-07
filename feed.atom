@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-06T01:22:14.764Z</updated>
+    <updated>2022-12-07T01:26:11.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Extended Data Types (EDTs) in D365 and How to create Extended Data Types(EDTs)]]></title>
+        <id>https://www.d365snippets.com/2022/12/what-is-an-extended-data-type-in-dynamics-365-and-how-to-create-extended-data-types-in-microsoft-dynamics-365.html</id>
+        <link href="https://www.d365snippets.com/2022/12/what-is-an-extended-data-type-in-dynamics-365-and-how-to-create-extended-data-types-in-microsoft-dynamics-365.html"/>
+        <updated>2022-12-06T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[In the previous article, I explained how to create a label file and to use a label file to display texts and titles on user interfaces. In this article, I will explain Extended data types (EDTs).
+What are Extended Data Types (EDT) in D365?
+Extended data types commonly referred to as EDTs are user-defined types, based on primitive data types like boolean, integer, real, string, and date, and the composite data type container. You can also base EDTs on other EDTs. An EDT is a primitive data type or container with a supplementary name and some additional properties. 
+For example, You can create one EDT named Description with the property StringSize is 100 characters, which is derived from a Base primitive data type string. This newly created EDT you can use anywhere instead of using the primi…]]></summary>
+        <author>
+            <name>D365 Snippets</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Choice of Options from logic apps to Microsoft Teams]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2334</id>
@@ -14,6 +27,23 @@
         <summary type="html"><![CDATA[With recent addition of connectors in Logic apps, users can choose to use these connectors for configuring poll , approval and many more process. I am skipping the part of creating logic apps and given below the first step of … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centrilogic acquires IT hosting firm WatServ]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:68beed8c-c788-42c7-8997-30eca8a5ce52</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/centrilogic-acquires-it-hosting-firm-watserv"/>
+        <updated>2022-12-05T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft-focused IT and managed services
+firm 
+ WatServ has been
+acquired by global solution provider 
+ 
+Centrilogic , the companies announced today.
+ The move will strengthen Centrilogic's application management,
+cloud, cybersecurity, and strategic... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
         </author>
     </entry>
     <entry>
@@ -49,6 +79,17 @@ The post Securing a menu item is not enough – form parts appeared first on Dyn
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Configuring Warehouse management is now simpler, easier, and more accurate]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/12/02/configuring-warehouse-management-is-now-simpler-easier-and-more-accurate/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/12/02/configuring-warehouse-management-is-now-simpler-easier-and-more-accurate/"/>
+        <updated>2022-12-02T20:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Supply Chain Management now streamlines warehouse configuration, reducing the time it takes to set up, validate, maintain, and troubleshoot your warehouse management processes.
+The post Configuring Warehouse management is now simpler, easier, and more accurate appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Galyna Fedorova</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What’s new: Power Apps November 2022 Feature Update]]></title>
         <id>whats-new-power-apps-november-2022-feature-update</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-november-2022-feature-update/"/>
@@ -56,6 +97,17 @@ The post Securing a menu item is not enough – form parts appeared first on Dyn
         <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share. We…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engage your customers faster with AI-powered marketing email content]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/11/30/engage-your-customers-faster-with-ai-powered-marketing-email-content/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/30/engage-your-customers-faster-with-ai-powered-marketing-email-content/"/>
+        <updated>2022-11-30T21:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Marketers are often asked to do more with lessand do it yesterday. Every day, they need to quickly create compelling, unique email content that grabs the customer's attention in a sea of competing messages. Designing marketing email content can be incredibly challengingand often the toughest part is getting started.
+The post Engage your customers faster with AI-powered marketing email content appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Aga Miskowiec</name>
         </author>
     </entry>
     <entry>

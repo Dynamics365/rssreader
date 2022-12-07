@@ -604,6 +604,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:68beed8c-c788-42c7-8997-30eca8a5ce52",
+          "author": "MSDynamicsWorld.com",
+          "description": "Microsoft-focused IT and managed services\nfirm \n WatServ has been\nacquired by global solution provider \n \nCentrilogic , the companies announced today.\n The move will strengthen Centrilogic's application management,\ncloud, cybersecurity, and strategic... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/centrilogic-acquires-it-hosting-firm-watserv",
+          "publishedOn": "2022-12-05T21:00:00.000Z",
+          "wordCount": 3584,
+          "title": "Centrilogic acquires IT hosting firm WatServ",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5a05c12d-5bcf-4cdc-843a-a97c6d527f68",
           "author": "MSDynamicsWorld.com",
           "description": "Although Microsoft Dynamics ERPs offer robust capabilities,\nsometimes organizations realize they have specialized requirements\nnot covered by their out-of-the-box solution. When that happens,\nthey can turn to third-party solutions to ensure that their... Read the full text.",
@@ -3365,6 +3375,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/02/configuring-warehouse-management-is-now-simpler-easier-and-more-accurate/",
+          "author": "Galyna Fedorova",
+          "description": "Microsoft Dynamics 365 Supply Chain Management now streamlines warehouse configuration, reducing the time it takes to set up, validate, maintain, and troubleshoot your warehouse management processes.\nThe post Configuring Warehouse management is now simpler, easier, and more accurate appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/02/configuring-warehouse-management-is-now-simpler-easier-and-more-accurate/",
+          "publishedOn": "2022-12-02T20:32:00.000Z",
+          "wordCount": 2203,
+          "title": "Configuring Warehouse management is now simpler, easier, and more accurate",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/12/M365CO20_BusinessVoice_021-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/30/engage-your-customers-faster-with-ai-powered-marketing-email-content/",
+          "author": "Aga Miskowiec",
+          "description": "Marketers are often asked to do more with lessand do it yesterday. Every day, they need to quickly create compelling, unique email content that grabs the customer's attention in a sea of competing messages. Designing marketing email content can be incredibly challengingand often the toughest part is getting started.\nThe post Engage your customers faster with AI-powered marketing email content appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/30/engage-your-customers-faster-with-ai-powered-marketing-email-content/",
+          "publishedOn": "2022-11-30T21:48:46.000Z",
+          "wordCount": 2164,
+          "title": "Engage your customers faster with AI-powered marketing email content",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/OFF12_Jessica_02.png"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/11/29/the-right-work-assignment-method-can-improve-agent-satisfaction-and-utilization/",
           "author": "Shivani Sugandha",
           "description": "As a contact center manager, you need to ensure that customers are routed to the right agent while balancing factors like customer satisfaction, tiered SLA commitments, and agent satisfaction and utilization. Automated work assignment in Microsoft Dynamics 365 Customer Service can help.\nThe post The right work assignment method can improve agent satisfaction and utilization appeared first on Microsoft Dynamics 365 Blog.",
@@ -3902,6 +3932,16 @@
       "feedUrl": "https://www.d365snippets.com/feeds/posts/default",
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
+        {
+          "id": "https://www.d365snippets.com/2022/12/what-is-an-extended-data-type-in-dynamics-365-and-how-to-create-extended-data-types-in-microsoft-dynamics-365.html",
+          "author": null,
+          "description": "In the previous article, I explained how to create a label file and to use a label file to display texts and titles on user interfaces. In this article, I will explain Extended data types (EDTs).\nWhat are Extended Data Types (EDT) in D365?\nExtended data types commonly referred to as EDTs are user-defined types, based on primitive data types like boolean, integer, real, string, and date, and the composite data type container. You can also base EDTs on other EDTs. An EDT is a primitive data type or container with a supplementary name and some additional properties. \nFor example, You can create one EDT named Description with the property StringSize is 100 characters, which is derived from a Base primitive data type string. This newly created EDT you can use anywhere instead of using the primi…",
+          "link": "https://www.d365snippets.com/2022/12/what-is-an-extended-data-type-in-dynamics-365-and-how-to-create-extended-data-types-in-microsoft-dynamics-365.html",
+          "publishedOn": "2022-12-06T20:10:00.000Z",
+          "wordCount": 8108,
+          "title": "What is Extended Data Types (EDTs) in D365 and How to create Extended Data Types(EDTs)",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdlVG30VzB38QwTBKGofin0KC_8kCrVAkIk5ln8zIA0okbGghOEqfY3j-Bp_NUmuDZfLucZ3sQ-m0uAit5Npr2_cWWn0nvVfZc2Igjt3_SmOw6hDQpDQXQbZ6zEaYIqW3YepQf97BRc7wJmvDRTpMdB0fVxVByJ82NMDXM3BJYd9f1hk8J0s78LEr/s16000/What%20is%20Extended%20Data%20Types%20(EDTs)%20in%20D365%20and%20How%20to%20create%20Extended%20Data%20Types(EDTs).jpg"
+        },
         {
           "id": "https://www.d365snippets.com/2022/11/how-to-creare-a-label-file-in-d365-fo-2022-update.html",
           "author": null,
