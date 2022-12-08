@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-07T01:26:11.626Z</updated>
+    <updated>2022-12-08T01:23:26.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automate deployments with Power Platform Pipelines, now in preview]]></title>
+        <id>automate-deployments-with-power-platform-pipelines-now-in-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/automate-deployments-with-power-platform-pipelines-now-in-preview/"/>
+        <updated>2022-12-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Power Platform Pipelines aim to democratize application lifecycle management (ALM) for Power Platform and Dynamics 365 customers by bringing deployment automation capabilities into the product in a manner that’s more approachable for all makers, admins, and developers.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nexer acquires Dynamics 365 ERP partner Rangeline Solutions]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b1f8c258-09fc-49d6-bc92-3f2b89c48934</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/nexer-acquires-dynamics-365-erp-partner-rangeline-solutions"/>
+        <updated>2022-12-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[North American ERP solution provider announces acquisition .... Read More Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Extended Data Types (EDTs) in D365 and How to create Extended Data Types(EDTs)]]></title>
         <id>https://www.d365snippets.com/2022/12/what-is-an-extended-data-type-in-dynamics-365-and-how-to-create-extended-data-types-in-microsoft-dynamics-365.html</id>
