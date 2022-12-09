@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-08T01:23:26.443Z</updated>
+    <updated>2022-12-09T01:25:32.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Put vendor on hold for purchase orders in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2279</id>
+        <link href="https://exploredynamics365.home.blog/2022/12/08/put-vendor-on-hold-for-purchase-orders-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2022-12-08T12:10:05.000Z</updated>
+        <summary type="html"><![CDATA[There is new feature available now in D365 finance and operation for vendor on hold for purchase order. Lot of times, customer used to ask if we can stop PO creation against vendor without stooping invoice and payments for existing transactions. Now this is possible with this new feature. This feature will enable putting a […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put vendor on hold for purchase orders in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2279</id>
+        <link href="https://exploredynamics365.home.blog/2022/12/08/put-vendor-on-hold-for-purchase-orders-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2022-12-08T12:10:05.000Z</updated>
+        <summary type="html"><![CDATA[There is new feature available now in D365 finance and operation for vendor on hold for purchase order. Lot of times, customer used to ask if we can stop PO creation against vendor without stooping invoice and payments for existing transactions. Now this is possible with this new feature. This feature will enable putting a […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automate deployments with Power Platform Pipelines, now in preview]]></title>
         <id>automate-deployments-with-power-platform-pipelines-now-in-preview</id>
