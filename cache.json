@@ -3385,6 +3385,46 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/07/microsoft-is-named-a-leader-in-2022-gartner-magic-quadrant-for-field-service-management/",
+          "author": "Safiyyah O’Quinn",
+          "description": "It is with great pride that Microsoft shares its position as a Leader within the Gartner 2022 Magic Quadrant for Field Service Management for the third consecutive year.\nThe post Microsoft is named a Leader in 2022 Gartner® Magic Quadrant™ for Field Service Management appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/07/microsoft-is-named-a-leader-in-2022-gartner-magic-quadrant-for-field-service-management/",
+          "publishedOn": "2022-12-07T16:00:00.000Z",
+          "wordCount": 2558,
+          "title": "Microsoft is named a Leader in 2022 Gartner® Magic Quadrant™ for Field Service Management",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/CLO22_GreenEnergyFarm_007.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/06/add-voicemail-to-your-call-queue-management/",
+          "author": "Isabel Greene",
+          "description": "Microsoft Dynamics 365 Customer Service now offers voicemail as part of its omnichannel engagement capabilities. Currently in preview, voicemail can be a valuable component of your call queue management, as an overflow option on a voice queue or when a direct call to an agent goes unanswered.\nThe post Add voicemail to your call queue management appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/06/add-voicemail-to-your-call-queue-management/",
+          "publishedOn": "2022-12-06T18:47:00.000Z",
+          "wordCount": 1823,
+          "title": "Add voicemail to your call queue management",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/12/CLO17_callCenter_001.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/05/essential-ways-dynamics-365-and-power-platform-help-you-do-more-with-less/",
+          "author": "Emily He",
+          "description": "As companies across industries navigate a period of uncertainty, every investment in people and technology must be strategic and decisive to help people do more with lessless time, less cost, and less complexity.\nThe post Essential ways Dynamics 365 and Power Platform help you do more with less appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/05/essential-ways-dynamics-365-and-power-platform-help-you-do-more-with-less/",
+          "publishedOn": "2022-12-05T19:30:00.000Z",
+          "wordCount": 3210,
+          "title": "Essential ways Dynamics 365 and Power Platform help you do more with less",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/10/MSC21_Getty_SMB_571065955.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/05/increase-your-supply-resilience-with-multisourcing-in-supply-chain-management/",
+          "author": "Beatriz Nebot Gracia",
+          "description": "For many years, companies have based their supply chain strategy on lowering costs and increasing efficiency. Often this resulted in relying on one supplier for important subcomponents, sometimes based offshore where labor is cheaper. During the pandemic, the world discovered that \"lower costs and increase efficiency\" is not a resilient strategy.\nThe post Increase your supply resilience with multisourcing in Supply Chain Management appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/05/increase-your-supply-resilience-with-multisourcing-in-supply-chain-management/",
+          "publishedOn": "2022-12-05T18:55:00.000Z",
+          "wordCount": 2267,
+          "title": "Increase your supply resilience with multisourcing in Supply Chain Management",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/12/MSC19_singaporeShipping_002-scaled.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/02/configuring-warehouse-management-is-now-simpler-easier-and-more-accurate/",
           "author": "Galyna Fedorova",
           "description": "Microsoft Dynamics 365 Supply Chain Management now streamlines warehouse configuration, reducing the time it takes to set up, validate, maintain, and troubleshoot your warehouse management processes.\nThe post Configuring Warehouse management is now simpler, easier, and more accurate appeared first on Microsoft Dynamics 365 Blog.",
@@ -3962,6 +4002,16 @@
       "feedUrl": "https://www.d365snippets.com/feeds/posts/default",
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
+        {
+          "id": "https://www.d365snippets.com/2022/12/microsoft-dynamics-365-interview-questions-and-answers-2023-update.html",
+          "author": null,
+          "description": "1. What is Dynamics 365 Finance & Operations?\nMicrosoft Dynamics 365 is a cloud-based business platform developed by Microsoft, which is designed as a cloud-based Enterprise Resource Planning (ERP) by Microsoft on the Azure Platform. The browser-based Microsoft Dynamics 365 Finance & Operations replaces the previous version on-premise version Dynamics AX. \nThe responsibility of a Dynamics 365 Developer is to develop new modules or customize the existing modules. As Dynamics 365 is a high customization system, a developer with significant knowledge in D365 development can deliver high-quality solutions. \nThe minimum Software requirements for Dynamics 365 Server is, It can be hosted locally or can use the Microsoft cloud platform, Microsoft Azure. A minimum of 16 GB of RAM and 2 CPU Cores ar…",
+          "link": "https://www.d365snippets.com/2022/12/microsoft-dynamics-365-interview-questions-and-answers-2023-update.html",
+          "publishedOn": "2022-12-09T19:14:00.004Z",
+          "wordCount": 9617,
+          "title": "Microsoft Dynamics 365 Interview Questions and Answers 2023 Update",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-DKyknMn5FUP4b6hnCTCSvxol3Rb2RVBGOqPBZ17AaiKyV5aCb2D1mbddNn1IDg8YE_oTdZcq6U6oscVbNTADbeIpdHvz_8FD6XeoZl7yD3aU8bxL3b4dQV3S8mhID1J_acPGspHUY2B5z2EUEOZUMBAIyJuSh2_gRUFHggK7soQ34XBKUatac3V/s16000/microsoft-dynamics-365-interview-questions-and-answers-2023-update.jpg"
+        },
         {
           "id": "https://www.d365snippets.com/2022/12/what-is-an-extended-data-type-in-dynamics-365-and-how-to-create-extended-data-types-in-microsoft-dynamics-365.html",
           "author": null,
@@ -5261,16 +5311,6 @@
           "publishedOn": "2021-02-04T16:22:19.000Z",
           "wordCount": 1149,
           "title": "Create tracking dimension in D365FO.",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:365ebc92-e2a7-49d4-867e-ae0c4f584361",
-          "author": "Dick Wenning",
-          "description": "In my current project I get a high demand on request for restoring Azure databases to Tier-one. Out of the box there is no support on it from LCS point of view. But that does not imply that it is not possible.\nAt this moment we create an additional DEVOPS release pipeline that is manually triggered. The steps of that pipeline are shown in the next picture.\n\n\n\n\nThe Steps\nThe steps we are taking are in general\nRequest access token to LCS\nDownload the bacpac file from the LCS asset library\nImport the bacpac file into a new database\nStop all services\nSwap the new database with the old database\nSynchronize the database (there could be new tables & fields)\nReset Financial Reporter\nStart all services\n\n\n\n\nWith the current security on the MS hosted Tier 1 boxes, it is getting more complex to comple…",
-          "link": "https://community.dynamics.com/ax/b/axstart/posts/restore-azure-database-to-tier-one",
-          "publishedOn": "2020-12-10T13:00:28.000Z",
-          "wordCount": 1419,
-          "title": "Restore Azure database to Tier-one",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -7608,6 +7648,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "coca-cola-united-automates-multi-step-sap-invoicing-process-power-platform",
+          "author": null,
+          "description": "Coca-Cola Bottling Company United used Microsoft Power Platform to automate on-demand shipment requests – reducing order validation time from half a day to seconds, and automate a complex multi-step SAP invoicing process to handle over 50,000 orders.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/coca-cola-united-automates-multi-step-sap-invoicing-process-power-platform/",
+          "publishedOn": "2022-12-09T13:29:00.000Z",
+          "wordCount": 2023,
+          "title": "Coca-Cola United automates over 50,000 orders in complex SAP invoicing process with Microsoft Power Platform",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2022/12/CocaColaUnited_Infographic.jpg"
+        },
         {
           "id": "automate-deployments-with-power-platform-pipelines-now-in-preview",
           "author": null,
