@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-10T01:20:42.140Z</updated>
+    <updated>2022-12-11T01:36:15.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Financial Dimension setup in D365Finance for projects managed in D365ProjectOperations]]></title>
+        <id>http://dynamicsax-fico.com/?p=4821</id>
+        <link href="https://dynamicsax-fico.com/2022/12/10/financial-dimension-setup-in-d365finance-for-projects-managed-in-d365projectoperations/"/>
+        <updated>2022-12-10T16:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Dynamics 365 Interview Questions and Answers 2023 Update]]></title>
         <id>https://www.d365snippets.com/2022/12/microsoft-dynamics-365-interview-questions-and-answers-2023-update.html</id>
@@ -27,6 +37,39 @@ The minimum Software requirements for Dynamics 365 Server is, It can be hosted l
         <summary type="html"><![CDATA[Coca-Cola Bottling Company United used Microsoft Power Platform to automate on-demand shipment requests – reducing order validation time from half a day to seconds, and automate a complex multi-step SAP invoicing process to handle over 50,000 orders.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft and Futurum research: Discover insights to create experiences that customers love]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/08/the-key-to-delivering-experiences-that-customers-love/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/08/the-key-to-delivering-experiences-that-customers-love/"/>
+        <updated>2022-12-08T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In partnership with Futurum, we surveyed 1,000 global business leaders, technologists, marketers, and data and customer experience professionals, and identified the challenges and opportunities that best-in-class data practices afford customer experience (CX) leaders today. The findings revealed what we had surmised going inthat companies are evolving their customer relationship management (CRM) technologies to meet changing customer expectations.
+The post Microsoft and Futurum research: Discover insights to create experiences that customers love appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Neha Bajwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New email signature features in Customer Service improve agent productivity]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/12/08/new-email-signature-features-in-customer-service-improve-agent-productivity/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/12/08/new-email-signature-features-in-customer-service-improve-agent-productivity/"/>
+        <updated>2022-12-08T19:02:00.000Z</updated>
+        <summary type="html"><![CDATA[An email signature concludes an email with style, professionalism, and branding. Customer service agents need to use their signature when emailing customers. Each agent has a distinctive style, however, and enforcing a standard pattern can be a challenge.
+The post New email signature features in Customer Service improve agent productivity appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Naman Agrawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find email templates faster in Customer Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/12/08/find-email-templates-faster-in-customer-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/12/08/find-email-templates-faster-in-customer-service/"/>
+        <updated>2022-12-08T18:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Templates are a fast and easy way to send consistent, professional, preformatted email messages. They're a time-saving feature that agents loveexcept when they forget the name of a template or have so many that quickly finding the right one becomes a challenge.
+The post Find email templates faster in Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Naman Agrawal</name>
         </author>
     </entry>
     <entry>

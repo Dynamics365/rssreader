@@ -3385,6 +3385,36 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/08/the-key-to-delivering-experiences-that-customers-love/",
+          "author": "Neha Bajwa",
+          "description": "In partnership with Futurum, we surveyed 1,000 global business leaders, technologists, marketers, and data and customer experience professionals, and identified the challenges and opportunities that best-in-class data practices afford customer experience (CX) leaders today. The findings revealed what we had surmised going inthat companies are evolving their customer relationship management (CRM) technologies to meet changing customer expectations.\nThe post Microsoft and Futurum research: Discover insights to create experiences that customers love appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/08/the-key-to-delivering-experiences-that-customers-love/",
+          "publishedOn": "2022-12-08T21:45:00.000Z",
+          "wordCount": 2848,
+          "title": "Microsoft and Futurum research: Discover insights to create experiences that customers love",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/12/Graphic_03-2.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/08/new-email-signature-features-in-customer-service-improve-agent-productivity/",
+          "author": "Naman Agrawal",
+          "description": "An email signature concludes an email with style, professionalism, and branding. Customer service agents need to use their signature when emailing customers. Each agent has a distinctive style, however, and enforcing a standard pattern can be a challenge.\nThe post New email signature features in Customer Service improve agent productivity appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/08/new-email-signature-features-in-customer-service-improve-agent-productivity/",
+          "publishedOn": "2022-12-08T19:02:00.000Z",
+          "wordCount": 2080,
+          "title": "New email signature features in Customer Service improve agent productivity",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/12/MSC16_slalom_009.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/08/find-email-templates-faster-in-customer-service/",
+          "author": "Naman Agrawal",
+          "description": "Templates are a fast and easy way to send consistent, professional, preformatted email messages. They're a time-saving feature that agents loveexcept when they forget the name of a template or have so many that quickly finding the right one becomes a challenge.\nThe post Find email templates faster in Customer Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/08/find-email-templates-faster-in-customer-service/",
+          "publishedOn": "2022-12-08T18:57:00.000Z",
+          "wordCount": 1707,
+          "title": "Find email templates faster in Customer Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/12/MSC16_slalom_017.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/07/microsoft-is-named-a-leader-in-2022-gartner-magic-quadrant-for-field-service-management/",
           "author": "Safiyyah O’Quinn",
           "description": "It is with great pride that Microsoft shares its position as a Leader within the Gartner 2022 Magic Quadrant for Field Service Management for the third consecutive year.\nThe post Microsoft is named a Leader in 2022 Gartner® Magic Quadrant™ for Field Service Management appeared first on Microsoft Dynamics 365 Blog.",
@@ -4393,6 +4423,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=4821",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2022/12/10/financial-dimension-setup-in-d365finance-for-projects-managed-in-d365projectoperations/",
+          "publishedOn": "2022-12-10T16:39:53.000Z",
+          "wordCount": 2541,
+          "title": "Financial Dimension setup in D365Finance for projects managed in D365ProjectOperations",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2022/10/en.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=4847",
           "author": "Ludwig Reinhard",
