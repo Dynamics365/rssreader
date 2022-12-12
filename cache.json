@@ -1384,7 +1384,7 @@
     },
     {
       "title": "Dynamics 365 for Finance and Operations – Everything Dynamics |",
-      "feedUrl": "http://www.everythingdynamicsaxbi.com/category/dynamics-365-for-finance-and-operations/feed/",
+      "feedUrl": "http://everythingdynamicsaxbi.com/category/dynamics-365-for-finance-and-operations/feed/",
       "siteUrl": "http://www.everythingdynamicsaxbi.com",
       "articles": []
     },
@@ -1497,7 +1497,7 @@
     },
     {
       "title": "PowerAzure365",
-      "feedUrl": "https://www.powerazure365.com/?format=rss",
+      "feedUrl": "https://powerazure365.com/?format=rss",
       "siteUrl": "https://www.powerazure365.com/",
       "articles": [
         {
@@ -1988,12 +1988,6 @@
           "imageUrl": "https://static.ariste.info/wp-content/uploads/2021/09/AutoPipe-1024x1024.png"
         }
       ]
-    },
-    {
-      "title": "Comments on: Dynagile Consulting Blog",
-      "feedUrl": "https://www.dynagile.fr/en/home-page-blog/feed/",
-      "siteUrl": "https://www.dynagile.fr",
-      "articles": []
     },
     {
       "title": "Anitha Eswaran – Dynamics Ax",
@@ -2531,16 +2525,26 @@
     },
     {
       "title": "Atomic AX - Dynamics AX Tips, Tricks, How To's and Code",
-      "feedUrl": "http://www.atomicax.com/rss.xml",
+      "feedUrl": "http://atomicax.com/rss.xml",
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
+        {
+          "id": "1656 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 12/12/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nperformance      \nVM      \nVisual Studio      \n\nLet's examine how to get the most out of Azure spend for Tier 1 machines.\nA while ago Denis Trunin wrote an article on Visual Studio performance for F&O. I thought it was a well written and researched article. However, I wanted to see what the limit was on performance per unit of money spent. I also wanted to see what the limits were, in general. If twice as more is twice as better, then 4 times as much must mean 4 times more better, right? We'll be using the DOOM Super Shotgun methodology of 2 is better than 1, and 4 is better than 2. I'll also be likening each part of the article to a map from classic DOOM (1993). For those of you DOOM fans out there, this should be fun. For …",
+          "link": "https://www.atomicax.com/article/boosting-customer-hosted-environment-che-performance",
+          "publishedOn": "2022-12-12T14:11:10.000Z",
+          "wordCount": 4884,
+          "title": "Boosting Customer Hosted Environment (CHE) Performance",
+          "imageUrl": null
+        },
         {
           "id": "1657 at https://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 11/09/22.\n\n\n\n\n\n\n\n\n\n\n\n\nEnabling Users after a database refresh is a pain. Let's automate that away.\nRe-enabling users in UAT after a data refresh from PROD can be annoying, especially if  you have to be granted access to the environment administrator's account. Let's work through one way of creating a pipeline in Azure DevOps to re-enable a list of users using D365.FO Tools, PowerShell and a few OData tricks.\nFirst, Create an App Registration\nYou can use this link for a walkthrough. We only need a client ID and a client secret. Nothing else needs to be configured in Azure. This should be created in the same tenant as the environment we want to connect to.\nNext, Add the App in F&O\nUse this link to add the App Registration in F&O. We should select the environment…",
           "link": "https://www.atomicax.com/article/re-enable-users-after-database-refresh",
           "publishedOn": "2022-11-10T02:21:22.000Z",
-          "wordCount": 1115,
+          "wordCount": 1155,
           "title": "Re-enable Users after Database Refresh",
           "imageUrl": null
         },
@@ -2550,17 +2554,7 @@
           "description": "Can you use Git Hub? yes.\nGitHub is also an option you could pursue when moving to Git. GitHub has a lot of new features and offerings that Azure DevOps does not have. However, there is basically no documentation from MSFT on how to configure builds and various other automation options in GitHub. I'm sure it's possible but there will be a fair amount of guess work. Getting your pipelines fully converted to YAML will be the first step in making the transition to GitHub.\nCommunity (Free)\nI use GitHub to host all of my community projects which is great for that. I can share the code and anyone can pick it up and use it as they see fit. Private repos are now also an option. However, these still below to a named person so you'd want a service account or centrally managed account to create all p…",
           "link": "https://www.atomicax.com/content/part-4-github",
           "publishedOn": "2022-04-07T01:22:40.000Z",
-          "wordCount": 954,
-          "title": "Part 4 - GitHub",
-          "imageUrl": null
-        },
-        {
-          "id": "1651 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Can you use Git Hub? yes.\nGitHub is also an option you could pursue when moving to Git. GitHub has a lot of new features and offerings that Azure DevOps does not have. However, there is basically no documentation from MSFT on how to configure builds and various other automation options in GitHub. I'm sure it's possible but there will be a fair amount of guess work. Getting your pipelines fully converted to YAML will be the first step in making the transition to GitHub.\nCommunity (Free)\nI use GitHub to host all of my community projects which is great for that. I can share the code and anyone can pick it up and use it as they see fit. Private repos are now also an option. However, these still below to a named person so you'd want a service account or centrally managed account to create all projects.\nPro\nFor 4 USD a month, you can upgrade 1 account on GitHub to GitHub Pro, which gives you more stuff. Using YAML plus actions, you could probably get a lot of the same benefits from Azure DevOps without having to use DevOps. \nThoughts\n I think the prospect of using Github for community or personal development for F&O is a good idea. Git is simple and so is GitHub. You can work and share your code with whomever you like. Additionally, private repos are now free so you can use those, too.\nHowever, the prospect of using Github for an implementation or support project is a much harder sell for the client or organization. While I'm pretty sure you could use GitHub to get to around the same service level as Azure DevOps, there is a fair amount of risk. That risk is, in my opinion, simply too great to suggest using it for the time being. There is nearly no documentation on the subject and there is no one at MSFT you can call for help specific to F&O. Although it may look like Azure DevOps isn't the favorite for MSFT in terms of product hype or feature development, DevOps is still a proven tool we can rely on. I got the chart below from this site but I think it's really helpful given the context.",
-          "link": "http://www.atomicax.com/content/part-4-github",
-          "publishedOn": "2022-04-07T01:22:40.000Z",
-          "wordCount": 941,
+          "wordCount": 1147,
           "title": "Part 4 - GitHub",
           "imageUrl": null
         },
@@ -2570,28 +2564,8 @@
           "description": "What's it like developing using Git?\nDeveloping in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …",
           "link": "https://www.atomicax.com/content/part-3-developing-vs-2019",
           "publishedOn": "2022-04-07T00:59:06.000Z",
-          "wordCount": 1276,
+          "wordCount": 1446,
           "title": "Part 3 - Developing with VS 2019",
-          "imageUrl": null
-        },
-        {
-          "id": "1650 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "What's it like developing using Git?\nDeveloping in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …",
-          "link": "http://www.atomicax.com/content/part-3-developing-vs-2019",
-          "publishedOn": "2022-04-07T00:59:06.000Z",
-          "wordCount": 1286,
-          "title": "Part 3 - Developing with VS 2019",
-          "imageUrl": null
-        },
-        {
-          "id": "1650 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "What's it like developing using Git?\nDeveloping in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …",
-          "link": "http://www.atomicax.com/content/part-3-developing-vs-2019-2022",
-          "publishedOn": "2022-04-07T00:59:06.000Z",
-          "wordCount": 1254,
-          "title": "Part 3 - Developing with VS 2019 / 2022",
           "imageUrl": null
         },
         {
@@ -2600,17 +2574,7 @@
           "description": "Let's take a look at the lifecyle of a Git Branch.\nUnlike TFVC, branches in Git are typically short lived when it comes to development. In TFVC you may have a branch for each developer or a branch for development in general, another for test then a release branch. In Git, we will be using branches differently. We'll get a change request as a work item in DevOps, review it, create a branch, assign to a developer to do the work plus commit it, optional build automation may occur, next a pull request, or PR, with a review and then the changes are accepted into the parent branch. We'll walk through this in specific details. In this example, we'll be using a bug but you can replace \"bug\" with \"Feature\", \"Product Backlog Item\", \"Change Request\", \"Customization\", \"Enhancement\", or any other word …",
           "link": "https://www.atomicax.com/content/part-2-lifecycle-branch",
           "publishedOn": "2022-04-04T02:00:49.000Z",
-          "wordCount": 1144,
-          "title": "Part 2 - Lifecycle of a Branch",
-          "imageUrl": null
-        },
-        {
-          "id": "1649 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Let's take a look at the lifecyle of a Git Branch.\nUnlike TFVC, branches in Git are typically short lived when it comes to development. In TFVC you may have a branch for each developer or a branch for development in general, another for test then a release branch. In Git, we will be using branches differently. We'll get a change request as a work item in DevOps, review it, create a branch, assign to a developer to do the work plus commit it, optional build automation may occur, next a pull request, or PR, with a review and then the changes are accepted into the parent branch. We'll walk through this in specific details. In this example, we'll be using a bug but you can replace \"bug\" with \"Feature\", \"Product Backlog Item\", \"Change Request\", \"Customization\", \"Enhancement\", or any other word …",
-          "link": "http://www.atomicax.com/content/part-2-lifecycle-branch",
-          "publishedOn": "2022-04-04T02:00:49.000Z",
-          "wordCount": 1181,
+          "wordCount": 1427,
           "title": "Part 2 - Lifecycle of a Branch",
           "imageUrl": null
         },
@@ -2620,17 +2584,7 @@
           "description": "How Shoud I Manage Packages in Git?\nThere are 2 options when looking at Git for managing your X++ code. The main driver for which option you select is if you will only ever have 1 package in your code base or more than 1. This include any ISVs or any other item that will have a code footprint anywhere in F&O. To learn more about packages, please see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-tools/models. \n1 Package as a Branch\nThis option is the simplest. You would have 1 package as a branch. A good example of this is this GitHub project. It's a small package that add a features, it only depends on OOTB F&O packages and models and has no other dependencies not does anything else depend on it. It doesn't get any more simple than this. However, this may not work…",
           "link": "https://www.atomicax.com/content/part-1-package-management",
           "publishedOn": "2022-04-03T18:37:59.000Z",
-          "wordCount": 1070,
-          "title": "Part 1 - Package Management",
-          "imageUrl": null
-        },
-        {
-          "id": "1648 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "How Shoud I Manage Packages in Git?\nThere are 2 options when looking at Git for managing your X++ code. The main driver for which option you select is if you will only ever have 1 package in your code base or more than 1. This include any ISVs or any other item that will have a code footprint anywhere in F&O. To learn more about packages, please see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-tools/models. \n1 Package as a Branch\nThis option is the simplest. You would have 1 package as a branch. A good example of this is this GitHub project. It's a small package that add a features, it only depends on OOTB F&O packages and models and has no other dependencies not does anything else depend on it. It doesn't get any more simple than this. However, this may not work…",
-          "link": "http://www.atomicax.com/content/part-1-package-management",
-          "publishedOn": "2022-04-03T18:37:59.000Z",
-          "wordCount": 1103,
+          "wordCount": 1372,
           "title": "Part 1 - Package Management",
           "imageUrl": null
         },
@@ -2640,17 +2594,7 @@
           "description": "Submitted by Nathan Clouse on 04/01/22.\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Git with 1 Package\nWhen using Git for F&O, there are 2 basic flavors of using it; with 1 package or more than 1 package. This post will cover how to setup Git for use with 1 package.\nTo learn out to create a Git repo in Azure DevOps, please refer to MSFT documentation. To learn how to create a repo on Github, please refer to GitHub documentation.\nUsing Azure DevOps\nIn your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then Connect to a project. \n\nNext, select your repo and place it in your PackagesLocalDirectory. K drive on cloud hosted machines and C on VHDs. \n\nWait for it to clone and, that's it. Refresh your models like usual and you can develop against 1 package using Git in Azure DevOps. This is what the sync'd directory will look like. \n\nUsing GitHub\nIn your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then click Clone \n\nLog into GitHub then select your repo making sure to change the local path to include your PackagesLocalDirectory path.\n\nClick clone and wait. That's it. Your repo folder will look like this:\n\nCallout: If using VHD, drive will be the C drive rather than K drive.\nConclusion\nVery straight forward process. However, when using this style of package manage, you will only ever be allowed 1 package. You can add as many models as you like but you'll only ever have 1 package. This includes ISV packages as well including binary or source packages. I recommend this style of management for personal projects or something you'll be sharing on GitHub. I wouldn't recommend this approach for use on an implementation project.\n \n\n\n\n\nView the discussion thread.\n\n\n\nReported:",
           "link": "https://www.atomicax.com/article/using-git-1-package",
           "publishedOn": "2022-04-01T12:40:45.000Z",
-          "wordCount": 825,
-          "title": "Using Git with 1 Package",
-          "imageUrl": null
-        },
-        {
-          "id": "1654 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 04/01/22.\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Git with 1 Package\nWhen using Git for F&O, there are 2 basic flavors of using it; with 1 package or more than 1 package. This post will cover how to setup Git for use with 1 package.\nTo learn out to create a Git repo in Azure DevOps, please refer to MSFT documentation. To learn how to create a repo on Github, please refer to GitHub documentation.\nUsing Azure DevOps\nIn your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then Connect to a project. \n\nNext, select your repo and place it in your PackagesLocalDirectory. K drive on cloud hosted machines and C on VHDs. \n\nWait for it to clone and, that's it. Refresh your models like usual and you can develop against 1 package using Git in Azure DevOps. This is what the sync'd directory will look like. \n\nUsing GitHub\nIn your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then click Clone \n\nLog into GitHub then select your repo making sure to change the local path to include your PackagesLocalDirectory path.\n\nClick clone and wait. That's it. Your repo folder will look like this:\n\nCallout: If using VHD, drive will be the C drive rather than K drive.\nConclusion\nVery straight forward process. However, when using this style of package manage, you will only ever be allowed 1 package. You can add as many models as you like but you'll only ever have 1 package. This includes ISV packages as well including binary or source packages. I recommend this style of management for personal projects or something you'll be sharing on GitHub. I wouldn't recommend this approach for use on an implementation project.\n \n\n\n\n\nView the discussion thread.\n\n\n\nReported:",
-          "link": "http://www.atomicax.com/article/using-git-1-package",
-          "publishedOn": "2022-04-01T12:40:45.000Z",
-          "wordCount": 854,
+          "wordCount": 1091,
           "title": "Using Git with 1 Package",
           "imageUrl": null
         },
@@ -2660,17 +2604,7 @@
           "description": "Using Git rather than TFVC, a field guide.\nThis collection of works will help you with moving from using TFVC to using Git for your x++ development. This page will have several chapters linked as they are published. However, how do you know which is the best fit for you, your team, your organization or your project? Let's take an inventory.\nYou\nIf you're reading this, I assume you're interested in getting away from TFVC for some reason, you're a technically focused individual, and you understand the differences between using Git and TFVC. \nYour Team\nYour team should also be aware of what it takes to be successful in order to make a switch from TFVC to Git. They may need some additional training in order to get the the most out of Git. Developing and delivering with Git is a different exper…",
           "link": "https://www.atomicax.com/content/git-alm-field-guide",
           "publishedOn": "2022-04-01T12:29:21.000Z",
-          "wordCount": 1084,
-          "title": "GIT ALM Field Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "1639 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Using Git rather than TFVC, a field guide.\nThis collection of works will help you with moving from using TFVC to using Git for your x++ development. This page will have several chapters linked as they are published. However, how do you know which is the best fit for you, your team, your organization or your project? Let's take an inventory.\nYou\nIf you're reading this, I assume you're interested in getting away from TFVC for some reason, you're a technically focused individual, and you understand the differences between using Git and TFVC. \nYour Team\nYour team should also be aware of what it takes to be successful in order to make a switch from TFVC to Git. They may need some additional training in order to get the the most out of Git. Developing and delivering with Git is a different exper…",
-          "link": "http://www.atomicax.com/content/git-alm-field-guide",
-          "publishedOn": "2022-04-01T12:29:21.000Z",
-          "wordCount": 1064,
+          "wordCount": 1283,
           "title": "GIT ALM Field Guide",
           "imageUrl": null
         },
@@ -2680,17 +2614,7 @@
           "description": "Submitted by Nathan Clouse on 03/25/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nGit      \nSource Control      \n\nWant to use Git with more than 1 Package? Let's review.\nThe process to get Git working with F&O can be a little involved and it may not make sense the first time. The issue we're presented with is that Git assumes you are starting with nothing - a directory that doesn't exist. When you fetch source code - clone it - Git wants you to clone it into a directory that doesn't exist yet. Our PackagesLocalDirectory very much so already exists. So, we have to help Git by moving in pieces of the repo into the directory then get everything back in working order. There are a few different ways to do this: The Hard Way, the easier way, and the easiest way.\n \nThe Hard Way\nWe'll be using https://github.com/…",
           "link": "https://www.atomicax.com/article/using-git-more-1-package",
           "publishedOn": "2022-03-26T03:16:29.000Z",
-          "wordCount": 1458,
-          "title": "Using Git with More than 1 Package",
-          "imageUrl": null
-        },
-        {
-          "id": "1655 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 03/25/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nGit      \nSource Control      \n\nWant to use Git with more than 1 Package? Let's review.\nThe process to get Git working with F&O can be a little involved and it may not make sense the first time. The issue we're presented with is that Git assumes you are starting with nothing - a directory that doesn't exist. When you fetch source code - clone it - Git wants you to clone it into a directory that doesn't exist yet. Our PackagesLocalDirectory very much so already exists. So, we have to help Git by moving in pieces of the repo into the directory then get everything back in working order. There are a few different ways to do this: The Hard Way and the easier way. \n \nThe Hard Way\nWe'll be using https://github.com/NathanClouseAX/FO…",
-          "link": "http://www.atomicax.com/article/using-git-more-1-package",
-          "publishedOn": "2022-03-26T03:16:29.000Z",
-          "wordCount": 1326,
+          "wordCount": 1674,
           "title": "Using Git with More than 1 Package",
           "imageUrl": null
         },
@@ -2700,148 +2624,8 @@
           "description": "what is a pull request? how do they work? what do they signify?\nCreate a Pull Request (PR)\nThe code is done but not the work. The developer still has to singal that his work is complete. We'll want to create a Pull Request or PR for short. There are 2 ways to do this. The first is in VS, which will just redirect you to Azure DevOps. The second is Azure DevOps. In VS, it can be found here:\n\nIn Azure DevOps, go to Repors, select your repo, select your branch then click \"create a pull request\".\n\nInside the PR, you can add some details for the PR. Additionally, reviewers and actions can be configured inside DevOps.\n\nNotice you can select what you are creating a PR into. You can set a reviewer or additional reviewer if you'd like. Also notice that the PR is automagically associated with out bug work item. Let's create the PR.\n\nAs you can see, it merged successfully on its own and now we, or the approver, can approve and complete. Typically we wouldn't approve our own PRs. We'll see this when we complete.\n\nWe'll have an option for the merge type, if we want to use something different. Additionally, we have \"complete associate work items after merging\" checked as well as \"delete bug200 after merging\". This will resolve the bug setting it's status to done and deleting the branch we created for the work item called \"bug200\". Next, click \"Complete merge\". This is what the bug work item looks like after completing the PR:\n\nThe work item's status is \"Done\". Also note the links section. We can see that we had a commit and PR. However, the link to branch is now gone because the branch itself is gone.\nConclusion\nBecause Git Branches allow us to pull everything up, rather the push specific changesets like in TFVC, we can more easily keep track of what is where. As a for instance, until bug 200's work gets a completed PR, I know it's only in the branch for that work item.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nBlog Main Tag: \nGit",
           "link": "https://www.atomicax.com/content/part-5-pull-requests-prs",
           "publishedOn": "2022-03-22T00:40:26.000Z",
-          "wordCount": 941,
+          "wordCount": 1100,
           "title": "Part 5 - Pull Requests (PRs)",
-          "imageUrl": null
-        },
-        {
-          "id": "1652 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "what is a pull request? how do they work? what do they signify?\nCreate a Pull Request (PR)\nThe code is done but not the work. The developer still has to singal that his work is complete. We'll want to create a Pull Request or PR for short. There are 2 ways to do this. The first is in VS, which will just redirect you to Azure DevOps. The second is Azure DevOps. In VS, it can be found here:\n\nIn Azure DevOps, go to Repors, select your repo, select your branch then click \"create a pull request\".\n\nInside the PR, you can add some details for the PR. Additionally, reviewers and actions can be configured inside DevOps.\n\nNotice you can select what you are creating a PR into. You can set a reviewer or additional reviewer if you'd like. Also notice that the PR is automagically associated with out bug work item. Let's create the PR.\n\nAs you can see, it merged successfully on its own and now we, or the approver, can approve and complete. Typically we wouldn't approve our own PRs. We'll see this when we complete.\n\nWe'll have an option for the merge type, if we want to use something different. Additionally, we have \"complete associate work items after merging\" checked as well as \"delete bug200 after merging\". This will resolve the bug setting it's status to done and deleting the branch we created for the work item called \"bug200\". Next, click \"Complete merge\". This is what the bug work item looks like after completing the PR:\n\nThe work item's status is \"Done\". Also note the links section. We can see that we had a commit and PR. However, the link to branch is now gone because the branch itself is gone.\nConclusion\nBecause Git Branches allow us to pull everything up, rather the push specific changesets like in TFVC, we can more easily keep track of what is where. As a for instance, until bug 200's work gets a completed PR, I know it's only in the branch for that work item.",
-          "link": "http://www.atomicax.com/content/part-5-pull-requests-prs",
-          "publishedOn": "2022-03-22T00:40:26.000Z",
-          "wordCount": 886,
-          "title": "Part 5 - Pull Requests (PRs)",
-          "imageUrl": null
-        },
-        {
-          "id": "1647 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 03/15/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nforceselectorder      \nforcenestedloop      \n\nLet's explore what keywords forceSelectOrder and ForceNestedLoop do.\nIntroduction\nThe database access layer in X++ largely conceals it magic from us as developers and we hope it gets the SQL right - and it does. SQL is largely 99.9% accurate and about 95%-ish optimized for the workload presented. You can read more about some of the techniques we'll be using here. We'll be using keywords in an X++ select to how they change the query and what that change means. All tests below were run on a \"warm\" VHD using Contoso data - specifically USMF.\nSelect FirstOnly SalesTable\nFirst, we'll start with a simple select firstonly on SalesTable. This took 30 milliseconds and generated the follow…",
-          "link": "https://www.atomicax.com/article/select-firstonly-vs-select-firstonly-forceselectorder-forcenestedloop",
-          "publishedOn": "2022-03-16T02:03:59.000Z",
-          "wordCount": 1943,
-          "title": "Select FirstOnly vs Select FirstOnly ForceSelectOrder ForceNestedLoop",
-          "imageUrl": null
-        },
-        {
-          "id": "1647 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 03/15/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nforceselectorder      \nforcenestedloop      \n\nLet's explore what keywords forceSelectOrder and ForceNestedLoop do.\nIntroduction\nThe database access layer in X++ largely conceals it magic from us as developers and we hope it gets the SQL right - and it does. SQL is largely 99.9% accurate and about 95%-ish optimized for the workload presented. You can read more about some of the techniques we'll be using here. We'll be using keywords in an X++ select to how they change the query and what that change means. All tests below were run on a \"warm\" VHD using Contoso data - specifically USMF.\nSelect FirstOnly SalesTable\nFirst, we'll start with a simple select firstonly on SalesTable. This took 30 milliseconds and generated the follow…",
-          "link": "http://www.atomicax.com/article/select-firstonly-vs-select-firstonly-forceselectorder-forcenestedloop",
-          "publishedOn": "2022-03-16T02:03:59.000Z",
-          "wordCount": 2020,
-          "title": "Select FirstOnly vs Select FirstOnly ForceSelectOrder ForceNestedLoop",
-          "imageUrl": null
-        },
-        {
-          "id": "1645 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Let's see how data values effect entity performance.\n\nRelated to Part 17, I didn't quite get the result I was looking for so I created a large amount of data - approximately 400k orders. We will be running the same tests as in part 17 - only the amount of data has changed. I wasn't satisfied with creating, confirming, packing and invoicing 400k Sales Orders. I let the multithreaded batch job run a little bit longer this time and created approximately 4.5 million SO's that were confirmed, packed, and invoiced. Here Is what I found.\nData Growth Rate (more Infinite Hyper Death)\nI was interested in the overall growth of data over time just to see what is happeneding in terms of throughput. Also, I wanted to record if there was a measureable difference between using Standard HDDs on the VM vers…",
-          "link": "https://www.atomicax.com/content/part-175-more-over-using-computed-fields",
-          "publishedOn": "2022-02-09T03:05:06.000Z",
-          "wordCount": 1158,
-          "title": "Part 17.5 - (more) Over Using Computed Fields",
-          "imageUrl": null
-        },
-        {
-          "id": "1644 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 02/08/22.\n\n\n\n\n\n\n\n\n\n\n\n\nWhat can we do with ATL to create some transactions? Let's take a look.\nAfter this post, I wanted to manufacture some data to better show that adding computed fields adds overhead for every operation within a data entity. That post somewhat showed it but I wanted something more cut and dry. I thought a good way to manufacture data in a Contoso environment would be use ATL, string together some ATL processes to create, pack, and invoice orders. In designing a way to do this, I had to fumble my way through how to do it. I wanted to add approximately 10 million processed orders. It didn't exactly work out but here is what I learned.\nLegal Entities\nRather than specificially provide values for your known legal entities, you can create Demo Dat…",
-          "link": "https://www.atomicax.com/article/using-atl-create-data-model-data-volume-testing",
-          "publishedOn": "2022-02-09T01:33:15.000Z",
-          "wordCount": 1732,
-          "title": "Using ATL to Create Data to Model Data Volume Testing",
-          "imageUrl": null
-        },
-        {
-          "id": "1644 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 02/08/22.\n\n\n\n\n\n\n\n\n\n\n\n\nWhat can we do with ATL to create some transactions? Let's take a look.\nAfter this post, I wanted to manufacture some data to better show that adding computed fields adds overhead for every operation within a data entity. That post somewhat showed it but I wanted something more cut and dry. I thought a good way to manufacture data in a Contoso environment would be use ATL, string together some ATL processes to create, pack, and invoice orders. In designing a way to do this, I had to fumble my way through how to do it. I wanted to add approximately 10 million processed orders. It didn't exactly work out but here is what I learned.\nLegal Entities\nRather than specificially provide values for your known legal entities, you can create Demo Dat…",
-          "link": "http://www.atomicax.com/article/using-atl-create-data-model-data-volume-testing",
-          "publishedOn": "2022-02-09T01:33:15.000Z",
-          "wordCount": 1795,
-          "title": "Using ATL to Create Data to Model Data Volume Testing",
-          "imageUrl": null
-        },
-        {
-          "id": "1641 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "What happens when you add lots of computed fields to a data entity? Let's take a look\n\n\nIn part 16, we talked about using computed columns. Next, let's take this to next logical conclusion - using them way too much. We're going to compare 4 different scenarios from a performance perspective when working with customers. We'll have the following data entities:\nCustCustomerV2Entity - we'll use this entity to establish a baseline\nAAXCustCustomerV3Entity - this is a copy of CustCustomerV2Entity with 1 additional computed field; \"Sales Last Year\"\nAAXCustCustomerV4Entity - just like AAXCustCustomerV3Entity but has 2 additional computed fields; \"Sales Last Year\" and \"Sales This Year\"\nAAXCustCustomerV5Entity - Just like AAXCustCustomerV3Entity but has 22 additional competed fields to get sales valu…",
-          "link": "http://www.atomicax.com/content/part-17-over-using-computed-fields",
-          "publishedOn": "2022-02-07T04:47:34.000Z",
-          "wordCount": 1377,
-          "title": "Part 17 - Over Using Computed Fields",
-          "imageUrl": null
-        },
-        {
-          "id": "1642 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Let's explore the order of operations when using a data entity.\nWhen creating a solution that may use a data entity, OData or not, it may be helpful to understand the precise order of operations for what gets called when in the call stack. Also, when extending OOTB data entities, what changes you are going to make may have changes to the overall performance of the data entity depending on where you put them. Since data entities are generally not the most performant things even at the best of times, having a deep understanding of what is occurring when can help prevent performance headaches later. \nWho does What When Why?\nEach operation with a data entity (CRUD + Action method(s)) has a slightly different execution path depending on how it is called, what operation is being used and by what…",
-          "link": "http://www.atomicax.com/content/part-18-order-operations-data-entities",
-          "publishedOn": "2021-12-01T03:56:11.000Z",
-          "wordCount": 1024,
-          "title": "Part 18 - Order Of Operations for Data Entities",
-          "imageUrl": null
-        },
-        {
-          "id": "1638 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "What are the differences between an Action Method and a Computed Column? Let's take a look.\nData entities have a few options for getting data to present in a specific way. One way is to use a virtual field with postLoad(). However, we can also use computed column as well as action methods. Both have their results exposed via OData but computed columns also present in the DMF when exporting (plus importing with some extra code).  \nWhat's a computed column?\nDocumentation on this can be found here. In simple terms, it is a field that is calculated whenever the data entity is executed. This is done by the view for the data entity and not with X++. The location where this type of column is populated, on the SQL server rather than the AOS, is an important distinction. This means that SQL sever i…",
-          "link": "http://www.atomicax.com/content/part-16-action-methods-and-computed-columns",
-          "publishedOn": "2021-07-17T03:05:44.000Z",
-          "wordCount": 1681,
-          "title": "Part 16 - Action Methods and Computed Columns",
-          "imageUrl": null
-        },
-        {
-          "id": "1627 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "What is Throttling, a 429 Status code, how do we handle them, and create safe patterns for using OData Entities?\nThrottling, in a general sense, is something acting upon another actor to actively hinder a process or request. Dynamics 365 For Finance and Operations recently added Priority-based Throttling. In the past, when hitting an OData endpoint, we only had to worry about non-affirmative timeouts; it took longer than 120 seconds to complete. It didn't specifically matter to me, the consumer of an endpoint, what else Finance and Ops may have going on. Now, with priority-based throttling, it is my problem as a consumer. I now get affirmative decline in the form of a 429 HTTP return code.\nWhen does throttling occur?\nI'd suggest you review the FAQ for Priority-Based Throttling. However, in…",
-          "link": "http://www.atomicax.com/content/part-15-429s-throttling-and-how-manage-it",
-          "publishedOn": "2021-07-12T03:28:03.000Z",
-          "wordCount": 1904,
-          "title": "Part 15 - 429s, Throttling and How to Manage It",
-          "imageUrl": null
-        },
-        {
-          "id": "1624 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "What can we learn about update performance from simple entities?\n\nSimilar to how we tested insert performance for simple entities, we're going to run similar tests to see what kind of performance we can expect with an update workload for a \"simple\" entity.\nThe Tests\nTo draw out values and differences, we'll be testing with 2 basic test types: \"Minimum\" and \"Maximum\", just like we have in the past. What we're trying to draw out is the performance difference between updating a record with a small amount of attributes specified and quite a few attributes specified. To help draw out our datapoints, we will be using a version of the SalesOrderHeaderV2 data entity that has all references to all tables that are not SalesTables removed. This entity exposed table SalesTable with nearly no business …",
-          "link": "http://www.atomicax.com/content/part-13-update-performance-simple-entities",
-          "publishedOn": "2021-06-21T02:18:45.000Z",
-          "wordCount": 1062,
-          "title": "Part 13 - Update Performance for Simple Entities",
-          "imageUrl": null
-        },
-        {
-          "id": "1623 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "What can we learn about update performance from complicated entities?\n\nSimilar to how we tested insert performance for complicated entities, we're going to run similar tests to see what kind of performance we can expect with an update workload.\nThe Tests\nTo draw out values and differences, we'll be testing with 2 basic test types: \"Minimum\" and \"Maximum\", just like we have in the past. What we're trying to draw out is the performance difference between updating a record with a small amount of attributes specified and quite a few attributes specified. Does the distinction matter or not so much? We'll be using the Sales Orer Header V2 entity for both tests to see how data can change performance. This is a distinct test as we'll be measuring performance of the update operation only, not the f…",
-          "link": "http://www.atomicax.com/content/part-12-update-performance-complicated-entities",
-          "publishedOn": "2021-06-21T02:14:30.000Z",
-          "wordCount": 1024,
-          "title": "Part 12 - Update Performance for Complicated Entities",
-          "imageUrl": null
-        },
-        {
-          "id": "1622 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "What can we learn about insert performance from complicated entities?\nSimlar to our last entry, what makes a data entity \"simple\"? Let's re-run the same tests from Insert Performance For Complicated Entities but with a simple entity. I would define a simple entity as an entity that has 1 or 2 tables, can perform it's tasks with a small amount of code, and is build to be light weight for a specific purpose. I would describe it as something that doesn't do much but the few things it does do, it does very quickly.\nThe Tests\nTo draw out the differences between specifying a minimalist set of attributes to create a Sales Order header and specifying lots of attributes, we'll be using a custom entity called AAXSalesOrderHeaderV2EntityReadOnly. This is a copy of SalesOrderHeaderV2 with all tables r…",
-          "link": "http://www.atomicax.com/content/part-11-insert-performance-simple-entities",
-          "publishedOn": "2021-06-07T01:40:46.000Z",
-          "wordCount": 1086,
-          "title": "Part 11 - Insert Performance for \"Simple\" Entities",
-          "imageUrl": null
-        },
-        {
-          "id": "1621 at http://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "What can we learn about insert performance from complicated entities?\n\nWhat makes a data entity complicated? What makes a data entity slow? Let's take a look at data entity performance when inserting records and see what we can learn. First, let's define a \"complicated\" entity. I would classify a complicated entity has having lots of data sources ( 5 or more ), having lots of code related to it and in the entity itself. Additionally, because these have lots of data sources and code, depending on what fields are specified, the performance of the entity will change based on the data being specified. As a for instance consider what an entity that accepts addressing info would do when an address is specified compared to what it would do when an address is not specified. \nThe Tests\nTo draw out …",
-          "link": "http://www.atomicax.com/content/part-10-insert-performance-complicated-entities",
-          "publishedOn": "2021-06-07T01:31:07.000Z",
-          "wordCount": 1148,
-          "title": "Part 10 - Insert Performance for Complicated Entities",
           "imageUrl": null
         }
       ]
@@ -4039,7 +3823,7 @@
     },
     {
       "title": "D365 Snippets",
-      "feedUrl": "https://www.d365snippets.com/feeds/posts/default",
+      "feedUrl": "https://d365snippets.com/feeds/posts/default",
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
         {
@@ -4048,7 +3832,7 @@
           "description": "In this article, we will discuss the flash fill feature of Microsoft Excel. As the name mentioned, Flash fill executes tedious tasks in a flash, it is one of the amazing features introduced by Microsoft in 2013. \nBefore introducing flash fill functionality in excel, Microsoft excel uses used complex formulas to do the required tasks easily. But after introducing the flash fill tool, it reduced the complexity and execution time.\nFor example: before introducing the flash fill property, to split the first name from a full name excel users used a formula,\nTo extract the first name “Sachin” from “Sachin Tendulkar” we need to use a formula \n= left (A2, search (“”, A2,1))\n\n\n\nSimilarly, users need to write another formula to extract “Tendulkar” from “Sachin Tendulkar”.\nWhere is Flash Fill Located …",
           "link": "https://www.d365snippets.com/2022/12/what-is-flash-fill-in-excel-how-to-use-flash-fill-in-excel.html",
           "publishedOn": "2022-12-11T17:40:00.002Z",
-          "wordCount": 7092,
+          "wordCount": 7084,
           "title": "What is Flash Fill in Excel ? How to use flash fill in Excel ?",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimyFYc3WfZVx6Ct-6u0KoMm325WpNCT5zO9-Dc4fhXpIKUFyTiUd-NM2O1nqGgio_5OC_l7nDYx6-XUR37OLpLD8NUtmIr44O2PdVThrokALuNVCTn8nfnedQiyHG6PLd1xqny62HzIDqkztv1_Z2FbJ93haXKwKwI4OU-vTl8Zoz2h7aSH56-uce1xA/s16000/Flash%20Fill%20in%20Excel%20how%20to%20use%20flash%20fill%20in%20excel%20office365.jpg"
         },
@@ -4058,7 +3842,7 @@
           "description": "1. What is Dynamics 365 Finance & Operations?\nMicrosoft Dynamics 365 is a cloud-based business platform developed by Microsoft, which is designed as a cloud-based Enterprise Resource Planning (ERP) by Microsoft on the Azure Platform. The browser-based Microsoft Dynamics 365 Finance & Operations replaces the previous version on-premise version Dynamics AX. \nThe responsibility of a Dynamics 365 Developer is to develop new modules or customize the existing modules. As Dynamics 365 is a high customization system, a developer with significant knowledge in D365 development can deliver high-quality solutions. \nThe minimum Software requirements for Dynamics 365 Server is, It can be hosted locally or can use the Microsoft cloud platform, Microsoft Azure. A minimum of 16 GB of RAM and 2 CPU Cores ar…",
           "link": "https://www.d365snippets.com/2022/12/microsoft-dynamics-365-interview-questions-and-answers-2023-update.html",
           "publishedOn": "2022-12-09T19:14:00.004Z",
-          "wordCount": 9617,
+          "wordCount": 9185,
           "title": "Microsoft Dynamics 365 Interview Questions and Answers 2023 Update",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-DKyknMn5FUP4b6hnCTCSvxol3Rb2RVBGOqPBZ17AaiKyV5aCb2D1mbddNn1IDg8YE_oTdZcq6U6oscVbNTADbeIpdHvz_8FD6XeoZl7yD3aU8bxL3b4dQV3S8mhID1J_acPGspHUY2B5z2EUEOZUMBAIyJuSh2_gRUFHggK7soQ34XBKUatac3V/s16000/microsoft-dynamics-365-interview-questions-and-answers-2023-update.jpg"
         },
@@ -4067,8 +3851,8 @@
           "author": null,
           "description": "In the previous article, I explained how to create a label file and to use a label file to display texts and titles on user interfaces. In this article, I will explain Extended data types (EDTs).\nWhat are Extended Data Types (EDT) in D365?\nExtended data types commonly referred to as EDTs are user-defined types, based on primitive data types like boolean, integer, real, string, and date, and the composite data type container. You can also base EDTs on other EDTs. An EDT is a primitive data type or container with a supplementary name and some additional properties. \nFor example, You can create one EDT named Description with the property StringSize is 100 characters, which is derived from a Base primitive data type string. This newly created EDT you can use anywhere instead of using the primi…",
           "link": "https://www.d365snippets.com/2022/12/what-is-an-extended-data-type-in-dynamics-365-and-how-to-create-extended-data-types-in-microsoft-dynamics-365.html",
-          "publishedOn": "2022-12-06T20:10:00.000Z",
-          "wordCount": 8108,
+          "publishedOn": "2022-12-06T20:10:00.004Z",
+          "wordCount": 7684,
           "title": "What is Extended Data Types (EDTs) in D365 and How to create Extended Data Types(EDTs)",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdlVG30VzB38QwTBKGofin0KC_8kCrVAkIk5ln8zIA0okbGghOEqfY3j-Bp_NUmuDZfLucZ3sQ-m0uAit5Npr2_cWWn0nvVfZc2Igjt3_SmOw6hDQpDQXQbZ6zEaYIqW3YepQf97BRc7wJmvDRTpMdB0fVxVByJ82NMDXM3BJYd9f1hk8J0s78LEr/s16000/What%20is%20Extended%20Data%20Types%20(EDTs)%20in%20D365%20and%20How%20to%20create%20Extended%20Data%20Types(EDTs).jpg"
         },
@@ -4077,18 +3861,18 @@
           "author": null,
           "description": "What is a Label file in Dynamics 365 FO?\nIn D365 FO development you can directly input the labels, titles, or captions of any user interface, But in Standard project development, we need labels for displaying captions or titles in our user interface. The best practical method to achieve this goal is to use a label file. This label file contains a list of label IDs and related labels which are to be displayed on the user interfaces. You can call the label IDs to the user interfaces where you want to display the label. So, after creating a label file you must need to input a Label ID, a Label that is to be displayed on the user interfaces.\nIn this article, I will show you how to create a label file and how to use the created label file to display texts or titles on the user interfaces. \nIf y…",
           "link": "https://www.d365snippets.com/2022/11/how-to-creare-a-label-file-in-d365-fo-2022-update.html",
-          "publishedOn": "2022-11-11T19:16:00.005Z",
-          "wordCount": 9286,
+          "publishedOn": "2022-11-11T19:16:00.010Z",
+          "wordCount": 7445,
           "title": "How to Create a Label File in D365 FO",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrlJVIbHZUVhv1tvcV8Fjwew3J9peXrwTtppou2GtX5F4jpVWrblxst5BD_LJEE1a4R4DordFjALExRs6W4J74N3VRdYkAyJbTyNlK_uLpIme4HBSsa9srWvm_pYrIV7uioRFmdBcEooi0rjAxguFTXeZdNBE8L8USE6TiXXr4NTlFFehxHL_h_KuH/s16000/how-to-creare-a-label-file-in-d365-fo-2022-update.jpg"
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitBl8QUpLXt8Jph5vWqPa3-Qw64lpW_69NeD4PN6qgqu7lN0SJHj11OCALodaPQVy5nwDyaIJrM2EfjcM7jeUaWsNzx0v0Fm9PM7lAK6IDBlIqmYMHwZdxIbaEOwdzAGHVliB4UcTtvvCZTCCZA-99DBDIfgaKKnlhCDtKvR34TZBofIPVwQn0yCNi/s16000/how-to-creare-a-label-file-in-d365-fo-2022-update.jpg"
         },
         {
           "id": "https://www.d365snippets.com/2022/10/what-is-a-model-in-D365-FO-and-how-to-create-a-model-in-D365-FO.html",
           "author": null,
-          "description": "As we know, the complete D365 Finance and Operation developments are based on these four terminologies Package, Model, Project, and Element. So as a developer you need to know processes how to create a model, how to update a model, and how to delete a model.\n\n\n\nWhat is a Model in D365?\n\nA model is a group of elements, such as metadata and source files, that typically constitute a distributable software solution and includes customizations of an existing solution. A model is a design-time concept, for example, a warehouse management model or a project accounting model. A model always belongs to a package. A package is a deployment and compilation unit of one or more models. It includes model metadata, binaries, and other associated resources. One or more packages can be packaged into a depl…",
+          "description": "As we know, the complete D365 Finance and Operation developments are based on these four terminologies Package, Model, Project, and Element. So as a developer you need to know processes how to create a model, how to update a model, and how to delete a model.\n\nWhat is a Model in D365?\n\nA model is a group of elements, such as metadata and source files, that typically constitute a distributable software solution and includes customizations of an existing solution. A model is a design-time concept, for example, a warehouse management model or a project accounting model. A model always belongs to a package. A package is a deployment and compilation unit of one or more models. It includes model metadata, binaries, and other associated resources. One or more packages can be packaged into a deploy…",
           "link": "https://www.d365snippets.com/2022/10/what-is-a-model-in-D365-FO-and-how-to-create-a-model-in-D365-FO.html",
-          "publishedOn": "2022-10-28T16:11:00.003Z",
-          "wordCount": 9415,
+          "publishedOn": "2022-10-28T16:11:00.007Z",
+          "wordCount": 7581,
           "title": "What is a model in D365FO and how To create a model in D365FO - Online Training Course Part 5",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZrqc5s20FC9qpCvAJSACQq92Jj-_UbAcxRJtkFKqeYpo9F6lVY61KDrLpMReoXi1k8NwFiguWJBWu_iT4K9KdMWT-ZiGwp4ClqhEMCQc3ifSf-zjBMm1C7Bd3uNYuSoWVp6Nfy7RLNRoRDVLUSLZqgoH667tMZXlpHaOvA0Py-xuPycEdHQwqNhif/s16000/what-is-a-model-in-D365-FO-and-how-to-create-a-model-in-D365-FO.jpg"
         },
@@ -4098,7 +3882,7 @@
           "description": "In the previous article, I already showed the very simplest type of lookup in D365 FO, which was EDT lookup, for making an EDT type lookup, a developer does not need to worry more about writing x++ coding. In this tutorial, we are going to make a custom lookup using x++ for form in D365FO.\n \nWhat is a lookup in D365 FO? \n Lookups are the standard way to display a list of possible selection values to the user. For a user, while editing or creating database records, a lookup makes the data entry easy and errorless. In Microsoft dynamics 365 finance and operations, there are many ways of creating lookups. \n Normally, standard lookups are created automatically by the system in Dynamics 365 for Finance and Operations and are based on the extended data types and table setup. They are based on ta…",
           "link": "https://www.d365snippets.com/2022/10/how-to-create-lookup-in-d365fo-using-x-code-2022-update.html",
           "publishedOn": "2022-10-17T19:37:00.016Z",
-          "wordCount": 9403,
+          "wordCount": 7563,
           "title": "How to create lookup in D365FO using X++",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9FVd2A_7QG-vuTCzXW-JU4T_svThIkLUJlmYWSVAaARqQLas2XnVcnqFk77Qj1ogEFEuG-Y6F6bGdaXkxlqrF1xTqWjxy5zyAgSjejokPMuS78fk5Cum1S9850KF-ae64wwGYDW3CqLFHN0QlcFpLVazrOy_zES890A6XMMtagaG5raIt2XhnkdFU/s16000/Screenshot_1.jpg"
         },
@@ -4108,17 +3892,17 @@
           "description": "How to create a lookup in D365FO using X++?\n\nLookups are the standard way to display a list of possible selection values to the user. For a user, while editing or creating database records, a lookup makes the data entry easy and errorless. In Microsoft dynamics 365 finance and operations, there are many ways of creating lookups.\nEDT and Table Relation Type lookups are the simplest forms of lookups in Microsoft dynamics 365 finance and operations.\nIn this article, I will describe the very simplest type of lookup, which is EDT lookup, for making an EDT type lookup, a developer does not need to worry more about writing x++ coding, \n   \nNormally, standard lookups are created automatically by the system in Dynamics 365 for Finance and Operations and are based on the extended data types and tabl…",
           "link": "https://www.d365snippets.com/2022/10/auto-lookup-using-edt-with-table-reference-in-d365-fo.html",
           "publishedOn": "2022-10-14T19:09:00.012Z",
-          "wordCount": 9041,
+          "wordCount": 7207,
           "title": "How to Create Auto Lookup Using EDT with Table Reference in D365 F&O",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcPRFLvuzPtqWC5wrtIWHo13QZPB-WWsmYb9aEavx9SjLRv2dcfc8fEmbVgk1Pbb39hiylCvHBlaX2OAvtb0i8kn_kB-XDA2OHji_31K_0OBD9d3-d50GDPSIq2miApPbtcdJ-qhTZVHoNt78zfbUyMMJk_5DtwIZRl9Eyy-QM0_K21rU8t_iqoTwJ/s16000/Screenshot_5.jpg"
         },
         {
           "id": "https://www.d365snippets.com/2022/10/understanding-layers-in-dynamics-365-finance-and-operations-online-training-course-part-4.html",
           "author": null,
-          "description": "In Microsoft Dynamics 365 Finance and Operations, the layer system is used to manage application components in a predefined order. USR layer is the highest layer and SYS is the lowest layer. The purpose of layers is to give developers the option to modify Microsoft's code but only in one of the layers that the developer has access to.\n\n\n\nThe following table shows all layers and associated usage:\n\n\nUSR - The user layer is for user modifications, such as reports. \nCUS - The customer layer is for modifications that are specific to a company. \nVAR - Value Added Resellers (VAR) can make modifications or new developments to the VAR layer as specified by the customers or as a strategy for creating an industry-specific solution. \nISV - When an Independent Software Vendor (ISV) creates its own solution, its modifications are saved in the ISV layer. \nSLN - The solution layer is used by distributors to implement vertical partner solutions. \nFPK - The FPK layer is an application object patch layer reserved by Microsoft for future patching or other updates.\nGLS - When the application is modified to match country or region-specific legal demands, these modifications are saved in the GLS layer.\nSYS - The standard application is implemented at the lowest level, the SYS layer. The application objects in the standard application can never be deleted.\n\n\nThe bottom layer would be the SYS layer, which is where the standard application code resides and is accessible only to Microsoft. Other layers like ISV (Independent Software Vendor) and VAR (Value Added Reseller) can be accessed by providing keys provided by Microsoft for each layer except USR (User) who does not need a key.",
+          "description": "In Microsoft Dynamics 365 Finance and Operations, the layer system is used to manage application components in a predefined order. USR layer is the highest layer and SYS is the lowest layer. The purpose of layers is to give developers the option to modify Microsoft's code but only in one of the layers that the developer has access to.\n\n\n\nThe following table shows all layers and associated usage:\n\n\nUSR - The user layer is for user modifications, such as reports. \nCUS - The customer layer is for modifications that are specific to a company. \nVAR - Value Added Resellers (VAR) can make modifications or new developments to the VAR layer as specified by the customers or as a strategy for creating an industry-specific solution. \nISV - When an Independent Software Vendor (ISV) creates its own solution, its modifications are saved in the ISV layer. \nSLN - The solution layer is used by distributors to implement vertical partner solutions. \nFPK - The FPK layer is an application object patch layer reserved by Microsoft for future patching or other updates.\nGLS - When the application is modified to match country or region-specific legal demands, these modifications are saved in the GLS layer.\nSYS - The standard application is implemented at the lowest level, the SYS layer. The application objects in the standard application can never be deleted.\nThe bottom layer would be the SYS layer, which is where the standard application code resides and is accessible only to Microsoft. Other layers like ISV (Independent Software Vendor) and VAR (Value Added Reseller) can be accessed by providing keys provided by Microsoft for each layer except USR (User) which does not need a key.",
           "link": "https://www.d365snippets.com/2022/10/understanding-layers-in-dynamics-365-finance-and-operations-online-training-course-part-4.html",
-          "publishedOn": "2022-10-03T09:05:00.006Z",
-          "wordCount": 8754,
+          "publishedOn": "2022-10-03T09:05:00.007Z",
+          "wordCount": 6921,
           "title": "Understanding Layers in Dynamics 365 Finance and Operations - Online Training Course Part 4",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghQ6kAmM1QrTZ_-fx5_wvPS6WA9AdPWJGajNTjV1CjrAleAp5XHJvn58XQLMLsHQLQlxJ5fi7Q6FdVRFJacC-AkIsD2mZcGliWLNqgp7qdW3OA32stN76x0vmSWN7MjLHSStP4ykeXNpydiKtyMG3OVvYGtcsI2r36ltQui64ABHoafqXxqt00pVUj/s16000/Understanding%20Layers%20in%20Dynamics%20365%20Finance%20and%20Operations.jpg"
         },
@@ -4128,7 +3912,7 @@
           "description": "From the client environment (normally a Browser) request is sent to the AOS server. AOS server stands for Application Object Server will process this request. So, all requests and responses are processed from the AOS environment. If required, this AOS is communicated with the Database server, and finally processed response is sent back to the client. This is the normal Three tier architecture followed by D365.",
           "link": "https://www.d365snippets.com/2022/10/three-tier-architecture-in-dynamics-365-finance-and-operations-online-training-course-part-3.html",
           "publishedOn": "2022-10-02T13:58:00.006Z",
-          "wordCount": 8561,
+          "wordCount": 6728,
           "title": "Three Tier Architecture in Dynamics 365 Finance and Operations - Online Training Course Part 3",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFxymn02J8JgXvUzhfdglva2IA6l9iQR6mScFBWfCaAdASbBpbLpMytiV8zlT0DlpvZub1amIBKAeB9tDTvMBpoLKD_s_airF5xz90bNiqk6Vqq1I2kFu90XGWUMoJj5uRdBtLGL6FNIH9uNm6VTqDA7Vs9o_vNUQNHMCJ48ykEQmhyQDl_FLxyWph/s16000/Three%20Tier%20Architecture%20in%20Dynamics%20365%20Finance%20and%20Operations.jpg"
         },
@@ -4138,7 +3922,7 @@
           "description": "All the articles written here are mainly targeted at beginners. If you are a beginner or planning your career with dynamics 365 finance and operations, these articles are for you.\n In the coming sessions, we must practice more to get a clear picture of the concepts. So, we need to configure the technical and functional environments, \n If you are a beginner don't worry about the technical and functional environments, all the practical sessions we covered through this training sessions are by using Microsoft's free Lab. There you can set up an online Virtual Machine for D365 F&O for Technical and Functional learning purposes Freely. Microsoft provides a VM Mode for a free, web-based virtual machine environment for D365 F&O Learners. \n Read this Article: How to Set Up a Free Virtual Machine f…",
           "link": "https://www.d365snippets.com/2022/10/what-is-microsoft-dynamics-365-finance-and-operations-online-training-course-part1.html",
           "publishedOn": "2022-10-02T13:43:00.006Z",
-          "wordCount": 9004,
+          "wordCount": 7166,
           "title": "What is Microsoft Dynamics 365 Finance and Operations? - Online Training Course Part1",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqiN7tqr4NwcFO8H9DHm9FNnJ7W761qfyCJjwsDN9lJMllI0kwveIk9VCsMaocR2i5H1zfDtuUhVxAaStEtelkL1UsNnW09PmGs2ScgQvkeUFHdTyrQIdHjGRGkJJXhE5Iq7xCDa8dL5gM7NeSD6jR9khaWKCgOBQcAyh7hqWCcpEzTOZ_EPtJ86zm/s16000/microsoft%20dynamics%20365%20finance%20and%20operations%20free%20online%20course.jpg"
         },
@@ -4148,7 +3932,7 @@
           "description": "It can be hosted locally or can use the Microsoft cloud platform, Microsoft Azure. A minimum of 16 GB of RAM and 2 CPU Cores are required, more RAM and CPU cores increase the speed of compilation. This is the basic requirement for running a Dynamics 365 application.\n\n\n\nDevelopment environments can be hosted locally or on Microsoft Azure. The build process, X++ compilation, and generation of cross-reference information typically run satisfactorily on machines with 16 GB of memory and two CPU cores. The compiler uses available resources, so more RAM and more cores will speed up compilation, especially if there is contention for resources from other concurrent processes. If you run concurrent processes, we recommend 24 GB of memory with four cores. A minimum of two CPU cores is recommended because the developer environment contains many components running simultaneously. Components include AOS Web Application, Visual Studio, Management Reporter, and SQL Server.",
           "link": "https://www.d365snippets.com/2022/10/development-system-requirements-for-microsoft-dynamics-365-finance-and-operations-online-training-course-part2.html",
           "publishedOn": "2022-10-02T13:42:00.002Z",
-          "wordCount": 8653,
+          "wordCount": 6821,
           "title": "Development system requirements for Microsoft Dynamics 365 Finance and Operations? - Online Training Course Part2",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0QNxY8oPfuy-j1HakN52aJNQjm2NsqrmoTJjUPvgTKXqxSz098jyEmJnGevrzQjb9D06H3xd52gb8Zqad9RpsyFiVXEQt-l8BTtaRJBN9VD6pEPmL47Np5OgIQ1z1N19vyhTiaFv4ibfpmgtv9oW0nBKa4e5fP0dnnViNSdy7mXtjNucQMYKYnGnz/s16000/Development%20system%20requirements%20for%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations.jpg"
         },
@@ -4158,7 +3942,7 @@
           "description": "Building a calculator is a great project, especially if you have just started learning Dynamics 365 Finance and Operations Technical. It is quite simple for people of any skill level. This project covers the interactions between UI Design and Programming Functionality.\nTo get started, you need to consider the basic functionalities of a calculator. They include addition, subtraction, multiplication, division, delete, all-clear, and of course, the ability to use decimal numbers in performing these operations. But here we simply describe the basic four operations addition, subtraction, multiplication, and division.\nIf you are a beginner use Microsoft's free VM, where you can access both the Technical and Functional environments.\n\n\nIn the previous article, I already explained the UI Design pro…",
           "link": "https://www.d365snippets.com/2022/09/how-to-create-a-calculator-in-d365-fo-x-programming.html",
           "publishedOn": "2022-09-06T20:17:00.009Z",
-          "wordCount": 8965,
+          "wordCount": 7133,
           "title": "How To Create a Calculator in D365 F&O - Part 2  ( Adding  X++ Programming Functionality )",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinIgowK6Zn2zmGgdHFGU4NY2Ei5UeEz-ppliLxsygsX8-6uRB4eK1H0uKLH_Pu8G6kccblyGPc4f7MoFUVkVObBeNsRDl46ktvF3zx8cAElTHdZrQnnr7lNUxu9LPcqyrDJI9AIKlIJrc-JVn35aQrcpxMXsvVnYfOpp-0X_aLFx_Mxh9ENYBi_5dD/s16000/x++%20coding.jpg"
         },
@@ -4168,7 +3952,7 @@
           "description": "Building a calculator is a great project, especially if you have just started learning Dynamics 365 Finance and Operations Technical. It is quite simple for people of any skill level. This project covers the interactions between UI Design and Programming Functionality.\n\nTo get started, you need to consider the basic functionalities of a calculator. They include addition, subtraction, multiplication, division, delete, all-clear, and of course, the ability to use decimal numbers in performing these operations. But here we simply describe the basic four operations addition, subtraction, multiplication, and division.\n\nIn this article, I will explain only the UI Design process. In the next article, I will explain to you how to add Programming Functionality for functioning the basic functionalit…",
           "link": "https://www.d365snippets.com/2022/09/how-to-create-a-calculator-in-d365-fo-ui-design.html",
           "publishedOn": "2022-09-04T20:23:00.023Z",
-          "wordCount": 9322,
+          "wordCount": 7490,
           "title": "How To Create a Calculator in D365 F&O - Part 1  UI Design",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQEzqH4TlLiTIwUrki1jHNA7HtPrg0QWqkTDhIFjtqveAroUt1NocXHaWyesUj1jfYMJxHVr81eGp3UYtW_gL_SzBEzZ3e_wS2CWfU1vEJetVww5tZYIZejjqFNi4VcHJkowsUB6frBkFWaD2nJEHM2PVFZUPkThwZpbENe4EVY3M6MjcUojEpTk5O/w640-h359/How%20To%20Create%20a%20Calculator%20in%20D365%20F&O%20-%20Part%201%20%20UI%20Design.jpg"
         },
@@ -4178,7 +3962,7 @@
           "description": "I think this is one of the best articles which is very useful for beginners to understand the basic concept of customization in dynamics 365 FO. Here I am showing you how to add a field in a table and add this field into a form data source and form.\nFrom a beginner's perspective, adding a field to a table and reflecting on this newly created field at a form level will be good for their practices.\nSo let us start the topic, for easy understanding, I am taking the customer table CustTable and Customer Form CustTable, adding one remark filed in the Customer table, and adding this newly created table field into the form data source and form itself.\n\n\nIn the previous articles, I showed How to add a new field to an existing table in dynamics 365 finance and operations. This article is the contin…",
           "link": "https://www.d365snippets.com/2022/08/how-to-add-a-field-in-a-table-and-add-it-into-a-form-data-source-and-form-in-dynamics-365-fo.html",
           "publishedOn": "2022-08-02T18:56:00.012Z",
-          "wordCount": 9035,
+          "wordCount": 7202,
           "title": "How to add a field in a table and add it into a form data source and form in Dynamics 365 FO?",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOTohtVogI426GvcSvDxxuJmzVWk2SR2uj_g3bX7asV4DfyVWWeP00WKcXwyV8NrnezfTDsawe9QIYlZnRuqGlNlw4ADT9zFAHjLuJFcY0TKzA6oFm3KHv5If4UR--kN4VOB4Pt6qJf1LhZAb9OI9lsOH_H-y8B3ucLrl6VotGuTKyEzYxkS6QAynZ/s16000/How%20to%20add%20a%20field%20in%20a%20table%20and%20add%20it%20into%20a%20form%20data%20source%20and%20form%20in%20Dynamics%20365%20FO.jpg"
         },
@@ -4188,7 +3972,7 @@
           "description": "If you are a Dynamics 365 or AX developer primarily focused on delivering time-proven applications, then the books are for you. This book is also ideal for people who want to raise their programming skills above the beginner level, and, at the same time, learn the functional aspects of Dynamics 365 for Financial and Operations. Some X++ coding experience is expected.\nIf you are a beginner and looking for a career in Dynamics 365 FO, you must read these books. In my experience with D365 F&O learning, I have read many D365 F&O books for developers and consultants. I think that reading a book sometimes it’s better to have a good understanding of how to do things in the best way and not just solve the problem. \nIn this article, I will sort my Top 5 D365 F&O books based on my experience. If you…",
           "link": "https://www.d365snippets.com/2022/07/best-books-for-d365-fo-developers-and-cechnical-consultants.html",
           "publishedOn": "2022-07-20T20:33:00.037Z",
-          "wordCount": 10002,
+          "wordCount": 8168,
           "title": "Best books for D365 F&O Developers and Technical Consultants",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWpYvvkaqZoG5RBNJogzs5cpWsgiM-NN9JDHMoIPgaZgZHPob3tC7jx9yCSNAen9he_y0m6AnWbXxtxxlbvJSpjTJMsmlmzT4pN2zPHMzmEPZc8uazn0ZZn_e3HWUr2DQyLZ5NyDjEI-QxbiZZMxAJbMVLpwR2OD4mZ3EJdIYhJ7lXQkv6sVLrYEW7/s16000/book1.jpg"
         },
@@ -4198,7 +3982,7 @@
           "description": "In the previous article, we already discussed The model management in dynamics 365 F&O. In this article I will show how to add a new field to an existing table in dynamics 365 finance and operations. In most dynamics 365 finance and operations development, this is a common scenario.\nHow do achieve this task? is it possible to change the structure of existing base tables in dynamics 365? Yes,  In dynamics 365 this task is achieved by using the extension method.\nAn extension is a way to add functionality to an existing object in D365FO without modifying the base code of that object. Your extensions are compiled into their own DLLs, which are separate from the D365 base system libraries. \n\n\nIt also makes it easier for Microsoft to patch their SYS layer code. Microsoft has added to allow custo…",
           "link": "https://www.d365snippets.com/2022/07/how-to-add-a-new-field-to-an-existing-tabel-in-dynamics-365-finance-and-operations.html",
           "publishedOn": "2022-07-16T12:59:00.020Z",
-          "wordCount": 9186,
+          "wordCount": 7353,
           "title": "How to Add a New Field to An Existing Tabel in Dynamics 365 Finance and Operations",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlx-21leVmkOIb1uGZuiQ-LkrssWvhPGGbdCBJjYFPM3aC_9GfKQ-pmc02vOa4SCdCpFvZiDrPouRvFcTveT3OSGC01mNG6HZnrF8FYJMgV17UGSvQqCKuIi_YX6OE1xVEKwk80lctpC31LqP9YWOQlv-i7oW3hYOUtCr5onVgYN_eNf58PL0fw1EH/s16000/how-to-add-a-new-field-to-an-existing-tabel-in-dynamics-365-finance-and-operations.jpg"
         },
@@ -4208,7 +3992,7 @@
           "description": "In previous articles, we already discussed and created different models which are mandatorily required for customization. In this article, I am going to explain what a model is and why models are used in d365 projects.\nAs we know, the complete D365 Finance and Operation developments are based on these four terminologies Package, Model, Project, and Element. So as a developer you need to know processes how to create a model, how to update a model, and how to delete a model.\nHere’s a table of contents to help you find your way around:\n  \n  \nTable of contents\n\n\nWhat is a Model in D365?\nWhere is Model Data Stored in D365?\nCreating a model in D365.\nUpdate a model in D365.\nDeleting a model in D365.\n\n   \n  \n\n\n\nWhat is a Model in D365?\n \nA model is a design-time concept. A particular model can con…",
           "link": "https://www.d365snippets.com/2022/07/what-is-model-indfo-2022-with-example.html",
           "publishedOn": "2022-07-08T16:41:00.028Z",
-          "wordCount": 9482,
+          "wordCount": 7637,
           "title": "What is Model in D365FO With Examples",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXC9nuufFNLz5U51o0Ov22m8EGEqI0syEG3b-ORSWdPMDieee_gTjcXHuXGArgijHkb2IGEjQPGG-Ms3mpPLX77Cw_9UZszuh5hkXYIRBsEz63l7YgXFocke8mFxae52BKehh386XJGl7xsHMRGvIphKySj9ZlccBStWb689vwojKQM-dJgOP0RJB8/s16000/what-is-model-indfo-2022-with-example.jpg"
         },
@@ -4218,7 +4002,7 @@
           "description": "Supply Chain Management is defined as the process of managing the production and distributional flow to ensure flawless delivery and distribution of its products. It is one of the most important business activities to increase profits and customer satisfaction. \nSCM deals with the management of all the processes which are involved from creating raw material to delivering the final product to the consumer. In this article, we have discussed the objectives of supply chain management with a complete illustration and examples. We made it very simple for you to understand SCM objectives.\n\n\nSupply Chain analytics provide the manager a flow chart where they can analyze each and every step of product distribution and point out the problems in the system. For instance, in case of a big order, the m…",
           "link": "https://www.d365snippets.com/2022/07/what-is-scm-what-is-supply-chain-management.html",
           "publishedOn": "2022-07-03T18:19:00.056Z",
-          "wordCount": 10151,
+          "wordCount": 8315,
           "title": "Supply Chain Mangement (SCM) - Basic Concepts",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkckrGZLF2pVTQHDCblsqDO-iyJROuApVPN9hKUMTWPrdf-6CRwNPiV1CfPKqBowHBr4N9mknY-uhVdPMBKgthMuJcVdoh4zO5i_jrtORYFE8vRAXCfDsHoI-lRjd19s8gTHkDEV4HnjO4-41MmQ8NSHxCAHSdui_zdNtZZBYQ7c4_yxLCcd6LIROQ/s16000/what-is-scm-what-is-supply-chain-management.jpg"
         },
@@ -4228,7 +4012,7 @@
           "description": "In the previous article i explained How to create a dialog in Dynamics 365 Finance and Operations. In this article \"we learn what is a Container in Dynamics 365 Finance and Operations with a nice example\". As we know in X++, data types are divided into primitive data types and composite data types. Examples for primitive data types are int, str, real …. etc and examples for composite data types Arrays, Containers, Collection Classes.\nWhat is a container in X++ ?\nA container is a “composite data type”, which contains an ordered sequence of values (primitive dataTypes – int, str, real, date, boolean, enum etc.) or other containers or/and some composite data types. A container can be stored in the database as a dataBase coloumn created through AOT especially used to store images/files as a bl…",
           "link": "https://www.d365snippets.com/2022/06/what-is-container-in-dynamics-365-finance-and-operations.html",
           "publishedOn": "2022-06-16T18:58:00.043Z",
-          "wordCount": 9234,
+          "wordCount": 7398,
           "title": "What is a Container in Dynamics 365 Finance and Operations?",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglcqBoR18CHkLLNHIngoCxPNbm4bgRBstOMpqQhjelCstxFhal5WlAtLz7cHMK-OJ3y5eO5-40HVpMYiMrTsRYxFF8kYlrRug7pENmI-enY0WxafetJZG9UhZBeMLrjzSdVZ2pSyfZqcwyG7ZuSE0vuV7ZMRfgNLk833KOxbnzoSK-MRMCeLOqSG-G/s16000/Container%20in%20Dynamics%20365%20Finance%20and%20Operations.jpg"
         },
@@ -4238,7 +4022,7 @@
           "description": "In Microsoft Dynamics 365 Finance and Operations, a Dialog is a simple form with a standardized layout, which is created by using the Dialog system class. Dialogs are commonly used for small user tasks, such as filling the input values for generating a report, and presenting only the most important fields to the user when creating a new record etc. Since dialogues are used for small tasks, which is not commonly used for making complex forms, It also should not open a secondary window that requires user interaction. All user interaction should be carried out within the dialog.\nIf you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft'f Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development.\nIn Microsoft Dynmaics 365 Finan…",
           "link": "https://www.d365snippets.com/2022/06/how-to-create-a-dialog-in-dynamics-365-finance-and-operations-2022.html",
           "publishedOn": "2022-06-08T19:47:00.011Z",
-          "wordCount": 9525,
+          "wordCount": 7691,
           "title": "How to create a dialog in Dynamics 365 Finance and Operations.",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit-lJiDHKHN5zN4Sq4KLJrbjXRSecIAaYtGTsfe7G2NFPWimkjH5TSlS8u_eH5nNH-oO6oco-Itmc3aELH0BZA1JhXFhWvk3JM8PyHvYbfYGeNfUH3gYYGyXlKUyhCNyMKRMEwMiC9Grqn19NKvFQAXF7edt2cLS7Or5A0ff4RU7yS6fgxQ4Zqp-7g/s16000/How%20to%20create%20a%20dialog%20in%20Dynamics%20365%20Finance%20and%20Operations.jpg"
         },
@@ -4248,7 +4032,7 @@
           "description": "Microsoft D365 operates with normal databse tables and temporary table based on the requirement in a project, Regular tables are normal standard physical tables in SQL server database. Where as InMemory tables are temporary tables which are held in the memory and written to local disc after reaching a certain limit of the system especially in Application Object Server (AOS).\nIf you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft'f Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\n\n\n\nWhy we Use Normal Table as Temp Table in Dynamics 365 Finance and Operations ?\nBasically, Standared Dynamics 365 Finance and Operation projects contains many temporary table and regular tables.Imagine a scenario that you have to creat…",
           "link": "https://www.d365snippets.com/2022/05/how-to-use-normal-table-as-temp-table-in-dynamics-365-finance-and-operations.html",
           "publishedOn": "2022-05-24T20:10:00.018Z",
-          "wordCount": 9010,
+          "wordCount": 7177,
           "title": "How to Use Normal Table as Temp Table in Dynamics 365 Finance and Operations",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXPTHUMB6aonhft-cM50Aou-Zk89k7mOc7s4-LaMEUtJpWlgDvojOymnGuZU_8rwDLkevhTcxJSWZD6YaD5epQ3kgDrRZZIhYeDsGZcyrRzdCASB0L_qpA7BR_b48P16687MC6KC0_Ir3j4l5FzkHPICIpVrYTOhtvgvWOdzHk--6t4ouIMwd1sKNf/s16000/How%20to%20Use%20Normal%20Table%20as%20Temp%20Table%20in%20Dynamics%20365%20Finance%20and%20Operations.jpg"
         },
@@ -4258,7 +4042,7 @@
           "description": "ERP stands for \"Enterprise Resource Planning\". It's a software application that helps perform various business-critical functions on-the-go. From gathering, storing, and analyzing information to managing finance, human resources, manufacturing, supply chain, customer relationship management, etc. it does everything. Enterprise resource planning software employs process re-engineering concepts to implement the best standards and practices in the business. This helps increase revenue, improves employee efficiency, and controls costs.\nIf you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft'f Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\n\n\nERP was coined in 1990 which managing the core of business including functi…",
           "link": "https://www.d365snippets.com/2022/05/what-is-erp-and-how-does-it-works.html",
           "publishedOn": "2022-05-20T17:49:00.013Z",
-          "wordCount": 9849,
+          "wordCount": 8016,
           "title": "What is ERP and how does it work?",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjgkAYKzS3dH7kuzA09i9AOaTIYNbPilc1QcTb0IpshwqUO8yREVWbtfp7znkKftI8uFSBectXYGFSI4QMyBFP4icR5S0y62C-49MWwfW8cp90zDav3p8ul-AZcggoFuFgncNIa3EBdd0mIcL8XtkTQGCaXkU17N4Xyfbt-GxxkV2bp83gRGo7LKfa/s16000/what%20is%20erp%20and%20how%20does%20it%20work.jpg"
         },
@@ -4268,7 +4052,7 @@
           "description": "As we already discussed the topic in the previous post How to Import Records from Excel Using X++ Code in D365FO. In this article, I would like to show  \"How to import data from an XML file or Read data from an XML file using x++ code in Microsoft Dynamics 365\".\nIf you are a beginner or learner, you don’t have a dynamic 365 developing or functional environment, you can use Microsoft free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\nWhat is XML File?\nAn XML file is an extensible markup language file, and it is used to structure data for storage and transport. In an XML file, there are both tags and text. The tags provide the structure to the data. The text in the file that you wish to store is surrounded by these tags, which adhere to specific syn…",
           "link": "https://www.d365snippets.com/2022/02/importing-data-from-an-xml-file-in-dynamics-365-with-example.html",
           "publishedOn": "2022-02-26T15:13:00.037Z",
-          "wordCount": 9113,
+          "wordCount": 7278,
           "title": "Importing Data from An XML File in Dynamics 365 with Example.",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi9Z7_-FqvNxZhzqY7cI7zz6Z7KcXZIJnR8sA-HEPGJD2gWAhV8FhADSX6Y56rcWB3AqdHtOAb2duchcsdw4cqimcNUAvti8CT7wxm6IC9VLWaDmwfJ9CV55jZlozkQiE1qNNLY5n_ASiwUNiYxX89K-Q1dsg5VmyWZnMCyZM2XwR_EvXyU3WH8U9eJ=s16000"
         },
@@ -4278,7 +4062,7 @@
           "description": "In this article we can discuss “How to Create Number Sequence in Microsoft Dynamics 365 for Finance and Operations by Number Sequence form.If you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft'f Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\n\n In Microsoft Dynamics 365 Number sequences are used generate readable, unique identifiers for master data records and transaction records for record identification. Generally, Number sequences are specially formatted numbers which used to refer a master record or transaction record in any ERP Systems. A master data (for example: Vendor Master, Customer Master, Products Master etc…) or transaction data (for example:  Supplier Order, Payment Voucher, Journal Entry etc…) r…",
           "link": "https://www.d365snippets.com/2022/02/how-to-create-number-sequence-in-microsoft-dynamics-365-for-finance-and-operations.html",
           "publishedOn": "2022-02-05T15:49:00.023Z",
-          "wordCount": 9841,
+          "wordCount": 8006,
           "title": "How to Create Number Sequence in Microsoft Dynamics 365 for Finance and Operations",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhe9YTKHZLm0gINAS94MzMKY_SWjV5i9vijrp_k9VWGrhU3VKcpfBMO5mWOXeO5-jysrdO_TSvjsHidP_VmKSqjGsQ-Njrj0p6bKETHGsLvxfXxoQNvMLwJgf3xuBjeq2WeEHdEJQLPJsM1v8SDex2ZWl0W3H4NkgPHJDydsfW0Y_yCjAexsgaQFggs=w400-h333"
         },
@@ -4288,39 +4072,116 @@
           "description": "In this article I will show you how to execute a macro in SQL statements in D365FO or How to process data using a macro in a SQL statement in D365FO, before going to the depth of the topic we have to learn the basic concept of macros in Microsoft dynamics 365 finance and operations.\nIf you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft's Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\n\nWhat is Macro?\nIn a standard D365 FO application, there are macros that are reused many times across the application. By Using the macros approach, we can save development time by allowing you to reuse the piece of X++ SQL statements. These macros are actually full or partial X++ SQL queries that can be called with various argum…",
           "link": "https://www.d365snippets.com/2022/01/what-is-macro-in-d365-how-to-execute-macro-in-sql-statement-in-d365.html",
           "publishedOn": "2022-01-20T12:49:00.023Z",
-          "wordCount": 9259,
+          "wordCount": 7425,
           "title": "What is Macro in D365 ? How to Execute Macro in SQL Statement in D365FO",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh82QNuVPa3ie2duKPftnNYVMF63nIReK0WiwFXQIja4lxj9BhccfNcdtm0ke1aplb2sivWuTWfKytV55A7Xbch8Er5XpexU-01tth5thT5jDyvdClyn73HOzZ9a_rmORl0C38aV5LbjwwyPOTnzq48rNSkw524WFz_GgLOkXEwDtdqrLux9_4eYQer/s16000/what-is-macro-in-d365-how-to-execute-macro-in-sql-statement-in-d365.jpg"
+        }
+      ]
+    },
+    {
+      "title": "PARAG CHAPRE BLOG",
+      "feedUrl": "https://paragchapre.com/feed/",
+      "siteUrl": "https://paragchapre.com",
+      "articles": [
+        {
+          "id": "http://paragchapre.com/?p=2088",
+          "author": "Parag Chapre",
+          "description": "In this article, we will see what entity is, different types of entities and how to identify entities in Dynamics 365 and Power Platform What is an entity An entity is an abstraction from the physical implementation of database tables. It is a combination of multiple tables where you can combine data from multiple sources or single... Continue Reading →",
+          "link": "https://paragchapre.com/2022/12/09/entities-in-dynamics-365-and-power-platform/",
+          "publishedOn": "2022-12-09T04:35:44.000Z",
+          "wordCount": 3103,
+          "title": "Entities in Dynamics 365 and Power Platform",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2022/12/what-is-an-entity.jpg?w=1200"
         },
         {
-          "id": "https://www.d365snippets.com/2022/01/event-han.html",
-          "author": null,
-          "description": "In dynamics AX 2012, customization on tables, forms, and classes was done by simply overriding methods on them, But In Dynamics 365 for Operations, the preferred mechanism for customizations to existing objects is to use event handlers to react to various events rather than overriding methods on tables, forms, and classes.\nIf you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft's Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\n\nFor example, to change what happens when a button is clicked in AX 2012 you override the clicked method and put code either before or after the super() call. In Dynamics 365 for Operations, you can react to the OnClicked event by copying the event handler method for the event and pasting …",
-          "link": "https://www.d365snippets.com/2022/01/event-han.html",
-          "publishedOn": "2022-01-13T11:58:00.060Z",
-          "wordCount": 9239,
-          "title": "Event Handlers in D365 with Example",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgQnaaidbWjWMm9ZZVHm9p2TqmZPWEDr9-tXKvLg_Cl4jZHMf1aiEPW3U8EPn8kVbCxzuEF6XELaiW7NRuvbIAgspwLodTaC9hGb5K9TnTfQqZeFKaNYtbcK4q22bq4Ecszy_r9y0UcjqapU7In8fJr-_G6UItAgIcvW7V52KMnXhSm0uH4Tmkpi7kB=s16000"
+          "id": "http://paragchapre.com/?p=2072",
+          "author": "Parag Chapre",
+          "description": "With this new feature, it allows for efficient entry of employee and employment data. You can quickly update work history information for past, active, and future employees and contractors along with more intuitive navigation options. How to enable this feature Go to System Admin > Feature management Click on enable now Before you enable this... Continue Reading →",
+          "link": "https://paragchapre.com/2022/12/09/view-options-streamlined-employee-entry/",
+          "publishedOn": "2022-12-09T02:37:48.000Z",
+          "wordCount": 3144,
+          "title": "View options: Streamlined employee entry",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2022/12/view-option-streamlined-employee.jpg?w=1200"
         },
         {
-          "id": "https://www.d365snippets.com/2022/01/how-to-get-current-logged-user-information-using-xpp-in-d365fo.html",
-          "author": null,
-          "description": "Suppose you have a small requirement where you have to pick and display current log in user informations like name , department , position etc.The code below will help out in fetching current user Information in AX 7 or D365 FO. Here i fetching the basic details of logged user including User Id, Person Name and working position. In dynamics 365 fo user details and associated personal information are keeping in difference tables. But by using the below x++ codes , you can easily fetch the details.\nIf you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft'f Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development\n\n\nFor this you create a runnable class then copy and paste below codes to the main method. \n\n\n\nclass RunnableUser…",
-          "link": "https://www.d365snippets.com/2022/01/how-to-get-current-logged-user-information-using-xpp-in-d365fo.html",
-          "publishedOn": "2022-01-11T10:37:00.038Z",
-          "wordCount": 8751,
-          "title": "How to get current logged user information using x++ code in D365fo",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhG_EDashldnpbY1PTLd7_6qkfQgCm5YfViWqVsR7wpkXDNbwIYSnV3q3gjgNQNviaYnqouEf9Fjtmm2Px2iE1Bj9AepUULHlJL6xDmhImZIdgwugYxNzLNbH01uWYvJ98zdKGbqxEkMIlJxqBJqUspfapnMiUCXoSBVWzlSKZ7wOR26LRUnRezG7z2=w400-h225"
+          "id": "http://paragchapre.com/?p=2032",
+          "author": "Parag Chapre",
+          "description": "Recently, Microsoft released new feature called “Worker header control“. With this feature, it replaces the existing worker header in the Streamlined worker form, Person hub form and Employee self-service. The header contains key information about the worker, and also single-click actions such as emailing, calling, or messaging. The header can be modified by removing fields... Continue Reading →",
+          "link": "https://paragchapre.com/2022/11/24/streamlined-employee-view-and-worker-header-control/",
+          "publishedOn": "2022-11-24T01:06:36.000Z",
+          "wordCount": 3259,
+          "title": "Streamlined employee, ESS and person hub view",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2022/11/worker-header-control.jpg?w=1200"
         },
         {
-          "id": "https://www.d365snippets.com/2022/01/how-to-open-external-url-in-d365-using-xpp-code.html",
-          "author": null,
-          "description": "In this article i write a small tip \"how to open external URL in D365 using x++ code?\". If you want to navigate the user’s browser to a different URL programmatically (and not by providing a link they can click) this can be done very easily by using the new class Browser.With the new version Dynamics AX or D365 there are new APIs that are needed because of the technological changes.\n\n\nThe Browser class only has one single method, navigate, which has three parameters (of which only the first is mandatory): \n     - URL (string)\n     - Prompt (boolean)\n     - Open in new tab (boolean) \n\nIn Visual Studio Create One Runnable Class, In the main method write the below code .\n\n\nclass ExternalURL\n{        \n    \n    /// The specified arguments.\n    public static void main(Args _args)\n    {\n        Browser browser = new Browser();\n        browser.navigate('http://d365snippets.com', true, false);\n    }\n}\n\nsimple example using a runnable class could look like this . If you run it, it’ll open a new tab with the starting page of this blog.For best practice you create a action menu set its object type to class and set object with runnable class name. Add this menu item to required menu extension. Save compile On clicking menu item from navigation.A popup windows open,if your browser pop window is blocked, Allow popup option.If this code helps you please share to others. \nHappy coding with D365 Snippets",
-          "link": "https://www.d365snippets.com/2022/01/how-to-open-external-url-in-d365-using-xpp-code.html",
-          "publishedOn": "2022-01-10T08:36:00.033Z",
-          "wordCount": 8660,
-          "title": "How to Open External URL in D365 Using X++ Code",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhmYsL4Utd1Mj6tM2N3qkWmQKXERPDUzRGc-9ICcqgM8lzMYYO31RQZd68ErXsoX0Lo9LiC-Sm8awL02p11gT-wXTuU4LJjFlhWTdw_JP_-FetouDBkEGB99Z9HTnGb06pNbxklEOt3_AZrVwk0JDDOBC9gt6l49vCs8GpOmNoZXDP9QdMT6e0WFTyj=w400-h160"
+          "id": "http://paragchapre.com/?p=1990",
+          "author": "Parag Chapre",
+          "description": "When you have a new or old VM machine and trying to login to browser then mostly you get an error “Your connection isn’t private”. This issue occurs due to expired SSL certificate. To fix this issue, go to LCS, select your LCS project and go to cloud hosted machine. Click on Maintain > Rotate... Continue Reading →",
+          "link": "https://paragchapre.com/2022/10/06/your-connection-isnt-private/",
+          "publishedOn": "2022-10-06T04:01:26.000Z",
+          "wordCount": 3044,
+          "title": "Your connection isn’t private in D365 devbox",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2022/10/image-4.png"
+        },
+        {
+          "id": "http://paragchapre.com/?p=1950",
+          "author": "Parag Chapre",
+          "description": "Recently, Microsoft announced dataverse connector for excel. With this new connector, customers and partners can create report in excel based on Dataverse data. Lets see, how we can use this dataverse connector in excel. Step 1: Open your excel and click on Data. You can see new menu is available for Power Platform. When you... Continue Reading →",
+          "link": "https://paragchapre.com/2022/08/10/dataverse-connector-for-excel/",
+          "publishedOn": "2022-08-10T15:26:26.000Z",
+          "wordCount": 3020,
+          "title": "Dataverse connector for Excel",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2022/08/how-to-cdreate.png?w=1200"
+        },
+        {
+          "id": "http://paragchapre.com/?p=1732",
+          "author": "Parag Chapre",
+          "description": "According to Microsoft, Power BI empowers your teams with industry-leading business intelligence (BI) and augmented analytics so that you can simplify decision-making in a world of increased complexity and growing data volume. There are many different BI tools available but Power BI is one of the best tools. It provides more than 100 different connectors... Continue Reading →",
+          "link": "https://paragchapre.com/2022/07/18/top-10-reasons-to-choose-microsoft-power-bi/",
+          "publishedOn": "2022-07-18T13:42:58.000Z",
+          "wordCount": 3026,
+          "title": "Top 10 reasons to choose Microsoft Power BI",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2022/07/top-10-reasons-for-power-bi.png"
+        },
+        {
+          "id": "http://paragchapre.com/?p=1878",
+          "author": "Parag Chapre",
+          "description": "In today’s article, I will show how you can create your own custom Dual Write integrations between Dynamics 365 Supply Chain Management and Dataverse. Also, I will show you how to set up the bidirectional mapping. What is custom entity The short answer is It is an entity which is not available in the system... Continue Reading →",
+          "link": "https://paragchapre.com/2022/07/17/how-to-create-and-map-custom-entity-for-dual-write/",
+          "publishedOn": "2022-07-17T20:13:42.000Z",
+          "wordCount": 3707,
+          "title": "How to create a custom entity for Dual-write",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2022/07/how-to-create-map-a-custom-entity-for-dual-write-2.png?w=1200"
+        },
+        {
+          "id": "http://paragchapre.com/?p=1840",
+          "author": "Parag Chapre",
+          "description": "In today’s article, we will see how to sign up for a free Dynamics 365 Finance and operation trial version. Trial environments are required when you would like to check and test functionality available in the system. If you are a Dynamics customer or partner, you can sign up for a customer / partner trial.... Continue Reading →",
+          "link": "https://paragchapre.com/2022/07/04/sign-up-for-a-free-dynamics-365-finance-and-operation-trial/",
+          "publishedOn": "2022-07-04T11:54:23.000Z",
+          "wordCount": 3255,
+          "title": "Sign up for a free Dynamics 365 Finance and operation trial",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2022/07/fo-trial.png?w=1200"
+        },
+        {
+          "id": "http://paragchapre.com/?p=1821",
+          "author": "Parag Chapre",
+          "description": "The Power BI reports are embedded in Dynamics 365 F&O in a workspace under Analytics tab. In some cases, the standard reports include data that isn’t relevant to all customers. More often, customers might want to access data points or calculations that are left out of the standard reports. Power users can use web-friendly design... Continue Reading →",
+          "link": "https://paragchapre.com/2022/06/27/edit-embedded-reports-in-dynamics-365-fo/",
+          "publishedOn": "2022-06-27T12:24:08.000Z",
+          "wordCount": 3237,
+          "title": "Edit embedded reports in Dynamics 365 F&O",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2022/06/2022-06-27-14_23_06-artificial-intelligence-sample-power-bi-and-2-more-pages-playground-micros.png?w=1200"
+        },
+        {
+          "id": "http://paragchapre.com/?p=1804",
+          "author": "Parag Chapre",
+          "description": "If you or someone else accidentally deletes a flow that is not part of a solution, you can use PowerShell to restore it within 28 days of deletion. Microsoft announced the capability to restore a flow (outside of a solution) with the latest version of the PowerApps Administration cmdlet. As an admin, you can now... Continue Reading →",
+          "link": "https://paragchapre.com/2022/05/30/restore-deleted-flows/",
+          "publishedOn": "2022-05-30T15:44:25.000Z",
+          "wordCount": 3271,
+          "title": "Restore deleted flows",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2022/05/power-automate-copy.jpg"
         }
       ]
     },
@@ -8752,7 +8613,7 @@
     },
     {
       "title": "AX Soup",
-      "feedUrl": "https://www.axsoup.com/feeds/posts/default",
+      "feedUrl": "https://axsoup.com/feeds/posts/default",
       "siteUrl": "https://www.axsoup.com/",
       "articles": [
         {
@@ -8769,7 +8630,7 @@
     },
     {
       "title": "D365FandO(m)",
-      "feedUrl": "https://www.d365fandom.com/feeds/posts/default",
+      "feedUrl": "https://d365fandom.com/feeds/posts/default",
       "siteUrl": "https://www.d365fandom.com/",
       "articles": [
         {

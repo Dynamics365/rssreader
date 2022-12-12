@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-12T01:25:09.712Z</updated>
+    <updated>2022-12-12T14:46:24.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Boosting Customer Hosted Environment (CHE) Performance]]></title>
+        <id>1656 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/boosting-customer-hosted-environment-che-performance"/>
+        <updated>2022-12-12T14:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 12/12/22.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+performance      
+VM      
+Visual Studio      
+
+Let's examine how to get the most out of Azure spend for Tier 1 machines.
+A while ago Denis Trunin wrote an article on Visual Studio performance for F&O. I thought it was a well written and researched article. However, I wanted to see what the limit was on performance per unit of money spent. I also wanted to see what the limits were, in general. If twice as more is twice as better, then 4 times as much must mean 4 times more better, right? We'll be using the DOOM Super Shotgun methodology of 2 is better than 1, and 4 is better than 2. I'll also be likening each part of the article to a map from classic DOOM (1993). For those of you DOOM fans out there, this should be fun. For …]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Flash Fill in Excel ? How to use flash fill in Excel ?]]></title>
         <id>https://www.d365snippets.com/2022/12/what-is-flash-fill-in-excel-how-to-use-flash-fill-in-excel.html</id>
@@ -66,6 +96,26 @@ The minimum Software requirements for Dynamics 365 Server is, It can be hosted l
         <summary type="html"><![CDATA[Coca-Cola Bottling Company United used Microsoft Power Platform to automate on-demand shipment requests – reducing order validation time from half a day to seconds, and automate a complex multi-step SAP invoicing process to handle over 50,000 orders.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entities in Dynamics 365 and Power Platform]]></title>
+        <id>http://paragchapre.com/?p=2088</id>
+        <link href="https://paragchapre.com/2022/12/09/entities-in-dynamics-365-and-power-platform/"/>
+        <updated>2022-12-09T04:35:44.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will see what entity is, different types of entities and how to identify entities in Dynamics 365 and Power Platform What is an entity An entity is an abstraction from the physical implementation of database tables. It is a combination of multiple tables where you can combine data from multiple sources or single... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[View options: Streamlined employee entry]]></title>
+        <id>http://paragchapre.com/?p=2072</id>
+        <link href="https://paragchapre.com/2022/12/09/view-options-streamlined-employee-entry/"/>
+        <updated>2022-12-09T02:37:48.000Z</updated>
+        <summary type="html"><![CDATA[With this new feature, it allows for efficient entry of employee and employment data. You can quickly update work history information for past, active, and future employees and contractors along with more intuitive navigation options. How to enable this feature Go to System Admin > Feature management Click on enable now Before you enable this... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
         </author>
     </entry>
     <entry>
@@ -156,7 +206,7 @@ The post Microsoft is named a Leader in 2022 Gartner® Magic Quadrant™ for Fie
         <title type="html"><![CDATA[What is Extended Data Types (EDTs) in D365 and How to create Extended Data Types(EDTs)]]></title>
         <id>https://www.d365snippets.com/2022/12/what-is-an-extended-data-type-in-dynamics-365-and-how-to-create-extended-data-types-in-microsoft-dynamics-365.html</id>
         <link href="https://www.d365snippets.com/2022/12/what-is-an-extended-data-type-in-dynamics-365-and-how-to-create-extended-data-types-in-microsoft-dynamics-365.html"/>
-        <updated>2022-12-06T20:10:00.000Z</updated>
+        <updated>2022-12-06T20:10:00.004Z</updated>
         <summary type="html"><![CDATA[In the previous article, I explained how to create a label file and to use a label file to display texts and titles on user interfaces. In this article, I will explain Extended data types (EDTs).
 What are Extended Data Types (EDT) in D365?
 Extended data types commonly referred to as EDTs are user-defined types, based on primitive data types like boolean, integer, real, string, and date, and the composite data type container. You can also base EDTs on other EDTs. An EDT is a primitive data type or container with a supplementary name and some additional properties. 
@@ -402,6 +452,16 @@ The post D365 SysOperation Framework Parameters appeared first on Dynamics 365 M
         <summary type="html"><![CDATA[Finally, we have a solution for managing purchase accruals in D365 finance an operation which was not available as good solution for a long time. As we know we had two different methods Accrual scheme and periodic journal, but both had its own issue but now using Subscription billing Expense deferral we can solve this […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlined employee, ESS and person hub view]]></title>
+        <id>http://paragchapre.com/?p=2032</id>
+        <link href="https://paragchapre.com/2022/11/24/streamlined-employee-view-and-worker-header-control/"/>
+        <updated>2022-11-24T01:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Recently, Microsoft released new feature called “Worker header control“. With this feature, it replaces the existing worker header in the Streamlined worker form, Person hub form and Employee self-service. The header contains key information about the worker, and also single-click actions such as emailing, calling, or messaging. The header can be modified by removing fields... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
         </author>
     </entry>
     <entry>
@@ -843,7 +903,7 @@ In the case, you must modify the getExtensionFields() method in the following wa
         <title type="html"><![CDATA[How to Create a Label File in D365 FO]]></title>
         <id>https://www.d365snippets.com/2022/11/how-to-creare-a-label-file-in-d365-fo-2022-update.html</id>
         <link href="https://www.d365snippets.com/2022/11/how-to-creare-a-label-file-in-d365-fo-2022-update.html"/>
-        <updated>2022-11-11T19:16:00.005Z</updated>
+        <updated>2022-11-11T19:16:00.010Z</updated>
         <summary type="html"><![CDATA[What is a Label file in Dynamics 365 FO?
 In D365 FO development you can directly input the labels, titles, or captions of any user interface, But in Standard project development, we need labels for displaying captions or titles in our user interface. The best practical method to achieve this goal is to use a label file. This label file contains a list of label IDs and related labels which are to be displayed on the user interfaces. You can call the label IDs to the user interfaces where you want to display the label. So, after creating a label file you must need to input a Label ID, a Label that is to be displayed on the user interfaces.
 In this article, I will show you how to create a label file and how to use the created label file to display texts or titles on the user interfaces. 
@@ -1288,14 +1348,12 @@ The post The Dynamics 365 Business Central Universal Code initiative is live app
         <title type="html"><![CDATA[What is a model in D365FO and how To create a model in D365FO - Online Training Course Part 5]]></title>
         <id>https://www.d365snippets.com/2022/10/what-is-a-model-in-D365-FO-and-how-to-create-a-model-in-D365-FO.html</id>
         <link href="https://www.d365snippets.com/2022/10/what-is-a-model-in-D365-FO-and-how-to-create-a-model-in-D365-FO.html"/>
-        <updated>2022-10-28T16:11:00.003Z</updated>
+        <updated>2022-10-28T16:11:00.007Z</updated>
         <summary type="html"><![CDATA[As we know, the complete D365 Finance and Operation developments are based on these four terminologies Package, Model, Project, and Element. So as a developer you need to know processes how to create a model, how to update a model, and how to delete a model.
-
-
 
 What is a Model in D365?
 
-A model is a group of elements, such as metadata and source files, that typically constitute a distributable software solution and includes customizations of an existing solution. A model is a design-time concept, for example, a warehouse management model or a project accounting model. A model always belongs to a package. A package is a deployment and compilation unit of one or more models. It includes model metadata, binaries, and other associated resources. One or more packages can be packaged into a depl…]]></summary>
+A model is a group of elements, such as metadata and source files, that typically constitute a distributable software solution and includes customizations of an existing solution. A model is a design-time concept, for example, a warehouse management model or a project accounting model. A model always belongs to a package. A package is a deployment and compilation unit of one or more models. It includes model metadata, binaries, and other associated resources. One or more packages can be packaged into a deploy…]]></summary>
         <author>
             <name>D365 Snippets</name>
         </author>
@@ -1889,6 +1947,16 @@ The Subscription billing module in Dynamics 365 for Finance offers the flexibili
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Your connection isn’t private in D365 devbox]]></title>
+        <id>http://paragchapre.com/?p=1990</id>
+        <link href="https://paragchapre.com/2022/10/06/your-connection-isnt-private/"/>
+        <updated>2022-10-06T04:01:26.000Z</updated>
+        <summary type="html"><![CDATA[When you have a new or old VM machine and trying to login to browser then mostly you get an error “Your connection isn’t private”. This issue occurs due to expired SSL certificate. To fix this issue, go to LCS, select your LCS project and go to cloud hosted machine. Click on Maintain > Rotate... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introducing Test Engine: An open platform for automated testing of canvas apps]]></title>
         <id>introducing-test-engine-an-open-platform-for-automated-testing-of-canvas-apps</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/introducing-test-engine-an-open-platform-for-automated-testing-of-canvas-apps/"/>
@@ -1959,7 +2027,7 @@ The post How To Add A Form Splitter appeared first on Dynamics 365 Musings.]]></
         <title type="html"><![CDATA[Understanding Layers in Dynamics 365 Finance and Operations - Online Training Course Part 4]]></title>
         <id>https://www.d365snippets.com/2022/10/understanding-layers-in-dynamics-365-finance-and-operations-online-training-course-part-4.html</id>
         <link href="https://www.d365snippets.com/2022/10/understanding-layers-in-dynamics-365-finance-and-operations-online-training-course-part-4.html"/>
-        <updated>2022-10-03T09:05:00.006Z</updated>
+        <updated>2022-10-03T09:05:00.007Z</updated>
         <summary type="html"><![CDATA[In Microsoft Dynamics 365 Finance and Operations, the layer system is used to manage application components in a predefined order. USR layer is the highest layer and SYS is the lowest layer. The purpose of layers is to give developers the option to modify Microsoft's code but only in one of the layers that the developer has access to.
 
 
@@ -1975,9 +2043,7 @@ SLN - The solution layer is used by distributors to implement vertical partner s
 FPK - The FPK layer is an application object patch layer reserved by Microsoft for future patching or other updates.
 GLS - When the application is modified to match country or region-specific legal demands, these modifications are saved in the GLS layer.
 SYS - The standard application is implemented at the lowest level, the SYS layer. The application objects in the standard application can never be deleted.
-
-
-The bottom layer would be the SYS layer, which is where the standard application code resides and is accessible only to Microsoft. Other layers like ISV (Independent Software Vendor) and VAR (Value Added Reseller) can be accessed by providing keys provided by Microsoft for each layer except USR (User) who does not need a key.]]></summary>
+The bottom layer would be the SYS layer, which is where the standard application code resides and is accessible only to Microsoft. Other layers like ISV (Independent Software Vendor) and VAR (Value Added Reseller) can be accessed by providing keys provided by Microsoft for each layer except USR (User) which does not need a key.]]></summary>
         <author>
             <name>D365 Snippets</name>
         </author>
@@ -3309,6 +3375,16 @@ The post How to Handle Batch Jobs When Disabling or Deleting a User in D365FO ap
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dataverse connector for Excel]]></title>
+        <id>http://paragchapre.com/?p=1950</id>
+        <link href="https://paragchapre.com/2022/08/10/dataverse-connector-for-excel/"/>
+        <updated>2022-08-10T15:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Recently, Microsoft announced dataverse connector for excel. With this new connector, customers and partners can create report in excel based on Dataverse data. Lets see, how we can use this dataverse connector in excel. Step 1: Open your excel and click on Data. You can see new menu is available for Power Platform. When you... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Updating MsDyn365FO model parameters from projects context menu in Visual Studio]]></title>
         <id>http://msdyn365fo.wordpress.com/?p=546</id>
         <link href="https://msdyn365fo.wordpress.com/2022/08/10/updating-msdyn365fo-model-parameters-from-projects-context-menu-in-visual-studio/"/>
@@ -3581,6 +3657,16 @@ In this article, I will sort my Top 5 D365 F&O books based on my experience. If 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Top 10 reasons to choose Microsoft Power BI]]></title>
+        <id>http://paragchapre.com/?p=1732</id>
+        <link href="https://paragchapre.com/2022/07/18/top-10-reasons-to-choose-microsoft-power-bi/"/>
+        <updated>2022-07-18T13:42:58.000Z</updated>
+        <summary type="html"><![CDATA[According to Microsoft, Power BI empowers your teams with industry-leading business intelligence (BI) and augmented analytics so that you can simplify decision-making in a world of increased complexity and growing data volume. There are many different BI tools available but Power BI is one of the best tools. It provides more than 100 different connectors... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How To View D365 Sales Order Totals]]></title>
         <id>https://dynamics365musings.com/?p=2077</id>
         <link href="https://dynamics365musings.com/d365-sales-order-totals/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-sales-order-totals"/>
@@ -3619,6 +3705,16 @@ The post How To View D365 Sales Order Totals appeared first on Dynamics 365 Musi
         <summary type="html"><![CDATA[Visualize data in a view and get insights quickly with Power BI quick reports generally available on Power Apps’ view pages. The capabilities of Power Apps, Power BI and Dataverse are integrated in a seamless experience to help you understand your data easily.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create a custom entity for Dual-write]]></title>
+        <id>http://paragchapre.com/?p=1878</id>
+        <link href="https://paragchapre.com/2022/07/17/how-to-create-and-map-custom-entity-for-dual-write/"/>
+        <updated>2022-07-17T20:13:42.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, I will show how you can create your own custom Dual Write integrations between Dynamics 365 Supply Chain Management and Dataverse. Also, I will show you how to set up the bidirectional mapping. What is custom entity The short answer is It is an entity which is not available in the system... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
         </author>
     </entry>
     <entry>
@@ -3957,6 +4053,16 @@ The post How To Write a D365 Runnable Class (Job) appeared first on Dynamics 365
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sign up for a free Dynamics 365 Finance and operation trial]]></title>
+        <id>http://paragchapre.com/?p=1840</id>
+        <link href="https://paragchapre.com/2022/07/04/sign-up-for-a-free-dynamics-365-finance-and-operation-trial/"/>
+        <updated>2022-07-04T11:54:23.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to sign up for a free Dynamics 365 Finance and operation trial version. Trial environments are required when you would like to check and test functionality available in the system. If you are a Dynamics customer or partner, you can sign up for a customer / partner trial.... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Table Sync Failed for Table: XXXtable. Exception: System.InvalidOperationException: Table 'XXX': Converting Field 'YYY' of Type 'AxTableFieldReal' to 'AxTableFieldInt' is not supported. Please drop the original field, sync the table and add a new field with the same name if needed.]]></title>
         <id>https://dynamics365ax2012.blogspot.com/2022/07/table-sync-failed-for-table-xxxtable.html</id>
         <link href="https://dynamics365ax2012.blogspot.com/2022/07/table-sync-failed-for-table-xxxtable.html"/>
@@ -4192,6 +4298,16 @@ benchmarking study, along with our forecast for... Read the full text.]]></summa
         <summary type="html"><![CDATA[We are securing and simplifying the platform by deprecating list of features]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edit embedded reports in Dynamics 365 F&O]]></title>
+        <id>http://paragchapre.com/?p=1821</id>
+        <link href="https://paragchapre.com/2022/06/27/edit-embedded-reports-in-dynamics-365-fo/"/>
+        <updated>2022-06-27T12:24:08.000Z</updated>
+        <summary type="html"><![CDATA[The Power BI reports are embedded in Dynamics 365 F&O in a workspace under Analytics tab. In some cases, the standard reports include data that isn’t relevant to all customers. More often, customers might want to access data points or calculations that are left out of the standard reports. Power users can use web-friendly design... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
         </author>
     </entry>
     <entry>
@@ -4789,6 +4905,16 @@ partners around the world. Like the rest of their country, they saw
 their lives upended by the Russian invasion in February... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restore deleted flows]]></title>
+        <id>http://paragchapre.com/?p=1804</id>
+        <link href="https://paragchapre.com/2022/05/30/restore-deleted-flows/"/>
+        <updated>2022-05-30T15:44:25.000Z</updated>
+        <summary type="html"><![CDATA[If you or someone else accidentally deletes a flow that is not part of a solution, you can use PowerShell to restore it within 28 days of deletion. Microsoft announced the capability to restore a flow (outside of a solution) with the latest version of the PowerApps Administration cmdlet. As an admin, you can now... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
         </author>
     </entry>
     <entry>
@@ -5551,49 +5677,9 @@ I use GitHub to host all of my community projects which is great for that. I can
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Part 4 - GitHub]]></title>
-        <id>1651 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-4-github"/>
-        <updated>2022-04-07T01:22:40.000Z</updated>
-        <summary type="html"><![CDATA[Can you use Git Hub? yes.
-GitHub is also an option you could pursue when moving to Git. GitHub has a lot of new features and offerings that Azure DevOps does not have. However, there is basically no documentation from MSFT on how to configure builds and various other automation options in GitHub. I'm sure it's possible but there will be a fair amount of guess work. Getting your pipelines fully converted to YAML will be the first step in making the transition to GitHub.
-Community (Free)
-I use GitHub to host all of my community projects which is great for that. I can share the code and anyone can pick it up and use it as they see fit. Private repos are now also an option. However, these still below to a named person so you'd want a service account or centrally managed account to create all projects.
-Pro
-For 4 USD a month, you can upgrade 1 account on GitHub to GitHub Pro, which gives you more stuff. Using YAML plus actions, you could probably get a lot of the same benefits from Azure DevOps without having to use DevOps. 
-Thoughts
- I think the prospect of using Github for community or personal development for F&O is a good idea. Git is simple and so is GitHub. You can work and share your code with whomever you like. Additionally, private repos are now free so you can use those, too.
-However, the prospect of using Github for an implementation or support project is a much harder sell for the client or organization. While I'm pretty sure you could use GitHub to get to around the same service level as Azure DevOps, there is a fair amount of risk. That risk is, in my opinion, simply too great to suggest using it for the time being. There is nearly no documentation on the subject and there is no one at MSFT you can call for help specific to F&O. Although it may look like Azure DevOps isn't the favorite for MSFT in terms of product hype or feature development, DevOps is still a proven tool we can rely on. I got the chart below from this site but I think it's really helpful given the context.]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Part 3 - Developing with VS 2019]]></title>
         <id>1650 at https://www.atomicax.com</id>
         <link href="https://www.atomicax.com/content/part-3-developing-vs-2019"/>
-        <updated>2022-04-07T00:59:06.000Z</updated>
-        <summary type="html"><![CDATA[What's it like developing using Git?
-Developing in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 3 - Developing with VS 2019]]></title>
-        <id>1650 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-3-developing-vs-2019"/>
-        <updated>2022-04-07T00:59:06.000Z</updated>
-        <summary type="html"><![CDATA[What's it like developing using Git?
-Developing in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 3 - Developing with VS 2019 / 2022]]></title>
-        <id>1650 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-3-developing-vs-2019-2022"/>
         <updated>2022-04-07T00:59:06.000Z</updated>
         <summary type="html"><![CDATA[What's it like developing using Git?
 Developing in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …]]></summary>
@@ -5654,33 +5740,9 @@ Unlike TFVC, branches in Git are typically short lived when it comes to developm
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Part 2 - Lifecycle of a Branch]]></title>
-        <id>1649 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-2-lifecycle-branch"/>
-        <updated>2022-04-04T02:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Let's take a look at the lifecyle of a Git Branch.
-Unlike TFVC, branches in Git are typically short lived when it comes to development. In TFVC you may have a branch for each developer or a branch for development in general, another for test then a release branch. In Git, we will be using branches differently. We'll get a change request as a work item in DevOps, review it, create a branch, assign to a developer to do the work plus commit it, optional build automation may occur, next a pull request, or PR, with a review and then the changes are accepted into the parent branch. We'll walk through this in specific details. In this example, we'll be using a bug but you can replace "bug" with "Feature", "Product Backlog Item", "Change Request", "Customization", "Enhancement", or any other word …]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Part 1 - Package Management]]></title>
         <id>1648 at https://www.atomicax.com</id>
         <link href="https://www.atomicax.com/content/part-1-package-management"/>
-        <updated>2022-04-03T18:37:59.000Z</updated>
-        <summary type="html"><![CDATA[How Shoud I Manage Packages in Git?
-There are 2 options when looking at Git for managing your X++ code. The main driver for which option you select is if you will only ever have 1 package in your code base or more than 1. This include any ISVs or any other item that will have a code footprint anywhere in F&O. To learn more about packages, please see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-tools/models. 
-1 Package as a Branch
-This option is the simplest. You would have 1 package as a branch. A good example of this is this GitHub project. It's a small package that add a features, it only depends on OOTB F&O packages and models and has no other dependencies not does anything else depend on it. It doesn't get any more simple than this. However, this may not work…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 1 - Package Management]]></title>
-        <id>1648 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-1-package-management"/>
         <updated>2022-04-03T18:37:59.000Z</updated>
         <summary type="html"><![CDATA[How Shoud I Manage Packages in Git?
 There are 2 options when looking at Git for managing your X++ code. The main driver for which option you select is if you will only ever have 1 package in your code base or more than 1. This include any ISVs or any other item that will have a code footprint anywhere in F&O. To learn more about packages, please see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-tools/models. 
@@ -5753,76 +5815,9 @@ Reported:]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Git with 1 Package]]></title>
-        <id>1654 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/article/using-git-1-package"/>
-        <updated>2022-04-01T12:40:45.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 04/01/22.
-
-
-
-
-
-
-
-
-
-
-
-
-Using Git with 1 Package
-When using Git for F&O, there are 2 basic flavors of using it; with 1 package or more than 1 package. This post will cover how to setup Git for use with 1 package.
-To learn out to create a Git repo in Azure DevOps, please refer to MSFT documentation. To learn how to create a repo on Github, please refer to GitHub documentation.
-Using Azure DevOps
-In your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then Connect to a project. 
-
-Next, select your repo and place it in your PackagesLocalDirectory. K drive on cloud hosted machines and C on VHDs. 
-
-Wait for it to clone and, that's it. Refresh your models like usual and you can develop against 1 package using Git in Azure DevOps. This is what the sync'd directory will look like. 
-
-Using GitHub
-In your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then click Clone 
-
-Log into GitHub then select your repo making sure to change the local path to include your PackagesLocalDirectory path.
-
-Click clone and wait. That's it. Your repo folder will look like this:
-
-Callout: If using VHD, drive will be the C drive rather than K drive.
-Conclusion
-Very straight forward process. However, when using this style of package manage, you will only ever be allowed 1 package. You can add as many models as you like but you'll only ever have 1 package. This includes ISV packages as well including binary or source packages. I recommend this style of management for personal projects or something you'll be sharing on GitHub. I wouldn't recommend this approach for use on an implementation project.
- 
-
-
-
-
-View the discussion thread.
-
-
-
-Reported:]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GIT ALM Field Guide]]></title>
         <id>1639 at https://www.atomicax.com</id>
         <link href="https://www.atomicax.com/content/git-alm-field-guide"/>
-        <updated>2022-04-01T12:29:21.000Z</updated>
-        <summary type="html"><![CDATA[Using Git rather than TFVC, a field guide.
-This collection of works will help you with moving from using TFVC to using Git for your x++ development. This page will have several chapters linked as they are published. However, how do you know which is the best fit for you, your team, your organization or your project? Let's take an inventory.
-You
-If you're reading this, I assume you're interested in getting away from TFVC for some reason, you're a technically focused individual, and you understand the differences between using Git and TFVC. 
-Your Team
-Your team should also be aware of what it takes to be successful in order to make a switch from TFVC to Git. They may need some additional training in order to get the the most out of Git. Developing and delivering with Git is a different exper…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIT ALM Field Guide]]></title>
-        <id>1639 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/git-alm-field-guide"/>
         <updated>2022-04-01T12:29:21.000Z</updated>
         <summary type="html"><![CDATA[Using Git rather than TFVC, a field guide.
 This collection of works will help you with moving from using TFVC to using Git for your x++ development. This page will have several chapters linked as they are published. However, how do you know which is the best fit for you, your team, your organization or your project? Let's take an inventory.
@@ -6050,38 +6045,6 @@ We'll be using https://github.com/…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Git with More than 1 Package]]></title>
-        <id>1655 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/article/using-git-more-1-package"/>
-        <updated>2022-03-26T03:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/25/22.
-
-
-
-
-
-
-
-
-
-
-
-
-      
-Tags: 
-Git      
-Source Control      
-
-Want to use Git with more than 1 Package? Let's review.
-The process to get Git working with F&O can be a little involved and it may not make sense the first time. The issue we're presented with is that Git assumes you are starting with nothing - a directory that doesn't exist. When you fetch source code - clone it - Git wants you to clone it into a directory that doesn't exist yet. Our PackagesLocalDirectory very much so already exists. So, we have to help Git by moving in pieces of the repo into the directory then get everything back in working order. There are a few different ways to do this: The Hard Way and the easier way. 
- 
-The Hard Way
-We'll be using https://github.com/NathanClouseAX/FO…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Part 5 - Pull Requests (PRs)]]></title>
         <id>1652 at https://www.atomicax.com</id>
         <link href="https://www.atomicax.com/content/part-5-pull-requests-prs"/>
@@ -6118,32 +6081,6 @@ Because Git Branches allow us to pull everything up, rather the push specific ch
       
 Blog Main Tag: 
 Git]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 5 - Pull Requests (PRs)]]></title>
-        <id>1652 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-5-pull-requests-prs"/>
-        <updated>2022-03-22T00:40:26.000Z</updated>
-        <summary type="html"><![CDATA[what is a pull request? how do they work? what do they signify?
-Create a Pull Request (PR)
-The code is done but not the work. The developer still has to singal that his work is complete. We'll want to create a Pull Request or PR for short. There are 2 ways to do this. The first is in VS, which will just redirect you to Azure DevOps. The second is Azure DevOps. In VS, it can be found here:
-
-In Azure DevOps, go to Repors, select your repo, select your branch then click "create a pull request".
-
-Inside the PR, you can add some details for the PR. Additionally, reviewers and actions can be configured inside DevOps.
-
-Notice you can select what you are creating a PR into. You can set a reviewer or additional reviewer if you'd like. Also notice that the PR is automagically associated with out bug work item. Let's create the PR.
-
-As you can see, it merged successfully on its own and now we, or the approver, can approve and complete. Typically we wouldn't approve our own PRs. We'll see this when we complete.
-
-We'll have an option for the merge type, if we want to use something different. Additionally, we have "complete associate work items after merging" checked as well as "delete bug200 after merging". This will resolve the bug setting it's status to done and deleting the branch we created for the work item called "bug200". Next, click "Complete merge". This is what the bug work item looks like after completing the PR:
-
-The work item's status is "Done". Also note the links section. We can see that we had a commit and PR. However, the link to branch is now gone because the branch itself is gone.
-Conclusion
-Because Git Branches allow us to pull everything up, rather the push specific changesets like in TFVC, we can more easily keep track of what is where. As a for instance, until bug 200's work gets a completed PR, I know it's only in the branch for that work item.]]></summary>
         <author>
             <name>Nathan Clouse</name>
         </author>
@@ -6238,70 +6175,6 @@ Enable the Bypass inventory reservations parameter to avoid the Release to wareh
 This has been a lifesaver for people who have found themselves stuck in an endless loop of Credit management holds when they try to release their Sales order from Credit hold then try to Release to warehouse!]]></summary>
         <author>
             <name>D365FandO(m)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Select FirstOnly vs Select FirstOnly ForceSelectOrder ForceNestedLoop]]></title>
-        <id>1647 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/article/select-firstonly-vs-select-firstonly-forceselectorder-forcenestedloop"/>
-        <updated>2022-03-16T02:03:59.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/15/22.
-
-
-
-
-
-
-
-
-
-
-
-
-      
-Tags: 
-forceselectorder      
-forcenestedloop      
-
-Let's explore what keywords forceSelectOrder and ForceNestedLoop do.
-Introduction
-The database access layer in X++ largely conceals it magic from us as developers and we hope it gets the SQL right - and it does. SQL is largely 99.9% accurate and about 95%-ish optimized for the workload presented. You can read more about some of the techniques we'll be using here. We'll be using keywords in an X++ select to how they change the query and what that change means. All tests below were run on a "warm" VHD using Contoso data - specifically USMF.
-Select FirstOnly SalesTable
-First, we'll start with a simple select firstonly on SalesTable. This took 30 milliseconds and generated the follow…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Select FirstOnly vs Select FirstOnly ForceSelectOrder ForceNestedLoop]]></title>
-        <id>1647 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/article/select-firstonly-vs-select-firstonly-forceselectorder-forcenestedloop"/>
-        <updated>2022-03-16T02:03:59.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/15/22.
-
-
-
-
-
-
-
-
-
-
-
-
-      
-Tags: 
-forceselectorder      
-forcenestedloop      
-
-Let's explore what keywords forceSelectOrder and ForceNestedLoop do.
-Introduction
-The database access layer in X++ largely conceals it magic from us as developers and we hope it gets the SQL right - and it does. SQL is largely 99.9% accurate and about 95%-ish optimized for the workload presented. You can read more about some of the techniques we'll be using here. We'll be using keywords in an X++ select to how they change the query and what that change means. All tests below were run on a "warm" VHD using Contoso data - specifically USMF.
-Select FirstOnly SalesTable
-First, we'll start with a simple select firstonly on SalesTable. This took 30 milliseconds and generated the follow…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
@@ -6947,72 +6820,6 @@ comment for your suggestion .]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Part 17.5 - (more) Over Using Computed Fields]]></title>
-        <id>1645 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/content/part-175-more-over-using-computed-fields"/>
-        <updated>2022-02-09T03:05:06.000Z</updated>
-        <summary type="html"><![CDATA[Let's see how data values effect entity performance.
-
-Related to Part 17, I didn't quite get the result I was looking for so I created a large amount of data - approximately 400k orders. We will be running the same tests as in part 17 - only the amount of data has changed. I wasn't satisfied with creating, confirming, packing and invoicing 400k Sales Orders. I let the multithreaded batch job run a little bit longer this time and created approximately 4.5 million SO's that were confirmed, packed, and invoiced. Here Is what I found.
-Data Growth Rate (more Infinite Hyper Death)
-I was interested in the overall growth of data over time just to see what is happeneding in terms of throughput. Also, I wanted to record if there was a measureable difference between using Standard HDDs on the VM vers…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using ATL to Create Data to Model Data Volume Testing]]></title>
-        <id>1644 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/article/using-atl-create-data-model-data-volume-testing"/>
-        <updated>2022-02-09T01:33:15.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/08/22.
-
-
-
-
-
-
-
-
-
-
-
-
-What can we do with ATL to create some transactions? Let's take a look.
-After this post, I wanted to manufacture some data to better show that adding computed fields adds overhead for every operation within a data entity. That post somewhat showed it but I wanted something more cut and dry. I thought a good way to manufacture data in a Contoso environment would be use ATL, string together some ATL processes to create, pack, and invoice orders. In designing a way to do this, I had to fumble my way through how to do it. I wanted to add approximately 10 million processed orders. It didn't exactly work out but here is what I learned.
-Legal Entities
-Rather than specificially provide values for your known legal entities, you can create Demo Dat…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using ATL to Create Data to Model Data Volume Testing]]></title>
-        <id>1644 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/article/using-atl-create-data-model-data-volume-testing"/>
-        <updated>2022-02-09T01:33:15.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/08/22.
-
-
-
-
-
-
-
-
-
-
-
-
-What can we do with ATL to create some transactions? Let's take a look.
-After this post, I wanted to manufacture some data to better show that adding computed fields adds overhead for every operation within a data entity. That post somewhat showed it but I wanted something more cut and dry. I thought a good way to manufacture data in a Contoso environment would be use ATL, string together some ATL processes to create, pack, and invoice orders. In designing a way to do this, I had to fumble my way through how to do it. I wanted to add approximately 10 million processed orders. It didn't exactly work out but here is what I learned.
-Legal Entities
-Rather than specificially provide values for your known legal entities, you can create Demo Dat…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using Derived Test Cases in RSAT]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b12802c8-67e2-4f9f-8d00-f31d1bce0065</id>
         <link href="https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/using-derived-test-cases-in-rsat"/>
@@ -7061,23 +6868,6 @@ Rather than specificially provide values for your known legal entities, you can 
 The post How To Create A D365 Project In Visual Studio appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 17 - Over Using Computed Fields]]></title>
-        <id>1641 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-17-over-using-computed-fields"/>
-        <updated>2022-02-07T04:47:34.000Z</updated>
-        <summary type="html"><![CDATA[What happens when you add lots of computed fields to a data entity? Let's take a look
-
-
-In part 16, we talked about using computed columns. Next, let's take this to next logical conclusion - using them way too much. We're going to compare 4 different scenarios from a performance perspective when working with customers. We'll have the following data entities:
-CustCustomerV2Entity - we'll use this entity to establish a baseline
-AAXCustCustomerV3Entity - this is a copy of CustCustomerV2Entity with 1 additional computed field; "Sales Last Year"
-AAXCustCustomerV4Entity - just like AAXCustCustomerV3Entity but has 2 additional computed fields; "Sales Last Year" and "Sales This Year"
-AAXCustCustomerV5Entity - Just like AAXCustCustomerV3Entity but has 22 additional competed fields to get sales valu…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
@@ -7418,19 +7208,6 @@ In a standard D365 FO application, there are macros that are reused many times a
         <summary type="html"><![CDATA[Here is very small tip. Set your windows mouse line scrolling to 4 lines when using Dynamics 365. When you then scroll in D365 lookups, one scroll-click is then jumping one page down in the lookups (in my case). #LifeHack]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event Handlers in D365 with Example]]></title>
-        <id>https://www.d365snippets.com/2022/01/event-han.html</id>
-        <link href="https://www.d365snippets.com/2022/01/event-han.html"/>
-        <updated>2022-01-13T11:58:00.060Z</updated>
-        <summary type="html"><![CDATA[In dynamics AX 2012, customization on tables, forms, and classes was done by simply overriding methods on them, But In Dynamics 365 for Operations, the preferred mechanism for customizations to existing objects is to use event handlers to react to various events rather than overriding methods on tables, forms, and classes.
-If you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft's Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development
-
-For example, to change what happens when a button is clicked in AX 2012 you override the clicked method and put code either before or after the super() call. In Dynamics 365 for Operations, you can react to the OnClicked event by copying the event handler method for the event and pasting …]]></summary>
-        <author>
-            <name>D365 Snippets</name>
         </author>
     </entry>
     <entry>
@@ -8024,24 +7801,6 @@ This feature modernizes the visual appearance of wizard pages in Finance and Ope
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to get current logged user information using x++ code in D365fo]]></title>
-        <id>https://www.d365snippets.com/2022/01/how-to-get-current-logged-user-information-using-xpp-in-d365fo.html</id>
-        <link href="https://www.d365snippets.com/2022/01/how-to-get-current-logged-user-information-using-xpp-in-d365fo.html"/>
-        <updated>2022-01-11T10:37:00.038Z</updated>
-        <summary type="html"><![CDATA[Suppose you have a small requirement where you have to pick and display current log in user informations like name , department , position etc.The code below will help out in fetching current user Information in AX 7 or D365 FO. Here i fetching the basic details of logged user including User Id, Person Name and working position. In dynamics 365 fo user details and associated personal information are keeping in difference tables. But by using the below x++ codes , you can easily fetch the details.
-If you are a beginner or new to dynamics 365 Finance & Operations, you can use Microsoft'f Free Virtual Machine. Learn How to Set Up a Free Virtual Machine for Dynamics 365 Development
-
-
-For this you create a runnable class then copy and paste below codes to the main method. 
-
-
-
-class RunnableUser…]]></summary>
-        <author>
-            <name>D365 Snippets</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Create A D365 Batch Job]]></title>
         <id>https://dynamics365musings.com/?p=1610</id>
         <link href="https://dynamics365musings.com/d365-batch-job/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-batch-job"/>
@@ -8050,39 +7809,6 @@ class RunnableUser…]]></summary>
 The post Create A D365 Batch Job appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Open External URL in D365 Using X++ Code]]></title>
-        <id>https://www.d365snippets.com/2022/01/how-to-open-external-url-in-d365-using-xpp-code.html</id>
-        <link href="https://www.d365snippets.com/2022/01/how-to-open-external-url-in-d365-using-xpp-code.html"/>
-        <updated>2022-01-10T08:36:00.033Z</updated>
-        <summary type="html"><![CDATA[In this article i write a small tip "how to open external URL in D365 using x++ code?". If you want to navigate the user’s browser to a different URL programmatically (and not by providing a link they can click) this can be done very easily by using the new class Browser.With the new version Dynamics AX or D365 there are new APIs that are needed because of the technological changes.
-
-
-The Browser class only has one single method, navigate, which has three parameters (of which only the first is mandatory): 
-     - URL (string)
-     - Prompt (boolean)
-     - Open in new tab (boolean) 
-
-In Visual Studio Create One Runnable Class, In the main method write the below code .
-
-
-class ExternalURL
-{        
-    
-    /// The specified arguments.
-    public static void main(Args _args)
-    {
-        Browser browser = new Browser();
-        browser.navigate('http://d365snippets.com', true, false);
-    }
-}
-
-simple example using a runnable class could look like this . If you run it, it’ll open a new tab with the starting page of this blog.For best practice you create a action menu set its object type to class and set object with runnable class name. Add this menu item to required menu extension. Save compile On clicking menu item from navigation.A popup windows open,if your browser pop window is blocked, Allow popup option.If this code helps you please share to others. 
-Happy coding with D365 Snippets]]></summary>
-        <author>
-            <name>D365 Snippets</name>
         </author>
     </entry>
     <entry>
@@ -8680,19 +8406,6 @@ between Finance Operations and Power Platform : once more time. Let’s go !]]><
 The post Combine & Merging images to a single image using X++ & C# Dot Net Libraries appeared first on All About Microsoft Dynamics.]]></summary>
         <author>
             <name>Piyush Adhikari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 18 - Order Of Operations for Data Entities]]></title>
-        <id>1642 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-18-order-operations-data-entities"/>
-        <updated>2021-12-01T03:56:11.000Z</updated>
-        <summary type="html"><![CDATA[Let's explore the order of operations when using a data entity.
-When creating a solution that may use a data entity, OData or not, it may be helpful to understand the precise order of operations for what gets called when in the call stack. Also, when extending OOTB data entities, what changes you are going to make may have changes to the overall performance of the data entity depending on where you put them. Since data entities are generally not the most performant things even at the best of times, having a deep understanding of what is occurring when can help prevent performance headaches later. 
-Who does What When Why?
-Each operation with a data entity (CRUD + Action method(s)) has a slightly different execution path depending on how it is called, what operation is being used and by what…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
@@ -10505,19 +10218,6 @@ and DPA.VALIDTO='2154-12-31 23:59:59.000']]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Part 16 - Action Methods and Computed Columns]]></title>
-        <id>1638 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-16-action-methods-and-computed-columns"/>
-        <updated>2021-07-17T03:05:44.000Z</updated>
-        <summary type="html"><![CDATA[What are the differences between an Action Method and a Computed Column? Let's take a look.
-Data entities have a few options for getting data to present in a specific way. One way is to use a virtual field with postLoad(). However, we can also use computed column as well as action methods. Both have their results exposed via OData but computed columns also present in the DMF when exporting (plus importing with some extra code).  
-What's a computed column?
-Documentation on this can be found here. In simple terms, it is a field that is calculated whenever the data entity is executed. This is done by the view for the data entity and not with X++. The location where this type of column is populated, on the SQL server rather than the AOS, is an important distinction. This means that SQL sever i…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[how to run SSRS Report through Report server URL]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c6c60761-7fe0-4859-b72a-576c2b393afd</id>
         <link href="https://community.dynamics.com/ax/b/technicaltutorialsformsdynamicsax2012/posts/how-to-run-ssrs-report-through-report-server-url-1131711173"/>
@@ -10545,19 +10245,6 @@ Some suggestion here in this link.
 https://community.dynamics.com/ax/f/microsoft-dynamics-ax-forum/194803/run-ssrs-report-from-report-manager-url]]></summary>
         <author>
             <name>SANTOSH KUMAR SINGH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 15 - 429s, Throttling and How to Manage It]]></title>
-        <id>1627 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-15-429s-throttling-and-how-manage-it"/>
-        <updated>2021-07-12T03:28:03.000Z</updated>
-        <summary type="html"><![CDATA[What is Throttling, a 429 Status code, how do we handle them, and create safe patterns for using OData Entities?
-Throttling, in a general sense, is something acting upon another actor to actively hinder a process or request. Dynamics 365 For Finance and Operations recently added Priority-based Throttling. In the past, when hitting an OData endpoint, we only had to worry about non-affirmative timeouts; it took longer than 120 seconds to complete. It didn't specifically matter to me, the consumer of an endpoint, what else Finance and Ops may have going on. Now, with priority-based throttling, it is my problem as a consumer. I now get affirmative decline in the form of a 429 HTTP return code.
-When does throttling occur?
-I'd suggest you review the FAQ for Priority-Based Throttling. However, in…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
@@ -10701,34 +10388,6 @@ A property for a journal batch number has more than one value. Update the journa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Part 13 - Update Performance for Simple Entities]]></title>
-        <id>1624 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-13-update-performance-simple-entities"/>
-        <updated>2021-06-21T02:18:45.000Z</updated>
-        <summary type="html"><![CDATA[What can we learn about update performance from simple entities?
-
-Similar to how we tested insert performance for simple entities, we're going to run similar tests to see what kind of performance we can expect with an update workload for a "simple" entity.
-The Tests
-To draw out values and differences, we'll be testing with 2 basic test types: "Minimum" and "Maximum", just like we have in the past. What we're trying to draw out is the performance difference between updating a record with a small amount of attributes specified and quite a few attributes specified. To help draw out our datapoints, we will be using a version of the SalesOrderHeaderV2 data entity that has all references to all tables that are not SalesTables removed. This entity exposed table SalesTable with nearly no business …]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 12 - Update Performance for Complicated Entities]]></title>
-        <id>1623 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-12-update-performance-complicated-entities"/>
-        <updated>2021-06-21T02:14:30.000Z</updated>
-        <summary type="html"><![CDATA[What can we learn about update performance from complicated entities?
-
-Similar to how we tested insert performance for complicated entities, we're going to run similar tests to see what kind of performance we can expect with an update workload.
-The Tests
-To draw out values and differences, we'll be testing with 2 basic test types: "Minimum" and "Maximum", just like we have in the past. What we're trying to draw out is the performance difference between updating a record with a small amount of attributes specified and quite a few attributes specified. Does the distinction matter or not so much? We'll be using the Sales Orer Header V2 entity for both tests to see how data can change performance. This is a distinct test as we'll be measuring performance of the update operation only, not the f…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monitoring the most problematic performance problem in Dynamics AX - parameters sniffing]]></title>
         <id>https://denistrunin.com/performance-snifmonitor/</id>
         <link href="https://denistrunin.com/performance-snifmonitor/"/>
@@ -10789,33 +10448,6 @@ There is a security roll setup required to allow a user to override the price an
         <summary type="html"><![CDATA[Extending inbuilt workflows in Dynamics 365 Finance and Operations through Business Events is a powerful way to augment the process.]]></summary>
         <author>
             <name>Henrik Marx Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 11 - Insert Performance for "Simple" Entities]]></title>
-        <id>1622 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-11-insert-performance-simple-entities"/>
-        <updated>2021-06-07T01:40:46.000Z</updated>
-        <summary type="html"><![CDATA[What can we learn about insert performance from complicated entities?
-Simlar to our last entry, what makes a data entity "simple"? Let's re-run the same tests from Insert Performance For Complicated Entities but with a simple entity. I would define a simple entity as an entity that has 1 or 2 tables, can perform it's tasks with a small amount of code, and is build to be light weight for a specific purpose. I would describe it as something that doesn't do much but the few things it does do, it does very quickly.
-The Tests
-To draw out the differences between specifying a minimalist set of attributes to create a Sales Order header and specifying lots of attributes, we'll be using a custom entity called AAXSalesOrderHeaderV2EntityReadOnly. This is a copy of SalesOrderHeaderV2 with all tables r…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 10 - Insert Performance for Complicated Entities]]></title>
-        <id>1621 at http://www.atomicax.com</id>
-        <link href="http://www.atomicax.com/content/part-10-insert-performance-complicated-entities"/>
-        <updated>2021-06-07T01:31:07.000Z</updated>
-        <summary type="html"><![CDATA[What can we learn about insert performance from complicated entities?
-
-What makes a data entity complicated? What makes a data entity slow? Let's take a look at data entity performance when inserting records and see what we can learn. First, let's define a "complicated" entity. I would classify a complicated entity has having lots of data sources ( 5 or more ), having lots of code related to it and in the entity itself. Additionally, because these have lots of data sources and code, depending on what fields are specified, the performance of the entity will change based on the data being specified. As a for instance consider what an entity that accepts addressing info would do when an address is specified compared to what it would do when an address is not specified. 
-The Tests
-To draw out …]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
