@@ -10,20 +10,20 @@ sources:
   - href: https://community.dynamics.com/ax/b/axmsdwnews/rss
   # - href: https://community.dynamics.com/ax/b/erpsoftwareblog/rss
   - href: https://dynamics.fo/rss.xml
-  # - href: https://www.erpsoftwareblog.com/feed/
+  # - href: https://erpsoftwareblog.com/feed/
   # - href: https://365community.online/feed
 
   # AX Blogs
-  - href: http://www.everythingdynamicsaxbi.com/category/dynamics-365-for-finance-and-operations/feed/
+  - href: http://everythingdynamicsaxbi.com/category/dynamics-365-for-finance-and-operations/feed/
   - href: https://alexdmeyer.com/feed/
-  - href: https://www.powerazure365.com/?format=rss
+  - href: https://powerazure365.com/?format=rss
   - href: https://d365fostuff.wordpress.com/feed/
   - href: https://msdyn365fo.wordpress.com/feed/
   - href: https://ariste.info/en/feed/
-  - href: https://www.dynagile.fr/en/home-page-blog/feed/
+  - href: https://dynagile.fr/en/home-page-blog/feed/
   - href: https://anithasantosh.wordpress.com/feed/
   - href: https://dynamics365musings.com/feed/
-  - href: http://www.atomicax.com/rss.xml
+  - href: http://atomicax.com/rss.xml
   - href: https://kurthatlevik.com/feed/
   - href: https://dynvision365.com/feed/
   - href: https://allaboutdynamic.com/feed/
@@ -32,7 +32,10 @@ sources:
   - href: https://dev.goshoom.net/feed/
   - href: https://exploredynamics365.home.blog/blog-feed/feed/
   - href: https://exploredynamics365.home.blog/feed/
-  - href: https://www.d365snippets.com/feeds/posts/default
+  - href: https://d365snippets.com/feeds/posts/default
+
+  # Dynamics 365 HR
+  - href: https://paragchapre.com/feed/
 
   # DYNAMICS 365 SUPPLY CHAIN MANAGEMENT
   - href: http://feeds.feedburner.com/KashperukIvan/
@@ -81,8 +84,8 @@ sources:
 
   # Power Apps
   - href: https://powerapps.microsoft.com/en-us/blog/feed/
-  - href: https://www.axsoup.com/feeds/posts/default #blogspot # Blogger
-  - href: https://www.d365fandom.com/feeds/posts/default
+  - href: https://axsoup.com/feeds/posts/default #blogspot # Blogger
+  - href: https://d365fandom.com/feeds/posts/default
   - href: https://ievgensaxblog.wordpress.com/feed/
   - href: https://dynamics365ax2012.blogspot.com/feeds/posts/default
 
