@@ -2852,6 +2852,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4419",
+          "author": "Kurt Hatlevik",
+          "description": "Do you feel that the of printing labels in Dynamics 365 is a bit difficult? The options we have in standard D365 is to learn Wave label printing. Or you can look into ISV’s as ISV Docentric. Labeling connects the transactional world with the physical world. We meet customer labels requirements for identifying products, pricing … Continue reading D365: BarTender and label integration using REST API",
+          "link": "https://kurthatlevik.com/2022/12/11/d365-bartender-and-label-integration-using-rest-api/",
+          "publishedOn": "2022-12-11T16:04:12.000Z",
+          "wordCount": 3734,
+          "title": "D365: BarTender and label integration using REST API",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2022/12/121122_1605_d365bartend1.png"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4405",
           "author": "Kurt Hatlevik",
           "description": "Your have surely heard about Sturgeon’s law that “90% of everything is crap”. Dynamics 365 is one of the most comprehensive and feature rich business application in the marked and trying to learn or use all the features would be lifelong study effort beyond the capacity of any person. I can say with 100% certainty … Continue reading Dynamics 365 – 90% of everything is crap",
@@ -4032,6 +4042,16 @@
       "feedUrl": "https://www.d365snippets.com/feeds/posts/default",
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
+        {
+          "id": "https://www.d365snippets.com/2022/12/what-is-flash-fill-in-excel-how-to-use-flash-fill-in-excel.html",
+          "author": null,
+          "description": "In this article, we will discuss the flash fill feature of Microsoft Excel. As the name mentioned, Flash fill executes tedious tasks in a flash, it is one of the amazing features introduced by Microsoft in 2013. \nBefore introducing flash fill functionality in excel, Microsoft excel uses used complex formulas to do the required tasks easily. But after introducing the flash fill tool, it reduced the complexity and execution time.\nFor example: before introducing the flash fill property, to split the first name from a full name excel users used a formula,\nTo extract the first name “Sachin” from “Sachin Tendulkar” we need to use a formula \n= left (A2, search (“”, A2,1))\n\n\n\nSimilarly, users need to write another formula to extract “Tendulkar” from “Sachin Tendulkar”.\nWhere is Flash Fill Located …",
+          "link": "https://www.d365snippets.com/2022/12/what-is-flash-fill-in-excel-how-to-use-flash-fill-in-excel.html",
+          "publishedOn": "2022-12-11T17:40:00.002Z",
+          "wordCount": 7092,
+          "title": "What is Flash Fill in Excel ? How to use flash fill in Excel ?",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimyFYc3WfZVx6Ct-6u0KoMm325WpNCT5zO9-Dc4fhXpIKUFyTiUd-NM2O1nqGgio_5OC_l7nDYx6-XUR37OLpLD8NUtmIr44O2PdVThrokALuNVCTn8nfnedQiyHG6PLd1xqny62HzIDqkztv1_Z2FbJ93haXKwKwI4OU-vTl8Zoz2h7aSH56-uce1xA/s16000/Flash%20Fill%20in%20Excel%20how%20to%20use%20flash%20fill%20in%20excel%20office365.jpg"
+        },
         {
           "id": "https://www.d365snippets.com/2022/12/microsoft-dynamics-365-interview-questions-and-answers-2023-update.html",
           "author": null,

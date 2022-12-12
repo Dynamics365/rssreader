@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-11T01:36:15.265Z</updated>
+    <updated>2022-12-12T01:25:09.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Flash Fill in Excel ? How to use flash fill in Excel ?]]></title>
+        <id>https://www.d365snippets.com/2022/12/what-is-flash-fill-in-excel-how-to-use-flash-fill-in-excel.html</id>
+        <link href="https://www.d365snippets.com/2022/12/what-is-flash-fill-in-excel-how-to-use-flash-fill-in-excel.html"/>
+        <updated>2022-12-11T17:40:00.002Z</updated>
+        <summary type="html"><![CDATA[In this article, we will discuss the flash fill feature of Microsoft Excel. As the name mentioned, Flash fill executes tedious tasks in a flash, it is one of the amazing features introduced by Microsoft in 2013. 
+Before introducing flash fill functionality in excel, Microsoft excel uses used complex formulas to do the required tasks easily. But after introducing the flash fill tool, it reduced the complexity and execution time.
+For example: before introducing the flash fill property, to split the first name from a full name excel users used a formula,
+To extract the first name “Sachin” from “Sachin Tendulkar” we need to use a formula 
+= left (A2, search (“”, A2,1))
+
+
+
+Similarly, users need to write another formula to extract “Tendulkar” from “Sachin Tendulkar”.
+Where is Flash Fill Located …]]></summary>
+        <author>
+            <name>D365 Snippets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365: BarTender and label integration using REST API]]></title>
+        <id>http://kurthatlevik.com/?p=4419</id>
+        <link href="https://kurthatlevik.com/2022/12/11/d365-bartender-and-label-integration-using-rest-api/"/>
+        <updated>2022-12-11T16:04:12.000Z</updated>
+        <summary type="html"><![CDATA[Do you feel that the of printing labels in Dynamics 365 is a bit difficult? The options we have in standard D365 is to learn Wave label printing. Or you can look into ISV’s as ISV Docentric. Labeling connects the transactional world with the physical world. We meet customer labels requirements for identifying products, pricing … Continue reading D365: BarTender and label integration using REST API]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Financial Dimension setup in D365Finance for projects managed in D365ProjectOperations]]></title>
         <id>http://dynamicsax-fico.com/?p=4821</id>
