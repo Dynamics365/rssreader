@@ -2242,6 +2242,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=2549",
+          "author": "peter.ramer",
+          "description": "After adding parameters to a SysOperation Framework batch job, you may want to set those parameters to start with an initial value. In this article, learn how to set a D365 SysOperation Framework default value. By setting a default value that is most appropriate for the data that the job will process, this can save... Continue Reading →\nThe post D365 SysOperation Framework Default Value appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-sysoperation-framework-default/?utm_source=rss&utm_medium=rss&utm_campaign=d365-sysoperation-framework-default",
+          "publishedOn": "2022-12-12T14:00:00.000Z",
+          "wordCount": 2815,
+          "title": "D365 SysOperation Framework Default Value",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/11/D365-SysOperation-Framework-Default-Values.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=2535",
           "author": "peter.ramer",
           "description": "There are times when the default parameters created for a SysOperation Framework job do not function as desired. In this article, learn to override the D365 SysOperation Framework lookup to show different columns and data than are shown by default. All of this is accomplished by creating a fourth class that extends SysOperationAutomaticUIBuilder. Review Before... Continue Reading →\nThe post D365 SysOperation Framework Lookup appeared first on Dynamics 365 Musings.",
@@ -7569,6 +7579,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "protecting-data-with-dataverse-part-2-security-from-internal-threats-users",
+          "author": null,
+          "description": "Protecting data from internal threats (users)",
+          "link": "https://powerapps.microsoft.com/en-us/blog/protecting-data-with-dataverse-part-2-security-from-internal-threats-users/",
+          "publishedOn": "2022-12-12T08:00:00.000Z",
+          "wordCount": 1765,
+          "title": "Protecting Data with Dataverse Part 2: Security from Internal Threats (Users)",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "coca-cola-united-automates-multi-step-sap-invoicing-process-power-platform",
           "author": null,

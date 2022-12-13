@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-12T14:46:24.666Z</updated>
+    <updated>2022-12-13T01:34:47.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -34,6 +34,27 @@ Let's examine how to get the most out of Azure spend for Tier 1 machines.
 A while ago Denis Trunin wrote an article on Visual Studio performance for F&O. I thought it was a well written and researched article. However, I wanted to see what the limit was on performance per unit of money spent. I also wanted to see what the limits were, in general. If twice as more is twice as better, then 4 times as much must mean 4 times more better, right? We'll be using the DOOM Super Shotgun methodology of 2 is better than 1, and 4 is better than 2. I'll also be likening each part of the article to a map from classic DOOM (1993). For those of you DOOM fans out there, this should be fun. For …]]></summary>
         <author>
             <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 SysOperation Framework Default Value]]></title>
+        <id>https://dynamics365musings.com/?p=2549</id>
+        <link href="https://dynamics365musings.com/d365-sysoperation-framework-default/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-sysoperation-framework-default"/>
+        <updated>2022-12-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After adding parameters to a SysOperation Framework batch job, you may want to set those parameters to start with an initial value. In this article, learn how to set a D365 SysOperation Framework default value. By setting a default value that is most appropriate for the data that the job will process, this can save... Continue Reading →
+The post D365 SysOperation Framework Default Value appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protecting Data with Dataverse Part 2: Security from Internal Threats (Users)]]></title>
+        <id>protecting-data-with-dataverse-part-2-security-from-internal-threats-users</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/protecting-data-with-dataverse-part-2-security-from-internal-threats-users/"/>
+        <updated>2022-12-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Protecting data from internal threats (users)]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
