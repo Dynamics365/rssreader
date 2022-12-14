@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-13T01:34:47.780Z</updated>
+    <updated>2022-12-14T01:23:59.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Platform build tools and Azure DevOps]]></title>
+        <id>power-platform-build-tools-and-azure-devops</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-build-tools-and-azure-devops/"/>
+        <updated>2022-12-13T16:24:03.000Z</updated>
+        <summary type="html"><![CDATA[We have had a lot of requests to clarify best practices for using Power Platform Build Tools (PP.BT) for Azure DevOps and are delighted to share more about this in our post below. Username and password versus Service Principal When using Azure DevOps, the Power Platform Build Tools provides you options to either create service…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsMinds conference speakers]]></title>
+        <id>https://dev.goshoom.net/?p=9835</id>
+        <link href="https://dev.goshoom.net/2022/12/dynamicsminds-conference-speakers/"/>
+        <updated>2022-12-13T13:57:40.000Z</updated>
+        <summary type="html"><![CDATA[I’ve just checked the list of sessions proposed for DynamicsMinds conference (22–24 May 2023, Slovenia), where I’ll also have a few, and recognized many familiar names. It’ll be great not only to listen their sessions, but also to finally meet them again in person. The list is long, but to mention at least some names, ...
+Continue reading ‘DynamicsMinds conference speakers’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 F&O Warehouse management application customization  Part 1- Auto populate the value to a standard field.]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:7c371ce9-6750-4ff1-9f0b-91ff2fcd6484</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/d365-f-o-warehouse-management-application-customization-part-1--auto-populate-the-value-to-a-standard-field"/>
+        <updated>2022-12-13T05:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi All,
+I hope everyone is doing great and learning new things. 
+Here I am coming with a new blog to understand and guide everyone to learn the customization in Warehouse Management application. As you can see in the screenshot below, We have re...(read more)]]></summary>
+        <author>
+            <name>Vijay Yelmame</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boosting Customer Hosted Environment (CHE) Performance]]></title>
         <id>1656 at https://www.atomicax.com</id>
@@ -11865,16 +11898,6 @@ You can defi…]]></summary>
         <summary type="html"><![CDATA[The blog post describes a sample approach to implement recurring file-based integration in D365FO using X++]]></summary>
         <author>
             <name>Gatsby RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delivery Plans 2.0 in Azure DevOps]]></title>
-        <id>https://msdyn365fo.wordpress.com/?p=441</id>
-        <link href="https://msdyn365fo.wordpress.com/2020/12/14/delivery-plans-2-0-in-azure-devops/"/>
-        <updated>2020-12-14T08:17:56.000Z</updated>
-        <summary type="html"><![CDATA[In this post I want to show you the Delivery Plans 2.0 (preview) in Azure DevOps. This new feature has been added with Sprint 178 release and is an improvement to the existing delivery plans, I´ve described in my blog from July 2019. With the latest improvements the delivery plans got a much clearer presentation … Continue reading Delivery Plans 2.0 in Azure DevOps →]]></summary>
-        <author>
-            <name>Paul Heisterkamp</name>
         </author>
     </entry>
 </feed>

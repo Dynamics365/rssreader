@@ -1829,16 +1829,6 @@
           "wordCount": 669,
           "title": "Error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write",
           "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/02/errorduringsetupofdualwrite.png?w=1200"
-        },
-        {
-          "id": "https://msdyn365fo.wordpress.com/?p=441",
-          "author": "Paul Heisterkamp",
-          "description": "In this post I want to show you the Delivery Plans 2.0 (preview) in Azure DevOps. This new feature has been added with Sprint 178 release and is an improvement to the existing delivery plans, I´ve described in my blog from July 2019. With the latest improvements the delivery plans got a much clearer presentation … Continue reading Delivery Plans 2.0 in Azure DevOps →",
-          "link": "https://msdyn365fo.wordpress.com/2020/12/14/delivery-plans-2-0-in-azure-devops/",
-          "publishedOn": "2020-12-14T08:17:56.000Z",
-          "wordCount": 583,
-          "title": "Delivery Plans 2.0 in Azure DevOps",
-          "imageUrl": "https://msdyn365fo.files.wordpress.com/2020/12/plans-preview-banner.png?w=1200"
         }
       ]
     },
@@ -3475,6 +3465,16 @@
       "feedUrl": "https://dev.goshoom.net/feed/",
       "siteUrl": "https://dev.goshoom.net",
       "articles": [
+        {
+          "id": "https://dev.goshoom.net/?p=9835",
+          "author": "Martin Dráb",
+          "description": "I’ve just checked the list of sessions proposed for DynamicsMinds conference (22–24 May 2023, Slovenia), where I’ll also have a few, and recognized many familiar names. It’ll be great not only to listen their sessions, but also to finally meet them again in person. The list is long, but to mention at least some names, ...\nContinue reading ‘DynamicsMinds conference speakers’ »",
+          "link": "https://dev.goshoom.net/2022/12/dynamicsminds-conference-speakers/",
+          "publishedOn": "2022-12-13T13:57:40.000Z",
+          "wordCount": 1023,
+          "title": "DynamicsMinds conference speakers",
+          "imageUrl": null
+        },
         {
           "id": "https://dev.goshoom.net/?p=9826",
           "author": "Martin Dráb",
@@ -6051,6 +6051,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:7c371ce9-6750-4ff1-9f0b-91ff2fcd6484",
+          "author": "Vijay Yelmame",
+          "description": "Hi All,\nI hope everyone is doing great and learning new things. \nHere I am coming with a new blog to understand and guide everyone to learn the customization in Warehouse Management application. As you can see in the screenshot below, We have re...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/d365-f-o-warehouse-management-application-customization-part-1--auto-populate-the-value-to-a-standard-field",
+          "publishedOn": "2022-12-13T05:56:00.000Z",
+          "wordCount": 3592,
+          "title": "D365 F&O Warehouse management application customization  Part 1- Auto populate the value to a standard field.",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:04843944-7de5-4d13-a48b-6f755000a741",
           "author": "Vijay Yelmame",
           "description": "Hi All,\nHope everyone is doing great.\nToday we are here to learn one of the common requirement in every integration i.e. how to de-serialize JSON string in D365FO/AX7 using X++ code.\n\n\nBelow is the JSON which is showing the population count by count...(read more)",
@@ -7579,6 +7589,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "power-platform-build-tools-and-azure-devops",
+          "author": null,
+          "description": "We have had a lot of requests to clarify best practices for using Power Platform Build Tools (PP.BT) for Azure DevOps and are delighted to share more about this in our post below. Username and password versus Service Principal When using Azure DevOps, the Power Platform Build Tools provides you options to either create service…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-platform-build-tools-and-azure-devops/",
+          "publishedOn": "2022-12-13T16:24:03.000Z",
+          "wordCount": 2378,
+          "title": "Power Platform build tools and Azure DevOps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "protecting-data-with-dataverse-part-2-security-from-internal-threats-users",
           "author": null,
