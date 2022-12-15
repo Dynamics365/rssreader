@@ -1394,6 +1394,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2534",
+          "author": "Alex",
+          "description": "One complaint I hear quite often and a huge gap in the current D365FO offering from a security perspective is that there is not a good way to compare security between environments. This becomes especially difficult when upgrading to a new D365FO version or when wanting to confirm that no new security changes have been […]\nThe post Comparing Security Between D365FO Environments – Beta Solution appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2022/12/14/comparing-security-between-d365fo-environments-beta-solution/",
+          "publishedOn": "2022-12-14T18:09:26.000Z",
+          "wordCount": 4230,
+          "title": "Comparing Security Between D365FO Environments – Beta Solution",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2022/12/1.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2503",
           "author": "Alex",
           "description": "In the 10.0.30 release of D365FO, which went GA on Oct 21st 2022, Microsoft added the ability for customers to report on the telemetry data of their end users. I wanted to take a quick overview of this feature and start to look at opportunities to use this data. Prerequisites The telemetry data from Microsoft […]\nThe post Overview of Telemetry Data in D365FO appeared first on Alex Meyer.",
@@ -6051,6 +6061,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4af3f29f-3156-4c18-9bda-ab24ac9e156d",
+          "author": "Vijay Yelmame",
+          "description": "Hi All,Welcome to the second part of this series. In this blog will see how we can perform the auto click after auto populating values. This is required because in standard logic system is working like on first click it will fetch item id , then on s...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/d365-f-o-warehouse-management-application-customization-part-2--perform-auto-click-from-x-code",
+          "publishedOn": "2022-12-13T07:15:00.000Z",
+          "wordCount": 4003,
+          "title": "D365 F&O Warehouse management application customization  Part 2-  Perform auto click from x++ code.",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:7c371ce9-6750-4ff1-9f0b-91ff2fcd6484",
           "author": "Vijay Yelmame",
           "description": "Hi All,\nI hope everyone is doing great and learning new things. \nHere I am coming with a new blog to understand and guide everyone to learn the customization in Warehouse Management application. As you can see in the screenshot below, We have re...(read more)",
@@ -7589,6 +7609,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "power-platform-developer-tools-november-update",
+          "author": null,
+          "description": "We are glad to announce the release of our final 2022 deliverable, the November update for Power Platform CLI, Azure DevOps, and GitHub actions. Once again, this month’s update has some great new features available, and I am happy to share them with you. Support for Managed Identities in Azure DevOps This has by far…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-november-update/",
+          "publishedOn": "2022-12-14T09:00:00.000Z",
+          "wordCount": 1968,
+          "title": "Power Platform Developer Tools November update",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "power-platform-build-tools-and-azure-devops",
           "author": null,

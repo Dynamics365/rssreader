@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-14T01:23:59.938Z</updated>
+    <updated>2022-12-15T01:26:07.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Comparing Security Between D365FO Environments – Beta Solution]]></title>
+        <id>https://alexdmeyer.com/?p=2534</id>
+        <link href="https://alexdmeyer.com/2022/12/14/comparing-security-between-d365fo-environments-beta-solution/"/>
+        <updated>2022-12-14T18:09:26.000Z</updated>
+        <summary type="html"><![CDATA[One complaint I hear quite often and a huge gap in the current D365FO offering from a security perspective is that there is not a good way to compare security between environments. This becomes especially difficult when upgrading to a new D365FO version or when wanting to confirm that no new security changes have been […]
+The post Comparing Security Between D365FO Environments – Beta Solution appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Developer Tools November update]]></title>
+        <id>power-platform-developer-tools-november-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-platform-developer-tools-november-update/"/>
+        <updated>2022-12-14T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are glad to announce the release of our final 2022 deliverable, the November update for Power Platform CLI, Azure DevOps, and GitHub actions. Once again, this month’s update has some great new features available, and I am happy to share them with you. Support for Managed Identities in Azure DevOps This has by far…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Platform build tools and Azure DevOps]]></title>
         <id>power-platform-build-tools-and-azure-devops</id>
@@ -25,6 +46,16 @@
 Continue reading ‘DynamicsMinds conference speakers’ »]]></summary>
         <author>
             <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 F&O Warehouse management application customization  Part 2-  Perform auto click from x++ code.]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4af3f29f-3156-4c18-9bda-ab24ac9e156d</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/d365-f-o-warehouse-management-application-customization-part-2--perform-auto-click-from-x-code"/>
+        <updated>2022-12-13T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi All,Welcome to the second part of this series. In this blog will see how we can perform the auto click after auto populating values. This is required because in standard logic system is working like on first click it will fetch item id , then on s...(read more)]]></summary>
+        <author>
+            <name>Vijay Yelmame</name>
         </author>
     </entry>
     <entry>
