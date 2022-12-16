@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-15T01:26:07.091Z</updated>
+    <updated>2022-12-16T01:22:17.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Engage customers using highly personalized content—easily, efficiently, and at scale]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/12/15/engage-customers-using-highly-personalized-content-easily-efficiently-and-at-scale/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/12/15/engage-customers-using-highly-personalized-content-easily-efficiently-and-at-scale/"/>
+        <updated>2022-12-15T18:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Your customers' email inboxes are like a firehose that never stops. How do you make sure they'll notice your communications in the flood? With personalized content tailored just for them. Generic, boilerplate emails make customers feel like they're just another number. Personalized experiences make your customers feel heard and understood.
+The post Engage customers using highly personalized content—easily, efficiently, and at scale appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Vinay Deo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holographic Microsoft Teams features empower hybrid collaboration in the industrial metaverse]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/15/holographic-microsoft-teams-features-empower-hybrid-collaboration-in-the-industrial-metaverse/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/15/holographic-microsoft-teams-features-empower-hybrid-collaboration-in-the-industrial-metaverse/"/>
+        <updated>2022-12-15T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft HoloLens 2 customers are using mixed reality to expedite the ways they ensure process compliance, improve efficiency, and learn on the job with step-by-step holographic instructions in Microsoft Dynamics 365 Guides.
+The post Holographic Microsoft Teams features empower hybrid collaboration in the industrial metaverse appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Andy Klein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #3]]></title>
+        <id>http://dynamicsax-fico.com/?p=4877</id>
+        <link href="https://dynamicsax-fico.com/2022/12/15/microsoft-bizapps-deutschland-podcast-3/"/>
+        <updated>2022-12-15T06:14:28.000Z</updated>
+        <summary type="html"><![CDATA[[GERMAN LANGUAGE PODCAST EPISODE] In dieser neuen Ausgabe des BizApps Podcasts sprechen wir mit Jonathan Freischlad über die Firma Ordat, …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comparing Security Between D365FO Environments – Beta Solution]]></title>
         <id>https://alexdmeyer.com/?p=2534</id>
@@ -25,6 +58,17 @@ The post Comparing Security Between D365FO Environments – Beta Solution appear
         <summary type="html"><![CDATA[We are glad to announce the release of our final 2022 deliverable, the November update for Power Platform CLI, Azure DevOps, and GitHub actions. Once again, this month’s update has some great new features available, and I am happy to share them with you. Support for Managed Identities in Azure DevOps This has by far…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Education accelerator gets new sample applications and updated data model]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/12/13/education-accelerator-gets-new-sample-applications-and-updated-data-model/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/12/13/education-accelerator-gets-new-sample-applications-and-updated-data-model/"/>
+        <updated>2022-12-13T18:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Educational institutions are looking for modern data solutions that improve their ability to accurately assess and quickly respond to students' and educators' needs. We designed the Microsoft Dynamics 365 education accelerator to help partners expedite the development of these solutions.
+The post Education accelerator gets new sample applications and updated data model appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Maria Mendiburo</name>
         </author>
     </entry>
     <entry>
@@ -68,6 +112,17 @@ I hope everyone is doing great and learning new things. 
 Here I am coming with a new blog to understand and guide everyone to learn the customization in Warehouse Management application. As you can see in the screenshot below, We have re...(read more)]]></summary>
         <author>
             <name>Vijay Yelmame</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enabling rapid business model innovation and growth]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/12/enabling-rapid-business-model-innovation-and-growth/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/12/enabling-rapid-business-model-innovation-and-growth/"/>
+        <updated>2022-12-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft commissioned Forrester Consulting to investigate where companies are succeeding, struggling, and investing in their quest to move toward service-centric business models and project-based operations. Forrester Consulting explored how this trend impacts the global business landscape and associated business teams.
+The post Enabling rapid business model innovation and growth appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Michele Ballinger</name>
         </author>
     </entry>
     <entry>

@@ -3189,6 +3189,46 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/15/engage-customers-using-highly-personalized-content-easily-efficiently-and-at-scale/",
+          "author": "Vinay Deo",
+          "description": "Your customers' email inboxes are like a firehose that never stops. How do you make sure they'll notice your communications in the flood? With personalized content tailored just for them. Generic, boilerplate emails make customers feel like they're just another number. Personalized experiences make your customers feel heard and understood.\nThe post Engage customers using highly personalized content—easily, efficiently, and at scale appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/15/engage-customers-using-highly-personalized-content-easily-efficiently-and-at-scale/",
+          "publishedOn": "2022-12-15T18:33:00.000Z",
+          "wordCount": 2654,
+          "title": "Engage customers using highly personalized content—easily, efficiently, and at scale",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/12/MSC21_PICHA_remoteWorkplace_82783-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/15/holographic-microsoft-teams-features-empower-hybrid-collaboration-in-the-industrial-metaverse/",
+          "author": "Andy Klein",
+          "description": "Microsoft HoloLens 2 customers are using mixed reality to expedite the ways they ensure process compliance, improve efficiency, and learn on the job with step-by-step holographic instructions in Microsoft Dynamics 365 Guides.\nThe post Holographic Microsoft Teams features empower hybrid collaboration in the industrial metaverse appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/15/holographic-microsoft-teams-features-empower-hybrid-collaboration-in-the-industrial-metaverse/",
+          "publishedOn": "2022-12-15T16:00:00.000Z",
+          "wordCount": 2445,
+          "title": "Holographic Microsoft Teams features empower hybrid collaboration in the industrial metaverse",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/12/TeamsInGuides-OverviewImage.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/13/education-accelerator-gets-new-sample-applications-and-updated-data-model/",
+          "author": "Maria Mendiburo",
+          "description": "Educational institutions are looking for modern data solutions that improve their ability to accurately assess and quickly respond to students' and educators' needs. We designed the Microsoft Dynamics 365 education accelerator to help partners expedite the development of these solutions.\nThe post Education accelerator gets new sample applications and updated data model appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/13/education-accelerator-gets-new-sample-applications-and-updated-data-model/",
+          "publishedOn": "2022-12-13T18:59:00.000Z",
+          "wordCount": 2026,
+          "title": "Education accelerator gets new sample applications and updated data model",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/12/WIN23_EDU_Dell_Latitude_3120_022-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/12/enabling-rapid-business-model-innovation-and-growth/",
+          "author": "Michele Ballinger",
+          "description": "Microsoft commissioned Forrester Consulting to investigate where companies are succeeding, struggling, and investing in their quest to move toward service-centric business models and project-based operations. Forrester Consulting explored how this trend impacts the global business landscape and associated business teams.\nThe post Enabling rapid business model innovation and growth appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/12/enabling-rapid-business-model-innovation-and-growth/",
+          "publishedOn": "2022-12-12T16:00:00.000Z",
+          "wordCount": 2486,
+          "title": "Enabling rapid business model innovation and growth",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/CLO17_brainstormingTrio_004.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2022/12/08/the-key-to-delivering-experiences-that-customers-love/",
           "author": "Neha Bajwa",
           "description": "In partnership with Futurum, we surveyed 1,000 global business leaders, technologists, marketers, and data and customer experience professionals, and identified the challenges and opportunities that best-in-class data practices afford customer experience (CX) leaders today. The findings revealed what we had surmised going inthat companies are evolving their customer relationship management (CRM) technologies to meet changing customer expectations.\nThe post Microsoft and Futurum research: Discover insights to create experiences that customers love appeared first on Microsoft Dynamics 365 Blog.",
@@ -4324,6 +4364,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=4877",
+          "author": "Ludwig Reinhard",
+          "description": "[GERMAN LANGUAGE PODCAST EPISODE] In dieser neuen Ausgabe des BizApps Podcasts sprechen wir mit Jonathan Freischlad über die Firma Ordat, …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2022/12/15/microsoft-bizapps-deutschland-podcast-3/",
+          "publishedOn": "2022-12-15T06:14:28.000Z",
+          "wordCount": 2560,
+          "title": "Microsoft BizApps Deutschland Podcast #3",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=4821",
           "author": "Ludwig Reinhard",
