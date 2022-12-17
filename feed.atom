@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-16T01:22:17.430Z</updated>
+    <updated>2022-12-17T01:17:55.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accelerate your year-end close process]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/12/16/accelerate-your-year-end-close-process/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/12/16/accelerate-your-year-end-close-process/"/>
+        <updated>2022-12-16T18:38:00.000Z</updated>
+        <summary type="html"><![CDATA[The year-end close process is a cumbersome, multi-step task that ensures an organization can provide accurate annual reports and financial statements for its stakeholders. It's critical to get it right, but the process can be intimidating and overwhelming. Trying to balance the workload among overstressed accounting staff can result in errors, multiple manual adjustments, and pressure on the finance department.
+The post Accelerate your year-end close process appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mohamed Aamer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Engage customers using highly personalized content—easily, efficiently, and at scale]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/12/15/engage-customers-using-highly-personalized-content-easily-efficiently-and-at-scale/</id>
