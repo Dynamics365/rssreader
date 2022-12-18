@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-17T01:17:55.741Z</updated>
+    <updated>2022-12-18T01:19:48.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -15,6 +15,26 @@
 The post Accelerate your year-end close process appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Mohamed Aamer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: NMB Solutions expands in Europe with new shipping partnership]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a60656b4-64dc-4f4b-8619-9ccccb094533</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-nmb-solutions-expands-in-europe-with-new-shipping-partnership"/>
+        <updated>2022-12-16T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This episode is
+sponsored by 
+ NMB
+Solutions . 
+ 
+ 
+ 
+ Microsoft Dynamics 365
+Finance and Supply Chain Management customers in Europe face unique
+challenges related to transportation and shipping. Our guest,
+Nathaniël Nguyen, Director of Sales at NMB... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
         </author>
     </entry>
     <entry>
@@ -11975,26 +11995,6 @@ You can defi…]]></summary>
         <summary type="html"><![CDATA[“Microsoft Power Platform” is a new buzzword on the market with more and more customers reaching out to Microsoft Partners asking for details about it. Therefore, Microsoft Partners are putting additional...(read more)]]></summary>
         <author>
             <name>1ClickFactory Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Unpredictable Year and What it Means for 2021]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2001432d-95fc-4de4-bac4-098189557adf</id>
-        <link href="https://community.dynamics.com/ax/b/1clickfactory365andax/posts/an-unpredictable-year-and-what-it-means-for-2021"/>
-        <updated>2020-12-18T09:36:12.000Z</updated>
-        <summary type="html"><![CDATA[I was reading back over my predictions for 2020 from last year’s Christmas/New Year blog. Boy was I wrong (see blog from last year here ), but then again, I think most people could not have predicted all...(read more)]]></summary>
-        <author>
-            <name>1ClickFactory Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to implement file-based integration in Dynamics 365 FinOps using X++]]></title>
-        <id>https://denistrunin.com/xpptools-fileintegledger/</id>
-        <link href="https://denistrunin.com/xpptools-fileintegledger/"/>
-        <updated>2020-12-17T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The blog post describes a sample approach to implement recurring file-based integration in D365FO using X++]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
         </author>
     </entry>
 </feed>

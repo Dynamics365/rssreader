@@ -604,6 +604,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a60656b4-64dc-4f4b-8619-9ccccb094533",
+          "author": "MSDynamicsWorld.com",
+          "description": "This episode is\nsponsored by \n NMB\nSolutions . \n \n \n \n Microsoft Dynamics 365\nFinance and Supply Chain Management customers in Europe face unique\nchallenges related to transportation and shipping. Our guest,\nNathaniël Nguyen, Director of Sales at NMB... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-nmb-solutions-expands-in-europe-with-new-shipping-partnership",
+          "publishedOn": "2022-12-16T18:00:00.000Z",
+          "wordCount": 3725,
+          "title": "MSDW Podcast: NMB Solutions expands in Europe with new shipping partnership",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b1f8c258-09fc-49d6-bc92-3f2b89c48934",
           "author": "MSDynamicsWorld.com",
           "description": "North American ERP solution provider announces acquisition .... Read More Read the full text.",
@@ -5457,16 +5467,6 @@
           "wordCount": 2245,
           "title": "Here’s what you need to know if you're considering adding Microsoft Power Platform to your business",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:2001432d-95fc-4de4-bac4-098189557adf",
-          "author": "1ClickFactory Team",
-          "description": "I was reading back over my predictions for 2020 from last year’s Christmas/New Year blog. Boy was I wrong (see blog from last year here ), but then again, I think most people could not have predicted all...(read more)",
-          "link": "https://community.dynamics.com/ax/b/1clickfactory365andax/posts/an-unpredictable-year-and-what-it-means-for-2021",
-          "publishedOn": "2020-12-18T09:36:12.000Z",
-          "wordCount": 1354,
-          "title": "An Unpredictable Year and What it Means for 2021",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -7223,16 +7223,6 @@
           "wordCount": 1194,
           "title": "D365FO Performance. Periodic import of one million ledger journal lines",
           "imageUrl": "https://denistrunin.com/static/20c6282dd93437adada46bfd7ce45fcb/c9ade/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/xpptools-fileintegledger/",
-          "author": null,
-          "description": "The blog post describes a sample approach to implement recurring file-based integration in D365FO using X++",
-          "link": "https://denistrunin.com/xpptools-fileintegledger/",
-          "publishedOn": "2020-12-17T22:12:03.000Z",
-          "wordCount": 2327,
-          "title": "How to implement file-based integration in Dynamics 365 FinOps using X++",
-          "imageUrl": "https://denistrunin.com/static/c66dc4c22deb1902e9158f3ae925d030/5409b/logo.png"
         }
       ]
     },
