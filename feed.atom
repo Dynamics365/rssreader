@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-18T01:19:48.258Z</updated>
+    <updated>2022-12-19T01:17:54.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Truncate entity list in Dynamics 365 F&O]]></title>
+        <id>http://paragchapre.com/?p=2169</id>
+        <link href="https://paragchapre.com/2022/12/19/truncate-entity-list-in-dynamics-365-fo/"/>
+        <updated>2022-12-18T23:46:37.000Z</updated>
+        <summary type="html"><![CDATA[Recently, Microsoft introduced Truncate entity list under data management in Dynamics 365 F&O. With this option, user can truncate all entities in Dynamics 365 F&O without writing any SQL script or x++ code. What is truncate entity list. Sometimes, while doing deployment or development we get an issue with the entity, and we need to... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accelerate your year-end close process]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/12/16/accelerate-your-year-end-close-process/</id>

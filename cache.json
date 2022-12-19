@@ -4164,6 +4164,16 @@
       "siteUrl": "https://paragchapre.com",
       "articles": [
         {
+          "id": "http://paragchapre.com/?p=2169",
+          "author": "Parag Chapre",
+          "description": "Recently, Microsoft introduced Truncate entity list under data management in Dynamics 365 F&O. With this option, user can truncate all entities in Dynamics 365 F&O without writing any SQL script or x++ code. What is truncate entity list. Sometimes, while doing deployment or development we get an issue with the entity, and we need to... Continue Reading →",
+          "link": "https://paragchapre.com/2022/12/19/truncate-entity-list-in-dynamics-365-fo/",
+          "publishedOn": "2022-12-18T23:46:37.000Z",
+          "wordCount": 3999,
+          "title": "Truncate entity list in Dynamics 365 F&O",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2022/12/truncate-entity-list.jpg?w=1200"
+        },
+        {
           "id": "http://paragchapre.com/?p=2088",
           "author": "Parag Chapre",
           "description": "In this article, we will see what entity is, different types of entities and how to identify entities in Dynamics 365 and Power Platform What is an entity An entity is an abstraction from the physical implementation of database tables. It is a combination of multiple tables where you can combine data from multiple sources or single... Continue Reading →",
