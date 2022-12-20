@@ -614,6 +614,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d3b8c332-bcb6-42c7-8016-d01699d9d3e3",
+          "author": "MSDynamicsWorld.com",
+          "description": "Dynamics User Group (DUG) has announced\nthat \n DynamicsCon\nLIVE will return May 22 to 25, 2023 in Scottsdale, Arizona. The\nevent will be bigger than the 2022 event, with an anticipated 700\nattendees and more than double the sessions, from 51 at the last... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/dynamicscon-live-2023-agenda-announced-for-a-growing-microsoft-business-apps-event",
+          "publishedOn": "2022-12-19T17:00:00.000Z",
+          "wordCount": 3531,
+          "title": "DynamicsCon LIVE 2023: Agenda announced for a growing Microsoft Business Apps event",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a60656b4-64dc-4f4b-8619-9ccccb094533",
           "author": "MSDynamicsWorld.com",
           "description": "This episode is\nsponsored by \n NMB\nSolutions . \n \n \n \n Microsoft Dynamics 365\nFinance and Supply Chain Management customers in Europe face unique\nchallenges related to transportation and shipping. Our guest,\nNathaniël Nguyen, Director of Sales at NMB... Read the full text.",
@@ -1182,6 +1192,113 @@
           "wordCount": 931,
           "title": "MSDW Podcast: Document visibility across Dynamics applications",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        }
+      ]
+    },
+    {
+      "title": "Blog – Encore Business Solutions",
+      "feedUrl": "https://www.encorebusiness.com/blog/feed/",
+      "siteUrl": "https://www.encorebusiness.com",
+      "articles": [
+        {
+          "id": "https://www.encorebusiness.com/?p=47400",
+          "author": "Jess Mooney",
+          "description": "What Is Dynamics 365 Marketing?\nMicrosoft Dynamics 365 Marketing is an end-to-end marketing solution. It handles everything from email campaign automations to campaign cost and revenue attribution. This article will explain D365 Marketing’s most important features, main use cases, and how it’s licensed (differently than most other Dynamics 365 apps). It will also cover the limitations of this application, and...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/what-is-dynamics-365-for-marketing/",
+          "publishedOn": "2022-12-15T12:13:46.000Z",
+          "wordCount": 2048,
+          "title": "What Is Dynamics 365 Marketing?",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/CRM-blog-image.png"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=55589",
+          "author": "Don McNulty",
+          "description": "Dynamics GP Fixed Assets\nDuring this recorded webinar, we share the monthly Fixed Assets process in Dynamics GP and explain how the Fixed Assets affect the General Ledger. ﻿﻿﻿﻿﻿﻿﻿﻿ Topics discussed during this session include: Asset classification and tracking Types of Amortization Integration to Accounts Payable (AP)/Purchase Order Processing (POP) Entries recorded in the General Ledger (GL) Reporting using...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-gp-fixed-assets/",
+          "publishedOn": "2022-12-14T14:43:30.000Z",
+          "wordCount": 5659,
+          "title": "Dynamics GP Fixed Assets",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=55453",
+          "author": "Kailey Acuña",
+          "description": "What Is Dual-Write for Dynamics 365?\nDual-write is the Dynamics 365 integration technology that enables the flow of data between certain applications: the Dynamics 365 CRM applications and Finance & Operations. As a Dynamics Partner, we’ve used Dual-write to help businesses connect their quoting and customer service inquiries to their financial processes, warehousing, and production. That lets salespeople, finance teams, and...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/what-is-dual-write-for-dynamics-365/",
+          "publishedOn": "2022-11-24T13:24:17.000Z",
+          "wordCount": 2766,
+          "title": "What Is Dual-Write for Dynamics 365?",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2022/05/D365-Img-1.jpg"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=55412",
+          "author": "Debra Huntly",
+          "description": "Dynamics GP Canadian Payroll 2023 Tax Updates\n2023 tax updates for GP 2018 have not yet been released but are expected to arrive, as usual, from mid to late December 2022. Check the links below for updated information: Read Microsoft’s Canadian Payroll Year-End and Tax Updates for Microsoft Dynamics GP Article. Check out the cool new features that will be included in...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-gp-canadian-payroll-2023-tax-updates/",
+          "publishedOn": "2022-11-17T19:30:47.000Z",
+          "wordCount": 1274,
+          "title": "Dynamics GP Canadian Payroll 2023 Tax Updates",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=45114",
+          "author": "Andrea Oklobdzija",
+          "description": "How to Create Rollup Columns (Fields) in Dynamics 365 CRM\nRollup Columns (previously known as Rollup Fields) can be extremely useful when you need an aggregated value using data from multiple Dynamics 365 CRM records. For instance, you could use a Rollup Column if your VP of Sales wants to see the total estimated revenue from open Opportunities for each Account directly on the Account...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/rollup-fields-in-microsoft-dynamics-365-crm/",
+          "publishedOn": "2022-11-14T12:13:15.000Z",
+          "wordCount": 2552,
+          "title": "How to Create Rollup Columns (Fields) in Dynamics 365 CRM",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/CRM-blog-image.png"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=55389",
+          "author": "Patti Schreiber",
+          "description": "Dynamics GP October 2022 Release\nThrough the commitment to the Modern Lifecycle Policy, version 18.5 of Dynamics GP was released on October 3, 2022. This article will highlight the top features that stood out to me as well as a list of all new features available in Dynamics GP 18.5. New Features in the October 2022 Release (18.5) Top 4...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-gp-october-2022-release/",
+          "publishedOn": "2022-11-10T17:54:36.000Z",
+          "wordCount": 1596,
+          "title": "Dynamics GP October 2022 Release",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=55283",
+          "author": "The Encore Team",
+          "description": "Solution Architecture for Dynamics 365 Implementations\nSolution architecture provides an overall blueprint of the business processes and applications in an advanced Dynamics 365 implementation. Architecture is more important now than ever, but its contribution is still often underestimated and rarely understood. To fill this common gap in understanding, we’ll explain: What Solution Architecture Is Risks of Neglecting Solution Architecture Which Projects...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/solution-architecture-d365/",
+          "publishedOn": "2022-10-28T11:13:57.000Z",
+          "wordCount": 2036,
+          "title": "Solution Architecture for Dynamics 365 Implementations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2022/05/D365-Img-square.png"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=55099",
+          "author": "Malone Yang",
+          "description": "How to Enable OAuth 2.0 to Replace Web Service Access Key for Dynamics 365 Business Central\nFor Dynamics 365 Business Central Online environments, the basic authentication (Web Service Access Key) is deprecated, and users will need to use OAuth. In this blog, I will explain step-by-step how to set up the OAuth for Dynamics 365 Business Central Online through two main sections of processes. The sections are: Enable and Configure OAuth...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-enable-oauth-for-dynamics-365-business-central/",
+          "publishedOn": "2022-10-20T19:05:29.000Z",
+          "wordCount": 1980,
+          "title": "How to Enable OAuth 2.0 to Replace Web Service Access Key for Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=55267",
+          "author": "Don McNulty",
+          "description": "Dynamics GP – AP and AR Close\nThe closing processes for AP and AR are mirror images of each other. During this recorded session, we explain the process to close Accounts Payable (AP) and Accounts Receivable (AR) monthly. We also share some tips and tricks throughout the closing steps. The intended audience is Dynamics GP users of all product versions. ﻿﻿﻿﻿﻿﻿﻿ Transcript...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-gp-ap-and-ar-close/",
+          "publishedOn": "2022-10-18T18:00:31.000Z",
+          "wordCount": 6889,
+          "title": "Dynamics GP – AP and AR Close",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=55247",
+          "author": "Sandra Roskin",
+          "description": "What’s New in Microsoft Dynamics 365 Business Central 2022 Release Wave 2?\nMicrosoft is continually improving and enhancing Dynamics 365 Business Central and has just released Wave 2 for 2022. The release includes enhancements for Application, Country and Regional, Development, Governance and Administration, Power Platform, and several other areas. We have included a review of just a few of the enhancements, and you will find links below...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/whats-new-in-microsoft-dynamics-365-business-central-2022-release-wave-2/",
+          "publishedOn": "2022-10-13T20:00:00.000Z",
+          "wordCount": 1871,
+          "title": "What’s New in Microsoft Dynamics 365 Business Central 2022 Release Wave 2?",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
         }
       ]
     },
@@ -4183,6 +4300,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "http://paragchapre.com/?p=2211",
+          "author": "Parag Chapre",
+          "description": "In today’s article, we will see how to restrict an employee to view information only for those legal entities that they have access. Currently, an employee can see data from all legal entities but there are some cases when this should not be happened due to GDPR compliance. User should not see information from other... Continue Reading →",
+          "link": "https://paragchapre.com/2022/12/20/restrict-access-to-worker-information/",
+          "publishedOn": "2022-12-20T03:39:22.000Z",
+          "wordCount": 4012,
+          "title": "Restrict access to worker information",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2022/12/restrict-access-to-worker-information-1.jpg?w=1200"
+        },
         {
           "id": "http://paragchapre.com/?p=2169",
           "author": "Parag Chapre",

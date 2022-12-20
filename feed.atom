@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-20T01:20:28.826Z</updated>
+    <updated>2022-12-20T18:24:01.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Restrict access to worker information]]></title>
+        <id>http://paragchapre.com/?p=2211</id>
+        <link href="https://paragchapre.com/2022/12/20/restrict-access-to-worker-information/"/>
+        <updated>2022-12-20T03:39:22.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to restrict an employee to view information only for those legal entities that they have access. Currently, an employee can see data from all legal entities but there are some cases when this should not be happened due to GDPR compliance. User should not see information from other... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsCon LIVE 2023: Agenda announced for a growing Microsoft Business Apps event]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d3b8c332-bcb6-42c7-8016-d01699d9d3e3</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/dynamicscon-live-2023-agenda-announced-for-a-growing-microsoft-business-apps-event"/>
+        <updated>2022-12-19T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics User Group (DUG) has announced
+that 
+ DynamicsCon
+LIVE will return May 22 to 25, 2023 in Scottsdale, Arizona. The
+event will be bigger than the 2022 event, with an anticipated 700
+attendees and more than double the sessions, from 51 at the last... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D365 SysOperation Framework Validation]]></title>
         <id>https://dynamics365musings.com/?p=2559</id>
@@ -101,6 +126,19 @@ The post Holographic Microsoft Teams features empower hybrid collaboration in th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What Is Dynamics 365 Marketing?]]></title>
+        <id>https://www.encorebusiness.com/?p=47400</id>
+        <link href="https://www.encorebusiness.com/blog/what-is-dynamics-365-for-marketing/"/>
+        <updated>2022-12-15T12:13:46.000Z</updated>
+        <summary type="html"><![CDATA[What Is Dynamics 365 Marketing?
+Microsoft Dynamics 365 Marketing is an end-to-end marketing solution. It handles everything from email campaign automations to campaign cost and revenue attribution. This article will explain D365 Marketing’s most important features, main use cases, and how it’s licensed (differently than most other Dynamics 365 apps). It will also cover the limitations of this application, and...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Jess Mooney</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #3]]></title>
         <id>http://dynamicsax-fico.com/?p=4877</id>
         <link href="https://dynamicsax-fico.com/2022/12/15/microsoft-bizapps-deutschland-podcast-3/"/>
@@ -120,6 +158,19 @@ Continue reading →]]></summary>
 The post Comparing Security Between D365FO Environments – Beta Solution appeared first on Alex Meyer.]]></summary>
         <author>
             <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP Fixed Assets]]></title>
+        <id>https://www.encorebusiness.com/?p=55589</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-gp-fixed-assets/"/>
+        <updated>2022-12-14T14:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics GP Fixed Assets
+During this recorded webinar, we share the monthly Fixed Assets process in Dynamics GP and explain how the Fixed Assets affect the General Ledger. ﻿﻿﻿﻿﻿﻿﻿﻿ Topics discussed during this session include: Asset classification and tracking Types of Amortization Integration to Accounts Payable (AP)/Purchase Order Processing (POP) Entries recorded in the General Ledger (GL) Reporting using...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Don McNulty</name>
         </author>
     </entry>
     <entry>
@@ -667,6 +718,19 @@ The post D365 SysOperation Framework Parameters appeared first on Dynamics 365 M
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What Is Dual-Write for Dynamics 365?]]></title>
+        <id>https://www.encorebusiness.com/?p=55453</id>
+        <link href="https://www.encorebusiness.com/blog/what-is-dual-write-for-dynamics-365/"/>
+        <updated>2022-11-24T13:24:17.000Z</updated>
+        <summary type="html"><![CDATA[What Is Dual-Write for Dynamics 365?
+Dual-write is the Dynamics 365 integration technology that enables the flow of data between certain applications: the Dynamics 365 CRM applications and Finance & Operations. As a Dynamics Partner, we’ve used Dual-write to help businesses connect their quoting and customer service inquiries to their financial processes, warehousing, and production. That lets salespeople, finance teams, and...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Kailey Acuña</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Streamlined employee, ESS and person hub view]]></title>
         <id>http://paragchapre.com/?p=2032</id>
         <link href="https://paragchapre.com/2022/11/24/streamlined-employee-view-and-worker-header-control/"/>
@@ -862,6 +926,19 @@ INDIA GST localization has a very r...(read more)]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dynamics GP Canadian Payroll 2023 Tax Updates]]></title>
+        <id>https://www.encorebusiness.com/?p=55412</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-gp-canadian-payroll-2023-tax-updates/"/>
+        <updated>2022-11-17T19:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics GP Canadian Payroll 2023 Tax Updates
+2023 tax updates for GP 2018 have not yet been released but are expected to arrive, as usual, from mid to late December 2022. Check the links below for updated information: Read Microsoft’s Canadian Payroll Year-End and Tax Updates for Microsoft Dynamics GP Article. Check out the cool new features that will be included in...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Debra Huntly</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Project Operations & Cost Allocations]]></title>
         <id>http://dynamicsax-fico.com/?p=4787</id>
         <link href="https://dynamicsax-fico.com/2022/11/17/project-operations-cost-allocations/"/>
@@ -1047,6 +1124,19 @@ The post Override The JumpRef On A Base Form appeared first on Dynamics 365 Musi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Create Rollup Columns (Fields) in Dynamics 365 CRM]]></title>
+        <id>https://www.encorebusiness.com/?p=45114</id>
+        <link href="https://www.encorebusiness.com/blog/rollup-fields-in-microsoft-dynamics-365-crm/"/>
+        <updated>2022-11-14T12:13:15.000Z</updated>
+        <summary type="html"><![CDATA[How to Create Rollup Columns (Fields) in Dynamics 365 CRM
+Rollup Columns (previously known as Rollup Fields) can be extremely useful when you need an aggregated value using data from multiple Dynamics 365 CRM records. For instance, you could use a Rollup Column if your VP of Sales wants to see the total estimated revenue from open Opportunities for each Account directly on the Account...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Andrea Oklobdzija</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New ways to share Power Apps community forum ideas]]></title>
         <id>new-ways-to-share-power-apps-community-forum-ideas</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/new-ways-to-share-power-apps-community-forum-ideas/"/>
@@ -1174,6 +1264,19 @@ The post Boost seller productivity with embedded Teams calls and conversation in
         <summary type="html"><![CDATA[I previously wrote a blog post on one way to monitor licensing usage with Azure Application Insights. With the 10.0.30 update for D365 Finance and Operations that is available, it is easier now with n...(read more)]]></summary>
         <author>
             <name>Chris Roehrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP October 2022 Release]]></title>
+        <id>https://www.encorebusiness.com/?p=55389</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-gp-october-2022-release/"/>
+        <updated>2022-11-10T17:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics GP October 2022 Release
+Through the commitment to the Modern Lifecycle Policy, version 18.5 of Dynamics GP was released on October 3, 2022. This article will highlight the top features that stood out to me as well as a list of all new features available in Dynamics GP 18.5. New Features in the October 2022 Release (18.5) Top 4...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Patti Schreiber</name>
         </author>
     </entry>
     <entry>
@@ -1571,6 +1674,19 @@ A model is a group of elements, such as metadata and source files, that typicall
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Solution Architecture for Dynamics 365 Implementations]]></title>
+        <id>https://www.encorebusiness.com/?p=55283</id>
+        <link href="https://www.encorebusiness.com/blog/solution-architecture-d365/"/>
+        <updated>2022-10-28T11:13:57.000Z</updated>
+        <summary type="html"><![CDATA[Solution Architecture for Dynamics 365 Implementations
+Solution architecture provides an overall blueprint of the business processes and applications in an advanced Dynamics 365 implementation. Architecture is more important now than ever, but its contribution is still often underestimated and rarely understood. To fill this common gap in understanding, we’ll explain: What Solution Architecture Is Risks of Neglecting Solution Architecture Which Projects...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>The Encore Team</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Announcing public preview of coauthoring in Modern app designer]]></title>
         <id>announcing-public-preview-of-coauthoring-in-modern-app-designer</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-coauthoring-in-modern-app-designer/"/>
@@ -1723,6 +1839,19 @@ Continue reading ‘The power of well-designed code’ »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Enable OAuth 2.0 to Replace Web Service Access Key for Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=55099</id>
+        <link href="https://www.encorebusiness.com/blog/how-to-enable-oauth-for-dynamics-365-business-central/"/>
+        <updated>2022-10-20T19:05:29.000Z</updated>
+        <summary type="html"><![CDATA[How to Enable OAuth 2.0 to Replace Web Service Access Key for Dynamics 365 Business Central
+For Dynamics 365 Business Central Online environments, the basic authentication (Web Service Access Key) is deprecated, and users will need to use OAuth. In this blog, I will explain step-by-step how to set up the OAuth for Dynamics 365 Business Central Online through two main sections of processes. The sections are: Enable and Configure OAuth...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Malone Yang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[D365FO Extensible Data Security (XDS) Scenarios]]></title>
         <id>https://alexdmeyer.com/?p=2459</id>
         <link href="https://alexdmeyer.com/2022/10/20/d365fo-extensible-data-security-xds-scenarios/"/>
@@ -1865,6 +1994,19 @@ In this blog we wil...(read more)]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dynamics GP – AP and AR Close]]></title>
+        <id>https://www.encorebusiness.com/?p=55267</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-gp-ap-and-ar-close/"/>
+        <updated>2022-10-18T18:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics GP – AP and AR Close
+The closing processes for AP and AR are mirror images of each other. During this recorded session, we explain the process to close Accounts Payable (AP) and Accounts Receivable (AR) monthly. We also share some tips and tricks throughout the closing steps. The intended audience is Dynamics GP users of all product versions. ﻿﻿﻿﻿﻿﻿﻿ Transcript...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Don McNulty</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Connect with other makers in your organization via maker matching, now in public preview!]]></title>
         <id>announcing-public-preview-of-maker-matching-in-power-apps</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-maker-matching-in-power-apps/"/>
@@ -1933,6 +2075,19 @@ Normally, standard lookups are created automatically by the system in Dynamics 3
         <summary type="html"><![CDATA[There is one question I always think is that why most of the customers/partners are not using standard power BI available within Dynamics??? (My opinion 😊 ) In this blog I am going to show you how powerful reporting it can be using out of the box Power BI and this is one of the […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Microsoft Dynamics 365 Business Central 2022 Release Wave 2?]]></title>
+        <id>https://www.encorebusiness.com/?p=55247</id>
+        <link href="https://www.encorebusiness.com/blog/whats-new-in-microsoft-dynamics-365-business-central-2022-release-wave-2/"/>
+        <updated>2022-10-13T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s New in Microsoft Dynamics 365 Business Central 2022 Release Wave 2?
+Microsoft is continually improving and enhancing Dynamics 365 Business Central and has just released Wave 2 for 2022. The release includes enhancements for Application, Country and Regional, Development, Governance and Administration, Power Platform, and several other areas. We have included a review of just a few of the enhancements, and you will find links below...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Sandra Roskin</name>
         </author>
     </entry>
     <entry>
