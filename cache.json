@@ -407,6 +407,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/howtovideos",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c9928642-7ac5-4731-bcb3-bce54e46613d",
+          "author": "Community Manager",
+          "description": "Too many government agencies are working with outdated systems and processes that frustrate teams and hinder productivity. Forward-thinking finance and operations leaders are looking for ways to moder...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/dynamics-365-finance-in-government-agencies",
+          "publishedOn": "2022-12-19T12:00:43.000Z",
+          "wordCount": 3540,
+          "title": "Dynamics 365 Finance in Government Agencies",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0b36c821-7f0c-43ba-9101-1cf9285c8693",
           "author": "Community Manager",
           "description": "In this video, we demonstrate how Microsoft Dynamics 365 delivers a powerful, data-first solution to transform your financial and operating models - and help you keep pace with rapid and constant chan...(read more)",
@@ -2251,6 +2261,16 @@
       "feedUrl": "https://dynamics365musings.com/feed/",
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
+        {
+          "id": "https://dynamics365musings.com/?p=2559",
+          "author": "peter.ramer",
+          "description": "In this article, learn how to add D365 SysOperation Framework validation to ensure that parameters are set correctly. In a previous lesson you learned how to add parameters to a batch job. While adding parameters provides flexibility to the user, it may allow the user to run the batch job in a way it was... Continue Reading →\nThe post D365 SysOperation Framework Validation appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-sysoperation-framework-validation/?utm_source=rss&utm_medium=rss&utm_campaign=d365-sysoperation-framework-validation",
+          "publishedOn": "2022-12-19T14:00:00.000Z",
+          "wordCount": 2823,
+          "title": "D365 SysOperation Framework Validation",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/11/D365-SysOperation-Framework-Validation.png"
+        },
         {
           "id": "https://dynamics365musings.com/?p=2549",
           "author": "peter.ramer",
@@ -5772,6 +5792,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:119692af-09ae-422d-ab24-afb3ebe6a5ac",
+          "author": "Mohamed Aamer",
+          "description": "The year-end close process is a cumbersome, multi-step task that ensures an organization can provide accurate annual reports and financial statements for its stakeholders. It's critical to get it right, but the process can be intimidating and ove...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/accelerate-your-year-end-close-process",
+          "publishedOn": "2022-12-16T18:38:00.000Z",
+          "wordCount": 3953,
+          "title": "Accelerate your year-end close process",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5d1ef8fd-ac41-4fc7-a909-2b999ec54178",
           "author": "Zezhang Zhao",

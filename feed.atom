@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-19T01:17:54.071Z</updated>
+    <updated>2022-12-20T01:20:28.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365 SysOperation Framework Validation]]></title>
+        <id>https://dynamics365musings.com/?p=2559</id>
+        <link href="https://dynamics365musings.com/d365-sysoperation-framework-validation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-sysoperation-framework-validation"/>
+        <updated>2022-12-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, learn how to add D365 SysOperation Framework validation to ensure that parameters are set correctly. In a previous lesson you learned how to add parameters to a batch job. While adding parameters provides flexibility to the user, it may allow the user to run the batch job in a way it was... Continue Reading →
+The post D365 SysOperation Framework Validation appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Finance in Government Agencies]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c9928642-7ac5-4731-bcb3-bce54e46613d</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/dynamics-365-finance-in-government-agencies"/>
+        <updated>2022-12-19T12:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Too many government agencies are working with outdated systems and processes that frustrate teams and hinder productivity. Forward-thinking finance and operations leaders are looking for ways to moder...(read more)]]></summary>
+        <author>
+            <name>Community Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Truncate entity list in Dynamics 365 F&O]]></title>
         <id>http://paragchapre.com/?p=2169</id>
@@ -23,6 +44,16 @@
         <updated>2022-12-16T18:38:00.000Z</updated>
         <summary type="html"><![CDATA[The year-end close process is a cumbersome, multi-step task that ensures an organization can provide accurate annual reports and financial statements for its stakeholders. It's critical to get it right, but the process can be intimidating and overwhelming. Trying to balance the workload among overstressed accounting staff can result in errors, multiple manual adjustments, and pressure on the finance department.
 The post Accelerate your year-end close process appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mohamed Aamer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerate your year-end close process]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:119692af-09ae-422d-ab24-afb3ebe6a5ac</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/accelerate-your-year-end-close-process"/>
+        <updated>2022-12-16T18:38:00.000Z</updated>
+        <summary type="html"><![CDATA[The year-end close process is a cumbersome, multi-step task that ensures an organization can provide accurate annual reports and financial statements for its stakeholders. It's critical to get it right, but the process can be intimidating and ove...(read more)]]></summary>
         <author>
             <name>Mohamed Aamer</name>
         </author>
