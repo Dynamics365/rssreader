@@ -1201,6 +1201,16 @@
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=49066",
+          "author": "Mike Lamb",
+          "description": "Support Options for Dynamics AX 2009 and 2012\nMicrosoft’s “end of mainstream support” for Dynamics AX means that there will be no further Microsoft-generated system patches, security updates, or support from Microsoft. However, there are options that will protect your business, let you take advantage of your existing investment in Microsoft technologies, and preserve the skills and experience your team has built up...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/support-options-dynamics-ax-2009-2012/",
+          "publishedOn": "2022-12-21T12:13:45.000Z",
+          "wordCount": 1916,
+          "title": "Support Options for Dynamics AX 2009 and 2012",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2022/01/AX-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=47400",
           "author": "Jess Mooney",
           "description": "What Is Dynamics 365 Marketing?\nMicrosoft Dynamics 365 Marketing is an end-to-end marketing solution. It handles everything from email campaign automations to campaign cost and revenue attribution. This article will explain D365 Marketing’s most important features, main use cases, and how it’s licensed (differently than most other Dynamics 365 apps). It will also cover the limitations of this application, and...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -4044,6 +4054,16 @@
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
         {
+          "id": "https://www.d365snippets.com/2022/12/how-to-create-a-table-in-d365-fo.html",
+          "author": null,
+          "description": "In the previous article, I explained what Extended Data Types in D365 is and how to create Extended Data Types. In this article, I will explain how to create a table in Dynamics 365 FO. As we know tables are the core objects used to store data in Microsoft Dynamics 365. In Dynamics 365 FO before creating a form we need to create the tables first. By using visual studio, it is very easy to create a table.\nIn Dynamics 365 FO, you can use primitive data types or Extended data types for adding fields to the table. Before creating a new Extended data type (EDTs), you should check whether the EDT is already existing in the system, if already exists in the system, you can re-use it. Another important thing to remember while creating a table is, don’t forget to index the table to enhance its perfo…",
+          "link": "https://www.d365snippets.com/2022/12/how-to-create-a-table-in-d365-fo.html",
+          "publishedOn": "2022-12-21T11:11:00.006Z",
+          "wordCount": 8047,
+          "title": "How To Create A Table in D365 FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGneFzVeFnUSYuKPKSVoUBVYLnQftJymc19GD56qPh0kbP5x-9vk9Q3Fc001ZXzPX9WMpS5R5z9lmSuyFE23yiwz-FpLqEvratQvA9hnRmgAeTkvyL66ZQF5bBgMiI-LQc0MsS4W8tkA91mpKtz-MNPzvcYrH_3LW7A189fPqnxiru0sZ0LhT3EaOk/s16000/how%20to%20create%20a%20table%20in%20d365%20fo%20how%20to%20create%20a%20table%20in%20d365%20finance%20and%20operations.jpg"
+        },
+        {
           "id": "https://www.d365snippets.com/2022/12/what-is-flash-fill-in-excel-how-to-use-flash-fill-in-excel.html",
           "author": null,
           "description": "In this article, we will discuss the flash fill feature of Microsoft Excel. As the name mentioned, Flash fill executes tedious tasks in a flash, it is one of the amazing features introduced by Microsoft in 2013. \nBefore introducing flash fill functionality in excel, Microsoft excel uses used complex formulas to do the required tasks easily. But after introducing the flash fill tool, it reduced the complexity and execution time.\nFor example: before introducing the flash fill property, to split the first name from a full name excel users used a formula,\nTo extract the first name “Sachin” from “Sachin Tendulkar” we need to use a formula \n= left (A2, search (“”, A2,1))\n\n\n\nSimilarly, users need to write another formula to extract “Tendulkar” from “Sachin Tendulkar”.\nWhere is Flash Fill Located …",
@@ -4541,6 +4561,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=4677",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2022/12/21/tamper-proof-document-storage-with-azure-confidential-ledger/",
+          "publishedOn": "2022-12-21T15:34:42.000Z",
+          "wordCount": 2535,
+          "title": "Tamper-proof document storage with Azure Confidential Ledger",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2022/05/aclintropicture.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=4877",
           "author": "Ludwig Reinhard",
@@ -6910,6 +6940,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/newdynamicsax",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:fb5b37f2-1528-4619-ab37-31f74ef9b990",
+          "author": "Mohamed Aamer",
+          "description": "The year-end close process is a cumbersome, multi-step task that ensures an organization can provide accurate annual reports and financial statements for its stakeholders. It's critical to get it ...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/accelerate-your-year-end-close-process",
+          "publishedOn": "2022-12-16T18:38:00.000Z",
+          "wordCount": 3949,
+          "title": "Accelerate your year-end close process",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8e45c371-a0a1-4ea0-a6ae-29e3986069d7",
           "author": "Zezhang Zhao",
