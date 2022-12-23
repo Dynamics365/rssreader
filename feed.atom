@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-22T01:20:43.708Z</updated>
+    <updated>2022-12-23T01:18:29.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Configure, Generate and Analyse] Working with inventory value report in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2287</id>
+        <link href="https://exploredynamics365.home.blog/2022/12/22/configure-generate-and-analyse-working-with-inventory-value-report-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2022-12-22T07:19:44.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, I will try to explain the new inventory value report storage. How we can configure, generate, and work with exported data. Many of us already know but there are many people out there who are new to system, it will help them. What is inventory value report? Inventory value report is the […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Configure, Generate and Analyse] Working with inventory value report in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2287</id>
+        <link href="https://exploredynamics365.home.blog/2022/12/22/configure-generate-and-analyse-working-with-inventory-value-report-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2022-12-22T07:19:44.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, I will try to explain the new inventory value report storage. How we can configure, generate, and work with exported data. Many of us already know but there are many people out there who are new to system, it will help them. What is inventory value report? Inventory value report is the […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tamper-proof document storage with Azure Confidential Ledger]]></title>
         <id>http://dynamicsax-fico.com/?p=4677</id>
