@@ -3780,6 +3780,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2304",
+          "author": "Saurabh Bharti",
+          "description": "Creating credit notes in accounts receivable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, on of the request from receivable department is to have the reference of original invoice against which credit note is created and print the same information on document. […]",
+          "link": "https://exploredynamics365.home.blog/2022/12/24/link-original-invoice-to-credit-note-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2022-12-24T10:24:51.000Z",
+          "wordCount": 2415,
+          "title": "Link original invoice to credit note in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2022/12/7-1.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2287",
           "author": "Saurabh Bharti",
           "description": "In this blog, I will try to explain the new inventory value report storage. How we can configure, generate, and work with exported data. Many of us already know but there are many people out there who are new to system, it will help them. What is inventory value report? Inventory value report is the […]",
@@ -3926,6 +3936,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2304",
+          "author": "Saurabh Bharti",
+          "description": "Creating credit notes in accounts receivable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, on of the request from receivable department is to have the reference of original invoice against which credit note is created and print the same information on document. […]",
+          "link": "https://exploredynamics365.home.blog/2022/12/24/link-original-invoice-to-credit-note-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2022-12-24T10:24:51.000Z",
+          "wordCount": 2415,
+          "title": "Link original invoice to credit note in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2022/12/7-1.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2287",
           "author": "Saurabh Bharti",
@@ -9169,16 +9189,6 @@
           "wordCount": 2004,
           "title": "Credit Management - Credit Limit Adjustment Journals",
           "imageUrl": "https://1.bp.blogspot.com/-0b8BYJZU87s/X-TqTRJAfFI/AAAAAAAABQY/39vtj1zBjCsP1tui4jxywBOLL5ILOYrIwCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-12-24_14-19-22.png"
-        },
-        {
-          "id": "https://www.d365fandom.com/2020/12/credit-management-calculate-risk-scores.html",
-          "author": null,
-          "description": "Part of the new Credit management feature is the ability to calculate Risk scores for your Customers. There is a little bit of setup initially, but the value that can be derived from calculating a Customer's potential risk is tremendous!\n\n\n\n\n\nSetup Scoring Groups\nThe first step is to define what Scoring groups you would like to use to help categorize your Customers. Navigate to Credit and collections > Setup > Risk > Scoring groups. Here, you will define what criteria will define how you weigh the Customer's risk factor. \nWhen defining a new Scoring group, you must select what Group type this Scoring group will be defined as. These scoring groups have functionality built into them that will use fields in the system to calculate values.\n\n\n\n\nScoring groups - Define Group type\n\n\n\nYou can defi…",
-          "link": "https://www.d365fandom.com/2020/12/credit-management-calculate-risk-scores.html",
-          "publishedOn": "2020-12-24T21:12:00.003Z",
-          "wordCount": 2535,
-          "title": "Credit Management - Calculate Risk Scores",
-          "imageUrl": "https://1.bp.blogspot.com/-C9O4ju6JcdU/X-TAHIPJioI/AAAAAAAABO8/BTqFYOPhjXopwTGO6HbjmB_Sjf0h2efAACLcBGAsYHQ/w1200-h630-p-k-no-nu/risk-meter-with-needle-on-low_large.jpg"
         }
       ]
     },

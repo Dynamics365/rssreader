@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-24T01:13:57.601Z</updated>
+    <updated>2022-12-25T01:22:56.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Link original invoice to credit note in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2304</id>
+        <link href="https://exploredynamics365.home.blog/2022/12/24/link-original-invoice-to-credit-note-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2022-12-24T10:24:51.000Z</updated>
+        <summary type="html"><![CDATA[Creating credit notes in accounts receivable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, on of the request from receivable department is to have the reference of original invoice against which credit note is created and print the same information on document. […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link original invoice to credit note in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2304</id>
+        <link href="https://exploredynamics365.home.blog/2022/12/24/link-original-invoice-to-credit-note-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2022-12-24T10:24:51.000Z</updated>
+        <summary type="html"><![CDATA[Creating credit notes in accounts receivable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, on of the request from receivable department is to have the reference of original invoice against which credit note is created and print the same information on document. […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Configure, Generate and Analyse] Working with inventory value report in Microsoft Dynamics 365 finance and operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2287</id>
@@ -12216,33 +12236,6 @@ Post the Credit limit adjustment journal
 
 
 For additional approval and compliance functionality, there is a Credit limit workflow that can be enabled on the Credit limit journals as well.]]></summary>
-        <author>
-            <name>D365FandO(m)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Credit Management - Calculate Risk Scores]]></title>
-        <id>https://www.d365fandom.com/2020/12/credit-management-calculate-risk-scores.html</id>
-        <link href="https://www.d365fandom.com/2020/12/credit-management-calculate-risk-scores.html"/>
-        <updated>2020-12-24T21:12:00.003Z</updated>
-        <summary type="html"><![CDATA[Part of the new Credit management feature is the ability to calculate Risk scores for your Customers. There is a little bit of setup initially, but the value that can be derived from calculating a Customer's potential risk is tremendous!
-
-
-
-
-
-Setup Scoring Groups
-The first step is to define what Scoring groups you would like to use to help categorize your Customers. Navigate to Credit and collections > Setup > Risk > Scoring groups. Here, you will define what criteria will define how you weigh the Customer's risk factor. 
-When defining a new Scoring group, you must select what Group type this Scoring group will be defined as. These scoring groups have functionality built into them that will use fields in the system to calculate values.
-
-
-
-
-Scoring groups - Define Group type
-
-
-
-You can defi…]]></summary>
         <author>
             <name>D365FandO(m)</name>
         </author>
