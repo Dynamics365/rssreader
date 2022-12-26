@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-25T01:22:56.235Z</updated>
+    <updated>2022-12-26T01:20:15.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to add range on AOT query and X++ query with two different columns.]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0690020b-1bdd-4cd7-b96f-2cfa170446e0</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/how-to-add-range-on-aot-query-and-x-with-two-different-columns"/>
+        <updated>2022-12-25T07:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi All,Let's learn on how to add two different columns range on one column value of range in AOT Query. 
+Apply range on AOT Query:
+Only the point to be consider is we need to use parenthesis correctly and Proper enum name - DocumentSta...(read more)]]></summary>
+        <author>
+            <name>Vijay Yelmame</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create multi selection lookup on form control]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8b772663-d455-4686-b98c-6fda0e873201</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/how-to-create-multi-selection-lookup-on-form-control"/>
+        <updated>2022-12-24T11:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi All,In this article will see how to create multi selection lookup on a form control.For this we need to create one AOT query like CustTablelookup. for that you can refer the documents provides by Microsoft docs.Expected Result is below: Step ...(read more)]]></summary>
+        <author>
+            <name>Vijay Yelmame</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Link original invoice to credit note in Microsoft Dynamics 365 finance and operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2304</id>
@@ -1768,6 +1790,21 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>The Encore Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuration of Delegate and Expense Report Policy of Expense Management in D365 F&O Part 2]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b09fead1-6bcb-42ad-ba3e-f5f9d9015d10</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/configuration-of-expense-management-to-process-expense-report-in-d365-f-o-part-2"/>
+        <updated>2022-10-28T10:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+In this blog we will discuss about the configuration of delegation of work and expense report Policy.
+
+
+1. Delegate an Expense Report
+Occasionally, an approver might need to delegate their tasks to another user. Potential reasons for delegat...(read more)]]></summary>
+        <author>
+            <name>Deepak Singh</name>
         </author>
     </entry>
     <entry>
