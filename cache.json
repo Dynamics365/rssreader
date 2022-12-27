@@ -3780,6 +3780,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2319",
+          "author": "Saurabh Bharti",
+          "description": "Microsoft dynamics 365 finance and operations supports importing exchange rates directly from external providers so that while making forex transactions users need not to worry about having latest exchange rates. Currently we have following three exchange rates providers: Out of these three providers, two providers can be configurated directly without any additional integration but for […]",
+          "link": "https://exploredynamics365.home.blog/2022/12/26/configure-and-use-currency-exchange-provider-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2022-12-26T04:56:45.000Z",
+          "wordCount": 2445,
+          "title": "Configure and use currency exchange provider in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2022/12/6-2.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2304",
           "author": "Saurabh Bharti",
           "description": "Creating credit notes in accounts receivable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, on of the request from receivable department is to have the reference of original invoice against which credit note is created and print the same information on document. […]",
@@ -3936,6 +3946,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2319",
+          "author": "Saurabh Bharti",
+          "description": "Microsoft dynamics 365 finance and operations supports importing exchange rates directly from external providers so that while making forex transactions users need not to worry about having latest exchange rates. Currently we have following three exchange rates providers: Out of these three providers, two providers can be configurated directly without any additional integration but for […]",
+          "link": "https://exploredynamics365.home.blog/2022/12/26/configure-and-use-currency-exchange-provider-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2022-12-26T04:56:45.000Z",
+          "wordCount": 2445,
+          "title": "Configure and use currency exchange provider in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2022/12/6-2.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2304",
           "author": "Saurabh Bharti",
@@ -9209,16 +9229,6 @@
           "wordCount": 2010,
           "title": "Credit Management - Automatic Credit Limits",
           "imageUrl": "https://1.bp.blogspot.com/-4CsjyZ9rmMo/X-T8qrrsYyI/AAAAAAAABQ8/6uO1FUXUgVA8K08CpSYVa3E7AiaU4JQLwCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-12-24_15-37-29.png"
-        },
-        {
-          "id": "https://www.d365fandom.com/2020/12/credit-management-credit-limit.html",
-          "author": null,
-          "description": "At long last, we finally have controls on Credit limits! Sure, you could set security on the Credit limit field, but it was never my favorite thing that the Credit limit field on the Customer was so easily editable. \n\n\nParameters\nNavigate to Credit and collections > Setup > Credit and collections parameters to TURN OFF the ability to edit the Credit limit field. That's right. There is a slider in the Credit limits section called Allow manual editing of credit limits. Set this to No.  \n\n\n\n\nSet the Allow manual editing of credit limits Slider to No\n\n\n\nThis will \"grey out\" the Credit limit field on the Customer, making it uneditable. \n\n\nCredit limit is no longer able to be edited\n\n\n\nCredit Limit Adjustment Journals\nThat's great! Now, how do we update a Customer's Credit limit? \nNavigate to Credit and collections > Credit limit adjustments to create a Credit limit adjustment journal. You can enter two types of journals here, a Credit limit adjustment or a Temporary credit limit adjustment. Once you determine the Credit limit that you would like to apply to a Customer or to a Customer credit group, you can Post the journal, keeping a historical record of the Customer's Credit limits.\n\n\nPost the Credit limit adjustment journal\n\n\nFor additional approval and compliance functionality, there is a Credit limit workflow that can be enabled on the Credit limit journals as well.",
-          "link": "https://www.d365fandom.com/2020/12/credit-management-credit-limit.html",
-          "publishedOn": "2020-12-26T15:00:00.003Z",
-          "wordCount": 2004,
-          "title": "Credit Management - Credit Limit Adjustment Journals",
-          "imageUrl": "https://1.bp.blogspot.com/-0b8BYJZU87s/X-TqTRJAfFI/AAAAAAAABQY/39vtj1zBjCsP1tui4jxywBOLL5ILOYrIwCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-12-24_14-19-22.png"
         }
       ]
     },
