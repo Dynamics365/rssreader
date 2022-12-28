@@ -9219,16 +9219,6 @@
           "wordCount": 2547,
           "title": "New feature: Enable batch processing for bank payment advice reports",
           "imageUrl": "https://1.bp.blogspot.com/-KpmltEllZsU/YAWf5Ts10OI/AAAAAAAABUQ/N8Py9moTdOk4wIK1xurfjFK_TTK7noMrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2021-01-18_9-48-30.png"
-        },
-        {
-          "id": "https://www.d365fandom.com/2020/12/credit-management-automatic-credit.html",
-          "author": null,
-          "description": "When creating Automatic credit limits, you can create a set of rules that will take specific criteria into account while quickly and easily applying credit limits. Navigate to Credit and collections > Setup > Risk > Automatic credit limits to begin. \n\n\nAutomatic Credit Limits\nWhen defining Automatic credit limits, you will use the Scoring groups that were created for Risk scores. \n\n\n\n\nDefinitions for Automatic credit limits\n\n\nIn the above example, Customers that are in the \"High\" Risk group, with Currency USD, who have been in business less than 5 years will be given a Credit limit of $5,000.\nThe following Customer meets the criteria specified, and when the Automatic credit limit rules are applied, will be assigned a $5,000 Credit limit. \n\n\nCustomer FR-004 will have a credit limit of $5,000 automatically applied\n\n\n\nApplying Automatic Credit Limits\nAutomatic credit limits get applied at the Credit limit adjustment journal. Navigate to Credit and collections > Credit limit adjustments. Create a new Credit limit adjustment journal. When the journal has been created, open the Lines and click Generate. From there, select Automatic credit limits to run and apply Automatic credit limits. \n\n\nClick Generate to create Automatic credit limits\n\n\n\nOnce complete, you should have new Credit limit adjustment journal lines that meet the criteria specified in the Automatic credit limit rules you created. \n\n\nAutomatic credit limit line has been created\n\n\nWhen you are ready, you can Post the journal and the new Credit limit will be applied to your Customer.",
-          "link": "https://www.d365fandom.com/2020/12/credit-management-automatic-credit.html",
-          "publishedOn": "2020-12-27T15:00:00.004Z",
-          "wordCount": 2010,
-          "title": "Credit Management - Automatic Credit Limits",
-          "imageUrl": "https://1.bp.blogspot.com/-4CsjyZ9rmMo/X-T8qrrsYyI/AAAAAAAABQ8/6uO1FUXUgVA8K08CpSYVa3E7AiaU4JQLwCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-12-24_15-37-29.png"
         }
       ]
     },

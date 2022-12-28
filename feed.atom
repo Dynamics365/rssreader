@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-27T01:19:03.722Z</updated>
+    <updated>2022-12-28T01:18:56.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -12213,50 +12213,6 @@ transformation and direct integration. Let’s jump in !]]></summary>
         <summary type="html"><![CDATA[Good news to end the weekend and start the new year by new activity, Excited to share with you my next technical session at Power Community D365 Finance and Operations summit Jan 29th – 31st, during this session we will deep dive technically to understand the security management API used in Dynamics 365 For Finance … Lire la suite FinOps bootcamp : Deep Dive into Security Management API in Dynamics 365 FinOps at Power Community FinOps Summit →]]></summary>
         <author>
             <name>adalhix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Credit Management - Automatic Credit Limits]]></title>
-        <id>https://www.d365fandom.com/2020/12/credit-management-automatic-credit.html</id>
-        <link href="https://www.d365fandom.com/2020/12/credit-management-automatic-credit.html"/>
-        <updated>2020-12-27T15:00:00.004Z</updated>
-        <summary type="html"><![CDATA[When creating Automatic credit limits, you can create a set of rules that will take specific criteria into account while quickly and easily applying credit limits. Navigate to Credit and collections > Setup > Risk > Automatic credit limits to begin. 
-
-
-Automatic Credit Limits
-When defining Automatic credit limits, you will use the Scoring groups that were created for Risk scores. 
-
-
-
-
-Definitions for Automatic credit limits
-
-
-In the above example, Customers that are in the "High" Risk group, with Currency USD, who have been in business less than 5 years will be given a Credit limit of $5,000.
-The following Customer meets the criteria specified, and when the Automatic credit limit rules are applied, will be assigned a $5,000 Credit limit. 
-
-
-Customer FR-004 will have a credit limit of $5,000 automatically applied
-
-
-
-Applying Automatic Credit Limits
-Automatic credit limits get applied at the Credit limit adjustment journal. Navigate to Credit and collections > Credit limit adjustments. Create a new Credit limit adjustment journal. When the journal has been created, open the Lines and click Generate. From there, select Automatic credit limits to run and apply Automatic credit limits. 
-
-
-Click Generate to create Automatic credit limits
-
-
-
-Once complete, you should have new Credit limit adjustment journal lines that meet the criteria specified in the Automatic credit limit rules you created. 
-
-
-Automatic credit limit line has been created
-
-
-When you are ready, you can Post the journal and the new Credit limit will be applied to your Customer.]]></summary>
-        <author>
-            <name>D365FandO(m)</name>
         </author>
     </entry>
 </feed>
