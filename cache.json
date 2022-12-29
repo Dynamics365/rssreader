@@ -6368,6 +6368,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:85d5df0d-6283-4a34-86f2-47ccedfa30bd",
+          "author": "Vijay Yelmame",
+          "description": "Deal All,Today we are going to learn about how to set the count value on Tiles using x++ query. I came across this scenario during my resent customization. This will be helpful when you have requirement to filter tiles data count on the basis of unbo...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/how-to-set-count-on-tile-using-x-update-tile-count-runtime",
+          "publishedOn": "2022-12-27T11:03:00.000Z",
+          "wordCount": 4133,
+          "title": "How to set count on Tile using X++ (Update tile count runtime)",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0690020b-1bdd-4cd7-b96f-2cfa170446e0",
           "author": "Vijay Yelmame",
           "description": "Hi All,Let's learn on how to add two different columns range on one column value of range in AOT Query. \nApply range on AOT Query:\nOnly the point to be consider is we need to use parenthesis correctly and Proper enum name - DocumentSta...(read more)",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-28T01:18:56.371Z</updated>
+    <updated>2022-12-29T01:23:31.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to set count on Tile using X++ (Update tile count runtime)]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:85d5df0d-6283-4a34-86f2-47ccedfa30bd</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/how-to-set-count-on-tile-using-x-update-tile-count-runtime"/>
+        <updated>2022-12-27T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Deal All,Today we are going to learn about how to set the count value on Tiles using x++ query. I came across this scenario during my resent customization. This will be helpful when you have requirement to filter tiles data count on the basis of unbo...(read more)]]></summary>
+        <author>
+            <name>Vijay Yelmame</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Configure and use currency exchange provider in Microsoft Dynamics 365 finance and operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2319</id>
