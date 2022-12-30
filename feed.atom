@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-29T01:23:31.747Z</updated>
+    <updated>2022-12-30T01:21:06.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deferral posting methods in Microsoft dynamics 365 finance and operations subscription billing: Part-6]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2334</id>
+        <link href="https://exploredynamics365.home.blog/2022/12/29/deferral-posting-methods-in-microsoft-dynamics-365-finance-and-operations-subscription-billing-part-6/"/>
+        <updated>2022-12-29T05:22:05.000Z</updated>
+        <summary type="html"><![CDATA[I have taken this explanation from Microsoft docs page and later part tried to create these scenarios in D365 see how actual transaction looks. On the Revenue and expense deferral parameters page, the options for deferral posting methods are Balance sheet and Profit and loss. The example in this article will help explain the differences between the two methods and […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deferral posting methods in Microsoft dynamics 365 finance and operations subscription billing: Part-6]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2334</id>
+        <link href="https://exploredynamics365.home.blog/2022/12/29/deferral-posting-methods-in-microsoft-dynamics-365-finance-and-operations-subscription-billing-part-6/"/>
+        <updated>2022-12-29T05:22:05.000Z</updated>
+        <summary type="html"><![CDATA[I have taken this explanation from Microsoft docs page and later part tried to create these scenarios in D365 see how actual transaction looks. On the Revenue and expense deferral parameters page, the options for deferral posting methods are Balance sheet and Profit and loss. The example in this article will help explain the differences between the two methods and […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Year in Review: Microsoft Dynamics 365 expert insights]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:de2964d2-af82-4886-ae3b-3d6b63456e1f</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/2022-year-in-review-microsoft-dynamics-365-expert-insights"/>
+        <updated>2022-12-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When subject matter experts in the
+Microsoft Dynamics community wrote about products, processes, and
+industries in 2022, they took a range of approaches, from product
+previews to customer best practices to industry outlook. Looking
+back through the year... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to set count on Tile using X++ (Update tile count runtime)]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:85d5df0d-6283-4a34-86f2-47ccedfa30bd</id>
@@ -76,6 +110,36 @@ Only the point to be consider is we need to use parenthesis correctly and Proper
         <summary type="html"><![CDATA[Creating credit notes in accounts receivable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, on of the request from receivable department is to have the reference of original invoice against which credit note is created and print the same information on document. […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General journal creation, posting, customer settlement process]]></title>
+        <id>1827</id>
+        <link href="http://daxonline.org/1827-general-journal-creation-posting-customer-settlement-process.html"/>
+        <updated>2022-12-22T13:38:11.000Z</updated>
+        <summary type="html"><![CDATA[Helper class to reverse financial transactions produced by project invoice posting:
+- creates general journal transactions based on project invoice voucher
+- posts general journal
+- settles customer transaction from project invoice with reversal transaction from general journal
+
+
+
+/// <summary>
+/// Helper class to reverse project invoice voucher transactions and match those, which relates to customer
+/// </summary>
+class VKProjectInvoicePostingHelper
+{
+    LedgerJournalTrans  paymLedgerJournalTrans;
+
+    /// <summary>
+    /// Entry point to execute reversal and matching process
+    /// </summary>
+    /// <param name = "_projProposalJour">ProjProposalJour record</param>
+    public void reverseTranasctions(ProjProposalJour _projProposalJour)
+    {
+        setPrefix("Invoice reversal process"…]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
         </author>
     </entry>
     <entry>
