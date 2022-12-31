@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2022-12-30T01:21:06.419Z</updated>
+    <updated>2022-12-31T01:18:44.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Securing a menu item is not enough – form controls]]></title>
+        <id>https://dynamicspedia.com/?p=18443</id>
+        <link href="https://dynamicspedia.com/2022/12/securing-a-menu-item-is-not-enough-form-controls/"/>
+        <updated>2022-12-30T14:27:03.000Z</updated>
+        <summary type="html"><![CDATA[In my previous blog post, I talked about missing parts on forms when you only focus on granting permissions on menu items. This is mainly the case if you start privileges and duties from scratch to ensure a least permissions principle. Form parts are a type of form control where security can be managed with […]
+The post Securing a menu item is not enough – form controls appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metadata search in Visual Studio]]></title>
+        <id>1832</id>
+        <link href="http://daxonline.org/1832-metadata-search-in-visual-studio.html"/>
+        <updated>2022-12-30T08:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 > Metadata Search
+
+
+
+Syntax:
+
+
+<filter_1>:<filter_1_value> [<filter_2>:<filter_2_value> … [ <filter_N>:<filter_N\_value>]]
+<filter_i> is one of the acceptable filter names, and 
+<filter_i_value> are comma separated (and possibly quoted) filtering values.
+
+
+
+Filter names:
+Name: Filter by element name. This is the default filter, meaning if you just type a filter value, it is assumed to be an element name. Each comma-separated value is an acceptable element name.
+
+
+
+Type: Filter by element type. Each comma-separated value should be the name of an element or subelement type (root type or subtype) (that is, table, class, field). Logic of filtering is:
+(roottype_1 OR roottype_2 OR … OR roottype_N) AND (subtype_1 OR subtype_2 OR … OR subtype_N)
+
+
+
+Model: Filter by model name. Each c…]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create and post general ledger journal]]></title>
+        <id>1831</id>
+        <link href="http://daxonline.org/1831-create-and-post-general-ledger-journal.html"/>
+        <updated>2022-12-30T08:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Create and post general ledger journal:
+
+
+
+/// <summary>
+/// Helper class to reverse project invoice voucher transactions and match those, which relates to customer
+/// </summary>
+class VKProjectInvoicePostingHelper
+{
+    LedgerJournalTrans  paymLedgerJournalTrans;
+
+    /// <summary>
+    /// Entry point to execute reversal and matching process
+    /// </summary>
+    /// <param name = "_projProposalJour">ProjProposalJour record</param>
+    public void reverseTranasctions(ProjProposalJour _projProposalJour)
+    {
+        if (_projProposalJour && _projProposalJour.ProjInvoiceId)
+        {
+            ProjInvoiceJour     projInvoiceJour     = ProjInvoiceJour::find(_projProposalJour.ProjInvoiceId, _projProposalJour.InvoiceDate);
+            LedgerJournalTable  ledgerJournalTable  = this.createJ…]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deferral posting methods in Microsoft dynamics 365 finance and operations subscription billing: Part-6]]></title>
         <id>http://exploredynamics365.home.blog/?p=2334</id>
@@ -110,6 +184,33 @@ Only the point to be consider is we need to use parenthesis correctly and Proper
         <summary type="html"><![CDATA[Creating credit notes in accounts receivable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, on of the request from receivable department is to have the reference of original invoice against which credit note is created and print the same information on document. […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Settle customer transactions]]></title>
+        <id>1828</id>
+        <link href="http://daxonline.org/1828-settle-customer-transactions.html"/>
+        <updated>2022-12-22T14:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Settles customer transactions project invoice transaction with general ledger journal transaction
+
+
+
+    void settleTransactions(ProjInvoiceJour _projInvoiceJour, LedgerJournalTrans _paymLedgerJournalTrans)
+    {
+        CustTable custTable = CustTable::find(_projInvoiceJour.InvoiceAccount);
+
+        // find related transaciton
+        LedgerJournalTrans  paymLedgerJournalTransLoc;
+        CustTransOpen       invCustTransOpen, paymCustTransOpen;
+        CustTrans           invCustTrans, paymCustTrans;
+
+        // Given the payment LedgerJournalTrans, find the related CustTrans which has CustTransOpen
+        select firstonly paymLedgerJournalTransLoc
+            where   paymLedgerJournalTransLoc.RecId  == _paymLedgerJournalTrans.RecId
+            join    paymCustTrans
+            where   p…]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
         </author>
     </entry>
     <entry>
