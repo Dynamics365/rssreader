@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-02T01:20:38.327Z</updated>
+    <updated>2023-01-03T01:19:18.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -12387,16 +12387,6 @@ transformation and direct integration. Let’s jump in !]]></summary>
         <link href="https://dynvision365.com/2021/01/07/dynamicscon-dynamics-365-for-finance-and-operations-security-api/"/>
         <updated>2021-01-07T19:29:20.000Z</updated>
         <summary type="html"><![CDATA[DynamicsCon s coming up in March with very interesting topics and speakers,Excited to share with you the link for my next submitted session about Dynamics Security Management API in #msdyn365fo, We will try to deep dive technically about one of the main component used to manage and publish security artifacts in Standard mechanisms of Dynamics 365 … Lire la suite DynamicsCon : Dynamics 365 For Finance and Operations Security API →]]></summary>
-        <author>
-            <name>adalhix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FinOps bootcamp : Deep Dive into Security Management API in Dynamics 365 FinOps at Power Community FinOps Summit]]></title>
-        <id>http://adalhix.wordpress.com/?p=358</id>
-        <link href="https://dynvision365.com/2021/01/02/deep-dive-into-security-management-api-in-dynamics-365-finops-at-power-community-finops-summit/"/>
-        <updated>2021-01-02T20:39:49.000Z</updated>
-        <summary type="html"><![CDATA[Good news to end the weekend and start the new year by new activity, Excited to share with you my next technical session at Power Community D365 Finance and Operations summit Jan 29th – 31st, during this session we will deep dive technically to understand the security management API used in Dynamics 365 For Finance … Lire la suite FinOps bootcamp : Deep Dive into Security Management API in Dynamics 365 FinOps at Power Community FinOps Summit →]]></summary>
         <author>
             <name>adalhix</name>
         </author>
