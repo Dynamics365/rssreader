@@ -3820,6 +3820,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2345",
+          "author": "Saurabh Bharti",
+          "description": "Personalization is one of the strong features available in Microsoft Dynamics 365 finance and operations which helps consultants and users to get the better user experience. As part of personalization workspace is one feature which as consultant, I suggest to all my end users because this provides lot of flexibility from managing day to day […]",
+          "link": "https://exploredynamics365.home.blog/2023/01/03/create-and-share-workspace-personalization-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-01-03T12:31:55.000Z",
+          "wordCount": 2426,
+          "title": "Create and share workspace personalization in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2022/12/5-4.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2334",
           "author": "Saurabh Bharti",
           "description": "I have taken this explanation from Microsoft docs page and later part tried to create these scenarios in D365 see how actual transaction looks. On the Revenue and expense deferral parameters page, the options for deferral posting methods are Balance sheet and Profit and loss. The example in this article will help explain the differences between the two methods and […]",
@@ -3996,6 +4006,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2345",
+          "author": "Saurabh Bharti",
+          "description": "Personalization is one of the strong features available in Microsoft Dynamics 365 finance and operations which helps consultants and users to get the better user experience. As part of personalization workspace is one feature which as consultant, I suggest to all my end users because this provides lot of flexibility from managing day to day […]",
+          "link": "https://exploredynamics365.home.blog/2023/01/03/create-and-share-workspace-personalization-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-01-03T12:31:55.000Z",
+          "wordCount": 2426,
+          "title": "Create and share workspace personalization in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2022/12/5-4.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2334",
           "author": "Saurabh Bharti",
@@ -7785,6 +7805,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=7411",
+          "author": "Eugen Glasow",
+          "description": "We are excited to announce the release of the common German-French electronic invoice ZUGFeRD / Factur-X in Dynamics 365 for Finance and SCM. This plug-and-play solution in its “Light” version does not require any customisation and can be easily installed in the standard Electronic Reporting module of D365. It supports the […]\nThe post ZUGFeRD 2.1/ Factur-X 1.0 for Dynamics 365 FO appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/zugferd-2-1-factur-x-1-0-for-dynamics-365-fo/",
+          "publishedOn": "2023-01-03T15:22:30.000Z",
+          "wordCount": 2696,
+          "title": "ZUGFeRD 2.1/ Factur-X 1.0 for Dynamics 365 FO",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2023/01/ZUGFeRD_FacturX_Dynamics-365-1024x787.png"
+        },
         {
           "id": "https://erconsult.eu/?p=7356",
           "author": "Eugen Glasow",

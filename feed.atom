@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-03T01:19:18.441Z</updated>
+    <updated>2023-01-04T01:21:41.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ZUGFeRD 2.1/ Factur-X 1.0 for Dynamics 365 FO]]></title>
+        <id>https://erconsult.eu/?p=7411</id>
+        <link href="https://erconsult.eu/blog/zugferd-2-1-factur-x-1-0-for-dynamics-365-fo/"/>
+        <updated>2023-01-03T15:22:30.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the release of the common German-French electronic invoice ZUGFeRD / Factur-X in Dynamics 365 for Finance and SCM. This plug-and-play solution in its “Light” version does not require any customisation and can be easily installed in the standard Electronic Reporting module of D365. It supports the […]
+The post ZUGFeRD 2.1/ Factur-X 1.0 for Dynamics 365 FO appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create and share workspace personalization in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2345</id>
+        <link href="https://exploredynamics365.home.blog/2023/01/03/create-and-share-workspace-personalization-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-01-03T12:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Personalization is one of the strong features available in Microsoft Dynamics 365 finance and operations which helps consultants and users to get the better user experience. As part of personalization workspace is one feature which as consultant, I suggest to all my end users because this provides lot of flexibility from managing day to day […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create and share workspace personalization in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2345</id>
+        <link href="https://exploredynamics365.home.blog/2023/01/03/create-and-share-workspace-personalization-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-01-03T12:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Personalization is one of the strong features available in Microsoft Dynamics 365 finance and operations which helps consultants and users to get the better user experience. As part of personalization workspace is one feature which as consultant, I suggest to all my end users because this provides lot of flexibility from managing day to day […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #4]]></title>
         <id>http://dynamicsax-fico.com/?p=4912</id>
