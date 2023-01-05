@@ -4194,6 +4194,16 @@
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
         {
+          "id": "https://www.d365snippets.com/2023/01/microsoft-dynamics-365-training-courses-2023.html",
+          "author": null,
+          "description": "This is an introductory course on D365 Finance and Operations with a focus on D365 FO technical and Functional, this is especially for beginners. Those who are already working on D365 might already be aware of these that are being discussed, I recommend looking at the topics covered in this course and enrolling only if you think you do not know those topics.\n  \n Register Now \n\nCourse Highlights\n\n\n45 Hours of training with Real Time Scenarios.\n\n\n\nA soft copy of the materials was provided.\n\n\n\n\nDaily 1-Hour Classes.\n\n\n\nResume Preparation.\n\n\n\n100 + Real-time tasks provide.\n\n\n\n\nInterview Cracking Tips.\n\n\nExplain Customization.\n\n\nWhat you'll learn\n\n\nStudents will have a basic understanding of Microsoft Dynamics 365.\n\n\nFor Functional, Students will have a basic overview of Microsoft Dynamics 365 Functional Modules. \n\n\n\nFor Technical, Students will have a basic overview of Microsoft Dynamics 365 Technical Modules.\n\n\nFor technical students, basic programming skills are required\n\n\n        \n Register Now       \nRequirements\n\nStudents should have basic computer skills.\n\n\nStudents should be able to use Browsers like Chrome, or any other Web Browser to access the internet.\n\nTopics covered in this course\n\n\n\n\nIntroduction of MS-Dynamics 365.\n\n\nBasic Configurations.\n\nAOT(Application Object Tree) Introduction.\n\nData Types(Primitive Data Types) & EDT.\n\nOOPS, Concepts.\n\nUser Interface.\n\n SSRS Reports.\n\nData Entities.\n\nExtensions.\n\nChain of Commands (COC).\n\n\nWe will share the syllabus\n\n\n\n\n\n      \n Register Now",
+          "link": "https://www.d365snippets.com/2023/01/microsoft-dynamics-365-training-courses-2023.html",
+          "publishedOn": "2023-01-04T08:09:00.027Z",
+          "wordCount": 7108,
+          "title": "Microsoft Dynamics 365 Training Courses 2023",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEv5EaTrOy7KWM0eLAXkztd9oijAS_FUdwJDXqkSeo-Wa2k9n3-mjQOwvQbLWyWGVe8ZSCJ4u64G4nV9cQsy8sS6wyLF_mcOhXnqBasteEO7WDeENAiI3njl28WgCTukEaoo73ug-XOlbI6uxBmyFU0_f-LYE4uJIHJNJ1JvaZ2emj4n_MVmo18-cj/s16000/microsoft-dynamics-365-training-courses-2023.jpg"
+        },
+        {
           "id": "https://www.d365snippets.com/2022/12/how-to-create-a-table-in-d365-fo.html",
           "author": null,
           "description": "In the previous article, I explained what Extended Data Types in D365 is and how to create Extended Data Types. In this article, I will explain how to create a table in Dynamics 365 FO. As we know tables are the core objects used to store data in Microsoft Dynamics 365. In Dynamics 365 FO before creating a form we need to create the tables first. By using visual studio, it is very easy to create a table.\nIn Dynamics 365 FO, you can use primitive data types or Extended data types for adding fields to the table. Before creating a new Extended data type (EDTs), you should check whether the EDT is already existing in the system, if already exists in the system, you can re-use it. Another important thing to remember while creating a table is, don’t forget to index the table to enhance its perfo…",
@@ -6300,6 +6310,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f5696871-be2b-4c1a-bcb4-c5a1ce950837",
+          "author": "Eugen Glasow",
+          "description": "ZUGFeRD 2.1/ Factur-X 1.0 for Dynamics 365 FO\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/zugferd-2-1-factur-x-1-0-for-dynamics-365-fo",
+          "publishedOn": "2023-01-03T15:22:30.000Z",
+          "wordCount": 4814,
+          "title": "ZUGFeRD 2.1/ Factur-X 1.0 for Dynamics 365 FO",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d52a46f6-6d52-4240-890f-c40799d17479",
           "author": "Eugen Glasow",

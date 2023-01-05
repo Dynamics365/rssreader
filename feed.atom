@@ -2,10 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-04T01:21:41.835Z</updated>
+    <updated>2023-01-05T01:23:51.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Training Courses 2023]]></title>
+        <id>https://www.d365snippets.com/2023/01/microsoft-dynamics-365-training-courses-2023.html</id>
+        <link href="https://www.d365snippets.com/2023/01/microsoft-dynamics-365-training-courses-2023.html"/>
+        <updated>2023-01-04T08:09:00.027Z</updated>
+        <summary type="html"><![CDATA[This is an introductory course on D365 Finance and Operations with a focus on D365 FO technical and Functional, this is especially for beginners. Those who are already working on D365 might already be aware of these that are being discussed, I recommend looking at the topics covered in this course and enrolling only if you think you do not know those topics.
+  
+ Register Now 
+
+Course Highlights
+
+
+45 Hours of training with Real Time Scenarios.
+
+
+
+A soft copy of the materials was provided.
+
+
+
+
+Daily 1-Hour Classes.
+
+
+
+Resume Preparation.
+
+
+
+100 + Real-time tasks provide.
+
+
+
+
+Interview Cracking Tips.
+
+
+Explain Customization.
+
+
+What you'll learn
+
+
+Students will have a basic understanding of Microsoft Dynamics 365.
+
+
+For Functional, Students will have a basic overview of Microsoft Dynamics 365 Functional Modules. 
+
+
+
+For Technical, Students will have a basic overview of Microsoft Dynamics 365 Technical Modules.
+
+
+For technical students, basic programming skills are required
+
+
+        
+ Register Now       
+Requirements
+
+Students should have basic computer skills.
+
+
+Students should be able to use Browsers like Chrome, or any other Web Browser to access the internet.
+
+Topics covered in this course
+
+
+
+
+Introduction of MS-Dynamics 365.
+
+
+Basic Configurations.
+
+AOT(Application Object Tree) Introduction.
+
+Data Types(Primitive Data Types) & EDT.
+
+OOPS, Concepts.
+
+User Interface.
+
+ SSRS Reports.
+
+Data Entities.
+
+Extensions.
+
+Chain of Commands (COC).
+
+
+We will share the syllabus
+
+
+
+
+
+      
+ Register Now]]></summary>
+        <author>
+            <name>D365 Snippets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZUGFeRD 2.1/ Factur-X 1.0 for Dynamics 365 FO]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f5696871-be2b-4c1a-bcb4-c5a1ce950837</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/zugferd-2-1-factur-x-1-0-for-dynamics-365-fo"/>
+        <updated>2023-01-03T15:22:30.000Z</updated>
+        <summary type="html"><![CDATA[ZUGFeRD 2.1/ Factur-X 1.0 for Dynamics 365 FO		
+				
+				
+				
+					
+					
+						
+											
+							...(read more)]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZUGFeRD 2.1/ Factur-X 1.0 for Dynamics 365 FO]]></title>
         <id>https://erconsult.eu/?p=7411</id>
