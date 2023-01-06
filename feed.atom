@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-05T01:23:51.420Z</updated>
+    <updated>2023-01-06T01:23:44.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bank Credit Limit Tolerance Functionality in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6b881104-89fa-4a88-8567-5d63fe2cff4b</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/msdynamics365-empowered-community/posts/bank-credit-limit-tolerance-functionality-in-microsoft-dynamics-365-finance-and-operations"/>
+        <updated>2023-01-05T06:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Dear Microsoft BizApps Community,
+Welcome to my next blog on Bank Credit Limit Tolerance Functionality in Dynamics 365 Finance and Operations.
+In many organizations the Treasury team or Finance Managers wants to put a control on Bank outgoing money, ...(read more)]]></summary>
+        <author>
+            <name>Ramit Paul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Dynamics 365 Training Courses 2023]]></title>
         <id>https://www.d365snippets.com/2023/01/microsoft-dynamics-365-training-courses-2023.html</id>
