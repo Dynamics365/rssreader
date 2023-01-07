@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-06T01:23:44.963Z</updated>
+    <updated>2023-01-07T01:20:51.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Customer Journeys in Dynamics 365 Marketing]]></title>
+        <id>https://www.encorebusiness.com/?p=47911</id>
+        <link href="https://www.encorebusiness.com/blog/customer-journeys-in-dynamics-365-marketing/"/>
+        <updated>2023-01-06T12:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Customer Journeys in Dynamics 365 Marketing
+In Dynamics 365 Marketing, a Customer Journey is a curated, end-to-end customer purchase process, including all contact and decision-making points. With multifaceted campaign automation, it identifies leads and guides the target audience to move toward purchasing as they interact with your company. One of its core elements is communication automation, triggered by both specific audience...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Andrea Oklobdzija</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bank Credit Limit Tolerance Functionality in Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6b881104-89fa-4a88-8567-5d63fe2cff4b</id>
