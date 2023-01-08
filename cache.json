@@ -3093,16 +3093,6 @@
           "wordCount": 643,
           "title": "Data Security management in D365FinOps",
           "imageUrl": "https://adalhix.files.wordpress.com/2021/01/image-4.png"
-        },
-        {
-          "id": "http://adalhix.wordpress.com/?p=426",
-          "author": "adalhix",
-          "description": "DynamicsCon s coming up in March with very interesting topics and speakers,Excited to share with you the link for my next submitted session about Dynamics Security Management API in #msdyn365fo, We will try to deep dive technically about one of the main component used to manage and publish security artifacts in Standard mechanisms of Dynamics 365 … Lire la suite DynamicsCon : Dynamics 365 For Finance and Operations Security API →",
-          "link": "https://dynvision365.com/2021/01/07/dynamicscon-dynamics-365-for-finance-and-operations-security-api/",
-          "publishedOn": "2021-01-07T19:29:20.000Z",
-          "wordCount": 438,
-          "title": "DynamicsCon : Dynamics 365 For Finance and Operations Security API",
-          "imageUrl": "https://adalhix.files.wordpress.com/2021/01/dug20_vote-fo-adnane-dalhi-1.jpg"
         }
       ]
     },
@@ -3395,6 +3385,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/01/05/direct-callback-because-nobody-likes-to-wait-on-the-phone/",
+          "author": "Chris Gschwend",
+          "description": "Ana is excitedly setting up her new smartphone when the screen goes blank. In dismay, she calls customer service. The estimated wait time is more than 45 minutes and she is number 7 in the queue because all agents are busy handling holiday call volume.\nThe post Direct callback: Because nobody likes to wait on the phone appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/01/05/direct-callback-because-nobody-likes-to-wait-on-the-phone/",
+          "publishedOn": "2023-01-05T18:02:00.000Z",
+          "wordCount": 2317,
+          "title": "Direct callback: Because nobody likes to wait on the phone",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/MSC21_PICHA_mobile_73046-1024x683.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2022/12/16/accelerate-your-year-end-close-process/",
           "author": "Mohamed Aamer",
@@ -6497,6 +6497,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:842d061f-1df7-462f-a215-71ca661034e5",
+          "author": "Vijay Yelmame",
+          "description": "Hi All,Here in this blog will see how to apply custom range on AOT query.Requirement: Add range on AOT query to get the records created before given days (createdDateTime - PriorDays)Steps 1 - Add new field in the parameters. Please refer below scree...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/how-to-apply-custom-range-on-aot-query-in-d365-finance-and-operations",
+          "publishedOn": "2023-01-06T13:31:00.000Z",
+          "wordCount": 3970,
+          "title": "How to apply custom range on AOT query in D365 Finance and Operations",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:85d5df0d-6283-4a34-86f2-47ccedfa30bd",
           "author": "Vijay Yelmame",

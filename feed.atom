@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-07T01:20:51.328Z</updated>
+    <updated>2023-01-08T01:26:57.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to apply custom range on AOT query in D365 Finance and Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:842d061f-1df7-462f-a215-71ca661034e5</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/how-to-apply-custom-range-on-aot-query-in-d365-finance-and-operations"/>
+        <updated>2023-01-06T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi All,Here in this blog will see how to apply custom range on AOT query.Requirement: Add range on AOT query to get the records created before given days (createdDateTime - PriorDays)Steps 1 - Add new field in the parameters. Please refer below scree...(read more)]]></summary>
+        <author>
+            <name>Vijay Yelmame</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Customer Journeys in Dynamics 365 Marketing]]></title>
         <id>https://www.encorebusiness.com/?p=47911</id>
@@ -17,6 +27,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Andrea Oklobdzija</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Direct callback: Because nobody likes to wait on the phone]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/01/05/direct-callback-because-nobody-likes-to-wait-on-the-phone/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/01/05/direct-callback-because-nobody-likes-to-wait-on-the-phone/"/>
+        <updated>2023-01-05T18:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Ana is excitedly setting up her new smartphone when the screen goes blank. In dismay, she calls customer service. The estimated wait time is more than 45 minutes and she is number 7 in the queue because all agents are busy handling holiday call volume.
+The post Direct callback: Because nobody likes to wait on the phone appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Chris Gschwend</name>
         </author>
     </entry>
     <entry>
@@ -12557,16 +12578,6 @@ transformation and direct integration. Let’s jump in !]]></summary>
         <summary type="html"><![CDATA[If you are currently performing as a CSP Direct Bill Partner, you may need to find a CSP Indirect provider due to the new performance regulations announced by Microsoft, which are effective as of January...(read more)]]></summary>
         <author>
             <name>1ClickFactory Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DynamicsCon : Dynamics 365 For Finance and Operations Security API]]></title>
-        <id>http://adalhix.wordpress.com/?p=426</id>
-        <link href="https://dynvision365.com/2021/01/07/dynamicscon-dynamics-365-for-finance-and-operations-security-api/"/>
-        <updated>2021-01-07T19:29:20.000Z</updated>
-        <summary type="html"><![CDATA[DynamicsCon s coming up in March with very interesting topics and speakers,Excited to share with you the link for my next submitted session about Dynamics Security Management API in #msdyn365fo, We will try to deep dive technically about one of the main component used to manage and publish security artifacts in Standard mechanisms of Dynamics 365 … Lire la suite DynamicsCon : Dynamics 365 For Finance and Operations Security API →]]></summary>
-        <author>
-            <name>adalhix</name>
         </author>
     </entry>
 </feed>
