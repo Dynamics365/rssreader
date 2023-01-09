@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-08T01:26:57.086Z</updated>
+    <updated>2023-01-09T01:21:42.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From the Microsoft Dynamics 365 Finance & Operations Blogs: Invoice automation; Workspace personalization; Securing a menu item; Workflow notifications]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:65731a92-d00b-495a-90d8-776b8634d0b6</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/from-the-microsoft-dynamics-365-finance-operations-blogs-invoice-automation-workspace-personalization-securing-a-menu-item-workflow-notifications"/>
+        <updated>2023-01-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This week on the Dynamics 365 Finance and Operations blog
+roundup: 
+ 
+ Dynamics 365 Finance invoice automation in simple terms 
+ Create and share workspace personalization in Dynamics 365
+Finance and Operations 
+ Securing a menu item is not enough – form... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to apply custom range on AOT query in D365 Finance and Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:842d061f-1df7-462f-a215-71ca661034e5</id>
