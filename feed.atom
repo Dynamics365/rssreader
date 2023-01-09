@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-09T01:21:42.643Z</updated>
+    <updated>2023-01-09T14:54:37.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10.0.31 Data Entities for Finance and Operations]]></title>
+        <id>http://www.brewsterware.com/?p=579</id>
+        <link href="https://www.brewsterware.com/10-0-31-data-entities-for-finance-and-operations.html"/>
+        <updated>2023-01-08T22:12:17.000Z</updated>
+        <summary type="html"><![CDATA[Here is the latest collection of data entities for 10.0.31 in both en-GB and en-US languages. 10.0.31 Data Entities – en-US 10.0.31 Data Entities – en-GB]]></summary>
+        <author>
+            <name>Joe Brewer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From the Microsoft Dynamics 365 Finance & Operations Blogs: Invoice automation; Workspace personalization; Securing a menu item; Workflow notifications]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:65731a92-d00b-495a-90d8-776b8634d0b6</id>
@@ -2350,6 +2360,16 @@ Continue reading →]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[10.0.30 Data Entities for Finance & Operations]]></title>
+        <id>http://www.brewsterware.com/?p=566</id>
+        <link href="https://www.brewsterware.com/10-0-30-data-entities-for-finance-operations.html"/>
+        <updated>2022-10-21T20:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Here is the latest collection of data entities for 10.0.30 in both en-GB and en-US languages. I have added some new columns: Is multi-threading enabled – if this is set to “Yes”, then the data entity can be added to the “configure entity execution parameters” which is accessed from the “Entity settings” tab of the […]]]></summary>
+        <author>
+            <name>Joe Brewer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The power of well-designed code]]></title>
         <id>https://dev.goshoom.net/?p=9762</id>
         <link href="https://dev.goshoom.net/2022/10/the-power-of-well-designed-code/"/>
@@ -2979,6 +2999,16 @@ Before you can start using the tax calculati...(read more)]]></summary>
         <summary type="html"><![CDATA[The new tax calculation service in Dynamics 365 Finance and Operations brings new features and flexibility. In this blog post I take a look at how it works.]]></summary>
         <author>
             <name>Henrik Marx Larsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to generate a list of forms with the tables and fields that are exposed on them for 365FO]]></title>
+        <id>http://www.brewsterware.com/?p=535</id>
+        <link href="https://www.brewsterware.com/how-to-generate-a-list-of-forms-with-the-tables-and-fields-that-are-exposed-on-them-for-365fo.html"/>
+        <updated>2022-10-02T19:52:41.000Z</updated>
+        <summary type="html"><![CDATA[I was recently asked if I could add the forms to the data entity spreadsheet that I produce, but unfortunately this is not really possible. This is because a single field can be exposed on multiple forms and also many forms use temporary tables which are populated “on the fly” when the form is loaded […]]]></summary>
+        <author>
+            <name>Joe Brewer</name>
         </author>
     </entry>
     <entry>
@@ -3695,6 +3725,16 @@ ariste.info IaC with Bicep: deploy Azure API Management Architecture]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Using VS Code and RapidAPI to call D365FO custom services]]></title>
+        <id>https://www.brewsterware.com/?p=523</id>
+        <link href="https://www.brewsterware.com/using-vs-code-and-rapidapi-to-call-d365fo-custom-services.html"/>
+        <updated>2022-09-12T19:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Here is a guide to install RapidAPI into VSCode. Once you have installed RapidAPI, check out this guide for creating new requests. Once you have created a new request for the custom service, change the request type to “POST” and put the full url to the service in the address box. For this example I […]]]></summary>
+        <author>
+            <name>Joe Brewer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[20 supply chain lessons for Microsoft Dynamics 365 users: Event preview]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2f1a30e8-e3c5-43ed-a793-f7d8ed2c914a</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/20-supply-chain-lessons-for-microsoft-dynamics-365-users-event-preview"/>
@@ -3728,6 +3768,16 @@ real challenges. Often the... Read the full text.]]></summary>
         <summary type="html"><![CDATA[The arrival overview is a workbench that shows the overview of the expected incoming deliveries along with estimated details of the items e.g., item quantities, item volume and item weight]]></summary>
         <author>
             <name>Ali Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10.0.29 Data Entities for Finance & Operations]]></title>
+        <id>http://www.brewsterware.com/?p=517</id>
+        <link href="https://www.brewsterware.com/10-0-29-data-entities-for-finance-operations.html"/>
+        <updated>2022-09-11T20:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Here is the latest collection of data entities for 10.0.29 in both en-GB and en-US languages. I have added some new columns which show which countries the data entities are enabled for, and the configuration key path if a configuration key is needed to enable the data entity. 10.0.29 Data Entities – en-US 10.0.29 Data […]]]></summary>
+        <author>
+            <name>Joe Brewer</name>
         </author>
     </entry>
     <entry>

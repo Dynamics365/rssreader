@@ -4486,6 +4486,63 @@
       ]
     },
     {
+      "title": "Brewsterware",
+      "feedUrl": "https://www.brewsterware.com/feed",
+      "siteUrl": "https://www.brewsterware.com",
+      "articles": [
+        {
+          "id": "http://www.brewsterware.com/?p=579",
+          "author": "Joe Brewer",
+          "description": "Here is the latest collection of data entities for 10.0.31 in both en-GB and en-US languages. 10.0.31 Data Entities – en-US 10.0.31 Data Entities – en-GB",
+          "link": "https://www.brewsterware.com/10-0-31-data-entities-for-finance-and-operations.html",
+          "publishedOn": "2023-01-08T22:12:17.000Z",
+          "wordCount": 758,
+          "title": "10.0.31 Data Entities for Finance and Operations",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.brewsterware.com/?p=566",
+          "author": "Joe Brewer",
+          "description": "Here is the latest collection of data entities for 10.0.30 in both en-GB and en-US languages. I have added some new columns: Is multi-threading enabled – if this is set to “Yes”, then the data entity can be added to the “configure entity execution parameters” which is accessed from the “Entity settings” tab of the […]",
+          "link": "https://www.brewsterware.com/10-0-30-data-entities-for-finance-operations.html",
+          "publishedOn": "2022-10-21T20:09:37.000Z",
+          "wordCount": 861,
+          "title": "10.0.30 Data Entities for Finance & Operations",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.brewsterware.com/?p=535",
+          "author": "Joe Brewer",
+          "description": "I was recently asked if I could add the forms to the data entity spreadsheet that I produce, but unfortunately this is not really possible. This is because a single field can be exposed on multiple forms and also many forms use temporary tables which are populated “on the fly” when the form is loaded […]",
+          "link": "https://www.brewsterware.com/how-to-generate-a-list-of-forms-with-the-tables-and-fields-that-are-exposed-on-them-for-365fo.html",
+          "publishedOn": "2022-10-02T19:52:41.000Z",
+          "wordCount": 1333,
+          "title": "How to generate a list of forms with the tables and fields that are exposed on them for 365FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.brewsterware.com/?p=523",
+          "author": "Joe Brewer",
+          "description": "Here is a guide to install RapidAPI into VSCode. Once you have installed RapidAPI, check out this guide for creating new requests. Once you have created a new request for the custom service, change the request type to “POST” and put the full url to the service in the address box. For this example I […]",
+          "link": "https://www.brewsterware.com/using-vs-code-and-rapidapi-to-call-d365fo-custom-services.html",
+          "publishedOn": "2022-09-12T19:59:06.000Z",
+          "wordCount": 1150,
+          "title": "Using VS Code and RapidAPI to call D365FO custom services",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.brewsterware.com/?p=517",
+          "author": "Joe Brewer",
+          "description": "Here is the latest collection of data entities for 10.0.29 in both en-GB and en-US languages. I have added some new columns which show which countries the data entities are enabled for, and the configuration key path if a configuration key is needed to enable the data entity. 10.0.29 Data Entities – en-US 10.0.29 Data […]",
+          "link": "https://www.brewsterware.com/10-0-29-data-entities-for-finance-operations.html",
+          "publishedOn": "2022-09-11T20:49:29.000Z",
+          "wordCount": 928,
+          "title": "10.0.29 Data Entities for Finance & Operations",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "PARAG CHAPRE BLOG",
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
