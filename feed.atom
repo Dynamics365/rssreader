@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-09T14:54:37.909Z</updated>
+    <updated>2023-01-10T01:25:06.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Comparing Security Between D365FO Environments Solution Released]]></title>
+        <id>https://alexdmeyer.com/?p=2538</id>
+        <link href="https://alexdmeyer.com/2023/01/09/comparing-security-between-d365fo-environments-solution-released/"/>
+        <updated>2023-01-09T18:32:17.000Z</updated>
+        <summary type="html"><![CDATA[I’m happy to announce the public release of my ‘D365FO Security Comparison Utility’ available on my GitHub! Solution Download The solution download is available here: https://github.com/ameyer505/D365FOSecurityComparisonUtility/releases The source code for the application can be found here: https://github.com/ameyer505/D365FOSecurityComparisonUtility Overview of Solution Install the Deployable Package Download the deployable package from GitHub: https://github.com/ameyer505/D365FOSecurityComparisonUtility/releases/download/v1.0/AMSecurity_1.0.0.0.zip Install the deployable package […]
+The post Comparing Security Between D365FO Environments Solution Released appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johnson Controls simplifies their infrastructure, saving 3,610 hours on training enablement]]></title>
+        <id>johnson-controls-simplifies-their-infrastructure-saving-3610-hours-on-training-enablement</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/johnson-controls-simplifies-their-infrastructure-saving-3610-hours-on-training-enablement/"/>
+        <updated>2023-01-09T12:33:03.000Z</updated>
+        <summary type="html"><![CDATA[Johnson Controls, a world leader in building smart, healthy and sustainable buildings, has more than 100,000 employees that require training which needs to be scheduled, tracked, measured, and analyzed. They saved 3,610 hours on backend process management and increased training throughput by 400%.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10.0.31 Data Entities for Finance and Operations]]></title>
         <id>http://www.brewsterware.com/?p=579</id>

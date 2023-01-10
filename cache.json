@@ -1571,6 +1571,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2538",
+          "author": "Alex",
+          "description": "I’m happy to announce the public release of my ‘D365FO Security Comparison Utility’ available on my GitHub! Solution Download The solution download is available here: https://github.com/ameyer505/D365FOSecurityComparisonUtility/releases The source code for the application can be found here: https://github.com/ameyer505/D365FOSecurityComparisonUtility Overview of Solution Install the Deployable Package Download the deployable package from GitHub: https://github.com/ameyer505/D365FOSecurityComparisonUtility/releases/download/v1.0/AMSecurity_1.0.0.0.zip Install the deployable package […]\nThe post Comparing Security Between D365FO Environments Solution Released appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/01/09/comparing-security-between-d365fo-environments-solution-released/",
+          "publishedOn": "2023-01-09T18:32:17.000Z",
+          "wordCount": 4162,
+          "title": "Comparing Security Between D365FO Environments Solution Released",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/01/16.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2534",
           "author": "Alex",
           "description": "One complaint I hear quite often and a huge gap in the current D365FO offering from a security perspective is that there is not a good way to compare security between environments. This becomes especially difficult when upgrading to a new D365FO version or when wanting to confirm that no new security changes have been […]\nThe post Comparing Security Between D365FO Environments – Beta Solution appeared first on Alex Meyer.",
@@ -8183,6 +8193,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "johnson-controls-simplifies-their-infrastructure-saving-3610-hours-on-training-enablement",
+          "author": null,
+          "description": "Johnson Controls, a world leader in building smart, healthy and sustainable buildings, has more than 100,000 employees that require training which needs to be scheduled, tracked, measured, and analyzed. They saved 3,610 hours on backend process management and increased training throughput by 400%.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/johnson-controls-simplifies-their-infrastructure-saving-3610-hours-on-training-enablement/",
+          "publishedOn": "2023-01-09T12:33:03.000Z",
+          "wordCount": 1852,
+          "title": "Johnson Controls simplifies their infrastructure, saving 3,610 hours on training enablement",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/01/DMWL-Johnson-Controls-2.png"
+        },
         {
           "id": "power-platform-developer-tools-november-update",
           "author": null,
