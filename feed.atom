@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-10T01:25:06.867Z</updated>
+    <updated>2023-01-11T01:23:12.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Virtual tables creation wizard now in Public Preview]]></title>
+        <id>virtual-tables-creation-wizard-now-in-public-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/virtual-tables-creation-wizard-now-in-public-preview/"/>
+        <updated>2023-01-10T08:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Have you tried creating a virtual table and found it too difficult? Do you wish you had an easy way to integrate external data from SharePoint and SQL into Dataverse? We are excited to announce that makers can now create virtual tables directly in the maker portal in just a few minutes using a guided…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Taxonomy implementation in D365]]></title>
+        <id>http://dynamicsax-fico.com/?p=4852</id>
+        <link href="https://dynamicsax-fico.com/2023/01/10/eu-taxonomy-implementation-in-d365/"/>
+        <updated>2023-01-10T05:39:17.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Platform: Learning Resources]]></title>
+        <id>http://paragchapre.com/?p=2294</id>
+        <link href="https://paragchapre.com/2023/01/10/microsoft-power-platform-learning-resources/"/>
+        <updated>2023-01-10T02:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft created a summary of learning resources for Power Platform. These resources are from beginner to advance level. I am NEW, help me get started I have SOME EXPERIENCE For detailed information, please visit to this link https://aka.ms/PowerPlatformResources]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comparing Security Between D365FO Environments Solution Released]]></title>
         <id>https://alexdmeyer.com/?p=2538</id>
@@ -15,6 +45,17 @@
 The post Comparing Security Between D365FO Environments Solution Released appeared first on Alex Meyer.]]></summary>
         <author>
             <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 SysOperation Framework Mandatory]]></title>
+        <id>https://dynamics365musings.com/?p=2585</id>
+        <link href="https://dynamics365musings.com/d365-sysoperation-framework-mandatory/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-sysoperation-framework-mandatory"/>
+        <updated>2023-01-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the last tutorial, I showed you how to add validation to the parameters of a batch job. In this article, learn to add D365 SysOperation Framework mandatory parameters. Validation can be added to ensure a user cannot run the job without setting a parameter. However, code can be added to actually show the parameter... Continue Reading →
+The post D365 SysOperation Framework Mandatory appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
         </author>
     </entry>
     <entry>

@@ -2429,6 +2429,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=2585",
+          "author": "peter.ramer",
+          "description": "In the last tutorial, I showed you how to add validation to the parameters of a batch job. In this article, learn to add D365 SysOperation Framework mandatory parameters. Validation can be added to ensure a user cannot run the job without setting a parameter. However, code can be added to actually show the parameter... Continue Reading →\nThe post D365 SysOperation Framework Mandatory appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-sysoperation-framework-mandatory/?utm_source=rss&utm_medium=rss&utm_campaign=d365-sysoperation-framework-mandatory",
+          "publishedOn": "2023-01-09T14:00:00.000Z",
+          "wordCount": 3111,
+          "title": "D365 SysOperation Framework Mandatory",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2022/11/D365-SysOperation-Framework-Mandatory.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=2559",
           "author": "peter.ramer",
           "description": "In this article, learn how to add D365 SysOperation Framework validation to ensure that parameters are set correctly. In a previous lesson you learned how to add parameters to a batch job. While adding parameters provides flexibility to the user, it may allow the user to run the batch job in a way it was... Continue Reading →\nThe post D365 SysOperation Framework Validation appeared first on Dynamics 365 Musings.",
@@ -4558,6 +4568,16 @@
       "siteUrl": "https://paragchapre.com",
       "articles": [
         {
+          "id": "http://paragchapre.com/?p=2294",
+          "author": "Parag Chapre",
+          "description": "Microsoft created a summary of learning resources for Power Platform. These resources are from beginner to advance level. I am NEW, help me get started I have SOME EXPERIENCE For detailed information, please visit to this link https://aka.ms/PowerPlatformResources",
+          "link": "https://paragchapre.com/2023/01/10/microsoft-power-platform-learning-resources/",
+          "publishedOn": "2023-01-10T02:32:23.000Z",
+          "wordCount": 4129,
+          "title": "Microsoft Power Platform: Learning Resources",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/01/powerplatformgraphic_learningresources.jpg?w=1200"
+        },
+        {
           "id": "http://paragchapre.com/?p=2211",
           "author": "Parag Chapre",
           "description": "In today’s article, we will see how to restrict an employee to view information only for those legal entities that they have access. Currently, an employee can see data from all legal entities but there are some cases when this should not be happened due to GDPR compliance. User should not see information from other... Continue Reading →",
@@ -4798,6 +4818,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=4852",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/01/10/eu-taxonomy-implementation-in-d365/",
+          "publishedOn": "2023-01-10T05:39:17.000Z",
+          "wordCount": 2550,
+          "title": "EU Taxonomy implementation in D365",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2022/11/eu-flag-en.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=4912",
           "author": "Ludwig Reinhard",
@@ -8193,6 +8223,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "virtual-tables-creation-wizard-now-in-public-preview",
+          "author": null,
+          "description": "Have you tried creating a virtual table and found it too difficult? Do you wish you had an easy way to integrate external data from SharePoint and SQL into Dataverse? We are excited to announce that makers can now create virtual tables directly in the maker portal in just a few minutes using a guided…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/virtual-tables-creation-wizard-now-in-public-preview/",
+          "publishedOn": "2023-01-10T08:56:58.000Z",
+          "wordCount": 1745,
+          "title": "Virtual tables creation wizard now in Public Preview",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/01/Wizard.png"
+        },
         {
           "id": "johnson-controls-simplifies-their-infrastructure-saving-3610-hours-on-training-enablement",
           "author": null,
