@@ -4234,6 +4234,16 @@
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
         {
+          "id": "https://www.d365snippets.com/2023/01/how-to-create-an-index-in-d365-fo.html",
+          "author": null,
+          "description": "In the previous article, I explained how to create a table in D365 FO. In this article, I will explain Set Indexes on The Table. As we know tables are the core objects used to store data in Microsoft Dynamics 365. A table index increases the speed of the retrieval of data from a table. So, while creating a table don’t forget to set the index for the table. An index helps\n\n\n\nIncrease the speed of the retrieval of rows from a table.\n\nIndexes are used to improve the performance of data retrieval.\n\noccasionally an index helps to ensure the existence of unique records.\n\nIn D365 FO like other database objects, indexes are synchronized with the database.\n\nHence, Once an index is created, indexes are managed automatically by the DBMS every time a record is inserted, updated, or deleted.\n\n\n\nSo here…",
+          "link": "https://www.d365snippets.com/2023/01/how-to-create-an-index-in-d365-fo.html",
+          "publishedOn": "2023-01-11T06:13:00.007Z",
+          "wordCount": 7019,
+          "title": "How to Create an Index in D365 FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0ZpFmVesrKCGogBF4V5M8-IaZ8-bZtkyFForeUTZEbSJz6Jb4OPo1UfIAJh8pn9It4oZL3cfQUsr4w-EpIiF5UaHkgHsbvAypQmjI1ZMrInPnleKA1XIf03mu-eSDnpI7_i4Hc41MQBUQYpBatSyiLzrkqJWjANRGdhRIqkt7BzypfBjEV30ZMBW5/s16000/how%20to%20create%20an%20index%20in%20d365%20fo.jpg"
+        },
+        {
           "id": "https://www.d365snippets.com/2023/01/microsoft-dynamics-365-training-courses-2023.html",
           "author": null,
           "description": "This is an introductory course on D365 Finance and Operations with a focus on D365 FO technical and Functional, this is especially for beginners. Those who are already working on D365 might already be aware of these that are being discussed, I recommend looking at the topics covered in this course and enrolling only if you think you do not know those topics.\n  \n Register Now \n\nCourse Highlights\n\n\n45 Hours of training with Real Time Scenarios.\n\n\n\nA soft copy of the materials was provided.\n\n\n\n\nDaily 1-Hour Classes.\n\n\n\nResume Preparation.\n\n\n\n100 + Real-time tasks provide.\n\n\n\n\nInterview Cracking Tips.\n\n\nExplain Customization.\n\n\nWhat you'll learn\n\n\nStudents will have a basic understanding of Microsoft Dynamics 365.\n\n\nFor Functional, Students will have a basic overview of Microsoft Dynamics 365 Functional Modules. \n\n\n\nFor Technical, Students will have a basic overview of Microsoft Dynamics 365 Technical Modules.\n\n\nFor technical students, basic programming skills are required\n\n\n        \n Register Now       \nRequirements\n\nStudents should have basic computer skills.\n\n\nStudents should be able to use Browsers like Chrome, or any other Web Browser to access the internet.\n\nTopics covered in this course\n\n\n\n\nIntroduction of MS-Dynamics 365.\n\n\nBasic Configurations.\n\nAOT(Application Object Tree) Introduction.\n\nData Types(Primitive Data Types) & EDT.\n\nOOPS, Concepts.\n\nUser Interface.\n\n SSRS Reports.\n\nData Entities.\n\nExtensions.\n\nChain of Commands (COC).\n\n\nWe will share the syllabus\n\n\n\n\n\n      \n Register Now",
@@ -4567,6 +4577,26 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "http://paragchapre.com/?p=2389",
+          "author": "Parag Chapre",
+          "description": "The Dynamics 365 and industry clouds release plan for the 2022 release wave 2 describes new features releasing from October 2022 through March 2023. You can either browse the release plan online or download the document as a PDF file. The PDF file also includes information about Power Apps, Power Automate, Power BI, Power Pages, Power Virtual Agents, Microsoft Dataverse, Microsoft Power... Continue Reading →",
+          "link": "https://paragchapre.com/2023/01/12/dynamics-365-2022-release-wave-2/",
+          "publishedOn": "2023-01-11T23:47:40.000Z",
+          "wordCount": 3944,
+          "title": "Dynamics 365 2022 release wave 2",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/01/microsoft-dynamics-365-2022-release-wave-2.jpg?w=1200"
+        },
+        {
+          "id": "http://paragchapre.com/?p=2378",
+          "author": "Parag Chapre",
+          "description": "The Microsoft Power Platform release plan for the 2022 release wave 2 describes new features releasing from October 2022 through March 2023 for Power BI, Power Apps, Power Pages, Power Automate, Power Virtual Agents, and AI Builder, as well as Microsoft Dataverse, Power Platform capabilities for governance and administration, pro development, ISV experiences, and data integration. You can either... Continue Reading →",
+          "link": "https://paragchapre.com/2023/01/12/microsoft-power-platform-2022-release-wave-2/",
+          "publishedOn": "2023-01-11T23:36:58.000Z",
+          "wordCount": 3959,
+          "title": "Microsoft Power Platform: 2022 release wave 2",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/01/microsoft-power-platform-2022-release-wave-2.jpg?w=1200"
+        },
         {
           "id": "http://paragchapre.com/?p=2294",
           "author": "Parag Chapre",

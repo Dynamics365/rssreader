@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-11T01:23:12.041Z</updated>
+    <updated>2023-01-12T01:23:49.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 2022 release wave 2]]></title>
+        <id>http://paragchapre.com/?p=2389</id>
+        <link href="https://paragchapre.com/2023/01/12/dynamics-365-2022-release-wave-2/"/>
+        <updated>2023-01-11T23:47:40.000Z</updated>
+        <summary type="html"><![CDATA[The Dynamics 365 and industry clouds release plan for the 2022 release wave 2 describes new features releasing from October 2022 through March 2023. You can either browse the release plan online or download the document as a PDF file. The PDF file also includes information about Power Apps, Power Automate, Power BI, Power Pages, Power Virtual Agents, Microsoft Dataverse, Microsoft Power... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Platform: 2022 release wave 2]]></title>
+        <id>http://paragchapre.com/?p=2378</id>
+        <link href="https://paragchapre.com/2023/01/12/microsoft-power-platform-2022-release-wave-2/"/>
+        <updated>2023-01-11T23:36:58.000Z</updated>
+        <summary type="html"><![CDATA[The Microsoft Power Platform release plan for the 2022 release wave 2 describes new features releasing from October 2022 through March 2023 for Power BI, Power Apps, Power Pages, Power Automate, Power Virtual Agents, and AI Builder, as well as Microsoft Dataverse, Power Platform capabilities for governance and administration, pro development, ISV experiences, and data integration. You can either... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Index in D365 FO]]></title>
+        <id>https://www.d365snippets.com/2023/01/how-to-create-an-index-in-d365-fo.html</id>
+        <link href="https://www.d365snippets.com/2023/01/how-to-create-an-index-in-d365-fo.html"/>
+        <updated>2023-01-11T06:13:00.007Z</updated>
+        <summary type="html"><![CDATA[In the previous article, I explained how to create a table in D365 FO. In this article, I will explain Set Indexes on The Table. As we know tables are the core objects used to store data in Microsoft Dynamics 365. A table index increases the speed of the retrieval of data from a table. So, while creating a table don’t forget to set the index for the table. An index helps
+
+
+
+Increase the speed of the retrieval of rows from a table.
+
+Indexes are used to improve the performance of data retrieval.
+
+occasionally an index helps to ensure the existence of unique records.
+
+In D365 FO like other database objects, indexes are synchronized with the database.
+
+Hence, Once an index is created, indexes are managed automatically by the DBMS every time a record is inserted, updated, or deleted.
+
+
+
+So here…]]></summary>
+        <author>
+            <name>D365 Snippets</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtual tables creation wizard now in Public Preview]]></title>
         <id>virtual-tables-creation-wizard-now-in-public-preview</id>
