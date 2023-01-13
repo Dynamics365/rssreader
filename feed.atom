@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-12T01:23:49.402Z</updated>
+    <updated>2023-01-13T01:25:29.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The data bias challenge: Creating inclusive customer experiences]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/12/the-data-bias-challenge-creating-inclusive-customer-experiences/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/12/the-data-bias-challenge-creating-inclusive-customer-experiences/"/>
+        <updated>2023-01-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's data-driven business landscape, it's important to reflect on the fact that the traditional data sets you've come to rely upon only provide part of the answer. To get to the heart of your customers' decision-making, you need to not only consider data that's inclusive and representative of the customers you are trying to reach, but also take a fresh look at how you measure this data.
+The post The data bias challenge: Creating inclusive customer experiences appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>MJ DePalma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easily share devices between multiple frontline workers using Power Apps Shared Device Mode]]></title>
+        <id>easily-share-devices-between-multiple-frontline-workers-using-power-apps-shared-device-mode</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/easily-share-devices-between-multiple-frontline-workers-using-power-apps-shared-device-mode/"/>
+        <updated>2023-01-12T11:08:44.000Z</updated>
+        <summary type="html"><![CDATA[Here at the National Retail Federation 2023 conference, we are excited to share the immediate availability of Shared Device Mode (SDM) Public Preview for Power Apps on Android. Frontline workers will now be able to quickly, easily, and securely log in and out of their devices when handing off mobile devices or sharing kiosks. This…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add new inventory dimensions through extension]]></title>
+        <id>1836</id>
+        <link href="http://daxonline.org/1836-add-new-inventory-dimensions-through-extension.html"/>
+        <updated>2023-01-12T10:24:59.000Z</updated>
+        <summary type="html"><![CDATA[VAR solution (existing field InventDimensionN)
+1. create new table to hold dimension values, it can be linked to InventTable
+public class VKItemCSIDNumbers extends common
+{
+    public static boolean checkExist(VKCSIDNumber _csid, ItemId _itemId)
+    {
+        if (_itemId && _csid && !VKItemCSIDNumbers::exist(_csid, _itemId))
+        {
+            return checkFailed(strFmt("Inventory CSID number %1 does not exists for item %2", _csid, _itemId));
+        }
+        return true;
+    }
+
+    public static boolean exist(VKCSIDNumber _csid, ItemId _itemId)
+    {
+        return _itemId && _csid
+            && (select VKItemCSIDNumbers
+                    where VKItemCSIDNumbers.ItemId == _itemId  && VKItemCSIDNumbers.CSIDNumber == _csid
+               ).RecId != 0;
+    }
+
+}
+
+
+2. new class deriving …]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual tables creation wizard]]></title>
+        <id>http://paragchapre.com/?p=2415</id>
+        <link href="https://paragchapre.com/2023/01/12/virtual-tables-creation-wizard/"/>
+        <updated>2023-01-12T04:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Recently, Microsoft introduced new feature Virtual tables creation wizard in Power Platform. With this feature, you can now create virtual tables directly from the SQL table, SharePoint and excel using a guided creation wizard. Virtual table enables to integrate data from external sources by representing the data as table in Dataverse without any data replication.... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 2022 release wave 2]]></title>
         <id>http://paragchapre.com/?p=2389</id>
@@ -53,6 +118,17 @@ So here…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Transform retail customer experiences with the Microsoft Customer Experience Platform]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/10/transform-retail-customer-experiences-with-the-microsoft-customer-experience-platform/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/10/transform-retail-customer-experiences-with-the-microsoft-customer-experience-platform/"/>
+        <updated>2023-01-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Marketers today are rethinking their data strategies, looking for ways to take ownership of their customer data and to use that resource to create valued customer relationships in a time of tightening privacy legislation. Microsoft continues to make significant investments in helping organizations across industries fulfill customer demands for privacy and personalization while optimizing marketing return on investment (ROI). 
+The post Transform retail customer experiences with the Microsoft Customer Experience Platform appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Diana Hoffman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Virtual tables creation wizard now in Public Preview]]></title>
         <id>virtual-tables-creation-wizard-now-in-public-preview</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/virtual-tables-creation-wizard-now-in-public-preview/"/>
@@ -80,6 +156,17 @@ So here…]]></summary>
         <summary type="html"><![CDATA[Microsoft created a summary of learning resources for Power Platform. These resources are from beginner to advance level. I am NEW, help me get started I have SOME EXPERIENCE For detailed information, please visit to this link https://aka.ms/PowerPlatformResources]]></summary>
         <author>
             <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Direct inbound calling: Premier support made easy]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/01/09/direct-inbound-calling-premier-support-made-easy/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/01/09/direct-inbound-calling-premier-support-made-easy/"/>
+        <updated>2023-01-09T20:17:34.000Z</updated>
+        <summary type="html"><![CDATA[The voice channel in Dynamics 365 Customer Service now provides the ability to configure direct callbacks with just a few clicks. 
+The post Direct inbound calling: Premier support made easy appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Chris Gschwend</name>
         </author>
     </entry>
     <entry>
@@ -161,6 +248,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Andrea Oklobdzija</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customer Service voice support channel launches in Canada]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/01/05/customer-service-voice-support-channel-launches-in-canada/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/01/05/customer-service-voice-support-channel-launches-in-canada/"/>
+        <updated>2023-01-05T18:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the November 2021 launch in select geographic regions of the native voice channel in Microsoft Dynamics 365 Customer Service, we have been expanding worldwide to satisfy growing customer demand. We are proud to announce that we now support local country regions as well. As of November 30, 2022, the voice support channel is live in Canada.
+The post Customer Service voice support channel launches in Canada  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Varsha Nandula</name>
         </author>
     </entry>
     <entry>
@@ -2455,6 +2553,52 @@ Continue reading →]]></summary>
         <summary type="html"><![CDATA[Today, we are announcing the Power Platform communication site template. The Power Platform communication site template is a SharePoint communication site that provides you with a starting point of content and page templates as you’re setting up your internal Power Platform wiki and hub site. This communication site is designed to be the place where the Power Platform maker and user community within your organization can find the news and resources they need, including digital governance and compliance guardrails, upcoming events, success stories and more.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use build pipeline to request database refresh]]></title>
+        <id>1658 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/how-use-build-pipeline-request-database-refresh"/>
+        <updated>2022-10-24T03:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 10/23/22.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+Powershell      
+D365FO.Tools      
+
+ 
+PowerShell in a pipeline to request a database backup.
+PowerShell is a powerful scripting language that can be used to automate a wide variety of tasks, including interacting with Azure DevOps pipelines. One common use case for PowerShell in an Azure DevOps pipeline is to request a database backup. This can be accomplished by using the LCS REST API to trigger a backup of a specific database, and then using PowerShell to monitor the status of the backup. This approach allows for a high level of automation and flexibility, allowing developers to easily schedule and manage database backups as part of their overall development workflow.
+The Rundown, Again
+All of the prerequisites to use this are available in this article. Nothing has changed. We're just hitting a different endpoint. To use this script, you'll need the following:
+A user without MFA enabled in the LCS project with LCS permissions to request a database backup
+LCS Project ID
+Knowledge of LCS instance environment is in
+LCS Environment ID
+Once you have all of that, you can use this script to create a pipeline to request a database backup on whatever schedule you'd like. The script will start a database backup operation, pause, then confirm the request was accepted.
+
+
+
+
+View the discussion thread.
+
+
+
+Reported:]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>

@@ -22,11 +22,137 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-12 datetime="2023-01-11T23:47:40.000Z">2023-01-12</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-12 datetime="2023-01-11T23:47:40.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-12 datetime="2023-01-12T16:00:00.000Z">2023-01-12</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-12 datetime="2023-01-12T16:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Dynamics 365 Blog</button>
+                  <a class="source-heading__link" href="https://cloudblogs.microsoft.com/dynamics365/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/12/the-data-bias-challenge-creating-inclusive-customer-experiences/"
+                        open
+                      >
+                        <summary class="article-expander__title">The data bias challenge: Creating inclusive customer experiences</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/12/the-data-bias-challenge-creating-inclusive-customer-experiences/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/10/Blog_3-2.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>In today&#x27;s data-driven business landscape, it&#x27;s important to reflect on the fact that the traditional data sets you&#x27;ve come to rely upon only provide part of the answer. To get to the heart of your customers&#x27; decision-making, you need to not only consider data that&#x27;s inclusive and representative of the customers you are trying to reach, but also take a fresh look at how you measure this data.
+The post The data bias challenge: Creating inclusive customer experiences appeared first on Microsoft Dynamics 365 Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Power Apps - Blog</button>
+                  <a class="source-heading__link" href="https://powerapps.microsoft.com/en-us/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="easily-share-devices-between-multiple-frontline-workers-using-power-apps-shared-device-mode"
+                        open
+                      >
+                        <summary class="article-expander__title">Easily share devices between multiple frontline workers using Power Apps Shared Device Mode</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://powerapps.microsoft.com/en-us/blog/easily-share-devices-between-multiple-frontline-workers-using-power-apps-shared-device-mode/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Here at the National Retail Federation 2023 conference, we are excited to share the immediate availability of Shared Device Mode (SDM) Public Preview for Power Apps on Android. Frontline workers will now be able to quickly, easily, and securely log in and out of their devices when handing off mobile devices or sharing kiosks. This…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >DaxOnline</button>
+                  <a class="source-heading__link" href="http://daxonline.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="1836"
+                        open
+                      >
+                        <summary class="article-expander__title">Add new inventory dimensions through extension</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://daxonline.org/1836-add-new-inventory-dimensions-through-extension.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>VAR solution (existing field InventDimensionN)
+1. create new table to hold dimension values, it can be linked to InventTable
+public class VKItemCSIDNumbers extends common
+{
+    public static boolean checkExist(VKCSIDNumber _csid, ItemId _itemId)
+    {
+        if (_itemId &amp;&amp; _csid &amp;&amp; !VKItemCSIDNumbers::exist(_csid, _itemId))
+        {
+            return checkFailed(strFmt(&quot;Inventory CSID number %1 does not exists for item %2&quot;, _csid, _itemId));
+        }
+        return true;
+    }
+
+    public static boolean exist(VKCSIDNumber _csid, ItemId _itemId)
+    {
+        return _itemId &amp;&amp; _csid
+            &amp;&amp; (select VKItemCSIDNumbers
+                    where VKItemCSIDNumbers.ItemId &#x3D;&#x3D; _itemId  &amp;&amp; VKItemCSIDNumbers.CSIDNumber &#x3D;&#x3D; _csid
+               ).RecId !&#x3D; 0;
+    }
+
+}
+
+
+2. new class deriving …</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -38,6 +164,26 @@
                   <a class="source-heading__link" href="https://paragchapre.com">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://paragchapre.com/?p&#x3D;2415"
+                        open
+                      >
+                        <summary class="article-expander__title">Virtual tables creation wizard</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://paragchapre.com/2023/01/12/virtual-tables-creation-wizard/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://paragchapre.files.wordpress.com/2023/01/virtual-tables-creation-wizard.jpg?w&#x3D;1200" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Recently, Microsoft introduced new feature Virtual tables creation wizard in Power Platform. With this feature, you can now create virtual tables directly from the SQL table, SharePoint and excel using a guided creation wizard. Virtual table enables to integrate data from external sources by representing the data as table in Dataverse without any data replication.... Continue Reading →</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -154,11 +300,67 @@ So here…</span>
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-10 datetime="2023-01-10T08:56:58.000Z">2023-01-10</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-10 datetime="2023-01-10T08:56:58.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-10 datetime="2023-01-10T16:00:00.000Z">2023-01-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-10 datetime="2023-01-10T16:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Dynamics 365 Blog</button>
+                  <a class="source-heading__link" href="https://cloudblogs.microsoft.com/dynamics365/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/10/transform-retail-customer-experiences-with-the-microsoft-customer-experience-platform/"
+                        open
+                      >
+                        <summary class="article-expander__title">Transform retail customer experiences with the Microsoft Customer Experience Platform</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/10/transform-retail-customer-experiences-with-the-microsoft-customer-experience-platform/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/01/social.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Marketers today are rethinking their data strategies, looking for ways to take ownership of their customer data and to use that resource to create valued customer relationships in a time of tightening privacy legislation. Microsoft continues to make significant investments in helping organizations across industries fulfill customer demands for privacy and personalization while optimizing marketing return on investment (ROI). 
+The post Transform retail customer experiences with the Microsoft Customer Experience Platform appeared first on Microsoft Dynamics 365 Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cloudblogs.microsoft.com/dynamics365/it/2023/01/09/direct-inbound-calling-premier-support-made-easy/"
+                        open
+                      >
+                        <summary class="article-expander__title">Direct inbound calling: Premier support made easy</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cloudblogs.microsoft.com/dynamics365/it/2023/01/09/direct-inbound-calling-premier-support-made-easy/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2020/06/CLO18_headset_003-1024x683.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The voice channel in Dynamics 365 Customer Service now provides the ability to configure direct callbacks with just a few clicks. 
+The post Direct inbound calling: Premier support made easy appeared first on Microsoft Dynamics 365 Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -562,6 +764,27 @@ This post first appeared first on Encore Business Solutions.</span>
                   <a class="source-heading__link" href="https://cloudblogs.microsoft.com/dynamics365/">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cloudblogs.microsoft.com/dynamics365/it/2023/01/05/customer-service-voice-support-channel-launches-in-canada/"
+                        open
+                      >
+                        <summary class="article-expander__title">Customer Service voice support channel launches in Canada</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cloudblogs.microsoft.com/dynamics365/it/2023/01/05/customer-service-voice-support-channel-launches-in-canada/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/12/toronto-skyline.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Since the November 2021 launch in select geographic regions of the native voice channel in Microsoft Dynamics 365 Customer Service, we have been expanding worldwide to satisfy growing customer demand. We are proud to announce that we now support local country regions as well. As of November 30, 2022, the voice support channel is live in Canada.
+The post Customer Service voice support channel launches in Canada  appeared first on Microsoft Dynamics 365 Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -7652,6 +7875,75 @@ Continue reading →</span>
                             <span class="media-object__text">
                               <span>Today, we are announcing the Power Platform communication site template. The Power Platform communication site template is a SharePoint communication site that provides you with a starting point of content and page templates as you’re setting up your internal Power Platform wiki and hub site. This communication site is designed to be the place where the Power Platform maker and user community within your organization can find the news and resources they need, including digital governance and compliance guardrails, upcoming events, success stories and more.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Atomic AX - Dynamics AX Tips, Tricks, How To&#x27;s and Code</button>
+                  <a class="source-heading__link" href="https://www.atomicax.com/frontpage">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="1658 at https://www.atomicax.com"
+                        open
+                      >
+                        <summary class="article-expander__title">How to use build pipeline to request database refresh</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.atomicax.com/article/how-use-build-pipeline-request-database-refresh">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Submitted by Nathan Clouse on 10/23/22.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+Powershell      
+D365FO.Tools      
+
+ 
+PowerShell in a pipeline to request a database backup.
+PowerShell is a powerful scripting language that can be used to automate a wide variety of tasks, including interacting with Azure DevOps pipelines. One common use case for PowerShell in an Azure DevOps pipeline is to request a database backup. This can be accomplished by using the LCS REST API to trigger a backup of a specific database, and then using PowerShell to monitor the status of the backup. This approach allows for a high level of automation and flexibility, allowing developers to easily schedule and manage database backups as part of their overall development workflow.
+The Rundown, Again
+All of the prerequisites to use this are available in this article. Nothing has changed. We&#x27;re just hitting a different endpoint. To use this script, you&#x27;ll need the following:
+A user without MFA enabled in the LCS project with LCS permissions to request a database backup
+LCS Project ID
+Knowledge of LCS instance environment is in
+LCS Environment ID
+Once you have all of that, you can use this script to create a pipeline to request a database backup on whatever schedule you&#x27;d like. The script will start a database backup operation, pause, then confirm the request was accepted.
+
+
+
+
+View the discussion thread.
+
+
+
+Reported:</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -38522,8 +38814,8 @@ transformation and direct integration. Let’s jump in !</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/3898233939">
-        <time id="build-timestamp" datetime="2023-01-12T01:23:49.332Z">2023-01-12T01:23:49.332Z</time>
+      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/3907509446">
+        <time id="build-timestamp" datetime="2023-01-13T01:25:29.332Z">2023-01-13T01:25:29.332Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
