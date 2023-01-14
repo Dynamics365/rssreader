@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-13T01:25:29.411Z</updated>
+    <updated>2023-01-14T01:18:15.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create computed column on view in D365FO using created date time column.]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:96b93bcc-6503-4930-a529-3a152fd4dcc2</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/create-computed-column-on-view-in-d365fo-using-created-date-time-column"/>
+        <updated>2023-01-13T08:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Dear All,In this article will see how to create computed column in view. As we all know view are returning records from SQL from multiple tables, but some time we are getting requirement to create calculated column using the available column. Si...(read more)]]></summary>
+        <author>
+            <name>Vijay Yelmame</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The data bias challenge: Creating inclusive customer experiences]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/12/the-data-bias-challenge-creating-inclusive-customer-experiences/</id>
@@ -2553,6 +2563,52 @@ Continue reading →]]></summary>
         <summary type="html"><![CDATA[Today, we are announcing the Power Platform communication site template. The Power Platform communication site template is a SharePoint communication site that provides you with a starting point of content and page templates as you’re setting up your internal Power Platform wiki and hub site. This communication site is designed to be the place where the Power Platform maker and user community within your organization can find the news and resources they need, including digital governance and compliance guardrails, upcoming events, success stories and more.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use A Build Pipeline To Request A Database Backup]]></title>
+        <id>1658 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/how-use-build-pipeline-request-database-backup"/>
+        <updated>2022-10-24T03:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 10/23/22.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+Powershell      
+D365FO.Tools      
+
+ 
+PowerShell in a pipeline to request a database backup.
+PowerShell is a powerful scripting language that can be used to automate a wide variety of tasks, including interacting with Azure DevOps pipelines. One common use case for PowerShell in an Azure DevOps pipeline is to request a database backup. This can be accomplished by using the LCS REST API to trigger a backup of a specific database, and then using PowerShell to monitor the status of the backup. This approach allows for a high level of automation and flexibility, allowing developers to easily schedule and manage database backups as part of their overall development workflow.
+The Rundown, Again
+All of the prerequisites to use this are available in this article. Nothing has changed. We're just hitting a different endpoint. To use this script, you'll need the following:
+A user without MFA enabled in the LCS project with LCS permissions to request a database backup
+LCS Project ID
+Knowledge of LCS instance environment is in
+LCS Environment ID
+Once you have all of that, you can use this script to create a pipeline to request a database backup on whatever schedule you'd like. The script will start a database backup operation, pause, then confirm the request was accepted.
+
+
+
+
+View the discussion thread.
+
+
+
+Reported:]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>

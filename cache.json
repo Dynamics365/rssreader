@@ -2769,6 +2769,16 @@
           "id": "1658 at https://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 10/23/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nPowershell      \nD365FO.Tools      \n\n \nPowerShell in a pipeline to request a database backup.\nPowerShell is a powerful scripting language that can be used to automate a wide variety of tasks, including interacting with Azure DevOps pipelines. One common use case for PowerShell in an Azure DevOps pipeline is to request a database backup. This can be accomplished by using the LCS REST API to trigger a backup of a specific database, and then using PowerShell to monitor the status of the backup. This approach allows for a high level of automation and flexibility, allowing developers to easily schedule and manage database backups as part of their overall development workflow.\nThe Rundown, Again\nAll of the prerequisites to use this are available in this article. Nothing has changed. We're just hitting a different endpoint. To use this script, you'll need the following:\nA user without MFA enabled in the LCS project with LCS permissions to request a database backup\nLCS Project ID\nKnowledge of LCS instance environment is in\nLCS Environment ID\nOnce you have all of that, you can use this script to create a pipeline to request a database backup on whatever schedule you'd like. The script will start a database backup operation, pause, then confirm the request was accepted.\n\n\n\n\nView the discussion thread.\n\n\n\nReported:",
+          "link": "https://www.atomicax.com/article/how-use-build-pipeline-request-database-backup",
+          "publishedOn": "2022-10-24T03:28:47.000Z",
+          "wordCount": 1006,
+          "title": "How to Use A Build Pipeline To Request A Database Backup",
+          "imageUrl": null
+        },
+        {
+          "id": "1658 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 10/23/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nPowershell      \nD365FO.Tools      \n\n \nPowerShell in a pipeline to request a database backup.\nPowerShell is a powerful scripting language that can be used to automate a wide variety of tasks, including interacting with Azure DevOps pipelines. One common use case for PowerShell in an Azure DevOps pipeline is to request a database backup. This can be accomplished by using the LCS REST API to trigger a backup of a specific database, and then using PowerShell to monitor the status of the backup. This approach allows for a high level of automation and flexibility, allowing developers to easily schedule and manage database backups as part of their overall development workflow.\nThe Rundown, Again\nAll of the prerequisites to use this are available in this article. Nothing has changed. We're just hitting a different endpoint. To use this script, you'll need the following:\nA user without MFA enabled in the LCS project with LCS permissions to request a database backup\nLCS Project ID\nKnowledge of LCS instance environment is in\nLCS Environment ID\nOnce you have all of that, you can use this script to create a pipeline to request a database backup on whatever schedule you'd like. The script will start a database backup operation, pause, then confirm the request was accepted.\n\n\n\n\nView the discussion thread.\n\n\n\nReported:",
           "link": "https://www.atomicax.com/article/how-use-build-pipeline-request-database-refresh",
           "publishedOn": "2022-10-24T03:28:47.000Z",
           "wordCount": 1059,
@@ -6704,6 +6714,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:96b93bcc-6503-4930-a529-3a152fd4dcc2",
+          "author": "Vijay Yelmame",
+          "description": "Dear All,In this article will see how to create computed column in view. As we all know view are returning records from SQL from multiple tables, but some time we are getting requirement to create calculated column using the available column. Si...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/create-computed-column-on-view-in-d365fo-using-created-date-time-column",
+          "publishedOn": "2023-01-13T08:59:00.000Z",
+          "wordCount": 3742,
+          "title": "Create computed column on view in D365FO using created date time column.",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:842d061f-1df7-462f-a215-71ca661034e5",
           "author": "Vijay Yelmame",
