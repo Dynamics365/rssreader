@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-15T01:26:42.335Z</updated>
+    <updated>2023-01-16T01:21:41.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #5]]></title>
+        <id>http://dynamicsax-fico.com/?p=4929</id>
+        <link href="https://dynamicsax-fico.com/2023/01/15/microsoft-bizapps-deutschland-podcast-5/"/>
+        <updated>2023-01-15T07:11:25.000Z</updated>
+        <summary type="html"><![CDATA[[German Language Podcast] Im ersten Podcast im Jahr 2023 sprechen wir mit Jochen Guttenberger, der als Lead Solution Architekt und …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create computed column on view in D365FO using created date time column.]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:96b93bcc-6503-4930-a529-3a152fd4dcc2</id>
