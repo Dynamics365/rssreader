@@ -214,16 +214,6 @@
           "wordCount": 1050,
           "title": "All about Odata actions in Dynamics 365 Finance And Operations",
           "imageUrl": "https://nuxulu.com/2021-05-25-all-about-odata-actions-in-dynamics-365-finance-and-operations/dodatapostman.png"
-        },
-        {
-          "id": "https://nuxulu.com/2021-01-27-deploy-ssrs-reports-in-dynamics-365-finance-scm-using-powershell/",
-          "author": "Max Nguyen",
-          "description": "Open Windows PowerShell in Admin mode\nNavigate to the PowerShell scripts\n\n\n\n1\n\n\n\ncd K:\\AosService\\PackagesLocalDirectory\\Plugins\\AxReportVmRoleStartupTask\\\n\n\n\n\n\nExecute the below commands:\nFor deploying all SSRS reports\n\n\n\n1\n\n\n\n./DeployAllReportsToSSRS.ps1 -PackageInstallLocation “K:\\AosService\\PackagesLocalDirectory”\n\n\n\n\n\nFor deploying the specific reports\n\n\n\n1\n\n\n\n./DeployAllReportsToSSRS.ps1 -Module ApplicationSuite -ReportName <ReportName> -PackageInstallLocation “K:\\AosService\\PackagesLocalDirectory”\n\n\n\n\n\nExample:\n\n\n\n1\n\n\n\n./DeployAllReportsToSsrs.ps1 -Module MaxCustomization -ReportName MaxCheque_US.Report -PackageInstallLocation \"K:\\AosService\\PackagesLocalDirectory\"\n\n\n\n\n\n\n\n\n1\n\n\n\n./DeployAllReportsToSsrs.ps1 -Module ApplicatoinSuite -ReportName Cust* -PackageInstallLocation \"C:\\AosService\\PackagesLocalDirectory\"",
-          "link": "https://nuxulu.com/2021-01-27-deploy-ssrs-reports-in-dynamics-365-finance-scm-using-powershell/",
-          "publishedOn": "2021-01-17T00:00:00.000Z",
-          "wordCount": 172,
-          "title": "Deploy SSRS reports in Dynamics 365 Finance, SCM using Powershell",
-          "imageUrl": "https://nuxulu.com/2021-01-27-deploy-ssrs-reports-in-dynamics-365-finance-scm-using-powershell/Deploy-SSRS-reports-in-Dynamics-365-Finance.png"
         }
       ]
     },
@@ -1751,17 +1741,6 @@
           "title": "Dynamics 365 Azure IoT - Industry 4.0",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5ff6f9b34557516188ee1f96",
-          "author": "Aurélien Clere",
-          "description": "Hello the Community, new year , new blog post ! Let’s start 2021 with a new \r\nfeature that sounds very interesting for Dynamics 365 Finance : E-Invoicing \r\nService. Again a new add-in out of the box by Microsoft, but you will see \r\nthat we can really go further with Electronic Reporting Module , as well as \r\nthe RCS : Regulatory Service to manage different types of integration with \r\nthe government like SDI Service for Italy, with certificates, EDI , \r\ntransformation and direct integration. Let’s jump in !",
-          "link": "https://www.powerazure365.com/blog-1/e-invoicing-services-for-dynamics-365-finance-and-operations",
-          "publishedOn": "2021-01-16T21:02:10.000Z",
-          "wordCount": null,
-          "title": "e-Invoicing Service for Dynamics 365 Finance and Operations",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     },
@@ -2872,6 +2851,16 @@
       "feedUrl": "https://kurthatlevik.com/feed/",
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
+        {
+          "id": "http://kurthatlevik.com/?p=4432",
+          "author": "Kurt Hatlevik",
+          "description": "I have played with ChatGPT, and when looking through social media, blogpost and videos, it seems we have now entered the early ages of AI and we can ask ChatGPT to generate almost anything we are asking for. I have started to start ask myself philosophical questions and what will be replaced by these systems. … Continue reading D365 – This blogpost is not written by ChatGPT",
+          "link": "https://kurthatlevik.com/2023/01/16/d365-this-blogpost-is-not-written-by-chatgpt/",
+          "publishedOn": "2023-01-16T11:01:17.000Z",
+          "wordCount": 3056,
+          "title": "D365 – This blogpost is not written by ChatGPT",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/01/011623_1101_d365thisblo1.png"
+        },
         {
           "id": "http://kurthatlevik.com/?p=4419",
           "author": "Kurt Hatlevik",

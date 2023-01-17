@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-16 datetime="2023-01-16T11:01:17.000Z">2023-01-16</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-16 datetime="2023-01-16T11:01:17.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Kurt Hatlevik – Dynamics 365 Blog</button>
+                  <a class="source-heading__link" href="https://kurthatlevik.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://kurthatlevik.com/?p&#x3D;4432"
+                        open
+                      >
+                        <summary class="article-expander__title">D365 – This blogpost is not written by ChatGPT</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://kurthatlevik.com/2023/01/16/d365-this-blogpost-is-not-written-by-chatgpt/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://kurthatlevik.files.wordpress.com/2023/01/011623_1101_d365thisblo1.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I have played with ChatGPT, and when looking through social media, blogpost and videos, it seems we have now entered the early ages of AI and we can ask ChatGPT to generate almost anything we are asking for. I have started to start ask myself philosophical questions and what will be replaced by these systems. … Continue reading D365 – This blogpost is not written by ChatGPT</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-01-15 datetime="2023-01-15T07:11:25.000Z">2023-01-15</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-01-15 datetime="2023-01-15T07:11:25.000Z"></time>
           </button>
@@ -38766,160 +38814,10 @@ In this blog post I am going to show how you can embed...
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2021-01-17 datetime="2021-01-17T00:00:00.000Z">2021-01-17</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2021-01-17 datetime="2021-01-17T00:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >All Posts - Dynamics 365 Finance &amp; Operations | nuxulu.com</button>
-                  <a class="source-heading__link" href="https://nuxulu.com/posts/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://nuxulu.com/2021-01-27-deploy-ssrs-reports-in-dynamics-365-finance-scm-using-powershell/"
-                        open
-                      >
-                        <summary class="article-expander__title">Deploy SSRS reports in Dynamics 365 Finance, SCM using Powershell</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://nuxulu.com/2021-01-27-deploy-ssrs-reports-in-dynamics-365-finance-scm-using-powershell/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://nuxulu.com/2021-01-27-deploy-ssrs-reports-in-dynamics-365-finance-scm-using-powershell/Deploy-SSRS-reports-in-Dynamics-365-Finance.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Open Windows PowerShell in Admin mode
-Navigate to the PowerShell scripts
-
-
-
-1
-
-
-
-cd K:\AosService\PackagesLocalDirectory\Plugins\AxReportVmRoleStartupTask\
-
-
-
-
-
-Execute the below commands:
-For deploying all SSRS reports
-
-
-
-1
-
-
-
-./DeployAllReportsToSSRS.ps1 -PackageInstallLocation “K:\AosService\PackagesLocalDirectory”
-
-
-
-
-
-For deploying the specific reports
-
-
-
-1
-
-
-
-./DeployAllReportsToSSRS.ps1 -Module ApplicationSuite -ReportName  -PackageInstallLocation “K:\AosService\PackagesLocalDirectory”
-
-
-
-
-
-Example:
-
-
-
-1
-
-
-
-./DeployAllReportsToSsrs.ps1 -Module MaxCustomization -ReportName MaxCheque_US.Report -PackageInstallLocation &quot;K:\AosService\PackagesLocalDirectory&quot;
-
-
-
-
-
-
-
-
-1
-
-
-
-./DeployAllReportsToSsrs.ps1 -Module ApplicatoinSuite -ReportName Cust* -PackageInstallLocation &quot;C:\AosService\PackagesLocalDirectory&quot;</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >PowerAzure365</button>
-                  <a class="source-heading__link" href="https://www.powerazure365.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:5ff6f9b34557516188ee1f96"
-                        open
-                      >
-                        <summary class="article-expander__title">e-Invoicing Service for Dynamics 365 Finance and Operations</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.powerazure365.com/blog-1/e-invoicing-services-for-dynamics-365-finance-and-operations">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Hello the Community, new year , new blog post ! Let’s start 2021 with a new 
-feature that sounds very interesting for Dynamics 365 Finance : E-Invoicing 
-Service. Again a new add-in out of the box by Microsoft, but you will see 
-that we can really go further with Electronic Reporting Module , as well as 
-the RCS : Regulatory Service to manage different types of integration with 
-the government like SDI Service for Italy, with certificates, EDI , 
-transformation and direct integration. Let’s jump in !</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/3926260567">
-        <time id="build-timestamp" datetime="2023-01-16T01:21:41.419Z">2023-01-16T01:21:41.419Z</time>
+      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/3935193215">
+        <time id="build-timestamp" datetime="2023-01-17T01:21:50.592Z">2023-01-17T01:21:50.592Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
