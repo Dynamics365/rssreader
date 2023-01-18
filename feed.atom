@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-17T01:21:50.663Z</updated>
+    <updated>2023-01-18T01:24:52.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Microsoft Supply Chain Platform enables resiliency for retailers]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/17/the-microsoft-supply-chain-platform-enables-resiliency-for-retailers/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/17/the-microsoft-supply-chain-platform-enables-resiliency-for-retailers/"/>
+        <updated>2023-01-17T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The path to retail resilience in today's competitive environment revolves around connectivity, agility, and sustainability. Brands should address disruptions and challenges with solutions that can exceed customer expectations, drive profitability, and improve sustainability.
+The post The Microsoft Supply Chain Platform enables resiliency for retailers appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Vignesh Balasubramanian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integration Best Practices: Dynamics 365 CRM to Finance & Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=55554</id>
+        <link href="https://www.encorebusiness.com/blog/integration-best-practices-dynamics-365-crm-to-finance-operations/"/>
+        <updated>2023-01-17T13:31:28.000Z</updated>
+        <summary type="html"><![CDATA[Integration Best Practices: Dynamics 365 CRM to Finance & Operations
+Integrating Dynamics 365 CRM applications and Dynamics 365 Finance & Operations (F&O) via Dual-write provides bi-directional data synchronization. Users across applications benefit from seamless, real-time sharing of information about customers, vendors, people, products, and operations. However, successfully implementing this integration requires system administrators and customizers to address some challenges and design constraints that are not...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Erika Colson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure Azure Bastion for Dynamics 365 F&O VMs]]></title>
+        <id>https://ariste.info/?p=6717</id>
+        <link href="https://ariste.info/en/2023/01/configure-azure-bastion-dynamics-365-vm/"/>
+        <updated>2023-01-17T07:31:33.000Z</updated>
+        <summary type="html"><![CDATA[We’ve been working with the F&O development VMs for a long time, specially Microsoft partners that need to be able to quickly and easily change between different customer environments, and using the VHD is a bit more complicated in that scenario. And of course, we use Remote Desktop Protocol to connect to these VMs. RDP [...]
+ariste.info Configure Azure Bastion for Dynamics 365 F&O VMs]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D365 – This blogpost is not written by ChatGPT]]></title>
         <id>http://kurthatlevik.com/?p=4432</id>

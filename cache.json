@@ -1211,6 +1211,16 @@
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=55554",
+          "author": "Erika Colson",
+          "description": "Integration Best Practices: Dynamics 365 CRM to Finance & Operations\nIntegrating Dynamics 365 CRM applications and Dynamics 365 Finance & Operations (F&O) via Dual-write provides bi-directional data synchronization. Users across applications benefit from seamless, real-time sharing of information about customers, vendors, people, products, and operations. However, successfully implementing this integration requires system administrators and customizers to address some challenges and design constraints that are not...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/integration-best-practices-dynamics-365-crm-to-finance-operations/",
+          "publishedOn": "2023-01-17T13:31:28.000Z",
+          "wordCount": 2923,
+          "title": "Integration Best Practices: Dynamics 365 CRM to Finance & Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2022/05/D365-Img-1.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=47911",
           "author": "Andrea Oklobdzija",
           "description": "Customer Journeys in Dynamics 365 Marketing\nIn Dynamics 365 Marketing, a Customer Journey is a curated, end-to-end customer purchase process, including all contact and decision-making points. With multifaceted campaign automation, it identifies leads and guides the target audience to move toward purchasing as they interact with your company. One of its core elements is communication automation, triggered by both specific audience...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -2013,6 +2023,16 @@
       "feedUrl": "https://ariste.info/en/feed/",
       "siteUrl": "https://ariste.info/en/",
       "articles": [
+        {
+          "id": "https://ariste.info/?p=6717",
+          "author": "Adrià Ariste Santacreu",
+          "description": "We’ve been working with the F&O development VMs for a long time, specially Microsoft partners that need to be able to quickly and easily change between different customer environments, and using the VHD is a bit more complicated in that scenario. And of course, we use Remote Desktop Protocol to connect to these VMs. RDP [...]\nariste.info Configure Azure Bastion for Dynamics 365 F&O VMs",
+          "link": "https://ariste.info/en/2023/01/configure-azure-bastion-dynamics-365-vm/",
+          "publishedOn": "2023-01-17T07:31:33.000Z",
+          "wordCount": 4290,
+          "title": "Configure Azure Bastion for Dynamics 365 F&O VMs",
+          "imageUrl": "https://ariste.info/wp-content/uploads/2023/01/Destacada-1024x1024.jpeg"
+        },
         {
           "id": "https://ariste.info/?p=6439",
           "author": "Adrià Ariste Santacreu",
@@ -3434,6 +3454,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/17/the-microsoft-supply-chain-platform-enables-resiliency-for-retailers/",
+          "author": "Vignesh Balasubramanian",
+          "description": "The path to retail resilience in today's competitive environment revolves around connectivity, agility, and sustainability. Brands should address disruptions and challenges with solutions that can exceed customer expectations, drive profitability, and improve sustainability.\nThe post The Microsoft Supply Chain Platform enables resiliency for retailers appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/17/the-microsoft-supply-chain-platform-enables-resiliency-for-retailers/",
+          "publishedOn": "2023-01-17T19:30:00.000Z",
+          "wordCount": 3527,
+          "title": "The Microsoft Supply Chain Platform enables resiliency for retailers",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/01/MSC22_Getty_UK_Retail_1318687072.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/12/the-data-bias-challenge-creating-inclusive-customer-experiences/",
           "author": "MJ DePalma",
