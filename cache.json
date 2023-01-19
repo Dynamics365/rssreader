@@ -6,6 +6,16 @@
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
         {
+          "id": "https://nuxulu.com/2023-01-01-metadata-search-in-visual-studio/",
+          "author": "Max Nguyen",
+          "description": "Metadata search in Visual Studio\nThis article describes how to use metadata search to search your code and metadata for arbitrary patterns and content.\nGiven the large volume of the code base and metadata, it is often necessary to find things in the code that meet a certain criteria. For example, you might not know the name of the metadata element that contains the pattern or meets the criteria. Metadata search is exposed in Visual Studio through two user interfaces: the Metadata Search tool window and the Navigate To window.\nMetadata search tool window\nYou can access the Metadata search tool window from the Dynamics 365 > Metadata Search menu command. Enter your search query to start the search. Results will start populating in the window asynchronously as you type. You can double-click a…",
+          "link": "https://nuxulu.com/2023-01-01-metadata-search-in-visual-studio/",
+          "publishedOn": "2022-11-13T00:00:00.000Z",
+          "wordCount": 842,
+          "title": "Metadata search in Visual Studio",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2022-11-13-extend-on-hand-entities-fin-ops/",
           "author": "Max Nguyen",
           "description": "There are some entities that you can use to get the on-hand inventory from Dynamics 365 Finance Operations:\n\n\n\n1\n2\n3\n4\n5\n6\n\n\n\nInventorySiteOnHandEntity\nInventorySiteOnHandV2Entity\nInventWarehouseInventoryStatusOnHandEntity\nInventWarehouseInventoryStatusOnHandV2Entity\nInventWarehouseOnHandEntity\nInventWarehouseOnHandV2Entity\n\n\n\n\n\nYou can extend the ententies by adding new fields to tables and entities.\nAfter you add fields to tables that are used by the inventSiteOnHandView view, you must sync the engine so that the extensions are correctly recognized.\nExtend the InventSiteOnHandView view by adding the extension field.\nExtend the InventSiteOnHandAggregatedView view with the extension fields.\nExtend the InventSiteOnHandAggregatedViewBuilder viewBuilder class by modifying the getExtensionFields() method. In this way, you map old view fields to new view fields when viewBuilder synchronization is run.\nFor example, you’ve added the following four fields to the InventTable table through extension:\n• Custom field 1\n• Custom field 2\n• Custom field 3\n• Custom field 4\nIn the case, you must modify the getExtensionFields() method in the following way.",
@@ -5202,6 +5212,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/happyd365fo",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:95b29c4d-dce6-4e9b-8293-5a87786dd009",
+          "author": "Rahul Mohta",
+          "description": "Microsoft Dynamics 365 Finance - GL open balances data migration - options for GL and sub-ledger accounts:\n\n\nLoad GL balances without subledger controlled accounts and let sub-ledger accounts be popul...(read more)",
+          "link": "https://community.dynamics.com/ax/b/happyd365fo/posts/microsoft-dynamics-365-finance---gl-open-balances-data-migration---options-for-gl-and-sub-ledger-accounts",
+          "publishedOn": "2023-01-18T09:43:40.000Z",
+          "wordCount": 3823,
+          "title": "Microsoft Dynamics 365 Finance - GL open balances data migration - options for GL and sub-ledger accounts",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c45610b7-f328-42b0-896e-03e3abd3df2c",
           "author": "Rahul Mohta",
           "description": "Human expertise combined with Artificial Intelligence (AI)can open opportunity doors like never before.\n\nWhether it is insights for decision making in financials area or supply chain area, Now both ke...(read more)",
@@ -5748,6 +5768,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0979a086-645f-4113-8427-939697094496",
+          "author": "Shankar Das",
+          "description": "It was required to add custom financial dimension such as OFFICE, COSTCENTER in FINOPS D365 to excel add-in in D365. I used standard documentation for this type of customization that has already been ...(read more)",
+          "link": "https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/fix-issue-in-publishing-changes-in-excel-template",
+          "publishedOn": "2023-01-17T12:00:00.000Z",
+          "wordCount": 3662,
+          "title": "Fix: Issue in publishing changes in excel template",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:078f0f77-8299-49e0-a5c5-c4fbd8f355bd",
           "author": "Shankar Das",
           "description": "The feature of processing requests for quotations in Dynamics 365 Finance and Operations enables visibility to the quoting process, traceability, and better collaboration among buyers and suppliers(ve...(read more)",
@@ -6049,16 +6079,6 @@
           "publishedOn": "2021-08-04T10:44:24.000Z",
           "wordCount": 2342,
           "title": "How to keep the newest D365 F&SCM system updated without any hassle",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8f6d01a6-264a-4790-88f1-ac21d1227d2c",
-          "author": "1ClickFactory Team",
-          "description": "1ClickFactory’s approach has always been clear: Dynamics Partners should move their customers to the newest versions of Dynamics 365 Finance & Supply Chain Management. However, this is not only because...(read more)",
-          "link": "https://community.dynamics.com/ax/b/1clickfactory365andax/posts/5-proven-sales-techniques-to-convince-customers-in-the-cee-market-to-move-to-dynamics-365-finance-supply-chain-management",
-          "publishedOn": "2021-01-19T11:36:46.000Z",
-          "wordCount": 2297,
-          "title": "5 proven sales techniques to convince customers in the CEE Market to move to Dynamics 365 Finance & Supply Chain Management",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -6537,16 +6557,6 @@
           "publishedOn": "2021-01-27T09:04:38.000Z",
           "wordCount": 3753,
           "title": "How to Create a Quick Customer Profitability Analysis with Dynamics 365 Finance and Excel",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:90cc3043-4809-47d8-bedd-c7aa5b6b84bb",
-          "author": "Henrik Marx Larsen",
-          "description": "As you know, I am a big fan of Power Apps and the ability to embed them in the Dynamics 365 Finance and Operations (D365F&O) user interface.\nIn this blog post I am going to show how you can embed...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/adding-a-power-apps-app-as-a-tile-in-the-dynamics-365-finance-and-operations-dashboard",
-          "publishedOn": "2021-01-19T08:40:33.000Z",
-          "wordCount": 3583,
-          "title": "Adding a Power Apps app as a Tile in the Dynamics 365 Finance and Operations Dashboard",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -8327,16 +8337,6 @@
           "wordCount": 3705,
           "title": "How to Create a Quick Customer Profitability Analysis with Dynamics 365 Finance and Excel",
           "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2021/01/customer-14.png?w=1200"
-        },
-        {
-          "id": "http://henrikmarxlarsen.wordpress.com/?p=2560",
-          "author": "Henrik Marx Larsen",
-          "description": "See how you can enrich Dynamics 365 Finance and Operations dashboard user experience with Power Apps.",
-          "link": "https://henrikmarxlarsen.wordpress.com/2021/01/19/adding-a-power-apps-app-as-a-tile-in-the-dynamics-365-finance-and-operations-dashboard/",
-          "publishedOn": "2021-01-19T08:40:33.000Z",
-          "wordCount": 3483,
-          "title": "Adding a Power Apps app as a Tile in the Dynamics 365 Finance and Operations Dashboard",
-          "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2021/01/asset-maintenance-9.png?w=1200"
         }
       ]
     },
@@ -9645,26 +9645,6 @@
           "wordCount": 2351,
           "title": "Using \"Old\" AX filtering techniques in D365FO",
           "imageUrl": "https://1.bp.blogspot.com/-vkIBUT4wK50/X0xN2sc5mrI/AAAAAAAABH8/UcIX6XBWcFcH6yyXYxKQgdgZt7e820ShACLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-08-30_21-08-45.png"
-        },
-        {
-          "id": "https://www.d365fandom.com/2021/01/production-order-capacity-could-not-be-found-error.html",
-          "author": null,
-          "description": "Ah, the good old capacity error. \"Production order ***** could not be scheduled. Not enough capacity could be found.\"\nThere are a few main culprits for this error. \n\n\n1. Calendar\nThe majority of the time, this error is caused by a Calendar issue. The most likely fix is that you are out of time, or almost out of time on your calendar and need to create new working times. This often happens near the end of the year, when the calendar is filling up and does not carry over to the next year.\n\n\n\n\n2. Route\nYour resources on your Route may be incorrect. I have seen some operations on a route that have been created to produce 1 item per 100 hours. It was an honest mistake and likely got flip-flopped during item creation. When the new item got scheduled, it blew out capacity and the order erred with the \"Production order ***** could not be scheduled. Not enough capacity could be found.\" error. \n\n\nOops! Someone put these values in backward!\n\n\n\n\n\nProduction order could not be scheduled. Not enough capacity could be found.\n\n\n\n3.Lead times\nThis one is a little more obscure. If you have an item with no routes specified, you can still receive this error! The error is likely coming from a lead time that has been set up on a component item on the BOM that has exceeded the Lead time in the Maximum job lead time field in the Production control parameters. \nIf this is set to zero or anything less than a lead time on a component item, you will get the \"Production order could not be scheduled. Not enough capacity could be found.\" \n\n\nMaximum job lead time field can impact capacity and generate the capacity error!\n\n\nLikewise, you can set the Capacity scheduling time fence (days) on the Coverage group.\n\n\nCapacity scheduling time fence (days) field on the Coverage group\n\n\nJust ensure that the days you set are not exceeded by any lead times on any of your BOM component items, or this will trigger the \"Production order could not be scheduled. Not enough capacity could be found.\" error.",
-          "link": "https://www.d365fandom.com/2021/01/production-order-capacity-could-not-be-found-error.html",
-          "publishedOn": "2021-01-19T11:00:00.021Z",
-          "wordCount": 2156,
-          "title": "Error: Production order ***** could not be scheduled. Not enough capacity could be found.",
-          "imageUrl": "https://1.bp.blogspot.com/-fKwxjgQXgsI/YAXwfs9Q2sI/AAAAAAAABXI/Ni9DdESH-9cn5aENmuKuZvNpcQ1M7Vm8gCLcBGAsYHQ/w1200-h630-p-k-no-nu/4uaung.jpg"
-        },
-        {
-          "id": "https://www.d365fandom.com/2021/01/batch-processing-payment-advice.html",
-          "author": null,
-          "description": "One of the pain points in AX/F&O was that you could not set up batch processing for your Payment advice reports. \nIn late 2019/early 2020, a new feature was added called \"Enable batch processing for bank payment advice reports.\" \nThe description reads as follows:\n\nThis feature lets you use batch processing for both the customer and vendor bank payment advice reports. To use this feature you must use BankPaymAdviceVendV2 and BankPaymAdviceCustV2 bank payment advice, and set them up as the customer and vendor report formats in print management.\n\nHow do we set this up and use this functionality? In our example today, we will look at this from an Accounts payable/Vendor perspective. \n\n\nEnable Feature\nThe first step is to enable the feature in the Feature management workspace. \n\n\n\n\nClick on the…",
-          "link": "https://www.d365fandom.com/2021/01/batch-processing-payment-advice.html",
-          "publishedOn": "2021-01-18T20:00:00.005Z",
-          "wordCount": 2547,
-          "title": "New feature: Enable batch processing for bank payment advice reports",
-          "imageUrl": "https://1.bp.blogspot.com/-KpmltEllZsU/YAWf5Ts10OI/AAAAAAAABUQ/N8Py9moTdOk4wIK1xurfjFK_TTK7noMrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2021-01-18_9-48-30.png"
         }
       ]
     },

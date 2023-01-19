@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-18T01:24:52.146Z</updated>
+    <updated>2023-01-19T01:26:24.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Finance - GL open balances data migration - options for GL and sub-ledger accounts]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:95b29c4d-dce6-4e9b-8293-5a87786dd009</id>
+        <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/microsoft-dynamics-365-finance---gl-open-balances-data-migration---options-for-gl-and-sub-ledger-accounts"/>
+        <updated>2023-01-18T09:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Finance - GL open balances data migration - options for GL and sub-ledger accounts:
+
+
+Load GL balances without subledger controlled accounts and let sub-ledger accounts be popul...(read more)]]></summary>
+        <author>
+            <name>Rahul Mohta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Microsoft Supply Chain Platform enables resiliency for retailers]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/17/the-microsoft-supply-chain-platform-enables-resiliency-for-retailers/</id>
@@ -28,6 +41,16 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Erika Colson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix: Issue in publishing changes in excel template]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0979a086-645f-4113-8427-939697094496</id>
+        <link href="https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/posts/fix-issue-in-publishing-changes-in-excel-template"/>
+        <updated>2023-01-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It was required to add custom financial dimension such as OFFICE, COSTCENTER in FINOPS D365 to excel add-in in D365. I used standard documentation for this type of customization that has already been ...(read more)]]></summary>
+        <author>
+            <name>Shankar Das</name>
         </author>
     </entry>
     <entry>
@@ -1954,6 +1977,20 @@ This post first appeared first on Encore Business Solutions.]]></summary>
 Continue reading “New ways to share Power Apps community forum ideas “]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metadata search in Visual Studio]]></title>
+        <id>https://nuxulu.com/2023-01-01-metadata-search-in-visual-studio/</id>
+        <link href="https://nuxulu.com/2023-01-01-metadata-search-in-visual-studio/"/>
+        <updated>2022-11-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Metadata search in Visual Studio
+This article describes how to use metadata search to search your code and metadata for arbitrary patterns and content.
+Given the large volume of the code base and metadata, it is often necessary to find things in the code that meet a certain criteria. For example, you might not know the name of the metadata element that contains the pattern or meets the criteria. Metadata search is exposed in Visual Studio through two user interfaces: the Metadata Search tool window and the Navigate To window.
+Metadata search tool window
+You can access the Metadata search tool window from the Dynamics 365 > Metadata Search menu command. Enter your search query to start the search. Results will start populating in the window asynchronously as you type. You can double-click a…]]></summary>
+        <author>
+            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>
@@ -12802,111 +12839,6 @@ As I was asked within my network “How can we organize, distribute and manage t
         <summary type="html"><![CDATA[Unlike AX2012, one of the major Dynamics 365 FinOps architecture differents, is the D365 application and development environment separation, which means that we will have a different approach to manipulate the created objects during runtime which resides on the environment but will not exist in the AOT. Security data are concerned as well. Security is … Lire la suite Data Security management in D365FinOps →]]></summary>
         <author>
             <name>adalhix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 proven sales techniques to convince customers in the CEE Market to move to Dynamics 365 Finance & Supply Chain Management]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8f6d01a6-264a-4790-88f1-ac21d1227d2c</id>
-        <link href="https://community.dynamics.com/ax/b/1clickfactory365andax/posts/5-proven-sales-techniques-to-convince-customers-in-the-cee-market-to-move-to-dynamics-365-finance-supply-chain-management"/>
-        <updated>2021-01-19T11:36:46.000Z</updated>
-        <summary type="html"><![CDATA[1ClickFactory’s approach has always been clear: Dynamics Partners should move their customers to the newest versions of Dynamics 365 Finance & Supply Chain Management. However, this is not only because...(read more)]]></summary>
-        <author>
-            <name>1ClickFactory Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error: Production order ***** could not be scheduled. Not enough capacity could be found.]]></title>
-        <id>https://www.d365fandom.com/2021/01/production-order-capacity-could-not-be-found-error.html</id>
-        <link href="https://www.d365fandom.com/2021/01/production-order-capacity-could-not-be-found-error.html"/>
-        <updated>2021-01-19T11:00:00.021Z</updated>
-        <summary type="html"><![CDATA[Ah, the good old capacity error. "Production order ***** could not be scheduled. Not enough capacity could be found."
-There are a few main culprits for this error. 
-
-
-1. Calendar
-The majority of the time, this error is caused by a Calendar issue. The most likely fix is that you are out of time, or almost out of time on your calendar and need to create new working times. This often happens near the end of the year, when the calendar is filling up and does not carry over to the next year.
-
-
-
-
-2. Route
-Your resources on your Route may be incorrect. I have seen some operations on a route that have been created to produce 1 item per 100 hours. It was an honest mistake and likely got flip-flopped during item creation. When the new item got scheduled, it blew out capacity and the order erred with the "Production order ***** could not be scheduled. Not enough capacity could be found." error. 
-
-
-Oops! Someone put these values in backward!
-
-
-
-
-
-Production order could not be scheduled. Not enough capacity could be found.
-
-
-
-3.Lead times
-This one is a little more obscure. If you have an item with no routes specified, you can still receive this error! The error is likely coming from a lead time that has been set up on a component item on the BOM that has exceeded the Lead time in the Maximum job lead time field in the Production control parameters. 
-If this is set to zero or anything less than a lead time on a component item, you will get the "Production order could not be scheduled. Not enough capacity could be found." 
-
-
-Maximum job lead time field can impact capacity and generate the capacity error!
-
-
-Likewise, you can set the Capacity scheduling time fence (days) on the Coverage group.
-
-
-Capacity scheduling time fence (days) field on the Coverage group
-
-
-Just ensure that the days you set are not exceeded by any lead times on any of your BOM component items, or this will trigger the "Production order could not be scheduled. Not enough capacity could be found." error.]]></summary>
-        <author>
-            <name>D365FandO(m)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding a Power Apps app as a Tile in the Dynamics 365 Finance and Operations Dashboard]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:90cc3043-4809-47d8-bedd-c7aa5b6b84bb</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/adding-a-power-apps-app-as-a-tile-in-the-dynamics-365-finance-and-operations-dashboard"/>
-        <updated>2021-01-19T08:40:33.000Z</updated>
-        <summary type="html"><![CDATA[As you know, I am a big fan of Power Apps and the ability to embed them in the Dynamics 365 Finance and Operations (D365F&O) user interface.
-In this blog post I am going to show how you can embed...
-(read more)]]></summary>
-        <author>
-            <name>Henrik Marx Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding a Power Apps app as a Tile in the Dynamics 365 Finance and Operations Dashboard]]></title>
-        <id>http://henrikmarxlarsen.wordpress.com/?p=2560</id>
-        <link href="https://henrikmarxlarsen.wordpress.com/2021/01/19/adding-a-power-apps-app-as-a-tile-in-the-dynamics-365-finance-and-operations-dashboard/"/>
-        <updated>2021-01-19T08:40:33.000Z</updated>
-        <summary type="html"><![CDATA[See how you can enrich Dynamics 365 Finance and Operations dashboard user experience with Power Apps.]]></summary>
-        <author>
-            <name>Henrik Marx Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New feature: Enable batch processing for bank payment advice reports]]></title>
-        <id>https://www.d365fandom.com/2021/01/batch-processing-payment-advice.html</id>
-        <link href="https://www.d365fandom.com/2021/01/batch-processing-payment-advice.html"/>
-        <updated>2021-01-18T20:00:00.005Z</updated>
-        <summary type="html"><![CDATA[One of the pain points in AX/F&O was that you could not set up batch processing for your Payment advice reports. 
-In late 2019/early 2020, a new feature was added called "Enable batch processing for bank payment advice reports." 
-The description reads as follows:
-
-This feature lets you use batch processing for both the customer and vendor bank payment advice reports. To use this feature you must use BankPaymAdviceVendV2 and BankPaymAdviceCustV2 bank payment advice, and set them up as the customer and vendor report formats in print management.
-
-How do we set this up and use this functionality? In our example today, we will look at this from an Accounts payable/Vendor perspective. 
-
-
-Enable Feature
-The first step is to enable the feature in the Feature management workspace. 
-
-
-
-
-Click on the…]]></summary>
-        <author>
-            <name>D365FandO(m)</name>
         </author>
     </entry>
 </feed>
