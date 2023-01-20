@@ -614,6 +614,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b1d6d454-8fe0-438b-a4d6-134b8abff2a6",
+          "author": "MSDynamicsWorld.com",
+          "description": "DynamicsCon Virtual\n will return on March 15 and 16 for a fifth edition, bringing\nback distinct features and introducing an expanded program focused\non customer success. \n DynamicsCon Virtual is known for its open voting process to\ndetermine the bulk... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/event-preview-dynamicscon-virtual-2023-ramps-up-with-session-voting-microsoft-participation",
+          "publishedOn": "2023-01-18T14:00:00.000Z",
+          "wordCount": 3738,
+          "title": "Event Preview: DynamicsCon Virtual 2023 ramps up with session voting, Microsoft participation",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:65731a92-d00b-495a-90d8-776b8634d0b6",
           "author": "MSDynamicsWorld.com",
           "description": "This week on the Dynamics 365 Finance and Operations blog\nroundup: \n \n Dynamics 365 Finance invoice automation in simple terms \n Create and share workspace personalization in Dynamics 365\nFinance and Operations \n Securing a menu item is not enough – form... Read the full text.",
@@ -1220,6 +1230,16 @@
       "feedUrl": "https://www.encorebusiness.com/blog/feed/",
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
+        {
+          "id": "https://www.encorebusiness.com/?p=50508",
+          "author": "Tracey Santos",
+          "description": "Bridge to the Cloud Promotion for Microsoft Dynamics\nThe Bridge to the Cloud promotion is a multi-year path that can help you transition from your on-premises deployment of Dynamics 365 Business Central, Dynamics NAV, or Dynamics GP to Dynamics 365 Business Central online. Bridge to the Cloud includes discounted licenses as well as dual-access rights for your existing on-premises ERP and your new...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/microsoft-bridge-to-the-cloud-promotion-for-on-premises-erp-users/",
+          "publishedOn": "2023-01-19T12:13:49.000Z",
+          "wordCount": 1730,
+          "title": "Bridge to the Cloud Promotion for Microsoft Dynamics",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Bridge-to-the-cloud-img.jpg"
+        },
         {
           "id": "https://www.encorebusiness.com/?p=55554",
           "author": "Erika Colson",
@@ -3464,6 +3484,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/01/18/optimize-sales-conversation-follow-ups-in-2-easy-steps/",
+          "author": "Olga Goldenberg",
+          "description": "Taking time to speak with customers remains one of the best ways to build relationships and close deals faster. \nThe post <strong>Optimize sales conversation follow ups in 2 easy steps! </strong>  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/01/18/optimize-sales-conversation-follow-ups-in-2-easy-steps/",
+          "publishedOn": "2023-01-18T18:26:00.000Z",
+          "wordCount": 2318,
+          "title": "Optimize sales conversation follow ups in 2 easy steps!",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/01/DYN21_RemoteAssist_008-scaled.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/17/the-microsoft-supply-chain-platform-enables-resiliency-for-retailers/",
           "author": "Vignesh Balasubramanian",

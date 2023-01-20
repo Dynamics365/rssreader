@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-19T01:26:24.806Z</updated>
+    <updated>2023-01-20T01:23:48.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bridge to the Cloud Promotion for Microsoft Dynamics]]></title>
+        <id>https://www.encorebusiness.com/?p=50508</id>
+        <link href="https://www.encorebusiness.com/blog/microsoft-bridge-to-the-cloud-promotion-for-on-premises-erp-users/"/>
+        <updated>2023-01-19T12:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Bridge to the Cloud Promotion for Microsoft Dynamics
+The Bridge to the Cloud promotion is a multi-year path that can help you transition from your on-premises deployment of Dynamics 365 Business Central, Dynamics NAV, or Dynamics GP to Dynamics 365 Business Central online. Bridge to the Cloud includes discounted licenses as well as dual-access rights for your existing on-premises ERP and your new...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Tracey Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimize sales conversation follow ups in 2 easy steps!]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/01/18/optimize-sales-conversation-follow-ups-in-2-easy-steps/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/01/18/optimize-sales-conversation-follow-ups-in-2-easy-steps/"/>
+        <updated>2023-01-18T18:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Taking time to speak with customers remains one of the best ways to build relationships and close deals faster. 
+The post <strong>Optimize sales conversation follow ups in 2 easy steps! </strong>  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Olga Goldenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Preview: DynamicsCon Virtual 2023 ramps up with session voting, Microsoft participation]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b1d6d454-8fe0-438b-a4d6-134b8abff2a6</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/event-preview-dynamicscon-virtual-2023-ramps-up-with-session-voting-microsoft-participation"/>
+        <updated>2023-01-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DynamicsCon Virtual
+ will return on March 15 and 16 for a fifth edition, bringing
+back distinct features and introducing an expanded program focused
+on customer success. 
+ DynamicsCon Virtual is known for its open voting process to
+determine the bulk... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Dynamics 365 Finance - GL open balances data migration - options for GL and sub-ledger accounts]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:95b29c4d-dce6-4e9b-8293-5a87786dd009</id>
