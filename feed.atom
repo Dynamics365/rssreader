@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-20T01:23:48.843Z</updated>
+    <updated>2023-01-20T22:50:45.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PowerApps portal with Dynamics 365 F&O – Part 3]]></title>
+        <id>http://paragchapre.com/?p=2537</id>
+        <link href="https://paragchapre.com/2023/01/20/powerapps-portal-with-dynamics-365-fo-part-3/"/>
+        <updated>2023-01-20T06:11:17.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to use Portal admin center for PowerApps portal. The Power Apps portals admin center allows you to perform advanced administrative actions on portals and the admin center is available when a portal is provisioned successfully. How to open PowerApps portal admin center Login to PowerApps and select your... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerApps portal with Dynamics 365 F&O – Part 2]]></title>
+        <id>http://paragchapre.com/?p=2475</id>
+        <link href="https://paragchapre.com/2023/01/20/powerapps-portal-with-dynamics-365-fo-part-2/"/>
+        <updated>2023-01-20T06:08:19.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to create a PowerApps portal and how to use Dynamics 365 F&O data with PowerApps portal. If you don’t see my previous article on PowerApps portal with Dynamics 365 Finance and Operations, then you can find here. Before we start, let’s see what options are available to connect... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerApps portal with Dynamics 365 F&O – Part 1]]></title>
+        <id>http://paragchapre.com/?p=2454</id>
+        <link href="https://paragchapre.com/2023/01/20/powerapps-portal-with-dynamics-365-fo-part-1/"/>
+        <updated>2023-01-20T05:59:40.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see what PowerApps portal is, when and why to use with Dynamics 365 Finance and operations. PowerApps portal was introduced by Microsoft in June 2019 to build low-code, responsive websites which allow external users to interact with the data stored in the Dataverse (Comman Data Service). PowerApps portal is a... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimize sales conversation follow-ups in two easy steps]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/01/19/optimize-sales-conversation-follow-ups-in-2-easy-steps/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/01/19/optimize-sales-conversation-follow-ups-in-2-easy-steps/"/>
+        <updated>2023-01-19T20:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Taking time to speak with customers remains one of the best ways to build relationships and close deals faster. 
+The post Optimize sales conversation follow-ups in two easy steps appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Olga Goldenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warehousing telemetry now available in Supply Chain Management]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/01/19/warehousing-telemetry-now-available-in-supply-chain-management/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/01/19/warehousing-telemetry-now-available-in-supply-chain-management/"/>
+        <updated>2023-01-19T19:57:19.000Z</updated>
+        <summary type="html"><![CDATA[Telemetry is a crucial tool in monitoring the performance of a system to generate actionable insights that can improve productivity and optimize users' experience. New telemetry data in Dynamics 365 Supply Chain Management helps provide insight into the activities and general health of your Warehouse Management tenants and devices, so that you can diagnose problems and analyze operations that affect performance.
+The post Warehousing telemetry now available in Supply Chain Management appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Galyna Fedorova</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bridge to the Cloud Promotion for Microsoft Dynamics]]></title>
         <id>https://www.encorebusiness.com/?p=50508</id>
@@ -1569,6 +1621,33 @@ The post D365 SysOperation Framework Parameters appeared first on Dynamics 365 M
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Get Infolog as a string]]></title>
+        <id>https://alexvoy.blogspot.com/2022/11/get-infolog-as-string.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/11/get-infolog-as-string.html"/>
+        <updated>2022-11-26T23:50:00.002Z</updated>
+        <summary type="html"><![CDATA[/// <summary>
+/// Gets infolog content
+/// </summary>
+/// <returns>infolog string</returns>
+public static str getErrorStr(container _cont)
+{	SysInfologEnumerator        enumerator;
+	SysInfologMessageStruct     msgStruct;
+	Exception                   exception;
+	str                         error;
+	enumerator = SysInfologEnumerator::newData(_cont);
+	while (enumerator.moveNext())
+	{
+		msgStruct = new SysInfologMessageStruct(enumerator.currentMessage());
+		exception = enumerator.currentException();
+		error = strfmt('%1 %2', error, msgStruct.message());
+	}
+	return error;
+}]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Subscription Billing] Expense deferrals (Purchase accruals) in Microsoft dynamics 365 finance and operations: Part-5]]></title>
         <id>http://exploredynamics365.home.blog/?p=2263</id>
         <link href="https://exploredynamics365.home.blog/2022/11/26/subscription-billing-expense-deferrals-purchase-accruals-in-microsoft-dynamics-365-finance-and-operations-part-5/"/>
@@ -2489,6 +2568,43 @@ Continue reading “Formula repair now in preview”]]></summary>
 The post Overview of Telemetry Data in D365FO appeared first on Alex Meyer.]]></summary>
         <author>
             <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Review]]></title>
+        <id>https://alexvoy.blogspot.com/2022/10/code-review.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/10/code-review.html"/>
+        <updated>2022-10-31T13:50:00.004Z</updated>
+        <summary type="html"><![CDATA[Disclaimer: this is just a short recap of what Martin Dráb explained in his article https://dev.goshoom.net/2012/08/purpose-of-code-reviews/.
+Purpose of code reviews
+
+
+Internal quality:
+
+
+Overall approach – does the code do the right thing by proper means? 
+Maintainability/extensibility – are we able to easily extend the solution, fix bugs etc.? 
+Testability – are we able to test the code?
+Documentation – are we able to understand why the code was made and what it does?
+Performance – is the design correct from performance perspective? 
+
+
+Functional testing: Some bugs are much more visible when looking into code
+Knowledge sharing: Discussions between the developer and the reviewer
+
+
+Tools
+
+
+BP check 
+xppbp.exe
+DevOps code review request
+
+
+Top 10 issues discovered from Dynamics AX Code Review
+https://www.linkedin.com/pulse/top-10-issues-discovered-from-dynamics-ax-code-review-caillet/]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
@@ -5600,6 +5716,44 @@ ariste.info Logs in Dynamics 365: not anymore!]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Union query for Project transactions]]></title>
+        <id>https://alexvoy.blogspot.com/2022/06/union-query-for-project-transactions.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/06/union-query-for-project-transactions.html"/>
+        <updated>2022-06-30T01:58:00.002Z</updated>
+        <summary type="html"><![CDATA[Union query may be a very efficient and useful option when you need to fetch similar data fields from different tables. A good example of this may be the case when you to gather information about project related transactions as they can be of different types, like, expenses, fees, items, etc. 
+Say, we need to render some report collecting all these different types of transaction that can be posted against a given project and group them by a given financial dimension value in Project group. Let's see how Union query can help us.
+In order to better understand the goal, you can take a look to the standard form ProjInvoiceJournal which perfectly explains how all these table relate to each other. 
+
+Most of them contain the same set of fields, and we simply need to get some of them into one view to populate by the report data provider.
+So, at the first step, let's create all necessary queries for the source Project transaction related tables. Pick up the first and create a simple query as depicted. 
+
+
+
+Then create a view based on this query. 
+
+Then pick up the next and do the same.
+
+
+Complete these two steps for all necessary transaction types.
+Now you can create a Union query and add all your views together as they have the same set of fields.
+
+
+If you need to distinguish them later who is who, say, in computed column methods, you can use  unionAllBranchId field, but this is out of the current focus.
+
+Finally you can elaborate it by adding a new view based on the latter with a simple SUM aggregation for Amount field.
+
+
+Basically, you achieve your goal with no coding.
+I am not going into details about the whole project, which you can get by this URL https://github.com/wojzeh/tmxProjectSalesPerSegment. Ping me, if you have any questions.
+
+
+Related topics: 
+Computed column for union values from multiple outer joined data sources in view]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MSDW Podcast: The Microsoft Dynamics channel's uncertain economic outlook]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:81e6ff63-bd24-40df-afcb-73f2bacf3d7c</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-the-microsoft-dynamics-channel-s-uncertain-economic-outlook"/>
@@ -5926,6 +6080,23 @@ The post Configure your workspace of choice as startup page – technical appear
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[D365FO: SysMultiTableLookup - dynamic lookups based on multiple tables]]></title>
+        <id>https://alexvoy.blogspot.com/2022/06/d365fo-sysmultitablelookup-dynamic.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/06/d365fo-sysmultitablelookup-dynamic.html"/>
+        <updated>2022-06-19T18:24:00.003Z</updated>
+        <summary type="html"><![CDATA[Yes, guys, sometimes they come back! 
+Fourteen years ago Vania Kashperuk created a class which became classics: SysMultiTableLookup. It made possible to create lookups based on multiple tables. Some people are still looking for it in vain among the standard classes. So I decided to create a new version of it for D365FO.
+It combines supporting for both lookup and lookupReference methods: performFormLookup and performFormReferenceLookup.
+Vania added a tutorial form to his class, so did I. There is a form in the project, which shows how unbounded form controls can be looked up with fields and display methods from joined tables as well as the case with aggregation and a CustTable data source to demonstrate a lookup for a reference group.
+
+
+
+Take note that I did not implement resolving and have…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Default location of VS Projects ,instead of repos folder : D365FO]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2244</id>
         <link href="https://anithasantosh.wordpress.com/2022/06/18/default-location-of-vs-projects-instead-of-repos-folder-d365fo/"/>
@@ -6002,6 +6173,47 @@ management... Read the full text.]]></summary>
         <summary type="html"><![CDATA[Wrap for Power Apps integrates low-code enterprise apps with Power Apps mobile technology to produce secure enterprise mobile apps with rich native mobile experiences and seamless end-to-end branding suitable for customer-facing frontline worker scenarios.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to write to an event log from inside of a transaction]]></title>
+        <id>https://alexvoy.blogspot.com/2022/06/how-to-write-to-event-log-from-inside.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/06/how-to-write-to-event-log-from-inside.html"/>
+        <updated>2022-06-11T16:10:00.005Z</updated>
+        <summary type="html"><![CDATA[// to write your log from inside of another transaction
+	static public void insertExtEventLogInSeparateConnection(RefRecId _lineRecId, str _guid, str _logSource, str _logStr)
+    {
+        ExtEventLog         log;
+        UserConnection      connection;
+        int                 ttsLevel    = appl.ttsLevel(); //here you can check if you are inside of a transaction
+        str                 errMsg      = strFmt("Cannot add event log '%1:%2:%3'", _guid, _logSource, _logStr);
+		// let's create a separate connection
+        try
+        {
+            connection = new UserConnection();
+            connection.ttsbegin();
+            log.setConnection(connection);
+            log.InstructionDocLineRecId = _lineRecId;
+            log.TaskGUID                = _guid;
+            log.LogStr                  = _logStr;
+            log.LogSource               = _logSource;
+            log.doInsert();
+            connection.ttscommit();
+        }
+        catch
+        {
+            throw error(errMsg);
+        }
+        finally
+        {
+            if(connection)
+            {
+                connection.finalize();
+            }
+        }
+    }]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
@@ -6708,6 +6920,22 @@ The post Create A D365 Development Environment appeared first on Dynamics 365 Mu
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to move AX2012 attachment files to SharePoint while upgrading database to D365FO]]></title>
+        <id>https://alexvoy.blogspot.com/2022/05/how-to-move-ax2012-attachment-files-to.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/05/how-to-move-ax2012-attachment-files-to.html"/>
+        <updated>2022-05-08T21:35:00.005Z</updated>
+        <summary type="html"><![CDATA[Problem
+When it comes to upgrading attachments from AX2012 to D365FO, only URLs, notes, and files saved in the former's database may be transferred to the Azure Blob Storage (on-cloud). 
+Therefore, all files from attachments in AX2012 should be moved to the database first in order to be successfully migrated to D365FO.
+What if there are millions of them? Technically speaking it might be a good option to save them on SharePoint (on-cloud); however, unfortunately, such attachments links will be deleted, too.
+You can find more detail on Document management in D365FO in https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/organization-administration/configure-document-management
+Technical details
+During the Ax2012-D365FO database upgrade process, among other standard classes ('scr…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Credit Management Blocking Rules Sequencing]]></title>
         <id>https://www.d365fandom.com/2022/05/credit-management-blocking-rules.html</id>
         <link href="https://www.d365fandom.com/2022/05/credit-management-blocking-rules.html"/>
@@ -7043,6 +7271,32 @@ The post How To Insert Data In D365 appeared first on Dynamics 365 Musings.]]></
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Multiple company selection in an SSRS report (LedgerLegalEntityLookup)]]></title>
+        <id>https://alexvoy.blogspot.com/2022/04/multiple-company-selection-in-ssrs.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/04/multiple-company-selection-in-ssrs.html"/>
+        <updated>2022-04-10T01:22:00.008Z</updated>
+        <summary type="html"><![CDATA[If you need to provide an SSRS report with a multiple company selection, you can opt for a cross-company query. In this case, such an option will be maintained by the system automatically. (You can try this [SrsReportQuery(queryStr(LogisticsEntityLocationUnion))])
+But what if you need to do that without the former? In this case you'll need to use LedgerLegalEntityLookup class as follows. Say we deal with some mgcSalesBySegment report, which is meant to return some data for a given selection of legal entities.
+the whole project, which you can get by this URL https://github.com/wojzeh/tmxProjectSalesPerSegment. Ping me, if you have any questions.
+
+
+
+I hid some not relevant code; so that you can get the gist.
+Data contract mgcSalesBySegmentContract: we keep the user selection of companies as …]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AX World Elephants :)]]></title>
+        <id>https://alexvoy.blogspot.com/2022/04/ax-world-elephants.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/04/ax-world-elephants.html"/>
+        <updated>2022-04-08T15:30:00.004Z</updated>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Expense Reports -Mileage calculation improvements when using mileage rate tiers]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ed084e5f-e938-4adc-8a61-216ceb2be8a9</id>
         <link href="https://community.dynamics.com/ax/b/axinthefield/posts/expense-reports--mileage-calculation-improvements-when-using-mileage-rate-tiers"/>
@@ -7107,6 +7361,62 @@ Developing in VS with Git is easy but I wanted to call out a few changes. First,
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to resolve reference with a form control value]]></title>
+        <id>https://alexvoy.blogspot.com/2022/04/how-to-resolve-reference-with-form.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/04/how-to-resolve-reference-with-form.html"/>
+        <updated>2022-04-04T23:08:00.003Z</updated>
+        <summary type="html"><![CDATA[If you need not just to maintain lookup for a refence group but also to validate a manually input value, you need to implement resolveReference method for the field of the form data source. Say, we want to validate a custom financial dimension value.
+
+
+
+
+
+
+
+You can check resolveReference* methods in EcoResCategory table as a good example.
+
+
+The most interesting detail for me is the way how the related form control value is found inside of the given reference group.
+
+
+
+            /// <summary>
+            /// Resolve reference
+            /// </summary>
+            /// <param name = "_formReferenceControl"></param>
+            /// <returns></returns>
+            public Common resolveReference(FormReferenceControl _formReferenceControl)
+            {
+                Common ret;
+            
+                ret = EOGAssignedBankAccountDimension.dimensionResolveReference(_formReferenceControl);
+            
+                return ret;
+            }
+
+
+
+    public Common dimensionResolveReference(FormReferenceControl _formReferenceControl)
+    {
+        DimensionAttribute                          dimensionAttribute;
+        DimensionAttributeDirCategory               dimAttributeDirCategory;
+        DimensionFinancialTag                       dimensionFinancialTag;
+        EOGFinancialDimensionValueFinancialTagView  view;
+        EOGAssignedBankAccountDimension             eogAssignedBankAccountDimension;
+        DimensionDisplayValue                       dimensionDisplayValue;
+        if (!_formReferenceControl || _formReferenceControl.handle() != classNum(FormReferenceGroupControl) )
+        {
+            throw(error(strFmt("@SYS137393", Error::wrongUseOfFunction(funcName())) ));
+        }
+        dimensionDisplayValue = _formReferenceControl.filterValue(AbsoluteFieldBinding::construct(fieldStr(DimensionFinancialTag, Value), tableStr(DimensionFinancialTag))).value();
+        dimensionDisplayValue = strLRTrim(dimensionDisplayValue);
+        
+        <..  implement your logic with the display value ...>]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How To Use The D365 Table Browser]]></title>
         <id>https://dynamics365musings.com/?p=1817</id>
         <link href="https://dynamics365musings.com/d365-table-browser/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-table-browser"/>
@@ -7136,6 +7446,25 @@ The post How To Use The D365 Table Browser appeared first on Dynamics 365 Musing
 Unlike TFVC, branches in Git are typically short lived when it comes to development. In TFVC you may have a branch for each developer or a branch for development in general, another for test then a release branch. In Git, we will be using branches differently. We'll get a change request as a work item in DevOps, review it, create a branch, assign to a developer to do the work plus commit it, optional build automation may occur, next a pull request, or PR, with a review and then the changes are accepted into the parent branch. We'll walk through this in specific details. In this example, we'll be using a bug but you can replace "bug" with "Feature", "Product Backlog Item", "Change Request", "Customization", "Enhancement", or any other word …]]></summary>
         <author>
             <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to change currency symbol in a given number format]]></title>
+        <id>https://alexvoy.blogspot.com/2022/04/how-to-change-currency-symbol-in-given.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/04/how-to-change-currency-symbol-in-given.html"/>
+        <updated>2022-04-03T20:25:00.006Z</updated>
+        <summary type="html"><![CDATA[Say, we need to print a Vendor payment advice in the vendor's language, whic is es (Spanish) in the example below. Once the report parameter AX_RenderingCulture is set to 'es', all related number formatting will be applied to amounts cells. 
+However, the payment may be made in different currencies; thus its currency symbol $ must be used instead of Euro.
+
+
+
+
+Basically, such parameters, like currency symbol etc, can be changed through System.Globalization.CultureInfo class created for the rendering culture. I did not find a way how to achieve it for a particular textbox in SSRS design. So, I formatted the amount directly in X++.
+
+
+I used Global::strFmtByLanguage method as a basis for my method to replace the culture number format currency symbol to a given one. There are a few other interes…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
@@ -7531,6 +7860,25 @@ Dynamics 365... Read the full text.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lookup, JumpRef, Modified for a form data source field through CoC]]></title>
+        <id>https://alexvoy.blogspot.com/2022/03/lookup-jumpref-modified-for-form-data.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/03/lookup-jumpref-modified-for-form-data.html"/>
+        <updated>2022-03-17T13:18:00.003Z</updated>
+        <summary type="html"><![CDATA[As Ievgen Miroshnikov explained in his old article https://community.dynamics.com/365/financeandoperations/b/ievgensaxblog/posts/d365foe-how-to-override-form-data-source-field-lookup-method, it is much better to override methods directly on a data source field than on its linked form controls.
+I just want to re-iterate it and place here code snippets.
+
+
+
+User can add new control using form personalization and this control won’t support overridden logic. It could be critical if you are restricting field lookup values or adding validations.
+One form could have several controls that refers to one data source field so you have to duplicate your code.
+Number of delegates are limited as well.
+
+So, say we need to implement Lookup, JumpRef, and Modified methods for a custom field on CustInvoiceTab…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Credit Management Release to Warehouse Credit Hold Loop]]></title>
         <id>https://www.d365fandom.com/2022/03/credit-management-release-to-warehouse.html</id>
         <link href="https://www.d365fandom.com/2022/03/credit-management-release-to-warehouse.html"/>
@@ -7713,6 +8061,23 @@ either based in Ukraine or with offices... Read the full text.]]></summary>
         <summary type="html"><![CDATA[Pay-as-you-go for Power Apps is a new way to pay for Power Apps using an Azure subscription. Pay-as-you-go allows you to share a Power Apps app with any user in your organization and then only pay if and when they use that app.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to populate custom fields in GeneralJournalAccountEntry from LedgerJournalTrans for Ledger, Customer, Vendor, and Bank account type]]></title>
+        <id>https://alexvoy.blogspot.com/2022/03/how-to-populate-custom-fields-in.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/03/how-to-populate-custom-fields-in.html"/>
+        <updated>2022-03-07T17:46:00.005Z</updated>
+        <summary type="html"><![CDATA[Say, we need to add a new field EOGUniqueId to LedgerJournalTrans and then have it populated in GeneralJournalAccountEntry, once a General journal posted.
+
+
+
+In other words the field value must be transferred from a general journal line to a related voucher transaction.
+
+Generally speaking there are two different ways how GL transactions created in D365FO: via Source document framework and via LedgerVoucherObject. Moreover, one transaction may be a result of summarization of multiple documents. So, this approach works for this particular scenario, when GL transactions come from a general journal. The proposed solution covers Ledger, Customer, Vendor, and Bank types. You can elaborate it for Project, Fixed Asset, etc. Check their appropriate classes.
+LedgerJournalCheckPost class creates one…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
@@ -8102,6 +8467,47 @@ The post How To Write A While Select Statement appeared first on Dynamics 365 Mu
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Additional parameters in RunBaseBatch class extension]]></title>
+        <id>https://alexvoy.blogspot.com/2022/02/additional-parameters-in-runbasebatch.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/02/additional-parameters-in-runbasebatch.html"/>
+        <updated>2022-02-11T16:49:00.002Z</updated>
+        <summary type="html"><![CDATA[Old good pack/unpack patterns with SysPackExtension call. Say, we need to augment RunBaseBatch based class <ClassName>.
+
+
+
+
+/// <summary>
+/// We are going to use a new additional parameter
+/// </summary>
+[ExtensionOf(classStr(<ClassName>))]
+public final class My<ClassName>_Extension
+{
+    private boolean     myNewParm;   
+    #define.CurrentVersion(1)
+    #localmacro.CurrentList
+        myNewParm
+    #endmacro
+    
+    /// <summary>
+    /// myNewParm access
+    /// </summary>
+    /// <param name = "_parm">boolean</param>
+    /// <returns>boolean</returns>
+    public boolean parmMyNewParm(boolean _parm = myNewParm)
+    {
+        myNewParm= _parm;
+        return myNewParm;
+    }
+    /// <summary>
+    /// Extends Pack
+    /// </summary>
+    /// <returns>container</returns>
+    public containe…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[D365FO Business Event with Https Endpoint]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2089</id>
         <link href="https://anithasantosh.wordpress.com/2022/02/11/d365fo-business-event-with-https-endpoint/"/>
@@ -8135,6 +8541,37 @@ about this and help you deploy a real Modern Data warehouse with all kind
 of Business Apps data you have ! Let’s jump in !]]></summary>
         <author>
             <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overload a method for a new button in Form extension]]></title>
+        <id>https://alexvoy.blogspot.com/2022/02/overload-method-for-new-button-in-form.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/02/overload-method-for-new-button-in-form.html"/>
+        <updated>2022-02-10T15:25:00.006Z</updated>
+        <summary type="html"><![CDATA[This can be used as a copy-paste pattern, when you need to change a standard method for new form controls added as a form extensions.
+At the form initialization step we can overload any form control methods with registerOverrideMethod.
+
+[ExtensionOf(formStr(<FormName>))]
+public final class my<FormName>_MyNewButton_Extension
+{   public void init()
+    {
+        next init();
+		// MyNewButton button added in an extension to <FormName>
+        FormButtonControl myButton = this.design().controlName(formControlStr(<FormName>, myNewButton));
+		// Here we can overload its standard clicked() method in run-time		
+        myButton.registerOverrideMethod(methodStr(FormButtonControl, clicked), formMethodStr(<FormName>, myNewButtonClicked), this);
+    }
+    public void myNewButtonClicked(FormButtonControl _sender)
+    {
+		<run some logic>
+        _sender.clicked();
+    }
+}
+
+
+Check this article for more complicated scenario https://alexvoy.blogspot.com/2018/09/lookup-and-modified-methods-for.html]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
@@ -8216,6 +8653,37 @@ comment for your suggestion .]]></summary>
         <summary type="html"><![CDATA[Transfer orders between warehouses is a common practice for businesses with multi-site and multi-warehouse operations for replenishing and sharing inventory. Transfer orders work by issuing product from a physical warehouse]]></summary>
         <author>
             <name>Tim Woods</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to validate filename with regular expressions]]></title>
+        <id>https://alexvoy.blogspot.com/2022/02/how-to-validate-filename-with-regular.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/02/how-to-validate-filename-with-regular.html"/>
+        <updated>2022-02-08T23:59:00.003Z</updated>
+        <summary type="html"><![CDATA[I took the idea from this forum https://stackoverflow.com/questions/62771/how-do-i-check-if-a-given-string-is-a-legal-valid-file-name-under-windows
+We can use regular expressions to check if a given file name is valid.
+
+
+
+    /// <summary>
+    /// Validates a filename for incorrect characters
+    /// </summary>
+    /// <param name = "_fileName"></param>
+    /// <returns></returns>
+    public boolean checkFileName(Filename _fileName)
+    {
+        var bad = System.IO.Path::GetInvalidFileNameChars();
+        var esc = System.Text.RegularExpressions.Regex::Escape(new System.String(bad));
+        var exp = new System.Text.RegularExpressions.Regex("[" + esc + "]");
+        
+        if (exp.IsMatch(_fileName))
+        {
+            return checkFailed(strFmt("@SYS339524")); // The specified filename is invalid.
+        }
+        return true;
+    }]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
@@ -8452,6 +8920,18 @@ in various other roles related to Dynamics... Read the full text.]]></summary>
         <summary type="html"><![CDATA[If you are working with Microsoft dynamics 365 commerce you first have to initialize commerce scale unit.  You can perform this initialization only in tier 2 environments and with either the Project Owner or Environment manager role. While initializing   retail commerce scale unit (RCSU) you might face below issue on LCS where the error says […]]]></summary>
         <author>
             <name>Sukrut Parab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Up and Down lines form example]]></title>
+        <id>https://alexvoy.blogspot.com/2022/01/up-and-down-lines-form-example.html</id>
+        <link href="https://alexvoy.blogspot.com/2022/01/up-and-down-lines-form-example.html"/>
+        <updated>2022-01-27T00:28:00.000Z</updated>
+        <summary type="html"><![CDATA[It's useful to have existing forms and classes for common tasks to duplicate and customized them. 
+There is a good example of such a form with Up and Down buttons for the grid lines in standard D365.
+Check it by its display menu item ElectronicMessageProcessing]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
@@ -9624,6 +10104,30 @@ ariste.info New features for Dynamics 365 in 2021: my year-in-review]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PowerShell and SQL scripts for Database Refreshing in a Devbox]]></title>
+        <id>https://alexvoy.blogspot.com/2021/12/powershell-and-sql-scripts-for-database.html</id>
+        <link href="https://alexvoy.blogspot.com/2021/12/powershell-and-sql-scripts-for-database.html"/>
+        <updated>2021-12-14T16:29:00.008Z</updated>
+        <summary type="html"><![CDATA[Say you created a new database AxDB_TEST2 and restored a test environment backup there.
+Now you need to change the databases names so that D365FO would target a restored data.
+First, you need to stop D365FO services, for example, with a similar PowerShell script.
+
+
+function StopD365RelevantService()
+{    $services = "DynamicsAxBatch","Microsoft.Dynamics.AX.Framework.Tools.DMF.SSISHelperService.exe","MR2012ProcessService","LCSDiagnosticClientService"
+    foreach ($item in $services)
+    {
+      Set-Service -Name $item -StartupType Disabled  
+    }
+    Stop-Service -Name Microsoft.Dynamics.AX.Framework.Tools.DMF.SSISHelperService.exe -ErrorAction SilentlyContinue
+    Stop-Service -Name DynamicsAxBatch -ErrorAction SilentlyContinue
+    Stop-Service -Name W3SVC -ErrorAction SilentlyContinue
+  …]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Change Security In D365]]></title>
         <id>https://dynamics365musings.com/?p=1543</id>
         <link href="https://dynamics365musings.com/change-security-in-d365/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=change-security-in-d365"/>
@@ -9642,6 +10146,69 @@ The post Change Security In D365 appeared first on Dynamics 365 Musings.]]></sum
         <summary type="html"><![CDATA[Today I'm going to do a quick introduction to the three different budget modules that are available for general-ledger level budgeting. After reading this post, you'll have a basic understandi...(read more)]]></summary>
         <author>
             <name>Ryan Sandness MSFT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple enum values selection in forms and tables]]></title>
+        <id>https://alexvoy.blogspot.com/2021/12/multiple-enum-values-selection-in-forms.html</id>
+        <link href="https://alexvoy.blogspot.com/2021/12/multiple-enum-values-selection-in-forms.html"/>
+        <updated>2021-12-11T19:15:00.002Z</updated>
+        <summary type="html"><![CDATA[Previously I posted three supporting functions to work with multiple enum values selection. Now, let's see how they can be used in real scenarios.
+With these functions you can easily expose enum values in selection lists and then save the user selection in tables.
+
+
+Enum lists in a form
+
+
+Check first how to show two grids in a form; so that the user could move enum values from one to another.
+
+
+
+
+
+
+[Form]
+public class SysPolicyTypesOneCompanyActiveOnly extends FormRun
+{
+    private Map                 policyTypes = wzhTest::createMapForEnum(enumStr(SysPolicyTypeEnum));
+    private SysPolicyTypeEnum   type;
+     private void resetSysPolicyTypeListPanel()
+    {
+        SysPolicyTypeAvailableGrid.deleteRows(0, SysPolicyTypeAvailableGrid.rows());
+        SysPolicyTypeEnabledGrid.deleteRows(0, …]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supporting functions to work with multiple selection of Enum values]]></title>
+        <id>https://alexvoy.blogspot.com/2021/12/supporting-functions-to-work-with.html</id>
+        <link href="https://alexvoy.blogspot.com/2021/12/supporting-functions-to-work-with.html"/>
+        <updated>2021-12-11T18:55:00.005Z</updated>
+        <summary type="html"><![CDATA[There a couple of custom static methods you can use to facilitate your job with Enum values in tables and forms.
+
+
+class wzhTest
+{    public const str contSeparator = ';';
+    /// <summary>
+    /// Populates a map for all enum's values
+    /// </summary>
+    /// <param name = "_enumName">Enum name</param>
+    /// <returns>Map object</returns>
+    public static Map createMapForEnum(EnumName _enumName)
+    {
+        Map             map          = new Map(Types::Enum, Types::String);
+        DictEnum        dictEnum = new DictEnum(enumName2Id(_enumName));
+        for(int i = 0; i < dictEnum.values(); i++)
+        {
+            map.insert(dictEnum.index2Value(i), dictEnum.index2Symbol(i));
+        }
+        return map;
+    }
+    /// <summary>
+    /// Creates a container with enum values from a…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
@@ -11278,6 +11845,28 @@ ariste.info Restore a data package with Azure DevOps Pipelines]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DMF import records for multiple companies]]></title>
+        <id>https://alexvoy.blogspot.com/2021/08/dmf-import-records-for-multiple.html</id>
+        <link href="https://alexvoy.blogspot.com/2021/08/dmf-import-records-for-multiple.html"/>
+        <updated>2021-08-27T18:45:00.006Z</updated>
+        <summary type="html"><![CDATA[Say, we need to import Bank reconciliation records from an Excel file for many target companies at once.
+The standard DMF approach does not allow to do so via DMF data entities out of the box.
+However, we can easily customize Data Entity copyCustomStagingToTarget method to loop through all companies encountered in an imported file lines.
+  
+
+/// <summary>
+    /// Performs a custom copy from the staging table to the target environment.
+    /// </summary>
+    /// <param name = "_dmfDefinitionGroupExecution">The definition group.</param>
+    /// <returns>A container of counts of [new records, updated records].</returns>
+    /// <remarks>
+    /// When doing set-based inserts, the full defaulting logic from LedgerJournalTrans is not
+    /// run. In order to get full defaulting, row-by-row proce…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[D365 – Building a business value review]]></title>
         <id>http://kurthatlevik.com/?p=4245</id>
         <link href="https://kurthatlevik.com/2021/08/23/d365-building-a-business-value-review/"/>
@@ -11315,6 +11904,16 @@ ariste.info Restore a data package with Azure DevOps Pipelines]]></summary>
         <summary type="html"><![CDATA[The blog post describes a sample approach to implement recurring file-based integration in D365FO using X++ and DMF]]></summary>
         <author>
             <name>Gatsby RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If cloud-hosted deployment is stuck at preparation]]></title>
+        <id>https://alexvoy.blogspot.com/2021/08/if-cloud-hosted-deployment-is-stuck-at.html</id>
+        <link href="https://alexvoy.blogspot.com/2021/08/if-cloud-hosted-deployment-is-stuck-at.html"/>
+        <updated>2021-08-09T23:09:00.003Z</updated>
+        <summary type="html"><![CDATA[If you see that your deployment process to a cloud-hosted environment hangs up at Preparation step with no failed steps and empty logs; it may be required to rotate the secrets.]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
@@ -11647,6 +12246,36 @@ https://community.dynamics.com/ax/f/microsoft-dynamics-ax-forum/194803/run-ssrs-
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Setup Business Event Endpoint with MuleSoft]]></title>
+        <id>https://alexvoy.blogspot.com/2021/07/setup-business-event-endpoint-with.html</id>
+        <link href="https://alexvoy.blogspot.com/2021/07/setup-business-event-endpoint-with.html"/>
+        <updated>2021-07-13T14:08:00.009Z</updated>
+        <summary type="html"><![CDATA[When it comes to setting up a Business Event BE endpoint: D365FO just sends a basic data contract (“payload”) via POST method.
+So, in fact we can use Microsoft Power Automate endpoint type to interact with your eventual MuleSoft  HTTP listener.
+
+A simple app (a flow) in MuleSoft Design Center consisting of two steps: HTTP listener and Logger.
+
+
+
+
+
+This basic BE data contract info to add a new type:
+{"TestField":"","BusinessEventId":"","ControlNumber":0,"EventId":"","EventTime":"/Date(-2208988800000)/","MajorVersion":0,"MinorVersion":0}
+
+
+
+
+
+
+For you particular case you can use pre-generated scheme for your new Business Event.
+
+
+After that you can add other steps to your MuleSoft app.]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SysOperationFramework - hide the batch tab]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d1fa18da-82ac-4d20-8e43-cc583631b29e</id>
         <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/sysoperationframework---hide-the-batch-tab"/>
@@ -11661,6 +12290,27 @@ controller.showBatchTab(false);
 This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
         <author>
             <name>Dominic Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some ISV/Custom labels not resolved when migrated from AX 2012 to D365FO]]></title>
+        <id>https://alexvoy.blogspot.com/2021/07/isvcustom-label-files-when-migrated.html</id>
+        <link href="https://alexvoy.blogspot.com/2021/07/isvcustom-label-files-when-migrated.html"/>
+        <updated>2021-07-02T14:30:00.003Z</updated>
+        <summary type="html"><![CDATA[After migration from AX 2012 to D365FO I noticed a strange thing with one ISV module labels.
+Some of them are perfectly resolved by their old notation with @ in the reference; but none in a new style.
+
+
+As suggested by Muthusamy V in this old thread https://community.dynamics.com/365/financeandoperations/f/dynamics-365-for-finance-and-operations-forum/312828/label-issues-in-sdp-deployment?pifragment-109037=2#responses
+
+and explained by one of my colleagues, I simply need to delete these files from K:\AosService\PackagesLocalDirectory\ApplicationSuite\ folder. (All D365FO service must be stopped)
+
+
+
+
+Then it works well.]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
@@ -11734,6 +12384,16 @@ In this blog post I will look at...
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Where to find Azure Virtual Machine RDP port]]></title>
+        <id>https://alexvoy.blogspot.com/2021/06/where-to-find-azure-virtual-machine-rdp.html</id>
+        <link href="https://alexvoy.blogspot.com/2021/06/where-to-find-azure-virtual-machine-rdp.html"/>
+        <updated>2021-06-23T22:48:00.002Z</updated>
+        <summary type="html"><![CDATA[Here you go]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[create transfer order from sales line in Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bec83803-4706-4c3e-8458-f05ff0206748</id>
         <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/create-transfer-order-from-sales-line-in-microsoft-dynamics-365-finance-and-operations"/>
@@ -11784,6 +12444,42 @@ A property for a journal batch number has more than one value. Update the journa
 ']]></summary>
         <author>
             <name>Rahul Mohta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TF command line to fix the error: Mapping on the working folder is already in use]]></title>
+        <id>https://alexvoy.blogspot.com/2021/06/tf-command-line-to-fix-error-mapping-on.html</id>
+        <link href="https://alexvoy.blogspot.com/2021/06/tf-command-line-to-fix-error-mapping-on.html"/>
+        <updated>2021-06-21T23:25:00.006Z</updated>
+        <summary type="html"><![CDATA[Just to document my command line to get rid of this blocking error.
+
+
+
+
+My environment is under Azure DevOps version control and some other user already created a workspace on this computer.
+
+
+Close Visual Studio (2017 in my case) and open the command line. It can be open via Developer Command Prompt for VS 2017; so you would not need to provide the entire path to tf.exe.
+
+
+
+
+Next, run a tf command to delete the workspace created by the previous user (Name and Surname)
+
+
+tf workspace /delete DEV365-FO-VM-3;"Name Surname" /collection:https://YOURCOMPANYPROJECT.visualstudio.com
+
+
+
+
+
+
+Then stop all locally running D365FO services, like Web Publishing, Batch processing, etc, in order to avoid errors with locked files in your K:\AosService\PackagesLocalDirectory subfolders.
+
+
+Now you can open Visual Studio, connect to Azure DevOps server, create a new workspace, map your folders for projects and metadata, and get latest.]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
@@ -12846,38 +13542,6 @@ AX 2012 was great for using these filtering techniques.
 When I started in D365FO, I was very confused and overwhelmed by the filtering options. Why couldn't I just type in my special syntax and get to what I needed? If I typed in a comma, it was looking for a comma in the customer's name. If I typed in an exclamation point, it wouldn't…]]></summary>
         <author>
             <name>D365FandO(m)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retail Task management – make it easy]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:86e30eaf-8895-4009-86f1-2c6df7acbdb3</id>
-        <link href="https://community.dynamics.com/ax/b/moredatamoresuccess/posts/retail-task-management-make-it-easy"/>
-        <updated>2021-01-21T07:17:41.000Z</updated>
-        <summary type="html"><![CDATA[Mittwoch, 20. Januar 2021
-As I was asked within my network “How can we organize, distribute and manage tasks to all stores or only to some selected stores?”, I remembered the new feature “Task management...
-(read more)]]></summary>
-        <author>
-            <name>andreasraithel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365FO Performance. Periodic import of one million ledger journal lines]]></title>
-        <id>https://denistrunin.com/xpptools-fileintegledgerperf/</id>
-        <link href="https://denistrunin.com/xpptools-fileintegledgerperf/"/>
-        <updated>2021-01-20T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The blog post describes some steps for performance testing for file-based integration in D365FO using X++]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Security management in D365FinOps]]></title>
-        <id>http://adalhix.wordpress.com/?p=514</id>
-        <link href="https://dynvision365.com/2021/01/20/data-security-management-in-d365finops/"/>
-        <updated>2021-01-20T14:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Unlike AX2012, one of the major Dynamics 365 FinOps architecture differents, is the D365 application and development environment separation, which means that we will have a different approach to manipulate the created objects during runtime which resides on the environment but will not exist in the AOT. Security data are concerned as well. Security is … Lire la suite Data Security management in D365FinOps →]]></summary>
-        <author>
-            <name>adalhix</name>
         </author>
     </entry>
 </feed>
