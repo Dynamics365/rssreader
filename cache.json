@@ -6,6 +6,16 @@
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
         {
+          "id": "https://nuxulu.com/2023-01-20-microsoft-dynamics-365-ecosystem-map/",
+          "author": "Vadim",
+          "description": "ERP SOLUTIONS\n\">\n        \n    ERP SOLUTIONS\n    \nERP SOLUTIONS SERVICES\n\">\n        \n    ERP SOLUTIONS SERVICES\n    \nCRM-SOLUTIONS\n\">\n        \n    CRM-SOLUTIONS\n    \nAI-SOLUTIONS\n\">\n        \n    AI-SOLUTIONS\n    \nCOLLABORATION-SOLUTIONS\n\">\n        \n    COLLABORATION-SOLUTIONS\n    \nPOWER PLATFORM.png\n\">\n        \n    POWER PLATFORM",
+          "link": "https://nuxulu.com/2023-01-20-microsoft-dynamics-365-ecosystem-map/",
+          "publishedOn": "2023-01-20T00:00:00.000Z",
+          "wordCount": 99,
+          "title": "Microsoft Dynamics 365 Ecosystem map",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2023-01-01-metadata-search-in-visual-studio/",
           "author": "Max Nguyen",
           "description": "Metadata search in Visual Studio\nThis article describes how to use metadata search to search your code and metadata for arbitrary patterns and content.\nGiven the large volume of the code base and metadata, it is often necessary to find things in the code that meet a certain criteria. For example, you might not know the name of the metadata element that contains the pattern or meets the criteria. Metadata search is exposed in Visual Studio through two user interfaces: the Metadata Search tool window and the Navigate To window.\nMetadata search tool window\nYou can access the Metadata search tool window from the Dynamics 365 > Metadata Search menu command. Enter your search query to start the search. Results will start populating in the window asynchronously as you type. You can double-click a…",
@@ -4973,6 +4983,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "http://paragchapre.com/?p=2568",
+          "author": "Parag Chapre",
+          "description": "In today’s article, we will see how to export data to excel in PowerApps portal. Go to Dynamics 365 and open portal management. Go to your web pages Click on webpage and go to General tab. If you have already list available, then click on it otherwise select the list from the dropdown. Go to... Continue Reading →",
+          "link": "https://paragchapre.com/2023/01/21/add-export-to-excel-option-in-portal/",
+          "publishedOn": "2023-01-21T03:05:48.000Z",
+          "wordCount": 3881,
+          "title": "Add Export to excel option in Portal",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/01/add-export-to-excel.jpg?w=1200"
+        },
         {
           "id": "http://paragchapre.com/?p=2537",
           "author": "Parag Chapre",
@@ -9942,16 +9962,6 @@
           "wordCount": 2490,
           "title": "Set up Collections Agents and Customer Pools",
           "imageUrl": "https://1.bp.blogspot.com/-oQm-kRh-xJc/X-jh9o8Xx1I/AAAAAAAABSQ/MbXBAuk0AcMgh_OcWEn6aEgSnQmv_R-DQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-12-27_14-32-30.png"
-        },
-        {
-          "id": "https://www.d365fandom.com/2021/01/using-old-ax-filtering-techniques-d365fo.html",
-          "author": null,
-          "description": "When I worked daily in AX 2012, filtering became my best friend. I appreciated the \"Ctrl + g\" grid filtering header that opened on all of my forms and allowed me to search my data by using all of the great filter and query options listed in the article below:\nhttps://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/advanced-filtering-and-query-options\nLooking for a Customer that starts with G, ends with V, and is not Gustav? Sure thing!\n\n\nG**V, !Gustav\nAX 2012 was great for using these filtering techniques.\nWhen I started in D365FO, I was very confused and overwhelmed by the filtering options. Why couldn't I just type in my special syntax and get to what I needed? If I typed in a comma, it was looking for a comma in the customer's name. If I typed in an exclamation point, it wouldn't…",
-          "link": "https://www.d365fandom.com/2021/01/using-old-ax-filtering-techniques-d365fo.html",
-          "publishedOn": "2021-01-21T19:00:00.001Z",
-          "wordCount": 2351,
-          "title": "Using \"Old\" AX filtering techniques in D365FO",
-          "imageUrl": "https://1.bp.blogspot.com/-vkIBUT4wK50/X0xN2sc5mrI/AAAAAAAABH8/UcIX6XBWcFcH6yyXYxKQgdgZt7e820ShACLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-08-30_21-08-45.png"
         }
       ]
     },

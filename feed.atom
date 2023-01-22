@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-21T01:22:41.894Z</updated>
+    <updated>2023-01-22T01:26:43.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Add Export to excel option in Portal]]></title>
+        <id>http://paragchapre.com/?p=2568</id>
+        <link href="https://paragchapre.com/2023/01/21/add-export-to-excel-option-in-portal/"/>
+        <updated>2023-01-21T03:05:48.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to export data to excel in PowerApps portal. Go to Dynamics 365 and open portal management. Go to your web pages Click on webpage and go to General tab. If you have already list available, then click on it otherwise select the list from the dropdown. Go to... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PowerApps portal with Dynamics 365 F&O – Part 3]]></title>
         <id>http://paragchapre.com/?p=2537</id>
@@ -34,6 +44,44 @@
         <summary type="html"><![CDATA[In today’s article, we will see what PowerApps portal is, when and why to use with Dynamics 365 Finance and operations. PowerApps portal was introduced by Microsoft in June 2019 to build low-code, responsive websites which allow external users to interact with the data stored in the Dataverse (Comman Data Service). PowerApps portal is a... Continue Reading →]]></summary>
         <author>
             <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Ecosystem map]]></title>
+        <id>https://nuxulu.com/2023-01-20-microsoft-dynamics-365-ecosystem-map/</id>
+        <link href="https://nuxulu.com/2023-01-20-microsoft-dynamics-365-ecosystem-map/"/>
+        <updated>2023-01-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ERP SOLUTIONS
+">
+        
+    ERP SOLUTIONS
+    
+ERP SOLUTIONS SERVICES
+">
+        
+    ERP SOLUTIONS SERVICES
+    
+CRM-SOLUTIONS
+">
+        
+    CRM-SOLUTIONS
+    
+AI-SOLUTIONS
+">
+        
+    AI-SOLUTIONS
+    
+COLLABORATION-SOLUTIONS
+">
+        
+    COLLABORATION-SOLUTIONS
+    
+POWER PLATFORM.png
+">
+        
+    POWER PLATFORM]]></summary>
+        <author>
+            <name>Vadim</name>
         </author>
     </entry>
     <entry>
@@ -13525,23 +13573,6 @@ In Dynamics 365 Finance there is a number of ways...
 (read more)]]></summary>
         <author>
             <name>andreasraithel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using "Old" AX filtering techniques in D365FO]]></title>
-        <id>https://www.d365fandom.com/2021/01/using-old-ax-filtering-techniques-d365fo.html</id>
-        <link href="https://www.d365fandom.com/2021/01/using-old-ax-filtering-techniques-d365fo.html"/>
-        <updated>2021-01-21T19:00:00.001Z</updated>
-        <summary type="html"><![CDATA[When I worked daily in AX 2012, filtering became my best friend. I appreciated the "Ctrl + g" grid filtering header that opened on all of my forms and allowed me to search my data by using all of the great filter and query options listed in the article below:
-https://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/advanced-filtering-and-query-options
-Looking for a Customer that starts with G, ends with V, and is not Gustav? Sure thing!
-
-
-G**V, !Gustav
-AX 2012 was great for using these filtering techniques.
-When I started in D365FO, I was very confused and overwhelmed by the filtering options. Why couldn't I just type in my special syntax and get to what I needed? If I typed in a comma, it was looking for a comma in the customer's name. If I typed in an exclamation point, it wouldn't…]]></summary>
-        <author>
-            <name>D365FandO(m)</name>
         </author>
     </entry>
 </feed>
