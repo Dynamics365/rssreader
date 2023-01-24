@@ -4984,6 +4984,26 @@
       "siteUrl": "https://paragchapre.com",
       "articles": [
         {
+          "id": "http://paragchapre.com/?p=2585",
+          "author": "Parag Chapre",
+          "description": "There might some cases when decimal places are already set up in Dynamics 365 F&O and you need to change directly in the portal without changing in D365 F&O. For example: SalesOrderedQty is already scale to 6 decimal places and used in many tables. You can’t change the decimal places. How can you change the... Continue Reading →",
+          "link": "https://paragchapre.com/2023/01/23/formatting-decimal-places-in-portal/",
+          "publishedOn": "2023-01-23T05:53:59.000Z",
+          "wordCount": 3889,
+          "title": "Formatting decimal places in Portal",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/01/format-decimal-places.jpg?w=1200"
+        },
+        {
+          "id": "http://paragchapre.com/?p=2610",
+          "author": "Parag Chapre",
+          "description": "When you are working with PowerApps portal list which has column with long name for example vendor requested delivery date then your column split in 2 or three rows, and it doesn’t look good. You can’t resize directly in the portal. How to increase column width in PowerApps portal First, go to Web Files and... Continue Reading →",
+          "link": "https://paragchapre.com/2023/01/23/increase-column-width-in-powerapps-portal/",
+          "publishedOn": "2023-01-23T05:52:11.000Z",
+          "wordCount": 3953,
+          "title": "Increase column width in PowerApps portal",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/01/increase-column-width.jpg?w=1200"
+        },
+        {
           "id": "http://paragchapre.com/?p=2568",
           "author": "Parag Chapre",
           "description": "In today’s article, we will see how to export data to excel in PowerApps portal. Go to Dynamics 365 and open portal management. Go to your web pages Click on webpage and go to General tab. If you have already list available, then click on it otherwise select the list from the dropdown. Go to... Continue Reading →",
@@ -8689,6 +8709,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-enterprise-low-code-application-platforms",
+          "author": null,
+          "description": "We are excited to see Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms for the fourth consecutive time. We believe this underscores our command in the market, materialized in amazing innovations built by more than 7.4 million monthly active developers of Microsoft Power Platform.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/",
+          "publishedOn": "2023-01-23T08:55:00.000Z",
+          "wordCount": 1998,
+          "title": "Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/01/Ofc17_Jackson_003.jpg"
+        },
         {
           "id": "easily-share-devices-between-multiple-frontline-workers-using-power-apps-shared-device-mode",
           "author": null,
