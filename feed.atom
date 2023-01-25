@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-24T01:23:58.164Z</updated>
+    <updated>2023-01-25T01:20:08.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP General Ledger Close]]></title>
+        <id>https://www.encorebusiness.com/?p=55908</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-gp-general-ledger-close/"/>
+        <updated>2023-01-24T19:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics GP General Ledger Close
+During this recorded webinar, we discuss the year-end General Ledger (GL) close in Dynamics GP. Closing the GL is usually done later in the first month of the new fiscal year. ﻿﻿﻿﻿﻿﻿﻿﻿ The intended audience for this video is Dynamics GP users – all product versions. Contact us if you have any questions about finding fields...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Don McNulty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interesting Issue With the SecurityUserRoleOrganization Data Entity in D365FO]]></title>
+        <id>https://alexdmeyer.com/?p=2567</id>
+        <link href="https://alexdmeyer.com/2023/01/24/interesting-issue-with-the-securityuserroleorganization-data-entity-in-d365fo/"/>
+        <updated>2023-01-24T16:29:13.000Z</updated>
+        <summary type="html"><![CDATA[Data entities within D365FO allow for external applications to interact with D365FO data. One data entity that I use both professionally and in my personal projects fairly regularly is SecurityUserRoleOrganization. This data entity is utilized to restrict a user role assignment to specific organizations within a D365FO environment. In most cases this is a legal […]
+The post Interesting Issue With the SecurityUserRoleOrganization Data Entity in D365FO appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerApps Portals & Power Pages]]></title>
+        <id>http://paragchapre.com/?p=2625</id>
+        <link href="https://paragchapre.com/2023/01/24/powerapps-portals-power-pages/"/>
+        <updated>2023-01-24T01:39:09.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will see the difference and similarities between PowerApps Portals and Power Pages. PowerApps Portals PowerApps Portals are an extension of PowerApps that enables both citizen developers and professional developers to build external facing-websites that allow users their organizations to sign in with a wide variety of identities, create and view data... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Dynamics 365 Customer Service?]]></title>
+        <id>https://www.encorebusiness.com/?p=47173</id>
+        <link href="https://www.encorebusiness.com/blog/what-is-dynamics-365-for-customer-service-crm/"/>
+        <updated>2023-01-23T12:13:56.000Z</updated>
+        <summary type="html"><![CDATA[What Is Dynamics 365 Customer Service?
+Microsoft Dynamics 365 Customer Service is a business application that empowers service teams to provide fast, consistent, high-quality customer service and gather insights about customer trends and interactions. As one of Microsoft’s Dynamics 365 applications, Customer Service integrates with the rest of the Dynamics 365 stack, but can also stand alone. This article will cover...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Jess Mooney</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms]]></title>
         <id>microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-enterprise-low-code-application-platforms</id>

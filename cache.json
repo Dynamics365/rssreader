@@ -1241,6 +1241,26 @@
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=55908",
+          "author": "Don McNulty",
+          "description": "Dynamics GP General Ledger Close\nDuring this recorded webinar, we discuss the year-end General Ledger (GL) close in Dynamics GP. Closing the GL is usually done later in the first month of the new fiscal year. ﻿﻿﻿﻿﻿﻿﻿﻿ The intended audience for this video is Dynamics GP users – all product versions. Contact us if you have any questions about finding fields...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-gp-general-ledger-close/",
+          "publishedOn": "2023-01-24T19:13:49.000Z",
+          "wordCount": 1014,
+          "title": "Dynamics GP General Ledger Close",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=47173",
+          "author": "Jess Mooney",
+          "description": "What Is Dynamics 365 Customer Service?\nMicrosoft Dynamics 365 Customer Service is a business application that empowers service teams to provide fast, consistent, high-quality customer service and gather insights about customer trends and interactions. As one of Microsoft’s Dynamics 365 applications, Customer Service integrates with the rest of the Dynamics 365 stack, but can also stand alone. This article will cover...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/what-is-dynamics-365-for-customer-service-crm/",
+          "publishedOn": "2023-01-23T12:13:56.000Z",
+          "wordCount": 1978,
+          "title": "What Is Dynamics 365 Customer Service?",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/CRM-blog-image.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=50508",
           "author": "Tracey Santos",
           "description": "Bridge to the Cloud Promotion for Microsoft Dynamics\nThe Bridge to the Cloud promotion is a multi-year path that can help you transition from your on-premises deployment of Dynamics 365 Business Central, Dynamics NAV, or Dynamics GP to Dynamics 365 Business Central online. Bridge to the Cloud includes discounted licenses as well as dual-access rights for your existing on-premises ERP and your new...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -1610,6 +1630,16 @@
       "feedUrl": "https://alexdmeyer.com/feed/",
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
+        {
+          "id": "https://alexdmeyer.com/?p=2567",
+          "author": "Alex",
+          "description": "Data entities within D365FO allow for external applications to interact with D365FO data. One data entity that I use both professionally and in my personal projects fairly regularly is SecurityUserRoleOrganization. This data entity is utilized to restrict a user role assignment to specific organizations within a D365FO environment. In most cases this is a legal […]\nThe post Interesting Issue With the SecurityUserRoleOrganization Data Entity in D365FO appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/01/24/interesting-issue-with-the-securityuserroleorganization-data-entity-in-d365fo/",
+          "publishedOn": "2023-01-24T16:29:13.000Z",
+          "wordCount": 4315,
+          "title": "Interesting Issue With the SecurityUserRoleOrganization Data Entity in D365FO",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/01/12-1.png"
+        },
         {
           "id": "https://alexdmeyer.com/?p=2538",
           "author": "Alex",
@@ -4983,6 +5013,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "http://paragchapre.com/?p=2625",
+          "author": "Parag Chapre",
+          "description": "In this article, we will see the difference and similarities between PowerApps Portals and Power Pages. PowerApps Portals PowerApps Portals are an extension of PowerApps that enables both citizen developers and professional developers to build external facing-websites that allow users their organizations to sign in with a wide variety of identities, create and view data... Continue Reading →",
+          "link": "https://paragchapre.com/2023/01/24/powerapps-portals-power-pages/",
+          "publishedOn": "2023-01-24T01:39:09.000Z",
+          "wordCount": 3900,
+          "title": "PowerApps Portals & Power Pages",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/01/powerapps-portal-power-pages-1.jpg?w=1200"
+        },
         {
           "id": "http://paragchapre.com/?p=2585",
           "author": "Parag Chapre",
