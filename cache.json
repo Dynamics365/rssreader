@@ -2094,6 +2094,16 @@
       "siteUrl": "https://ariste.info/en/",
       "articles": [
         {
+          "id": "https://ariste.info/?p=6814",
+          "author": "Adrià Ariste Santacreu",
+          "description": "It’s already that time of the year again, the Dynamics 365 and Power Platform 2023 Release Wave 1 plans have just been released! The 2023 release wave 1 for Microsoft Dynamics 365 Finance and Operations is focused on improving the development, administration, and user experiences by removing barriers, tightening integrations, and enhancing cross-platform capabilities. This… Continue Reading 2023 Release Wave 1 plans: what’s new?\nariste.info 2023 Release Wave 1 plans: what’s new?",
+          "link": "https://ariste.info/en/2023/01/2023-release-wave-1-plans-whats-new/",
+          "publishedOn": "2023-01-25T16:35:12.000Z",
+          "wordCount": 3748,
+          "title": "2023 Release Wave 1 plans: what’s new?",
+          "imageUrl": "https://ariste.info/wp-content/uploads/2023/01/Ilustracion_sin_titulo.jpeg"
+        },
+        {
           "id": "https://ariste.info/?p=6717",
           "author": "Adrià Ariste Santacreu",
           "description": "We’ve been working with the F&O development VMs for a long time, specially Microsoft partners that need to be able to quickly and easily change between different customer environments, and using the VHD is a bit more complicated in that scenario. And of course, we use Remote Desktop Protocol to connect to these VMs. RDP [...]\nariste.info Configure Azure Bastion for Dynamics 365 F&O VMs",
@@ -5365,6 +5375,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=4865",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/01/25/illustrating-risks-in-d365-project-operations/",
+          "publishedOn": "2023-01-25T06:24:15.000Z",
+          "wordCount": 2556,
+          "title": "Illustrating risks in D365 Project Operations",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2022/12/en.jpeg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=4929",
           "author": "Ludwig Reinhard",
           "description": "[German Language Podcast] Im ersten Podcast im Jahr 2023 sprechen wir mit Jochen Guttenberger, der als Lead Solution Architekt und …\nContinue reading →",
@@ -5481,6 +5501,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=18480",
+          "author": "André Arnaud de Calavon",
+          "description": "Today, Microsoft released the new plans for 2023 release wave 1. These plans will tell you about the short-term investments to be released by Microsoft for Dynamics 365 and the Power Platform. Microsoft is releasing these plans twice a year to indicate what they are working on. In this post, you will find the links […]\nThe post Dynamics 365 & Power Platform – 2023 release wave 1 plans appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2023/01/dynamics-365-power-platform-2023-release-wave-1-plans/",
+          "publishedOn": "2023-01-25T16:31:03.000Z",
+          "wordCount": 3918,
+          "title": "Dynamics 365 & Power Platform – 2023 release wave 1 plans",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/01/Dynamics2023ReleaseWave1.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=18443",
           "author": "André Arnaud de Calavon",
@@ -5954,16 +5984,6 @@
           "publishedOn": "2021-05-13T13:22:38.000Z",
           "wordCount": 1336,
           "title": "Prepare multilingual Product Attributes using googletranslate()",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:725a15e1-176f-4621-9a83-2a5e06c6472f",
-          "author": "andreasraithel",
-          "description": "With current Update 10.0.16/PU40 we get a very useful tool to make our customers even more productive. Since I’ve read about the new Grid capabilities last year I was very excited to bring this feature...\n(read more)",
-          "link": "https://community.dynamics.com/ax/b/moredatamoresuccess/posts/using-extended-grid-capabilities",
-          "publishedOn": "2021-01-25T14:31:55.000Z",
-          "wordCount": 1758,
-          "title": "Using Extended Grid capabilities",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -8749,6 +8769,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "ip-based-cookie-binding-in-dataverse-is-generally-available",
+          "author": null,
+          "description": "We are pleased to announce that IP based cookie binding in Dataverse is Generally Available (GA) for all our customers. This security feature will allow the administrators to safeguard Dataverse platform by blocking the cookie replay attack . IP cookie binding in Dataverse IP based cookie binding is a security technique that helps protect Dataverse against…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/ip-based-cookie-binding-in-dataverse-is-generally-available/",
+          "publishedOn": "2023-01-25T03:00:00.000Z",
+          "wordCount": 1748,
+          "title": "IP based cookie binding in Dataverse is Generally Available.",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-enterprise-low-code-application-platforms",
           "author": null,

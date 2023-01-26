@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-25T01:20:08.324Z</updated>
+    <updated>2023-01-26T01:22:57.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023 Release Wave 1 plans: what’s new?]]></title>
+        <id>https://ariste.info/?p=6814</id>
+        <link href="https://ariste.info/en/2023/01/2023-release-wave-1-plans-whats-new/"/>
+        <updated>2023-01-25T16:35:12.000Z</updated>
+        <summary type="html"><![CDATA[It’s already that time of the year again, the Dynamics 365 and Power Platform 2023 Release Wave 1 plans have just been released! The 2023 release wave 1 for Microsoft Dynamics 365 Finance and Operations is focused on improving the development, administration, and user experiences by removing barriers, tightening integrations, and enhancing cross-platform capabilities. This… Continue Reading 2023 Release Wave 1 plans: what’s new?
+ariste.info 2023 Release Wave 1 plans: what’s new?]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 & Power Platform – 2023 release wave 1 plans]]></title>
+        <id>https://dynamicspedia.com/?p=18480</id>
+        <link href="https://dynamicspedia.com/2023/01/dynamics-365-power-platform-2023-release-wave-1-plans/"/>
+        <updated>2023-01-25T16:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Today, Microsoft released the new plans for 2023 release wave 1. These plans will tell you about the short-term investments to be released by Microsoft for Dynamics 365 and the Power Platform. Microsoft is releasing these plans twice a year to indicate what they are working on. In this post, you will find the links […]
+The post Dynamics 365 & Power Platform – 2023 release wave 1 plans appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Illustrating risks in D365 Project Operations]]></title>
+        <id>http://dynamicsax-fico.com/?p=4865</id>
+        <link href="https://dynamicsax-fico.com/2023/01/25/illustrating-risks-in-d365-project-operations/"/>
+        <updated>2023-01-25T06:24:15.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IP based cookie binding in Dataverse is Generally Available.]]></title>
+        <id>ip-based-cookie-binding-in-dataverse-is-generally-available</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/ip-based-cookie-binding-in-dataverse-is-generally-available/"/>
+        <updated>2023-01-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce that IP based cookie binding in Dataverse is Generally Available (GA) for all our customers. This security feature will allow the administrators to safeguard Dataverse platform by blocking the cookie replay attack . IP cookie binding in Dataverse IP based cookie binding is a security technique that helps protect Dataverse against…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics GP General Ledger Close]]></title>
         <id>https://www.encorebusiness.com/?p=55908</id>
@@ -13639,17 +13681,6 @@ In Dynamics 365 Finance there is a number of ways...
         <summary type="html"><![CDATA[In the past few years Microsoft have invested considerably in WMS functionality in Dynamics 365 SCM. Especially the support for outbound warehouse processes like pick, pack and ship has been expanded. But up until now, D365 SCM has lacked a good tool to provide overview on the progress of picking in the warehouse. So I&ellipsis;Read the full post »]]></summary>
         <author>
             <name>birgerlarsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Extended Grid capabilities]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:725a15e1-176f-4621-9a83-2a5e06c6472f</id>
-        <link href="https://community.dynamics.com/ax/b/moredatamoresuccess/posts/using-extended-grid-capabilities"/>
-        <updated>2021-01-25T14:31:55.000Z</updated>
-        <summary type="html"><![CDATA[With current Update 10.0.16/PU40 we get a very useful tool to make our customers even more productive. Since I’ve read about the new Grid capabilities last year I was very excited to bring this feature...
-(read more)]]></summary>
-        <author>
-            <name>andreasraithel</name>
         </author>
     </entry>
 </feed>
