@@ -16,6 +16,16 @@
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
         {
+          "id": "https://nuxulu.com/2023-11-26-comparation-finops-business-central/",
+          "author": "Max Nguyen",
+          "description": "The basic comparation that helps you choose which solution is optimized for your company.\nDynamics 365 Finance Operations\nDynamics 365 Business Central\n\n\n\n\nDynamics 365 Finance Operations applications that are specifically designed to connect individuals, procedures, information, and insights across various business areas such as finance, project management, human resources, supply chain, and commerce. It allows for flexible deployment options and the ability to adapt to new business priorities as needed.\nA all-in-one business management tool that assists small and medium-sized businesses in integrating their financial, sales, service, and operations teams through a single user-friendly application that can be implemented quickly. It is distributed, maintained, and expanded by specialized partner channels.\n\n\nMid-market to large enterprises with 50 – 1000+ users\nSmall to medium-sized businesses (SMBs) with 3 to 250+ users\n\n\nOrganizations with in-house IT resources to support go-live and maintenance\nBusinesses who need fast deployment and have limited IT resources to support\n\n\n\n\n\n\nHeavily invested in Dynamics AX and looking to move to the cloud\nHeavily invested in Dynamics NAV, GP, or SL and ready to move to the cloud\n\n\nDeep industry and vertical capabilities within applications\nOver 2000+ industry and horizontal apps on AppSource optimized for SMBs\n\n\nIndividually deployable solutions for sales, service, customer insights, finance, projects, HR, supply chain, commerce, and more\nSingle solution that supports finance, sales, service, projects, supply chain, warehousing, manufacturing, and more\n\n\nCentralized operating models, with a single deployment spanning multiple companies, entities, and/or countries\nDecentralized operating model, with separate deployments for each company, entity, and or country\n\n\n\nThere is also an ability to use a hub and spoke model is provided, where Dynamics 365 Finance & Supply Chain is deployed in the main office and Business Central in subsidiary locations.",
+          "link": "https://nuxulu.com/2023-11-26-comparation-finops-business-central/",
+          "publishedOn": "2022-11-26T00:00:00.000Z",
+          "wordCount": 444,
+          "title": "A comparison between Dynamics 365 Finance & Supply Chain Management and Dynamics 365 Business Central in terms of features, capabilities and suitability for different types of businesses",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2023-01-01-metadata-search-in-visual-studio/",
           "author": "Max Nguyen",
           "description": "Metadata search in Visual Studio\nThis article describes how to use metadata search to search your code and metadata for arbitrary patterns and content.\nGiven the large volume of the code base and metadata, it is often necessary to find things in the code that meet a certain criteria. For example, you might not know the name of the metadata element that contains the pattern or meets the criteria. Metadata search is exposed in Visual Studio through two user interfaces: the Metadata Search tool window and the Navigate To window.\nMetadata search tool window\nYou can access the Metadata search tool window from the Dynamics 365 > Metadata Search menu command. Enter your search query to start the search. Results will start populating in the window asynchronously as you type. You can double-click a…",
@@ -1240,6 +1250,16 @@
       "feedUrl": "https://www.encorebusiness.com/blog/feed/",
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
+        {
+          "id": "https://www.encorebusiness.com/?p=47100",
+          "author": "Jess Mooney",
+          "description": "What Is Dynamics 365 Sales?\nMicrosoft Dynamics 365 Sales functions as a high-powered Customer Relationship Management (CRM) platform, specializing in sales pipeline management and full transparency into relationship activities. It also offers powerful flexibility, allowing it to go far beyond traditional CRM functionality. Dynamics 365 Sales can be implemented to help your sales team manage their sales cycle, from lead...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/what-is-dynamics-365-for-sales/",
+          "publishedOn": "2023-01-26T12:13:30.000Z",
+          "wordCount": 2221,
+          "title": "What Is Dynamics 365 Sales?",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/09/D365CE-Sales-Img.png"
+        },
         {
           "id": "https://www.encorebusiness.com/?p=55908",
           "author": "Don McNulty",
@@ -5356,18 +5376,7 @@
       "title": "Birger Larsen – AX / Dynamics 365 blog on WMS",
       "feedUrl": "https://axscm.wordpress.com/feed/",
       "siteUrl": "https://axscm.wordpress.com",
-      "articles": [
-        {
-          "id": "http://axscm.wordpress.com/?p=1682",
-          "author": "birgerlarsen",
-          "description": "In the past few years Microsoft have invested considerably in WMS functionality in Dynamics 365 SCM. Especially the support for outbound warehouse processes like pick, pack and ship has been expanded. But up until now, D365 SCM has lacked a good tool to provide overview on the progress of picking in the warehouse. So I&ellipsis;Read the full post »",
-          "link": "https://axscm.wordpress.com/2021/01/26/outbound-workload-visualization/",
-          "publishedOn": "2021-01-26T21:06:35.000Z",
-          "wordCount": 4704,
-          "title": "Outbound workload visualization",
-          "imageUrl": "https://axscm.files.wordpress.com/2021/01/work-pool.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Dynamics 365FO/AX Finance & Controlling",
@@ -6965,16 +6974,6 @@
           "wordCount": 4076,
           "title": "Extend Dynamics 365 Finance and Operations Workflows with Business Events",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:40850a56-e99b-43cd-9ad4-0ebac3aae323",
-          "author": "Henrik Marx Larsen",
-          "description": "How often do you get the question:\nCan we produce a full customer P&L that allows us to analyze customer profitability?\n\n\n\n\nOf course you can!\nIn Dynamics 365 Finance there is a number of ways...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/how-to-create-a-quick-customer-profitability-analysis-with-dynamics-365-finance-and-excel",
-          "publishedOn": "2021-01-27T09:04:38.000Z",
-          "wordCount": 3753,
-          "title": "How to Create a Quick Customer Profitability Analysis with Dynamics 365 Finance and Excel",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -7727,6 +7726,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:abb1db46-33d1-4f59-b6b6-c4031473a0d3",
+          "author": "Sukrut Parab",
+          "description": "You can read more about how to link environments here(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/posts/how-to-connect-your-finance-and-operation-environment-with-dataverse-environment",
+          "publishedOn": "2023-01-27T00:40:21.000Z",
+          "wordCount": 3770,
+          "title": "How to Connect your Finance and operation environment with Dataverse environment",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c15fc85c-39ee-4f0e-b4d8-2a8e5f52c540",
           "author": "Sukrut Parab",
           "description": "Database upgrade in lift and shift upgrades runs with SQL replication process. Steps for this process are very well documented here - https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpr...(read more)",
@@ -8107,6 +8116,16 @@
       "feedUrl": "https://elearnd365.com/feed/",
       "siteUrl": "https://elearnd365.com",
       "articles": [
+        {
+          "id": "http://elearnd365.com/?p=597",
+          "author": "Sukrut Parab",
+          "description": "With recently released features in LCS its now possible to connect finance and operations environments with existing dataverse environments. In this blog post we will go through the process of linking F&O enviornment with dataverse enviornment through LCS. The old process was described in this article (https://elearnd365.com/2021/11/13/link-newly-created-fo-environment-with-existing-dataverse-environment/ ) As a part of power platform integration, […]",
+          "link": "https://elearnd365.com/2023/01/26/how-to-connect-your-finance-and-operation-enviornment-with-dataverse-environment/",
+          "publishedOn": "2023-01-27T00:34:05.000Z",
+          "wordCount": 3063,
+          "title": "How to Connect your Finance and operation environment with Dataverse environment",
+          "imageUrl": "https://elearnd365.files.wordpress.com/2023/01/dataversefo.jpg"
+        },
         {
           "id": "http://elearnd365.com/?p=579",
           "author": "Sukrut Parab",
@@ -8734,16 +8753,6 @@
           "wordCount": 3980,
           "title": "Extend Dynamics 365 Finance and Operations Workflows with Business Events",
           "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2021/06/workflow-2.png?w=1200"
-        },
-        {
-          "id": "http://henrikmarxlarsen.wordpress.com/?p=2592",
-          "author": "Henrik Marx Larsen",
-          "description": "An example of how you can quickly analyze customer profitability using Dynamics 365 Finance with Excel.",
-          "link": "https://henrikmarxlarsen.wordpress.com/2021/01/27/how-to-create-a-quick-customer-profitability-analysis-with-dynamics-365-finance-and-excel/",
-          "publishedOn": "2021-01-27T09:04:38.000Z",
-          "wordCount": 3705,
-          "title": "How to Create a Quick Customer Profitability Analysis with Dynamics 365 Finance and Excel",
-          "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2021/01/customer-14.png?w=1200"
         }
       ]
     },
@@ -8769,6 +8778,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "making-it-easier-to-work-with-dataverse",
+          "author": null,
+          "description": "Working with Dataverse is now becoming easier with ‘Developer environment’ that comes with premium capabilities, without any additional cost. You can work on Power Platform using Dataverse for building applications where now you can work with relationship modeling in Canvas applications, leverage Model driven applications, build virtual tables, Power FX, formula columns, ALM and much…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/making-it-easier-to-work-with-dataverse/",
+          "publishedOn": "2023-01-26T16:34:03.000Z",
+          "wordCount": 1826,
+          "title": "Making Dataverse available for all makers",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "ip-based-cookie-binding-in-dataverse-is-generally-available",
           "author": null,

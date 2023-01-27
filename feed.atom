@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-26T01:22:57.435Z</updated>
+    <updated>2023-01-27T01:24:42.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Connect your Finance and operation environment with Dataverse environment]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:abb1db46-33d1-4f59-b6b6-c4031473a0d3</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/posts/how-to-connect-your-finance-and-operation-environment-with-dataverse-environment"/>
+        <updated>2023-01-27T00:40:21.000Z</updated>
+        <summary type="html"><![CDATA[You can read more about how to link environments here(read more)]]></summary>
+        <author>
+            <name>Sukrut Parab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Connect your Finance and operation environment with Dataverse environment]]></title>
+        <id>http://elearnd365.com/?p=597</id>
+        <link href="https://elearnd365.com/2023/01/26/how-to-connect-your-finance-and-operation-enviornment-with-dataverse-environment/"/>
+        <updated>2023-01-27T00:34:05.000Z</updated>
+        <summary type="html"><![CDATA[With recently released features in LCS its now possible to connect finance and operations environments with existing dataverse environments. In this blog post we will go through the process of linking F&O enviornment with dataverse enviornment through LCS. The old process was described in this article (https://elearnd365.com/2021/11/13/link-newly-created-fo-environment-with-existing-dataverse-environment/ ) As a part of power platform integration, […]]]></summary>
+        <author>
+            <name>Sukrut Parab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Dataverse available for all makers]]></title>
+        <id>making-it-easier-to-work-with-dataverse</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/making-it-easier-to-work-with-dataverse/"/>
+        <updated>2023-01-26T16:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Working with Dataverse is now becoming easier with ‘Developer environment’ that comes with premium capabilities, without any additional cost. You can work on Power Platform using Dataverse for building applications where now you can work with relationship modeling in Canvas applications, leverage Model driven applications, build virtual tables, Power FX, formula columns, ALM and much…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Dynamics 365 Sales?]]></title>
+        <id>https://www.encorebusiness.com/?p=47100</id>
+        <link href="https://www.encorebusiness.com/blog/what-is-dynamics-365-for-sales/"/>
+        <updated>2023-01-26T12:13:30.000Z</updated>
+        <summary type="html"><![CDATA[What Is Dynamics 365 Sales?
+Microsoft Dynamics 365 Sales functions as a high-powered Customer Relationship Management (CRM) platform, specializing in sales pipeline management and full transparency into relationship activities. It also offers powerful flexibility, allowing it to go far beyond traditional CRM functionality. Dynamics 365 Sales can be implemented to help your sales team manage their sales cycle, from lead...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Jess Mooney</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 Release Wave 1 plans: what’s new?]]></title>
         <id>https://ariste.info/?p=6814</id>
@@ -1832,6 +1875,56 @@ public static str getErrorStr(container _cont)
         <summary type="html"><![CDATA[Finally, we have a solution for managing purchase accruals in D365 finance an operation which was not available as good solution for a long time. As we know we had two different methods Accrual scheme and periodic journal, but both had its own issue but now using Subscription billing Expense deferral we can solve this […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A comparison between Dynamics 365 Finance & Supply Chain Management and Dynamics 365 Business Central in terms of features, capabilities and suitability for different types of businesses]]></title>
+        <id>https://nuxulu.com/2023-11-26-comparation-finops-business-central/</id>
+        <link href="https://nuxulu.com/2023-11-26-comparation-finops-business-central/"/>
+        <updated>2022-11-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The basic comparation that helps you choose which solution is optimized for your company.
+Dynamics 365 Finance Operations
+Dynamics 365 Business Central
+
+
+
+
+Dynamics 365 Finance Operations applications that are specifically designed to connect individuals, procedures, information, and insights across various business areas such as finance, project management, human resources, supply chain, and commerce. It allows for flexible deployment options and the ability to adapt to new business priorities as needed.
+A all-in-one business management tool that assists small and medium-sized businesses in integrating their financial, sales, service, and operations teams through a single user-friendly application that can be implemented quickly. It is distributed, maintained, and expanded by specialized partner channels.
+
+
+Mid-market to large enterprises with 50 – 1000+ users
+Small to medium-sized businesses (SMBs) with 3 to 250+ users
+
+
+Organizations with in-house IT resources to support go-live and maintenance
+Businesses who need fast deployment and have limited IT resources to support
+
+
+
+
+
+
+Heavily invested in Dynamics AX and looking to move to the cloud
+Heavily invested in Dynamics NAV, GP, or SL and ready to move to the cloud
+
+
+Deep industry and vertical capabilities within applications
+Over 2000+ industry and horizontal apps on AppSource optimized for SMBs
+
+
+Individually deployable solutions for sales, service, customer insights, finance, projects, HR, supply chain, commerce, and more
+Single solution that supports finance, sales, service, projects, supply chain, warehousing, manufacturing, and more
+
+
+Centralized operating models, with a single deployment spanning multiple companies, entities, and/or countries
+Decentralized operating model, with separate deployments for each company, entity, and or country
+
+
+
+There is also an ability to use a hub and spoke model is provided, where Dynamics 365 Finance & Supply Chain is deployed in the main office and Business Central in subsidiary locations.]]></summary>
+        <author>
+            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>
@@ -13643,44 +13736,6 @@ It is a good article with also an example code, but it will not work incase you 
         <summary type="html"><![CDATA[Introduction In this blog series i will highlight some technical aspects about creating and managing security layer by code in Dynamics 365 For Finance and Operations, a step by step scenario to explain some components used in standard mechanisms to generate new security artifacts through x++, deep dive into Dynamics security management API and discover … Lire la suite Dynamics Security Management API in D365FinOps : part1- Security Generalities →]]></summary>
         <author>
             <name>adalhix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Quick Customer Profitability Analysis with Dynamics 365 Finance and Excel]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:40850a56-e99b-43cd-9ad4-0ebac3aae323</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/how-to-create-a-quick-customer-profitability-analysis-with-dynamics-365-finance-and-excel"/>
-        <updated>2021-01-27T09:04:38.000Z</updated>
-        <summary type="html"><![CDATA[How often do you get the question:
-Can we produce a full customer P&L that allows us to analyze customer profitability?
-
-
-
-
-Of course you can!
-In Dynamics 365 Finance there is a number of ways...
-(read more)]]></summary>
-        <author>
-            <name>Henrik Marx Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Quick Customer Profitability Analysis with Dynamics 365 Finance and Excel]]></title>
-        <id>http://henrikmarxlarsen.wordpress.com/?p=2592</id>
-        <link href="https://henrikmarxlarsen.wordpress.com/2021/01/27/how-to-create-a-quick-customer-profitability-analysis-with-dynamics-365-finance-and-excel/"/>
-        <updated>2021-01-27T09:04:38.000Z</updated>
-        <summary type="html"><![CDATA[An example of how you can quickly analyze customer profitability using Dynamics 365 Finance with Excel.]]></summary>
-        <author>
-            <name>Henrik Marx Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outbound workload visualization]]></title>
-        <id>http://axscm.wordpress.com/?p=1682</id>
-        <link href="https://axscm.wordpress.com/2021/01/26/outbound-workload-visualization/"/>
-        <updated>2021-01-26T21:06:35.000Z</updated>
-        <summary type="html"><![CDATA[In the past few years Microsoft have invested considerably in WMS functionality in Dynamics 365 SCM. Especially the support for outbound warehouse processes like pick, pack and ship has been expanded. But up until now, D365 SCM has lacked a good tool to provide overview on the progress of picking in the warehouse. So I&ellipsis;Read the full post »]]></summary>
-        <author>
-            <name>birgerlarsen</name>
         </author>
     </entry>
 </feed>
