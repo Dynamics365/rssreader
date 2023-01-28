@@ -2,10 +2,135 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-27T01:24:42.216Z</updated>
+    <updated>2023-01-28T01:23:51.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365: Envisioning the Future of Finance]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:12a3ecb7-1f88-46b9-a07c-6fb69a70216a</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/microsoft-dynamics-365-envisioning-the-future-of-finance"/>
+        <updated>2023-01-27T12:00:48.000Z</updated>
+        <summary type="html"><![CDATA[In today’s rapidly evolving world business as usual is out and change is in. Welcome to a dynamic new world of digital finance where financial leaders are futurists initiating change rather than repor...(read more)]]></summary>
+        <author>
+            <name>Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Azure Service Bus Queue]]></title>
+        <id>1671 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/how-create-azure-service-bus-queue"/>
+        <updated>2023-01-27T02:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 01/26/23.
+
+
+
+
+
+
+
+
+
+
+
+
+How to Create an Azure Service Bus Queue
+
+This is a simple, straight forward How-To to create an application registration that can be used by Finance and Operations. At the end, you'll have an Service Bus Host name, a queue name as well as a primary connection string (data points 6, 5, and 3 referenced in other articles).
+Creating a Service Bus
+First, go to https://portal.azure.com.
+Next, search for Service Bus.
+
+Next, click on create.
+
+Next, fill out all of the required fields giving it a namespace name as well as a pricing tier. Standard pricing tier has lots of features but is very low cost.
+
+Click Next.
+
+Click Next.
+
+Click Next. Note that some organizations may provide defaults values here or you may have to provide some depending on policy.
+
+Click Create.
+
+Wait until the resource deploy then click Go To Resource.
+
+Record the Service bus host name in a safe place. This value will be referred to by other articles. Click on Shared Access Policies.
+
+Click on RootManageSharedAccessKey.
+
+Copy the value in Primary Connect String into a safe place. This value will be referred to by other articles. Close out of the SAS Policy.
+
+Create A Queue
+To Create a Queue in your Namespace, click on queues, Then click Queue, then give it a name. Record the name in a safe space. This value will be referred to other articles. Next, click Create.
+
+Your queue should look like this.
+
+That's all.
+
+
+
+
+View the discussion thread.
+
+
+
+Reported:]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an App Registration for F&O]]></title>
+        <id>1670 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/how-create-app-registration-fo"/>
+        <updated>2023-01-27T01:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 01/26/23.
+
+
+
+
+
+
+
+
+
+
+
+
+How to Create an App Registration for F&O
+ 
+This is a simple, straight forward How-To to create an application registration that can be used by Finance and Operations. At the end, you'll have an application ID as well as a secret value (data points 1 and 2 referenced in other articles).
+First, go to https://portal.azure.com.
+Next, search for app registrations and click on the first result
+
+Next, click "new registration"
+
+Next, give the app registration a name then click register.
+
+Next, record the application (client) ID in a safe place. This will be referenced later several other articles. After that, click on Certificates & Secrets.
+
+Next, Click on New Client Secret.
+
+Next, enter a description and set when this will expire then click add.
+
+Next, record the value in a safe place. This will be referenced later several other articles. This will only be visible right after adding the secret.
+
+That's it.
+ 
+
+
+
+
+View the discussion thread.
+
+
+
+Reported:]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Connect your Finance and operation environment with Dataverse environment]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:abb1db46-33d1-4f59-b6b6-c4031473a0d3</id>
@@ -105,6 +230,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Optimize Dynamics 365 Sales product usage with new reports!]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/01/24/optimize-dynamics-365-sales-product-usage-with-new-reports/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/01/24/optimize-dynamics-365-sales-product-usage-with-new-reports/"/>
+        <updated>2023-01-24T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Data is one of the key resources to making informed, contextual decisions.
+The post Optimize Dynamics 365 Sales product usage with new reports! appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ashwini Kumar Dalai</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Interesting Issue With the SecurityUserRoleOrganization Data Entity in D365FO]]></title>
         <id>https://alexdmeyer.com/?p=2567</id>
         <link href="https://alexdmeyer.com/2023/01/24/interesting-issue-with-the-securityuserroleorganization-data-entity-in-d365fo/"/>
@@ -113,6 +249,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
 The post Interesting Issue With the SecurityUserRoleOrganization Data Entity in D365FO appeared first on Alex Meyer.]]></summary>
         <author>
             <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 customer service trends to watch in 2023]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/24/5-customer-service-trends-to-watch-in-2023/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/24/5-customer-service-trends-to-watch-in-2023/"/>
+        <updated>2023-01-24T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By 2026, 60 percent of large enterprises will use total experience to transform their business models to achieve world-class customer and employee advocacy levels. This growing acknowledgement is a positive indicator that service is finally recognized as a core business value driver as support teams became pivotal in retaining customer loyalty and winning new customers throughout the pandemic.
+The post 5 customer service trends to watch in 2023 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Angela Chang</name>
         </author>
     </entry>
     <entry>
@@ -13726,16 +13873,6 @@ It is a good article with also an example code, but it will not work incase you 
         <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its...(read more)]]></summary>
         <author>
             <name>Jodi Christiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics Security Management API in D365FinOps : part1- Security Generalities]]></title>
-        <id>http://adalhix.wordpress.com/?p=439</id>
-        <link href="https://dynvision365.com/2021/01/27/dynamics-security-management-api-in-d365finops-part1-security-generalities/"/>
-        <updated>2021-01-27T16:06:22.000Z</updated>
-        <summary type="html"><![CDATA[Introduction In this blog series i will highlight some technical aspects about creating and managing security layer by code in Dynamics 365 For Finance and Operations, a step by step scenario to explain some components used in standard mechanisms to generate new security artifacts through x++, deep dive into Dynamics security management API and discover … Lire la suite Dynamics Security Management API in D365FinOps : part1- Security Generalities →]]></summary>
-        <author>
-            <name>adalhix</name>
         </author>
     </entry>
 </feed>

@@ -427,6 +427,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/howtovideos",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:12a3ecb7-1f88-46b9-a07c-6fb69a70216a",
+          "author": "Community Manager",
+          "description": "In today’s rapidly evolving world business as usual is out and change is in. Welcome to a dynamic new world of digital finance where financial leaders are futurists initiating change rather than repor...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/microsoft-dynamics-365-envisioning-the-future-of-finance",
+          "publishedOn": "2023-01-27T12:00:48.000Z",
+          "wordCount": 3563,
+          "title": "Microsoft Dynamics 365: Envisioning the Future of Finance",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c9928642-7ac5-4731-bcb3-bce54e46613d",
           "author": "Community Manager",
           "description": "Too many government agencies are working with outdated systems and processes that frustrate teams and hinder productivity. Forward-thinking finance and operations leaders are looking for ways to moder...(read more)",
@@ -2845,6 +2855,26 @@
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
         {
+          "id": "1671 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 01/26/23.\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Create an Azure Service Bus Queue\n\nThis is a simple, straight forward How-To to create an application registration that can be used by Finance and Operations. At the end, you'll have an Service Bus Host name, a queue name as well as a primary connection string (data points 6, 5, and 3 referenced in other articles).\nCreating a Service Bus\nFirst, go to https://portal.azure.com.\nNext, search for Service Bus.\n\nNext, click on create.\n\nNext, fill out all of the required fields giving it a namespace name as well as a pricing tier. Standard pricing tier has lots of features but is very low cost.\n\nClick Next.\n\nClick Next.\n\nClick Next. Note that some organizations may provide defaults values here or you may have to provide some depending on policy.\n\nClick Create.\n\nWait until the resource deploy then click Go To Resource.\n\nRecord the Service bus host name in a safe place. This value will be referred to by other articles. Click on Shared Access Policies.\n\nClick on RootManageSharedAccessKey.\n\nCopy the value in Primary Connect String into a safe place. This value will be referred to by other articles. Close out of the SAS Policy.\n\nCreate A Queue\nTo Create a Queue in your Namespace, click on queues, Then click Queue, then give it a name. Record the name in a safe space. This value will be referred to other articles. Next, click Create.\n\nYour queue should look like this.\n\nThat's all.\n\n\n\n\nView the discussion thread.\n\n\n\nReported:",
+          "link": "https://www.atomicax.com/article/how-create-azure-service-bus-queue",
+          "publishedOn": "2023-01-27T02:32:27.000Z",
+          "wordCount": 1024,
+          "title": "How to Create an Azure Service Bus Queue",
+          "imageUrl": null
+        },
+        {
+          "id": "1670 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 01/26/23.\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Create an App Registration for F&O\n \nThis is a simple, straight forward How-To to create an application registration that can be used by Finance and Operations. At the end, you'll have an application ID as well as a secret value (data points 1 and 2 referenced in other articles).\nFirst, go to https://portal.azure.com.\nNext, search for app registrations and click on the first result\n\nNext, click \"new registration\"\n\nNext, give the app registration a name then click register.\n\nNext, record the application (client) ID in a safe place. This will be referenced later several other articles. After that, click on Certificates & Secrets.\n\nNext, Click on New Client Secret.\n\nNext, enter a description and set when this will expire then click add.\n\nNext, record the value in a safe place. This will be referenced later several other articles. This will only be visible right after adding the secret.\n\nThat's it.\n \n\n\n\n\nView the discussion thread.\n\n\n\nReported:",
+          "link": "https://www.atomicax.com/article/how-create-app-registration-fo",
+          "publishedOn": "2023-01-27T01:59:49.000Z",
+          "wordCount": 921,
+          "title": "How to Create an App Registration for F&O",
+          "imageUrl": null
+        },
+        {
           "id": "1656 at https://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 12/12/22.\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nperformance      \nVM      \nVisual Studio      \n\nLet's examine how to get the most out of Azure spend for Tier 1 machines.\nA while ago Denis Trunin wrote an article on Visual Studio performance for F&O. I thought it was a well written and researched article. However, I wanted to see what the limit was on performance per unit of money spent. I also wanted to see what the limits were, in general. If twice as more is twice as better, then 4 times as much must mean 4 times more better, right? We'll be using the DOOM Super Shotgun methodology of 2 is better than 1, and 4 is better than 2. I'll also be likening each part of the article to a map from classic DOOM (1993). For those of you DOOM fans out there, this should be fun. For …",
@@ -3232,16 +3262,6 @@
           "wordCount": 2016,
           "title": "Using PowerApps for data integration between Dynamics 365 FinOps and SQL Server On-Premises",
           "imageUrl": "https://adalhix.files.wordpress.com/2021/02/image-25.png"
-        },
-        {
-          "id": "http://adalhix.wordpress.com/?p=439",
-          "author": "adalhix",
-          "description": "Introduction In this blog series i will highlight some technical aspects about creating and managing security layer by code in Dynamics 365 For Finance and Operations, a step by step scenario to explain some components used in standard mechanisms to generate new security artifacts through x++, deep dive into Dynamics security management API and discover … Lire la suite Dynamics Security Management API in D365FinOps : part1- Security Generalities →",
-          "link": "https://dynvision365.com/2021/01/27/dynamics-security-management-api-in-d365finops-part1-security-generalities/",
-          "publishedOn": "2021-01-27T16:06:22.000Z",
-          "wordCount": 1421,
-          "title": "Dynamics Security Management API in D365FinOps : part1- Security Generalities",
-          "imageUrl": "https://adalhix.files.wordpress.com/2021/01/arch2o-12-facts-you-didnt-know-about-the-eiffel-tower-8-1.jpg?w=1200"
         }
       ]
     },
@@ -3544,6 +3564,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/01/24/optimize-dynamics-365-sales-product-usage-with-new-reports/",
+          "author": "Ashwini Kumar Dalai",
+          "description": "Data is one of the key resources to making informed, contextual decisions.\nThe post Optimize Dynamics 365 Sales product usage with new reports! appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/01/24/optimize-dynamics-365-sales-product-usage-with-new-reports/",
+          "publishedOn": "2023-01-24T18:40:00.000Z",
+          "wordCount": 2244,
+          "title": "Optimize Dynamics 365 Sales product usage with new reports!",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/01/CLO18_cafeWork_003-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/24/5-customer-service-trends-to-watch-in-2023/",
+          "author": "Angela Chang",
+          "description": "By 2026, 60 percent of large enterprises will use total experience to transform their business models to achieve world-class customer and employee advocacy levels. This growing acknowledgement is a positive indicator that service is finally recognized as a core business value driver as support teams became pivotal in retaining customer loyalty and winning new customers throughout the pandemic.\nThe post 5 customer service trends to watch in 2023 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/24/5-customer-service-trends-to-watch-in-2023/",
+          "publishedOn": "2023-01-24T16:00:00.000Z",
+          "wordCount": 3188,
+          "title": "5 customer service trends to watch in 2023",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/09/WIN23_PRO_Lenovo_ThinkPad_Z13_Home_003-632b6d16df790.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/01/19/optimize-sales-conversation-follow-ups-in-2-easy-steps/",
           "author": "Olga Goldenberg",
