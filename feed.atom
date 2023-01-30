@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-29T01:34:58.778Z</updated>
+    <updated>2023-01-30T01:19:50.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tips after restoring backup from production server to Test server in Ax 2012]]></title>
+        <id>https://dynamics365ax2012.blogspot.com/2023/01/tips-after-restoring-backup-from.html</id>
+        <link href="https://dynamics365ax2012.blogspot.com/2023/01/tips-after-restoring-backup-from.html"/>
+        <updated>2023-01-29T18:14:00.004Z</updated>
+        <summary type="html"><![CDATA[There are very important notes : after restore backup to test from production 
+
+
+1- change the report server configuration
+1- change the report server configuration
+
+
+
+2- change Batch server to Test instance
+
+
+
+3- Change the workflow batch group servers
+
+
+
+4- Change due Date alerts to refresh the pending jobs like notifications and workflow alerts
+
+
+
+5- if you face any errors in workflow and workflow instance stopped
+ctrl +D to open the AOT
+run it manual
+
+
+
+6- client configuration :should be changed from live to test and refresh configuration
+
+
+
+
+
+
+Thanks]]></summary>
+        <author>
+            <name>HOW TO ... Microsoft Dynamics 365 ?</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 eCommerce : Image it !]]></title>
+        <id>http://kurthatlevik.com/?p=4436</id>
+        <link href="https://kurthatlevik.com/2023/01/29/d365-ecommerce-image-it/"/>
+        <updated>2023-01-29T12:37:14.000Z</updated>
+        <summary type="html"><![CDATA[In March 2023 the public preview of integrated omnichannel media management features are planned, and I’m really looking forward implementing this feature at customers. In simpler terms, the new feature makes it easier for you to manage all the media assets (like product images, videos, and other documents) related to your online and in-store sales. … Continue reading D365 eCommerce : Image it !]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Dynamics 365: Envisioning the Future of Finance]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:12a3ecb7-1f88-46b9-a07c-6fb69a70216a</id>
@@ -194,6 +247,17 @@ ariste.info 2023 Release Wave 1 plans: what’s new?]]></summary>
 The post Dynamics 365 & Power Platform – 2023 release wave 1 plans appeared first on Dynamicspedia.]]></summary>
         <author>
             <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/25/2023-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/25/2023-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/"/>
+        <updated>2023-01-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On January 25, 2023, we published the 2023 release wave 1 plans for Microsoft Dynamics 365 and Microsoft Power Platform, a compilation of new capabilities planned to be released between April 2023 and September 2023. This first release wave of the year offers hundreds of new features and enhancements, demonstrating our continued investment to power digital transformation for our customers and partners.
+The post 2023 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mo Osborne</name>
         </author>
     </entry>
     <entry>

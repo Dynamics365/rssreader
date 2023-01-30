@@ -3002,6 +3002,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4436",
+          "author": "Kurt Hatlevik",
+          "description": "In March 2023 the public preview of integrated omnichannel media management features are planned, and I’m really looking forward implementing this feature at customers. In simpler terms, the new feature makes it easier for you to manage all the media assets (like product images, videos, and other documents) related to your online and in-store sales. … Continue reading D365 eCommerce : Image it !",
+          "link": "https://kurthatlevik.com/2023/01/29/d365-ecommerce-image-it/",
+          "publishedOn": "2023-01-29T12:37:14.000Z",
+          "wordCount": 3059,
+          "title": "D365 eCommerce : Image it !",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/01/012923_1237_d365ecommer1.png"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4432",
           "author": "Kurt Hatlevik",
           "description": "I have played with ChatGPT, and when looking through social media, blogpost and videos, it seems we have now entered the early ages of AI and we can ask ChatGPT to generate almost anything we are asking for. I have started to start ask myself philosophical questions and what will be replaced by these systems. … Continue reading D365 – This blogpost is not written by ChatGPT",
@@ -3564,6 +3574,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/25/2023-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/",
+          "author": "Mo Osborne",
+          "description": "On January 25, 2023, we published the 2023 release wave 1 plans for Microsoft Dynamics 365 and Microsoft Power Platform, a compilation of new capabilities planned to be released between April 2023 and September 2023. This first release wave of the year offers hundreds of new features and enhancements, demonstrating our continued investment to power digital transformation for our customers and partners.\nThe post 2023 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/25/2023-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/",
+          "publishedOn": "2023-01-25T16:00:00.000Z",
+          "wordCount": 3724,
+          "title": "2023 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/01/CLO22_HybridWork_039.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/01/24/optimize-dynamics-365-sales-product-usage-with-new-reports/",
           "author": "Ashwini Kumar Dalai",
@@ -10146,6 +10166,16 @@
       "feedUrl": "https://dynamics365ax2012.blogspot.com/feeds/posts/default",
       "siteUrl": "https://dynamics365ax2012.blogspot.com/",
       "articles": [
+        {
+          "id": "https://dynamics365ax2012.blogspot.com/2023/01/tips-after-restoring-backup-from.html",
+          "author": null,
+          "description": "There are very important notes : after restore backup to test from production \n\n\n1- change the report server configuration\n1- change the report server configuration\n\n\n\n2- change Batch server to Test instance\n\n\n\n3- Change the workflow batch group servers\n\n\n\n4- Change due Date alerts to refresh the pending jobs like notifications and workflow alerts\n\n\n\n5- if you face any errors in workflow and workflow instance stopped\nctrl +D to open the AOT\nrun it manual\n\n\n\n6- client configuration :should be changed from live to test and refresh configuration\n\n\n\n\n\n\nThanks",
+          "link": "https://dynamics365ax2012.blogspot.com/2023/01/tips-after-restoring-backup-from.html",
+          "publishedOn": "2023-01-29T18:14:00.004Z",
+          "wordCount": 5836,
+          "title": "Tips after restoring backup from production server to Test server in Ax 2012",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8vF8uuD9yxswOSAb39P0Rkh4yyzaxMJ-9VLRnnNeZVly2Eam9uyR_IolJGjsmYwHoOXivP1RjLJqFvh0asb2F5lFl3Z6SLYqLvDK0mnvFf7_keXR1w3rqzJYV44GK9uj9V6q9FX64kn7kf4nQrcuHoWI25wliurUohJeuF0ZzVnVobIQfZ6GRBTFBjA/w1200-h630-p-k-no-nu/7.jpeg"
+        },
         {
           "id": "https://dynamics365ax2012.blogspot.com/2022/08/how-to-to-use-performance-timer-to.html",
           "author": null,
