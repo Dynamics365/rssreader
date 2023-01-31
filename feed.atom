@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-01-30T01:19:50.430Z</updated>
+    <updated>2023-01-31T01:25:44.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Finance Reimagined: Microsoft uses low-code and automation to streamline processes]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/30/finance-reimagined-microsoft-uses-low-code-and-automation-to-streamline-processes/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/30/finance-reimagined-microsoft-uses-low-code-and-automation-to-streamline-processes/"/>
+        <updated>2023-01-30T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the power of innovation and automation at Finance Reimagined on February 28, 2024. Join us for a session specifically designed for CFOs to learn how low-code applications can help your finance team accomplish more with less.
+The post Finance Reimagined: Microsoft uses low-code and automation to streamline processes appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Andrew Haller</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tips after restoring backup from production server to Test server in Ax 2012]]></title>
         <id>https://dynamics365ax2012.blogspot.com/2023/01/tips-after-restoring-backup-from.html</id>
@@ -57,6 +68,17 @@ Thanks]]></summary>
         <summary type="html"><![CDATA[In March 2023 the public preview of integrated omnichannel media management features are planned, and I’m really looking forward implementing this feature at customers. In simpler terms, the new feature makes it easier for you to manage all the media assets (like product images, videos, and other documents) related to your online and in-store sales. … Continue reading D365 eCommerce : Image it !]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Digital Contact Center in seconds with the Customer Service free trial]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/01/27/create-a-digital-contact-center-in-seconds-with-the-customer-service-free-trial/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/01/27/create-a-digital-contact-center-in-seconds-with-the-customer-service-free-trial/"/>
+        <updated>2023-01-27T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the Dynamics 365 Customer Service trials, you can quickly and easily experience the product for free. There is no credit card required or software to install!
+The post Create a Digital Contact Center in seconds with the Customer Service free trial appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Pulkita Dua</name>
         </author>
     </entry>
     <entry>
