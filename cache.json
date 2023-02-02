@@ -5124,6 +5124,16 @@
       "siteUrl": "https://paragchapre.com",
       "articles": [
         {
+          "id": "http://paragchapre.com/?p=2657",
+          "author": "Parag Chapre",
+          "description": "In today’s article, we will see what Key Vault is, why to use and how to use Key Vault using X++ code. What is Key Vault Azure Key Vault is one of several key management solutions in Azure, and helps to solve problems such as secret, key and certificate management. Why use Azure Key Vault There... Continue Reading →",
+          "link": "https://paragchapre.com/2023/02/01/how-to-use-key-vault-in-x/",
+          "publishedOn": "2023-02-01T02:20:32.000Z",
+          "wordCount": 3962,
+          "title": "How to use Key Vault in X++",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/how-to-use-key-vault-in-x-.jpg?w=1200"
+        },
+        {
           "id": "http://paragchapre.com/?p=2625",
           "author": "Parag Chapre",
           "description": "In this article, we will see the difference and similarities between PowerApps Portals and Power Pages. PowerApps Portals PowerApps Portals are an extension of PowerApps that enables both citizen developers and professional developers to build external facing-websites that allow users their organizations to sign in with a wide variety of identities, create and view data... Continue Reading →",
@@ -5463,6 +5473,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=4935",
+          "author": "Ludwig Reinhard",
+          "description": "[German Language Podcast] Im neuesten Podcast mit Matthias Schuster sprechen wir über inway Systems als deutschlandweit agierenden Microsoft Partner, der …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2023/02/01/microsoft-bizapps-deutschland-podcast-6/",
+          "publishedOn": "2023-02-01T05:21:24.000Z",
+          "wordCount": 2668,
+          "title": "Microsoft BizApps Deutschland Podcast #6",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/01/pictureforpost.png"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=4865",
           "author": "Ludwig Reinhard",
@@ -8313,6 +8333,16 @@
       "feedUrl": "https://denistrunin.com/rss.xml",
       "siteUrl": "https://denistrunin.com",
       "articles": [
+        {
+          "id": "https://denistrunin.com/performance-restoretier2/",
+          "author": null,
+          "description": "The blog post tests various options for. restoring BACPAC files on local SQL Server.",
+          "link": "https://denistrunin.com/performance-restoretier2/",
+          "publishedOn": "2023-02-01T22:12:03.000Z",
+          "wordCount": 1222,
+          "title": "Improve the speed for BACPAC database restore from Tier2 to Tier1",
+          "imageUrl": "https://denistrunin.com/static/653dbf3cbdb2dbc80c10f7b9ce323a10/1a02d/logo.png"
+        },
         {
           "id": "https://denistrunin.com/performanceD365-tierperf/",
           "author": null,

@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-01T01:40:45.645Z</updated>
+    <updated>2023-02-02T01:24:42.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Improve the speed for BACPAC database restore from Tier2 to Tier1]]></title>
+        <id>https://denistrunin.com/performance-restoretier2/</id>
+        <link href="https://denistrunin.com/performance-restoretier2/"/>
+        <updated>2023-02-01T22:12:03.000Z</updated>
+        <summary type="html"><![CDATA[The blog post tests various options for. restoring BACPAC files on local SQL Server.]]></summary>
+        <author>
+            <name>Gatsby RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #6]]></title>
+        <id>http://dynamicsax-fico.com/?p=4935</id>
+        <link href="https://dynamicsax-fico.com/2023/02/01/microsoft-bizapps-deutschland-podcast-6/"/>
+        <updated>2023-02-01T05:21:24.000Z</updated>
+        <summary type="html"><![CDATA[[German Language Podcast] Im neuesten Podcast mit Matthias Schuster sprechen wir über inway Systems als deutschlandweit agierenden Microsoft Partner, der …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Key Vault in X++]]></title>
+        <id>http://paragchapre.com/?p=2657</id>
+        <link href="https://paragchapre.com/2023/02/01/how-to-use-key-vault-in-x/"/>
+        <updated>2023-02-01T02:20:32.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see what Key Vault is, why to use and how to use Key Vault using X++ code. What is Key Vault Azure Key Vault is one of several key management solutions in Azure, and helps to solve problems such as secret, key and certificate management. Why use Azure Key Vault There... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finance Reimagined: Microsoft uses low-code and automation to streamline processes]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/01/30/finance-reimagined-microsoft-uses-low-code-and-automation-to-streamline-processes/</id>
