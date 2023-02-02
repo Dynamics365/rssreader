@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-02T01:24:42.565Z</updated>
+    <updated>2023-02-02T14:21:02.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deprecate != Depreciate]]></title>
+        <id>https://www.d365fandom.com/2023/02/deprecate-depreciate.html</id>
+        <link href="https://www.d365fandom.com/2023/02/deprecate-depreciate.html"/>
+        <updated>2023-02-02T14:02:00.004Z</updated>
+        <summary type="html"><![CDATA[I often hear/see the words deprecate and depreciate used interchangeably, both in reference to ERP features and functionality. There is a difference in the words, and it's not just the letter i! This is a tough one, because even when you search on the internet, you get mixed results between the two. Let's look at the differences. 
+
+
+This letter is not the only difference between these words!
+
+
+
+Deprecate - There are several meanings behind the word deprecate, but as it relates to ERP system features and functionality, it means that the use of features and functionality are actively being discouraged because they have been superseded, or replaced, with different functionality. It doesn't necessarily mean the functionality is going away, but it will no longer be supported, and users are often actively encouraged to stop using it. 
+Here is a link to D365FO's "Removed or deprecated features home page" - Removed or deprecated features home page - Finance & Operations | Dynamics 365 | Microsoft Learn
+
+
+
+
+Removed or deprecated features home page
+
+
+
+
+
+Depreciate - This is a term used in finance, typically with fixed assets as it relates to D365FO, to show the diminishing value of the asset over a period of time. 
+
+
+
+
+Depreciation profiles for Fixed assets in Microsoft Dynamics 365 Finance]]></summary>
+        <author>
+            <name>D365FandO(m)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use D365 F&O number sequence in Power Platform]]></title>
+        <id>http://paragchapre.com/?p=2673</id>
+        <link href="https://paragchapre.com/2023/02/02/how-to-use-d365-fo-number-sequence-in-power-platform/"/>
+        <updated>2023-02-02T01:31:35.000Z</updated>
+        <summary type="html"><![CDATA[Using continuous number sequences from Dynamics 365 Finance and operations in Power Platform can be cumbersome sometimes but in today’s article we will see how to use it. What is number sequence Number sequences are used to generate readable, unique identifiers for master data records and transaction records that require identifiers. A master data record... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improve the speed for BACPAC database restore from Tier2 to Tier1]]></title>
         <id>https://denistrunin.com/performance-restoretier2/</id>
@@ -14,6 +58,17 @@
         <summary type="html"><![CDATA[The blog post tests various options for. restoring BACPAC files on local SQL Server.]]></summary>
         <author>
             <name>Gatsby RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use the Customer Service workspace app for omnichannel interactions]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/02/01/use-the-customer-service-workspace-app-for-omnichannel-interactions/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/02/01/use-the-customer-service-workspace-app-for-omnichannel-interactions/"/>
+        <updated>2023-02-01T19:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Starting Saturday, April 1, 2023, we will be deprecating the Microsoft Dynamics 365 Omnichannel for Customer Service application and encouraging customers to migrate to the Customer Service workspace application. This upcoming change will affect your multi-session agents currently using the Omnichannel for Customer Service application in Microsoft Dynamics 365 Customer Service. We have decided toRead more
+The post Use the Customer Service workspace app for omnichannel interactions appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Nick Stinnett</name>
         </author>
     </entry>
     <entry>
@@ -8950,6 +9005,16 @@ We are always looking for interesting speakers and topics, so if you have any id
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Product configurator: Attribute inheritance for subcomponents]]></title>
+        <id>http://cleverax.wordpress.com/?p=572</id>
+        <link href="https://cleverax.wordpress.com/2022/02/15/product-configurator-attribute-inheritance-for-subcomponents/"/>
+        <updated>2022-02-15T07:52:35.000Z</updated>
+        <summary type="html"><![CDATA[I have been involved in several implementations that included product configurator functionality and all I can say it is one of the very powerful but not very well documented features. I have been asked a very simple question today and when I tried to search for an answer all I could find was just a … Continue reading Product configurator: Attribute inheritance for subcomponents →]]></summary>
+        <author>
+            <name>cleverax</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Announcing General Availability (GA) of Power Apps portals as mobile apps]]></title>
         <id>announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-ga-of-power-apps-portals-as-mobile-apps/"/>
@@ -11344,6 +11409,16 @@ ariste.info Package and Model planning]]></summary>
         <summary type="html"><![CDATA[Data integration is a key success factor in almost every implementation. A primary concern of my customers is the speed that data can be imported, especially if there are vast amounts of data and a sm...(read more)]]></summary>
         <author>
             <name>Said Nikjou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual studio – Copy all from Find Symbol Results]]></title>
+        <id>http://shashidotnet.wordpress.com/?p=988</id>
+        <link href="https://shashidotnet.wordpress.com/2021/10/29/visual-studio-copy-all-from-find-symbol-results/"/>
+        <updated>2021-10-29T03:37:19.000Z</updated>
+        <summary type="html"><![CDATA[can-i-copy-multiple-rows-from-the-visual-studio-find-symbol-results-window https://stackoverflow.com/questions/1173808/can-i-copy-multiple-rows-from-the-visual-studio-find-symbol-results-window Sometimes it is probably useful to copy all the data from the Symbol results window in Visual studio. Either to process it manually or to run some analysis on it (Or whatever reason you fancy). Unfortunately Visual studio only allows you to copy one result at a time from that window which doesnt … Continue reading Visual studio – Copy all from Find Symbol Results →]]></summary>
+        <author>
+            <name>Shashi Sadasivan</name>
         </author>
     </entry>
     <entry>
@@ -13870,126 +13945,6 @@ On the end there is an explanation how to add the predefined field to the produc
 It is a good article with also an example code, but it will not work incase you want only a tracking dimension. To get that job don I investigated the tracking dimension…]]></summary>
         <author>
             <name>Dick Wenning</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 scenarios that show how credit limits are determined in Dynamics 365 Finance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:358086b7-41b5-4d56-9d8d-850dc30e34dd</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/5-scenarios-that-show-how-credit-limits-are-determined-in-dynamics-365-finance"/>
-        <updated>2021-02-02T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its own credit limit. So how does Dynamics 365 Finance...(read more)]]></summary>
-        <author>
-            <name>Jodi Christiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 scenarios that show how credit limits are determined in Dynamics 365 Finance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9bc82942-8434-4fa3-88f0-d580dda8b87f</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/5-scenarios-that-show-how-credit-limits-are-determined-in-dynamics-365-finance-1277375888"/>
-        <updated>2021-02-02T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its...(read more)]]></summary>
-        <author>
-            <name>Jodi Christiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 scenarios that show how credit limits are determined in Dynamics 365 Finance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b671e74f-95e2-4917-ac00-88d3f864fd90</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/5-scenarios-that-show-how-credit-limits-are-determined-in-dynamics-365-finance-25772701"/>
-        <updated>2021-02-02T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its...(read more)]]></summary>
-        <author>
-            <name>Jodi Christiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 scenarios that show how credit limits are determined in Dynamics 365 Finance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:cb4c0423-0f33-41df-b71a-e457328ef8bb</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/5-scenarios-that-show-how-credit-limits-are-determined-in-dynamics-365-finance-515683810"/>
-        <updated>2021-02-02T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its...(read more)]]></summary>
-        <author>
-            <name>Jodi Christiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 scenarios that show how credit limits are determined in Dynamics 365 Finance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:68051b7d-1581-417c-9c33-3c977c9eaf7e</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/5-scenarios-that-show-how-credit-limits-are-determined-in-dynamics-365-finance-671044506"/>
-        <updated>2021-02-02T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its...(read more)]]></summary>
-        <author>
-            <name>Jodi Christiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 scenarios that show how credit limits are determined in Dynamics 365 Finance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:dc65ad8c-d936-46a7-955f-cceb4938cb2b</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/5-scenarios-that-show-how-credit-limits-are-determined-in-dynamics-365-finance-798093627"/>
-        <updated>2021-02-02T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its...(read more)]]></summary>
-        <author>
-            <name>Jodi Christiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 scenarios that show how credit limits are determined in Dynamics 365 Finance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9e43160d-3111-467f-aa47-8f98bb627769</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/5-scenarios-that-show-how-credit-limits-are-determined-in-dynamics-365-finance-1566365293"/>
-        <updated>2021-02-02T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its...(read more)]]></summary>
-        <author>
-            <name>Jodi Christiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 scenarios that show how credit limits are determined in Dynamics 365 Finance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:29efb185-be75-41df-b2eb-0e63012857b2</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/5-scenarios-that-show-how-credit-limits-are-determined-in-dynamics-365-finance-1346618271"/>
-        <updated>2021-02-02T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its...(read more)]]></summary>
-        <author>
-            <name>Jodi Christiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 scenarios that show how credit limits are determined in Dynamics 365 Finance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2c150678-e3be-4eb2-bde5-ced8d11f24ab</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/5-scenarios-that-show-how-credit-limits-are-determined-in-dynamics-365-finance-984931759"/>
-        <updated>2021-02-02T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its...(read more)]]></summary>
-        <author>
-            <name>Jodi Christiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 scenarios that show how credit limits are determined in Dynamics 365 Finance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:757cf5e2-78b9-42d5-9fe0-b1c2157252da</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/5-scenarios-that-show-how-credit-limits-are-determined-in-dynamics-365-finance-905702546"/>
-        <updated>2021-02-02T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its...(read more)]]></summary>
-        <author>
-            <name>Jodi Christiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 scenarios that show how credit limits are determined in Dynamics 365 Finance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:af7918b4-cae8-41b9-a3f9-9c2ff0692bda</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/5-scenarios-that-show-how-credit-limits-are-determined-in-dynamics-365-finance-1618055322"/>
-        <updated>2021-02-02T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its...(read more)]]></summary>
-        <author>
-            <name>Jodi Christiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 scenarios that show how credit limits are determined in Dynamics 365 Finance]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a541d8dd-eefb-4d2d-bddd-68a647d95c88</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/5-scenarios-that-show-how-credit-limits-are-determined-in-dynamics-365-finance-206208944"/>
-        <updated>2021-02-02T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance, you can use the credit management capability to define a credit limit at the customer level. However, the same customer might also be part of a customer credit group that has its...(read more)]]></summary>
-        <author>
-            <name>Jodi Christiansen</name>
         </author>
     </entry>
 </feed>
