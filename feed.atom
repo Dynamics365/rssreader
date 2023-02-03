@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-02T14:21:02.003Z</updated>
+    <updated>2023-02-03T01:26:57.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -41,6 +41,26 @@ Depreciation profiles for Fixed assets in Microsoft Dynamics 365 Finance]]></sum
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What’s new: Power Apps January 2023 Feature Update]]></title>
+        <id>whats-new-power-apps-january-2023-feature-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-january-2023-feature-update/"/>
+        <updated>2023-02-02T08:12:29.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share. We…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new look for model driven Power Apps is available now in preview]]></title>
+        <id>the-new-look-for-model-driven-power-apps-is-available-now-in-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/the-new-look-for-model-driven-power-apps-is-available-now-in-preview/"/>
+        <updated>2023-02-02T08:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re announcing a public preview of the new model driven app experience and providing an update on new controls coming to canvas apps in the spring timeframe. Before driving into the details on what the new model driven app experience brings, I want to provide some context about the enhancements and our plans for…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to use D365 F&O number sequence in Power Platform]]></title>
         <id>http://paragchapre.com/?p=2673</id>
         <link href="https://paragchapre.com/2023/02/02/how-to-use-d365-fo-number-sequence-in-power-platform/"/>
@@ -48,6 +68,95 @@ Depreciation profiles for Fixed assets in Microsoft Dynamics 365 Finance]]></sum
         <summary type="html"><![CDATA[Using continuous number sequences from Dynamics 365 Finance and operations in Power Platform can be cumbersome sometimes but in today’s article we will see how to use it. What is number sequence Number sequences are used to generate readable, unique identifiers for master data records and transaction records that require identifiers. A master data record... Continue Reading →]]></summary>
         <author>
             <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio Tips for Dynamics 365 Finance Operations]]></title>
+        <id>https://nuxulu.com/2023-02-02-vs-tips-finops/</id>
+        <link href="https://nuxulu.com/2023-02-02-vs-tips-finops/"/>
+        <updated>2023-02-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some configurations that you should make for Visual studio in newly deplopyed FinOps environments.
+1. Show line number
+Open Visual studio as Administrator right.
+Click on the Dynamics 365 drop down menu on the toolbar and select Options.
+Text editor -> X++
+Show line number
+">
+        
+    Show line number
+    
+2. Best practice rules
+Click on the Dynamics 365 drop down menu on the toolbar and select Options.
+In Dynamics 365, select Best Practices and select each of the following:
+
+Microsoft.Dynamics.AX.Framework.BestPracticeFramework.UIRules
+Microsoft.Dynamics.AX.Framework.CodeStyleRules
+Microsoft.Dynamics.AX.Framework.DataAccessRules
+Microsoft.Dynamics.AX.Framework.DataEntityRules
+Microsoft.Dynamics.AX.Framework.DataMethodRules
+Microsoft.Dynamics.AX.Framework.DepreciatedElementsRules
+Microsoft.Dynamics.AX.Framework.MaintainabilityRules
+Microsoft.Dynamics.AX.Framework.StaticCodeValidationRules
+3. Build
+If you want to lower building time
+Click on the Dynamics 365 drop down menu on the toolbar and select Options.
+In Dynamics 365, select Build and select Build Modules in Parallel
+Build
+">
+        
+    Build
+    
+More information on this feature
+4. Projects
+Click on the Dynamics 365 drop down menu on the toolbar and select Options.
+In Dynamics 365, select Build and select
+
+Organize projects by element type
+Synchronize database on build for newly created project
+Order labels in label file by their ID
+project
+">
+        
+    project
+    
+5. Customize toolbars
+Right click on Toolbars, choose Customize
+toolbars-1
+">
+        
+    toolbars-1
+    
+Create a new toolbar named D365
+toolbars-2
+">
+        
+    toolbars-2
+    
+Switch to Commands tab, Choose D365 in Toolbar
+toolbars-3
+">
+        
+    toolbars-3
+    
+Choose Add Command -> Extensions -> Add commands that you want
+toolbars-4
+">
+        
+    toolbars-4
+    
+Here are my favorites
+toolbars-5
+">
+        
+    toolbars-5
+    
+Now you can access them directly from toolbars, it will save you some clicks.
+toolbars-6
+">
+        
+    toolbars-6]]></summary>
+        <author>
+            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>
@@ -333,6 +442,56 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Jess Mooney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A comparison between Dynamics 365 Finance & Supply Chain Management and Dynamics 365 Business Central in terms of features, capabilities and suitability for different types of businesses]]></title>
+        <id>https://nuxulu.com/2023-01-26-comparation-finops-business-central/</id>
+        <link href="https://nuxulu.com/2023-01-26-comparation-finops-business-central/"/>
+        <updated>2023-01-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The basic comparation that helps you choose which solution is optimized for your company.
+Dynamics 365 Finance Operations
+Dynamics 365 Business Central
+
+
+
+
+Dynamics 365 Finance Operations applications that are specifically designed to connect individuals, procedures, information, and insights across various business areas such as finance, project management, human resources, supply chain, and commerce. It allows for flexible deployment options and the ability to adapt to new business priorities as needed.
+A all-in-one business management tool that assists small and medium-sized businesses in integrating their financial, sales, service, and operations teams through a single user-friendly application that can be implemented quickly. It is distributed, maintained, and expanded by specialized partner channels.
+
+
+Mid-market to large enterprises with 50 – 1000+ users
+Small to medium-sized businesses (SMBs) with 3 to 250+ users
+
+
+Organizations with in-house IT resources to support go-live and maintenance
+Businesses who need fast deployment and have limited IT resources to support
+
+
+
+
+
+
+Heavily invested in Dynamics AX and looking to move to the cloud
+Heavily invested in Dynamics NAV, GP, or SL and ready to move to the cloud
+
+
+Deep industry and vertical capabilities within applications
+Over 2000+ industry and horizontal apps on AppSource optimized for SMBs
+
+
+Individually deployable solutions for sales, service, customer insights, finance, projects, HR, supply chain, commerce, and more
+Single solution that supports finance, sales, service, projects, supply chain, warehousing, manufacturing, and more
+
+
+Centralized operating models, with a single deployment spanning multiple companies, entities, and/or countries
+Decentralized operating model, with separate deployments for each company, entity, and or country
+
+
+
+There is also an ability to use a hub and spoke model is provided, where Dynamics 365 Finance & Supply Chain is deployed in the main office and Business Central in subsidiary locations.]]></summary>
+        <author>
+            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>

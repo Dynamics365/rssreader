@@ -6,6 +6,26 @@
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
         {
+          "id": "https://nuxulu.com/2023-02-02-vs-tips-finops/",
+          "author": "Max Nguyen",
+          "description": "Some configurations that you should make for Visual studio in newly deplopyed FinOps environments.\n1. Show line number\nOpen Visual studio as Administrator right.\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nText editor -> X++\nShow line number\n\">\n        \n    Show line number\n    \n2. Best practice rules\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nIn Dynamics 365, select Best Practices and select each of the following:\n\nMicrosoft.Dynamics.AX.Framework.BestPracticeFramework.UIRules\nMicrosoft.Dynamics.AX.Framework.CodeStyleRules\nMicrosoft.Dynamics.AX.Framework.DataAccessRules\nMicrosoft.Dynamics.AX.Framework.DataEntityRules\nMicrosoft.Dynamics.AX.Framework.DataMethodRules\nMicrosoft.Dynamics.AX.Framework.DepreciatedElementsRules\nMicrosoft.Dynamics.AX.Framework.MaintainabilityRules\nMicrosoft.Dynamics.AX.Framework.StaticCodeValidationRules\n3. Build\nIf you want to lower building time\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nIn Dynamics 365, select Build and select Build Modules in Parallel\nBuild\n\">\n        \n    Build\n    \nMore information on this feature\n4. Projects\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nIn Dynamics 365, select Build and select\n\nOrganize projects by element type\nSynchronize database on build for newly created project\nOrder labels in label file by their ID\nproject\n\">\n        \n    project\n    \n5. Customize toolbars\nRight click on Toolbars, choose Customize\ntoolbars-1\n\">\n        \n    toolbars-1\n    \nCreate a new toolbar named D365\ntoolbars-2\n\">\n        \n    toolbars-2\n    \nSwitch to Commands tab, Choose D365 in Toolbar\ntoolbars-3\n\">\n        \n    toolbars-3\n    \nChoose Add Command -> Extensions -> Add commands that you want\ntoolbars-4\n\">\n        \n    toolbars-4\n    \nHere are my favorites\ntoolbars-5\n\">\n        \n    toolbars-5\n    \nNow you can access them directly from toolbars, it will save you some clicks.\ntoolbars-6\n\">\n        \n    toolbars-6",
+          "link": "https://nuxulu.com/2023-02-02-vs-tips-finops/",
+          "publishedOn": "2023-02-02T00:00:00.000Z",
+          "wordCount": 326,
+          "title": "Visual Studio Tips for Dynamics 365 Finance Operations",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2023-01-26-comparation-finops-business-central/",
+          "author": "Max Nguyen",
+          "description": "The basic comparation that helps you choose which solution is optimized for your company.\nDynamics 365 Finance Operations\nDynamics 365 Business Central\n\n\n\n\nDynamics 365 Finance Operations applications that are specifically designed to connect individuals, procedures, information, and insights across various business areas such as finance, project management, human resources, supply chain, and commerce. It allows for flexible deployment options and the ability to adapt to new business priorities as needed.\nA all-in-one business management tool that assists small and medium-sized businesses in integrating their financial, sales, service, and operations teams through a single user-friendly application that can be implemented quickly. It is distributed, maintained, and expanded by specialized partner channels.\n\n\nMid-market to large enterprises with 50 – 1000+ users\nSmall to medium-sized businesses (SMBs) with 3 to 250+ users\n\n\nOrganizations with in-house IT resources to support go-live and maintenance\nBusinesses who need fast deployment and have limited IT resources to support\n\n\n\n\n\n\nHeavily invested in Dynamics AX and looking to move to the cloud\nHeavily invested in Dynamics NAV, GP, or SL and ready to move to the cloud\n\n\nDeep industry and vertical capabilities within applications\nOver 2000+ industry and horizontal apps on AppSource optimized for SMBs\n\n\nIndividually deployable solutions for sales, service, customer insights, finance, projects, HR, supply chain, commerce, and more\nSingle solution that supports finance, sales, service, projects, supply chain, warehousing, manufacturing, and more\n\n\nCentralized operating models, with a single deployment spanning multiple companies, entities, and/or countries\nDecentralized operating model, with separate deployments for each company, entity, and or country\n\n\n\nThere is also an ability to use a hub and spoke model is provided, where Dynamics 365 Finance & Supply Chain is deployed in the main office and Business Central in subsidiary locations.",
+          "link": "https://nuxulu.com/2023-01-26-comparation-finops-business-central/",
+          "publishedOn": "2023-01-26T00:00:00.000Z",
+          "wordCount": 447,
+          "title": "A comparison between Dynamics 365 Finance & Supply Chain Management and Dynamics 365 Business Central in terms of features, capabilities and suitability for different types of businesses",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2023-01-20-microsoft-dynamics-365-ecosystem-map/",
           "author": "Vadim",
           "description": "ERP SOLUTIONS\n\">\n        \n    ERP SOLUTIONS\n    \nERP SOLUTIONS SERVICES\n\">\n        \n    ERP SOLUTIONS SERVICES\n    \nCRM-SOLUTIONS\n\">\n        \n    CRM-SOLUTIONS\n    \nAI-SOLUTIONS\n\">\n        \n    AI-SOLUTIONS\n    \nCOLLABORATION-SOLUTIONS\n\">\n        \n    COLLABORATION-SOLUTIONS\n    \nPOWER PLATFORM.png\n\">\n        \n    POWER PLATFORM",
@@ -8822,6 +8842,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "whats-new-power-apps-january-2023-feature-update",
+          "author": null,
+          "description": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share. We…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-january-2023-feature-update/",
+          "publishedOn": "2023-02-02T08:12:29.000Z",
+          "wordCount": 3377,
+          "title": "What’s new: Power Apps January 2023 Feature Update",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/02/image-1.png"
+        },
+        {
+          "id": "the-new-look-for-model-driven-power-apps-is-available-now-in-preview",
+          "author": null,
+          "description": "Today, we’re announcing a public preview of the new model driven app experience and providing an update on new controls coming to canvas apps in the spring timeframe. Before driving into the details on what the new model driven app experience brings, I want to provide some context about the enhancements and our plans for…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/the-new-look-for-model-driven-power-apps-is-available-now-in-preview/",
+          "publishedOn": "2023-02-02T08:08:45.000Z",
+          "wordCount": 2549,
+          "title": "The new look for model driven Power Apps is available now in preview",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/02/image-1.png"
+        },
         {
           "id": "making-it-easier-to-work-with-dataverse",
           "author": null,
