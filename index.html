@@ -22,6 +22,153 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-03 datetime="2023-02-03T13:00:00.001Z">2023-02-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-03 datetime="2023-02-03T13:00:00.001Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >D365FandO(m)</button>
+                  <a class="source-heading__link" href="https://www.d365fandom.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.d365fandom.com/2023/02/subscription-billing-terminate.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Subscription Billing - Terminate</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.d365fandom.com/2023/02/subscription-billing-terminate.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-710SRnZuEcg-WGNWhGDhcoIxTeeNwUj7Lmv0xnFT4N4-MRpnct4Nzvd2W59mYJj5N_lKb3nHD5THC7vNRRFy8vO_B43HP7vfzqwFklEzcw_YJYbGC_SJWMhBa8Dkfm048O3_a1Pildl9QpmUzqcon0ySGuEXhR8DqmubSB5FHw1Zuj5ZCQCpf_nm/w1200-h630-p-k-no-nu/Terminator.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>From time to time, we have all ended a subscription service. It happens - maybe the service doesn&#x27;t meet your needs anymore. Perhaps it has gotten too expensive. Regardless of the reason, it is a common occurrence and Microsoft Dynamics 365 for Finance&#x27;s Subscription billing module has a solution for terminating subscriptions.
+Now you are probably thinking, &quot;Oh great, something complex to add to my never-ending duties...&quot; 
+Nope! Terminating a Billing schedule in the Subscription billing module is easy, and I am going to walk through it. 
+
+
+&quot;I&#x27;ll be back... when I am ready to subscribe again&quot;
+
+
+Terminating the Billing Schedule
+
+
+Within the Billing schedule, you may notice that there are options surrounding Terminations. When you initially set up the Billing schedule, a Termination type will default onto the Billing schedule header. This field can be modified.
+
+
+
+
+The three options are:
+
+
+
+Adjust schedule
+Bill remaining
+No adjustment
+
+
+
+The defaulted Termination type comes from the Recurring contract billing parameters found at Subscription billing &gt; Recurring contract billing &gt; Setup &gt; Recurring contract billing parameters. 
+
+
+
+
+Recurring contract billing parameters
+
+
+
+Terminating Recurring Billing
+
+
+Once on the Billing schedule screen for your Customer, there is an option to Terminate in the Billing schedule tab on the ribbon.
+
+
+
+
+
+Once the Terminate dropdown is selected, there are options to: 
+
+
+
+Select a Termination date
+Select the Termination type
+Select the Credit option
+Choose to Prorate daily (or not)
+Select a Reason code
+Provide Termination notes
+
+
+
+
+
+
+Once the fields are populated, select to Terminate or Terminate with refund. All billing schedule lines will be terminated based on the date selected. 
+
+
+
+
+Once the Termination is complete, a notification will alert you to how many lines were terminated, and Termination can be removed from the account by selecting Remove termination in the ribbon.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >MsDyn365FO.Blog</button>
+                  <a class="source-heading__link" href="https://msdyn365fo.wordpress.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://msdyn365fo.wordpress.com/?p&#x3D;565"
+                        open
+                      >
+                        <summary class="article-expander__title">How to solve the error “No report data table with name XYZ exists in report schema for data provider XYZDP” when developing a SSRS report for MsDyn365FO</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://msdyn365fo.wordpress.com/2023/02/03/how-to-solve-the-error-no-report-data-table-with-name-xyz-exists-in-report-schema-for-data-provider-xyzdp-when-developing-a-ssrs-report-for-msdyn365fo/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://msdyn365fo.files.wordpress.com/2023/02/how-to-solve-the-error-when-developing-a-ssrs-report-for-msdyn365fo-banner.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>This week a had the „honor“ to develop a quite simple SSRS report including a report data provider for Microsoft Dynamics 365 for Finance and Operations. After round about 30 min. I was able to run the first test and try to open the report from the menu. Unfortunately I was confronted with the error: … Continue reading How to solve the error “No report data table with name XYZ exists in report schema for data provider XYZDP” when developing a SSRS report for MsDyn365FO →</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-02 datetime="2023-02-02T14:02:00.004Z">2023-02-02</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-02 datetime="2023-02-02T14:02:00.004Z"></time>
           </button>
@@ -4740,11 +4887,45 @@ Nathaniël Nguyen, Director of Sales at NMB... Read the full text.</span>
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-12-16 datetime="2022-12-15T18:33:00.000Z">2022-12-16</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-12-16 datetime="2022-12-15T18:33:00.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-12-16 datetime="2022-12-16T05:04:00.000Z">2022-12-16</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-12-16 datetime="2022-12-16T05:04:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >e-Learn Dynamics 365 and Power platform</button>
+                  <a class="source-heading__link" href="https://elearnd365.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://elearnd365.com/?p&#x3D;614"
+                        open
+                      >
+                        <summary class="article-expander__title">Restoring DB from Tier 2 environments with improved security connections using new DACFx framework</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://elearnd365.com/2022/12/15/restoring-db-from-tier-2-environments-with-improved-security-connections-using-new-dacfx-framework/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://elearnd365.files.wordpress.com/2023/02/point_in_time.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>While working with Dynamics 365 for Finance and operation implementation it’s a common requirement to take a database back up from tier 2 environments and restore it to Dev (Tier 1) environments. The standard procedure we follow to restore DB is get bacpac file from sandbox environments using LCS and use following command to restore […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -41627,8 +41808,8 @@ It is a good article with also an example code, but it will not work incase you 
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/4080215387">
-        <time id="build-timestamp" datetime="2023-02-03T01:26:57.085Z">2023-02-03T01:26:57.085Z</time>
+      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/4089241619">
+        <time id="build-timestamp" datetime="2023-02-04T01:21:25.611Z">2023-02-04T01:21:25.611Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

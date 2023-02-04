@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-03T01:26:57.161Z</updated>
+    <updated>2023-02-04T01:21:25.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Subscription Billing - Terminate]]></title>
+        <id>https://www.d365fandom.com/2023/02/subscription-billing-terminate.html</id>
+        <link href="https://www.d365fandom.com/2023/02/subscription-billing-terminate.html"/>
+        <updated>2023-02-03T13:00:00.001Z</updated>
+        <summary type="html"><![CDATA[From time to time, we have all ended a subscription service. It happens - maybe the service doesn't meet your needs anymore. Perhaps it has gotten too expensive. Regardless of the reason, it is a common occurrence and Microsoft Dynamics 365 for Finance's Subscription billing module has a solution for terminating subscriptions.
+Now you are probably thinking, "Oh great, something complex to add to my never-ending duties..." 
+Nope! Terminating a Billing schedule in the Subscription billing module is easy, and I am going to walk through it. 
+
+
+"I'll be back... when I am ready to subscribe again"
+
+
+Terminating the Billing Schedule
+
+
+Within the Billing schedule, you may notice that there are options surrounding Terminations. When you initially set up the Billing schedule, a Termination type will default onto the Billing schedule header. This field can be modified.
+
+
+
+
+The three options are:
+
+
+
+Adjust schedule
+Bill remaining
+No adjustment
+
+
+
+The defaulted Termination type comes from the Recurring contract billing parameters found at Subscription billing > Recurring contract billing > Setup > Recurring contract billing parameters. 
+
+
+
+
+Recurring contract billing parameters
+
+
+
+Terminating Recurring Billing
+
+
+Once on the Billing schedule screen for your Customer, there is an option to Terminate in the Billing schedule tab on the ribbon.
+
+
+
+
+
+Once the Terminate dropdown is selected, there are options to: 
+
+
+
+Select a Termination date
+Select the Termination type
+Select the Credit option
+Choose to Prorate daily (or not)
+Select a Reason code
+Provide Termination notes
+
+
+
+
+
+
+Once the fields are populated, select to Terminate or Terminate with refund. All billing schedule lines will be terminated based on the date selected. 
+
+
+
+
+Once the Termination is complete, a notification will alert you to how many lines were terminated, and Termination can be removed from the account by selecting Remove termination in the ribbon.]]></summary>
+        <author>
+            <name>D365FandO(m)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to solve the error “No report data table with name XYZ exists in report schema for data provider XYZDP” when developing a SSRS report for MsDyn365FO]]></title>
+        <id>http://msdyn365fo.wordpress.com/?p=565</id>
+        <link href="https://msdyn365fo.wordpress.com/2023/02/03/how-to-solve-the-error-no-report-data-table-with-name-xyz-exists-in-report-schema-for-data-provider-xyzdp-when-developing-a-ssrs-report-for-msdyn365fo/"/>
+        <updated>2023-02-03T10:53:22.000Z</updated>
+        <summary type="html"><![CDATA[This week a had the „honor“ to develop a quite simple SSRS report including a report data provider for Microsoft Dynamics 365 for Finance and Operations. After round about 30 min. I was able to run the first test and try to open the report from the menu. Unfortunately I was confronted with the error: … Continue reading How to solve the error “No report data table with name XYZ exists in report schema for data provider XYZDP” when developing a SSRS report for MsDyn365FO →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deprecate != Depreciate]]></title>
         <id>https://www.d365fandom.com/2023/02/deprecate-depreciate.html</id>
@@ -1712,6 +1797,16 @@ challenges related to transportation and shipping. Our guest,
 Nathaniël Nguyen, Director of Sales at NMB... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restoring DB from Tier 2 environments with improved security connections using new DACFx framework]]></title>
+        <id>http://elearnd365.com/?p=614</id>
+        <link href="https://elearnd365.com/2022/12/15/restoring-db-from-tier-2-environments-with-improved-security-connections-using-new-dacfx-framework/"/>
+        <updated>2022-12-16T05:04:00.000Z</updated>
+        <summary type="html"><![CDATA[While working with Dynamics 365 for Finance and operation implementation it’s a common requirement to take a database back up from tier 2 environments and restore it to Dev (Tier 1) environments. The standard procedure we follow to restore DB is get bacpac file from sandbox environments using LCS and use following command to restore […]]]></summary>
+        <author>
+            <name>Sukrut Parab</name>
         </author>
     </entry>
     <entry>

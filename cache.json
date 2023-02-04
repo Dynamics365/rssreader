@@ -1997,6 +1997,16 @@
       "siteUrl": "https://msdyn365fo.wordpress.com",
       "articles": [
         {
+          "id": "http://msdyn365fo.wordpress.com/?p=565",
+          "author": "Paul Heisterkamp",
+          "description": "This week a had the „honor“ to develop a quite simple SSRS report including a report data provider for Microsoft Dynamics 365 for Finance and Operations. After round about 30 min. I was able to run the first test and try to open the report from the menu. Unfortunately I was confronted with the error: … Continue reading How to solve the error “No report data table with name XYZ exists in report schema for data provider XYZDP” when developing a SSRS report for MsDyn365FO →",
+          "link": "https://msdyn365fo.wordpress.com/2023/02/03/how-to-solve-the-error-no-report-data-table-with-name-xyz-exists-in-report-schema-for-data-provider-xyzdp-when-developing-a-ssrs-report-for-msdyn365fo/",
+          "publishedOn": "2023-02-03T10:53:22.000Z",
+          "wordCount": 3133,
+          "title": "How to solve the error “No report data table with name XYZ exists in report schema for data provider XYZDP” when developing a SSRS report for MsDyn365FO",
+          "imageUrl": "https://msdyn365fo.files.wordpress.com/2023/02/how-to-solve-the-error-when-developing-a-ssrs-report-for-msdyn365fo-banner.png"
+        },
+        {
           "id": "http://msdyn365fo.wordpress.com/?p=533",
           "author": "Paul Heisterkamp",
           "description": "I know that rebuilding database index is a polarizing topic. Anyway I want to share with you what I´ve recently found. Over the last service updates the Microsoft Dynamics 365 for Finance and Operations database got some handy new stored procedures to e. g. rebuild indexes. You can use those stored procedures on Tier1 environments … Continue reading Rebuild your index on MsDyn365FO Tier1 and Tier2+ environments →",
@@ -8181,6 +8191,16 @@
           "imageUrl": "https://elearnd365.files.wordpress.com/2023/01/dataversefo.jpg"
         },
         {
+          "id": "http://elearnd365.com/?p=614",
+          "author": "Sukrut Parab",
+          "description": "While working with Dynamics 365 for Finance and operation implementation it’s a common requirement to take a database back up from tier 2 environments and restore it to Dev (Tier 1) environments. The standard procedure we follow to restore DB is get bacpac file from sandbox environments using LCS and use following command to restore […]",
+          "link": "https://elearnd365.com/2022/12/15/restoring-db-from-tier-2-environments-with-improved-security-connections-using-new-dacfx-framework/",
+          "publishedOn": "2022-12-16T05:04:00.000Z",
+          "wordCount": 3055,
+          "title": "Restoring DB from Tier 2 environments with improved security connections using new DACFx framework",
+          "imageUrl": "https://elearnd365.files.wordpress.com/2023/02/point_in_time.png"
+        },
+        {
           "id": "http://elearnd365.com/?p=579",
           "author": "Sukrut Parab",
           "description": "Database upgrade in lift and shift ugrades runs with SQL replication process. Steps for this process are very well documented here – https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-upgrade-self-service Ax 2012 Data upgrade in self-service enviornment tech talk can be found here (https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/techtalk-ax2012-data-upgrade-in-self-service-environment-july-16-2021)  Below you can find some learning from my experience on using AX 2012 database upgrade toolkit and overall […]",
@@ -10016,6 +10036,16 @@
       "feedUrl": "https://d365fandom.com/feeds/posts/default",
       "siteUrl": "https://www.d365fandom.com/",
       "articles": [
+        {
+          "id": "https://www.d365fandom.com/2023/02/subscription-billing-terminate.html",
+          "author": null,
+          "description": "From time to time, we have all ended a subscription service. It happens - maybe the service doesn't meet your needs anymore. Perhaps it has gotten too expensive. Regardless of the reason, it is a common occurrence and Microsoft Dynamics 365 for Finance's Subscription billing module has a solution for terminating subscriptions.\nNow you are probably thinking, \"Oh great, something complex to add to my never-ending duties...\" \nNope! Terminating a Billing schedule in the Subscription billing module is easy, and I am going to walk through it. \n\n\n\"I'll be back... when I am ready to subscribe again\"\n\n\nTerminating the Billing Schedule\n\n\nWithin the Billing schedule, you may notice that there are options surrounding Terminations. When you initially set up the Billing schedule, a Termination type will default onto the Billing schedule header. This field can be modified.\n\n\n\n\nThe three options are:\n\n\n\nAdjust schedule\nBill remaining\nNo adjustment\n\n\n\nThe defaulted Termination type comes from the Recurring contract billing parameters found at Subscription billing > Recurring contract billing > Setup > Recurring contract billing parameters. \n\n\n\n\nRecurring contract billing parameters\n\n\n\nTerminating Recurring Billing\n\n\nOnce on the Billing schedule screen for your Customer, there is an option to Terminate in the Billing schedule tab on the ribbon.\n\n\n\n\n\nOnce the Terminate dropdown is selected, there are options to: \n\n\n\nSelect a Termination date\nSelect the Termination type\nSelect the Credit option\nChoose to Prorate daily (or not)\nSelect a Reason code\nProvide Termination notes\n\n\n\n\n\n\nOnce the fields are populated, select to Terminate or Terminate with refund. All billing schedule lines will be terminated based on the date selected. \n\n\n\n\nOnce the Termination is complete, a notification will alert you to how many lines were terminated, and Termination can be removed from the account by selecting Remove termination in the ribbon.",
+          "link": "https://www.d365fandom.com/2023/02/subscription-billing-terminate.html",
+          "publishedOn": "2023-02-03T13:00:00.001Z",
+          "wordCount": 2055,
+          "title": "Subscription Billing - Terminate",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-710SRnZuEcg-WGNWhGDhcoIxTeeNwUj7Lmv0xnFT4N4-MRpnct4Nzvd2W59mYJj5N_lKb3nHD5THC7vNRRFy8vO_B43HP7vfzqwFklEzcw_YJYbGC_SJWMhBa8Dkfm048O3_a1Pildl9QpmUzqcon0ySGuEXhR8DqmubSB5FHw1Zuj5ZCQCpf_nm/w1200-h630-p-k-no-nu/Terminator.jpg"
+        },
         {
           "id": "https://www.d365fandom.com/2023/02/deprecate-depreciate.html",
           "author": null,
