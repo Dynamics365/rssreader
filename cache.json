@@ -6,6 +6,16 @@
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
         {
+          "id": "https://nuxulu.com/2023-02-04-mb-300/",
+          "author": "Max Nguyen",
+          "description": "Exam/Learning Path: https://docs.microsoft.com/certifications/exams/mb-300\nLearning Path\nModule\nWeek\n\n\n\n\nGet started with Finance and Operations apps\nIntroduction to Microsoft Dynamics 365\n1\n\n\n\nNavigate Finance and Operations apps\n2\n\n\n\nGet started with Dynamics 365 Finance\n3\n\n\n\nGet started with Dynamics 365 Supply Chain Management\n4\n\n\n\nGet started with production control in Dynamics 365 Supply Chain Management\n5\n\n\n\nGet help and learn more about Finance and Operations apps\n6\n\n\nUse Lifecycle Services to design and plan an implementation of Finance and Operations apps\nGet started with Lifecycle Services for Finance and Operations apps\n7\n\n\n\nDesign and plan an implementation of Finance and Operations apps\n8\n\n\n\nTranslate Dynamics 365 apps and documentation with Dynamics 365 Translation Service\n9\n\n\nConfigure your organization in Finance and Operations apps\nPlan and configure the global address book in Finance and Operations apps\n10\n\n\n\nPlan and implement legal entities in Finance and Operations apps\n11\n\n\n\nPlan and implement security in Finance and Operations apps\n12\n\n\n\nSet up batch jobs in Finance and Operations apps\n13\n\n\n\nWork with workflows in Finance and Operations apps\n14\n\n\n\nDesign and build mobile apps for Finance and Operations apps\n15\n\n\n\nPersonalize Finance and Operations apps\n16\n\n\n\nImplement common integration features in Finance and Operations apps\n17\n\n\n\nFeature management in Finance and Operations apps\n18\n\n\nMigrate data and go live with Finance and Operations apps\nPrepare data for migration to Finance and Operations apps\n19\n\n\n\nWork with data management in Finance and Operations apps\n20\n\n\n\nPerform user acceptance testing in Finance and Operations apps\n21\n\n\n\nPrepare to go-live with Finance and Operations apps\n22\n\n\nConfigure and work with analytics and reporting in Finance and Operations apps\nWork with analytics and reporting in Finance and Operations apps\n23\n\n\n\nConfigure electronic reporting in Dynamics 365 Finance\n24",
+          "link": "https://nuxulu.com/2023-02-04-mb-300/",
+          "publishedOn": "2023-02-04T00:00:00.000Z",
+          "wordCount": 348,
+          "title": "MB-300 Microsoft Dynamics 365: Core Finance and Operations",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2023-02-02-vs-tips-finops/",
           "author": "Max Nguyen",
           "description": "Some configurations that you should make for Visual studio in newly deplopyed FinOps environments.\n1. Show line number\nOpen Visual studio as Administrator right.\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nText editor -> X++\nShow line number\n\">\n        \n    Show line number\n    \n2. Best practice rules\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nIn Dynamics 365, select Best Practices and select each of the following:\n\nMicrosoft.Dynamics.AX.Framework.BestPracticeFramework.UIRules\nMicrosoft.Dynamics.AX.Framework.CodeStyleRules\nMicrosoft.Dynamics.AX.Framework.DataAccessRules\nMicrosoft.Dynamics.AX.Framework.DataEntityRules\nMicrosoft.Dynamics.AX.Framework.DataMethodRules\nMicrosoft.Dynamics.AX.Framework.DepreciatedElementsRules\nMicrosoft.Dynamics.AX.Framework.MaintainabilityRules\nMicrosoft.Dynamics.AX.Framework.StaticCodeValidationRules\n3. Build\nIf you want to lower building time\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nIn Dynamics 365, select Build and select Build Modules in Parallel\nBuild\n\">\n        \n    Build\n    \nMore information on this feature\n4. Projects\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nIn Dynamics 365, select Build and select\n\nOrganize projects by element type\nSynchronize database on build for newly created project\nOrder labels in label file by their ID\nproject\n\">\n        \n    project\n    \n5. Customize toolbars\nRight click on Toolbars, choose Customize\ntoolbars-1\n\">\n        \n    toolbars-1\n    \nCreate a new toolbar named D365\ntoolbars-2\n\">\n        \n    toolbars-2\n    \nSwitch to Commands tab, Choose D365 in Toolbar\ntoolbars-3\n\">\n        \n    toolbars-3\n    \nChoose Add Command -> Extensions -> Add commands that you want\ntoolbars-4\n\">\n        \n    toolbars-4\n    \nHere are my favorites\ntoolbars-5\n\">\n        \n    toolbars-5\n    \nNow you can access them directly from toolbars, it will save you some clicks.\ntoolbars-6\n\">\n        \n    toolbars-6",
@@ -33,6 +43,16 @@
           "publishedOn": "2023-01-20T00:00:00.000Z",
           "wordCount": 99,
           "title": "Microsoft Dynamics 365 Ecosystem map",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2023-01-01-filtering/",
+          "author": "Max Nguyen",
+          "description": "https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/user-interface/filtering\n1. Introduction\n2. Filter expressions\n\n2.1. Other frequent filter expressions\n3. Filter Pane\n\n3.1. When is the Filter Pane available?\n3.2. What data does the Filter Pane work on?\n3.3. What fields are initially shown in the Filter Pane?\n3.4. Can I control the default fields that appear in the Filter Pane?\n3.5. I don’t want users to be able to filter on a specific field or modify an existing filter. How do I accomplish this?\n3.6. Can I control the fields that appear in the Add a filter field list in the Filter Pane?\n3.7. How is the Filter Pane used?\n4. QuickFilter\n\n4.1. Why don’t I have a column selector in my QuickFilter?\n4.2. Can I use the QuickFilter to filter other collection controls (such as t…",
+          "link": "https://nuxulu.com/2023-01-01-filtering/",
+          "publishedOn": "2023-01-01T00:00:00.000Z",
+          "wordCount": 2085,
+          "title": "Filtering options Dynamics 365 Finance Operations",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
         {
@@ -3605,6 +3625,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/02/03/level-up-customer-journeys-with-advanced-orchestration-features-in-dynamics-365-marketing/",
+          "author": "Ellie Rui, Gaju Gatera, Shravan Shankar and Tereza Kirk",
+          "description": "Marketers design customer journeys to provide the right message at the right time for customers to take the next step. However, with customers playing an active role in shaping their own experiences in how they engage with the brand, marketers are faced with the challenge of designing increasingly complex journeys.\nThe post Level up customer journeys with advanced orchestration features in Dynamics 365 Marketing appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/02/03/level-up-customer-journeys-with-advanced-orchestration-features-in-dynamics-365-marketing/",
+          "publishedOn": "2023-02-03T17:39:51.000Z",
+          "wordCount": 2796,
+          "title": "Level up customer journeys with advanced orchestration features in Dynamics 365 Marketing",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/OFC16_Sylvie_011-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/02/microsoft-boosts-viva-sales-with-new-gpt-seller-experience/",
+          "author": "Lori Lamkin",
+          "description": "We're announcing the preview of a new generative AI-powered experience in Microsoft Viva Sales that helps sellers communicate more effectively with prospects and customers. \nThe post Microsoft boosts Viva Sales with new GPT seller experience appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/02/microsoft-boosts-viva-sales-with-new-gpt-seller-experience/",
+          "publishedOn": "2023-02-02T16:00:00.000Z",
+          "wordCount": 2385,
+          "title": "Microsoft boosts Viva Sales with new GPT seller experience",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/Untitled.png"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/02/01/use-the-customer-service-workspace-app-for-omnichannel-interactions/",
           "author": "Nick Stinnett",
           "description": "Starting Saturday, April 1, 2023, we will be deprecating the Microsoft Dynamics 365 Omnichannel for Customer Service application and encouraging customers to migrate to the Customer Service workspace application. This upcoming change will affect your multi-session agents currently using the Omnichannel for Customer Service application in Microsoft Dynamics 365 Customer Service. We have decided toRead more\nThe post Use the Customer Service workspace app for omnichannel interactions appeared first on Microsoft Dynamics 365 Blog.",
@@ -4189,6 +4229,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2355",
+          "author": "Saurabh Bharti",
+          "description": "In Microsoft Dynamics 365 Finance version 10.0.31, the Automate ledger settlements process feature is available in the Feature management workspace. You can enable the Automate ledger settlements process feature only if the Awareness between ledger settlement and year-end close feature has been enabled. Ledger settlement is the process of matching debit and credit transactions in the general ledger. […]",
+          "link": "https://exploredynamics365.home.blog/2023/02/04/automate-ledger-settlements-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-02-04T13:17:21.000Z",
+          "wordCount": 2557,
+          "title": "Automate ledger settlements in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/02/13.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2345",
           "author": "Saurabh Bharti",
           "description": "Personalization is one of the strong features available in Microsoft Dynamics 365 finance and operations which helps consultants and users to get the better user experience. As part of personalization workspace is one feature which as consultant, I suggest to all my end users because this provides lot of flexibility from managing day to day […]",
@@ -4376,6 +4426,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2355",
+          "author": "Saurabh Bharti",
+          "description": "In Microsoft Dynamics 365 Finance version 10.0.31, the Automate ledger settlements process feature is available in the Feature management workspace. You can enable the Automate ledger settlements process feature only if the Awareness between ledger settlement and year-end close feature has been enabled. Ledger settlement is the process of matching debit and credit transactions in the general ledger. […]",
+          "link": "https://exploredynamics365.home.blog/2023/02/04/automate-ledger-settlements-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-02-04T13:17:21.000Z",
+          "wordCount": 2559,
+          "title": "Automate ledger settlements in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/02/13.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2345",
           "author": "Saurabh Bharti",
           "description": "Personalization is one of the strong features available in Microsoft Dynamics 365 finance and operations which helps consultants and users to get the better user experience. As part of personalization workspace is one feature which as consultant, I suggest to all my end users because this provides lot of flexibility from managing day to day […]",
@@ -4562,6 +4622,16 @@
       "feedUrl": "https://d365snippets.com/feeds/posts/default",
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
+        {
+          "id": "https://www.d365snippets.com/2023/02/what-are-field-groups-in-d365-fo-with-example.html",
+          "author": null,
+          "description": "In the previous article, I explained how to set an Index on a Table. In this article, I will explain, how to create field groups and how to use them in Microsoft Dynamics 365 F&O.\n\n\n\nWhat are Field Groups?\nField groups are Objects which can exist on tables, maps, or views, and that can group fields logically together into a single Object. These field groups you can use to appear on the user interfaces like forms, reviews, reports, etc. You should define a field group when several fields participate in a single function or are related in some way and are shown together on forms and reports.\nExample for Field Groups?\nIn D365 F&O, the Customer Table contains many fields and field groups, The Credit field group contains fields that relate to credit like MandatoryCreditLimit and CreditRating.\nH…",
+          "link": "https://www.d365snippets.com/2023/02/what-are-field-groups-in-d365-fo-with-example.html",
+          "publishedOn": "2023-02-04T19:58:00.009Z",
+          "wordCount": 11137,
+          "title": "Field Groups in D365 FO with Example",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir5XNVNnpUrUbLC-dNgTOmLc-mahwyUH58Sy9nR8mdAgHkx82C9xZ6s1RnWYoqxtsvS-4jkaz4pvtctYEOHM0bprefw0jY8QF9ChOfG7jHzJPlV2J9AYzqq8MvAXL91sJh1Y-JcRZkdYjzjrm1rbVCOEbmLlqnxqdxkrFoNK8opiUbuuTc-8H1wsxK/s16000/Field%20Groups%20in%20D365%20FO%20with%20Example.jpg"
+        },
         {
           "id": "https://www.d365snippets.com/2023/01/how-to-create-an-index-in-d365-fo.html",
           "author": null,
@@ -6555,26 +6625,6 @@
           "publishedOn": "2021-06-01T14:52:31.000Z",
           "wordCount": 1145,
           "title": "Size does matter (or not?)",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0ceef68d-aa47-462e-a2ab-3fed684aa7b3",
-          "author": "Dick Wenning",
-          "description": "When we have a close look at the InventDim table, the fields can be split up in 3 groups. These 3 groups are already represented in the existing field groups.\n\n\n\n\nThe investigation\nAs you can see there are also Russian localization field in it, those can be turned off with the configuration key “Invent tracking dimensions – GTD, inventory profile, owner.”\nSo now how doe we add new tracking dimensions? There is a good documentation Add new inventory dimensions through extension – Finance & Operations | Dynamics 365 | Microsoft Docs\nOn the end there is an explanation how to add the predefined field to the product dimensions.\nIt is a good article with also an example code, but it will not work incase you want only a tracking dimension. To get that job don I investigated the tracking dimension…",
-          "link": "https://community.dynamics.com/ax/b/axstart/posts/create-tracking-dimension-in-d365fo-1114947400",
-          "publishedOn": "2021-02-04T16:22:19.000Z",
-          "wordCount": 1149,
-          "title": "Create tracking dimension in D365FO.",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:af399232-70ed-485f-9d32-ae89977769fc",
-          "author": "Dick Wenning",
-          "description": "When we have a close look at the InventDim table, the fields can be split up in 3 groups. These 3 groups are already represented in the existing field groups.\n\n\n\n\nThe investigation\nAs you can see there are also Russian localization field in it, those can be turned off with the configuration key “Invent tracking dimensions – GTD, inventory profile, owner.”\nSo now how doe we add new tracking dimensions? There is a good documentation Add new inventory dimensions through extension – Finance & Operations | Dynamics 365 | Microsoft Docs\nOn the end there is an explanation how to add the predefined field to the product dimensions.\nIt is a good article with also an example code, but it will not work incase you want only a tracking dimension. To get that job don I investigated the tracking dimension…",
-          "link": "https://community.dynamics.com/ax/b/axstart/posts/create-tracking-dimension-in-d365fo",
-          "publishedOn": "2021-02-04T16:22:19.000Z",
-          "wordCount": 1149,
-          "title": "Create tracking dimension in D365FO.",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
