@@ -6,9 +6,11 @@ sources:
   # AX Videos
   - href: https://community.dynamics.com/ax/b/axvideos/rss
   - href: https://community.dynamics.com/365/financeandoperations/b/howtovideos/rss
+  - href: https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/rss
   # AX News
   - href: https://community.dynamics.com/ax/b/axmsdwnews/rss
   - href: https://www.encorebusiness.com/blog/feed/
+  - href: https://community.dynamics.com/365/b/365teamblog/rss
   # - href: https://community.dynamics.com/ax/b/erpsoftwareblog/rss
   - href: https://dynamics.fo/rss.xml
   # - href: https://erpsoftwareblog.com/feed/
@@ -20,7 +22,7 @@ sources:
   - href: https://powerazure365.com/?format=rss
   - href: https://d365fostuff.wordpress.com/feed/
   - href: https://msdyn365fo.wordpress.com/feed/
-  - href: https://ariste.info/en/feed/
+  - href: https://ariste.info/feed/
   - href: https://dynagile.fr/en/home-page-blog/feed/
   - href: https://anithasantosh.wordpress.com/feed/
   - href: https://dynamics365musings.com/feed/
@@ -37,6 +39,11 @@ sources:
   - href: https://www.brewsterware.com/feed
   - href: https://alexvoy.blogspot.com/feeds/posts/default
   - href: https://shashidotnet.wordpress.com/feeds/posts/default
+  - href: http://feeds.feedburner.com/blogspot/YAiKF
+  - href: https://jatomas.com/feed/
+  - href: https://robscode.onl/rss/
+  - href: https://sandeepchaudhuryd365.com/feed/
+  - href: https://devblog.sertanyaman.com/feed/
 
   # Dynamics 365 HR
   - href: https://paragchapre.com/feed/
