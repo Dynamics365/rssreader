@@ -679,6 +679,163 @@
       ]
     },
     {
+      "title": "Microsoft Dynamics 365 FastTrack TechTalks",
+      "feedUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/rss",
+      "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
+      "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:285be383-aeb7-4edd-854e-b998b7b1f6f3",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nLane Swenka - lane.swenka@microsoft.com\nKenny Saelen - kenny.saelen@microsoft.com\nAman Nain - aman.nain@microsoft.com\nHaytham Said - Haytha...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/dynamics-365-finance-operations-monitoring-and-telemetry-using-application-insights-january-18-2023",
+          "publishedOn": "2023-01-25T19:26:00.000Z",
+          "wordCount": 3329,
+          "title": "Dynamics 365 Finance & Operations Monitoring and Telemetry using Application Insights | January 18, 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/354801_5F00_DTT123.png?_=638102718260580683"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1bb6ca9e-8ce5-44ab-9407-074e36719df8",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nSrinath Sundaresan ssundar@microsoft.com\nRob Bertram Robert.Bertram@microsoft.com\n~\nLearn best practices around development patterns when migrating from Retail...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/best-practices-and-patterns-january-4-2023",
+          "publishedOn": "2023-01-11T23:25:00.000Z",
+          "wordCount": 3315,
+          "title": "Best Practices and Patterns | January 4, 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/354350_5F00_DTT115.png?_=638090842422069308"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a4bd1bb2-a90e-4cf4-b4d5-94debfc6d1f4",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nVânia Ferramacho (Senior FastTrack Solution Architect) \n~\nThis how to video walks us through the process of creating Marketing emails using conditio...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/d365-marketing-conditional-content-january-2023",
+          "publishedOn": "2023-01-06T23:49:00.000Z",
+          "wordCount": 3253,
+          "title": "D365 Marketing Conditional Content | January 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/354213_5F00_MarketingConditional.png?_=638086461344867004"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f1ad1a1d-e241-4203-ac0b-9f5da797af2e",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nRayne Zou raynezou@microsoft.com\nSeverin Bock Severin.Bock@microsoft.com\nKevin Giardini kgiardini@microsoft.com\n~\nJoin this Tech Talk session to learn how to g...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/get-started-with-invoice-capture-for-dynamics-365-finance-december-12-14-2022",
+          "publishedOn": "2023-01-05T21:56:00.000Z",
+          "wordCount": 3326,
+          "title": "Get started with Invoice Capture for Dynamics 365 Finance | December 12 & 14, 2022",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/354172_5F00_DTT120.png?_=638085528582411883"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8d313574-0771-452f-98d9-44029e306a48",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "community.dynamics.com/.../DTT106EXT2_Recording_12152022.mp4\n\nPresenters: \nPhillip Seaton pseaton@microsoft.com\nJason Green Jason.M.Green@microsoft.com\nKevin Honeyman Kevin.Honeyman@microsoft.com...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/optimizing-the-experience-in-dynamics-365-finance-and-scm-december-14-15-2022",
+          "publishedOn": "2023-01-04T18:13:00.000Z",
+          "wordCount": 3403,
+          "title": "Optimizing the Experience in Dynamics 365 Finance and SCM | December 14-15, 2022",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/354120_5F00_DTT106.png?_=638084530308041240"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:42d6b06d-b58b-42de-8e1f-987576a72eb6",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nEvgeny Popov evgenypopov@microsoft.com \nMarek Rolecki Marek.Rolecki@microsoft.com\nSandeep Kumar kumarsand@microsoft.com\n~\nPlease join us in this session to lea...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/electronic-invoicing-in-saudi-arabia-for-dynamics-365-commerce-december-14-15-2022",
+          "publishedOn": "2022-12-27T17:59:00.000Z",
+          "wordCount": 3384,
+          "title": "Electronic invoicing in Saudi Arabia for Dynamics 365 Commerce | December 14-15, 2022",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/353950_5F00_DTT121.png?_=638077611204161149"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:184d9e82-d11b-443c-8b13-39952755ba47",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nBrian King Brian.King@microsoft.com\nJodi Christiansen jchrist@microsoft.com\nAdeel Edhi adeeledhi@microsoft.com\n~\nMicrosoft Dynamics 365 Subscription Billing al...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/subscription-billing---deferrals-and-allocations-december-13-2022",
+          "publishedOn": "2022-12-22T18:13:00.000Z",
+          "wordCount": 3310,
+          "title": "Subscription Billing - Deferrals and Allocations | December 13, 2022",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/353858_5F00_DTT116.png?_=638073297556745302"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ac4d84e7-3c9b-4cfb-8065-f7ff113b38fe",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nAnnette Bruer Annette.Bruer@microsoft.com\nMohamed Aamer moaamer@microsoft.com\nEric Pegors epegors@microsoft.com\nSeverin Bock Severin.Bock@microsoft.com\nHimani ...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/optimize-year-end-close-series---running-the-year-end-close-for-dynamics-365-finance-december-12-13-2022",
+          "publishedOn": "2022-12-21T22:42:00.000Z",
+          "wordCount": 3314,
+          "title": "Optimize year-end close Series - Running the Year-end close for Dynamics 365 Finance | December 12-13, 2022",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/353810_5F00_DTT118.png?_=638072594434878364"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bd211fd2-7d26-4231-aa3a-b7bf582de17f",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "Microsoft Dynamics 365 Subscription Billing allows users to manage their recurring billings while tracking and managing key aspects of their customer and client contracts.\n\n\n\n\n\nSessions include:\n\n...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/subscription-billing-dynamics-365-finance-series",
+          "publishedOn": "2022-12-21T00:01:00.000Z",
+          "wordCount": 3285,
+          "title": "Subscription Billing – Dynamics 365 Finance Series",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/353768_5F00_FinanceSeries.png?_=638071787658751433"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5b4cea35-8a61-4da0-83d1-a6e2ad3261fa",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nScott Tucker Scott.Tucker@microsoft.com \nHarish Jayaprakash hajayapr@microsoft.com\nJarad Shannon jashanno@microsoft.com\n~\nPoint-of-Sale is the heart of re...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/best-practices-for-point-of-sale-offline-databases-dynamics-365-commerce-december-7-8-2022",
+          "publishedOn": "2022-12-20T19:26:00.000Z",
+          "wordCount": 3306,
+          "title": "Best Practices for Point-of-Sale Offline Databases – Dynamics 365 Commerce | December 7-8, 2022",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/353766_5F00_DTT107.png?_=638071615255815163"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:dca4f609-5bb1-47e3-b373-ffc01ca1bc46",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nRashmi Mansur rashmim@microsoft.com\nMata Prasad Gupta matgupta@microsoft.com\nDileep Raj Perugu dileepp@microsoft.com\nAkshat Singh Akshat.Singh@microsoft.com\nH&...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/near-zero-downtime-nzdt-and-proactive-quality-updates-december-6-2022",
+          "publishedOn": "2022-12-16T21:38:00.000Z",
+          "wordCount": 3299,
+          "title": "Near-zero downtime (nZDT) and Proactive quality updates | December 6, 2022",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/353674_5F00_DTT119.png?_=638068236724484517"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ca2962ee-d566-4782-b609-aadc4b5fb3f8",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nAnnette Bruer Annette.Bruer@microsoft.com\nMohamed Aamer moaamer@microsoft.com\nEric Pegors epegors@microsoft.com\nSeverin Bock Severin.Bock@microsoft.com\nHimani ...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/optimize-year-end-close-series---preparing-for-your-year-end-close-with-dynamics-365-finance-december-6-2022",
+          "publishedOn": "2022-12-15T20:26:00.000Z",
+          "wordCount": 3303,
+          "title": "Preparing for your Year-end close with Dynamics 365 Finance | December 6, 2022",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/353636_5F00_DTT117.png?_=638067329054272853"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b7b43765-21e7-459d-9a87-c9a36f652bdd",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "This Dynamics 365 Finance TechTalk series focuses on planning activities, setup, and configuration required to optimize year-end close processes of Dynamics 365 Finance. The series includes a sess...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/optimize-year-end-close-series-dynamics-365-finance",
+          "publishedOn": "2022-12-15T19:22:00.000Z",
+          "wordCount": 3326,
+          "title": "Optimize year-end close series – Dynamics 365 Finance",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/353634_5F00_OptimizeSeries.png?_=638067296864163437"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:9ff733de-b650-4765-a676-083c34f91e79",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nAndreea Bunduc abunduc@microsoft.com\nCorina Balan corinabalan@microsoft.com\nLane Swenka - Lane.Swenka@microsoft.com\nSaurabh Kuchhal Saurabh.Kuchhal@microsoft.c...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/one-admin---lcs-ppac-integration-december-7-2022",
+          "publishedOn": "2022-12-14T21:24:00.000Z",
+          "wordCount": 3308,
+          "title": "One Admin - LCS PPAC Integration | December 7, 2022",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/353591_5F00_DTT112.png?_=638066500058635614"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:11b3f2fd-3304-4c03-bb01-600523767601",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nSrinath Sundaresan ssundar@microsoft.com \nRob Bertram Robert.Bertram@microsoft.com\n~\nLearn best practices around planning and executing your migration fro...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/planning-and-execution-rapid-start-december-1-2022",
+          "publishedOn": "2022-12-12T22:27:00.000Z",
+          "wordCount": 3313,
+          "title": "Store Commerce Planning and Execution (Rapid Start) | December 1, 2022",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/353518_5F00_Planningexecution.png?_=638064809709053241"
+        }
+      ]
+    },
+    {
       "title": "MSDynamicsWorld.com AX News",
       "feedUrl": "https://community.dynamics.com/ax/b/axmsdwnews/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
@@ -1473,6 +1630,163 @@
       ]
     },
     {
+      "title": "Microsoft Dynamics 365 Blog",
+      "feedUrl": "https://community.dynamics.com/365/b/365teamblog/rss",
+      "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
+      "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bc168e4a-912a-4a29-b84c-1a11e2415832",
+          "author": "Andrew Haller",
+          "description": "Innovation is a fundamental element for businesses to remain competitive and achieve success. Innovation leads to increased efficiency and effectiveness and contributes to improved business performance. With the ongoing economic challenges and recession facing global economies, the importance of innovation is even greater. The finance team plays a vital role in this endeavor by incorporating innovation into its strategies and operations. CFOs must not only fulfill their responsibilities as the financial stewards of the business but also actively collaborate with other departments to foster innovation and prepare for potential disruptions. In this challenging environment, CFOs must accomplish more with limited resources; innovation is the key to achieving this goal.\nThis blog post will expl…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/finance-reimagined-microsoft-uses-low-code-and-automation-to-streamline-processes",
+          "publishedOn": "2023-01-30T16:00:00.000Z",
+          "wordCount": 5046,
+          "title": "Finance Reimagined: Microsoft uses low-code and automation to streamline processes",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:39b24501-911f-4c2e-96a5-9fb8d1120e29",
+          "author": "Pulkita Dua",
+          "description": "We know how important it can be to see a product, test drive all its capabilities, and explore different features before you are ready to buy. With the Dynamics 365 Customer Service trials, you can quickly and easily experience the product for free. There is no credit card required or software to install! Here is what you get: \n\nA tenant with preloaded sample data that you can modify, plus the ability to create new data  \n\nThe ability to visualize the power of out-of-box analytics based on the sample data  \n\nA voice and chat channel experience for both the customer and the agent that simulates real contact center processes with no configuration \n\nYou’ll learn how these intelligent business applications go beyond traditional customer relationship management (CRM) systems to help you adapt, …",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/create-a-digital-contact-center-in-seconds-with-the-customer-service-free-trial",
+          "publishedOn": "2023-01-27T18:00:00.000Z",
+          "wordCount": 4363,
+          "title": "Create a Digital Contact Center in seconds with the Customer Service free trial",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e640870b-336a-41ae-92e5-58549cd4d755",
+          "author": "Mo Osborne",
+          "description": "On January 25, 2023, we published the 2023 release wave 1 plans for Microsoft Dynamics 365 and Microsoft Power Platform, a compilation of new capabilities planned to be released between April 2023 and September 2023. This first release wave of the year offers hundreds of new features and enhancements, demonstrating our continued investment to power digital transformation for our customers and partners. \nThis release wave builds on our commitment to create applications and experiences that add value to every role by breaking down silos between data, insights, and people. New capabilities empower new ways to make informed decisions with AI-guided insights and suggested actions, easier ways to automate tasks and processes, and collaboration seamlessly integrated into the flow of work, plus, n…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/2023-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available",
+          "publishedOn": "2023-01-25T16:00:00.000Z",
+          "wordCount": 5603,
+          "title": "2023 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5e4867fb-4bb7-4d05-8fc4-5ab6ac563138",
+          "author": "Ashwini Kumar Dalai",
+          "description": "Data is one of the key resources to making informed, contextual decisions. Without data, without being able to measure telemetry and usage, it's challenging to identify areas of improvement. But it's not just the data itself that matters, it's that this data is actionable, helping users understand not only the what, but also the how and why. With Dynamics 365 Sales product usage reports, we're happy to offer administrators and sales managers the ability to get data at their fingertips.\nThe new feature allows sales managers and sales administrators to track the usage of Contacts, Opportunities, Leads and Accounts (COLA entities) by their sellers. With this information, they will be able to make critical decisions about the work processes within their teams. For example, they will be able to…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/optimize-dynamics-365-sales-product-usage-with-new-reports",
+          "publishedOn": "2023-01-24T18:40:00.000Z",
+          "wordCount": 4252,
+          "title": "Optimize Dynamics 365 Sales product usage with new reports!",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:2e0dab43-5e9b-4698-b6f4-ee2832d5264c",
+          "author": "Angela Chang",
+          "description": "The past couple years have been challenging for many customer service organizations. Meeting customers' rising expectations and adapting to their evolving needs within a volatile economic landscape has been a herculean effort. Businesses are investing more in measuring the impact of their customer service, and the investment is paying dividends. In fact, it's becoming more about the total customer experience and transforming the business models to create effortless experiences for both customers as well as employees. By 2026, Gartner predicts that 60 percent of large enterprises will use total experience to transform their business models to achieve world-class customer and employee advocacy levels.1 This growing acknowledgment is a positive indicator that service is finally recognized as …",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/5-customer-service-trends-to-watch-in-2023",
+          "publishedOn": "2023-01-24T16:00:00.000Z",
+          "wordCount": 5151,
+          "title": "5 customer service trends to watch in 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8f8969e6-db4b-4671-bdbe-2e2baf6dea78",
+          "author": "Olga Goldenberg",
+          "description": "Taking time to speak with customers remains one of the best ways to build relationships and close deals faster. However, in a digital world it is often difficult to secure that moment of interaction. So when that moment happens, it is critical to focus on the conversation. Capturing valuable insights and next steps is a distraction at this precious time. Microsoft Dynamics 365 Sales conversation intelligence continues to harness AI technology to assist salespeople with just that it's there as your chief note taker. Master conversation follow ups by uncovering value from each call and gaining a deeper understanding of your customer interactions.\nWe're excited to introduce two new features designed to save time and allow users to quickly access the most relevant and valuable insights from th…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/optimize-sales-conversation-follow-ups-in-two-easy-steps",
+          "publishedOn": "2023-01-19T20:06:08.000Z",
+          "wordCount": 4356,
+          "title": "Optimize sales conversation follow-ups in two easy steps",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8d667fe0-98e3-4a43-b5f4-ca01fc221584",
+          "author": "Galyna Fedorova",
+          "description": "Telemetry is a crucial tool in monitoring the performance of a system to generate actionable insights that can improve productivity and optimize users' experience. New warehousing telemetry data in Dynamics 365 Supply Chain Management helps provide insight into the activities and general health of your Warehouse Management tenants and devices, so that you can diagnose problems and analyze operations that affect performance.\nWith Warehouse Management Application Insights telemetry, you'll be able to answer questions like these:\n\nWhat's the state of the Warehouse Management mobile app and the devices it runs on? Are battery usage and network communication latency where you expect them to be, and if not, why not?\nHow are your warehouse processes performing, including the time it takes to rele…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/warehousing-telemetry-now-available-in-supply-chain-management",
+          "publishedOn": "2023-01-19T19:57:19.000Z",
+          "wordCount": 4352,
+          "title": "Warehousing telemetry now available in Supply Chain Management",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:55fb32f6-6afa-4662-a225-5b4161e5e2af",
+          "author": "Olga Goldenberg",
+          "description": "Taking time to speak with customers remains one of the best ways to build relationships and close deals faster. However, in a digital world it is often difficult to secure that moment of interaction. So when that moment happens, it is critical to focus on the conversation. Capturing valuable insights and next steps is a distraction at this precious time. Microsoft Dynamics 365 Sales conversation intelligence continues to harness AI technology to assist salespeople with just that it's there as your chief note taker. Master conversation follow ups by uncovering value from each call and gaining a deeper understanding of your customer interactions.\nWe're excited to introduce two new features designed to save time and allow users to quickly access the most relevant and valuable insights from th…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/optimize-sales-conversation-follow-ups-in-2-easy-steps",
+          "publishedOn": "2023-01-18T18:26:00.000Z",
+          "wordCount": 4361,
+          "title": "Optimize sales conversation follow ups in 2 easy steps!",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a5e6b777-caee-435e-a141-99a354c48d4f",
+          "author": "Vignesh Balasubramanian",
+          "description": "Resiliency for retailers might best be understood by thinking about the delight consumers feel when they order that specific, thoughtful gift online for the holidays or when they come across the perfect gift while shopping at a store. To be successful with consumers in these moments, retailers must have the right products in stock at the right time and deliver them quickly and cost-effectively. This is what resiliency for retailers looks like, but how do you build resiliency into your supply chain?\n\n\n\n\nMicrosoft Supply Chain Center\n\nReduce supply and demand mismatches by running simulations using AI and real-time, advanced analytics.\n\nTry the preview\n\n\n\nMcKinsey & Company found that 75 percent of consumer packaged goods (CPG) supply chain leaders prioritize supply chain digitalization, sug…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/the-microsoft-supply-chain-platform-enables-resiliency-for-retailers",
+          "publishedOn": "2023-01-17T19:30:00.000Z",
+          "wordCount": 5458,
+          "title": "The Microsoft Supply Chain Platform enables resiliency for retailers",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1f306e84-8846-4ab3-8fc1-d3aef5f2a4f1",
+          "author": "MJ DePalma",
+          "description": "As marketing leaders, one could say that your potential for success is only as good as the data you possess. But is that possession enough? To develop targeted, thoughtful, and inclusive customer experiences, acknowledging that today's data lacks representation, diversity, and reach is important. That's true whether you consider gender, race, age, cultural experiences, accessibility, and more.\nIn today's data-driven business landscape, it's important to reflect on the fact that the traditional data sets you've come to rely upon only provide part of the answer. To get to the heart of your customers' decision-making, you need to not only consider data that's inclusive and representative of the customers you are trying to reach, but also take a fresh look at how you measure this data.\nThe ind…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/the-data-bias-challenge-creating-inclusive-customer-experiences",
+          "publishedOn": "2023-01-12T16:00:00.000Z",
+          "wordCount": 5238,
+          "title": "The data bias challenge: Creating inclusive customer experiences",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:eda59fcd-ccae-4ea3-b095-5c5efe0548e1",
+          "author": "Diana Hoffman",
+          "description": "National Retail Federation (NRF) 2023: Retail's Big Show is here, and thousands of people are joining together in New York City to collectively envision what's next for the future of retail. The lessons and best practices to be shared have important implications for other industries as well. Retailers, operating in a highly competitive environment, are often the first to blaze the trail of innovation in customer experience.\nElevating the consumer shopping experience requires companies to deliver more relevant, streamlined experiences throughout the retail value chain. That delivery starts with unifying disparate data from sources across the end-to-end shopper journey. Driving customer acquisition, retention, and business growth requires a connection between your customers, your people, and…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/transform-retail-customer-experiences-with-the-microsoft-customer-experience-platform",
+          "publishedOn": "2023-01-10T16:00:00.000Z",
+          "wordCount": 4789,
+          "title": "Transform retail customer experiences with the Microsoft Customer Experience Platform",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:89eec158-fe2d-4c92-8c50-c5f7aeb002fc",
+          "author": "Chris Gschwend",
+          "description": "Jamie is an IT admin working on managing Contoso's IT services. Because his work is mission critical, he has a premier support account with the IT infrastructure provider. This includes direct technical support access to a specific support agent with deep knowledge of Jamie's setup and requirements.  \nJamie is working on enabling a new service in production. He knows there is some risk that he may run into an issue in the process. It gives Jamie peace of mind that he is only one call away from contacting a domain expert with knowledge of his setup if needed. \nIntroducing direct inbound calling in Dynamics 365 Customer Service \nMany customer contact centers have scenarios where the ability to contact a specific agent via phone is critical. Handling such setups via workstreams is very cumber…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/direct-inbound-calling-premier-support-made-easy",
+          "publishedOn": "2023-01-09T20:17:34.000Z",
+          "wordCount": 4127,
+          "title": "Direct inbound calling: Premier support made easy",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:eefe8253-5631-4212-884b-82e630f85695",
+          "author": "Varsha Nandula",
+          "description": "Since the November 2021 launch in select geographic regions of the native voice channel in Microsoft Dynamics 365 Customer Service, we have been expanding worldwide to satisfy growing customer demand. We are proud to announce that we now support local country regions as well. As of November 30, 2022, the voice support channel is live in Canada. \nNative voice support channel capabilities \nThe integrated voice channel allows customer service representatives to communicate with customers on the phone to resolve issues. The Canada launch includes all the features that the voice channel in omnichannel Customer Service environments supports today. \n\nSelf-serve voice support channel with Power Virtual Agents\nThe Canada general availability launch also integrates Power Virtual Agents. Subject matt…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/customer-service-voice-support-channel-launches-in-canada",
+          "publishedOn": "2023-01-05T18:37:00.000Z",
+          "wordCount": 4005,
+          "title": "Customer Service voice support channel launches in Canada",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8408c2e3-a270-4c96-a31b-0d94e24feb6c",
+          "author": "Chris Gschwend",
+          "description": "Ana is excitedly setting up her new smartphone when the screen goes blank. In dismay, she calls customer service. The estimated wait time is more than 45 minutes, and she is number 7 in the queue because all agents are busy handling holiday call volume. She decides to stay on the line listening to music on hold for 45 minutes. By the time she gets to speak to an agent, she is relieved but a bit angry. Her first support experience with the smartphone manufacturer is less than pleasant, and this is before she even has a chance to discuss her issue. If the company had implemented direct callback, now available in Microsoft Dynamics 365 Customer Service, Ana's first engagement with it would have been much more reassuring. \nIntroducing direct callback in Dynamics 365 Customer Service \nMany cust…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/direct-callback-because-nobody-likes-to-wait-on-the-phone",
+          "publishedOn": "2023-01-05T18:02:00.000Z",
+          "wordCount": 4287,
+          "title": "Direct callback: Because nobody likes to wait on the phone",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f686d15d-37ee-40c9-bf10-7cd005d43109",
+          "author": "Mohamed Aamer",
+          "description": "The year-end close process is a cumbersome, multi-step task that ensures an organization can provide accurate annual reports and financial statements for its stakeholders. It's critical to get it right, but the process can be intimidating and overwhelming. Trying to balance the workload among overstressed accounting staff can result in errors, multiple manual adjustments, and pressure on the finance department. The new Optimize year-end close feature in Microsoft Dynamics 365 Finance can help.\nYear-end close moves to a dedicated service with more visibility\nWith the new optimization, the heavy processing moves to a dedicated service, reducing resource consumption on SQL and batch servers and allowing the process to run more efficiently. The time saved enables your finance team to react qui…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/accelerate-your-year-end-close-process",
+          "publishedOn": "2022-12-16T18:38:00.000Z",
+          "wordCount": 4012,
+          "title": "Accelerate your year-end close process",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        }
+      ]
+    },
+    {
       "title": "Dynamics.FO - F&O Documentation and References",
       "feedUrl": "https://dynamics.fo/rss.xml",
       "siteUrl": "https://dynamics.fo/",
@@ -2170,168 +2484,108 @@
     },
     {
       "title": "ariste.info",
-      "feedUrl": "https://ariste.info/en/feed/",
-      "siteUrl": "https://ariste.info/en/",
+      "feedUrl": "https://ariste.info/feed/",
+      "siteUrl": "https://ariste.info",
       "articles": [
         {
-          "id": "https://ariste.info/?p=6814",
+          "id": "https://ariste.info/?p=6822",
           "author": "Adrià Ariste Santacreu",
-          "description": "It’s already that time of the year again, the Dynamics 365 and Power Platform 2023 Release Wave 1 plans have just been released! The 2023 release wave 1 for Microsoft Dynamics 365 Finance and Operations is focused on improving the development, administration, and user experiences by removing barriers, tightening integrations, and enhancing cross-platform capabilities. This… Continue Reading 2023 Release Wave 1 plans: what’s new?\nariste.info 2023 Release Wave 1 plans: what’s new?",
-          "link": "https://ariste.info/en/2023/01/2023-release-wave-1-plans-whats-new/",
-          "publishedOn": "2023-01-25T16:35:12.000Z",
-          "wordCount": 3748,
-          "title": "2023 Release Wave 1 plans: what’s new?",
-          "imageUrl": "https://ariste.info/wp-content/uploads/2023/01/Ilustracion_sin_titulo.jpeg"
+          "description": "Ya ha llegado esa época del año, ¡se acaban de publicar los planes de la Release Wave 1 2023 de Dynamics 365 y Power Platform! La Release Wave 1 2023 para Microsoft Dynamics 365 Finance and Operations se centra en mejorar la experiencia de desarrollo, administración y usuario mediante la eliminación de barreras, el refuerzo… Continue Reading Novedades de la release wave 1 2023\nariste.info Novedades de la release wave 1 2023",
+          "link": "https://ariste.info/2023/01/novedades-release-wave-1-2023/",
+          "publishedOn": "2023-01-25T16:35:15.000Z",
+          "wordCount": 3904,
+          "title": "Novedades de la release wave 1 2023",
+          "imageUrl": "https://static.ariste.info/wp-content/uploads/2023/01/Ilustracion_sin_titulo.jpeg"
         },
         {
-          "id": "https://ariste.info/?p=6717",
+          "id": "https://ariste.info/?p=6758",
           "author": "Adrià Ariste Santacreu",
-          "description": "We’ve been working with the F&O development VMs for a long time, specially Microsoft partners that need to be able to quickly and easily change between different customer environments, and using the VHD is a bit more complicated in that scenario. And of course, we use Remote Desktop Protocol to connect to these VMs. RDP [...]\nariste.info Configure Azure Bastion for Dynamics 365 F&O VMs",
-          "link": "https://ariste.info/en/2023/01/configure-azure-bastion-dynamics-365-vm/",
-          "publishedOn": "2023-01-17T07:31:33.000Z",
-          "wordCount": 4290,
-          "title": "Configure Azure Bastion for Dynamics 365 F&O VMs",
-          "imageUrl": "https://ariste.info/wp-content/uploads/2023/01/Destacada-1024x1024.jpeg"
+          "description": "Llevamos mucho tiempo trabajando con las VM de desarrollo de F&O, sobretodo los partners de Microsoft que necesitan poder cambiar rápida y fácilmente entre diferentes entornos de clientes, y utilizar el VHD es un poco más complicado en ese escenario. Y por supuesto, usamos RDP para conectarnos a estas VMs. RDP es poco seguro, debido… Continue Reading Configura Azure Bastion para tus máquinas de F&O\nariste.info Configura Azure Bastion para tus máquinas de F&O",
+          "link": "https://ariste.info/2023/01/configura-bastion-desarrollo-dynamics365-fo/",
+          "publishedOn": "2023-01-17T07:31:37.000Z",
+          "wordCount": 4453,
+          "title": "Configura Azure Bastion para tus máquinas de F&O",
+          "imageUrl": "https://static.ariste.info/wp-content/uploads/2023/01/Destacada-1024x1024.jpeg"
         },
         {
-          "id": "https://ariste.info/?p=6439",
+          "id": "https://ariste.info/?p=6460",
           "author": "Adrià Ariste Santacreu",
-          "description": "In the previous post, we learned about my proposal of an architecture for Azure API Management for integrations. And I closed the post with a pending thing, which was details on how to deploy and configure all the Azure resources the solution uses. And in today’s post we’re going to see how all the resources [...]\nariste.info IaC with Bicep: deploy Azure API Management Architecture",
-          "link": "https://ariste.info/en/2022/09/bicep-azure-api-management-architecture/",
-          "publishedOn": "2022-09-13T06:14:43.000Z",
-          "wordCount": 5469,
-          "title": "IaC with Bicep: deploy Azure API Management Architecture",
+          "description": "En mi último post conocimos la propuesta de arquitectura con Azure API Management para integraciones. Y terminé el post con una cosa pendiente, que era cómo desplegar y configurar todos los recursos de Azure que utiliza la solución. En el post de hoy vamos a ver cómo se crean todos los recursos, se enlazan y… Continue Reading IaC con Bicep: despliega la arquitectura de Azure API Management\nariste.info IaC con Bicep: despliega la arquitectura de Azure API Management",
+          "link": "https://ariste.info/2022/09/bicep-arquitectura-azure-api-management/",
+          "publishedOn": "2022-09-13T06:14:48.000Z",
+          "wordCount": 5061,
+          "title": "IaC con Bicep: despliega la arquitectura de Azure API Management",
           "imageUrl": "https://static.ariste.info/wp-content/uploads/2022/09/Bicep1-1024x1024.jpeg"
         },
         {
-          "id": "https://ariste.info/?p=6338",
+          "id": "https://ariste.info/?p=6403",
           "author": "Adrià Ariste Santacreu",
-          "description": "I’m back with additional information about Azure API Management! More Azure content, and I’ll probably continue to produce posts regarding Azure in the future. I believe there are numerous ways to learn new things, and for me, two of them are writing blog posts and using new technologies to solve problems at work. Of course, [...]\nariste.info Azure API Management for your integrations",
-          "link": "https://ariste.info/en/2022/09/azure-api-management-architecture/",
-          "publishedOn": "2022-09-06T08:21:32.000Z",
-          "wordCount": 4216,
-          "title": "Azure API Management for your integrations",
+          "description": "¡Estoy de vuelta con información adicional sobre Azure API Management! Más contenido de Azure, y probablemente seguiré escribiendo más posts relacionados con Azure en el futuro. Creo que hay muchas formas de aprender cosas nuevas, y para mí, dos de ellas son escribir artículos en el blog y utilizar nuevas tecnologías para resolver problemas en… Continue Reading API Management: arquitectura de integración\nariste.info API Management: arquitectura de integración",
+          "link": "https://ariste.info/2022/09/api-management-arquitectura-de-integracion/",
+          "publishedOn": "2022-09-06T08:21:45.000Z",
+          "wordCount": 4515,
+          "title": "API Management: arquitectura de integración",
           "imageUrl": "https://static.ariste.info/wp-content/uploads/2022/09/APIMArch-1024x1024.png"
         },
         {
-          "id": "https://ariste.info/?p=6263",
+          "id": "https://ariste.info/?p=6288",
           "author": "Adrià Ariste Santacreu",
-          "description": "We’ve seen a lot of improvements to the product since it was released as AX7, and some name changes too 😝 And one of the areas where we’ve seen more enhancements is the batch framework. And since the currently live last version of Dynamics 365 Finance and Operations, 10.0.28, we have a new feature that [...]\nariste.info Priority-based batch scheduling in Dynamics 365",
-          "link": "https://ariste.info/en/2022/07/priority-based-batch-scheduling-dynamics/",
-          "publishedOn": "2022-07-29T05:41:00.000Z",
-          "wordCount": 3333,
-          "title": "Priority-based batch scheduling in Dynamics 365",
+          "description": "Hemos visto muchas mejoras en el producto desde que fue lanzado como AX7, y algunos cambios de nombre también 😝 Y una de las áreas donde hemos visto más mejoras es el framework de trabajo por lotes. Y desde la última versión de Dynamics 365 Finance and Operations, la 10.0.28, tenemos una nueva característica que… Continue Reading Programación de lotes basada en prioridades en Dynamics 365\nariste.info Programación de lotes basada en prioridades en Dynamics 365",
+          "link": "https://ariste.info/2022/07/programacion-lote-basada-prioridades-dynamics/",
+          "publishedOn": "2022-07-29T05:41:22.000Z",
+          "wordCount": 3422,
+          "title": "Programación de lotes basada en prioridades en Dynamics 365",
           "imageUrl": "https://static.ariste.info/wp-content/uploads/2022/07/IMG-2391-1024x1024.png"
         },
         {
-          "id": "https://ariste.info/?p=6151",
+          "id": "https://ariste.info/?p=6216",
           "author": "Adrià Ariste Santacreu",
-          "description": "Let’s talk about logs in Dynamics 365 Finance and Operations. And I don’t mean the built-in database logs we’ve had since the old Axapta days. I’m talking about plain logs, a table and a form to see how/why data is changing, or logging external calls to OData or custom web services endpoints in the ERP. [...]\nariste.info Logs in Dynamics 365: not anymore!",
-          "link": "https://ariste.info/en/2022/06/logs-dynamics-365/",
-          "publishedOn": "2022-06-30T06:36:14.000Z",
-          "wordCount": 3349,
-          "title": "Logs in Dynamics 365: not anymore!",
+          "description": "Vamos a hablar de los logs en Dynamics 365 Finance and Operations. Y no me refiero a los logs de la base de datos que hemos tenido desde los viejos tiempos de Axapta. Me refiero a los logs a secas, una tabla y un formulario para ver cómo/por qué cambian los datos, o el registro… Continue Reading Logs en Dynamics 365: ¡nunca más!\nariste.info Logs en Dynamics 365: ¡nunca más!",
+          "link": "https://ariste.info/2022/06/log-dynamics-365/",
+          "publishedOn": "2022-06-30T06:32:53.000Z",
+          "wordCount": 3627,
+          "title": "Logs en Dynamics 365: ¡nunca más!",
           "imageUrl": "https://static.ariste.info/wp-content/uploads/2022/06/F1-1024x1024.jpeg"
         },
         {
-          "id": "https://ariste.info/?p=6077",
+          "id": "https://ariste.info/?p=6099",
           "author": "Adrià Ariste Santacreu",
-          "description": "In today’s post, I want to talk about using Azure API Management (APIM) along Dynamics 365 Finance and Operations. Azure API Management is a hybrid, multi-cloud management platform for APIs across all environments. This means that, after deploying an APIM account, you can create an API that can serve services from one system or multiple. [...]\nariste.info Azure API Management for Dynamics 365 F&O",
-          "link": "https://ariste.info/en/2022/02/azure-api-management-dynamics-365-fo/",
-          "publishedOn": "2022-02-09T08:00:43.000Z",
-          "wordCount": 2054,
-          "title": "Azure API Management for Dynamics 365 F&O",
+          "description": "En el post de hoy, quiero hablar del uso de Azure API Management (APIM) junto con Dynamics 365 Finance and Operations. Azure API Management es una plataforma de gestión híbrida y multi-nube para APIs en todos los entornos. Esto significa que, después de desplegar una cuenta de APIM, puedes crear una API que puede servir… Continue Reading Azure API Management y Dynamics 365 F&O\nariste.info Azure API Management y Dynamics 365 F&O",
+          "link": "https://ariste.info/2022/02/azure-api-management-dynamics-365-fo/",
+          "publishedOn": "2022-02-09T08:01:03.000Z",
+          "wordCount": 4167,
+          "title": "Azure API Management y Dynamics 365 F&O",
           "imageUrl": "https://static.ariste.info/wp-content/uploads/2022/02/Azure-API-Manager-1024x1024.png"
         },
         {
-          "id": "https://ariste.info/?p=6044",
+          "id": "https://ariste.info/?p=6049",
           "author": "Adrià Ariste Santacreu",
-          "description": "So three days ago I took a look at the new 10.0.25 features currently in the PEAP program, calmly scrolling through until I saw something about custom scripts on prod, something that read: Run custom X++ scripts with zero downtime You can imagine my face when I read this. At the beginning I was confused, [...]\nariste.info My take on the X++ custom scripts feature",
-          "link": "https://ariste.info/en/2022/02/my-take-on-the-custom-scripts-feature/",
-          "publishedOn": "2022-02-03T19:23:21.000Z",
-          "wordCount": 1558,
-          "title": "My take on the X++ custom scripts feature",
+          "description": "Hace tres días eché un vistazo a las nuevas características de la versión 10.0.25 actualmente en el programa PEAP, leyendo tranquilamente hasta que vi algo sobre custom scripts en prod, algo que decía: Run custom X++ scripts with zero downtime Podéis imaginar mi cara cuando leí esto. Al principio estaba confundido, luego sorprendido y luego… Continue Reading Mi opinión sobre los custom scripts de X++\nariste.info Mi opinión sobre los custom scripts de X++",
+          "link": "https://ariste.info/2022/02/mi-opinion-sobre-custom-scripts-de-x/",
+          "publishedOn": "2022-02-03T19:23:57.000Z",
+          "wordCount": 3538,
+          "title": "Mi opinión sobre los custom scripts de X++",
           "imageUrl": "https://static.ariste.info/wp-content/uploads/2022/02/Ilustración_sin_títulores2.png"
         },
         {
-          "id": "https://ariste.info/?p=4689",
+          "id": "https://ariste.info/?p=4707",
           "author": "Adrià Ariste Santacreu",
-          "description": "The year 2021 has almost come to an end, and it’s time to review the changes we’ve had this past year. So in case you’ve missed something, I hope you can find it here, although I won’t include all new or changed Dynamics 365 Finance & Operations features, only some of them, the ones I’ve [...]\nariste.info New features for Dynamics 365 in 2021: my year-in-review",
-          "link": "https://ariste.info/en/2021/12/new-features-dynamics-365-2021-year-review/",
-          "publishedOn": "2021-12-15T07:13:25.000Z",
-          "wordCount": 1312,
-          "title": "New features for Dynamics 365 in 2021: my year-in-review",
+          "description": "El año 2021 está llegando a su fin, y es hora de repasar los cambios que hemos tenido durante este último año. Así que si os habéis perdido algo, espero que lo podáis encontrar aquí, aunque no voy a incluir todas las nuevas características de Dynamics 365 Finance & Operations, solo algunas de ellas, las… Continue Reading Nuevas características de Dynamics 365 en 2021: mirando por el retrovisor\nariste.info Nuevas características de Dynamics 365 en 2021: mirando por el retrovisor",
+          "link": "https://ariste.info/2021/12/nuevas-caracteristicas-dynamics-365-2021/",
+          "publishedOn": "2021-12-15T07:13:22.000Z",
+          "wordCount": 3626,
+          "title": "Nuevas características de Dynamics 365 en 2021: mirando por el retrovisor",
           "imageUrl": "https://static.ariste.info/wp-content/uploads/2021/12/IMG-2369-1024x1024.png"
         },
         {
-          "id": "https://ariste.info/?p=4655",
+          "id": "https://ariste.info/?p=4664",
           "author": "Adrià Ariste Santacreu",
-          "description": "There’s a new version and a new task for our release pipelines that use the Azure-hosted agents. These changes have been introduced recently to support the new MSAL authentication libraries for the LCS service connection used to upload and deploy the deployable packages. The current service connections use Azure Active Directory (Azure AD) Authentication Library (ADAL), and support [...]\nariste.info New Azure DevOps release tasks: MSAL authentication and ADAL deprecation",
-          "link": "https://ariste.info/en/2021/11/azure-devops-release-msal-authentication/",
-          "publishedOn": "2021-11-25T17:28:14.000Z",
-          "wordCount": 926,
-          "title": "New Azure DevOps release tasks: MSAL authentication and ADAL deprecation",
+          "description": "Se ha publicado una nueva versión de las tareas para nuestros pipelines que usan los agentes de Azure. Estos cambios se han introducido recientemente para dar soporte a las librerías de autenticación MSAL para la conexión de LCS que utilizamos para subir y desplegar los deployable packages. Las conexiones que tenemos ahora usan la Azure… Continue Reading Autenticación MSAL, nuevas tareas de Azure DevOps y fin de soporte a ADAL\nariste.info Autenticación MSAL, nuevas tareas de Azure DevOps y fin de soporte a ADAL",
+          "link": "https://ariste.info/2021/11/nuevas-tareas-azure-devops-autenticacion-msal/",
+          "publishedOn": "2021-11-25T17:28:16.000Z",
+          "wordCount": 3328,
+          "title": "Autenticación MSAL, nuevas tareas de Azure DevOps y fin de soporte a ADAL",
           "imageUrl": "https://static.ariste.info/wp-content/uploads/2020/05/AzureDevOpsPipeline-2-702x1024.png"
-        },
-        {
-          "id": "https://ariste.info/?p=4603",
-          "author": "Adrià Ariste Santacreu",
-          "description": "QR codes are very present in our daily lives as a way to share information, URLs, or other data quickly. In this post, we’ll learn how to display one in a Dynamics 365 form or a SSRS report using a library which is included in our development VMs: QRCoder. Generating a QR code QRCoder is [...]\nariste.info Add a QR code to Dynamics 365 forms and reports",
-          "link": "https://ariste.info/en/2021/11/add-qr-code-dynamics-365-forms-reports/",
-          "publishedOn": "2021-11-15T07:09:36.000Z",
-          "wordCount": 1299,
-          "title": "Add a QR code to Dynamics 365 forms and reports",
-          "imageUrl": "https://static.ariste.info/wp-content/uploads/2021/11/AE703AD5-A8E8-4D16-9DDB-E7339696B5E1-1024x1024.jpeg"
-        },
-        {
-          "id": "https://ariste.info/?p=4562",
-          "author": "Adrià Ariste Santacreu",
-          "description": "Now that Microsoft will also update additional Dynamics 365 Finance and Operations Sandbox environments, partners and customers will only need to take care of updating cloud-hosted environments, as we’ve always done. I’m sure each team manages this differently, maybe leaving it to each developer to update their VM, or there’s someone in the customer or [...]\nariste.info Update VMs using pipelines and d365fo.tools",
-          "link": "https://ariste.info/en/2021/11/update-vms-using-pipelines-and-d365fo-tools/",
-          "publishedOn": "2021-11-08T07:12:03.000Z",
-          "wordCount": 2087,
-          "title": "Update VMs using pipelines and d365fo.tools",
-          "imageUrl": "https://static.ariste.info/wp-content/uploads/2021/11/auto3-1024x1024.png"
-        },
-        {
-          "id": "https://ariste.info/?p=4541",
-          "author": "Adrià Ariste Santacreu",
-          "description": "Creating a package or a model is one of the first things we’ll do when starting to code in a new project. It’s something very basic, but I’m still seeing some issues around this, bad practices that can lead to problems in the future. Packages or models? Is a package something different as a model? [...]\nariste.info Package and Model planning",
-          "link": "https://ariste.info/en/2021/11/package-model-planning/",
-          "publishedOn": "2021-11-03T07:11:12.000Z",
-          "wordCount": 1094,
-          "title": "Package and Model planning",
-          "imageUrl": "https://static.ariste.info/wp-content/uploads/2021/11/Models-1024x1024.png"
-        },
-        {
-          "id": "https://ariste.info/?p=4197",
-          "author": "Adrià Ariste Santacreu",
-          "description": "Need to get the price of an item that has a sales or purchase agreement? The PriceDisc class is here to save us! This is one of those reference posts that I’m writing for the Adrià of the future, because it’s something I forget about a lot. PriceDisc magic! There’s an obsolete method, I think [...]\nariste.info PriceDisc: getting prices the right way",
-          "link": "https://ariste.info/en/2021/10/pricedisc-getting-prices-right-way/",
-          "publishedOn": "2021-10-19T07:03:29.000Z",
-          "wordCount": 637,
-          "title": "PriceDisc: getting prices the right way",
-          "imageUrl": "https://static.ariste.info/wp-content/uploads/2021/10/PriceDisc-1024x1024.png"
-        },
-        {
-          "id": "https://ariste.info/?p=4328",
-          "author": "Adrià Ariste Santacreu",
-          "description": "It’s been some time since I wrote “Is Dataverse the future of Finance and Operations apps?“, and when I did, Dataverse was still called CDS and still went through several name changes. Has anything changed since I wrote that post? Do I still see Dataverse as the future of Finance and Operations apps? Well, now [...]\nariste.info Dataverse and Cross-apps capabilities: the future of FnO",
-          "link": "https://ariste.info/en/2021/10/dataverse-cross-apps-future-fno/",
-          "publishedOn": "2021-10-13T06:24:25.000Z",
-          "wordCount": 1053,
-          "title": "Dataverse and Cross-apps capabilities: the future of FnO",
-          "imageUrl": "https://static.ariste.info/wp-content/uploads/2021/10/Pitoniso-1024x1024.png"
-        },
-        {
-          "id": "https://ariste.info/?p=4326",
-          "author": "Adrià Ariste Santacreu",
-          "description": "You can read my complete ALM guide on Microsoft Dynamics 365 for Finance & Operations and Azure DevOps. Moving data from the production to a sandbox environment is something we regularly have to do to have real updated data to do some testing or debugging. It’s a process that takes time and that can be [...]\nariste.info Restore a data package with Azure DevOps Pipelines",
-          "link": "https://ariste.info/en/2021/09/restore-data-package-azure-devops-pipelines/",
-          "publishedOn": "2021-09-01T16:17:03.000Z",
-          "wordCount": 2513,
-          "title": "Restore a data package with Azure DevOps Pipelines",
-          "imageUrl": "https://static.ariste.info/wp-content/uploads/2021/09/AutoPipe-1024x1024.png"
         }
       ]
     },
@@ -5242,6 +5496,180 @@
           "wordCount": 3078,
           "title": "Visual studio – Copy all from Find Symbol Results",
           "imageUrl": "https://shashidotnet.files.wordpress.com/2020/09/lowpolypotrait_zia.png?w=200"
+        }
+      ]
+    },
+    {
+      "title": "Dilip's blog on Dynamics 365 for Finance and Operations and Classic AX",
+      "feedUrl": "http://feeds.feedburner.com/blogspot/YAiKF",
+      "siteUrl": "http://daxdilip.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "Juan Antonio Tomás",
+      "feedUrl": "https://jatomas.com/feed/",
+      "siteUrl": "https://jatomas.com",
+      "articles": [
+        {
+          "id": "https://jatomas.com/?p=1967",
+          "author": "ja.tomas",
+          "description": "En esta ocasión, vengo a compartir una pieza de código que me ha sido muy útil a la hora de consumir entidades de datos de Dynamics 365 Finance and Operations, ya sean tanto entidades estándar, como entidades personalizadas, desde cualquier tipo de aplicación escrita en C#. En mi caso concreto, es una pieza de código… \nRead",
+          "link": "https://jatomas.com/2023/01/03/consumir-entidades-dynamics-365-fo-cs/",
+          "publishedOn": "2023-01-03T08:21:19.000Z",
+          "wordCount": 3519,
+          "title": "Consumir Entidades de Dynamics 365 F&O desde C#",
+          "imageUrl": "https://i0.wp.com/jatomas.com/wp-content/uploads/2022/12/consumir-entidades-de-Dynamics-365-FO-desde-C.png"
+        },
+        {
+          "id": "https://jatomas.com/?p=1887",
+          "author": "ja.tomas",
+          "description": "Gracias a la Power Platform, se han multiplicado las opciones que tenemos para extender Dynamics 365 Finance and Operations sin necesidad de escribir código. En artículos anteriores vimos como podíamos aprovechar los flujos de Power Automate para ello, y en esta ocasión, nos vamos a centrar en las distintas formas que tenemos para insertar aplicaciones… \nRead",
+          "link": "https://jatomas.com/2022/04/20/insertar-power-apps-dynamics-365-finance-operations/",
+          "publishedOn": "2022-04-20T11:19:38.000Z",
+          "wordCount": 2389,
+          "title": "Insertar Power Apps en Dynamics 365 Finance and Operations",
+          "imageUrl": "https://i0.wp.com/jatomas.com/wp-content/uploads/2022/04/insertar-Power-apps-dynamics-365-finance-operations-jatomas.png"
+        },
+        {
+          "id": "https://jatomas.com/?p=1775",
+          "author": "ja.tomas",
+          "description": "Hace unas semanas, preparando la sesión para el Global Power Platform Bootcamp 2021, me di cuenta que la serie de artículos que había escrito sobre Power Automate & MSDyn365FO estaba incompleta…, me había dejado una de las opciones que tiene disponible el conector de Dynamics 365 Finance and Operations apps sin analizar: Ejecutar acción Ejecutar… \nRead",
+          "link": "https://jatomas.com/2021/04/13/power-automate-msdyn365fo-fondo-iv/",
+          "publishedOn": "2021-04-13T06:48:22.000Z",
+          "wordCount": 1732,
+          "title": "Power Automate & MSDyn365FO: A fondo (IV)",
+          "imageUrl": "https://i0.wp.com/jatomas.com/wp-content/uploads/2021/04/power-automate-msdyn365fo-a-fondo-iv.png"
+        }
+      ]
+    },
+    {
+      "title": "robsCode",
+      "feedUrl": "https://robscode.onl/rss/",
+      "siteUrl": "https://robscode.onl/",
+      "articles": [
+        {
+          "id": "62c06aea4cecce22d735c4d6",
+          "author": "Robin Kretzschmar",
+          "description": "Sometimes it happens on a D365 DevBox that after a get latest or some copy operation in the PackagesLocalDirectory folder the following error occurs after using \"Refresh models\" in Visual Studio:\nModule Reference 'yyy' in model 'zzz' cannot be located. This is an indication",
+          "link": "https://robscode.onl/d365-module-reference-in-model-cannot-be-located/",
+          "publishedOn": "2021-11-04T14:41:07.000Z",
+          "wordCount": 821,
+          "title": "[D365] Module reference in model cannot be located",
+          "imageUrl": "https://robscode.onl/content/images/2015/02/Black-Pattern-1680x1050.jpg"
+        },
+        {
+          "id": "62c06aea4cecce22d735c4d5",
+          "author": "Robin Kretzschmar",
+          "description": "Checking the Platform Update Version from the client is easy:\nClick the questionmark icon in the top right corner and select \"About\" to see the version info.\n\nBut what to do if the client is not available (for example because a build is failing)?\nIn earlier versions it",
+          "link": "https://robscode.onl/d365-check-version-without-client-files/",
+          "publishedOn": "2021-10-27T08:41:44.000Z",
+          "wordCount": 759,
+          "title": "[D365] Check Version without client (files)",
+          "imageUrl": "https://robscode.onl/content/images/2015/02/Black-Pattern-1680x1050.jpg"
+        },
+        {
+          "id": "62c06aea4cecce22d735c4d4",
+          "author": "Robin Kretzschmar",
+          "description": "Often one or more ISV solution can be found in larger projects.\nEither if they are bought to solve a specific problem in shorter time or to introduce industry specific functionality, they receive frequent updates and the project team or customer needs to deal with them.\nIt makes sense to",
+          "link": "https://robscode.onl/d365-how-to-update-isv-solutions-with-version-control/",
+          "publishedOn": "2021-08-10T13:32:30.000Z",
+          "wordCount": 983,
+          "title": "[D365] How to update ISV solutions with version control",
+          "imageUrl": "https://robscode.onl/content/images/2015/02/Black-Pattern-1680x1050.jpg"
+        },
+        {
+          "id": "62c06aea4cecce22d735c4d3",
+          "author": "Robin Kretzschmar",
+          "description": "In a project with more than 3 ISV solutions installed we encountered the following compile error from time to time while updating to a new version of ISV Solutions:\n[AxFormExtension/EcoResProductDetailsExtended.ourOwnExtension/Controls/FormExtensionControlnhogurxf1/Parent]:The parent 'ButtonGroupNameFromISV' of the additional control 'FormExtensionControlnhogurxf1' was not found",
+          "link": "https://robscode.onl/d365-the-parent-of-additional-control-was-not-found-on-the-base-form/",
+          "publishedOn": "2021-06-01T15:34:34.000Z",
+          "wordCount": 795,
+          "title": "[D365] The parent of additional control was not found on the base form",
+          "imageUrl": "https://robscode.onl/content/images/2015/02/Black-Pattern-1680x1050.jpg"
+        },
+        {
+          "id": "62c06aea4cecce22d735c4d2",
+          "author": "Robin Kretzschmar",
+          "description": "We recently upgraded to PU39 and restored a database from a UAT environment to a Test environment (DevTest).\nAfter that import and export projects failed without a clear error message.\nThe eventlog stated the following:\n\nApplication: DMFExecutePackage.exe\nFramework Version: v4.0.30319\nDescription: The process was terminated due to",
+          "link": "https://robscode.onl/d365-import-export-projects-fail-no-clear-error/",
+          "publishedOn": "2021-02-16T08:13:33.000Z",
+          "wordCount": 867,
+          "title": "[D365] Import export projects fail without clear error DMFExecutePackage unhandled exception",
+          "imageUrl": "https://robscode.onl/content/images/2015/02/Black-Pattern-1680x1050.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft Dynamics 365 Blog",
+      "feedUrl": "https://sandeepchaudhuryd365.com/feed/",
+      "siteUrl": "https://sandeepchaudhuryd365.com",
+      "articles": [
+        {
+          "id": "http://sandeepchaudhuryd365.com/?p=6370",
+          "author": "Sandeep Chaudhury",
+          "description": "In the mobile first cloud first era, B2B and B2C businesses of all sizes are continuously introducing innovative subscription based products and service offerings and are finding new ways to generate recurring revenue to stay relevant in the business. The end goal is get customers subscribed to their services, keep innovating at scale to retain … Continue reading Does your organization have the right business technology to thrive in the subscription economy? See how Dynamics 365 Finance can help.",
+          "link": "https://sandeepchaudhuryd365.com/2022/04/17/does-your-organization-have-the-right-business-technology-to-thrive-in-the-subscription-economy-see-how-dynamics-365-finance-can-help-you/",
+          "publishedOn": "2022-04-17T05:19:42.000Z",
+          "wordCount": 5670,
+          "title": "Does your organization have the right business technology to thrive in the subscription economy? See how Dynamics 365 Finance can help.",
+          "imageUrl": "https://sandeepchaudhury.files.wordpress.com/2022/04/pexels-photo-5882683.jpeg?w=1200"
+        },
+        {
+          "id": "http://sandeepchaudhuryd365.com/?p=6179",
+          "author": "Sandeep Chaudhury",
+          "description": "Possibilities of business processes automation and extension is limitless when you use Microsoft power platform. Use PowerApps to extend user interfaces and functionality of your CRM or ERP apps, use power automate to automate business process actions or use AI builder and RPA to reduce manual labor intensive work for your employees. Dynamics 365 and … Continue reading Workflow work item approvals in D365 F&O using Microsoft Power Automate/Flow",
+          "link": "https://sandeepchaudhuryd365.com/2021/12/30/workflow-work-item-approvals-in-d365-fo-using-microsoft-power-automate-flow/",
+          "publishedOn": "2021-12-29T18:55:06.000Z",
+          "wordCount": 5138,
+          "title": "Workflow work item approvals in D365 F&O using Microsoft Power Automate/Flow",
+          "imageUrl": "https://sandeepchaudhury.files.wordpress.com/2021/12/pexels-photo-459654.jpeg?w=1200"
+        },
+        {
+          "id": "http://sandeepchaudhuryd365.com/?p=6118",
+          "author": "Sandeep Chaudhury",
+          "description": "There is a new feature under the Feature management area that you can enable to setup an email ID for your users dedicated for workflow related notifications in D365 Finance and Supply Chain. When you enable this new feature, you will see a new field named “Alternate email” on the User Options page under the … Continue reading Dynamics 365 Finance & SCM Tip: Setup an alternate email ID for workflow notifications for your users",
+          "link": "https://sandeepchaudhuryd365.com/2021/05/13/dynamics-365-finance-scm-tip-setup-an-alternate-email-id-for-workflow-notifications-for-your-users/",
+          "publishedOn": "2021-05-13T14:58:56.000Z",
+          "wordCount": 4884,
+          "title": "Dynamics 365 Finance & SCM Tip: Setup an alternate email ID for workflow notifications for your users",
+          "imageUrl": "https://sandeepchaudhury.files.wordpress.com/2021/05/pexels-photo-7877015.jpeg?w=1200"
+        },
+        {
+          "id": "http://sandeepchaudhuryd365.com/?p=6103",
+          "author": "Sandeep Chaudhury",
+          "description": "Here is a quick tip on a new feature in the Expense Management module of Dynamics 365 Finance introduced in version 10.0.17. If you give cash advances to your employees for expenses they might incur(Office or travel related expenses), they now have better control over applying specific cash advances(s) against each line of their expense … Continue reading Dynamics 365 Finance Tip: Did you know you can now apply cash advances to individual expense report lines?",
+          "link": "https://sandeepchaudhuryd365.com/2021/05/13/dynamics-365-finance-tip-did-you-know-you-can-now-apply-cash-advances-to-individual-expense-report-lines/",
+          "publishedOn": "2021-05-13T14:18:53.000Z",
+          "wordCount": 4846,
+          "title": "Dynamics 365 Finance Tip: Did you know you can now apply cash advances to individual expense report lines?",
+          "imageUrl": "https://sandeepchaudhury.files.wordpress.com/2021/05/pexels-photo-6266445.jpeg?w=1200"
+        }
+      ]
+    },
+    {
+      "title": "Sertan's .dev blog",
+      "feedUrl": "https://devblog.sertanyaman.com/feed/",
+      "siteUrl": "https://devblog.sertanyaman.com",
+      "articles": [
+        {
+          "id": "https://devblog.sertanyaman.com/?p=3541",
+          "author": "Tayfun Sertan Yaman",
+          "description": "In this article I will explain you the very basics of SSL/TLS which is widely used in today’s secure connection methods for web browsing, APIs, services and IOT. Although platforms and SDKs often use SSL/TLS behind the scenes without requiring you to implement anything, it is quite essential to have this basic knowledge to keep … Continue reading Integration tips: SSL, TLS, Certificates and HTTPS",
+          "link": "https://devblog.sertanyaman.com/2021/05/10/integration-tips-ssl-tls-certificates-and-https/",
+          "publishedOn": "2021-05-10T19:17:24.000Z",
+          "wordCount": 2642,
+          "title": "Integration tips: SSL, TLS, Certificates and HTTPS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://devblog.sertanyaman.com/?p=3553",
+          "author": "Tayfun Sertan Yaman",
+          "description": "You may need to retrieve the URL of the D365 FO instance for logging or integration purposes, or for generating deep links. D365 FO foundation package provides you the URLUtility::getUrl() method for this. However this FO standard method does not work if you execute it from a batch or inside a custom API service. When … Continue reading X++: How to get the D365FO URL correctly inside backend services",
+          "link": "https://devblog.sertanyaman.com/2021/04/30/x-how-to-get-the-d365fo-url-correctly-inside-backend-services/",
+          "publishedOn": "2021-04-30T11:05:50.000Z",
+          "wordCount": null,
+          "title": "X++: How to get the D365FO URL correctly inside backend services",
+          "imageUrl": null
         }
       ]
     },
