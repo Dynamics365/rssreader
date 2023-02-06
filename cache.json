@@ -10245,16 +10245,6 @@
           "wordCount": 1828,
           "title": "IT☕ Time Podcast",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.d365fandom.com/2020/12/set-up-collections-agents-customer-pools.html",
-          "author": null,
-          "description": "When setting up the Credit and collections module in your D365 Finance environment, you will want to ensure that your collections team will have access to work with their assigned customers. Logging in and seeing all of the Customers with all of their information can be an overwhelming experience, making it more difficult for your collections team to do their job. D365 Finance allows for the creation of Collections agents with the ability to filter only assigned information.\n\n\nCollections Team\nThe first step in setting up Collections agents is to create a Team for your Collections agents. Teams can be set up at Organization administration > Organizations > Teams. It is here where you can define Teams of type Collections or Employees. You can also assign a Team administrator and define whet…",
-          "link": "https://www.d365fandom.com/2020/12/set-up-collections-agents-customer-pools.html",
-          "publishedOn": "2021-02-05T17:00:00.001Z",
-          "wordCount": 2490,
-          "title": "Set up Collections Agents and Customer Pools",
-          "imageUrl": "https://1.bp.blogspot.com/-oQm-kRh-xJc/X-jh9o8Xx1I/AAAAAAAABSQ/MbXBAuk0AcMgh_OcWEn6aEgSnQmv_R-DQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2020-12-27_14-32-30.png"
         }
       ]
     },
