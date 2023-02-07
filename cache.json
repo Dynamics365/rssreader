@@ -2842,6 +2842,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=2627",
+          "author": "peter.ramer",
+          "description": "There are scenarios where something cannot be fixed in Microsoft Dynamics 365 for Finance and Operations without running some code. In those cases you need to write and run a D365 Job. Until recently, in order to get this code into a Production environment, you needed to apply a package in Lifecycle Services (LCS). This... Continue Reading →\nThe post How To Run A D365 Job In Production appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/run-a-d365-job/?utm_source=rss&utm_medium=rss&utm_campaign=run-a-d365-job",
+          "publishedOn": "2023-02-06T14:00:00.000Z",
+          "wordCount": 4338,
+          "title": "How To Run A D365 Job In Production",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/01/How-To-Run-A-D365-Job-In-Production.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=2585",
           "author": "peter.ramer",
           "description": "In the last tutorial, I showed you how to add validation to the parameters of a batch job. In this article, learn to add D365 SysOperation Framework mandatory parameters. Validation can be added to ensure a user cannot run the job without setting a parameter. However, code can be added to actually show the parameter... Continue Reading →\nThe post D365 SysOperation Framework Mandatory appeared first on Dynamics 365 Musings.",

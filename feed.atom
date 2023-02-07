@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-06T03:39:50.743Z</updated>
+    <updated>2023-02-07T01:22:52.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Run A D365 Job In Production]]></title>
+        <id>https://dynamics365musings.com/?p=2627</id>
+        <link href="https://dynamics365musings.com/run-a-d365-job/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=run-a-d365-job"/>
+        <updated>2023-02-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are scenarios where something cannot be fixed in Microsoft Dynamics 365 for Finance and Operations without running some code. In those cases you need to write and run a D365 Job. Until recently, in order to get this code into a Production environment, you needed to apply a package in Lifecycle Services (LCS). This... Continue Reading →
+The post How To Run A D365 Job In Production appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Field Groups in D365 FO with Example]]></title>
         <id>https://www.d365snippets.com/2023/02/what-are-field-groups-in-d365-fo-with-example.html</id>
