@@ -2,10 +2,172 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-07T01:22:52.435Z</updated>
+    <updated>2023-02-10T02:45:56.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quick look – Preview of 10.0.32 Dynamics F&O – Part 1]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2356</id>
+        <link href="https://anithasantosh.wordpress.com/2023/02/09/quick-look-preview-of-10-0-32-dynamics-fo-part-1/"/>
+        <updated>2023-02-09T21:39:24.000Z</updated>
+        <summary type="html"><![CDATA[In order to get a feel of Preview version, it is available in Shared asset Library. If it is not found in the implementation project library, it can be imported from shared library . Click Import and then select the … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leap into the future of finance at Finance Reimagined 2023]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/09/leap-into-the-future-of-finance-at-finance-reimagined-2023/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/09/leap-into-the-future-of-finance-at-finance-reimagined-2023/"/>
+        <updated>2023-02-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With global volatility and inflation impacting organizations across all industries, business agility has never been more important. Leaders turn to finance teams to get real-time insight into business performance and recommendations on future initiatives that will help them thrive amid disruption.
+The post Leap into the future of finance at Finance Reimagined 2023 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Stephanie Dart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T-Mobile saves thousands of hours and achieves 12x gains in process efficiency with Power Platform]]></title>
+        <id>t-mobile-saves-thousands-of-hours-and-achieves-12x-gains-in-process-efficiency-with-power-platform</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/t-mobile-saves-thousands-of-hours-and-achieves-12x-gains-in-process-efficiency-with-power-platform/"/>
+        <updated>2023-02-09T15:40:58.000Z</updated>
+        <summary type="html"><![CDATA[T-Mobile, one of the largest wireless carriers in the United States, has used Power Platform to save the company over $4M USD and 97,000 hours with a single Power Apps app. In addition, with Power Automate capabilities, they improved core process efficiencies by 12x while reducing errors from 7% to 0%.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 F&O y firewalls: monitoreo de IPs de Azure]]></title>
+        <id>https://ariste.info/?p=6927</id>
+        <link href="https://ariste.info/2023/02/dynamics-365-firewall-monitoreo-ip-azure/"/>
+        <updated>2023-02-09T10:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Si estás integrando Dynamics 365 Finance & Operations con terceros, y tu organización o la del tercero están usando un firewall, puede que te hayas encontrado en el escenario de que te pregunten «¿cuál es la dirección IP del entorno de producción/sandbox?». Pues bien, no lo sabemos. Sabemos que IP tiene ahora, pero no sabemos… Continue Reading Dynamics 365 F&O y firewalls: monitoreo de IPs de Azure
+ariste.info Dynamics 365 F&O y firewalls: monitoreo de IPs de Azure]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create native mobile apps with wrap for Power Apps wizard (Public Preview)]]></title>
+        <id>create-native-mobile-apps-with-wrap-for-power-apps-wizard-public-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/create-native-mobile-apps-with-wrap-for-power-apps-wizard-public-preview/"/>
+        <updated>2023-02-09T09:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Turn your Power Apps app into a native mobile app with our new wrap for Power Apps step-by-step wizard.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 & Microsoft Sustainability Manager [Part 1]]]></title>
+        <id>http://dynamicsax-fico.com/?p=4943</id>
+        <link href="https://dynamicsax-fico.com/2023/02/09/dynamics-365-microsoft-sustainability-manager-part-1/"/>
+        <updated>2023-02-09T05:16:17.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a customer in Dynamics 365 F&O using Power Platform]]></title>
+        <id>http://paragchapre.com/?p=2711</id>
+        <link href="https://paragchapre.com/2023/02/08/create-a-customer-in-dynamics-365-fo-using-power-platform/"/>
+        <updated>2023-02-08T22:27:35.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to create a customer in Dynamics 365 F&O using Power Platform. Pre-requisites: Canvas app Check below video for more details. If you like this article, feel free to share it with others who might find it helpful! If you have any questions, feel free to reach out to... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security & Audit Features Added in 10.0.31]]></title>
+        <id>https://alexdmeyer.com/?p=2577</id>
+        <link href="https://alexdmeyer.com/2023/02/08/security-audit-features-added-in-10-0-31/"/>
+        <updated>2023-02-08T17:34:22.000Z</updated>
+        <summary type="html"><![CDATA[The latest platform release notes for D365FO 10.0.31 has recently been made public, there were a couple security and audit related features I wanted to highlight. ‘Can Be Deleted From UI’ Security Role Property There is a new property on security roles called ‘Can Be Deleted from UI’. This setting controls where a particular security […]
+The post Security & Audit Features Added in 10.0.31 appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolve the service level of sophistication with Dynamics 365 Customer Service]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3eb3fc7b-db9d-4bba-b27d-54f2aec4aab9</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/evolve-the-service-level-of-sophistication-with-dynamics-365-customer-service"/>
+        <updated>2023-02-08T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Service leaders face continual challenges in evolving the service organization to meet customer expectations, putting their brand value and customer loyalty at riskas a recent study shows, 96 percent of customers will leave a business after a bad customer experience.1 They feel either lost with disruptive changes in the contact center and customer service marketplace, or helpless on where to start, or confused on what to adopt and what to disregard, or fear being all over the map while making investments aligned with the business goals.
+
+
+
+
+Service sophistication model
+
+Assess and improve the effectiveness of your organization's current service experiences.
+
+Start the assessment
+
+
+
+Evolve service organizations to meet customer expectations
+The business goals differ across service organizat…]]></summary>
+        <author>
+            <name>Arvind Iyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolve the service level of sophistication with Dynamics 365 Customer Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/08/evolve-the-service-level-of-sophistication-with-dynamics-365-customer-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/08/evolve-the-service-level-of-sophistication-with-dynamics-365-customer-service/"/>
+        <updated>2023-02-08T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Given the myriad capabilities from the technology innovations and market categories, and the fact that service organizations are across the spectrum, what service leaders need is a convenient way to map them to different service levels of sophistication. Essentially, a service maturity model that groups major capabilities and maps them to appropriate levels in the spectrum. This allows service leaders to visualize where they are relative to the market and determine at what level they'd like to be based on their business goals, investment, and timeline. In addition, they can decide practically and prioritize on the capabilities that matter to themacross voice and digital channels, self-service, agent productivity and service operations.
+The post Evolve the service level of sophistication with Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Arvind Iyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: Why manufacturers are investing in Dynamics 365 Commerce]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:dc8ca9b2-b474-4a98-988b-cb3d2533eb91</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-why-manufacturers-are-investing-in-dynamics-365-commerce"/>
+        <updated>2023-02-07T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This episode is sponsored by 
+ Evenica . 
+ 
+ 
+ 
+ Manufacturers have
+made a lot of progress on their e-commerce journeys in recent
+years, and Dynamics 365 Commerce offers some unique ways for these
+companies to achieve sales and broader customer experience... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing warehouse-specific inventory transactions]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:02aa604c-f34e-44c8-bc2b-5c6e50886831</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/introducing-warehouse-specific-inventory-transactions"/>
+        <updated>2023-02-07T18:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Supply Chain Management release 10.0.32 introduces warehouse-specific inventory transactions. These transactions are optimized for warehouse operations, with important benefits for system performance and efficiency.
+Warehouse transactions offer important advantages over inventory transactions for warehouse operations
+We recommend using warehouse transactions for warehouse scenarios where they apply. Unlike inventory transactions,
+
+Warehouse transactions can operate on sets of items with different serial or batch numbers. Item sets can be reused, avoiding the need to record the same information multiple times.
+Warehouse transactions are only used in warehouse operations, which don’t have any financial impact. This significantly reduces the number of database fields, i…]]></summary>
+        <author>
+            <name>Anahit Hayrapetyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing warehouse-specific inventory transactions]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/02/07/introducing-warehouse-specific-inventory-transactions/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/02/07/introducing-warehouse-specific-inventory-transactions/"/>
+        <updated>2023-02-07T18:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Supply Chain Management release 10.0.32 introduces warehouse-specific inventory transactions. These transactions are optimized for warehouse operations, with important benefits for system performance and efficiency.
+The post Introducing warehouse-specific inventory transactions appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Anahit Hayrapetyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Run A D365 Job In Production]]></title>
         <id>https://dynamics365musings.com/?p=2627</id>
@@ -15,6 +177,350 @@
 The post How To Run A D365 Job In Production appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MB-220: Microsoft Dynamics 365 Marketing Functional Consultant]]></title>
+        <id>https://nuxulu.com/2023-02-05-mb-220/</id>
+        <link href="https://nuxulu.com/2023-02-05-mb-220/"/>
+        <updated>2023-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Documentation https://learn.microsoft.com/en-us/dynamics365/marketing/overview
+Basic: Learn the fundamentals of Microsoft Dynamics 365 Marketing
+Exam/Learning Path: https://docs.microsoft.com/certifications/exams/mb-220
+Learning Path
+Module
+Week
+
+
+
+
+Set up Dynamics 365 Marketing and configure advanced settings
+Set up and manage Dynamics 365 Marketing
+1
+
+
+
+Advanced configuration for Dynamics 365 Marketing
+2
+
+
+
+Review domain authentication, email best practices, and GDPR in Dynamics 365 Marketing
+3
+
+
+Work with core features in Dynamics 365 Marketing
+Manage assets and content settings in Dynamics 365 Marketing
+4
+
+
+
+Manage customers in Dynamics 365 Marketing
+4
+
+
+
+Manage forms and pages in Dynamics 365 Marketing
+5
+
+
+
+Manage emails, segments, and journeys in Dynamics 365 Marketing
+6
+
+
+
+Manage content, event triggers, and journeys in real-time marketing with Dynamics 365 Marketing
+7
+
+
+
+Manage subscription centers and double opt-in in Dynamics 365 Marketing
+8
+
+
+
+Manage website visits, redirect URLs, and social postings in Dynamics 365 Marketing
+8
+
+
+Manage events in Dynamics 365 Marketing
+Create an on-site event in Dynamics 365 Marketing
+9
+
+
+
+Create a webinar event in Dynamics 365 Marketing
+10
+
+
+
+Promote events, manage registration and check-ins, and review results in Dynamics 365 Marketing
+11
+
+
+
+Advanced event management features in Dynamics 365 Marketing
+11
+
+
+Analyze insights in Dynamics 365 Marketing
+Evaluate marketing initiatives with analytics in Dynamics 365 Marketing
+12
+
+
+
+Access and interpret analytics with Dynamics 365 Marketing
+13
+
+
+
+Review the marketing calendar in Dynamics 365 Marketing
+13]]></summary>
+        <author>
+            <name>Max Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MB-300 Microsoft Dynamics 365: Core Finance and Operations]]></title>
+        <id>https://nuxulu.com/2023-02-05-mb-300/</id>
+        <link href="https://nuxulu.com/2023-02-05-mb-300/"/>
+        <updated>2023-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Exam/Learning Path: https://docs.microsoft.com/certifications/exams/mb-300
+Learning Path
+Module
+Week
+
+
+
+
+Get started with Finance and Operations apps
+Introduction to Microsoft Dynamics 365
+1
+
+
+
+Navigate Finance and Operations apps
+2
+
+
+
+Get started with Dynamics 365 Finance
+3
+
+
+
+Get started with Dynamics 365 Supply Chain Management
+4
+
+
+
+Get started with production control in Dynamics 365 Supply Chain Management
+5
+
+
+
+Get help and learn more about Finance and Operations apps
+6
+
+
+Use Lifecycle Services to design and plan an implementation of Finance and Operations apps
+Get started with Lifecycle Services for Finance and Operations apps
+7
+
+
+
+Design and plan an implementation of Finance and Operations apps
+8
+
+
+
+Translate Dynamics 365 apps and documentation with Dynamics 365 Translation Service
+9
+
+
+Configure your organization in Finance and Operations apps
+Plan and configure the global address book in Finance and Operations apps
+10
+
+
+
+Plan and implement legal entities in Finance and Operations apps
+11
+
+
+
+Plan and implement security in Finance and Operations apps
+12
+
+
+
+Set up batch jobs in Finance and Operations apps
+13
+
+
+
+Work with workflows in Finance and Operations apps
+14
+
+
+
+Design and build mobile apps for Finance and Operations apps
+15
+
+
+
+Personalize Finance and Operations apps
+16
+
+
+
+Implement common integration features in Finance and Operations apps
+17
+
+
+
+Feature management in Finance and Operations apps
+18
+
+
+Migrate data and go live with Finance and Operations apps
+Prepare data for migration to Finance and Operations apps
+19
+
+
+
+Work with data management in Finance and Operations apps
+20
+
+
+
+Perform user acceptance testing in Finance and Operations apps
+21
+
+
+
+Prepare to go-live with Finance and Operations apps
+22
+
+
+Configure and work with analytics and reporting in Finance and Operations apps
+Work with analytics and reporting in Finance and Operations apps
+23
+
+
+
+Configure electronic reporting in Dynamics 365 Finance
+24]]></summary>
+        <author>
+            <name>Max Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer]]></title>
+        <id>https://nuxulu.com/2023-02-05-mb-500/</id>
+        <link href="https://nuxulu.com/2023-02-05-mb-500/"/>
+        <updated>2023-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Exam/Learning Path: https://docs.microsoft.com/certifications/exams/mb-500
+Learning Path
+Module
+Week
+
+
+
+
+Introduction to developing with Finance and Operations apps
+Explore the ecosystem and main components of Finance and Operations apps
+1
+
+
+
+Explore the technical architecture of Finance and Operations apps
+2
+
+
+
+Explore design and deployment considerations for Finance and Operations apps
+3
+
+
+
+Manage Finance and Operations apps implementations by using Lifecycle Services
+4
+
+
+
+Work with performance and monitoring tools in Finance and Operations apps
+5
+
+
+
+Manage source code by using version control in Finance and Operations apps
+6
+
+
+
+Explore the test framework and tools in Finance and Operations apps
+7
+
+
+
+Explore reporting tools in Finance and Operations apps
+8
+
+
+Build Finance and Operations …]]></summary>
+        <author>
+            <name>Max Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect]]></title>
+        <id>https://nuxulu.com/2023-02-05-mb-700/</id>
+        <link href="https://nuxulu.com/2023-02-05-mb-700/"/>
+        <updated>2023-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Exam/Learning Path: https://docs.microsoft.com/certifications/exams/mb-700
+Learning Path
+Module
+Week
+
+
+
+
+Architect solutions for Dynamics 365 and Microsoft Power Platform
+Becoming a solution architect for Dynamics 365 and Microsoft Power Platform
+1
+
+
+
+Discover customer needs as a Solution Architect for Dynamics 365 and Microsoft Power Platform
+2
+
+
+
+Propose a solution as a Solution Architect for Microsoft Power Platform and Dynamics 365
+2
+
+
+
+Work with requirements as a solution architect for Microsoft Power Platform and Dynamics 365
+3
+
+
+
+Perform fit gap analysis
+3
+
+
+Use Lifecycle Services to design and plan an implementation of Finance and Operations apps
+Get started with Lifecycle Services for Finance and Operations apps
+4
+
+
+
+Design and plan an implementation of Finance and Operations apps…]]></summary>
+        <author>
+            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>
@@ -53,6 +559,16 @@ H…]]></summary>
         <summary type="html"><![CDATA[In Microsoft Dynamics 365 Finance version 10.0.31, the Automate ledger settlements process feature is available in the Feature management workspace. You can enable the Automate ledger settlements process feature only if the Awareness between ledger settlement and year-end close feature has been enabled. Ledger settlement is the process of matching debit and credit transactions in the general ledger. […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warehouse workspaces – the lowest hanging fruits on the D365FO tree?]]></title>
+        <id>http://axscm.wordpress.com/?p=1748</id>
+        <link href="https://axscm.wordpress.com/2023/02/04/warehouse-workspaces-the-lowest-hanging-fruits-on-the-d365fo-tree/"/>
+        <updated>2023-02-04T09:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking for a cost-effective way to increase efficiency and productivity in your warehouse operations? Warehouse workspaces in Dynamics 365 for operations (D365FO) can provide excellent overview on daily operations in the warehouse and alert supervisors when intervention is required. This is the first of two posts on warehouse workspaces. In these two posts&ellipsis;Read the full post »]]></summary>
+        <author>
+            <name>birgerlarsen</name>
         </author>
     </entry>
     <entry>
@@ -192,6 +708,18 @@ Configure electronic reporting in Dynamics 365 Finance
     </entry>
     <entry>
         <title type="html"><![CDATA[Level up customer journeys with advanced orchestration features in Dynamics 365 Marketing]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4f68678a-945f-4c06-b7c4-e776f4501725</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/level-up-customer-journeys-with-advanced-orchestration-features-in-dynamics-365-marketing"/>
+        <updated>2023-02-03T17:39:51.000Z</updated>
+        <summary type="html"><![CDATA[Marketers design customer journeys to provide the right message at the right time for customers to take the next step. However, with customers playing an active role in shaping their own experiences in how they engage with the brand, marketers are faced with the challenge of designing increasingly complex journeys. With more opportunities than ever for interactions, you must take care not to overwhelm customers with unwanted messages. That's why we're delighted to introduce advanced real-time marketing orchestration tools in Dynamics 365 Marketing that help you engage customers at key moments without bombarding them with spam.  
+Engage the right audience effortlessly with the new segment builder 
+Targeting the right audience is critical for creating highly personalized marketing campaigns …]]></summary>
+        <author>
+            <name>Ellie Rui, Gaju Gatera, Shravan Shankar and Tereza Kirk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Level up customer journeys with advanced orchestration features in Dynamics 365 Marketing]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/02/03/level-up-customer-journeys-with-advanced-orchestration-features-in-dynamics-365-marketing/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/02/03/level-up-customer-journeys-with-advanced-orchestration-features-in-dynamics-365-marketing/"/>
         <updated>2023-02-03T17:39:51.000Z</updated>
@@ -284,6 +812,18 @@ Once the Termination is complete, a notification will alert you to how many line
         <summary type="html"><![CDATA[This week a had the „honor“ to develop a quite simple SSRS report including a report data provider for Microsoft Dynamics 365 for Finance and Operations. After round about 30 min. I was able to run the first test and try to open the report from the menu. Unfortunately I was confronted with the error: … Continue reading How to solve the error “No report data table with name XYZ exists in report schema for data provider XYZDP” when developing a SSRS report for MsDyn365FO →]]></summary>
         <author>
             <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft boosts Viva Sales with new GPT seller experience]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c003b945-6b63-4b6a-a381-6d57a2ea07bf</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/microsoft-boosts-viva-sales-with-new-gpt-seller-experience"/>
+        <updated>2023-02-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For sales teams, the adage "time is money" is more relevant than ever before. Time wasted on low-value tasks literally leaves opportunities to sell and engage prospects on the table. At Microsoft, we want to use AI to help sellers focus time on what matters mostmaking meaningful connections, building trust, and creating long-term relationships.
+That's why I'm thrilled to announce the preview of a new generative AI-powered experience in Microsoft Viva Sales that helps sellers communicate more effectively with prospects and customers. 
+Viva Sales will now generate suggested email content for a variety of scenariossuch as replying to an inquiry or creating a proposalcomplete with data specifically relevant to the recipient, such as pricing, promotions, and deadlines. By auto-suggesting custom…]]></summary>
+        <author>
+            <name>Lori Lamkin</name>
         </author>
     </entry>
     <entry>
@@ -458,6 +998,20 @@ toolbars-6
         <summary type="html"><![CDATA[The blog post tests various options for. restoring BACPAC files on local SQL Server.]]></summary>
         <author>
             <name>Gatsby RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use the Customer Service workspace app for omnichannel interactions]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8a86b771-10e1-4168-a446-2b58342af33f</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/use-the-customer-service-workspace-app-for-omnichannel-interactions"/>
+        <updated>2023-02-01T19:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Starting Saturday, April 1, 2023, we will be deprecating the Microsoft Dynamics 365 Omnichannel for Customer Service application and encouraging customers to migrate to the Customer Service workspace application. This upcoming change will affect your multi-session agents currently using the Omnichannel for Customer Service application in Microsoft Dynamics 365 Customer Service.
+We have decided to consolidate our two multi-session customer service applications, Omnichannel for Customer Service and Customer Service workspace. This change is being made to ensure that our customers benefit from all Dynamics 365 Customer Service capabilities in a single multi-session application. To this end, we will be focusing our future developments on the Customer Service workspace application.
+Key Dates
+
+D…]]></summary>
+        <author>
+            <name>Nick Stinnett</name>
         </author>
     </entry>
     <entry>
@@ -14894,19 +15448,6 @@ Description: The process was terminated due to]]></summary>
         <summary type="html"><![CDATA[Global context Today’s modern business run and interact with data daily to analyze and take strategic decisions during all the phases of project and business development via gaining insights from multiple sources of data (ERP & CRM, Files, 3rd party apps), thing that can’t be achieved easily if we are not deploying and integrating an … Lire la suite Using PowerApps for data integration between Dynamics 365 FinOps and SQL Server On-Premises →]]></summary>
         <author>
             <name>adalhix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ann] Warehouse management app for Dynamics 365 SCM is in Public Preview]]></title>
-        <id>http://kashperuk.blogspot.com/2021/02/ann-warehouse-management-app-for.html</id>
-        <link href="http://kashperuk.blogspot.com/2021/02/ann-warehouse-management-app-for.html"/>
-        <updated>2021-02-09T00:10:00.003Z</updated>
-        <summary type="html"><![CDATA[The day has come when we are ready for Public preview of the reworked Warehouse management app. SummaryThe Warehouse Management app is a complete remake, using the “frontline
-worker” visual style, as seen in Production floor execution and HoloLens
-Guide. The new design concepts are based on extensive usability studies
-including a broad worker population. The solution is designed to help workers]]></summary>
-        <author>
-            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
 </feed>
