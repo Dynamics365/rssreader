@@ -5843,6 +5843,16 @@
       "siteUrl": "https://paragchapre.com",
       "articles": [
         {
+          "id": "http://paragchapre.com/?p=2647",
+          "author": "Parag Chapre",
+          "description": "Building an app requires capabilities to perform relational modeling between entities that are being used in the app. In the context of virtual entities, there will be scenarios where virtual entities and native entities in Dataverse must work together to enable the desired user experience. In this article, we will see the concept of relational... Continue Reading →",
+          "link": "https://paragchapre.com/2023/02/10/how-to-create-lookup-with-virtual-entity-to-native-entity/",
+          "publishedOn": "2023-02-10T06:14:05.000Z",
+          "wordCount": 5033,
+          "title": "How to create lookup with Virtual entity to native entity",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/lookup.jpg?w=1200"
+        },
+        {
           "id": "http://paragchapre.com/?p=2711",
           "author": "Parag Chapre",
           "description": "In today’s article, we will see how to create a customer in Dynamics 365 F&O using Power Platform. Pre-requisites: Canvas app Check below video for more details. If you like this article, feel free to share it with others who might find it helpful! If you have any questions, feel free to reach out to... Continue Reading →",
