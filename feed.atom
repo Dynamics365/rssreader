@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-11T01:19:58.949Z</updated>
+    <updated>2023-02-12T01:34:35.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inventory allocation ensures limited stock goes where it’s most needed]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:86cf2a0a-d0bd-4554-8b5a-06f9f43e115f</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/inventory-allocation-ensures-limited-stock-goes-where-it-s-most-needed"/>
+        <updated>2023-02-10T18:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Companies that operate in more than one channel or region must fulfill orders over networks of ever-increasing complexity. When supply shortages happenand they willhow do you make the best use of limited stock across your most important channels, customer groups, regions, and promotions? And once you decide that, how do you make sure the allocated stock is protected from any other use? With inventory allocation, a new capability of the Microsoft Dynamics 365 Supply Chain Management Inventory Visibility service.
+Inventory allocation allows you to virtually apportion your on-hand stock as part of the sales operational planning process before any actual sales are made. It has two purposes:
+
+Inventory protection (ring fencing): Protecting the allocated inventory from other allocations, reserva…]]></summary>
+        <author>
+            <name>Yufei Huang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to create lookup with Virtual entity to native entity]]></title>
         <id>http://paragchapre.com/?p=2647</id>
@@ -24,6 +37,17 @@
         <summary type="html"><![CDATA[In order to get a feel of Preview version, it is available in Shared asset Library. If it is not found in the implementation project library, it can be imported from shared library . Click Import and then select the … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leap into the future of finance at Finance Reimagined 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:25c779e8-8079-47ee-942f-9fd0949e5f9b</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/leap-into-the-future-of-finance-at-finance-reimagined-2023"/>
+        <updated>2023-02-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With global volatility and inflation impacting organizations across all industries, business agility has never been more important. Leaders turn to finance teams to get real-time insight into business performance and recommendations on future initiatives that will help them thrive amid disruption. But finance teams are overwhelmed with manual tasks, cobbling together data, and disconnected teams. Achieving game-changing business agility begins with augmenting the human ingenuity of your people with intelligent process automation.
+When it comes to reimagining processes with AI, automation, and analytics, many finance leaders don't know where to start. This year, at the third annual Finance Reimagined digital event, we will delve into real-world best practices from Microsoft and industry lea…]]></summary>
+        <author>
+            <name>Stephanie Dart</name>
         </author>
     </entry>
     <entry>

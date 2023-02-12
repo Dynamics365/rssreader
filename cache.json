@@ -1685,6 +1685,26 @@
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:86cf2a0a-d0bd-4554-8b5a-06f9f43e115f",
+          "author": "Yufei Huang",
+          "description": "Companies that operate in more than one channel or region must fulfill orders over networks of ever-increasing complexity. When supply shortages happenand they willhow do you make the best use of limited stock across your most important channels, customer groups, regions, and promotions? And once you decide that, how do you make sure the allocated stock is protected from any other use? With inventory allocation, a new capability of the Microsoft Dynamics 365 Supply Chain Management Inventory Visibility service.\nInventory allocation allows you to virtually apportion your on-hand stock as part of the sales operational planning process before any actual sales are made. It has two purposes:\n\nInventory protection (ring fencing): Protecting the allocated inventory from other allocations, reserva…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/inventory-allocation-ensures-limited-stock-goes-where-it-s-most-needed",
+          "publishedOn": "2023-02-10T18:02:00.000Z",
+          "wordCount": 4365,
+          "title": "Inventory allocation ensures limited stock goes where it’s most needed",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:25c779e8-8079-47ee-942f-9fd0949e5f9b",
+          "author": "Stephanie Dart",
+          "description": "With global volatility and inflation impacting organizations across all industries, business agility has never been more important. Leaders turn to finance teams to get real-time insight into business performance and recommendations on future initiatives that will help them thrive amid disruption. But finance teams are overwhelmed with manual tasks, cobbling together data, and disconnected teams. Achieving game-changing business agility begins with augmenting the human ingenuity of your people with intelligent process automation.\nWhen it comes to reimagining processes with AI, automation, and analytics, many finance leaders don't know where to start. This year, at the third annual Finance Reimagined digital event, we will delve into real-world best practices from Microsoft and industry lea…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/leap-into-the-future-of-finance-at-finance-reimagined-2023",
+          "publishedOn": "2023-02-09T16:00:00.000Z",
+          "wordCount": 4359,
+          "title": "Leap into the future of finance at Finance Reimagined 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3eb3fc7b-db9d-4bba-b27d-54f2aec4aab9",
           "author": "Arvind Iyer",
           "description": "Service leaders face continual challenges in evolving the service organization to meet customer expectations, putting their brand value and customer loyalty at riskas a recent study shows, 96 percent of customers will leave a business after a bad customer experience.1 They feel either lost with disruptive changes in the contact center and customer service marketplace, or helpless on where to start, or confused on what to adopt and what to disregard, or fear being all over the map while making investments aligned with the business goals.\n\n\n\n\nService sophistication model\n\nAssess and improve the effectiveness of your organization's current service experiences.\n\nStart the assessment\n\n\n\nEvolve service organizations to meet customer expectations\nThe business goals differ across service organizat…",
