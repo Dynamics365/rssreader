@@ -4033,6 +4033,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/02/10/inventory-allocation-ensures-limited-stock-goes-where-its-most-needed/",
+          "author": "Yufei Huang",
+          "description": "Companies that operate in more than one channel or region must fulfill orders over networks of ever-increasing complexity. When supply shortages happenand they willhow do you make the best use of limited stock across your most important channels, customer groups, regions, and promotions? And once you decide that, how do you make sure the allocated stock is protected from any other use?\nThe post Inventory allocation ensures limited stock goes where it’s most needed appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/02/10/inventory-allocation-ensures-limited-stock-goes-where-its-most-needed/",
+          "publishedOn": "2023-02-10T18:02:00.000Z",
+          "wordCount": 2364,
+          "title": "Inventory allocation ensures limited stock goes where it’s most needed",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/CLO22_Retail_023-1024x683.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/09/leap-into-the-future-of-finance-at-finance-reimagined-2023/",
           "author": "Stephanie Dart",
           "description": "With global volatility and inflation impacting organizations across all industries, business agility has never been more important. Leaders turn to finance teams to get real-time insight into business performance and recommendations on future initiatives that will help them thrive amid disruption.\nThe post Leap into the future of finance at Finance Reimagined 2023 appeared first on Microsoft Dynamics 365 Blog.",
@@ -5863,6 +5873,36 @@
       "siteUrl": "https://paragchapre.com",
       "articles": [
         {
+          "id": "http://paragchapre.com/?p=2794",
+          "author": "Parag Chapre",
+          "description": "In today’s article, we will see how to add filter in Dual write when syncing data from FinOps to Dataverse and vice versa. For Dataverse, we can use Odata filter expression using Dual-write but for FinOps, we have to use different techniques which can be later in this article. Step 1: Go Data management >... Continue Reading →",
+          "link": "https://paragchapre.com/2023/02/13/how-to-add-filter-in-dual-write/",
+          "publishedOn": "2023-02-13T04:36:20.000Z",
+          "wordCount": 3937,
+          "title": "How to add filter in Dual-write",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/how-to-get-current-user-worker-in-x-2.jpg?w=1200"
+        },
+        {
+          "id": "http://paragchapre.com/?p=2785",
+          "author": "Parag Chapre",
+          "description": "In Dynamics 365 F&O, we have HcmWorkerHelper class which gives much information about worker such as department, primary position, current legal entity and so on. The code to get worker’s current position. This gives current worker record. The code to get current worker manager. The code to get current worker department. The code to get... Continue Reading →",
+          "link": "https://paragchapre.com/2023/02/13/how-to-get-workers-current-position-department-and-manger-in-x/",
+          "publishedOn": "2023-02-13T03:38:54.000Z",
+          "wordCount": 3792,
+          "title": "How to get workers current position, department and manger in X++",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/how-to-get-current-user-worker-in-x-1.jpg?w=1200"
+        },
+        {
+          "id": "http://paragchapre.com/?p=2777",
+          "author": "Parag Chapre",
+          "description": "The code to get current user. The code to get current user worker. Option 1: Option 2: The code to get current worker name",
+          "link": "https://paragchapre.com/2023/02/13/how-to-get-current-user-worker-in-x/",
+          "publishedOn": "2023-02-13T03:23:59.000Z",
+          "wordCount": 3739,
+          "title": "How to get current user worker in X++",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/how-to-get-current-user-worker-in-x.jpg?w=1200"
+        },
+        {
           "id": "http://paragchapre.com/?p=2647",
           "author": "Parag Chapre",
           "description": "Building an app requires capabilities to perform relational modeling between entities that are being used in the app. In the context of virtual entities, there will be scenarios where virtual entities and native entities in Dataverse must work together to enable the desired user experience. In this article, we will see the concept of relational... Continue Reading →",
@@ -6390,6 +6430,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=18486",
+          "author": "André Arnaud de Calavon",
+          "description": "When I installed the preview of Dynamics 365 Finance and Operations version 10.0.32, also known as the April 2023 release, it was noticeable the user interface got restyled slightly. Apart from this, also some navigation concepts have been changed. In this post, I will highlight the changes I noticed myself so far. One Dynamics One […]\nThe post A restyled user experience for F&O apps in April 2023 release appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2023/02/a-restyled-user-experience-for-fo-apps-in-april-2023-release/",
+          "publishedOn": "2023-02-13T06:36:29.000Z",
+          "wordCount": 3828,
+          "title": "A restyled user experience for F&O apps in April 2023 release",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/02/Restyle.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=18480",
           "author": "André Arnaud de Calavon",

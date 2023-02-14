@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-13T01:27:05.990Z</updated>
+    <updated>2023-02-14T01:27:29.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A restyled user experience for F&O apps in April 2023 release]]></title>
+        <id>https://dynamicspedia.com/?p=18486</id>
+        <link href="https://dynamicspedia.com/2023/02/a-restyled-user-experience-for-fo-apps-in-april-2023-release/"/>
+        <updated>2023-02-13T06:36:29.000Z</updated>
+        <summary type="html"><![CDATA[When I installed the preview of Dynamics 365 Finance and Operations version 10.0.32, also known as the April 2023 release, it was noticeable the user interface got restyled slightly. Apart from this, also some navigation concepts have been changed. In this post, I will highlight the changes I noticed myself so far. One Dynamics One […]
+The post A restyled user experience for F&O apps in April 2023 release appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add filter in Dual-write]]></title>
+        <id>http://paragchapre.com/?p=2794</id>
+        <link href="https://paragchapre.com/2023/02/13/how-to-add-filter-in-dual-write/"/>
+        <updated>2023-02-13T04:36:20.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to add filter in Dual write when syncing data from FinOps to Dataverse and vice versa. For Dataverse, we can use Odata filter expression using Dual-write but for FinOps, we have to use different techniques which can be later in this article. Step 1: Go Data management >... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get workers current position, department and manger in X++]]></title>
+        <id>http://paragchapre.com/?p=2785</id>
+        <link href="https://paragchapre.com/2023/02/13/how-to-get-workers-current-position-department-and-manger-in-x/"/>
+        <updated>2023-02-13T03:38:54.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 F&O, we have HcmWorkerHelper class which gives much information about worker such as department, primary position, current legal entity and so on. The code to get worker’s current position. This gives current worker record. The code to get current worker manager. The code to get current worker department. The code to get... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get current user worker in X++]]></title>
+        <id>http://paragchapre.com/?p=2777</id>
+        <link href="https://paragchapre.com/2023/02/13/how-to-get-current-user-worker-in-x/"/>
+        <updated>2023-02-13T03:23:59.000Z</updated>
+        <summary type="html"><![CDATA[The code to get current user. The code to get current user worker. Option 1: Option 2: The code to get current worker name]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inventory allocation ensures limited stock goes where it’s most needed]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:86cf2a0a-d0bd-4554-8b5a-06f9f43e115f</id>
@@ -15,6 +56,17 @@
 Inventory allocation allows you to virtually apportion your on-hand stock as part of the sales operational planning process before any actual sales are made. It has two purposes:
 
 Inventory protection (ring fencing): Protecting the allocated inventory from other allocations, reserva…]]></summary>
+        <author>
+            <name>Yufei Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory allocation ensures limited stock goes where it’s most needed]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/02/10/inventory-allocation-ensures-limited-stock-goes-where-its-most-needed/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/02/10/inventory-allocation-ensures-limited-stock-goes-where-its-most-needed/"/>
+        <updated>2023-02-10T18:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Companies that operate in more than one channel or region must fulfill orders over networks of ever-increasing complexity. When supply shortages happenand they willhow do you make the best use of limited stock across your most important channels, customer groups, regions, and promotions? And once you decide that, how do you make sure the allocated stock is protected from any other use?
+The post Inventory allocation ensures limited stock goes where it’s most needed appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Yufei Huang</name>
         </author>
