@@ -6,6 +6,16 @@
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
         {
+          "id": "https://nuxulu.com/2023-02-14-comparation-finops-business-central-copy/",
+          "author": "Max Nguyen",
+          "description": "Microsoft ecosystem supporting Dynamics 365 Finance\n\">\n        \n    Microsoft ecosystem supporting Dynamics 365 Finance",
+          "link": "https://nuxulu.com/2023-02-14-comparation-finops-business-central-copy/",
+          "publishedOn": "2023-02-14T00:00:00.000Z",
+          "wordCount": 112,
+          "title": "Microsoft ecosystem supporting Dynamics 365 Finance",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2023-02-05-mb-220/",
           "author": "Max Nguyen",
           "description": "Documentation https://learn.microsoft.com/en-us/dynamics365/marketing/overview\nBasic: Learn the fundamentals of Microsoft Dynamics 365 Marketing\nExam/Learning Path: https://docs.microsoft.com/certifications/exams/mb-220\nLearning Path\nModule\nWeek\n\n\n\n\nSet up Dynamics 365 Marketing and configure advanced settings\nSet up and manage Dynamics 365 Marketing\n1\n\n\n\nAdvanced configuration for Dynamics 365 Marketing\n2\n\n\n\nReview domain authentication, email best practices, and GDPR in Dynamics 365 Marketing\n3\n\n\nWork with core features in Dynamics 365 Marketing\nManage assets and content settings in Dynamics 365 Marketing\n4\n\n\n\nManage customers in Dynamics 365 Marketing\n4\n\n\n\nManage forms and pages in Dynamics 365 Marketing\n5\n\n\n\nManage emails, segments, and journeys in Dynamics 365 Marketing\n6\n\n\n\nManage content, event triggers, and journeys in real-time marketing with Dynamics 365 Marketing\n7\n\n\n\nManage subscription centers and double opt-in in Dynamics 365 Marketing\n8\n\n\n\nManage website visits, redirect URLs, and social postings in Dynamics 365 Marketing\n8\n\n\nManage events in Dynamics 365 Marketing\nCreate an on-site event in Dynamics 365 Marketing\n9\n\n\n\nCreate a webinar event in Dynamics 365 Marketing\n10\n\n\n\nPromote events, manage registration and check-ins, and review results in Dynamics 365 Marketing\n11\n\n\n\nAdvanced event management features in Dynamics 365 Marketing\n11\n\n\nAnalyze insights in Dynamics 365 Marketing\nEvaluate marketing initiatives with analytics in Dynamics 365 Marketing\n12\n\n\n\nAccess and interpret analytics with Dynamics 365 Marketing\n13\n\n\n\nReview the marketing calendar in Dynamics 365 Marketing\n13",
@@ -1508,6 +1518,26 @@
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=55986",
+          "author": "Don McNulty",
+          "description": "Dynamics GP – How to Do a Bank Reconciliation\nDuring this recorded webinar, we discuss how to do a Bank Reconciliation in Dynamics GP and share some tips and tricks throughout the process. ﻿﻿﻿﻿﻿﻿﻿﻿﻿ Intended audience: Dynamics GP users – all product versions\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-gp-how-to-do-a-bank-reconciliation/",
+          "publishedOn": "2023-02-14T17:37:39.000Z",
+          "wordCount": 1014,
+          "title": "Dynamics GP – How to Do a Bank Reconciliation",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=55953",
+          "author": "Don McNulty",
+          "description": "How to Recover Hidden Windows\nWindows can sometimes open in places that the user cannot see. It is a frustrating issue, as you can see the window on the taskbar, but its location is unknown. This can sometimes happen if a monitor is removed or the screen opens where it was last used (sometimes by someone else using a RDS...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-recover-hidden-windows/",
+          "publishedOn": "2023-02-14T16:42:44.000Z",
+          "wordCount": 1189,
+          "title": "How to Recover Hidden Windows",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/01/hidden-windows-Img.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=47100",
           "author": "Jess Mooney",
           "description": "What Is Dynamics 365 Sales?\nMicrosoft Dynamics 365 Sales functions as a high-powered Customer Relationship Management (CRM) platform, specializing in sales pipeline management and full transparency into relationship activities. It also offers powerful flexibility, allowing it to go far beyond traditional CRM functionality. Dynamics 365 Sales can be implemented to help your sales team manage their sales cycle, from lead...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -2593,16 +2623,6 @@
           "wordCount": 649,
           "title": "Configure your MsDyn365CSM warehousing (warehouse management) app by scanning a QR-Code",
           "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/03/configure-your-msdyn365csm-warehousing-warehouse-management-app-by-scanning-a-qr-code-banner.jpg?w=1200"
-        },
-        {
-          "id": "https://msdyn365fo.wordpress.com/?p=452",
-          "author": "Paul Heisterkamp",
-          "description": "This is my first post in 2021 and it´s already February. Because of some speaker engagements at the beginning of this year, I lost track on blogging. In this post I want to discuss the error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” when linking your Finance … Continue reading Error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write →",
-          "link": "https://msdyn365fo.wordpress.com/2021/02/15/error-finance-and-operations-apps-xxxdevaos-cloudax-dynamics-com-is-not-discoverable-please-refer-to-the-documentation-for-details-during-setup-of-dual-write/",
-          "publishedOn": "2021-02-15T06:26:21.000Z",
-          "wordCount": 669,
-          "title": "Error “Finance and Operations apps xxxdevaos.cloudax.dynamics.com is not discoverable. Please refer to the documentation for details” during setup of dual-write",
-          "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/02/errorduringsetupofdualwrite.png?w=1200"
         }
       ]
     },
@@ -2985,6 +3005,16 @@
       "feedUrl": "https://dynamics365musings.com/feed/",
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
+        {
+          "id": "https://dynamics365musings.com/?p=1839",
+          "author": "peter.ramer",
+          "description": "In this article, learn how to use insert_recordset in D365. The insert_recordset keyword in x++ is used when you need to copy multiple records from existing tables to a destination table. It is extremely fast, because it generates a single SQL statement that is sent to the server one time. In contrast, developers sometimes write... Continue Reading →\nThe post How To Use Insert_RecordSet In D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/insert_recordset-in-d365/?utm_source=rss&utm_medium=rss&utm_campaign=insert_recordset-in-d365",
+          "publishedOn": "2023-02-13T14:00:00.000Z",
+          "wordCount": 3281,
+          "title": "How To Use Insert_RecordSet In D365",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/02/How-To-Use-Insert-Recordset-in-D365.png"
+        },
         {
           "id": "https://dynamics365musings.com/?p=2627",
           "author": "peter.ramer",
@@ -3720,16 +3750,6 @@
           "wordCount": 560,
           "title": "Managing Dynamics 365 FinOps security roles via PowerApps",
           "imageUrl": "https://adalhix.files.wordpress.com/2021/05/image-3.png"
-        },
-        {
-          "id": "http://dynvision365.com/?p=641",
-          "author": "adalhix",
-          "description": "Global context Today’s modern business run and interact with data daily to analyze and take strategic decisions during all the phases of project and business development via gaining insights from multiple sources of data (ERP & CRM, Files, 3rd party apps), thing that can’t be achieved easily if we are not deploying and integrating an … Lire la suite Using PowerApps for data integration between Dynamics 365 FinOps and SQL Server On-Premises →",
-          "link": "https://dynvision365.com/2021/02/14/using-powerapps-for-data-integration-between-dynamics-365-finops-and-sql-server-on-premises/",
-          "publishedOn": "2021-02-14T22:46:29.000Z",
-          "wordCount": 2016,
-          "title": "Using PowerApps for data integration between Dynamics 365 FinOps and SQL Server On-Premises",
-          "imageUrl": "https://adalhix.files.wordpress.com/2021/02/image-25.png"
         }
       ]
     },
@@ -4032,6 +4052,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/02/13/parallel-cost-accounting-now-available-with-global-inventory-accounting-add-in-for-supply-chain-management/",
+          "author": "Jenny Song",
+          "description": "With the new Global Inventory Accounting Add-in, Microsoft Dynamics 365 Supply Chain Management now supports parallel cost accounting. The ability to perform inventory accounting using multiple costing ledgers enables organizations that do business internationally to easily comply with multiple accounting standards at the same time.\nThe post Parallel cost accounting now available with Global Inventory Accounting Add-in for Supply Chain Management appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/02/13/parallel-cost-accounting-now-available-with-global-inventory-accounting-add-in-for-supply-chain-management/",
+          "publishedOn": "2023-02-13T20:10:15.000Z",
+          "wordCount": 2254,
+          "title": "Parallel cost accounting now available with Global Inventory Accounting Add-in for Supply Chain Management",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/MSC17_containerShipping_005-1024x682.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/02/10/inventory-allocation-ensures-limited-stock-goes-where-its-most-needed/",
           "author": "Yufei Huang",
@@ -5071,6 +5101,16 @@
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
         {
+          "id": "https://www.d365snippets.com/2023/02/how-to-make-a-field-mandatory-in-dynamics-365-without-customization.html",
+          "author": null,
+          "description": "In the previous article, I explained how to create table field groups in dynamics 365 FO. In this article I will explain, how to make a field mandatory in dynamics 365 without customization or without writing any x++ codes.\n\n\n\nIn previous versions of Dynamics 365 for Finance and Operations (D365F&O), making a field mandatory required a (small) customisation. With version 10.0.0.12 this is no longer the case. Now it is possible to make fields mandatory using personalisation.\n\n \nBy using personalization, you can make a field mandatory writing a single piece of  x++ code.\n How to do this…\n In the following example, I would like to show you how to make Search Name field of Vendor form mandatory.\n To do this, \n  1. Simply right-click on the Search Name field of Vendor form. \n  2. Select the personalization option from the menu as shown in the below screen shot.\n\n\n  \n\n 3. A black color popup menu will open, then tick the “Required” option from the menu.\n\n\n \n \n  4. Then Click on the Close button in the following popup. \n\n\n\nNow Search Name field of Vendor form is mandatory, and you can see a red and marked with an asteriskswhen updating or saving the record without filling any value in the Search Name field.\n\n\nIn the above example, I think it is very clear the concept,  how to make a field mandatory in dynamics 365 without customization, if this article is useful for you, please try to share this article with your friends who are looking for a career in dynamics 365. So happy coding with d365snippets\nSome Useful Tags\nMaking a Field Mandatory in Dynamics 365 for Finance and Operations without Customization.\nHow to make a field mandatory in dynamics 365 without customization.\nHow to make a field mandatory in dynamics 365 without writing any x++ codes.\nHow to set any Field mandatory without writing code in D365 Finance and Operations.",
+          "link": "https://www.d365snippets.com/2023/02/how-to-make-a-field-mandatory-in-dynamics-365-without-customization.html",
+          "publishedOn": "2023-02-14T19:33:00.000Z",
+          "wordCount": 10547,
+          "title": "How to make a field mandatory in dynamics 365 without customization",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOe6vtrjtY12D2MMtEblRsuWj-8AGrCXq7HfqSxtF2K_xF3ISPlsCX6DwHSIgpmXuCYQe1f9ynexo4LY9Ms_Xt4CPbxTaBdCZTvSs5wh2VrfsuON2v6DGwOR72VtghQQc5r2QGWjKCBpEOYf1ZzyyWLCM5fpWwJkklOHo7PwJmAuogyBQ4OpY6Y509/s16000/how%20to%20make%20a%20field%20mandatory%20in%20dynamics%20365%20without%20customization.jpg"
+        },
+        {
           "id": "https://www.d365snippets.com/2023/02/what-are-field-groups-in-d365-fo-with-example.html",
           "author": null,
           "description": "In the previous article, I explained how to set an Index on a Table. In this article, I will explain, how to create field groups and how to use them in Microsoft Dynamics 365 F&O.\n\n\n\nWhat are Field Groups?\nField groups are Objects which can exist on tables, maps, or views, and that can group fields logically together into a single Object. These field groups you can use to appear on the user interfaces like forms, reviews, reports, etc. You should define a field group when several fields participate in a single function or are related in some way and are shown together on forms and reports.\nExample for Field Groups?\nIn D365 F&O, the Customer Table contains many fields and field groups, The Credit field group contains fields that relate to credit like MandatoryCreditLimit and CreditRating.\nH…",
@@ -5872,6 +5912,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "http://paragchapre.com/?p=2812",
+          "author": "Parag Chapre",
+          "description": "In today’s article, we will see how to create a worker using X++. Step 1: Create a class and define the global variable. Step 2: Create new method to insert Title in the master table. Step 3: Create a new method to enter first name, middle name and last name in the Dir party table.... Continue Reading →",
+          "link": "https://paragchapre.com/2023/02/14/how-to-create-a-worker-in-x/",
+          "publishedOn": "2023-02-14T08:01:10.000Z",
+          "wordCount": 4205,
+          "title": "How to create a worker in x++",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/worker.jpg?w=1200"
+        },
         {
           "id": "http://paragchapre.com/?p=2794",
           "author": "Parag Chapre",
@@ -7183,6 +7233,16 @@
       "feedUrl": "https://community.dynamics.com/ax/b/axrunbase/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4f7e7dac-ba83-4480-ad40-b6fced487f64",
+          "author": "Vilmos Kintera",
+          "description": "It has been a long time since we could meet in person due to the Covid lockdown. I am happy to announce that we are going to have our D365FO Meetup at Microsoft headquarters in Graphisoft park, Budape...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/d365fo-meetup-2023-february-budapest",
+          "publishedOn": "2023-02-13T08:46:11.000Z",
+          "wordCount": 3811,
+          "title": "D365FO Meetup, 2023 February, Budapest",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:6dd1ba9b-63b6-4b7b-bf90-fd30ff2b14f0",
           "author": "Vilmos Kintera",
