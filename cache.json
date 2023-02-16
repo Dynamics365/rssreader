@@ -5820,16 +5820,6 @@
           "wordCount": 795,
           "title": "[D365] The parent of additional control was not found on the base form",
           "imageUrl": "https://robscode.onl/content/images/2015/02/Black-Pattern-1680x1050.jpg"
-        },
-        {
-          "id": "62c06aea4cecce22d735c4d2",
-          "author": "Robin Kretzschmar",
-          "description": "We recently upgraded to PU39 and restored a database from a UAT environment to a Test environment (DevTest).\nAfter that import and export projects failed without a clear error message.\nThe eventlog stated the following:\n\nApplication: DMFExecutePackage.exe\nFramework Version: v4.0.30319\nDescription: The process was terminated due to",
-          "link": "https://robscode.onl/d365-import-export-projects-fail-no-clear-error/",
-          "publishedOn": "2021-02-16T08:13:33.000Z",
-          "wordCount": 867,
-          "title": "[D365] Import export projects fail without clear error DMFExecutePackage unhandled exception",
-          "imageUrl": "https://robscode.onl/content/images/2015/02/Black-Pattern-1680x1050.jpg"
         }
       ]
     },

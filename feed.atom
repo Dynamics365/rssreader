@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-15T01:27:04.723Z</updated>
+    <updated>2023-02-16T01:27:30.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -15623,22 +15623,6 @@ In...
 Below are the 7 main fields within the RetailTransactionTable and how they are set in relation…]]></summary>
         <author>
             <name>RandyHiggins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[D365] Import export projects fail without clear error DMFExecutePackage unhandled exception]]></title>
-        <id>62c06aea4cecce22d735c4d2</id>
-        <link href="https://robscode.onl/d365-import-export-projects-fail-no-clear-error/"/>
-        <updated>2021-02-16T08:13:33.000Z</updated>
-        <summary type="html"><![CDATA[We recently upgraded to PU39 and restored a database from a UAT environment to a Test environment (DevTest).
-After that import and export projects failed without a clear error message.
-The eventlog stated the following:
-
-Application: DMFExecutePackage.exe
-Framework Version: v4.0.30319
-Description: The process was terminated due to]]></summary>
-        <author>
-            <name>Robin Kretzschmar</name>
         </author>
     </entry>
 </feed>
