@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-16T01:27:30.408Z</updated>
+    <updated>2023-02-17T01:37:02.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Dynamics 365 Project Operations?]]></title>
+        <id>https://www.encorebusiness.com/?p=55884</id>
+        <link href="https://www.encorebusiness.com/blog/what-is-dynamics-365-project-operations/"/>
+        <updated>2023-02-16T14:39:16.000Z</updated>
+        <summary type="html"><![CDATA[What Is Dynamics 365 Project Operations?
+Microsoft Dynamics 365 Project Operations streamlines visibility and unifies the complex aspects of managing multiple projects of varying sizes. It can improve the accuracy of both resource booking and project estimates, as well as the consistency of your project management. An experienced Dynamics Partner like Encore can also integrate Project Operations with your financial solution...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Jess Mooney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call Dataverse actions directly in Power Fx]]></title>
+        <id>call-dataverse-actions-directly-in-power-fx-experimental-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/call-dataverse-actions-directly-in-power-fx-experimental-preview/"/>
+        <updated>2023-02-16T11:01:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce direct access to Dataverse actions in Power Fx formulas as an Experimental release. As a part of the Power Fx language, authors can now directly invoke a Dataverse action within a formula. A new Power Fx ‘Environment’ language object that authors can add to their app enables access to Dataverse…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pin your MsDyn365FO user session to one specific AOS]]></title>
+        <id>http://msdyn365fo.wordpress.com/?p=573</id>
+        <link href="https://msdyn365fo.wordpress.com/2023/02/16/pin-your-msdyn365fo-user-session-to-one-specific-aos/"/>
+        <updated>2023-02-16T09:56:27.000Z</updated>
+        <summary type="html"><![CDATA[In the lifetime of an Microsoft Dynamics 365 for Finance and Operations implementation project you will have the requirement to create a trace on an environment with more than one AOS. This is not a problem when you want to create the trace for your user session, but it is a challenge when you want … Continue reading Pin your MsDyn365FO user session to one specific AOS →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto assembly / disassembly kit order based on the sales order]]></title>
+        <id>1842</id>
+        <link href="http://daxonline.org/1842-auto-assembly-disassembly-kit-order-based-on-the-sales-order.html"/>
+        <updated>2023-02-16T08:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Automatically assembly / disassembly kit order based on the sales order state.
+The kit should have only one configuration.
+
+
+
+/// <summary>
+/// Manages Kit orders in correspondance with Sales Order lines informaiton
+/// </summary>
+final class VKKitOrderManager
+{
+    SalesId salesId;
+
+    /// <summary>
+    /// Constructor
+    /// </summary>
+    /// <param name = "_salesId">Sales id</param>
+    /// <returns>Instance of the calss</returns>
+    static VKKitOrderManager construct(SalesId _salesId)
+    {
+        return new VKKitOrderManager(_salesId);
+    }
+
+    protected void new(SalesId _salesId)
+    {
+        salesId = _salesId;
+    }
+
+    /// <summary>
+    /// Process Sales Order, will check sales order information and create relavant kit orders
+    /// </summary>
+    void process()
+    {
+  …]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to make a field mandatory in dynamics 365 without customization]]></title>
         <id>https://www.d365snippets.com/2023/02/how-to-make-a-field-mandatory-in-dynamics-365-without-customization.html</id>

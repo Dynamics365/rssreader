@@ -1518,6 +1518,16 @@
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=55884",
+          "author": "Jess Mooney",
+          "description": "What Is Dynamics 365 Project Operations?\nMicrosoft Dynamics 365 Project Operations streamlines visibility and unifies the complex aspects of managing multiple projects of varying sizes. It can improve the accuracy of both resource booking and project estimates, as well as the consistency of your project management. An experienced Dynamics Partner like Encore can also integrate Project Operations with your financial solution...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/what-is-dynamics-365-project-operations/",
+          "publishedOn": "2023-02-16T14:39:16.000Z",
+          "wordCount": 1786,
+          "title": "What Is Dynamics 365 Project Operations?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=55986",
           "author": "Don McNulty",
           "description": "Dynamics GP – How to Do a Bank Reconciliation\nDuring this recorded webinar, we discuss how to do a Bank Reconciliation in Dynamics GP and share some tips and tricks throughout the process. ﻿﻿﻿﻿﻿﻿﻿﻿﻿ Intended audience: Dynamics GP users – all product versions\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -2484,6 +2494,16 @@
       "feedUrl": "https://msdyn365fo.wordpress.com/feed/",
       "siteUrl": "https://msdyn365fo.wordpress.com",
       "articles": [
+        {
+          "id": "http://msdyn365fo.wordpress.com/?p=573",
+          "author": "Paul Heisterkamp",
+          "description": "In the lifetime of an Microsoft Dynamics 365 for Finance and Operations implementation project you will have the requirement to create a trace on an environment with more than one AOS. This is not a problem when you want to create the trace for your user session, but it is a challenge when you want … Continue reading Pin your MsDyn365FO user session to one specific AOS →",
+          "link": "https://msdyn365fo.wordpress.com/2023/02/16/pin-your-msdyn365fo-user-session-to-one-specific-aos/",
+          "publishedOn": "2023-02-16T09:56:27.000Z",
+          "wordCount": 76239,
+          "title": "Pin your MsDyn365FO user session to one specific AOS",
+          "imageUrl": "https://msdyn365fo.files.wordpress.com/2023/02/pin-your-msdyn365fo-user-session-to-one-specific-aos-1.png?w=1200"
+        },
         {
           "id": "http://msdyn365fo.wordpress.com/?p=565",
           "author": "Paul Heisterkamp",
@@ -3885,6 +3905,16 @@
       "feedUrl": "https://daxonline.org/rss.xml",
       "siteUrl": "http://daxonline.org/",
       "articles": [
+        {
+          "id": "1842",
+          "author": "Vasiliy Kovalenko",
+          "description": "Automatically assembly / disassembly kit order based on the sales order state.\nThe kit should have only one configuration.\n\n\n\n/// <summary>\n/// Manages Kit orders in correspondance with Sales Order lines informaiton\n/// </summary>\nfinal class VKKitOrderManager\n{\n    SalesId salesId;\n\n    /// <summary>\n    /// Constructor\n    /// </summary>\n    /// <param name = \"_salesId\">Sales id</param>\n    /// <returns>Instance of the calss</returns>\n    static VKKitOrderManager construct(SalesId _salesId)\n    {\n        return new VKKitOrderManager(_salesId);\n    }\n\n    protected void new(SalesId _salesId)\n    {\n        salesId = _salesId;\n    }\n\n    /// <summary>\n    /// Process Sales Order, will check sales order information and create relavant kit orders\n    /// </summary>\n    void process()\n    {\n  …",
+          "link": "http://daxonline.org/1842-auto-assembly-disassembly-kit-order-based-on-the-sales-order.html",
+          "publishedOn": "2023-02-16T08:49:29.000Z",
+          "wordCount": 844,
+          "title": "Auto assembly / disassembly kit order based on the sales order",
+          "imageUrl": null
+        },
         {
           "id": "1836",
           "author": "Vasiliy Kovalenko",
@@ -9655,6 +9685,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "call-dataverse-actions-directly-in-power-fx-experimental-preview",
+          "author": null,
+          "description": "We are excited to announce direct access to Dataverse actions in Power Fx formulas as an Experimental release. As a part of the Power Fx language, authors can now directly invoke a Dataverse action within a formula. A new Power Fx ‘Environment’ language object that authors can add to their app enables access to Dataverse…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/call-dataverse-actions-directly-in-power-fx-experimental-preview/",
+          "publishedOn": "2023-02-16T11:01:00.000Z",
+          "wordCount": 1737,
+          "title": "Call Dataverse actions directly in Power Fx",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "t-mobile-saves-thousands-of-hours-and-achieves-12x-gains-in-process-efficiency-with-power-platform",
           "author": null,
