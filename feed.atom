@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-17T01:37:02.889Z</updated>
+    <updated>2023-02-18T01:24:56.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Netmodule File Missing Error in 10.0.31]]></title>
+        <id>https://alexdmeyer.com/?p=2591</id>
+        <link href="https://alexdmeyer.com/2023/02/17/netmodule-file-missing-error-in-10-0-31/"/>
+        <updated>2023-02-17T16:52:34.000Z</updated>
+        <summary type="html"><![CDATA[If you are partner, ISV, or anyone delivering custom code to end users in D365FO, there is a change in 10.0.31 that you need to know about. Issue If you have a customer that upgrades to 10.0.31 and the next time they try to check in a deployable package to their source control build pipeline […]
+The post Netmodule File Missing Error in 10.0.31 appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #7]]></title>
+        <id>http://dynamicsax-fico.com/?p=4975</id>
+        <link href="https://dynamicsax-fico.com/2023/02/17/microsoft-bizapps-deutschland-podcast-7/"/>
+        <updated>2023-02-17T05:52:44.000Z</updated>
+        <summary type="html"><![CDATA[[German language podcast] Im Podcast mit Erik Kruidenier sprechen wir über seine Arbeit bei der Firma Camfil im IT-Bereich und …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Dynamics 365 Project Operations?]]></title>
         <id>https://www.encorebusiness.com/?p=55884</id>
@@ -15687,17 +15709,6 @@ In...
         <summary type="html"><![CDATA[In this blog I want to highlight a very handy feature in the warehousing (warehouse management) app for Microsoft Dynamics 365 Supply Chain Management. The feature is well documented, but nevertheless I haven’t used it that much in the past. When you want to share the configuration for the warehousing (warehouse management) app of MsDyn365CSM … Continue reading Configure your MsDyn365CSM warehousing (warehouse management) app by scanning a QR-Code →]]></summary>
         <author>
             <name>Paul Heisterkamp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explanation of the date fields in the RetailTransactionTable used for reviewing Commerce transactions.]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e80ffd11-c91c-443e-b607-2c30914c5922</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/explanation-of-the-date-fields-in-the-retailtransactiontable-used-for-reviewing-commerce-transactions-1460085739"/>
-        <updated>2021-02-17T21:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Retail store sales transactions are manipulated in multiple ways from the start of a temp CRT transaction to saving it to the POS side of the database and then syncing this back to HQ for posting. When writing these transactions to the database there are 7 different fields that track various date/time stamps. While most of these will be within a second of each other, there may be a time where there is a large enough difference that will raise questions and concerns. The purpose of this informational article is to assist you with identifying which fields are being utilized in the Show Journal and through Retail reports in HQ so that you are able to more accurately compare the data for reconciling.
-Below are the 7 main fields within the RetailTransactionTable and how they are set in relation…]]></summary>
-        <author>
-            <name>RandyHiggins</name>
         </author>
     </entry>
 </feed>

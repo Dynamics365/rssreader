@@ -2169,6 +2169,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2591",
+          "author": "Alex",
+          "description": "If you are partner, ISV, or anyone delivering custom code to end users in D365FO, there is a change in 10.0.31 that you need to know about. Issue If you have a customer that upgrades to 10.0.31 and the next time they try to check in a deployable package to their source control build pipeline […]\nThe post Netmodule File Missing Error in 10.0.31 appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/02/17/netmodule-file-missing-error-in-10-0-31/",
+          "publishedOn": "2023-02-17T16:52:34.000Z",
+          "wordCount": 4141,
+          "title": "Netmodule File Missing Error in 10.0.31",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/02/1-1.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2577",
           "author": "Alex",
           "description": "The latest platform release notes for D365FO 10.0.31 has recently been made public, there were a couple security and audit related features I wanted to highlight. ‘Can Be Deleted From UI’ Security Role Property There is a new property on security roles called ‘Can Be Deleted from UI’. This setting controls where a particular security […]\nThe post Security & Audit Features Added in 10.0.31 appeared first on Alex Meyer.",
@@ -6354,6 +6364,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=4975",
+          "author": "Ludwig Reinhard",
+          "description": "[German language podcast] Im Podcast mit Erik Kruidenier sprechen wir über seine Arbeit bei der Firma Camfil im IT-Bereich und …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2023/02/17/microsoft-bizapps-deutschland-podcast-7/",
+          "publishedOn": "2023-02-17T05:52:44.000Z",
+          "wordCount": 75790,
+          "title": "Microsoft BizApps Deutschland Podcast #7",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/02/camfilfinal3.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=4943",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -8526,16 +8546,6 @@
           "publishedOn": "2021-03-16T13:53:00.000Z",
           "wordCount": 3610,
           "title": "How to print last 4 digits of the Credit Card on the Customer Receipt in POS",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e80ffd11-c91c-443e-b607-2c30914c5922",
-          "author": "RandyHiggins",
-          "description": "Retail store sales transactions are manipulated in multiple ways from the start of a temp CRT transaction to saving it to the POS side of the database and then syncing this back to HQ for posting. When writing these transactions to the database there are 7 different fields that track various date/time stamps. While most of these will be within a second of each other, there may be a time where there is a large enough difference that will raise questions and concerns. The purpose of this informational article is to assist you with identifying which fields are being utilized in the Show Journal and through Retail reports in HQ so that you are able to more accurately compare the data for reconciling.\nBelow are the 7 main fields within the RetailTransactionTable and how they are set in relation…",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/explanation-of-the-date-fields-in-the-retailtransactiontable-used-for-reviewing-commerce-transactions-1460085739",
-          "publishedOn": "2021-02-17T21:43:00.000Z",
-          "wordCount": 3833,
-          "title": "Explanation of the date fields in the RetailTransactionTable used for reviewing Commerce transactions.",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
