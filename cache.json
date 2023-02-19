@@ -1725,6 +1725,26 @@
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0a8b6415-8067-4889-bca2-e84883c4ebb3",
+          "author": "Karan Choudhary",
+          "description": "The sales pipeline is a visual representation of where prospects are within the sales funnel. Managing the pipeline is one of the core activities of any seller; it helps sellers to stay organized and focused on moving deals forward. A seller who can successfully master the sales pipeline is likely to drive more revenue. \nBut mastering a sales pipeline is not easy, especially when sellers must balance multiple active deals, an array of contacts, and conversations across multiple channels, while trying to figure out when the next interaction will occur, what next steps are required, and which app or process will help accomplish the job. \nThe opportunity pipeline view in Dynamics 365 Sales is now available for public preview and offers an updated user experience by putting the seller at the c…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/manage-opportunities-more-effectively-with-the-new-sales-pipeline-view",
+          "publishedOn": "2023-02-16T18:02:00.000Z",
+          "wordCount": 4485,
+          "title": "Manage opportunities more effectively with the new sales pipeline view!",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1bb47326-656a-4880-b280-a507247db761",
+          "author": "Jenny Song",
+          "description": "With the new Global Inventory Accounting Add-in, Microsoft Dynamics 365 Supply Chain Management now supports parallel cost accounting. The ability to perform inventory accounting using multiple costing ledgers enables organizations that do business internationally to easily comply with multiple accounting standards at the same time.\nGlobal organizations face complex accounting challenges\nInternational organizations face a complex accounting challenge when they produce and sell items across many countries. For each item they produce and sell, they must often calculate multiple representations of inventory costs to comply with local generally accepted accounting principles, statutory accounting principles like the International Financial Reporting Standards (IFRS), and internal management ac…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/parallel-cost-accounting-now-available-with-global-inventory-accounting-add-in-for-supply-chain-management",
+          "publishedOn": "2023-02-13T20:10:15.000Z",
+          "wordCount": 4242,
+          "title": "Parallel cost accounting now available with Global Inventory Accounting Add-in for Supply Chain Management",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:86cf2a0a-d0bd-4554-8b5a-06f9f43e115f",
           "author": "Yufei Huang",
           "description": "Companies that operate in more than one channel or region must fulfill orders over networks of ever-increasing complexity. When supply shortages happenand they willhow do you make the best use of limited stock across your most important channels, customer groups, regions, and promotions? And once you decide that, how do you make sure the allocated stock is protected from any other use? With inventory allocation, a new capability of the Microsoft Dynamics 365 Supply Chain Management Inventory Visibility service.\nInventory allocation allows you to virtually apportion your on-hand stock as part of the sales operational planning process before any actual sales are made. It has two purposes:\n\nInventory protection (ring fencing): Protecting the allocated inventory from other allocations, reserva…",
