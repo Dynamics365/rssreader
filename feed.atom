@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-19T01:36:11.371Z</updated>
+    <updated>2023-02-20T01:27:52.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Special edition: Financial ratio analysis with AI (Chat GPT)]]></title>
+        <id>http://dynamicsax-fico.com/?p=4981</id>
+        <link href="https://dynamicsax-fico.com/2023/02/19/special-edition-financial-ratio-analysis-with-ai-chat-gpt/"/>
+        <updated>2023-02-19T12:07:28.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netmodule File Missing Error in 10.0.31]]></title>
         <id>https://alexdmeyer.com/?p=2591</id>
