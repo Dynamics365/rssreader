@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-20T01:27:52.357Z</updated>
+    <updated>2023-02-21T01:37:22.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -14,6 +14,23 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From the Microsoft Dynamics 365 Finance & Operations Blogs: Pin user session; Ledger settlements; Linking D365FO; Dataverse environments; SecurityUserRoleOrganization issue]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:64e616bd-97a0-4b3f-aa41-e90a7c9bce29</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/from-the-microsoft-dynamics-365-finance-operations-blogs-pin-user-session-ledger-settlements-linking-d365fo-dataverse-environments-securityuserroleorganization-issue"/>
+        <updated>2023-02-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This week on the Dynamics 365 Finance and Operations blog
+roundup: 
+ 
+ Pin your user session to one specific AOS 
+ Automate ledger settlements in D365FO 
+ How to connect your Finance and Operation environment with
+Dataverse 
+ Interesting issue with the... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
         </author>
     </entry>
     <entry>
@@ -46,6 +63,17 @@ Continue reading →]]></summary>
         <summary type="html"><![CDATA[The sales pipeline is a visual representation of where prospects are within the sales funnel. Managing the pipeline is one of the core activities of any seller; it helps sellers to stay organized and focused on moving deals forward. A seller who can successfully master the sales pipeline is likely to drive more revenue. 
 But mastering a sales pipeline is not easy, especially when sellers must balance multiple active deals, an array of contacts, and conversations across multiple channels, while trying to figure out when the next interaction will occur, what next steps are required, and which app or process will help accomplish the job. 
 The opportunity pipeline view in Dynamics 365 Sales is now available for public preview and offers an updated user experience by putting the seller at the c…]]></summary>
+        <author>
+            <name>Karan Choudhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manage opportunities more effectively with the new sales pipeline view!]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/02/16/manage-opportunities-more-effectively-with-the-new-sales-pipeline-view/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/02/16/manage-opportunities-more-effectively-with-the-new-sales-pipeline-view/"/>
+        <updated>2023-02-16T18:02:00.000Z</updated>
+        <summary type="html"><![CDATA[The sales pipeline is a visual representation of where prospects are within the sales funne
+The post Manage opportunities more effectively with the new sales pipeline view!  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Karan Choudhary</name>
         </author>

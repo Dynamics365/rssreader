@@ -891,6 +891,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:64e616bd-97a0-4b3f-aa41-e90a7c9bce29",
+          "author": "MSDynamicsWorld.com",
+          "description": "This week on the Dynamics 365 Finance and Operations blog\nroundup: \n \n Pin your user session to one specific AOS \n Automate ledger settlements in D365FO \n How to connect your Finance and Operation environment with\nDataverse \n Interesting issue with the... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/from-the-microsoft-dynamics-365-finance-operations-blogs-pin-user-session-ledger-settlements-linking-d365fo-dataverse-environments-securityuserroleorganization-issue",
+          "publishedOn": "2023-02-18T16:00:00.000Z",
+          "wordCount": 3755,
+          "title": "From the Microsoft Dynamics 365 Finance & Operations Blogs: Pin user session; Ledger settlements; Linking D365FO; Dataverse environments; SecurityUserRoleOrganization issue",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:dc8ca9b2-b474-4a98-988b-cb3d2533eb91",
           "author": "MSDynamicsWorld.com",
           "description": "This episode is sponsored by \n Evenica . \n \n \n \n Manufacturers have\nmade a lot of progress on their e-commerce journeys in recent\nyears, and Dynamics 365 Commerce offers some unique ways for these\ncompanies to achieve sales and broader customer experience... Read the full text.",
@@ -4112,6 +4122,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/02/16/manage-opportunities-more-effectively-with-the-new-sales-pipeline-view/",
+          "author": "Karan Choudhary",
+          "description": "The sales pipeline is a visual representation of where prospects are within the sales funne\nThe post Manage opportunities more effectively with the new sales pipeline view!  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/02/16/manage-opportunities-more-effectively-with-the-new-sales-pipeline-view/",
+          "publishedOn": "2023-02-16T18:02:00.000Z",
+          "wordCount": 2565,
+          "title": "Manage opportunities more effectively with the new sales pipeline view!",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/MicrosoftTeams-image-13-1024x683.png"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/02/13/parallel-cost-accounting-now-available-with-global-inventory-accounting-add-in-for-supply-chain-management/",
           "author": "Jenny Song",
