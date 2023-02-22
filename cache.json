@@ -2199,6 +2199,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2589",
+          "author": "Alex",
+          "description": "Going off of recent posts where I was looking for things that have been upgraded recently, I noticed in 10.0.30 and 10.0.31 that there were some changes to the LicensingServicePlansPrivilege table within D365FO. I started noticing the ‘Activity’ license showing up in this table, which hasn’t happened before: This of course raises a lot of […]\nThe post Potential Upcoming Licensing Changes in D365FO? appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/02/21/potential-upcoming-licensing-changes-in-d365fo/",
+          "publishedOn": "2023-02-21T15:54:25.000Z",
+          "wordCount": 4342,
+          "title": "Potential Upcoming Licensing Changes in D365FO?",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/02/0.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2591",
           "author": "Alex",
           "description": "If you are partner, ISV, or anyone delivering custom code to end users in D365FO, there is a change in 10.0.31 that you need to know about. Issue If you have a customer that upgrades to 10.0.31 and the next time they try to check in a deployable package to their source control build pipeline […]\nThe post Netmodule File Missing Error in 10.0.31 appeared first on Alex Meyer.",
@@ -10949,6 +10959,16 @@
       "feedUrl": "https://d365fandom.com/feeds/posts/default",
       "siteUrl": "https://www.d365fandom.com/",
       "articles": [
+        {
+          "id": "https://www.d365fandom.com/2023/02/subscription-billing-renewals.html",
+          "author": null,
+          "description": "One thing I appreciate about subscriptions is the automatic renewal process. It's nice to sign up for a subscription and not have to worry about manually renewing every time the contract period is up. This brings in automatic revenue for the company and keeps the hassle of manually renewing out of everyone's hands. \nFortunately, the process for setting up renewals in Subscription billing in Microsoft Dynamics 365 for Finance and Operations is fairly simple to execute as well. Let's dive in! \n\n\nRenewing Subscriptions\nThe process to renew a subscription set up in D365FO Subscription billing is done on the Billing schedule itself. When setting up your customer's billing schedule, there is a button to Renew automatically on the Billing schedule header. If this subscription should be renewed automatically, select this toggle and specify how many lines to add per renewal. \n\n\nSet the toggle for Renew automatically and specify how many lines to add per renewal\n\n\nIn my example above, I have a short billing cycle set for one quarter. I set the toggle for Renew automatically to Yes and Lines to add per renewal to 1. \nOnce I invoiced the period, a new renewal line gets added to the Renewal section in the Line details for the line being renewed. The line shows who renewed it, the date it was renewed, and that it is, in fact, a renewal. \n\n\nSee the renewals in Line details\n\n\nIf I navigate to View billing detail on the line, there is now a new billing line to be invoiced. This is the first automatic renewal line! \n\n\nBilling details now show a new line to be invoiced\n\n\nAutomatic renewals allow users to set up a billing schedule and continually renew the subscription until the customer decides to terminate it.",
+          "link": "https://www.d365fandom.com/2023/02/subscription-billing-renewals.html",
+          "publishedOn": "2023-02-21T19:04:00.000Z",
+          "wordCount": 2065,
+          "title": "Subscription Billing - Renewals",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS15Mf-OkurMnZWlXkTXiV7RpU28EUcyDO3lAoypyW4TeoDR0DSEYK3L8x3_AyW5ToxKQRIAQoO6pzcBJMJxN97BLBz33XW9xMGuREHrPe-fLbAAwRdRlExc0F4q_4AR_S09xVZFz6bRJ07u-InVmlIiBxdwBLZp1ThoJPUonFjRBn2U1kP3TKduJz/w1200-h630-p-k-no-nu/2023-02-21_13-34-35.png"
+        },
         {
           "id": "https://www.d365fandom.com/2023/02/subscription-billing-terminate.html",
           "author": null,

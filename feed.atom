@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-21T01:37:22.190Z</updated>
+    <updated>2023-02-22T01:25:45.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Subscription Billing - Renewals]]></title>
+        <id>https://www.d365fandom.com/2023/02/subscription-billing-renewals.html</id>
+        <link href="https://www.d365fandom.com/2023/02/subscription-billing-renewals.html"/>
+        <updated>2023-02-21T19:04:00.000Z</updated>
+        <summary type="html"><![CDATA[One thing I appreciate about subscriptions is the automatic renewal process. It's nice to sign up for a subscription and not have to worry about manually renewing every time the contract period is up. This brings in automatic revenue for the company and keeps the hassle of manually renewing out of everyone's hands. 
+Fortunately, the process for setting up renewals in Subscription billing in Microsoft Dynamics 365 for Finance and Operations is fairly simple to execute as well. Let's dive in! 
+
+
+Renewing Subscriptions
+The process to renew a subscription set up in D365FO Subscription billing is done on the Billing schedule itself. When setting up your customer's billing schedule, there is a button to Renew automatically on the Billing schedule header. If this subscription should be renewed automatically, select this toggle and specify how many lines to add per renewal. 
+
+
+Set the toggle for Renew automatically and specify how many lines to add per renewal
+
+
+In my example above, I have a short billing cycle set for one quarter. I set the toggle for Renew automatically to Yes and Lines to add per renewal to 1. 
+Once I invoiced the period, a new renewal line gets added to the Renewal section in the Line details for the line being renewed. The line shows who renewed it, the date it was renewed, and that it is, in fact, a renewal. 
+
+
+See the renewals in Line details
+
+
+If I navigate to View billing detail on the line, there is now a new billing line to be invoiced. This is the first automatic renewal line! 
+
+
+Billing details now show a new line to be invoiced
+
+
+Automatic renewals allow users to set up a billing schedule and continually renew the subscription until the customer decides to terminate it.]]></summary>
+        <author>
+            <name>D365FandO(m)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potential Upcoming Licensing Changes in D365FO?]]></title>
+        <id>https://alexdmeyer.com/?p=2589</id>
+        <link href="https://alexdmeyer.com/2023/02/21/potential-upcoming-licensing-changes-in-d365fo/"/>
+        <updated>2023-02-21T15:54:25.000Z</updated>
+        <summary type="html"><![CDATA[Going off of recent posts where I was looking for things that have been upgraded recently, I noticed in 10.0.30 and 10.0.31 that there were some changes to the LicensingServicePlansPrivilege table within D365FO. I started noticing the ‘Activity’ license showing up in this table, which hasn’t happened before: This of course raises a lot of […]
+The post Potential Upcoming Licensing Changes in D365FO? appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Special edition: Financial ratio analysis with AI (Chat GPT)]]></title>
         <id>http://dynamicsax-fico.com/?p=4981</id>
