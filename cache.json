@@ -3560,6 +3560,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4443",
+          "author": "Kurt Hatlevik",
+          "description": "As we know, the Dynamics 365 portfolio of apps and functionally is extremely rich and have vertical features for most industries. We also know that driving the Microsoft R&D with a tight coordination between the apps is difficult, and I also understand Microsoft want to provide new highly requested features and innovation quickly to the … Continue reading D365 Understanding limitations",
+          "link": "https://kurthatlevik.com/2023/02/22/d365-understanding-limitations/",
+          "publishedOn": "2023-02-22T21:33:52.000Z",
+          "wordCount": 76577,
+          "title": "D365 Understanding limitations",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/02/022223_2133_d365underst1.png"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4436",
           "author": "Kurt Hatlevik",
           "description": "In March 2023 the public preview of integrated omnichannel media management features are planned, and I’m really looking forward implementing this feature at customers. In simpler terms, the new feature makes it easier for you to manage all the media assets (like product images, videos, and other documents) related to your online and in-store sales. … Continue reading D365 eCommerce : Image it !",
@@ -3955,6 +3965,16 @@
       "feedUrl": "https://daxonline.org/rss.xml",
       "siteUrl": "http://daxonline.org/",
       "articles": [
+        {
+          "id": "1844",
+          "author": "Vasiliy Kovalenko",
+          "description": "Upload file and process with RunBaseBatch framework\n\n\n\n/// <summary>\n/// Class to delete bogus online refund records in VKOnlineRefund table\n/// </summary>\nclass VKDeleteOnlineRefund extends RunBaseBatch implements BatchRetryable\n{\n    DialogRunbase   dialog;\n\n    Filename            filename;\n    private str         availableTypes = '.csv';\n    private const str   OkButtonName   = 'OkButton';\n    private const str   FileUploadName = 'FileUpload';\n    str                 textFile;\n\n    Set                 set = new Set(Types::Record);\n    SetEnumerator       setEnumerator;\n\n    int                    fileLineNumber;\n    container           currentLine;\n    container            storageResult;\n\n    #define.CurrentVersion(1)\n    #localmacro.CurrentList\n        filename,\n        storageResult\n…",
+          "link": "http://daxonline.org/1844-file-upload-and-process-with-runbasebatch.html",
+          "publishedOn": "2023-02-21T12:40:37.000Z",
+          "wordCount": 697,
+          "title": "File upload and process with RunBaseBatch",
+          "imageUrl": null
+        },
         {
           "id": "1842",
           "author": "Vasiliy Kovalenko",
@@ -6396,6 +6416,16 @@
       "feedUrl": "https://axscm.wordpress.com/feed/",
       "siteUrl": "https://axscm.wordpress.com",
       "articles": [
+        {
+          "id": "http://axscm.wordpress.com/?p=2014",
+          "author": "birgerlarsen",
+          "description": "A warehouse workspace in Dynamics 365 for operations (D365FO) is a cost-effective tool, that can increase efficiency and productivity in the warehouse. Warehouse workspaces can provide excellent overview on daily operations in the warehouse and alert supervisors when intervention is required. This is the second of two post on warehouse workspaces. In the first post&ellipsis;Read the full post »",
+          "link": "https://axscm.wordpress.com/2023/02/22/warehouse-workspaces-a-no-code-approach-to-increase-warehouse-efficiency/",
+          "publishedOn": "2023-02-22T08:01:57.000Z",
+          "wordCount": 78796,
+          "title": "Warehouse workspaces – a no-code approach to increase warehouse efficiency",
+          "imageUrl": "https://axscm.files.wordpress.com/2023/01/work-blocked-by-replenishment-create-join-1-1.jpg"
+        },
         {
           "id": "http://axscm.wordpress.com/?p=1748",
           "author": "birgerlarsen",
@@ -9074,6 +9104,16 @@
       "siteUrl": "https://elearnd365.com",
       "articles": [
         {
+          "id": "http://elearnd365.com/?p=623",
+          "author": "Sukrut Parab",
+          "description": "Microsoft’s Power platform has rich functionalities which can be used while working with Finance and operations apps. To unlock those features for Finance and operations customer Microsoft has provided power platform integration through LCS which gives us ability to use following features The above features provide a way of convergence of F&O with dataverse platform […]",
+          "link": "https://elearnd365.com/2023/02/21/using-power-platform-integration-capabilities-in-finance-and-operations-integrations/",
+          "publishedOn": "2023-02-22T05:30:39.000Z",
+          "wordCount": 76376,
+          "title": "Using power platform integration capabilities in Finance and operations integrations",
+          "imageUrl": "https://elearnd365.files.wordpress.com/2023/02/image-2.png"
+        },
+        {
           "id": "http://elearnd365.com/?p=597",
           "author": "Sukrut Parab",
           "description": "With recently released features in LCS its now possible to connect finance and operations environments with existing dataverse environments. In this blog post we will go through the process of linking F&O enviornment with dataverse enviornment through LCS. The old process was described in this article (https://elearnd365.com/2021/11/13/link-newly-created-fo-environment-with-existing-dataverse-environment/ ) As a part of power platform integration, […]",
@@ -9755,6 +9795,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "discover-the-breadth-of-the-power-platform-with-simple-and-scalable-navigation",
+          "author": null,
+          "description": "Introducing the new and simplified Power Apps portal left navigation pane. Do you find it daunting to navigate through the menu items on the pane today? Do you wish you had a quick and easy way to pin items that are most used by you or get a quick glance of all the product features…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/discover-the-breadth-of-the-power-platform-with-simple-and-scalable-navigation/",
+          "publishedOn": "2023-02-22T08:38:50.000Z",
+          "wordCount": 1848,
+          "title": "Discover the breadth of the Power Platform with simple and scalable navigation",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "call-dataverse-actions-directly-in-power-fx-experimental-preview",
           "author": null,

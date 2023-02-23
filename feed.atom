@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-22T01:25:45.956Z</updated>
+    <updated>2023-02-23T01:24:36.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365 Understanding limitations]]></title>
+        <id>http://kurthatlevik.com/?p=4443</id>
+        <link href="https://kurthatlevik.com/2023/02/22/d365-understanding-limitations/"/>
+        <updated>2023-02-22T21:33:52.000Z</updated>
+        <summary type="html"><![CDATA[As we know, the Dynamics 365 portfolio of apps and functionally is extremely rich and have vertical features for most industries. We also know that driving the Microsoft R&D with a tight coordination between the apps is difficult, and I also understand Microsoft want to provide new highly requested features and innovation quickly to the … Continue reading D365 Understanding limitations]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover the breadth of the Power Platform with simple and scalable navigation]]></title>
+        <id>discover-the-breadth-of-the-power-platform-with-simple-and-scalable-navigation</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/discover-the-breadth-of-the-power-platform-with-simple-and-scalable-navigation/"/>
+        <updated>2023-02-22T08:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Introducing the new and simplified Power Apps portal left navigation pane. Do you find it daunting to navigate through the menu items on the pane today? Do you wish you had a quick and easy way to pin items that are most used by you or get a quick glance of all the product features…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warehouse workspaces – a no-code approach to increase warehouse efficiency]]></title>
+        <id>http://axscm.wordpress.com/?p=2014</id>
+        <link href="https://axscm.wordpress.com/2023/02/22/warehouse-workspaces-a-no-code-approach-to-increase-warehouse-efficiency/"/>
+        <updated>2023-02-22T08:01:57.000Z</updated>
+        <summary type="html"><![CDATA[A warehouse workspace in Dynamics 365 for operations (D365FO) is a cost-effective tool, that can increase efficiency and productivity in the warehouse. Warehouse workspaces can provide excellent overview on daily operations in the warehouse and alert supervisors when intervention is required. This is the second of two post on warehouse workspaces. In the first post&ellipsis;Read the full post »]]></summary>
+        <author>
+            <name>birgerlarsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using power platform integration capabilities in Finance and operations integrations]]></title>
+        <id>http://elearnd365.com/?p=623</id>
+        <link href="https://elearnd365.com/2023/02/21/using-power-platform-integration-capabilities-in-finance-and-operations-integrations/"/>
+        <updated>2023-02-22T05:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft’s Power platform has rich functionalities which can be used while working with Finance and operations apps. To unlock those features for Finance and operations customer Microsoft has provided power platform integration through LCS which gives us ability to use following features The above features provide a way of convergence of F&O with dataverse platform […]]]></summary>
+        <author>
+            <name>Sukrut Parab</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Subscription Billing - Renewals]]></title>
         <id>https://www.d365fandom.com/2023/02/subscription-billing-renewals.html</id>
@@ -49,6 +89,44 @@ Automatic renewals allow users to set up a billing schedule and continually rene
 The post Potential Upcoming Licensing Changes in D365FO? appeared first on Alex Meyer.]]></summary>
         <author>
             <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File upload and process with RunBaseBatch]]></title>
+        <id>1844</id>
+        <link href="http://daxonline.org/1844-file-upload-and-process-with-runbasebatch.html"/>
+        <updated>2023-02-21T12:40:37.000Z</updated>
+        <summary type="html"><![CDATA[Upload file and process with RunBaseBatch framework
+
+
+
+/// <summary>
+/// Class to delete bogus online refund records in VKOnlineRefund table
+/// </summary>
+class VKDeleteOnlineRefund extends RunBaseBatch implements BatchRetryable
+{
+    DialogRunbase   dialog;
+
+    Filename            filename;
+    private str         availableTypes = '.csv';
+    private const str   OkButtonName   = 'OkButton';
+    private const str   FileUploadName = 'FileUpload';
+    str                 textFile;
+
+    Set                 set = new Set(Types::Record);
+    SetEnumerator       setEnumerator;
+
+    int                    fileLineNumber;
+    container           currentLine;
+    container            storageResult;
+
+    #define.CurrentVersion(1)
+    #localmacro.CurrentList
+        filename,
+        storageResult
+…]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
         </author>
     </entry>
     <entry>
