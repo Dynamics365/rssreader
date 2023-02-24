@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-23T01:24:36.126Z</updated>
+    <updated>2023-02-24T01:26:20.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kao uses Power Apps to boost frontline worker efficiency by 480 hours every month]]></title>
+        <id>kao-uses-power-apps-to-boost-frontline-worker-efficiency-by-480-hours-every-month</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/kao-uses-power-apps-to-boost-frontline-worker-efficiency-by-480-hours-every-month/"/>
+        <updated>2023-02-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kao Corporation has used Microsoft Power Platform to create digital solutions for frontline workers across their factories in Japan. A single citizen developer project resulted in an efficiency increase of 480 hours per month. This is one of the 250+ apps in use across ten facilities in Japan.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 2022 favorite X++ features by Michael Pontoppidan]]></title>
+        <id>http://msdyn365fo.wordpress.com/?p=578</id>
+        <link href="https://msdyn365fo.wordpress.com/2023/02/23/top-2022-favorite-x-features-by-michael-pontoppidan/"/>
+        <updated>2023-02-23T15:55:52.000Z</updated>
+        <summary type="html"><![CDATA[This blog is a bit different than my other blogs because it “only” publishes a post published by Michael Pontoppidan on LinkedIn. The reason behind is that on LinkedIn it´s kind of hidden and I recently got the question if I know the post where someone posted the evolution of X++ in the last year. … Continue reading Top 2022 favorite X++ features by Michael Pontoppidan →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D365 Understanding limitations]]></title>
         <id>http://kurthatlevik.com/?p=4443</id>

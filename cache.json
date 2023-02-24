@@ -2545,6 +2545,16 @@
       "siteUrl": "https://msdyn365fo.wordpress.com",
       "articles": [
         {
+          "id": "http://msdyn365fo.wordpress.com/?p=578",
+          "author": "Paul Heisterkamp",
+          "description": "This blog is a bit different than my other blogs because it “only” publishes a post published by Michael Pontoppidan on LinkedIn. The reason behind is that on LinkedIn it´s kind of hidden and I recently got the question if I know the post where someone posted the evolution of X++ in the last year. … Continue reading Top 2022 favorite X++ features by Michael Pontoppidan →",
+          "link": "https://msdyn365fo.wordpress.com/2023/02/23/top-2022-favorite-x-features-by-michael-pontoppidan/",
+          "publishedOn": "2023-02-23T15:55:52.000Z",
+          "wordCount": 76447,
+          "title": "Top 2022 favorite X++ features by Michael Pontoppidan",
+          "imageUrl": "https://msdyn365fo.files.wordpress.com/2023/02/top-2022-favorite-x-features-by-michael-pontoppidan.png"
+        },
+        {
           "id": "http://msdyn365fo.wordpress.com/?p=573",
           "author": "Paul Heisterkamp",
           "description": "In the lifetime of an Microsoft Dynamics 365 for Finance and Operations implementation project you will have the requirement to create a trace on an environment with more than one AOS. This is not a problem when you want to create the trace for your user session, but it is a challenge when you want … Continue reading Pin your MsDyn365FO user session to one specific AOS →",
@@ -9795,6 +9805,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "kao-uses-power-apps-to-boost-frontline-worker-efficiency-by-480-hours-every-month",
+          "author": null,
+          "description": "Kao Corporation has used Microsoft Power Platform to create digital solutions for frontline workers across their factories in Japan. A single citizen developer project resulted in an efficiency increase of 480 hours per month. This is one of the 250+ apps in use across ten facilities in Japan.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/kao-uses-power-apps-to-boost-frontline-worker-efficiency-by-480-hours-every-month/",
+          "publishedOn": "2023-02-23T16:00:00.000Z",
+          "wordCount": 2354,
+          "title": "Kao uses Power Apps to boost frontline worker efficiency by 480 hours every month",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/02/image-8.png"
+        },
         {
           "id": "discover-the-breadth-of-the-power-platform-with-simple-and-scalable-navigation",
           "author": null,
