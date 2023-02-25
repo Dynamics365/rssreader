@@ -22,6 +22,244 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-24 datetime="2023-02-24T03:40:40.000Z">2023-02-24</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-24 datetime="2023-02-24T03:40:40.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Atomic AX - Dynamics AX Tips, Tricks, How To&#x27;s and Code</button>
+                  <a class="source-heading__link" href="https://www.atomicax.com/frontpage">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="1674 at https://www.atomicax.com"
+                        open
+                      >
+                        <summary class="article-expander__title">Using Git in PackagesLocalDirectory</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.atomicax.com/article/using-git-packageslocaldirectory">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Submitted by Nathan Clouse on 02/23/23.
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+Git      
+Source Control      
+
+How to use Git with PackagesLocalDirectory
+Git is a more modern source control system that has a lot of interest from Finance and Operations technical resources. There are a lot of potential benefits to use Git rather than TFVC. However, one of the hurdles to larger adoption of Git from X++ Devs is how Git really likes you to make new repos from an empty folder. If i want to sync to a new repo, Git would like that new repo to be a new folder on my local file system. F&amp;O VMs are created with the PackagesLocalDirectory already there and full of code. So what can we do? Bodge something together. We can use Powershell to move the repo into a directory once we&#x27;ve synced to an alternative location f…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="1672 at https://www.atomicax.com"
+                        open
+                      >
+                        <summary class="article-expander__title">How to Create an Azure Queue Endpoint in F&amp;O</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.atomicax.com/article/how-create-azure-queue-endpoint-fo">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Submitted by Nathan Clouse on 02/23/23.
+
+
+
+
+
+
+
+
+
+
+
+
+How to Create an Azure Queue Endpoint in F&amp;O
+This is a simple, straight forward How-To to create an Azure Service Bus Queue endpoint in Finance and Operations. In order to do this, you&#x27;ll have to have completed the following steps and collected the required data points.
+Queue Name / Data Point 5: https://www.atomicax.com/article/how-create-azure-service-bus-queue
+App Registration Client Id / Data Point 2: https://www.atomicax.com/article/how-create-app-registration-fo
+App Registration secret value / Data Point 1: https://www.atomicax.com/article/how-create-app-registration-fo
+Key Vault DNS URI / Data Point 7: https://www.atomicax.com/article/how-create-azure-key-vault-fo
+Secret Name for Service Bus Connection String / Data Point 4: https://www.atomicax.com/article/how-create-azure-service-bus-queue
+ 
+From the Business Events page, click &quot;new&quot;
+
+Select &quot;Azure Service Bus Queue&quot;, click next.
+
+Next, enter or paste in the required values. Click ok.
+
+
+
+
+
+View the discussion thread.
+
+
+
+Reported:</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="1673 at https://www.atomicax.com"
+                        open
+                      >
+                        <summary class="article-expander__title">How to create an Azure Key Vault for F&amp;O</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.atomicax.com/article/how-create-azure-key-vault-fo">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Submitted by Nathan Clouse on 02/23/23.
+
+
+
+
+
+
+
+
+
+
+
+
+How to create an Azure Key Vault for F&amp;O
+This is a simple, straight forward How-To to create an Azure Key Vault that can be used by Finance and Operations. At the end, you&#x27;ll have an Azure Key Vault DNS URI name and a secret name (data points 7 and [4 or 9] referenced in other articles). Creating the secret names are explained in the article for the resource you are making the resource for. 
+Start at https://portal.azure.com/
+Search for &quot;Key Vaults&quot; and click on the Key Vaults option
+
+Next, click create
+
+Next, fill in the required sections.
+
+Confirm your user is in the access policies list. click next.
+
+Next, click on &quot;selected networks&quot; then &quot;allow trusted Microsoft Services to bypass this firewall&quot;. Click next.
+
+Click next
+
+Click Create.
+
+Wait for the resource to deploy then click &quot;go to resource&quot;.
+
+Record the Vault URI value for use later. Click on access policies.
+
+Click Create.
+
+Select &quot;Get&quot; and &quot;List&quot; in the Secret Management Operations section. Click next
+
+Paste in the App Registration Application (Client) ID, add that principal, click next.
+
+Click Next.
+
+Click Create.
+
+Next, click on Networking.
+
+Add your IP address to the firewall.  You can use https://www.whatismyip.com/ to get  your IPv4 address.
+
+Next, go to Secrets.
+
+Click &quot;Generate/Import&quot;.
+
+Next, create a unique and descriptive name then paste in the secret. This is an example of creating a service bus connection string secret. Save the secret name assigned for later. Click Create.
+
+Confirm service was created.
+
+
+
+
+
+View the discussion thread.
+
+
+
+Reported:</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Dynamics 365 Blog</button>
+                  <a class="source-heading__link" href="https://cloudblogs.microsoft.com/dynamics365/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cloudblogs.microsoft.com/dynamics365/it/2023/02/23/extend-and-optimize-your-customer-outreach-with-custom-channels/"
+                        open
+                      >
+                        <summary class="article-expander__title">Extend and optimize your customer outreach with custom channels</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cloudblogs.microsoft.com/dynamics365/it/2023/02/23/extend-and-optimize-your-customer-outreach-with-custom-channels/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/CLO22_HybridWork_026-1024x683.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>In this fast-paced world, customers expect to be able to interact with brands in ways that extend beyond traditional channels. Brands are constantly competing for the attention of customers who are deluged with messages daily.
+The post Extend and optimize your customer outreach with custom channels appeared first on Microsoft Dynamics 365 Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-23 datetime="2023-02-23T16:00:00.000Z">2023-02-23</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-23 datetime="2023-02-23T16:00:00.000Z"></time>
           </button>
@@ -102,6 +340,43 @@
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
+                  >MSDynamicsWorld.com AX News</button>
+                  <a class="source-heading__link" href="https://community.dynamics.com/ax/b/axmsdwnews">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="f7860544-fd88-4f76-8c0c-6920dd39f354:4aedb6b2-ea5c-4968-a969-86ac666619a4"
+                        open
+                      >
+                        <summary class="article-expander__title">Event Preview: Defining successful a Dynamics AX to Dynamics 365 user journey</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://community.dynamics.com/ax/b/axmsdwnews/posts/event-preview-defining-successful-a-dynamics-ax-to-dynamics-365-user-journey">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_&#x3D;637798982754763787" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Microsoft Dynamics AX customers face many questions as they
+consider a future that includes a Dynamics 365 cloud ERP solution.
+Does it make sense to re-implement or is a migration possible? How
+should their organization approach testing and change management... Read the full text.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;12
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >Kurt Hatlevik – Dynamics 365 Blog</button>
                   <a class="source-heading__link" href="https://kurthatlevik.com">Open</a>
                 </h3>
@@ -129,6 +404,41 @@
                 </section>
               </section>
             </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Dynamics 365 Blog</button>
+                  <a class="source-heading__link" href="https://cloudblogs.microsoft.com/dynamics365/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cloudblogs.microsoft.com/dynamics365/it/2023/02/22/leverage-the-latest-intelligent-order-management-features-to-accelerate-your-e-commerce-channel/"
+                        open
+                      >
+                        <summary class="article-expander__title">Leverage the latest Intelligent Order Management features to accelerate your e-commerce business</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cloudblogs.microsoft.com/dynamics365/it/2023/02/22/leverage-the-latest-intelligent-order-management-features-to-accelerate-your-e-commerce-channel/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/MSC23_PICHA_retail_152185-scaled.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Intelligent Order Management announced a truck load of new features in November 2022.   This article explores the core investment themes for the November Release enabling our customers and partners to explore and implement the relevant features for their business.  
+The post Leverage the latest Intelligent Order Management features to accelerate your e-commerce business appeared first on Microsoft Dynamics 365 Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -138,11 +448,67 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-22 datetime="2023-02-22T08:38:50.000Z">2023-02-22</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-22 datetime="2023-02-22T08:38:50.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-22 datetime="2023-02-22T16:00:00.000Z">2023-02-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-22 datetime="2023-02-22T16:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Dynamics 365 Blog</button>
+                  <a class="source-heading__link" href="https://cloudblogs.microsoft.com/dynamics365/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/22/deliver-insights-with-dynamics-365-finance-business-performance-analytics/"
+                        open
+                      >
+                        <summary class="article-expander__title">Deliver insights with Dynamics 365 Finance business performance analytics</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/22/deliver-insights-with-dynamics-365-finance-business-performance-analytics/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/WWS16_Bank_076.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Historically, finance teams have spent most of their time running accounting and financial operations, closing the books, and creating financial reports and statements. 
+The post Deliver insights with Dynamics 365 Finance business performance analytics appeared first on Microsoft Dynamics 365 Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/21/join-us-for-microsoft-customer-success-day/"
+                        open
+                      >
+                        <summary class="article-expander__title">Join us for Microsoft Customer Success Day—dedicated to realizing business value with Dynamics 365 and Power Platform</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/21/join-us-for-microsoft-customer-success-day/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/MSC21_Getty_officePortrait_181215351_v2.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>We&#x27;re thrilled to invite you to the first-ever Microsoft Customer Success Day, a free virtual conference for Microsoft Dynamics 365 and Power Platform users on March 16, 2023. This event is open to all community members, customers, partners, and enthusiasts, globally.
+The post Join us for Microsoft Customer Success Day—dedicated to realizing business value with Dynamics 365 and Power Platform appeared first on Microsoft Dynamics 365 Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -45767,8 +46133,8 @@ In...
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/4258432283">
-        <time id="build-timestamp" datetime="2023-02-24T01:26:20.015Z">2023-02-24T01:26:20.015Z</time>
+      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/4267636148">
+        <time id="build-timestamp" datetime="2023-02-25T01:26:01.197Z">2023-02-25T01:26:01.197Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
