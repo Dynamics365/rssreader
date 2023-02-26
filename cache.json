@@ -891,6 +891,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:310315f5-1207-4a84-9a31-c4e8de5311b0",
+          "author": "MSDynamicsWorld.com",
+          "description": "MSDW and MSCN Editors Jason Gumpert and Eamon McCarthy Earls\ndiscuss recent developments in the Microsoft community,\nhighlighting recent news and features, as well as ongoing trends\nand upcoming Microsoft Dynamics events. \n \n Show Notes: \n \n \n Microsoft... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-microsoft-business-apps-news-roundup-february-2023",
+          "publishedOn": "2023-02-24T15:00:00.000Z",
+          "wordCount": 3729,
+          "title": "MSDW Podcast: Microsoft Business Apps News Roundup, February 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4aedb6b2-ea5c-4968-a969-86ac666619a4",
           "author": "MSDynamicsWorld.com",
           "description": "Microsoft Dynamics AX customers face many questions as they\nconsider a future that includes a Dynamics 365 cloud ERP solution.\nDoes it make sense to re-implement or is a migration possible? How\nshould their organization approach testing and change management... Read the full text.",
@@ -1744,6 +1754,46 @@
       "feedUrl": "https://community.dynamics.com/365/b/365teamblog/rss",
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:40aaa3a3-00bb-40be-94f9-99dc6d861c40",
+          "author": "Georgios Alexandros Balafoutis",
+          "description": "In this fast-paced world, customers expect to be able to interact with brands in ways that extend beyond traditional channels. Brands are constantly competing for the attention of customers who are deluged with messages daily. Text messages and messaging apps like WhatsApp, Viber, and Telegram represent an opportunity to engage your customers where they're paying attention. Your customers benefit from increased and faster engagement with your brand through a real-time, personalized experienceand you're more effective in triggering a specific customer action or behavior.\nCurious about how you can integrate WhatsApp, Viber, Telegram, and many other channels in your journeys to engage your customers in the moments that matter?\nDiscover Dynamics 365 Marketing custom channels\nWith custom channe…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/extend-and-optimize-your-customer-outreach-with-custom-channels",
+          "publishedOn": "2023-02-23T22:58:46.000Z",
+          "wordCount": 4273,
+          "title": "Extend and optimize your customer outreach with custom channels",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:623beeb0-624f-4082-a79a-cb0618a7d472",
+          "author": "Sid Datta",
+          "description": "Intelligent Order Management announced a truck load of new features in November 2022.  This article explores the core investment themes for the November Release enabling our customers and partners to explore and implement the relevant features for their business.  \nPrior to this release, IOM only contained broad functionality in certain key Order Management functions that span across the Supply Chain. This release focused on closing the gaps for these critical functionalities, while continuing to expand on IOM's core strengths which include the Provider Ecosystem, Fulfillment & Returns optimization, and the continued embrace of the low code-no code Power Platform. \nInvestments made to IOM focusing on improving 3 core tenets. These are: \n\nResiliency:  Will this investment reduce the time ta…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/leverage-the-latest-intelligent-order-management-features-to-accelerate-your-e-commerce-business",
+          "publishedOn": "2023-02-22T17:32:20.000Z",
+          "wordCount": 4427,
+          "title": "Leverage the latest Intelligent Order Management features to accelerate your e-commerce business",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0d4154eb-ded7-4892-8061-b3679b891a11",
+          "author": "Georg Glantschnig",
+          "description": "In times of economic uncertainty, business agility is critical to meeting stakeholder expectations and delivering customer value. These challenging times put CFOs and finance teams in the spotlight as leaders across the business look to them to protect short-term financial health and long-term growth. Yet, many leaders struggle to get the insights needed to pivot quickly. Join us at Finance Reimagined on February 28, 2023 to see how automation, AI, and analytics can help you lead the way through disruption.\nWhile business intelligence (BI) and cloud analytics tools can provide actionable insights, a significant obstacle that hinders finance professionals and business leaders from maximizing the potential of these tools is the need for advanced technical skills to consolidate, manipulate, a…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/deliver-insights-with-dynamics-365-finance-business-performance-analytics",
+          "publishedOn": "2023-02-22T16:00:00.000Z",
+          "wordCount": 4852,
+          "title": "Deliver insights with Dynamics 365 Finance business performance analytics",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:72c89906-585e-4996-b969-f06eb179aa8b",
+          "author": "Monica Flaherty",
+          "description": "We're thrilled to invite you to the first-ever Microsoft Customer Success Day, a free virtual conference for Microsoft Dynamics 365 and Power Platform users on March 16, 2023. This event is open to all community members, customers, partners, and enthusiasts, globally. Microsoft is committed to supporting your success, regardless of your company's size, industry, or location.   \nMicrosoft Customer Success Day will include more than 20 sessions and panels across four tracks: implementation, adoption, optimization, and migration. In addition, we will have keynotes from thought leaders, and a lively discussion panel on women in technology. All the content is designed to support you in building your own success journey, driving user adoption, and realizing business value for your organization. …",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/join-us-for-microsoft-customer-success-day-dedicated-to-realizing-business-value-with-dynamics-365-and-power-platform",
+          "publishedOn": "2023-02-21T19:00:00.000Z",
+          "wordCount": 4592,
+          "title": "Join us for Microsoft Customer Success Day—dedicated to realizing business value with Dynamics 365 and Power Platform",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0a8b6415-8067-4889-bca2-e84883c4ebb3",
           "author": "Karan Choudhary",

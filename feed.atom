@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-02-25T01:26:01.283Z</updated>
+    <updated>2023-02-26T01:40:47.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: Microsoft Business Apps News Roundup, February 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:310315f5-1207-4a84-9a31-c4e8de5311b0</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-microsoft-business-apps-news-roundup-february-2023"/>
+        <updated>2023-02-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MSDW and MSCN Editors Jason Gumpert and Eamon McCarthy Earls
+discuss recent developments in the Microsoft community,
+highlighting recent news and features, as well as ongoing trends
+and upcoming Microsoft Dynamics events. 
+ 
+ Show Notes: 
+ 
+ 
+ Microsoft... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Git in PackagesLocalDirectory]]></title>
         <id>1674 at https://www.atomicax.com</id>
@@ -156,6 +174,19 @@ Reported:]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Extend and optimize your customer outreach with custom channels]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:40aaa3a3-00bb-40be-94f9-99dc6d861c40</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/extend-and-optimize-your-customer-outreach-with-custom-channels"/>
+        <updated>2023-02-23T22:58:46.000Z</updated>
+        <summary type="html"><![CDATA[In this fast-paced world, customers expect to be able to interact with brands in ways that extend beyond traditional channels. Brands are constantly competing for the attention of customers who are deluged with messages daily. Text messages and messaging apps like WhatsApp, Viber, and Telegram represent an opportunity to engage your customers where they're paying attention. Your customers benefit from increased and faster engagement with your brand through a real-time, personalized experienceand you're more effective in triggering a specific customer action or behavior.
+Curious about how you can integrate WhatsApp, Viber, Telegram, and many other channels in your journeys to engage your customers in the moments that matter?
+Discover Dynamics 365 Marketing custom channels
+With custom channe…]]></summary>
+        <author>
+            <name>Georgios Alexandros Balafoutis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extend and optimize your customer outreach with custom channels]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/02/23/extend-and-optimize-your-customer-outreach-with-custom-channels/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/02/23/extend-and-optimize-your-customer-outreach-with-custom-channels/"/>
         <updated>2023-02-23T22:58:46.000Z</updated>
@@ -210,6 +241,20 @@ should their organization approach testing and change management... Read the ful
     </entry>
     <entry>
         <title type="html"><![CDATA[Leverage the latest Intelligent Order Management features to accelerate your e-commerce business]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:623beeb0-624f-4082-a79a-cb0618a7d472</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/leverage-the-latest-intelligent-order-management-features-to-accelerate-your-e-commerce-business"/>
+        <updated>2023-02-22T17:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Intelligent Order Management announced a truck load of new features in November 2022.  This article explores the core investment themes for the November Release enabling our customers and partners to explore and implement the relevant features for their business.  
+Prior to this release, IOM only contained broad functionality in certain key Order Management functions that span across the Supply Chain. This release focused on closing the gaps for these critical functionalities, while continuing to expand on IOM's core strengths which include the Provider Ecosystem, Fulfillment & Returns optimization, and the continued embrace of the low code-no code Power Platform. 
+Investments made to IOM focusing on improving 3 core tenets. These are: 
+
+Resiliency:  Will this investment reduce the time ta…]]></summary>
+        <author>
+            <name>Sid Datta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leverage the latest Intelligent Order Management features to accelerate your e-commerce business]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/02/22/leverage-the-latest-intelligent-order-management-features-to-accelerate-your-e-commerce-channel/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/02/22/leverage-the-latest-intelligent-order-management-features-to-accelerate-your-e-commerce-channel/"/>
         <updated>2023-02-22T17:32:20.000Z</updated>
@@ -217,6 +262,17 @@ should their organization approach testing and change management... Read the ful
 The post Leverage the latest Intelligent Order Management features to accelerate your e-commerce business appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Sid Datta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deliver insights with Dynamics 365 Finance business performance analytics]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0d4154eb-ded7-4892-8061-b3679b891a11</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/deliver-insights-with-dynamics-365-finance-business-performance-analytics"/>
+        <updated>2023-02-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In times of economic uncertainty, business agility is critical to meeting stakeholder expectations and delivering customer value. These challenging times put CFOs and finance teams in the spotlight as leaders across the business look to them to protect short-term financial health and long-term growth. Yet, many leaders struggle to get the insights needed to pivot quickly. Join us at Finance Reimagined on February 28, 2023 to see how automation, AI, and analytics can help you lead the way through disruption.
+While business intelligence (BI) and cloud analytics tools can provide actionable insights, a significant obstacle that hinders finance professionals and business leaders from maximizing the potential of these tools is the need for advanced technical skills to consolidate, manipulate, a…]]></summary>
+        <author>
+            <name>Georg Glantschnig</name>
         </author>
     </entry>
     <entry>
@@ -292,6 +348,17 @@ Billing details now show a new line to be invoiced
 Automatic renewals allow users to set up a billing schedule and continually renew the subscription until the customer decides to terminate it.]]></summary>
         <author>
             <name>D365FandO(m)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join us for Microsoft Customer Success Day—dedicated to realizing business value with Dynamics 365 and Power Platform]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:72c89906-585e-4996-b969-f06eb179aa8b</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/join-us-for-microsoft-customer-success-day-dedicated-to-realizing-business-value-with-dynamics-365-and-power-platform"/>
+        <updated>2023-02-21T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're thrilled to invite you to the first-ever Microsoft Customer Success Day, a free virtual conference for Microsoft Dynamics 365 and Power Platform users on March 16, 2023. This event is open to all community members, customers, partners, and enthusiasts, globally. Microsoft is committed to supporting your success, regardless of your company's size, industry, or location.   
+Microsoft Customer Success Day will include more than 20 sessions and panels across four tracks: implementation, adoption, optimization, and migration. In addition, we will have keynotes from thought leaders, and a lively discussion panel on women in technology. All the content is designed to support you in building your own success journey, driving user adoption, and realizing business value for your organization. …]]></summary>
+        <author>
+            <name>Monica Flaherty</name>
         </author>
     </entry>
     <entry>
