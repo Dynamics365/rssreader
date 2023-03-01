@@ -1548,6 +1548,16 @@
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56023",
+          "author": "Raymond Wong",
+          "description": "How Dynamics NAV Users Can Prepare to Upgrade to Dynamics 365 Business Central\nA natural path for Dynamics NAV on-premise users is to move to Dynamics 365 Business Central. This article will help you with internal evaluation, planning, and preparation for upgrading to Dynamics 365 Business Central. Table of Contents Data Quality Historical Data Processes and Pain Points Customizations and Integrations Video: How Dynamics NAV Users Can Start...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/nav-prepare-upgrade-business-central/",
+          "publishedOn": "2023-02-28T12:13:35.000Z",
+          "wordCount": 2270,
+          "title": "How Dynamics NAV Users Can Prepare to Upgrade to Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=55884",
           "author": "Jess Mooney",
           "description": "What Is Dynamics 365 Project Operations?\nMicrosoft Dynamics 365 Project Operations streamlines visibility and unifies the complex aspects of managing multiple projects of varying sizes. It can improve the accuracy of both resource booking and project estimates, as well as the consistency of your project management. An experienced Dynamics Partner like Encore can also integrate Project Operations with your financial solution...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -3892,6 +3902,16 @@
       "siteUrl": "https://dynvision365.com",
       "articles": [
         {
+          "id": "http://dynvision365.com/?p=1097",
+          "author": "adalhix",
+          "description": "Back again with another article in the Azure Logic Apps and D365 FinOps integration serie, this time we will continue exploring the data integration scenarios within D365 FinOps, to see how to create and use Azure Logic Apps as an intermediate connector or data bridge between different systems in a data import scenario with D365FinOps. … Lire la suite Import data in D365 FinOps via Azure Logic Apps →",
+          "link": "https://dynvision365.com/2023/02/28/import-data-in-d365-finops-via-azure-logic-apps/",
+          "publishedOn": "2023-02-28T20:20:06.000Z",
+          "wordCount": 5501,
+          "title": "Import data in D365 FinOps via Azure Logic Apps",
+          "imageUrl": "https://adalhix.files.wordpress.com/2023/03/image.png"
+        },
+        {
           "id": "http://dynvision365.com/?p=993",
           "author": "adalhix",
           "description": "Last week i shared an article about Power automate flow integration with Dynamics 365 FinOps to export data by using Data management package REST API, and we have seen the 2 different options that support file-based integration scenarios that can be used as data batch API in D365 FinOps, when each API can be considered … Lire la suite Using Azure LogicApps and D365FinOps business events for data export scenarios →",
@@ -5350,6 +5370,26 @@
       "feedUrl": "https://d365snippets.com/feeds/posts/default",
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
+        {
+          "id": "https://www.d365snippets.com/2023/02/dynamics-365-pros-and-cons.html",
+          "author": null,
+          "description": "Dynamics 365 is a cloud-based software suite offered by Microsoft that provides a range of business applications including ERP, CRM, and other productivity tools. \n\n\nHere are some of the pros and cons of Dynamics 365:\nPros:\nIntegrated suite of applications: Dynamics 365 provides a comprehensive suite of applications that can be seamlessly integrated with each other, providing users with a unified experience and a holistic view of their business processes.\nScalability: The platform can easily scale to accommodate the changing needs of a growing business. Users can choose to add or remove applications and users as needed, without requiring additional hardware or infrastructure.\nCloud-based: Dynamics 365 is a cloud-based platform, which means that users can access it from anywhere, at any tim…",
+          "link": "https://www.d365snippets.com/2023/02/dynamics-365-pros-and-cons.html",
+          "publishedOn": "2023-02-28T20:32:00.004Z",
+          "wordCount": 11095,
+          "title": "Microsoft Dynamics 365 Pros and Cons",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_KQ9OOTUbSwGUniR8p-CHe0r3HtlO1V-dEr7wXlpD9ruK-PHrasOZb_HkiaffilHY5adg-8cv86msgFRgU8-f5ghy__8-Syq5R3k9JU5XVFRV2Qwqqj90LJaOac7hv2mXwNtQYpUMVxiCveC8IQwtZlKRR4ZyCzHBa_91d5JKUWF-iC6ooYoaPXe/s16000/Microsoft%20Dynamics%20365%20Pros%20and%20Cons.jpg"
+        },
+        {
+          "id": "https://www.d365snippets.com/2023/02/sitoo-and-microsoft-dynamics-365.html",
+          "author": null,
+          "description": "Retail businesses today are facing a unique set of challenges. They are expected to provide seamless omnichannel experiences to customers, keep track of inventory in real time, manage complex supply chains, and ensure compliance with data privacy laws. To tackle these challenges, many retailers are turning to technology solutions, such as Sitoo and Microsoft Dynamics.\n\n\nSitoo is a cloud-based point-of-sale (POS) and unified commerce platform that allows retailers to sell their products online and in physical stores. It integrates with a variety of other systems, including Microsoft Dynamics 365, to provide a comprehensive retail solution. Microsoft Dynamics 365 is a suite of enterprise resource planning (ERP) and customer relationship management (CRM) applications that help businesses mana…",
+          "link": "https://www.d365snippets.com/2023/02/sitoo-and-microsoft-dynamics-365.html",
+          "publishedOn": "2023-02-28T06:17:00.004Z",
+          "wordCount": 11096,
+          "title": "Sitoo and Microsoft Dynamics 365 : A Comprehensive Retail Solution",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVxLdo6Mr_0gxT5Ne4k6-hmeN5SEZXcScOqz0zJqndFDKy7AG4fCS0Gw2jPVmsEHXXHg2dZIWE_jjvYpCy_G9XMQTf_g3UfbA99bWBHpC3iC9Ibx_6z_qg8XaJPqWhDCWGBOG0Zgm7lhSmkcnkBh676ngZDmD7IIRkJ5isn-rMtwpWHktgyh4dxsuT/s16000/Sitoo%20and%20Microsoft%20Dynamics.jpg"
+        },
         {
           "id": "https://www.d365snippets.com/2023/02/how-to-make-a-field-mandatory-in-dynamics-365-without-customization.html",
           "author": null,
@@ -9243,6 +9283,16 @@
       "feedUrl": "https://elearnd365.com/feed/",
       "siteUrl": "https://elearnd365.com",
       "articles": [
+        {
+          "id": "http://elearnd365.com/?p=634",
+          "author": "Sukrut Parab",
+          "description": "In this blog post we will see how to enable Data events in tier1 and tier 2 environments and how to subscribe to them using dataverse connector. In my previous post we saw what data events are! With new power platform integration capabilities now your Finance and operations enviornment is connected to dataverse environment. If […]",
+          "link": "https://elearnd365.com/2023/02/27/finance-and-operations-integrations-through-onedataverse-connector-using-business-events-and-data-events/",
+          "publishedOn": "2023-02-28T06:18:53.000Z",
+          "wordCount": 3405,
+          "title": "Finance and operations integrations through one(Dataverse) connector  using business events and Data events.",
+          "imageUrl": "https://elearnd365.files.wordpress.com/2023/02/image-9.png"
+        },
         {
           "id": "http://elearnd365.com/?p=623",
           "author": "Sukrut Parab",
