@@ -1765,6 +1765,16 @@
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:13e1c7e3-1a28-4d29-b15d-22084f2333f2",
+          "author": "Diana Hoffman",
+          "description": "We are excited and honored that Gartner has recognized Microsoft as a Leader in the 2022 Gartner Magic Quadrant™ for B2B Marketing Automation.*\nToday's buyers value authentic engagements and expect the companies they buy from to know them and to provide one-of-a-kind experiences. This past year, we continued to invest in solutions that help our customers meet these demands by delivering personalization at scale.\nCustomers can automate buyer-centric experiences and processes using trigger-based journeys to respond to actions and signals in real time and easily optimize customer journeys with insights from across digital and physical channels. With configurable key performance indicators (KPIs), customers can use out-of-box machine learning templates or bring their own AI/machine learning mo…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/microsoft-is-named-a-leader-in-the-2022-gartner-magic-quadrant-for-b2b-marketing-automation",
+          "publishedOn": "2023-02-27T16:00:00.000Z",
+          "wordCount": 4662,
+          "title": "Microsoft is named a Leader in the 2022 Gartner®︎ Magic Quadrant™︎ for B2B Marketing Automation",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:40aaa3a3-00bb-40be-94f9-99dc6d861c40",
           "author": "Georgios Alexandros Balafoutis",
           "description": "In this fast-paced world, customers expect to be able to interact with brands in ways that extend beyond traditional channels. Brands are constantly competing for the attention of customers who are deluged with messages daily. Text messages and messaging apps like WhatsApp, Viber, and Telegram represent an opportunity to engage your customers where they're paying attention. Your customers benefit from increased and faster engagement with your brand through a real-time, personalized experienceand you're more effective in triggering a specific customer action or behavior.\nCurious about how you can integrate WhatsApp, Viber, Telegram, and many other channels in your journeys to engage your customers in the moments that matter?\nDiscover Dynamics 365 Marketing custom channels\nWith custom channe…",
@@ -5370,6 +5380,16 @@
       "feedUrl": "https://d365snippets.com/feeds/posts/default",
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
+        {
+          "id": "https://www.d365snippets.com/2023/03/normal-relation-in-d365-with-example.html",
+          "author": null,
+          "description": "A table relation associates two tables that contain related information. Usually, the primary key field of one table appears as a foreign key field of the related table. The table with the primary key is called the parent table. The table with the foreign key is called the child table.\n A relation on a table can restrict the rows in the table or restrict the values that can be fields. A common use of relations is to associate rows in one table with corresponding rows in another table. Relations enable many forms to display data from multiple tables.\n Some relations restrict the rows in the table by testing the values in each row against constant values. Other relations restrict the rows by comparing values in each row to values in a row in another table.\n\n\n\nIn Microsoft Dynamics 365 there …",
+          "link": "https://www.d365snippets.com/2023/03/normal-relation-in-d365-with-example.html",
+          "publishedOn": "2023-03-01T11:26:00.035Z",
+          "wordCount": 9391,
+          "title": "Normal relation in d365 with Example",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnw7x8i1kdu2QKzIWrsQXSLFhNmtWDqg-CVpGgiEU9xlSE87ylkxRqQmpg50ihpwH7lR9prkns1Rg7y-KVCVK0pr5KxRRBEISDvXqMQqf1Lh9V4BZR6kl0-4BtvYmTQVITtUP2sVLmY26iBJKY5N-Buqfhkk2LVh3CGhk2z07VtNY3pOT3XqsOqlFZ/s16000/Normal%20relation%20in%20d365%20with%20Example.jpg"
+        },
         {
           "id": "https://www.d365snippets.com/2023/02/dynamics-365-pros-and-cons.html",
           "author": null,
@@ -9985,6 +10005,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "pipelines-in-power-platform-is-generally-available-ga",
+          "author": null,
+          "description": "We are pleased to announce that pipelines within Power Platform is generally available. Pipelines within Power Platform aim to democratize application lifecycle management (ALM) for Power Platform and Dynamics 365 customers by bringing deployment automation capabilities into the product in a manner that’s more approachable for all makers, admins, and developers.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/pipelines-in-power-platform-is-generally-available-ga/",
+          "publishedOn": "2023-03-01T07:30:00.000Z",
+          "wordCount": 2274,
+          "title": "Pipelines in Power Platform is Generally Available (GA)",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/02/Pipelines-Feature-Image-e1677641332448.png"
+        },
         {
           "id": "kao-uses-power-apps-to-boost-frontline-worker-efficiency-by-480-hours-every-month",
           "author": null,
