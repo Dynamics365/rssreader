@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-02T03:09:50.893Z</updated>
+    <updated>2023-03-03T03:21:52.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lumen optimizes processes by 90% and scales innovation across the organization with Managed Environments]]></title>
+        <id>lumen-optimizes-processes-by-90-and-scales-innovation-across-the-organization-with-managed-environments</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/lumen-optimizes-processes-by-90-and-scales-innovation-across-the-organization-with-managed-environments/"/>
+        <updated>2023-03-02T18:40:24.000Z</updated>
+        <summary type="html"><![CDATA[Lumen Technologies has cultivated an active community of “Lumen Makers” – over 800 professional and citizen developers across the company building Power Platform solutions, some of which have increased efficiency of their business processes by over 90%.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Invoice validation] Match the detail for vendor invoices in Microsoft Dynamics 365 finance and operations: Part-4]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2371</id>
+        <link href="https://exploredynamics365.home.blog/2023/03/02/invoice-validation-match-the-detail-for-vendor-invoices-in-microsoft-dynamics-365-finance-and-operations-part-4/"/>
+        <updated>2023-03-02T16:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Part-1, Part-2 and Part-3 Till now we had line matching details rule (Two way and three way) but at header we did not have any detail matching option. Invoice total at header has five different components: So, if we wanted to have discrepancy in any one of the components then we did not have any […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Invoice validation] Match the detail for vendor invoices in Microsoft Dynamics 365 finance and operations: Part-4]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2371</id>
+        <link href="https://exploredynamics365.home.blog/2023/03/02/invoice-validation-match-the-detail-for-vendor-invoices-in-microsoft-dynamics-365-finance-and-operations-part-4/"/>
+        <updated>2023-03-02T16:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Part-1, Part-2 and Part-3 Till now we had line matching details rule (Two way and three way) but at header we did not have any detail matching option. Invoice total at header has five different components: So, if we wanted to have discrepancy in any one of the components then we did not have any […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 & Microsoft Sustainability Manager [Part 2]]]></title>
+        <id>http://dynamicsax-fico.com/?p=4952</id>
+        <link href="https://dynamicsax-fico.com/2023/03/02/dynamics-365-microsoft-sustainability-manager-part-2/"/>
+        <updated>2023-03-02T06:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Normal relation in d365 with Example]]></title>
         <id>https://www.d365snippets.com/2023/03/normal-relation-in-d365-with-example.html</id>
@@ -16277,16 +16317,6 @@ In...
         <summary type="html"><![CDATA[With the latest update from the LCS Database Movement API we’re finally able to start and stop the cloud hosted environments from a specific LCS project. Even with the correct environment status synced to LCS!Thanks to the awesome d365fo.tools from @splaxi it’s easy to get this running in an Azure pipeline or trigger the action […]]]></summary>
         <author>
             <name>Marijan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Configure your MsDyn365CSM warehousing (warehouse management) app by scanning a QR-Code]]></title>
-        <id>https://msdyn365fo.wordpress.com/?p=458</id>
-        <link href="https://msdyn365fo.wordpress.com/2021/03/03/configure-your-msdyn365csm-warehousing-warehouse-management-app-by-scanning-a-qr-code/"/>
-        <updated>2021-03-03T07:47:17.000Z</updated>
-        <summary type="html"><![CDATA[In this blog I want to highlight a very handy feature in the warehousing (warehouse management) app for Microsoft Dynamics 365 Supply Chain Management. The feature is well documented, but nevertheless I haven’t used it that much in the past. When you want to share the configuration for the warehousing (warehouse management) app of MsDyn365CSM … Continue reading Configure your MsDyn365CSM warehousing (warehouse management) app by scanning a QR-Code →]]></summary>
-        <author>
-            <name>Paul Heisterkamp</name>
         </author>
     </entry>
 </feed>

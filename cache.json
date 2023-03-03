@@ -2773,16 +2773,6 @@
           "wordCount": 802,
           "title": "Priority-based throttling for MsDyn365FO",
           "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/03/priority-based-throttling-for-msdyn365fo-banner.png"
-        },
-        {
-          "id": "https://msdyn365fo.wordpress.com/?p=458",
-          "author": "Paul Heisterkamp",
-          "description": "In this blog I want to highlight a very handy feature in the warehousing (warehouse management) app for Microsoft Dynamics 365 Supply Chain Management. The feature is well documented, but nevertheless I haven’t used it that much in the past. When you want to share the configuration for the warehousing (warehouse management) app of MsDyn365CSM … Continue reading Configure your MsDyn365CSM warehousing (warehouse management) app by scanning a QR-Code →",
-          "link": "https://msdyn365fo.wordpress.com/2021/03/03/configure-your-msdyn365csm-warehousing-warehouse-management-app-by-scanning-a-qr-code/",
-          "publishedOn": "2021-03-03T07:47:17.000Z",
-          "wordCount": 649,
-          "title": "Configure your MsDyn365CSM warehousing (warehouse management) app by scanning a QR-Code",
-          "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/03/configure-your-msdyn365csm-warehousing-warehouse-management-app-by-scanning-a-qr-code-banner.jpg?w=1200"
         }
       ]
     },
@@ -4987,6 +4977,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2371",
+          "author": "Saurabh Bharti",
+          "description": "Part-1, Part-2 and Part-3 Till now we had line matching details rule (Two way and three way) but at header we did not have any detail matching option. Invoice total at header has five different components: So, if we wanted to have discrepancy in any one of the components then we did not have any […]",
+          "link": "https://exploredynamics365.home.blog/2023/03/02/invoice-validation-match-the-detail-for-vendor-invoices-in-microsoft-dynamics-365-finance-and-operations-part-4/",
+          "publishedOn": "2023-03-02T16:59:02.000Z",
+          "wordCount": 2675,
+          "title": "[Invoice validation] Match the detail for vendor invoices in Microsoft Dynamics 365 finance and operations: Part-4",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/03/a.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2355",
           "author": "Saurabh Bharti",
           "description": "In Microsoft Dynamics 365 Finance version 10.0.31, the Automate ledger settlements process feature is available in the Feature management workspace. You can enable the Automate ledger settlements process feature only if the Awareness between ledger settlement and year-end close feature has been enabled. Ledger settlement is the process of matching debit and credit transactions in the general ledger. […]",
@@ -5183,6 +5183,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2371",
+          "author": "Saurabh Bharti",
+          "description": "Part-1, Part-2 and Part-3 Till now we had line matching details rule (Two way and three way) but at header we did not have any detail matching option. Invoice total at header has five different components: So, if we wanted to have discrepancy in any one of the components then we did not have any […]",
+          "link": "https://exploredynamics365.home.blog/2023/03/02/invoice-validation-match-the-detail-for-vendor-invoices-in-microsoft-dynamics-365-finance-and-operations-part-4/",
+          "publishedOn": "2023-03-02T16:59:02.000Z",
+          "wordCount": 2675,
+          "title": "[Invoice validation] Match the detail for vendor invoices in Microsoft Dynamics 365 finance and operations: Part-4",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/03/a.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2355",
           "author": "Saurabh Bharti",
@@ -6643,6 +6653,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=4952",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/03/02/dynamics-365-microsoft-sustainability-manager-part-2/",
+          "publishedOn": "2023-03-02T06:02:04.000Z",
+          "wordCount": 2655,
+          "title": "Dynamics 365 & Microsoft Sustainability Manager [Part 2]",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/02/blogposttext_en-1.png"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=4981",
           "author": "Ludwig Reinhard",
@@ -10005,6 +10025,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "lumen-optimizes-processes-by-90-and-scales-innovation-across-the-organization-with-managed-environments",
+          "author": null,
+          "description": "Lumen Technologies has cultivated an active community of “Lumen Makers” – over 800 professional and citizen developers across the company building Power Platform solutions, some of which have increased efficiency of their business processes by over 90%.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/lumen-optimizes-processes-by-90-and-scales-innovation-across-the-organization-with-managed-environments/",
+          "publishedOn": "2023-03-02T18:40:24.000Z",
+          "wordCount": 2587,
+          "title": "Lumen optimizes processes by 90% and scales innovation across the organization with Managed Environments",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/03/image-4.png"
+        },
         {
           "id": "pipelines-in-power-platform-is-generally-available-ga",
           "author": null,
