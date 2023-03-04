@@ -734,6 +734,16 @@
       "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:6272107b-8530-4c6a-8c2f-ef8812eb8e78",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nFebin Chiramel Febin.Chiramel@microsoft.com\nPranav Kumar Kumar.Pranav@microsoft.com\nPraveen Kumar Srinivasan Rajendiran pravraj@microsoft.com\nMeenu Laul meenul...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/what-s-new-in-dynamics-365-commerce---feb-2023",
+          "publishedOn": "2023-03-03T17:29:00.000Z",
+          "wordCount": 3279,
+          "title": "What's new in Dynamics 365 Commerce - Feb 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/356459_5F00_DTT125.png?_=638134624753950719"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:285be383-aeb7-4edd-854e-b998b7b1f6f3",
           "author": "Ilanit Manor - Community Manager",
           "description": "www.youtube.com/watch\n\nPresenters: \nLane Swenka - lane.swenka@microsoft.com\nKenny Saelen - kenny.saelen@microsoft.com\nAman Nain - aman.nain@microsoft.com\nHaytham Said - Haytha...(read more)",
@@ -7851,6 +7861,26 @@
       "feedUrl": "https://community.dynamics.com/ax/b/axinthefield/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/axinthefield",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:7bb7943d-d661-4c02-99c0-6a2199a8fc0b",
+          "author": "Kennet Kildegaard",
+          "description": "In this video we will go through a use case scenario demonstrating the use of Outbound sorting and using the setup and configuration that I had previously setup in an earlier video and blog post which...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/dynamics-365-supply-chain-management---outbound-sorting-in-warehouse-management---part-2---demo-of-use-case",
+          "publishedOn": "2023-03-03T20:11:15.000Z",
+          "wordCount": 3870,
+          "title": "Dynamics 365 Supply Chain Management - Outbound Sorting in Warehouse Management - Part 2 - Demo of Use case",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:7c26750e-64e5-488e-88ea-e2012ca3de61",
+          "author": "Kennet Kildegaard",
+          "description": "In this series of 2 videos I will cover the Outbound Sorting functionality within Warehouse Management. \nOutbound sorting allows workers in a warehouse to sort containers that has already been pa...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/dynamics-365-supply-chain-management---outbound-sorting-in-warehouse-management---part-1---setup",
+          "publishedOn": "2023-03-03T19:54:02.000Z",
+          "wordCount": 3882,
+          "title": "Dynamics 365 Supply Chain Management - Outbound Sorting in Warehouse Management - Part 1 - Setup",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4f377741-5ae7-4611-a1f4-aec9ea4f249b",
           "author": "Chris Roehrich",

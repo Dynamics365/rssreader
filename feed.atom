@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-03T03:21:52.672Z</updated>
+    <updated>2023-03-04T01:24:50.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Supply Chain Management - Outbound Sorting in Warehouse Management - Part 2 - Demo of Use case]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:7bb7943d-d661-4c02-99c0-6a2199a8fc0b</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/dynamics-365-supply-chain-management---outbound-sorting-in-warehouse-management---part-2---demo-of-use-case"/>
+        <updated>2023-03-03T20:11:15.000Z</updated>
+        <summary type="html"><![CDATA[In this video we will go through a use case scenario demonstrating the use of Outbound sorting and using the setup and configuration that I had previously setup in an earlier video and blog post which...(read more)]]></summary>
+        <author>
+            <name>Kennet Kildegaard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Supply Chain Management - Outbound Sorting in Warehouse Management - Part 1 - Setup]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:7c26750e-64e5-488e-88ea-e2012ca3de61</id>
+        <link href="https://community.dynamics.com/ax/b/axinthefield/posts/dynamics-365-supply-chain-management---outbound-sorting-in-warehouse-management---part-1---setup"/>
+        <updated>2023-03-03T19:54:02.000Z</updated>
+        <summary type="html"><![CDATA[In this series of 2 videos I will cover the Outbound Sorting functionality within Warehouse Management. 
+Outbound sorting allows workers in a warehouse to sort containers that has already been pa...(read more)]]></summary>
+        <author>
+            <name>Kennet Kildegaard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's new in Dynamics 365 Commerce - Feb 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6272107b-8530-4c6a-8c2f-ef8812eb8e78</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/what-s-new-in-dynamics-365-commerce---feb-2023"/>
+        <updated>2023-03-03T17:29:00.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com/watch
+
+Presenters: 
+Febin Chiramel Febin.Chiramel@microsoft.com
+Pranav Kumar Kumar.Pranav@microsoft.com
+Praveen Kumar Srinivasan Rajendiran pravraj@microsoft.com
+Meenu Laul meenul...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lumen optimizes processes by 90% and scales innovation across the organization with Managed Environments]]></title>
         <id>lumen-optimizes-processes-by-90-and-scales-innovation-across-the-organization-with-managed-environments</id>
