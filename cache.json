@@ -901,6 +901,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8dad7bdd-83d4-424e-bb9a-4c2f19b479ae",
+          "author": "MSDynamicsWorld.com",
+          "description": "Microsoft Dynamics and Power\nPlatform customers planning for the long-term future of their\nsystems will have a chance to hear Microsoft's latest guidance at \n the first-ever,\nglobal Microsoft Customer Success Day on March 16 . Microsoft\nhas teamed up... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/dynamicscon-virtual-2023-microsoft-customer-success-day-preview-the-dynamics-erp-customer-journey",
+          "publishedOn": "2023-03-03T14:00:00.000Z",
+          "wordCount": 3743,
+          "title": "DynamicsCon Virtual 2023 & Microsoft Customer Success Day Preview: The Dynamics ERP customer journey",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:310315f5-1207-4a84-9a31-c4e8de5311b0",
           "author": "MSDynamicsWorld.com",
           "description": "MSDW and MSCN Editors Jason Gumpert and Eamon McCarthy Earls\ndiscuss recent developments in the Microsoft community,\nhighlighting recent news and features, as well as ongoing trends\nand upcoming Microsoft Dynamics events. \n \n Show Notes: \n \n \n Microsoft... Read the full text.",
@@ -4282,6 +4292,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/02/how-to-engage-customers-with-the-right-communication-channels/",
+          "author": "Rik Chowdhury",
+          "description": "In our daily lives there is a time and a place for all kinds of communication channels.\nThe post How to engage customers with the right communication channels appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/02/how-to-engage-customers-with-the-right-communication-channels/",
+          "publishedOn": "2023-03-03T06:10:00.000Z",
+          "wordCount": 2637,
+          "title": "How to engage customers with the right communication channels",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/03/CLO20_Margery_005-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/27/microsoft-is-named-a-leader-in-the-2022-gartner-magic-quadrant-for-b2b-marketing-automation/",
+          "author": "Diana Hoffman",
+          "description": "We are excited and honored that Gartner has recognized Microsoft as a Leader in the 2022 Gartner Magic Quadrant™ for B2B Marketing Automation. Today's buyers value authentic engagements and expect the companies they buy from to know them, and to provide one-of-a-kind experiences.\nThe post Microsoft is named a Leader in the 2022 Gartner® Magic Quadrant™ for B2B Marketing Automation appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/27/microsoft-is-named-a-leader-in-the-2022-gartner-magic-quadrant-for-b2b-marketing-automation/",
+          "publishedOn": "2023-02-27T16:00:00.000Z",
+          "wordCount": 2748,
+          "title": "Microsoft is named a Leader in the 2022 Gartner® Magic Quadrant™ for B2B Marketing Automation",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/Featured_v2.png"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/02/23/extend-and-optimize-your-customer-outreach-with-custom-channels/",
           "author": "Georgios Alexandros Balafoutis",

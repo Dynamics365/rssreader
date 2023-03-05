@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-04T01:24:50.845Z</updated>
+    <updated>2023-03-05T01:46:09.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -41,6 +41,32 @@ Praveen Kumar Srinivasan Rajendiran pravraj@microsoft.com
 Meenu Laul meenul...(read more)]]></summary>
         <author>
             <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsCon Virtual 2023 & Microsoft Customer Success Day Preview: The Dynamics ERP customer journey]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8dad7bdd-83d4-424e-bb9a-4c2f19b479ae</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/dynamicscon-virtual-2023-microsoft-customer-success-day-preview-the-dynamics-erp-customer-journey"/>
+        <updated>2023-03-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics and Power
+Platform customers planning for the long-term future of their
+systems will have a chance to hear Microsoft's latest guidance at 
+ the first-ever,
+global Microsoft Customer Success Day on March 16 . Microsoft
+has teamed up... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to engage customers with the right communication channels]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/03/02/how-to-engage-customers-with-the-right-communication-channels/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/03/02/how-to-engage-customers-with-the-right-communication-channels/"/>
+        <updated>2023-03-03T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA[In our daily lives there is a time and a place for all kinds of communication channels.
+The post How to engage customers with the right communication channels appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Rik Chowdhury</name>
         </author>
     </entry>
     <entry>
@@ -180,6 +206,17 @@ Sitoo is a cloud-based point-of-sale (POS) and unified commerce platform that al
         <summary type="html"><![CDATA[We are excited and honored that Gartner has recognized Microsoft as a Leader in the 2022 Gartner Magic Quadrant™ for B2B Marketing Automation.*
 Today's buyers value authentic engagements and expect the companies they buy from to know them and to provide one-of-a-kind experiences. This past year, we continued to invest in solutions that help our customers meet these demands by delivering personalization at scale.
 Customers can automate buyer-centric experiences and processes using trigger-based journeys to respond to actions and signals in real time and easily optimize customer journeys with insights from across digital and physical channels. With configurable key performance indicators (KPIs), customers can use out-of-box machine learning templates or bring their own AI/machine learning mo…]]></summary>
+        <author>
+            <name>Diana Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is named a Leader in the 2022 Gartner® Magic Quadrant™ for B2B Marketing Automation]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/27/microsoft-is-named-a-leader-in-the-2022-gartner-magic-quadrant-for-b2b-marketing-automation/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/02/27/microsoft-is-named-a-leader-in-the-2022-gartner-magic-quadrant-for-b2b-marketing-automation/"/>
+        <updated>2023-02-27T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited and honored that Gartner has recognized Microsoft as a Leader in the 2022 Gartner Magic Quadrant™ for B2B Marketing Automation. Today's buyers value authentic engagements and expect the companies they buy from to know them, and to provide one-of-a-kind experiences.
+The post Microsoft is named a Leader in the 2022 Gartner® Magic Quadrant™ for B2B Marketing Automation appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Diana Hoffman</name>
         </author>
