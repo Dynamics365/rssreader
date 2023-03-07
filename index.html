@@ -22,6 +22,234 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-03-07 datetime="2023-03-06T19:33:00.003Z">2023-03-07</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-03-07 datetime="2023-03-06T19:33:00.003Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Adventures in Axapta world</button>
+                  <a class="source-heading__link" href="https://alexvoy.blogspot.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://alexvoy.blogspot.com/2023/03/how-to-open-multiple-purchase-orders-in.html"
+                        open
+                      >
+                        <summary class="article-expander__title">How to open multiple Purchase orders in new browser tabs</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://alexvoy.blogspot.com/2023/03/how-to-open-multiple-purchase-orders-in.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>static public void initFromPurchTable(FormDataSource _formDS)
+{​
+	PurchTable      currentPurchTable;
+	Browser         browser &#x3D; new Browser();
+	for (currentPurchTable &#x3D; _formDS.getFirst(true) ? _formDS.getFirst(true): _formDS.cursor();
+	currentPurchTable;
+	currentPurchTable&#x3D; _formDS.getnext())
+	{​
+		var generator     &#x3D; new Microsoft.Dynamics.AX.Framework.Utilities.UrlHelper.UrlGenerator();
+		var currentHost   &#x3D; new System.Uri(UrlUtility::getUrl());
+		generator.HostUrl &#x3D; currentHost.GetLeftPart(System.UriPartial::Authority);
+		generator.Company &#x3D; curext();
+		generator.MenuItemName &#x3D; &#x27;PurchTableListPage&#x27;;
+		generator.Partition &#x3D; getCurrentPartition();
+		// repeat this segment for each datasource to filter
+		var requestQueryParameterCollection &#x3D; generator.RequestQueryParameterCollection;
+		requestQueryParameterCollection.AddRequestQueryParameter(
+																&#x27;PurchTable&#x27;,
+																&#x27;PurchId&#x27;, currentPurchTable.PurchId
+																);
+		System.Uri fullURI &#x3D; generator.GenerateFullUrl();
+		browser.navigate(fullURI.AbsoluteUri, true);
+	}​
+}​</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Dynamics 365 FastTrack TechTalks</button>
+                  <a class="source-heading__link" href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="f7860544-fd88-4f76-8c0c-6920dd39f354:5de84614-9936-4319-9fff-fb9305b451fd"
+                        open
+                      >
+                        <summary class="article-expander__title">Improve Inventory Control with Soft Reservation in Inventory Visibility Service | February 16, 2023</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/improve-inventory-control-with-soft-reservation-in-inventory-visibility-service-february-16-2023">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/356521_5F00_DTT128.png?_&#x3D;638137231487517361" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>www.youtube.com/watch
+
+Presenters: 
+Jiacheng Xia - Software Engineer
+Yufei Huang - Senior Product Manager
+Hiren Naik - Senior Solution Architect
+~
+In this TechTalk session, we will introduce the ...(read more)</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-03-06 datetime="2023-03-06T14:00:00.000Z">2023-03-06</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-03-06 datetime="2023-03-06T14:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Dynamics 365 Blog</button>
+                  <a class="source-heading__link" href="https://cloudblogs.microsoft.com/dynamics365/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/"
+                        open
+                      >
+                        <summary class="article-expander__title">Introducing Microsoft Dynamics 365 Copilot, bringing next-generation AI to every line of business</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/03/BizAps_Blog.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Today we announced Microsoft Dynamics 365 Copilot, providing interactive, AI-powered assistance across business functionsfrom sales, service, and marketing to supply chain. With Dynamics 365 Copilot, we&#x27;re introducing the world&#x27;s first AI copilot natively built-in to both CRM and ERP applications.
+The post Introducing Microsoft Dynamics 365 Copilot, bringing next-generation AI to every line of business appeared first on Microsoft Dynamics 365 Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >MsDyn365FO.Blog</button>
+                  <a class="source-heading__link" href="https://msdyn365fo.wordpress.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://msdyn365fo.wordpress.com/?p&#x3D;559"
+                        open
+                      >
+                        <summary class="article-expander__title">Validation failed when installing an add-in via LCS</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://msdyn365fo.wordpress.com/2023/03/06/validation-failed-when-installing-an-add-in-via-lcs/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://msdyn365fo.files.wordpress.com/2022/08/validation-failed-when-installing-an-add-in-via-lcs.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I recently had the problem in one of our Microsoft Dynamics 365 for Finance and Operations implementation projects that the installation of an add-in via LCS failed with the following error message: Validation failed. You must be an environment administrator in Microsoft Dataverse to perform this action After quite some research and also contacting Microsoft-Support, … Continue reading Validation failed when installing an add-in via LCS →</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Power Apps - Blog</button>
+                  <a class="source-heading__link" href="https://powerapps.microsoft.com/en-us/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="announcing-public-preview-of-maker-welcome-content-in-power-apps"
+                        open
+                      >
+                        <summary class="article-expander__title">Announcing admin-configured maker welcome experience in Power Apps</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-maker-welcome-content-in-power-apps/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>We are pleased to announce that admin-configured maker welcome content is now available for the Power Apps maker portal. Today, admins rely on sending welcome emails, creating wikis, and setting up internal portals to educate makers. Since this information can be presented in so many different places, makers may miss important communication. With the maker…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-03-04 datetime="2023-03-03T20:11:15.000Z">2023-03-04</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-03-04 datetime="2023-03-03T20:11:15.000Z"></time>
           </button>
@@ -46961,8 +47189,8 @@ In...
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/4339026582">
-        <time id="build-timestamp" datetime="2023-03-06T01:27:25.181Z">2023-03-06T01:27:25.181Z</time>
+      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/4349742258">
+        <time id="build-timestamp" datetime="2023-03-07T01:40:27.660Z">2023-03-07T01:40:27.660Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

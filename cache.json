@@ -734,6 +734,16 @@
       "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5de84614-9936-4319-9fff-fb9305b451fd",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nJiacheng Xia - Software Engineer\nYufei Huang - Senior Product Manager\nHiren Naik - Senior Solution Architect\n~\nIn this TechTalk session, we will introduce the ...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/improve-inventory-control-with-soft-reservation-in-inventory-visibility-service-february-16-2023",
+          "publishedOn": "2023-03-06T18:08:00.000Z",
+          "wordCount": 3326,
+          "title": "Improve Inventory Control with Soft Reservation in Inventory Visibility Service | February 16, 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/356521_5F00_DTT128.png?_=638137231487517361"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:6272107b-8530-4c6a-8c2f-ef8812eb8e78",
           "author": "Ilanit Manor - Community Manager",
           "description": "www.youtube.com/watch\n\nPresenters: \nFebin Chiramel Febin.Chiramel@microsoft.com\nPranav Kumar Kumar.Pranav@microsoft.com\nPraveen Kumar Srinivasan Rajendiran pravraj@microsoft.com\nMeenu Laul meenul...(read more)",
@@ -2645,6 +2655,16 @@
       "siteUrl": "https://msdyn365fo.wordpress.com",
       "articles": [
         {
+          "id": "http://msdyn365fo.wordpress.com/?p=559",
+          "author": "Paul Heisterkamp",
+          "description": "I recently had the problem in one of our Microsoft Dynamics 365 for Finance and Operations implementation projects that the installation of an add-in via LCS failed with the following error message: Validation failed. You must be an environment administrator in Microsoft Dataverse to perform this action After quite some research and also contacting Microsoft-Support, … Continue reading Validation failed when installing an add-in via LCS →",
+          "link": "https://msdyn365fo.wordpress.com/2023/03/06/validation-failed-when-installing-an-add-in-via-lcs/",
+          "publishedOn": "2023-03-06T08:02:52.000Z",
+          "wordCount": 3052,
+          "title": "Validation failed when installing an add-in via LCS",
+          "imageUrl": "https://msdyn365fo.files.wordpress.com/2022/08/validation-failed-when-installing-an-add-in-via-lcs.png"
+        },
+        {
           "id": "http://msdyn365fo.wordpress.com/?p=578",
           "author": "Paul Heisterkamp",
           "description": "This blog is a bit different than my other blogs because it “only” publishes a post published by Michael Pontoppidan on LinkedIn. The reason behind is that on LinkedIn it´s kind of hidden and I recently got the question if I know the post where someone posted the evolution of X++ in the last year. … Continue reading Top 2022 favorite X++ features by Michael Pontoppidan →",
@@ -4293,6 +4313,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/",
+          "author": "Emily He",
+          "description": "Today we announced Microsoft Dynamics 365 Copilot, providing interactive, AI-powered assistance across business functionsfrom sales, service, and marketing to supply chain. With Dynamics 365 Copilot, we're introducing the world's first AI copilot natively built-in to both CRM and ERP applications.\nThe post Introducing Microsoft Dynamics 365 Copilot, bringing next-generation AI to every line of business appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/",
+          "publishedOn": "2023-03-06T14:00:00.000Z",
+          "wordCount": 4138,
+          "title": "Introducing Microsoft Dynamics 365 Copilot, bringing next-generation AI to every line of business",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/03/BizAps_Blog.png"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/02/how-to-engage-customers-with-the-right-communication-channels/",
           "author": "Rik Chowdhury",
           "description": "In our daily lives there is a time and a place for all kinds of communication channels.\nThe post How to engage customers with the right communication channels appeared first on Microsoft Dynamics 365 Blog.",
@@ -5824,6 +5854,16 @@
       "feedUrl": "https://alexvoy.blogspot.com/feeds/posts/default",
       "siteUrl": "https://alexvoy.blogspot.com/",
       "articles": [
+        {
+          "id": "https://alexvoy.blogspot.com/2023/03/how-to-open-multiple-purchase-orders-in.html",
+          "author": null,
+          "description": "static public void initFromPurchTable(FormDataSource _formDS)\n{​\n\tPurchTable      currentPurchTable;\n\tBrowser         browser = new Browser();\n\tfor (currentPurchTable = _formDS.getFirst(true) ? _formDS.getFirst(true): _formDS.cursor();\n\tcurrentPurchTable;\n\tcurrentPurchTable= _formDS.getnext())\n\t{​\n\t\tvar generator     = new Microsoft.Dynamics.AX.Framework.Utilities.UrlHelper.UrlGenerator();\n\t\tvar currentHost   = new System.Uri(UrlUtility::getUrl());\n\t\tgenerator.HostUrl = currentHost.GetLeftPart(System.UriPartial::Authority);\n\t\tgenerator.Company = curext();\n\t\tgenerator.MenuItemName = 'PurchTableListPage';\n\t\tgenerator.Partition = getCurrentPartition();\n\t\t// repeat this segment for each datasource to filter\n\t\tvar requestQueryParameterCollection = generator.RequestQueryParameterCollection;\n\t\trequestQueryParameterCollection.AddRequestQueryParameter(\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t'PurchTable',\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t'PurchId', currentPurchTable.PurchId\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t);\n\t\tSystem.Uri fullURI = generator.GenerateFullUrl();\n\t\tbrowser.navigate(fullURI.AbsoluteUri, true);\n\t}​\n}​",
+          "link": "https://alexvoy.blogspot.com/2023/03/how-to-open-multiple-purchase-orders-in.html",
+          "publishedOn": "2023-03-06T19:33:00.003Z",
+          "wordCount": 2035,
+          "title": "How to open multiple Purchase orders in new browser tabs",
+          "imageUrl": null
+        },
         {
           "id": "https://alexvoy.blogspot.com/2022/11/get-infolog-as-string.html",
           "author": null,
@@ -10085,6 +10125,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-public-preview-of-maker-welcome-content-in-power-apps",
+          "author": null,
+          "description": "We are pleased to announce that admin-configured maker welcome content is now available for the Power Apps maker portal. Today, admins rely on sending welcome emails, creating wikis, and setting up internal portals to educate makers. Since this information can be presented in so many different places, makers may miss important communication. With the maker…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-maker-welcome-content-in-power-apps/",
+          "publishedOn": "2023-03-06T08:00:00.000Z",
+          "wordCount": 1740,
+          "title": "Announcing admin-configured maker welcome experience in Power Apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "lumen-optimizes-processes-by-90-and-scales-innovation-across-the-organization-with-managed-environments",
           "author": null,

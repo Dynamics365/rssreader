@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-06T01:27:25.272Z</updated>
+    <updated>2023-03-07T01:40:27.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to open multiple Purchase orders in new browser tabs]]></title>
+        <id>https://alexvoy.blogspot.com/2023/03/how-to-open-multiple-purchase-orders-in.html</id>
+        <link href="https://alexvoy.blogspot.com/2023/03/how-to-open-multiple-purchase-orders-in.html"/>
+        <updated>2023-03-06T19:33:00.003Z</updated>
+        <summary type="html"><![CDATA[static public void initFromPurchTable(FormDataSource _formDS)
+{​
+	PurchTable      currentPurchTable;
+	Browser         browser = new Browser();
+	for (currentPurchTable = _formDS.getFirst(true) ? _formDS.getFirst(true): _formDS.cursor();
+	currentPurchTable;
+	currentPurchTable= _formDS.getnext())
+	{​
+		var generator     = new Microsoft.Dynamics.AX.Framework.Utilities.UrlHelper.UrlGenerator();
+		var currentHost   = new System.Uri(UrlUtility::getUrl());
+		generator.HostUrl = currentHost.GetLeftPart(System.UriPartial::Authority);
+		generator.Company = curext();
+		generator.MenuItemName = 'PurchTableListPage';
+		generator.Partition = getCurrentPartition();
+		// repeat this segment for each datasource to filter
+		var requestQueryParameterCollection = generator.RequestQueryParameterCollection;
+		requestQueryParameterCollection.AddRequestQueryParameter(
+																'PurchTable',
+																'PurchId', currentPurchTable.PurchId
+																);
+		System.Uri fullURI = generator.GenerateFullUrl();
+		browser.navigate(fullURI.AbsoluteUri, true);
+	}​
+}​]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Inventory Control with Soft Reservation in Inventory Visibility Service | February 16, 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5de84614-9936-4319-9fff-fb9305b451fd</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/improve-inventory-control-with-soft-reservation-in-inventory-visibility-service-february-16-2023"/>
+        <updated>2023-03-06T18:08:00.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com/watch
+
+Presenters: 
+Jiacheng Xia - Software Engineer
+Yufei Huang - Senior Product Manager
+Hiren Naik - Senior Solution Architect
+~
+In this TechTalk session, we will introduce the ...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Microsoft Dynamics 365 Copilot, bringing next-generation AI to every line of business]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/"/>
+        <updated>2023-03-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we announced Microsoft Dynamics 365 Copilot, providing interactive, AI-powered assistance across business functionsfrom sales, service, and marketing to supply chain. With Dynamics 365 Copilot, we're introducing the world's first AI copilot natively built-in to both CRM and ERP applications.
+The post Introducing Microsoft Dynamics 365 Copilot, bringing next-generation AI to every line of business appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Emily He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Validation failed when installing an add-in via LCS]]></title>
+        <id>http://msdyn365fo.wordpress.com/?p=559</id>
+        <link href="https://msdyn365fo.wordpress.com/2023/03/06/validation-failed-when-installing-an-add-in-via-lcs/"/>
+        <updated>2023-03-06T08:02:52.000Z</updated>
+        <summary type="html"><![CDATA[I recently had the problem in one of our Microsoft Dynamics 365 for Finance and Operations implementation projects that the installation of an add-in via LCS failed with the following error message: Validation failed. You must be an environment administrator in Microsoft Dataverse to perform this action After quite some research and also contacting Microsoft-Support, … Continue reading Validation failed when installing an add-in via LCS →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing admin-configured maker welcome experience in Power Apps]]></title>
+        <id>announcing-public-preview-of-maker-welcome-content-in-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-maker-welcome-content-in-power-apps/"/>
+        <updated>2023-03-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce that admin-configured maker welcome content is now available for the Power Apps maker portal. Today, admins rely on sending welcome emails, creating wikis, and setting up internal portals to educate makers. Since this information can be presented in so many different places, makers may miss important communication. With the maker…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 Supply Chain Management - Outbound Sorting in Warehouse Management - Part 2 - Demo of Use case]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:7bb7943d-d661-4c02-99c0-6a2199a8fc0b</id>
