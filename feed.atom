@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-07T01:40:27.738Z</updated>
+    <updated>2023-03-08T01:38:19.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics AX to Dynamics 365 Finance & Operations: Upgrade vs. Migration]]></title>
+        <id>https://www.encorebusiness.com/?p=56105</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-ax-to-dynamics-365-finance-operations-upgrade-vs-migration/"/>
+        <updated>2023-03-07T16:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics AX to Dynamics 365 Finance & Operations: Upgrade vs. Migration
+There are two different paths to move from Dynamics AX to Dynamics 365 Finance & Operations: upgrade and migration. It’s common to refer to any transition from AX to F&O as an “upgrade,” and we do so elsewhere on our website. But in this article we’re going to dive deep into the two different ways...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Isabella McPeak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reference original invoices in credit notes (vendor invoices) in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2383</id>
+        <link href="https://exploredynamics365.home.blog/2023/03/07/reference-original-invoices-in-credit-notes-vendor-invoices-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-03-07T08:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Creating credit notes in accounts payable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, one of the request from payable department is to have the reference of original invoice against which credit note is created. I have written same feature blog for […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reference original invoices in credit notes (vendor invoices) in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2383</id>
+        <link href="https://exploredynamics365.home.blog/2023/03/07/reference-original-invoices-in-credit-notes-vendor-invoices-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-03-07T08:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Creating credit notes in accounts payable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, one of the request from payable department is to have the reference of original invoice against which credit note is created. I have written same feature blog for […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual studio 2019 - Change default model]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b560b166-574c-4296-9c00-25c24919f630</id>
+        <link href="https://community.dynamics.com/ax/b/ftdynamicsax/posts/visual-studio-2019---change-default-model"/>
+        <updated>2023-03-06T22:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Change the default model for VS2019 under [user documents]/Visual Studio Dynamics 365/.
+  
+Edit the "DefaultModelForNewProjects" entry in DynamicsDevConfig.xml.
+  
+
+
+
+
+  This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
+        <author>
+            <name>Dominic Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to open multiple Purchase orders in new browser tabs]]></title>
         <id>https://alexvoy.blogspot.com/2023/03/how-to-open-multiple-purchase-orders-in.html</id>

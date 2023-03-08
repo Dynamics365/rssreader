@@ -1578,6 +1578,16 @@
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56105",
+          "author": "Isabella McPeak",
+          "description": "Dynamics AX to Dynamics 365 Finance & Operations: Upgrade vs. Migration\nThere are two different paths to move from Dynamics AX to Dynamics 365 Finance & Operations: upgrade and migration. It’s common to refer to any transition from AX to F&O as an “upgrade,” and we do so elsewhere on our website. But in this article we’re going to dive deep into the two different ways...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-ax-to-dynamics-365-finance-operations-upgrade-vs-migration/",
+          "publishedOn": "2023-03-07T16:20:46.000Z",
+          "wordCount": 1504,
+          "title": "Dynamics AX to Dynamics 365 Finance & Operations: Upgrade vs. Migration",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/03/D365FO-UpgradevsMigrate-Img.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=56023",
           "author": "Raymond Wong",
           "description": "How Dynamics NAV Users Can Prepare to Upgrade to Dynamics 365 Business Central\nA natural path for Dynamics NAV on-premise users is to move to Dynamics 365 Business Central. This article will help you with internal evaluation, planning, and preparation for upgrading to Dynamics 365 Business Central. Table of Contents Data Quality Historical Data Processes and Pain Points Customizations and Integrations Video: How Dynamics NAV Users Can Start...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -5047,6 +5057,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2383",
+          "author": "Saurabh Bharti",
+          "description": "Creating credit notes in accounts payable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, one of the request from payable department is to have the reference of original invoice against which credit note is created. I have written same feature blog for […]",
+          "link": "https://exploredynamics365.home.blog/2023/03/07/reference-original-invoices-in-credit-notes-vendor-invoices-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-03-07T08:53:42.000Z",
+          "wordCount": 2562,
+          "title": "Reference original invoices in credit notes (vendor invoices) in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/03/3-1.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2371",
           "author": "Saurabh Bharti",
           "description": "Part-1, Part-2 and Part-3 Till now we had line matching details rule (Two way and three way) but at header we did not have any detail matching option. Invoice total at header has five different components: So, if we wanted to have discrepancy in any one of the components then we did not have any […]",
@@ -5253,6 +5273,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2383",
+          "author": "Saurabh Bharti",
+          "description": "Creating credit notes in accounts payable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, one of the request from payable department is to have the reference of original invoice against which credit note is created. I have written same feature blog for […]",
+          "link": "https://exploredynamics365.home.blog/2023/03/07/reference-original-invoices-in-credit-notes-vendor-invoices-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-03-07T08:53:42.000Z",
+          "wordCount": 2562,
+          "title": "Reference original invoices in credit notes (vendor invoices) in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/03/3-1.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2371",
           "author": "Saurabh Bharti",
@@ -7291,6 +7321,16 @@
       "feedUrl": "https://community.dynamics.com/ax/b/ftdynamicsax/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/ftdynamicsax",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b560b166-574c-4296-9c00-25c24919f630",
+          "author": "Dominic Lee",
+          "description": "Change the default model for VS2019 under [user documents]/Visual Studio Dynamics 365/.\n  \nEdit the \"DefaultModelForNewProjects\" entry in DynamicsDevConfig.xml.\n  \n\n\n\n\n  This posting is provided \"AS IS\" with no warranties, and confers no rights.",
+          "link": "https://community.dynamics.com/ax/b/ftdynamicsax/posts/visual-studio-2019---change-default-model",
+          "publishedOn": "2023-03-06T22:31:00.000Z",
+          "wordCount": 3554,
+          "title": "Visual studio 2019 - Change default model",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e448da3a-b382-4b51-a2d0-0cf639c80348",
           "author": "Dominic Lee",
