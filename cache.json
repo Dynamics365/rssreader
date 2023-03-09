@@ -734,6 +734,16 @@
       "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e0c49878-1aa2-4b1a-8b87-5c808f548dae",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nSatish Panwar sapanwar@microsoft.com\nMartin Walker Walker.Martin@microsoft.com\n\n\n~\nThis TechTalk will cover the new features in Dynamics 365 Commerce that are ...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/what-s-new-in-dynamics-365-project-operations---2022-release-wave-2-and-2023-release-wave-1-february-23-2023",
+          "publishedOn": "2023-03-08T22:12:00.000Z",
+          "wordCount": 3299,
+          "title": "What's New in Dynamics 365 Project Operations - 2022 Release Wave 2 and 2023 Release Wave 1 | February 23, 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/356629_5F00_DTT132.png?_=638139107174766485"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5de84614-9936-4319-9fff-fb9305b451fd",
           "author": "Ilanit Manor - Community Manager",
           "description": "www.youtube.com/watch\n\nPresenters: \nJiacheng Xia - Software Engineer\nYufei Huang - Senior Product Manager\nHiren Naik - Senior Solution Architect\n~\nIn this TechTalk session, we will introduce the ...(read more)",
@@ -2636,26 +2646,6 @@
           "wordCount": 888,
           "title": "d365fo.tools – Publish the NuGet packages for the Azure hosted build pipeline Pt. 1",
           "imageUrl": "https://d365fostuff.files.wordpress.com/2021/03/peapassetlibrary.png"
-        },
-        {
-          "id": "http://d365fostuff.wordpress.com/?p=46",
-          "author": "Marijan",
-          "description": "In my latest project, we wanted to set up the Azure hosted build pipeline also as a gated check in for our D365 – TFVC repository. Setting up the pipeline itself is quite easy, especially when you follow the DevOps ALM guide / bible from Adriá Ariste: MSDyn365 & Azure DevOps ALM – ariste.infoTo set […]",
-          "link": "https://d365fostuff.wordpress.com/2021/03/08/the-shelveset-xxx-could-not-be-found-for-check-in-error-using-azure-hosted-builds-for-gated-check-ins/",
-          "publishedOn": "2021-03-08T22:22:00.000Z",
-          "wordCount": 622,
-          "title": "“The shelveset ‘xyz’ could not be found for check-in” – Error using Azure hosted builds for gated check-ins with D365",
-          "imageUrl": "https://d365fostuff.files.wordpress.com/2021/03/shelvesetcouldnotbefounderror.png?w=1200"
-        },
-        {
-          "id": "http://d365fostuff.wordpress.com/?p=73",
-          "author": "Marijan",
-          "description": "With the latest update from the LCS Database Movement API we’re finally able to start and stop the cloud hosted environments from a specific LCS project. Even with the correct environment status synced to LCS!Thanks to the awesome d365fo.tools from @splaxi it’s easy to get this running in an Azure pipeline or trigger the action […]",
-          "link": "https://d365fostuff.wordpress.com/2021/03/08/power-automate-to-start-cloud-hosted-environments-with-the-lcs-api/",
-          "publishedOn": "2021-03-08T15:22:31.000Z",
-          "wordCount": 896,
-          "title": "Power Automate  Flow to start cloud hosted environments with the LCS API",
-          "imageUrl": "https://d365fostuff.files.wordpress.com/2021/03/flowoverview-1.png"
         }
       ]
     },
@@ -2832,6 +2822,16 @@
       "siteUrl": "https://ariste.info",
       "articles": [
         {
+          "id": "https://ariste.info/?p=7012",
+          "author": "Adrià Ariste Santacreu",
+          "description": "Hoy traigo un post rápido y sencillo de X++ en el que aprenderemos a crear un campo encriptado en Dynamics 365 Finance and Operations. Crear un campo encriptado en Dynamics 365 Finance and Operations es un proceso sencillo que puede ayudar a asegurar información sensible en tu ERP. Mediante el uso de una clave de… Continue Reading Crear un campo encriptado en Dynamics 365 F&O\nariste.info Crear un campo encriptado en Dynamics 365 F&O",
+          "link": "https://ariste.info/2023/03/crear-campo-encriptado-dynamics-365/",
+          "publishedOn": "2023-03-08T12:03:00.000Z",
+          "wordCount": 4938,
+          "title": "Crear un campo encriptado en Dynamics 365 F&O",
+          "imageUrl": "https://static.ariste.info/wp-content/uploads/2023/02/Encrypt-1024x1024.png"
+        },
+        {
           "id": "https://ariste.info/?p=6927",
           "author": "Adrià Ariste Santacreu",
           "description": "Si estás integrando Dynamics 365 Finance & Operations con terceros, y tu organización o la del tercero están usando un firewall, puede que te hayas encontrado en el escenario de que te pregunten «¿cuál es la dirección IP del entorno de producción/sandbox?». Pues bien, no lo sabemos. Sabemos que IP tiene ahora, pero no sabemos… Continue Reading Dynamics 365 F&O y firewalls: monitoreo de IPs de Azure\nariste.info Dynamics 365 F&O y firewalls: monitoreo de IPs de Azure",
@@ -2948,6 +2948,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2371",
+          "author": "AnithaEswaran",
+          "description": "In continuation to my previous post , this content lists the new Data Entities published on latest preview version SalesOrderHeaderD365SalesEntity : Label : Dynamics 365 Sales order headers This entity contains information about Dynamics D365 Sales order headers which is … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/03/08/salesorderheaderd365salesentity-preview-10-0-32-part-2/",
+          "publishedOn": "2023-03-08T12:49:09.000Z",
+          "wordCount": 3605,
+          "title": "SalesOrderHeaderD365SalesEntity – Preview 10.0.32 -Part 2",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/02/image-7.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=2356",
           "author": "AnithaEswaran",
@@ -6764,6 +6774,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=4997",
+          "author": "Ludwig Reinhard",
+          "description": "[German language podcast] Im Podcast mit Tomislav Karafilov sprechen wir über seinen Arbeitgeber “SoftwareOne”, der Kunden bei der Migration in …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2023/03/08/microsoft-bizapps-deutschland-podcast-8/",
+          "publishedOn": "2023-03-08T05:54:54.000Z",
+          "wordCount": 2765,
+          "title": "Microsoft BizApps Deutschland Podcast #8",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/02/softwareonestock.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=4952",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -10165,6 +10185,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "easily-design-and-automatically-send-actionable-data-driven-cards-in-teams",
+          "author": null,
+          "description": "Cards for Power Apps is a recent addition to the low code lineup, announced as public preview in September, that empowers business users and developers alike to create interactive, embeddable, data-driven, lightweight mini-apps that bring context and actions directly into Teams conversations. Today we are excited to announce that cards for Power Apps can be…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/easily-design-and-automatically-send-actionable-data-driven-cards-in-teams/",
+          "publishedOn": "2023-03-08T10:36:25.000Z",
+          "wordCount": 2015,
+          "title": "Easily design and automatically send actionable, data-driven cards in Teams",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "announcing-public-preview-of-maker-welcome-content-in-power-apps",
           "author": null,
