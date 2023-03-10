@@ -1588,6 +1588,26 @@
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56154",
+          "author": "Tracey Santos",
+          "description": "Overcome Barriers in Your Transition Planning to Dynamics 365 (Video)\nMany Dynamics GP, NAV, and AX customers want to transition their businesses to a cloud solution like Dynamics 365 Business Central or Dynamics 365 Finance & Operations, but a few common barriers hold them back. During this recorded webinar, Encore and Microsoft experts present and discuss how clients can overcome these challenges in their transition...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/overcome-barriers-in-your-transition-planning-to-dynamics-365-video/",
+          "publishedOn": "2023-03-09T14:50:06.000Z",
+          "wordCount": 5497,
+          "title": "Overcome Barriers in Your Transition Planning to Dynamics 365 (Video)",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/03/blogtitle.jpg"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=56027",
+          "author": "Raymond Wong",
+          "description": "When Is the Right Time to Upgrade from Dynamics NAV to Dynamics 365 Business Central?\nMany companies on Dynamics NAV plan to move to Dynamics 365 Business Central eventually – but when is the right time for your company? You need to consider several factors to determine your best timeline for an upgrade or reimplementation to Business Central: your NAV version’s Microsoft support lifecycle, your security and regulatory compliance needs,...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/when-upgrade-nav-bc/",
+          "publishedOn": "2023-03-09T12:13:35.000Z",
+          "wordCount": 2095,
+          "title": "When Is the Right Time to Upgrade from Dynamics NAV to Dynamics 365 Business Central?",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=56105",
           "author": "Isabella McPeak",
           "description": "Dynamics AX to Dynamics 365 Finance & Operations: Upgrade vs. Migration\nThere are two different paths to move from Dynamics AX to Dynamics 365 Finance & Operations: upgrade and migration. It’s common to refer to any transition from AX to F&O as an “upgrade,” and we do so elsewhere on our website. But in this article we’re going to dive deep into the two different ways...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -2948,6 +2968,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2382",
+          "author": "AnithaEswaran",
+          "description": "Recently the database transaction log of my D365F&O development environments grew too large and the service was down. When the service goes down all of a sudden, I troubleshoot by restarting the Batch service in dev environment first. If it … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/03/09/shrink-axdb-sql-transaction-log/",
+          "publishedOn": "2023-03-09T17:04:30.000Z",
+          "wordCount": 3679,
+          "title": "Shrink AxDB SQL transaction log",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/03/image-3.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=2371",
           "author": "AnithaEswaran",
@@ -7645,18 +7675,7 @@
       "title": "Galyna Fedorova's Microsoft Dynamics AX blog",
       "feedUrl": "https://community.dynamics.com/ax/b/galynafedorovaaxblog/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/galynafedorovaaxblog",
-      "articles": [
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e6bf8c33-5526-431a-8517-63dd6a5788d3",
-          "author": "Galyna Fedorova",
-          "description": "In the FAQ series, I will be answering questions that I am getting regarding MSDyn365F&SCM. \nIn this blogpost the question is “What is the difference between APT and CTP?” . \nIn...\n(read more)",
-          "link": "https://community.dynamics.com/ax/b/galynafedorovaaxblog/posts/faq-episode-1-msdyn365f-scm-a-dead-simple-atp-calculation-part1",
-          "publishedOn": "2021-03-10T08:59:25.000Z",
-          "wordCount": 2834,
-          "title": "FAQ (Episode#1): MSDyn365F&SCM – A dead simple ATP calculation (Part1)",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "guyterry's Microsoft Dynamics AX blog",
@@ -10167,18 +10186,7 @@
       "title": "AX tutorials: tips and tricks",
       "feedUrl": "https://gfeaxblog.wordpress.com/feed/",
       "siteUrl": "https://gfeaxblog.wordpress.com",
-      "articles": [
-        {
-          "id": "http://gfeaxblog.wordpress.com/?p=3446",
-          "author": "gfeblog",
-          "description": "In the FAQ series, I will be answering questions that I am getting regarding MSDyn365F&SCM. In this blogpost the question is “What is the difference between APT and CTP?” . In order to answer this question, you will need to review both methods as thoroughly as you could. And we will start with ATP. ATP … Continue reading FAQ (Episode#1): MSDyn365F&SCM – A dead simple ATP calculation (Part1)",
-          "link": "https://gfeaxblog.wordpress.com/2021/03/10/faq-episode1-msdyn365fscm-a-dead-simple-atp-calculation-part1/",
-          "publishedOn": "2021-03-10T08:59:25.000Z",
-          "wordCount": 5396,
-          "title": "FAQ (Episode#1): MSDyn365F&SCM – A dead simple ATP calculation (Part1)",
-          "imageUrl": "https://gfeaxblog.files.wordpress.com/2021/02/atp-settings2.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Microsoft Power Apps - Blog",

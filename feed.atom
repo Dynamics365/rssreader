@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-09T01:38:34.812Z</updated>
+    <updated>2023-03-10T01:39:54.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shrink AxDB SQL transaction log]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2382</id>
+        <link href="https://anithasantosh.wordpress.com/2023/03/09/shrink-axdb-sql-transaction-log/"/>
+        <updated>2023-03-09T17:04:30.000Z</updated>
+        <summary type="html"><![CDATA[Recently the database transaction log of my D365F&O development environments grew too large and the service was down. When the service goes down all of a sudden, I troubleshoot by restarting the Batch service in dev environment first. If it … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overcome Barriers in Your Transition Planning to Dynamics 365 (Video)]]></title>
+        <id>https://www.encorebusiness.com/?p=56154</id>
+        <link href="https://www.encorebusiness.com/blog/overcome-barriers-in-your-transition-planning-to-dynamics-365-video/"/>
+        <updated>2023-03-09T14:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Overcome Barriers in Your Transition Planning to Dynamics 365 (Video)
+Many Dynamics GP, NAV, and AX customers want to transition their businesses to a cloud solution like Dynamics 365 Business Central or Dynamics 365 Finance & Operations, but a few common barriers hold them back. During this recorded webinar, Encore and Microsoft experts present and discuss how clients can overcome these challenges in their transition...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Tracey Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Is the Right Time to Upgrade from Dynamics NAV to Dynamics 365 Business Central?]]></title>
+        <id>https://www.encorebusiness.com/?p=56027</id>
+        <link href="https://www.encorebusiness.com/blog/when-upgrade-nav-bc/"/>
+        <updated>2023-03-09T12:13:35.000Z</updated>
+        <summary type="html"><![CDATA[When Is the Right Time to Upgrade from Dynamics NAV to Dynamics 365 Business Central?
+Many companies on Dynamics NAV plan to move to Dynamics 365 Business Central eventually – but when is the right time for your company? You need to consider several factors to determine your best timeline for an upgrade or reimplementation to Business Central: your NAV version’s Microsoft support lifecycle, your security and regulatory compliance needs,...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Raymond Wong</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What's New in Dynamics 365 Project Operations - 2022 Release Wave 2 and 2023 Release Wave 1 | February 23, 2023]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e0c49878-1aa2-4b1a-8b87-5c808f548dae</id>
@@ -16540,29 +16576,6 @@ Embed processor credit card receipts in customer receipts - Commerce | Dynamics 
         <summary type="html"><![CDATA[Back in September 2020, Microsoft has announced the preview of priority based throttling for Microsoft Dynamics 365 for Finance and Operations. Since then, a lot of things happened and with this post I want to clarify some confusions, where customers and partners are currently struggling with. Let´s start with an collection of some links: Documentation … Continue reading Priority-based throttling for MsDyn365FO →]]></summary>
         <author>
             <name>Paul Heisterkamp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAQ (Episode#1): MSDyn365F&SCM – A dead simple ATP calculation (Part1)]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e6bf8c33-5526-431a-8517-63dd6a5788d3</id>
-        <link href="https://community.dynamics.com/ax/b/galynafedorovaaxblog/posts/faq-episode-1-msdyn365f-scm-a-dead-simple-atp-calculation-part1"/>
-        <updated>2021-03-10T08:59:25.000Z</updated>
-        <summary type="html"><![CDATA[In the FAQ series, I will be answering questions that I am getting regarding MSDyn365F&SCM. 
-In this blogpost the question is “What is the difference between APT and CTP?” . 
-In...
-(read more)]]></summary>
-        <author>
-            <name>Galyna Fedorova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAQ (Episode#1): MSDyn365F&SCM – A dead simple ATP calculation (Part1)]]></title>
-        <id>http://gfeaxblog.wordpress.com/?p=3446</id>
-        <link href="https://gfeaxblog.wordpress.com/2021/03/10/faq-episode1-msdyn365fscm-a-dead-simple-atp-calculation-part1/"/>
-        <updated>2021-03-10T08:59:25.000Z</updated>
-        <summary type="html"><![CDATA[In the FAQ series, I will be answering questions that I am getting regarding MSDyn365F&SCM. In this blogpost the question is “What is the difference between APT and CTP?” . In order to answer this question, you will need to review both methods as thoroughly as you could. And we will start with ATP. ATP … Continue reading FAQ (Episode#1): MSDyn365F&SCM – A dead simple ATP calculation (Part1)]]></summary>
-        <author>
-            <name>gfeblog</name>
         </author>
     </entry>
 </feed>
