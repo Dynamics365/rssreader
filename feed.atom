@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-10T01:39:54.326Z</updated>
+    <updated>2023-03-11T01:17:40.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to export/import Tax registration numbers for Vendors]]></title>
+        <id>https://alexvoy.blogspot.com/2023/03/how-to-exportimport-tax-registration.html</id>
+        <link href="https://alexvoy.blogspot.com/2023/03/how-to-exportimport-tax-registration.html"/>
+        <updated>2023-03-11T00:52:00.002Z</updated>
+        <summary type="html"><![CDATA[D365FO contains a special data entity which can be used for both DMF export/import and also in Excel Add-in, but... 
+There is an interesting InnerJoin inside of this data entity, which may be a hurdle for understanding why you still have no records exported; nevertheless, you have some in TaxRegistration table.
+
+
+
+
+In fact, when you create records in Vendor Registration IDs form, it does not tell you about this constraint.
+
+
+
+
+
+
+To get these records exported, you simply need to add it in Registration categories.
+
+
+
+and voila!]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Production control in Dynamics 365 Supply Chain Management]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a32fca88-2147-4f37-a629-050467b14550</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/production-control-in-dynamics-365-supply-chain-management"/>
+        <updated>2023-03-10T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[This TechTalk series covers functionality relating to the Production Control Module in Dynamics 365 Supply Chain Management. We will start with a high-level overview and then deep dive into the di...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Production Control Overview | February 22, 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:220230e4-9939-4679-a89d-55cdcfa9deba</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/production-control-overview-february-22-2023"/>
+        <updated>2023-03-10T22:08:00.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com/watch
+
+Presenters: 
+Anne Krupke - annekrupke@microsoft.com
+Phillip Seaton pseaton@microsoft.com
+Sohaib Khan sohaibkhan@microsoft.com
+Johan Hoffmann johanho@microsoft.com
+
+~
+This T...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shrink AxDB SQL transaction log]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2382</id>
@@ -16566,16 +16622,6 @@ Embed processor credit card receipts in customer receipts - Commerce | Dynamics 
         <summary type="html"><![CDATA[Describes a custom framework for performing a periodic database cleanup]]></summary>
         <author>
             <name>Gatsby RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priority-based throttling for MsDyn365FO]]></title>
-        <id>https://msdyn365fo.wordpress.com/?p=465</id>
-        <link href="https://msdyn365fo.wordpress.com/2021/03/11/priority-based-throttling-for-msdyn365fo/"/>
-        <updated>2021-03-11T07:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Back in September 2020, Microsoft has announced the preview of priority based throttling for Microsoft Dynamics 365 for Finance and Operations. Since then, a lot of things happened and with this post I want to clarify some confusions, where customers and partners are currently struggling with. Let´s start with an collection of some links: Documentation … Continue reading Priority-based throttling for MsDyn365FO →]]></summary>
-        <author>
-            <name>Paul Heisterkamp</name>
         </author>
     </entry>
 </feed>

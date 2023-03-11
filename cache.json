@@ -734,6 +734,26 @@
       "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a32fca88-2147-4f37-a629-050467b14550",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "This TechTalk series covers functionality relating to the Production Control Module in Dynamics 365 Supply Chain Management. We will start with a high-level overview and then deep dive into the di...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/production-control-in-dynamics-365-supply-chain-management",
+          "publishedOn": "2023-03-10T22:47:00.000Z",
+          "wordCount": 3354,
+          "title": "Production control in Dynamics 365 Supply Chain Management",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/356719_5F00_ProdcontrolSeries.png?_=638140861721506329"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:220230e4-9939-4679-a89d-55cdcfa9deba",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nAnne Krupke - annekrupke@microsoft.com\nPhillip Seaton pseaton@microsoft.com\nSohaib Khan sohaibkhan@microsoft.com\nJohan Hoffmann johanho@microsoft.com\n\n~\nThis T...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/production-control-overview-february-22-2023",
+          "publishedOn": "2023-03-10T22:08:00.000Z",
+          "wordCount": 3299,
+          "title": "Production Control Overview | February 22, 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/356717_5F00_DTT127.png?_=638140833087466698"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e0c49878-1aa2-4b1a-8b87-5c808f548dae",
           "author": "Ilanit Manor - Community Manager",
           "description": "www.youtube.com/watch\n\nPresenters: \nSatish Panwar sapanwar@microsoft.com\nMartin Walker Walker.Martin@microsoft.com\n\n\n~\nThis TechTalk will cover the new features in Dynamics 365 Commerce that are ...(read more)",
@@ -2823,16 +2843,6 @@
           "wordCount": 790,
           "title": "Download the MsDyn365FO NuGets from LCS and push them to a feed in Azure Artifacts via Azure Pipeline",
           "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/04/msdyn365fo-nugets-feed.banner.png?w=1200"
-        },
-        {
-          "id": "https://msdyn365fo.wordpress.com/?p=465",
-          "author": "Paul Heisterkamp",
-          "description": "Back in September 2020, Microsoft has announced the preview of priority based throttling for Microsoft Dynamics 365 for Finance and Operations. Since then, a lot of things happened and with this post I want to clarify some confusions, where customers and partners are currently struggling with. Let´s start with an collection of some links: Documentation … Continue reading Priority-based throttling for MsDyn365FO →",
-          "link": "https://msdyn365fo.wordpress.com/2021/03/11/priority-based-throttling-for-msdyn365fo/",
-          "publishedOn": "2021-03-11T07:21:00.000Z",
-          "wordCount": 802,
-          "title": "Priority-based throttling for MsDyn365FO",
-          "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/03/priority-based-throttling-for-msdyn365fo-banner.png"
         }
       ]
     },
@@ -5924,6 +5934,16 @@
       "feedUrl": "https://alexvoy.blogspot.com/feeds/posts/default",
       "siteUrl": "https://alexvoy.blogspot.com/",
       "articles": [
+        {
+          "id": "https://alexvoy.blogspot.com/2023/03/how-to-exportimport-tax-registration.html",
+          "author": null,
+          "description": "D365FO contains a special data entity which can be used for both DMF export/import and also in Excel Add-in, but... \nThere is an interesting InnerJoin inside of this data entity, which may be a hurdle for understanding why you still have no records exported; nevertheless, you have some in TaxRegistration table.\n\n\n\n\nIn fact, when you create records in Vendor Registration IDs form, it does not tell you about this constraint.\n\n\n\n\n\n\nTo get these records exported, you simply need to add it in Registration categories.\n\n\n\nand voila!",
+          "link": "https://alexvoy.blogspot.com/2023/03/how-to-exportimport-tax-registration.html",
+          "publishedOn": "2023-03-11T00:52:00.002Z",
+          "wordCount": 2051,
+          "title": "How to export/import Tax registration numbers for Vendors",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj72qXn1gQm7gfTmtVPGonn0guZcsTLd3_1Ydh9J0aIaqFJdaTFOSlxPJr3SN1qbJDUUzXYrU7e7qaHZ9X5aNSW0SBmMJKSf372-io_BOli61m0QKAOa7G7aL6UcZ977_0_wT2awu-Iz0zzLBh2ECe1L7dSh5B-dpnaT3nhTCId0gFFlUTFVOdGey2y=w1200-h630-p-k-no-nu"
+        },
         {
           "id": "https://alexvoy.blogspot.com/2023/03/how-to-open-multiple-purchase-orders-in.html",
           "author": null,
