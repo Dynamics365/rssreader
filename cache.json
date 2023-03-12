@@ -1855,6 +1855,26 @@
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:869f1f8f-a4d7-483b-a53e-fc221b4e118e",
+          "author": "Emily He",
+          "description": "Introducing the world's first AI copilot in both CRM and ERP\nToday we announced Microsoft Dynamics 365 Copilot, providing interactive, AI-powered assistance across business functionsfrom sales, service, and marketing to supply chain. With Dynamics 365 Copilot, we're introducing the world's first AI copilot natively built-in to both CRM and ERP applications.\nCopilot brings the power of next-generation AI capabilities and natural language processing to Dynamics 365, working alongside business professionals to help them create ideas and content faster, complete time-consuming tasks, and get insights and next best actionsjust by describing what's needed.\nCopilot features are in preview across Dynamics 365 applications and Microsoft Viva Sales. View demos of the capabilities, as well as learn h…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business",
+          "publishedOn": "2023-03-06T14:00:00.000Z",
+          "wordCount": 6027,
+          "title": "Introducing Microsoft Dynamics 365 Copilot, bringing next-generation AI to every line of business",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:6ee24ff0-52da-48b9-9043-6e051c0a9feb",
+          "author": "Rik Chowdhury",
+          "description": "In our daily lives we engage across multiple communication channels depending on the time and place. It's no different when we engage in a sales conversation. Customers and prospects are busy people who don't always have the time to join a booked meeting, take a call or even engage via e-mail. Yet when the need arises, we want them to be able to get in touch with ease. \nNow in Dynamics 365 Sales we have made connecting with customers even easier by adding an SMS channel communication for our users. This channel provides another option to the sellers 'kit bag' to aid connection. \nIt's a convenient and non-intrusive option to send reminders, provide quick updates, or respond to customer queries.  \nToday most of the customers are already collaborating with their key contacts and business deci…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/how-to-engage-customers-with-the-right-communication-channels",
+          "publishedOn": "2023-03-03T06:10:00.000Z",
+          "wordCount": 4670,
+          "title": "How to engage customers with the right communication channels",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:13e1c7e3-1a28-4d29-b15d-22084f2333f2",
           "author": "Diana Hoffman",
           "description": "We are excited and honored that Gartner has recognized Microsoft as a Leader in the 2022 Gartner Magic Quadrant™ for B2B Marketing Automation.*\nToday's buyers value authentic engagements and expect the companies they buy from to know them and to provide one-of-a-kind experiences. This past year, we continued to invest in solutions that help our customers meet these demands by delivering personalization at scale.\nCustomers can automate buyer-centric experiences and processes using trigger-based journeys to respond to actions and signals in real time and easily optimize customer journeys with insights from across digital and physical channels. With configurable key performance indicators (KPIs), customers can use out-of-box machine learning templates or bring their own AI/machine learning mo…",
@@ -4372,6 +4392,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/10/revolutionize-customer-service-with-next-generation-ai/",
+          "author": "Jeff Comstock",
+          "description": "We're entering the era of generative AI that is driving new levels of productivity and efficiency, unleashing new innovations in the customer service space. AI is profoundly changing how customers engage with businesses and how agents provide exceptional service to them.\nThe post Revolutionize customer service with next-generation AI appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/10/revolutionize-customer-service-with-next-generation-ai/",
+          "publishedOn": "2023-03-10T16:00:00.000Z",
+          "wordCount": 2996,
+          "title": "Revolutionize customer service with next-generation AI",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/03/CLO22_TechOffice_027-2.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/",
           "author": "Emily He",
@@ -9788,16 +9818,6 @@
           "wordCount": 1019,
           "title": "Improving Dynamics AX2009 / AX2012 logistics performance by denormalizing InventSum table",
           "imageUrl": "https://denistrunin.com/static/3ad9179ea9ed656fc5063cd7c4d4689a/8080f/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/ax2012-sqldelete/",
-          "author": null,
-          "description": "Describes a custom framework for performing a periodic database cleanup",
-          "link": "https://denistrunin.com/ax2012-sqldelete/",
-          "publishedOn": "2021-03-11T22:12:03.000Z",
-          "wordCount": 1410,
-          "title": "Implementing Dynamics AX 2009/2012 database cleanup",
-          "imageUrl": "https://denistrunin.com/static/95acaa6cbdc9d1890ea3831ce3e21afc/5bd61/logo.png"
         }
       ]
     },

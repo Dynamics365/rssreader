@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-11T01:17:40.928Z</updated>
+    <updated>2023-03-12T01:35:49.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -60,6 +60,17 @@ Johan Hoffmann johanho@microsoft.com
 This T...(read more)]]></summary>
         <author>
             <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionize customer service with next-generation AI]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/10/revolutionize-customer-service-with-next-generation-ai/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/10/revolutionize-customer-service-with-next-generation-ai/"/>
+        <updated>2023-03-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're entering the era of generative AI that is driving new levels of productivity and efficiency, unleashing new innovations in the customer service space. AI is profoundly changing how customers engage with businesses and how agents provide exceptional service to them.
+The post Revolutionize customer service with next-generation AI appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jeff Comstock</name>
         </author>
     </entry>
     <entry>
@@ -261,6 +272,19 @@ In this TechTalk session, we will introduce the ...(read more)]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Microsoft Dynamics 365 Copilot, bringing next-generation AI to every line of business]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:869f1f8f-a4d7-483b-a53e-fc221b4e118e</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business"/>
+        <updated>2023-03-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing the world's first AI copilot in both CRM and ERP
+Today we announced Microsoft Dynamics 365 Copilot, providing interactive, AI-powered assistance across business functionsfrom sales, service, and marketing to supply chain. With Dynamics 365 Copilot, we're introducing the world's first AI copilot natively built-in to both CRM and ERP applications.
+Copilot brings the power of next-generation AI capabilities and natural language processing to Dynamics 365, working alongside business professionals to help them create ideas and content faster, complete time-consuming tasks, and get insights and next best actionsjust by describing what's needed.
+Copilot features are in preview across Dynamics 365 applications and Microsoft Viva Sales. View demos of the capabilities, as well as learn h…]]></summary>
+        <author>
+            <name>Emily He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Microsoft Dynamics 365 Copilot, bringing next-generation AI to every line of business]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/06/introducing-microsoft-dynamics-365-copilot-bringing-next-generation-ai-to-every-line-of-business/"/>
         <updated>2023-03-06T14:00:00.000Z</updated>
@@ -340,6 +364,19 @@ global Microsoft Customer Success Day on March 16 . Microsoft
 has teamed up... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to engage customers with the right communication channels]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6ee24ff0-52da-48b9-9043-6e051c0a9feb</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/how-to-engage-customers-with-the-right-communication-channels"/>
+        <updated>2023-03-03T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA[In our daily lives we engage across multiple communication channels depending on the time and place. It's no different when we engage in a sales conversation. Customers and prospects are busy people who don't always have the time to join a booked meeting, take a call or even engage via e-mail. Yet when the need arises, we want them to be able to get in touch with ease. 
+Now in Dynamics 365 Sales we have made connecting with customers even easier by adding an SMS channel communication for our users. This channel provides another option to the sellers 'kit bag' to aid connection. 
+It's a convenient and non-intrusive option to send reminders, provide quick updates, or respond to customer queries.  
+Today most of the customers are already collaborating with their key contacts and business deci…]]></summary>
+        <author>
+            <name>Rik Chowdhury</name>
         </author>
     </entry>
     <entry>
@@ -16612,16 +16649,6 @@ Embed processor credit card receipts in customer receipts - Commerce | Dynamics 
         <summary type="html"><![CDATA[Right in time for my previous post on using the hosted build pipeline as a gated check in, @splaxi released the newest version of the d365fo.tools. The main feature of this release being the possibility to upload the NuGet packages into the Azure DevOps artifact feed.Thanks to the tools, it’s a lot easier to publish […]]]></summary>
         <author>
             <name>Marijan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing Dynamics AX 2009/2012 database cleanup]]></title>
-        <id>https://denistrunin.com/ax2012-sqldelete/</id>
-        <link href="https://denistrunin.com/ax2012-sqldelete/"/>
-        <updated>2021-03-11T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[Describes a custom framework for performing a periodic database cleanup]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
         </author>
     </entry>
 </feed>
