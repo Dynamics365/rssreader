@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-12T01:35:49.696Z</updated>
+    <updated>2023-03-13T01:23:45.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -16639,16 +16639,6 @@ Embed processor credit card receipts in customer receipts - Commerce | Dynamics 
         <summary type="html"><![CDATA[IntroductionWork pick line overview is a feature that is currently in Public preview, and will become generally available in one of the upcoming Dynamics 365 SCM releases.It provides the flexibility to experienced warehouse workers to change the work picking route on the spot, based on the current situation the system is unaware of. For example:some of the goods on the order might need to be]]></summary>
         <author>
             <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d365fo.tools – Publish the NuGet packages for the Azure hosted build pipeline Pt. 1]]></title>
-        <id>http://d365fostuff.wordpress.com/?p=123</id>
-        <link href="https://d365fostuff.wordpress.com/2021/03/13/d365fo-tools-publish-the-nuget-packages-for-the-azure-hosted-build-pipeline-pt-1/"/>
-        <updated>2021-03-13T08:45:56.000Z</updated>
-        <summary type="html"><![CDATA[Right in time for my previous post on using the hosted build pipeline as a gated check in, @splaxi released the newest version of the d365fo.tools. The main feature of this release being the possibility to upload the NuGet packages into the Azure DevOps artifact feed.Thanks to the tools, it’s a lot easier to publish […]]]></summary>
-        <author>
-            <name>Marijan</name>
         </author>
     </entry>
 </feed>

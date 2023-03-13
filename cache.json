@@ -2696,16 +2696,6 @@
           "wordCount": 1022,
           "title": "d365fo.tools – Publish the NuGet packages for the Azure hosted build pipeline Pt. 2",
           "imageUrl": "https://d365fostuff.files.wordpress.com/2021/03/nugetupdated.png?w=1200"
-        },
-        {
-          "id": "http://d365fostuff.wordpress.com/?p=123",
-          "author": "Marijan",
-          "description": "Right in time for my previous post on using the hosted build pipeline as a gated check in, @splaxi released the newest version of the d365fo.tools. The main feature of this release being the possibility to upload the NuGet packages into the Azure DevOps artifact feed.Thanks to the tools, it’s a lot easier to publish […]",
-          "link": "https://d365fostuff.wordpress.com/2021/03/13/d365fo-tools-publish-the-nuget-packages-for-the-azure-hosted-build-pipeline-pt-1/",
-          "publishedOn": "2021-03-13T08:45:56.000Z",
-          "wordCount": 888,
-          "title": "d365fo.tools – Publish the NuGet packages for the Azure hosted build pipeline Pt. 1",
-          "imageUrl": "https://d365fostuff.files.wordpress.com/2021/03/peapassetlibrary.png"
         }
       ]
     },
