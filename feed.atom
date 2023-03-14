@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-13T01:23:45.894Z</updated>
+    <updated>2023-03-14T01:12:58.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Dynamics 365 Field Service?]]></title>
+        <id>https://www.encorebusiness.com/?p=47364</id>
+        <link href="https://www.encorebusiness.com/blog/what-is-dynamics-365-for-field-service/"/>
+        <updated>2023-03-13T11:13:48.000Z</updated>
+        <summary type="html"><![CDATA[What Is Dynamics 365 Field Service?
+Microsoft Dynamics 365 Field Service is an agile asset-routing and optimization platform that provides advanced automation and tracking functionality. These integrated toolsets help organizations with the more complicated and time-sensitive aspects of field service, such as resource assignment agility, work order and invoice accuracy, optimized service scheduling, warranty and SLA compliance, and much more. We’ve...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Jess Mooney</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to export/import Tax registration numbers for Vendors]]></title>
         <id>https://alexvoy.blogspot.com/2023/03/how-to-exportimport-tax-registration.html</id>
@@ -60,6 +73,17 @@ Johan Hoffmann johanho@microsoft.com
 This T...(read more)]]></summary>
         <author>
             <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionize customer service with next-generation AI]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5b583dea-1fb9-4a57-8b05-a8d56a4fdebb</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/revolutionize-customer-service-with-next-generation-ai"/>
+        <updated>2023-03-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're entering the era of next-generation AI that is driving new levels of productivity and efficiency, unleashing new innovations in the customer service space. AI is profoundly changing how customers engage with businesses and how agents provide exceptional service to them.
+From a service perspective, customers expect fast, accurate answers to their questions, and personalized help when they contact a business. Meanwhile, businesses are under pressure to provide exceptional customer service with fewer resources. Legacy ways of integrating multiple-point solutions for customer service do not work. The time to embark on a digital transformation journey is now. Choosing the right AI-powered customer service solution for that journey, empowering customer service agents with AI, and reducing …]]></summary>
+        <author>
+            <name>Jeff Comstock</name>
         </author>
     </entry>
     <entry>
