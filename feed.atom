@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-14T01:12:58.201Z</updated>
+    <updated>2023-03-14T21:20:24.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One Dynamics One Platform - Dataverse C# Plugin for Dynamics 365 F&O]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:6410362c7270a04f3c1ff7ae</id>
+        <link href="https://www.powerazure365.com/blog-1/one-dynamics-one-platform-dataverse-c-plugin-for-dynamics-365-fampo"/>
+        <updated>2023-03-14T08:53:58.000Z</updated>
+        <summary type="html"><![CDATA[An article part of the One Dynamics One Platform convergence : on the Dev 
+side : How to deploy a Dataverse C# Plugin for a Virtual Table of Dynamics 
+365 Finance Operations.]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Dynamics 365 Field Service?]]></title>
         <id>https://www.encorebusiness.com/?p=47364</id>
@@ -316,6 +328,16 @@ Copilot features are in preview across Dynamics 365 applications and Microsoft V
 The post Introducing Microsoft Dynamics 365 Copilot, bringing next-generation AI to every line of business appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Emily He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free up some space on your MsDyn365FO development VM (Part 2)]]></title>
+        <id>http://msdyn365fo.wordpress.com/?p=587</id>
+        <link href="https://msdyn365fo.wordpress.com/2023/03/06/__trashed/"/>
+        <updated>2023-03-06T11:24:42.000Z</updated>
+        <summary type="html"><![CDATA[This post is a flow up of my post from 2020, where I also described how to free up some space on a Microsoft Dynamics 365 for Finance and Operations development VM. I recently had the problem that I ran into capacity constraints on the C drive of my development VM. What I found was … Continue reading Free up some space on your MsDyn365FO development VM (Part 2) →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
         </author>
     </entry>
     <entry>
@@ -16653,16 +16675,6 @@ Another option is to add EFT Message into the Header of the Credit Card Receipt
 Embed processor credit card receipts in customer receipts - Commerce | Dynamics 365 | Microsoft Docs]]></summary>
         <author>
             <name>DawnLanglie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Tutorial] Work pick line overview]]></title>
-        <id>http://kashperuk.blogspot.com/2021/03/tutorial-work-pick-line-overview.html</id>
-        <link href="http://kashperuk.blogspot.com/2021/03/tutorial-work-pick-line-overview.html"/>
-        <updated>2021-03-14T14:12:00.003Z</updated>
-        <summary type="html"><![CDATA[IntroductionWork pick line overview is a feature that is currently in Public preview, and will become generally available in one of the upcoming Dynamics 365 SCM releases.It provides the flexibility to experienced warehouse workers to change the work picking route on the spot, based on the current situation the system is unaware of. For example:some of the goods on the order might need to be]]></summary>
-        <author>
-            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
 </feed>

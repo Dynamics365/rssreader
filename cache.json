@@ -2576,6 +2576,17 @@
       "siteUrl": "https://www.powerazure365.com/",
       "articles": [
         {
+          "id": "5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:6410362c7270a04f3c1ff7ae",
+          "author": "Aurélien Clere",
+          "description": "An article part of the One Dynamics One Platform convergence : on the Dev \r\nside : How to deploy a Dataverse C# Plugin for a Virtual Table of Dynamics \r\n365 Finance Operations.",
+          "link": "https://www.powerazure365.com/blog-1/one-dynamics-one-platform-dataverse-c-plugin-for-dynamics-365-fampo",
+          "publishedOn": "2023-03-14T08:53:58.000Z",
+          "wordCount": null,
+          "title": "One Dynamics One Platform - Dataverse C# Plugin for Dynamics 365 F&O",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:63072b1b2f6f157402d75d05",
           "author": "Aurélien Clere",
           "description": "New article here to explain a new solution I have made for Data ALM (and \r\nautomation everywhere) in terms of data movement for Dynamics 365 Finance \r\nOperations. For the code ALM part, and even for RSAT, all the way it’s \r\nquite really easy to manage from development to release (especially thanks \r\nto Azure Dev Ops). But what about data / refresh / copy / backup and \r\nrestore ? From many years now on, I was (as partner) trying to do it the \r\nmore automatically I can for customers - and even me in fact... But as of \r\ntoday, and as a gift for the community, I release a brand new solution to \r\ninstall it and manage that without any MANUAL actions for all steps \r\nrequired for data movement ! I hope that it will help you a lot - like it \r\nwill help me a lot for me, believe me - tons of hours saved. Let’s jump in \r\n!",
@@ -2724,6 +2735,16 @@
       "feedUrl": "https://msdyn365fo.wordpress.com/feed/",
       "siteUrl": "https://msdyn365fo.wordpress.com",
       "articles": [
+        {
+          "id": "http://msdyn365fo.wordpress.com/?p=587",
+          "author": "Paul Heisterkamp",
+          "description": "This post is a flow up of my post from 2020, where I also described how to free up some space on a Microsoft Dynamics 365 for Finance and Operations development VM. I recently had the problem that I ran into capacity constraints on the C drive of my development VM. What I found was … Continue reading Free up some space on your MsDyn365FO development VM (Part 2) →",
+          "link": "https://msdyn365fo.wordpress.com/2023/03/06/__trashed/",
+          "publishedOn": "2023-03-06T11:24:42.000Z",
+          "wordCount": 3063,
+          "title": "Free up some space on your MsDyn365FO development VM (Part 2)",
+          "imageUrl": "https://msdyn365fo.files.wordpress.com/2023/03/freeing-up-some-space.png?w=1200"
+        },
         {
           "id": "http://msdyn365fo.wordpress.com/?p=559",
           "author": "Paul Heisterkamp",
@@ -6428,6 +6449,12 @@
       ]
     },
     {
+      "title": "filardi.cloud",
+      "feedUrl": "https://filardi.cloud/feed/",
+      "siteUrl": "https://filardi.cloud",
+      "articles": []
+    },
+    {
       "title": "PARAG CHAPRE BLOG",
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
@@ -6818,16 +6845,6 @@
           "wordCount": 2822,
           "title": "[Development tutorial] Extending the work list and work pick line overview flow fields",
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0JbZw7nXMXHX2sVDjsbqVBwv_ReOfu4tZthL_VmAQABEAB6ZKOCnsQKnB3ofgPqy2OTOo3u-gRIsdr352DN_4zW6EbP60QyScZDywPq8KVC23VDQ=w1200-h630-n-k-no-nu"
-        },
-        {
-          "id": "http://kashperuk.blogspot.com/2021/03/tutorial-work-pick-line-overview.html",
-          "author": null,
-          "description": "IntroductionWork pick line overview is a feature that is currently in Public preview, and will become generally available in one of the upcoming Dynamics 365 SCM releases.It provides the flexibility to experienced warehouse workers to change the work picking route on the spot, based on the current situation the system is unaware of. For example:some of the goods on the order might need to be",
-          "link": "http://kashperuk.blogspot.com/2021/03/tutorial-work-pick-line-overview.html",
-          "publishedOn": "2021-03-14T14:12:00.003Z",
-          "wordCount": 4003,
-          "title": "[Tutorial] Work pick line overview",
-          "imageUrl": "https://1.bp.blogspot.com/-kLIQk36iypY/YE4Qh7ZQbAI/AAAAAAAAlo8/n-hD4InhXC4cBMdFXi0tPszlV__LtPpLQCLcBGAsYHQ/w1200-h630-p-k-no-nu/1.%2BEnable%2BFeature.png"
         }
       ]
     },
