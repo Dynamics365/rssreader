@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-14T21:20:24.413Z</updated>
+    <updated>2023-03-15T01:22:10.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -16,6 +16,16 @@ side : How to deploy a Dataverse C# Plugin for a Virtual Table of Dynamics
 365 Finance Operations.]]></summary>
         <author>
             <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to manage security for Open in Excel option in journal screens In Dynamics 365 F&O]]></title>
+        <id>http://elearnd365.com/?p=646</id>
+        <link href="https://elearnd365.com/2023/03/13/how-to-manage-security-for-open-in-excel-option-in-journal-screens-in-dynamics-365-fo/"/>
+        <updated>2023-03-13T23:58:23.000Z</updated>
+        <summary type="html"><![CDATA[How to manage security for Open in Excel option in journal screens In Dynamics 365 F&O The open in excel option present on the journal screen you can create, update, and delete data very efficiently. For finance users it’s a go to tool for uploading and updating journal entries. When we design security roles, there […]]]></summary>
+        <author>
+            <name>Sukrut Parab</name>
         </author>
     </entry>
     <entry>

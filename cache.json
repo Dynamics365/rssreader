@@ -9580,6 +9580,16 @@
       "siteUrl": "https://elearnd365.com",
       "articles": [
         {
+          "id": "http://elearnd365.com/?p=646",
+          "author": "Sukrut Parab",
+          "description": "How to manage security for Open in Excel option in journal screens In Dynamics 365 F&O The open in excel option present on the journal screen you can create, update, and delete data very efficiently. For finance users it’s a go to tool for uploading and updating journal entries. When we design security roles, there […]",
+          "link": "https://elearnd365.com/2023/03/13/how-to-manage-security-for-open-in-excel-option-in-journal-screens-in-dynamics-365-fo/",
+          "publishedOn": "2023-03-13T23:58:23.000Z",
+          "wordCount": 3188,
+          "title": "How to manage security for Open in Excel option in journal screens In Dynamics 365 F&O",
+          "imageUrl": "https://elearnd365.files.wordpress.com/2023/03/image-2.png"
+        },
+        {
           "id": "http://elearnd365.com/?p=634",
           "author": "Sukrut Parab",
           "description": "In this blog post we will see how to enable Data events in tier1 and tier 2 environments and how to subscribe to them using dataverse connector. In my previous post we saw what data events are! With new power platform integration capabilities now your Finance and operations enviornment is connected to dataverse environment. If […]",
