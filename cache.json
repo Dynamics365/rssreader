@@ -6881,6 +6881,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=4958",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/03/15/dynamics-365-microsoft-sustainability-manager-part-3/",
+          "publishedOn": "2023-03-15T08:44:01.000Z",
+          "wordCount": 2661,
+          "title": "Dynamics 365 & Microsoft Sustainability Manager [Part 3]",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/02/blankpicture-en.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=4997",
           "author": "Ludwig Reinhard",
           "description": "[German language podcast] Im Podcast mit Tomislav Karafilov sprechen wir über seinen Arbeitgeber “SoftwareOne”, der Kunden bei der Migration in …\nContinue reading →",
@@ -8468,6 +8478,36 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:75d19fef-b1b1-4698-a2c0-56bc32bae439",
+          "author": "Henrik Marx Larsen",
+          "description": "The new Invoice Capture for Dynamics 365 Finance is an AI-based capability that allows you to receive, read and ingest vendor invoices.\nAs of March 2023, this feature is still in public preview, but t...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/the-new-invoice-capture-feature-for-dynamics-365-finance",
+          "publishedOn": "2023-03-15T13:28:27.000Z",
+          "wordCount": 3650,
+          "title": "The New Invoice Capture Feature for Dynamics 365 Finance",
+          "enclosure": {
+            "url": "https://community.dynamics.com/cfs-file/__key/telligent-evolution-components-attachments/01-1451-00-00-00-35-68-66/Microsoft-Dynamics-365_5F00_Invoice-Capture_5F00_20230307-_2800_1_2900_.mp4",
+            "length": "102970204",
+            "type": "application/octet-stream"
+          },
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/filetypeimages/mp4.png?_=637681930574319508"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3f0128aa-91c9-4dc9-87ca-e7fad048f40d",
+          "author": "Henrik Marx Larsen",
+          "description": "Have you ever wondered how the AP automation works in Dynamics 365 Finance. Wonder no longer!\nThis video gives a short introduction to how it works and there is an end-to-end process demo included.(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/ap-automation-with-dynamics-365-finance",
+          "publishedOn": "2023-03-15T13:23:08.000Z",
+          "wordCount": 3631,
+          "title": "AP Automation with Dynamics 365 Finance",
+          "enclosure": {
+            "url": "https://community.dynamics.com/cfs-file/__key/telligent-evolution-components-attachments/01-1451-00-00-00-35-68-65/Microsoft-Dynamics-365_5F00_AP-Automation_5F00_Video.mp4",
+            "length": "173784874",
+            "type": "application/octet-stream"
+          },
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/filetypeimages/mp4.png?_=637681930574319508"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:30c1123a-1b3d-4cd4-8cf5-0c4cdfd85b8e",
           "author": "Henrik Marx Larsen",
@@ -10270,6 +10310,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "switch-directories-in-power-apps-mobile",
+          "author": null,
+          "description": "Projects can cross company boundaries. Users need to be able to access all the apps shared to them from any tenant on all of their devices. For these scenarios, Power Apps lets users share apps with guest users from other tenants. I’m happy to announce that now it is very easy for guest users to…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/switch-directories-in-power-apps-mobile/",
+          "publishedOn": "2023-03-15T05:33:00.000Z",
+          "wordCount": 1607,
+          "title": "Announcing Tenant Switcher in Power Apps Mobile",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "easily-design-and-automatically-send-actionable-data-driven-cards-in-teams",
           "author": null,

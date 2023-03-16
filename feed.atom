@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-15T01:22:10.166Z</updated>
+    <updated>2023-03-16T01:23:23.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The New Invoice Capture Feature for Dynamics 365 Finance]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:75d19fef-b1b1-4698-a2c0-56bc32bae439</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/the-new-invoice-capture-feature-for-dynamics-365-finance"/>
+        <updated>2023-03-15T13:28:27.000Z</updated>
+        <summary type="html"><![CDATA[The new Invoice Capture for Dynamics 365 Finance is an AI-based capability that allows you to receive, read and ingest vendor invoices.
+As of March 2023, this feature is still in public preview, but t...(read more)]]></summary>
+        <author>
+            <name>Henrik Marx Larsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AP Automation with Dynamics 365 Finance]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3f0128aa-91c9-4dc9-87ca-e7fad048f40d</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/ap-automation-with-dynamics-365-finance"/>
+        <updated>2023-03-15T13:23:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how the AP automation works in Dynamics 365 Finance. Wonder no longer!
+This video gives a short introduction to how it works and there is an end-to-end process demo included.(read more)]]></summary>
+        <author>
+            <name>Henrik Marx Larsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 & Microsoft Sustainability Manager [Part 3]]]></title>
+        <id>http://dynamicsax-fico.com/?p=4958</id>
+        <link href="https://dynamicsax-fico.com/2023/03/15/dynamics-365-microsoft-sustainability-manager-part-3/"/>
+        <updated>2023-03-15T08:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Tenant Switcher in Power Apps Mobile]]></title>
+        <id>switch-directories-in-power-apps-mobile</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/switch-directories-in-power-apps-mobile/"/>
+        <updated>2023-03-15T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Projects can cross company boundaries. Users need to be able to access all the apps shared to them from any tenant on all of their devices. For these scenarios, Power Apps lets users share apps with guest users from other tenants. I’m happy to announce that now it is very easy for guest users to…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Dynamics One Platform - Dataverse C# Plugin for Dynamics 365 F&O]]></title>
         <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:6410362c7270a04f3c1ff7ae</id>
