@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-16T01:23:23.812Z</updated>
+    <updated>2023-03-17T01:21:49.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TechTalk: Call Center Operations - Dynamics 365 Commerce | March 8, 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c3646b02-8f4f-4a0a-8fd9-8be2ab89a604</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/techtalk-call-center-operations---dynamics-365-commerce-march-8-2023"/>
+        <updated>2023-03-16T17:34:00.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com/watch
+
+Presenters: 
+Pranav Kumar Kumar.Pranav@microsoft.com
+Meenu Laul meenulaul@microsoft.com
+
+~
+In Dynamics 365 Commerce, a call center is a type of channel that can be defined ...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Supply Chain Performance through Collaboration using Generative AI]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/03/16/optimizing-supply-chain-performance-through-collaboration-using-generative-ai/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/03/16/optimizing-supply-chain-performance-through-collaboration-using-generative-ai/"/>
+        <updated>2023-03-16T15:44:51.000Z</updated>
+        <summary type="html"><![CDATA[The advent of next-generation AI is ushering in a new era of heightened productivity and efficiency, spurring novel breakthroughs in the supply chain domain.
+The post Optimizing Supply Chain Performance through Collaboration using Generative AI appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Anupam Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot in Viva Sales available as thousands of customers adopt next-generation AI in Dynamics 365 Copilot and Power Platform]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/16/copilot-in-viva-sales-available-as-thousands-of-customers-adopt-next-generation-ai-in-dynamics-365-copilot-and-power-platform/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/16/copilot-in-viva-sales-available-as-thousands-of-customers-adopt-next-generation-ai-in-dynamics-365-copilot-and-power-platform/"/>
+        <updated>2023-03-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since first announcing new AI-powered experiences for Microsoft Viva Sales last month, we've given these capabilities a nameCopilot in Viva Salesand introduced new sales scenarios and updates. We want to ensure that salespeople feel empowered to focus on what matters, which is deeper engagements with customers. 
+The post Copilot in Viva Sales available as thousands of customers adopt next-generation AI in Dynamics 365 Copilot and Power Platform appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Lori Lamkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publicado ISV License Generator v0.6]]></title>
+        <id>https://ariste.info/?p=7037</id>
+        <link href="https://ariste.info/2023/03/publicado-isv-license-generator-v0-6/"/>
+        <updated>2023-03-16T09:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Ayer lancé una nueva versión de ISV License Generator con soporte completo para la función hash SHA-256 después de solucionar un problema con ella. Qué novedad hay en ISV License Generator? En esta nueva versión se ha eliminado el soporte para generar licencias de Dynamics 365 Finance and Operations utilizando la función hash SHA-1, y… Continue Reading Publicado ISV License Generator v0.6
+ariste.info Publicado ISV License Generator v0.6]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing a next-generation AI Copilot in Microsoft Power Apps that will transform low-code development]]></title>
+        <id>announcing-a-next-generation-ai-copilot-in-microsoft-power-apps-that-will-transform-low-code-development</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-a-next-generation-ai-copilot-in-microsoft-power-apps-that-will-transform-low-code-development/"/>
+        <updated>2023-03-16T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re announcing a next-generation AI Copilot in Microsoft Power Apps that will transform how we build and interact with software applications. With the power of large language models, we are advancing to the next step in the evolution of code abstraction—moving from custom code, to low-code, to natural language authoring where human and machine work side by side to build applications together.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Order Management (DOM) not working after data refresh]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0ec8d05b-7a3f-4e51-861c-7530681950fc</id>
+        <link href="https://community.dynamics.com/ax/b/axology/posts/distributed-order-management-dom-not-working-after-data-refresh"/>
+        <updated>2023-03-16T07:39:51.000Z</updated>
+        <summary type="html"><![CDATA[You’ve just refreshed data on your sandbox and now you can’t get DOM to work? 
+
+
+
+There’s DOM logs on your sales orders, but it looks like it drops out when it comes to applying any...(read more)]]></summary>
+        <author>
+            <name>S&amp;#248;ren Rasmussen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master company data sharing is back in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e8526953-6854-4cfa-ac61-8610fbbcf067</id>
+        <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/master-company-data-sharing-is-back-in-microsoft-dynamics-365-finance-and-operations"/>
+        <updated>2023-03-16T04:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Master company data sharing is back in Microsoft Dynamics 365 Finance and Operations
+it's as fresh as of today (March 15 2023), this feature enables sharing of data using a cross-company data...(read more)]]></summary>
+        <author>
+            <name>Rahul Mohta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The New Invoice Capture Feature for Dynamics 365 Finance]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:75d19fef-b1b1-4698-a2c0-56bc32bae439</id>
@@ -46,6 +131,17 @@ This video gives a short introduction to how it works and there is an end-to-end
         <summary type="html"><![CDATA[Projects can cross company boundaries. Users need to be able to access all the apps shared to them from any tenant on all of their devices. For these scenarios, Power Apps lets users share apps with guest users from other tenants. I’m happy to announce that now it is very easy for guest users to…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deliver personalized customer experiences with Copilot in Dynamics 365 Marketing and Customer Insights]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/14/deliver-personalized-customer-experiences-with-copilot-in-dynamics-365-marketing-and-customer-insights/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/14/deliver-personalized-customer-experiences-with-copilot-in-dynamics-365-marketing-and-customer-insights/"/>
+        <updated>2023-03-14T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[With Copilot in Microsoft Dynamics 365 Customer Insights and Dynamics 365 Marketing, marketers can now take advantage of the latest generative AI-powered tools to learn more about their customers, create targeted customer segments, and generate personalized content.
+The post Deliver personalized customer experiences with Copilot in Dynamics 365 Marketing and Customer Insights appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jim Nakashima and Ryan Jones</name>
         </author>
     </entry>
     <entry>
@@ -195,6 +291,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Raymond Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to mass deploy Dynamics 365 Warehouse Management – Mobile App]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/03/09/177987/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/03/09/177987/"/>
+        <updated>2023-03-09T09:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Automating the deployment and configuration of Warehouse Management can be more efficient for big-scale deployments if you have a lot of devices to manage. 
+The post How to mass deploy Dynamics 365 Warehouse Management – Mobile App appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Pavlo Datsiuk</name>
         </author>
     </entry>
     <entry>
@@ -1596,6 +1703,70 @@ The post Introducing warehouse-specific inventory transactions appeared first on
 The post How To Run A D365 Job In Production appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MB-310: Microsoft Dynamics 365 Finance Functional Consultant]]></title>
+        <id>https://nuxulu.com/2023-02-05-mb-310/</id>
+        <link href="https://nuxulu.com/2023-02-05-mb-310/"/>
+        <updated>2023-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MB-310: Microsoft Dynamics 365 Finance Functional Consultant
+Exam/Learning Path: https://docs.microsoft.com/certifications/exams/mb-310
+Learning Path
+Module
+Week
+
+
+
+
+Configure and use the general ledger in Dynamics 365 Finance
+Get started with Dynamics 365 Finance
+1
+
+
+
+Configure currencies in Dynamics 365 Finance
+2
+
+
+
+Create fiscal calendars, years, and periods in Dynamics 365 Finance
+3
+
+
+
+Configure chart of accounts in Dynamics 365 Finance
+4
+
+
+
+Configure ledgers and journals in Dynamics 365 Finance
+5
+
+
+
+Perform general ledger daily procedures in Dynamics 365 Finance
+6
+
+
+
+Intercompany accounting in Dynamics 365 Finance
+7
+
+
+
+Configure ledger allocations and accruals in Dynamics 365 Finance
+8
+
+
+
+Configure and perform periodic processes in Dynamics 365 Finance
+9
+
+
+Configure and use cash and b…]]></summary>
+        <author>
+            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>
@@ -16689,44 +16860,6 @@ We've seen a significant reduction in the number of downloads of the e-learning
         <summary type="html"><![CDATA[In my previous post I covered the use of the d365fo.tools to setup a NuGet source and to upload NuGet packages to an Azure DevOps artifact feed. In this post I want to show one way, how we can use the d365fo.tools to update the NuGet packages with the newest version available in the LCS […]]]></summary>
         <author>
             <name>Marijan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to print last 4 digits of the Credit Card on the Customer Receipt in POS]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3df8ea8d-b993-4d1f-a369-2525ca9a4909</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/how-to-print-last-4-digits-of-the-credit-card-on-the-customer-receipt-in-pos-1719454156"/>
-        <updated>2021-03-16T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[To print Credit card information on the Customer Receipt, perform the following steps
-
-Go to Retail and Commerce > Channel setup > POS setup > POS profile > Receipt profiles
-Select the Receipt profile you are using (Default for me)
-Select Customer’s credit card receipt (make a copy if you do not want to lose your Customer’s credit card receipt)
-The Receipt format should be set to “Do not print”
-
-Select Designer and log into the designer
- 
-In the Customer Credit Card Receipt, add the credit card fields you would like to print on the Customer receipt.  Delete all other fields.
-Unfortunately, you can only delete fields one at a time in the Receipt designer.
-**Note:  Card number partly hidden will display the last 4 digits of the credit card.
- 
-Save the Receipt format.
-Select the Select format tab
- 
-Change the Receipt format to the Customer Receipt (Mine is 1) and click OK
- 
-Select the Footer of the Customer Receipt.  Pull the Card Tender Details into the Footer of the layout
- 
-Save the Customer Receipt and close the Designer
-Run the 1090 (Register) job
-In POS sell a transaction and print the receipt.
-The fields that were added to the Customer Credit Card Receipt are printing based on the Card Tender Details field added to the Footer of the Customer Receipt.
-
-
-Disclaimer:  If you have more than one Credit Card payment, this will only print the first card details.  You will have to customize and loop though all the payments on the transaction to get multiple credit card details to print.
-Another option is to add EFT Message into the Header of the Credit Card Receipt
-Embed processor credit card receipts in customer receipts - Commerce | Dynamics 365 | Microsoft Docs]]></summary>
-        <author>
-            <name>DawnLanglie</name>
         </author>
     </entry>
 </feed>
