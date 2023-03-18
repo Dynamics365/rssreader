@@ -1885,6 +1885,26 @@
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a930f785-87a3-4d96-9a8e-df2c7d6c6cd8",
+          "author": "Lori Lamkin",
+          "description": "Since first announcing new AI-powered experiences for Microsoft Viva Sales last month, we've given these capabilities a nameCopilot in Viva Salesand introduced new sales scenarios and updates.\nAll of this is happening in conjunction with the introduction of Dynamics 365 Copilotthe world's-first AI copilot in both customer relationship management (CRM) platforms and finance applications enterprise resource planning (ERP). To date, tens of thousands of customers have used next-generation AI capabilities in Dynamics 365 Copilot and within Microsoft Power Platform. \nToday's debut of Microsoft 365 Copilot powers even more ways to unleash creativity, unlock productivity, and uplevel skills. For sellers, the seamless integration of Copilot across Microsoft 365 and Viva Sales (as well as AI-powere…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/copilot-in-viva-sales-available-as-thousands-of-customers-adopt-next-generation-ai-in-dynamics-365-copilot-and-power-platform",
+          "publishedOn": "2023-03-16T15:00:00.000Z",
+          "wordCount": 4681,
+          "title": "Copilot in Viva Sales available as thousands of customers adopt next-generation AI in Dynamics 365 Copilot and Power Platform",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a40d0fd0-20ef-42d9-9c6d-8061acc9b342",
+          "author": "Jim Nakashima and Ryan Jones",
+          "description": "It's the dawn of a new era in customer experience where AI is transforming the way businesses connect with their audiences. Microsoft is proud to be at the forefront of this shift, using Azure OpenAI Service to empower marketers with new levels of efficiency and effectiveness. With Copilot in Microsoft Dynamics 365 Marketing and Dynamics 365 Customer Insights, marketers can now take advantage of the latest next-generation AI-powered tools to learn more about their customers, create targeted customer segments, and generate personalized content. These cutting-edge features increase productivity that could have taken hours or weeks to produce, empowering anyone on your team to uncover new data insights and create high-quality email content.\nAt Microsoft, we believe every business should have …",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/deliver-personalized-customer-experiences-with-copilot-in-dynamics-365-marketing-and-customer-insights",
+          "publishedOn": "2023-03-14T17:15:00.000Z",
+          "wordCount": 4768,
+          "title": "Deliver personalized customer experiences with Copilot in Dynamics 365 Marketing and Customer Insights",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5b583dea-1fb9-4a57-8b05-a8d56a4fdebb",
           "author": "Jeff Comstock",
           "description": "We're entering the era of next-generation AI that is driving new levels of productivity and efficiency, unleashing new innovations in the customer service space. AI is profoundly changing how customers engage with businesses and how agents provide exceptional service to them.\nFrom a service perspective, customers expect fast, accurate answers to their questions, and personalized help when they contact a business. Meanwhile, businesses are under pressure to provide exceptional customer service with fewer resources. Legacy ways of integrating multiple-point solutions for customer service do not work. The time to embark on a digital transformation journey is now. Choosing the right AI-powered customer service solution for that journey, empowering customer service agents with AI, and reducing …",
@@ -1892,6 +1912,16 @@
           "publishedOn": "2023-03-10T16:00:00.000Z",
           "wordCount": 4757,
           "title": "Revolutionize customer service with next-generation AI",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d4e390b8-322c-4849-9fc4-72d920dd8e46",
+          "author": "Pavlo Datsiuk",
+          "description": "Automating the deployment and configuration of Warehouse Management can be more efficient for big-scale deployments if you have a lot of devices to manage. One solution for this is using a mobile device management (MDM) solution such as Microsoft Intune, but not limited to it. To learn general information about using Intune to add apps, refer to the guide Add apps to Microsoft Intune.\nMobile Device Management (MDM) Perquisites\nThis article provides a demonstration of the practical deployment with Intune. It is imperative to ensure the availability of the following resources:\n\nMicrosoft account, Google Account\nAzure Active Directory (Azure AD Premium P2 license)\nMicrosoft Endpoint Manager admin center (aka Intune website)\nCertificate connector\nPFXImport Powershell and Visual Studio 2022\nDed…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/how-to-mass-deploy-dynamics-365-warehouse-management-mobile-app",
+          "publishedOn": "2023-03-09T09:11:11.000Z",
+          "wordCount": 5044,
+          "title": "How to mass deploy Dynamics 365 Warehouse Management – Mobile App",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
         {
@@ -2737,16 +2767,6 @@
           "wordCount": 1037,
           "title": "d365fo.integrations – Auto refresh your data entity list",
           "imageUrl": "https://d365fostuff.files.wordpress.com/2021/03/devopsrefreshdone.png?w=1200"
-        },
-        {
-          "id": "http://d365fostuff.wordpress.com/?p=150",
-          "author": "Marijan",
-          "description": "In my previous post I covered the use of the d365fo.tools to setup a NuGet source and to upload NuGet packages to an Azure DevOps artifact feed. In this post I want to show one way, how we can use the d365fo.tools to update the NuGet packages with the newest version available in the LCS […]",
-          "link": "https://d365fostuff.wordpress.com/2021/03/17/d365fo-tools-publish-the-nuget-packages-for-the-azure-hosted-build-pipeline-pt-2/",
-          "publishedOn": "2021-03-17T20:48:01.000Z",
-          "wordCount": 1022,
-          "title": "d365fo.tools – Publish the NuGet packages for the Azure hosted build pipeline Pt. 2",
-          "imageUrl": "https://d365fostuff.files.wordpress.com/2021/03/nugetupdated.png?w=1200"
         }
       ]
     },
@@ -4453,6 +4473,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/17/introducing-new-asset-management-mobile-app-for-dynamics-365-supply-chain-management/",
+          "author": "Johan Hoffman",
+          "description": "We are thrilled to announce the public preview release of the Asset Management mobile app for Dynamics 365 Supply Chain Management.\nThe post Introducing New Asset Management Mobile App for Dynamics 365 Supply Chain Management appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/17/introducing-new-asset-management-mobile-app-for-dynamics-365-supply-chain-management/",
+          "publishedOn": "2023-03-17T08:20:06.000Z",
+          "wordCount": 2340,
+          "title": "Introducing New Asset Management Mobile App for Dynamics 365 Supply Chain Management",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/06/CLO22_GreenEnergyFarm_043-resized.png"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/16/optimizing-supply-chain-performance-through-collaboration-using-generative-ai/",
           "author": "Anupam Sharma",
@@ -6529,6 +6559,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "http://paragchapre.com/?p=2865",
+          "author": "Parag Chapre",
+          "description": "If you are planning to learn Power Platform and not getting resources, then it is your chance to learn Power Platform in just 30 days. On the internet/YouTube, you can find many resources, but Microsoft Cloud Advocates created a series which can be very helpful for the beginner or those who want to start their... Continue Reading →",
+          "link": "https://paragchapre.com/2023/03/17/learn-power-platform-in-30-days/",
+          "publishedOn": "2023-03-17T03:41:40.000Z",
+          "wordCount": 4144,
+          "title": "Learn Power Platform in 30 days",
+          "imageUrl": "https://paragchapre.files.wordpress.com/2023/03/add-a-heading.png?w=1200"
+        },
         {
           "id": "http://paragchapre.com/?p=2812",
           "author": "Parag Chapre",
@@ -9699,6 +9739,16 @@
       "feedUrl": "https://elearnd365.com/feed/",
       "siteUrl": "https://elearnd365.com",
       "articles": [
+        {
+          "id": "http://elearnd365.com/?p=655",
+          "author": "Sukrut Parab",
+          "description": "Exporting trial balance from Dynamics 365 for Finance and Operations is a common ask for consolidation purpose by third party software’s like blackline ,Hyperion etc. I have uploaded a code sample for generating report in csv format on my github page. The following steps would help you to configure this project and a successful test. […]",
+          "link": "https://elearnd365.com/2023/03/17/extracting-trial-balance-information-out-of-dynamics-365-for-finance-and-operations-for-consolidation-through-integration/",
+          "publishedOn": "2023-03-17T22:23:59.000Z",
+          "wordCount": 3050,
+          "title": "Extracting Trial balance information out of Dynamics 365 for Finance and Operations for consolidation through integration",
+          "imageUrl": "https://elearnd365.files.wordpress.com/2023/03/trial-balance.jpg"
+        },
         {
           "id": "http://elearnd365.com/?p=646",
           "author": "Sukrut Parab",

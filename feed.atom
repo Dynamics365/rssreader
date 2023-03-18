@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-17T01:21:49.514Z</updated>
+    <updated>2023-03-18T01:20:47.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Extracting Trial balance information out of Dynamics 365 for Finance and Operations for consolidation through integration]]></title>
+        <id>http://elearnd365.com/?p=655</id>
+        <link href="https://elearnd365.com/2023/03/17/extracting-trial-balance-information-out-of-dynamics-365-for-finance-and-operations-for-consolidation-through-integration/"/>
+        <updated>2023-03-17T22:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Exporting trial balance from Dynamics 365 for Finance and Operations is a common ask for consolidation purpose by third party software’s like blackline ,Hyperion etc. I have uploaded a code sample for generating report in csv format on my github page. The following steps would help you to configure this project and a successful test. […]]]></summary>
+        <author>
+            <name>Sukrut Parab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing New Asset Management Mobile App for Dynamics 365 Supply Chain Management]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/03/17/introducing-new-asset-management-mobile-app-for-dynamics-365-supply-chain-management/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/03/17/introducing-new-asset-management-mobile-app-for-dynamics-365-supply-chain-management/"/>
+        <updated>2023-03-17T08:20:06.000Z</updated>
+        <summary type="html"><![CDATA[We are thrilled to announce the public preview release of the Asset Management mobile app for Dynamics 365 Supply Chain Management.
+The post Introducing New Asset Management Mobile App for Dynamics 365 Supply Chain Management appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Johan Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Power Platform in 30 days]]></title>
+        <id>http://paragchapre.com/?p=2865</id>
+        <link href="https://paragchapre.com/2023/03/17/learn-power-platform-in-30-days/"/>
+        <updated>2023-03-17T03:41:40.000Z</updated>
+        <summary type="html"><![CDATA[If you are planning to learn Power Platform and not getting resources, then it is your chance to learn Power Platform in just 30 days. On the internet/YouTube, you can find many resources, but Microsoft Cloud Advocates created a series which can be very helpful for the beginner or those who want to start their... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TechTalk: Call Center Operations - Dynamics 365 Commerce | March 8, 2023]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c3646b02-8f4f-4a0a-8fd9-8be2ab89a604</id>
@@ -32,6 +63,18 @@ In Dynamics 365 Commerce, a call center is a type of channel that can be defined
 The post Optimizing Supply Chain Performance through Collaboration using Generative AI appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Anupam Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot in Viva Sales available as thousands of customers adopt next-generation AI in Dynamics 365 Copilot and Power Platform]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a930f785-87a3-4d96-9a8e-df2c7d6c6cd8</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/copilot-in-viva-sales-available-as-thousands-of-customers-adopt-next-generation-ai-in-dynamics-365-copilot-and-power-platform"/>
+        <updated>2023-03-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since first announcing new AI-powered experiences for Microsoft Viva Sales last month, we've given these capabilities a nameCopilot in Viva Salesand introduced new sales scenarios and updates.
+All of this is happening in conjunction with the introduction of Dynamics 365 Copilotthe world's-first AI copilot in both customer relationship management (CRM) platforms and finance applications enterprise resource planning (ERP). To date, tens of thousands of customers have used next-generation AI capabilities in Dynamics 365 Copilot and within Microsoft Power Platform. 
+Today's debut of Microsoft 365 Copilot powers even more ways to unleash creativity, unlock productivity, and uplevel skills. For sellers, the seamless integration of Copilot across Microsoft 365 and Viva Sales (as well as AI-powere…]]></summary>
+        <author>
+            <name>Lori Lamkin</name>
         </author>
     </entry>
     <entry>
@@ -131,6 +174,17 @@ This video gives a short introduction to how it works and there is an end-to-end
         <summary type="html"><![CDATA[Projects can cross company boundaries. Users need to be able to access all the apps shared to them from any tenant on all of their devices. For these scenarios, Power Apps lets users share apps with guest users from other tenants. I’m happy to announce that now it is very easy for guest users to…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deliver personalized customer experiences with Copilot in Dynamics 365 Marketing and Customer Insights]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a40d0fd0-20ef-42d9-9c6d-8061acc9b342</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/deliver-personalized-customer-experiences-with-copilot-in-dynamics-365-marketing-and-customer-insights"/>
+        <updated>2023-03-14T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[It's the dawn of a new era in customer experience where AI is transforming the way businesses connect with their audiences. Microsoft is proud to be at the forefront of this shift, using Azure OpenAI Service to empower marketers with new levels of efficiency and effectiveness. With Copilot in Microsoft Dynamics 365 Marketing and Dynamics 365 Customer Insights, marketers can now take advantage of the latest next-generation AI-powered tools to learn more about their customers, create targeted customer segments, and generate personalized content. These cutting-edge features increase productivity that could have taken hours or weeks to produce, empowering anyone on your team to uncover new data insights and create high-quality email content.
+At Microsoft, we believe every business should have …]]></summary>
+        <author>
+            <name>Jim Nakashima and Ryan Jones</name>
         </author>
     </entry>
     <entry>
@@ -291,6 +345,25 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Raymond Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to mass deploy Dynamics 365 Warehouse Management – Mobile App]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d4e390b8-322c-4849-9fc4-72d920dd8e46</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/how-to-mass-deploy-dynamics-365-warehouse-management-mobile-app"/>
+        <updated>2023-03-09T09:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Automating the deployment and configuration of Warehouse Management can be more efficient for big-scale deployments if you have a lot of devices to manage. One solution for this is using a mobile device management (MDM) solution such as Microsoft Intune, but not limited to it. To learn general information about using Intune to add apps, refer to the guide Add apps to Microsoft Intune.
+Mobile Device Management (MDM) Perquisites
+This article provides a demonstration of the practical deployment with Intune. It is imperative to ensure the availability of the following resources:
+
+Microsoft account, Google Account
+Azure Active Directory (Azure AD Premium P2 license)
+Microsoft Endpoint Manager admin center (aka Intune website)
+Certificate connector
+PFXImport Powershell and Visual Studio 2022
+Ded…]]></summary>
+        <author>
+            <name>Pavlo Datsiuk</name>
         </author>
     </entry>
     <entry>
@@ -16848,16 +16921,6 @@ We've seen a significant reduction in the number of downloads of the e-learning
         <link href="https://d365fostuff.wordpress.com/2021/03/31/d365fo-integrations-auto-refresh-your-data-entity-list/"/>
         <updated>2021-03-31T20:49:17.000Z</updated>
         <summary type="html"><![CDATA[Meet the little brother of the d365fo.tools – d365fo.integrations. To be honest I wasn’t fully aware about this one until @splaxi mentioned them. But after a quick look into this module I’m more than excited to share this. Ever wondered why you need to manually refresh the data entity list in your Tier-2 environment after […]]]></summary>
-        <author>
-            <name>Marijan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d365fo.tools – Publish the NuGet packages for the Azure hosted build pipeline Pt. 2]]></title>
-        <id>http://d365fostuff.wordpress.com/?p=150</id>
-        <link href="https://d365fostuff.wordpress.com/2021/03/17/d365fo-tools-publish-the-nuget-packages-for-the-azure-hosted-build-pipeline-pt-2/"/>
-        <updated>2021-03-17T20:48:01.000Z</updated>
-        <summary type="html"><![CDATA[In my previous post I covered the use of the d365fo.tools to setup a NuGet source and to upload NuGet packages to an Azure DevOps artifact feed. In this post I want to show one way, how we can use the d365fo.tools to update the NuGet packages with the newest version available in the LCS […]]]></summary>
         <author>
             <name>Marijan</name>
         </author>
