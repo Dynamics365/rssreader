@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-18T01:20:47.366Z</updated>
+    <updated>2023-03-19T01:35:58.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -14,6 +14,20 @@
         <summary type="html"><![CDATA[Exporting trial balance from Dynamics 365 for Finance and Operations is a common ask for consolidation purpose by third party software’s like blackline ,Hyperion etc. I have uploaded a code sample for generating report in csv format on my github page. The following steps would help you to configure this project and a successful test. […]]]></summary>
         <author>
             <name>Sukrut Parab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing New Asset Management Mobile App for Dynamics 365 Supply Chain Management]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ed4ccfa9-65e9-45e8-9c6b-90f948494b6e</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/introducing-new-asset-management-mobile-app-for-dynamics-365-supply-chain-management"/>
+        <updated>2023-03-17T08:20:06.000Z</updated>
+        <summary type="html"><![CDATA[We are thrilled to announce the public preview release of the Asset Management mobile app for Dynamics 365 Supply Chain Management. The app is available for all commonly used mobile platforms, devices, and form factors.
+The app enables maintenance workers to review their assigned jobs, mark tasks as complete, enter notes, and log the time and materials consumed. Other staff can use the app to quickly file maintenance requests by scanning a barcode, entering notes, and submitting photos.
+
+The Asset Management mobile app in action
+Jody, a production manager at Contoso Inc., is preparing a presentation and notices that the monitor cable in the meeting room is broken. She immediately launches the Asset Management mobile app so she can report this incident. She scans the bar code on the monitor…]]></summary>
+        <author>
+            <name>Johan Hoffman</name>
         </author>
     </entry>
     <entry>
@@ -52,6 +66,19 @@ Meenu Laul meenulaul@microsoft.com
 In Dynamics 365 Commerce, a call center is a type of channel that can be defined ...(read more)]]></summary>
         <author>
             <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Supply Chain Performance through Collaboration using Generative AI]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:52c91335-96ff-4d1a-8b7d-3fd84886edfd</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/optimizing-supply-chain-performance-through-collaboration-using-generative-ai"/>
+        <updated>2023-03-16T15:44:51.000Z</updated>
+        <summary type="html"><![CDATA[The advent of next-generation Artificial Intelligence(AI) is ushering in a new era of heightened productivity and efficiency. This is spurring novel breakthroughs in the supply chain domain. With AI’s transformative influence, the conventional ways of operations managers collaborating with suppliers, vendors, and third-party service providers are being revamped to streamline the entire process.
+By collaborating with suppliers and utilizing state-of-the-art AI, Supply Chain managers can enhance supply chain performance and avert logistics disruptions triggered by diverse external factors. 
+We're excited to launch Copilot in Microsoft Supply Chain Center,  which harnesses generative AI to assist Supply Chain managers in real-time communication with suppliers regarding specific news.
+Copilot …]]></summary>
+        <author>
+            <name>Anupam Sharma</name>
         </author>
     </entry>
     <entry>
