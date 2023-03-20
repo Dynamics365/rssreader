@@ -5288,6 +5288,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2392",
+          "author": "Saurabh Bharti",
+          "description": "Over time, the inventory transactions table (InventTrans) will continue to grow and consume more database space. Therefore, queries that are made against the table will gradually become slower. This article describes how you can use the Inventory transactions archive feature to archive data about inventory transactions to help improve system performance. Only financially updated inventory transactions can […]",
+          "link": "https://exploredynamics365.home.blog/2023/03/19/archive-inventory-transactions-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-03-19T10:59:23.000Z",
+          "wordCount": 2756,
+          "title": "Archive inventory transactions in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/03/1-2.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2383",
           "author": "Saurabh Bharti",
           "description": "Creating credit notes in accounts payable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, one of the request from payable department is to have the reference of original invoice against which credit note is created. I have written same feature blog for […]",
@@ -5505,6 +5515,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2392",
+          "author": "Saurabh Bharti",
+          "description": "Over time, the inventory transactions table (InventTrans) will continue to grow and consume more database space. Therefore, queries that are made against the table will gradually become slower. This article describes how you can use the Inventory transactions archive feature to archive data about inventory transactions to help improve system performance. Only financially updated inventory transactions can […]",
+          "link": "https://exploredynamics365.home.blog/2023/03/19/archive-inventory-transactions-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-03-19T10:59:23.000Z",
+          "wordCount": 2756,
+          "title": "Archive inventory transactions in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/03/1-2.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2383",
           "author": "Saurabh Bharti",
           "description": "Creating credit notes in accounts payable against posted invoices is the normal activity and it can be due to multiple reasons like returns, wrong entry etc…. So, one of the request from payable department is to have the reference of original invoice against which credit note is created. I have written same feature blog for […]",
@@ -5721,6 +5741,16 @@
       "feedUrl": "https://d365snippets.com/feeds/posts/default",
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
+        {
+          "id": "https://www.d365snippets.com/2023/03/field-fixed-relation-in-d365-with-example.html",
+          "author": null,
+          "description": "In the previous article, I already explained the normal relations in d365 finance and operations. In this article I will explain field fixed relation in D365 is f&o. A table relation associates two tables that contain related information. Usually, the primary key field of one table appears as a foreign key field of the related table. The table with the primary key is called the parent table. The table with the foreign key is called the child table.\n\n\nA relation on a table can restrict the rows in the table or restrict the values that can be in a particular field. A common use of relations is to associate rows in one table with corresponding rows in another table. Relations enable many forms to display data from multiple tables. Some relations restrict the rows in the table by testing the v…",
+          "link": "https://www.d365snippets.com/2023/03/field-fixed-relation-in-d365-with-example.html",
+          "publishedOn": "2023-03-19T19:26:00.011Z",
+          "wordCount": 10985,
+          "title": "Field Fixed Relation in D365 with Example",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyZG0LCbfW39j84VtlYgKKkG9NxTvyEnsoIwz7dywHRfYzOItb-b_tHXdpCMBKKQn2vBsYTgINUkqElyUoky7ijEPV2w4lI9ckhvyP5SSbHjXIpIyufek1hJEmepUcxF2tJrQKDK8n52E47H-UPDNX2yR4bT2ZgOcXVDfEy08_E9pGDKduv9W1PbJO/s16000/Screenshot_1.jpg"
+        },
         {
           "id": "https://www.d365snippets.com/2023/03/normal-relation-in-d365-with-example.html",
           "author": null,
@@ -7010,6 +7040,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=4967",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/03/19/dynamics-365-microsoft-sustainability-manager-by-the-way/",
+          "publishedOn": "2023-03-19T06:27:38.000Z",
+          "wordCount": 2699,
+          "title": "Dynamics 365 & Microsoft Sustainability Manager … by the way",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/02/4blankpicture-en.png"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=4958",
           "author": "Ludwig Reinhard",

@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-19T01:35:58.879Z</updated>
+    <updated>2023-03-20T01:25:00.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Field Fixed Relation in D365 with Example]]></title>
+        <id>https://www.d365snippets.com/2023/03/field-fixed-relation-in-d365-with-example.html</id>
+        <link href="https://www.d365snippets.com/2023/03/field-fixed-relation-in-d365-with-example.html"/>
+        <updated>2023-03-19T19:26:00.011Z</updated>
+        <summary type="html"><![CDATA[In the previous article, I already explained the normal relations in d365 finance and operations. In this article I will explain field fixed relation in D365 is f&o. A table relation associates two tables that contain related information. Usually, the primary key field of one table appears as a foreign key field of the related table. The table with the primary key is called the parent table. The table with the foreign key is called the child table.
+
+
+A relation on a table can restrict the rows in the table or restrict the values that can be in a particular field. A common use of relations is to associate rows in one table with corresponding rows in another table. Relations enable many forms to display data from multiple tables. Some relations restrict the rows in the table by testing the v…]]></summary>
+        <author>
+            <name>D365 Snippets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archive inventory transactions in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2392</id>
+        <link href="https://exploredynamics365.home.blog/2023/03/19/archive-inventory-transactions-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-03-19T10:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Over time, the inventory transactions table (InventTrans) will continue to grow and consume more database space. Therefore, queries that are made against the table will gradually become slower. This article describes how you can use the Inventory transactions archive feature to archive data about inventory transactions to help improve system performance. Only financially updated inventory transactions can […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archive inventory transactions in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2392</id>
+        <link href="https://exploredynamics365.home.blog/2023/03/19/archive-inventory-transactions-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-03-19T10:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Over time, the inventory transactions table (InventTrans) will continue to grow and consume more database space. Therefore, queries that are made against the table will gradually become slower. This article describes how you can use the Inventory transactions archive feature to archive data about inventory transactions to help improve system performance. Only financially updated inventory transactions can […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 & Microsoft Sustainability Manager … by the way]]></title>
+        <id>http://dynamicsax-fico.com/?p=4967</id>
+        <link href="https://dynamicsax-fico.com/2023/03/19/dynamics-365-microsoft-sustainability-manager-by-the-way/"/>
+        <updated>2023-03-19T06:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Extracting Trial balance information out of Dynamics 365 for Finance and Operations for consolidation through integration]]></title>
         <id>http://elearnd365.com/?p=655</id>
