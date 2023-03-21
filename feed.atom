@@ -2,10 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-20T01:25:00.448Z</updated>
+    <updated>2023-03-21T01:17:57.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wrong packing slip (delivery note) is printed for sales order]]></title>
+        <id>1860</id>
+        <link href="http://daxonline.org/1860-wrong-packing-slip-delivery-note-is-printed-for-sales-order.html"/>
+        <updated>2023-03-20T10:29:04.000Z</updated>
+        <summary type="html"><![CDATA[There is an error in standard SalesPackingSlipDP class:
+    protected SalesPackingSlipHeaderTmp createReportData()
+    {
+        this.initializeReportData();
+
+        custPackingSlipVersion  = custPackingSlipVersion::find(this.parmPackingSlipContract().parmRecordId());
+        custPackingSlipJour     = custPackingSlipJour::findRecId(custPackingSlipVersion.custPackingSlipJour);
+        
+        return this.createSalesPackingSlip();
+    }
+Regardless of which table record RecId report contract contains CustPackingSlipVersion record is selected. Even though the same class contains the following method:
+    protected CustPackingSlipJourRecId retrieveJournalRecId(SalesPackingSlipContract _salesPackingSlipContract)
+    {
+        RecId                       recId = _salesPackingSlipContract.parmRe…]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try the new Power Fx Formula Bar in Power Apps Studio]]></title>
+        <id>try-the-new-power-fx-formula-bar-in-power-apps-studio</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/try-the-new-power-fx-formula-bar-in-power-apps-studio/"/>
+        <updated>2023-03-20T10:27:06.000Z</updated>
+        <summary type="html"><![CDATA[A new Power Fx editing experience Today we are announcing a new Power Fx formula editing experience in Power Apps Studio.  The new formula editor is available an experimental feature that we encourage you to turn on in your apps and try out!  The new editor is based on the powerful Monaco shared code editor…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New: Request a Power Apps premium license from org admins]]></title>
+        <id>powerapps-request-license</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/powerapps-request-license/"/>
+        <updated>2023-03-20T10:18:03.000Z</updated>
+        <summary type="html"><![CDATA[Power Apps is excited to share that users can now request a license from their admin – directly in product! If a user is trying to run an app that requires a license, they will see the option to ‘Request a license’, in addition to the buy a license or start a trial option (if…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Releasing the February Update for the  Developer Tools (Power Platform CLI)]]></title>
+        <id>releasing-the-february-update-for-the-developer-tools-power-platform-cli</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/releasing-the-february-update-for-the-developer-tools-power-platform-cli/"/>
+        <updated>2023-03-20T07:14:16.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to finally release our February update for the Power Platform CLI. For those of you who are new, our pattern has been that we release an update for the work done in the last month, in the current month. Usually, we each include some new capabilities, along with the usual fixes that…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Entity refresh performance improvements]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ec35634c-3f90-4c74-bf5d-aae544beecea</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/data-entity-refresh-performance-improvements"/>
+        <updated>2023-03-19T22:01:21.000Z</updated>
+        <summary type="html"><![CDATA[If we refresh the data entities due to changes to our metadata, it has been taking a while before. Microsoft tried to address this by moving the process out to run in a batch job, but there are things...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BACPAC import failure fix]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ce7b8035-d104-4bfc-bd3c-3be9c7beda38</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/bacpac-import-failure-fix"/>
+        <updated>2023-03-19T21:44:09.000Z</updated>
+        <summary type="html"><![CDATA[It is a common task to move databases between a Microsoft-managed environment and a self-service machine. From Azure SQL we can only take a BACPAC export, which needs to be imported/converted into Mic...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsMinds 2023 conference speaker]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e456c9e1-27b7-47bf-978b-53df4f07f231</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/dynamicsminds-2023-conference-speaker"/>
+        <updated>2023-03-19T21:20:31.000Z</updated>
+        <summary type="html"><![CDATA[I am happy to announce that I have been selected as a DynamicsMinds 2023 conference speaker. It is going to be one of the biggest events for Business Applications in Europe, with dozens of Microsoft p...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is embracing AI]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d0b7bd76-c55b-4ab1-8032-267096951a43</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/microsoft-is-embracing-ai"/>
+        <updated>2023-03-19T21:07:07.000Z</updated>
+        <summary type="html"><![CDATA[It has been no secret that Microsoft wanted to make something extraordinary by investing $1-billion in the OpenAI company. This was a message to the world that Microsoft is embracing AI. And in the pa...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-service VM is slow when getting latest changes]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ef836311-f50b-4324-8819-20174303e19a</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/self-service-vm-is-slow-when-getting-latest-changes"/>
+        <updated>2023-03-19T19:40:57.000Z</updated>
+        <summary type="html"><![CDATA[We have  deployed a cloud-hosted environment in our Azure subscription which is of type Build/Test. When we wanted to remote in and use Visual Studio Team Explorer, we have noticed that the self-servi...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DMF TransferStatus to check entity processing]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e415889a-46f6-4d7b-acec-186fd9389472</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/dmf-transferstatus-to-check-entity-processing"/>
+        <updated>2023-03-19T19:30:32.000Z</updated>
+        <summary type="html"><![CDATA[When we work with a Data Entity in D365FO, it can get tricky to track how transfers are going and how much is left. Here is a quick SQL snippet to query staging tables to figure out DMF TransferStatus...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Field Fixed Relation in D365 with Example]]></title>
         <id>https://www.d365snippets.com/2023/03/field-fixed-relation-in-d365-with-example.html</id>
@@ -3940,6 +4053,16 @@ The Canada general availability launch also integrates Power Virtual Agents. Sub
 The post Customer Service voice support channel launches in Canada  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Varsha Nandula</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Career day speaker at Mensa HungarIQa]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3cfa4dd4-92b4-4c89-84d2-dba002b95aa0</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/career-day-speaker-at-mensa-hungariqa"/>
+        <updated>2023-01-05T18:26:19.000Z</updated>
+        <summary type="html"><![CDATA[The Mensa high IQ society in Hungary has started a series of sessions dedicated for showing the various IT professions in detail on a career day. As a proud member of the society I have the pleasure t...(read more)]]></summary>
+        <author>
+            <name>Vilmos Kintera</name>
         </author>
     </entry>
     <entry>

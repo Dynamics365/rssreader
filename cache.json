@@ -4307,6 +4307,16 @@
       "siteUrl": "http://daxonline.org/",
       "articles": [
         {
+          "id": "1860",
+          "author": "Vasiliy Kovalenko",
+          "description": "There is an error in standard SalesPackingSlipDP class:\n    protected SalesPackingSlipHeaderTmp createReportData()\n    {\n        this.initializeReportData();\n\n        custPackingSlipVersion  = custPackingSlipVersion::find(this.parmPackingSlipContract().parmRecordId());\n        custPackingSlipJour     = custPackingSlipJour::findRecId(custPackingSlipVersion.custPackingSlipJour);\n        \n        return this.createSalesPackingSlip();\n    }\nRegardless of which table record RecId report contract contains CustPackingSlipVersion record is selected. Even though the same class contains the following method:\n    protected CustPackingSlipJourRecId retrieveJournalRecId(SalesPackingSlipContract _salesPackingSlipContract)\n    {\n        RecId                       recId = _salesPackingSlipContract.parmRe…",
+          "link": "http://daxonline.org/1860-wrong-packing-slip-delivery-note-is-printed-for-sales-order.html",
+          "publishedOn": "2023-03-20T10:29:04.000Z",
+          "wordCount": 386,
+          "title": "Wrong packing slip (delivery note) is printed for sales order",
+          "imageUrl": null
+        },
+        {
           "id": "1844",
           "author": "Vasiliy Kovalenko",
           "description": "Upload file and process with RunBaseBatch framework\n\n\n\n/// <summary>\n/// Class to delete bogus online refund records in VKOnlineRefund table\n/// </summary>\nclass VKDeleteOnlineRefund extends RunBaseBatch implements BatchRetryable\n{\n    DialogRunbase   dialog;\n\n    Filename            filename;\n    private str         availableTypes = '.csv';\n    private const str   OkButtonName   = 'OkButton';\n    private const str   FileUploadName = 'FileUpload';\n    str                 textFile;\n\n    Set                 set = new Set(Types::Record);\n    SetEnumerator       setEnumerator;\n\n    int                    fileLineNumber;\n    container           currentLine;\n    container            storageResult;\n\n    #define.CurrentVersion(1)\n    #localmacro.CurrentList\n        filename,\n        storageResult\n…",
@@ -8010,6 +8020,66 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ec35634c-3f90-4c74-bf5d-aae544beecea",
+          "author": "Vilmos Kintera",
+          "description": "If we refresh the data entities due to changes to our metadata, it has been taking a while before. Microsoft tried to address this by moving the process out to run in a batch job, but there are things...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/data-entity-refresh-performance-improvements",
+          "publishedOn": "2023-03-19T22:01:21.000Z",
+          "wordCount": 4004,
+          "title": "Data Entity refresh performance improvements",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ce7b8035-d104-4bfc-bd3c-3be9c7beda38",
+          "author": "Vilmos Kintera",
+          "description": "It is a common task to move databases between a Microsoft-managed environment and a self-service machine. From Azure SQL we can only take a BACPAC export, which needs to be imported/converted into Mic...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/bacpac-import-failure-fix",
+          "publishedOn": "2023-03-19T21:44:09.000Z",
+          "wordCount": 3829,
+          "title": "BACPAC import failure fix",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e456c9e1-27b7-47bf-978b-53df4f07f231",
+          "author": "Vilmos Kintera",
+          "description": "I am happy to announce that I have been selected as a DynamicsMinds 2023 conference speaker. It is going to be one of the biggest events for Business Applications in Europe, with dozens of Microsoft p...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/dynamicsminds-2023-conference-speaker",
+          "publishedOn": "2023-03-19T21:20:31.000Z",
+          "wordCount": 3784,
+          "title": "DynamicsMinds 2023 conference speaker",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d0b7bd76-c55b-4ab1-8032-267096951a43",
+          "author": "Vilmos Kintera",
+          "description": "It has been no secret that Microsoft wanted to make something extraordinary by investing $1-billion in the OpenAI company. This was a message to the world that Microsoft is embracing AI. And in the pa...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/microsoft-is-embracing-ai",
+          "publishedOn": "2023-03-19T21:07:07.000Z",
+          "wordCount": 3863,
+          "title": "Microsoft is embracing AI",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ef836311-f50b-4324-8819-20174303e19a",
+          "author": "Vilmos Kintera",
+          "description": "We have  deployed a cloud-hosted environment in our Azure subscription which is of type Build/Test. When we wanted to remote in and use Visual Studio Team Explorer, we have noticed that the self-servi...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/self-service-vm-is-slow-when-getting-latest-changes",
+          "publishedOn": "2023-03-19T19:40:57.000Z",
+          "wordCount": 3758,
+          "title": "Self-service VM is slow when getting latest changes",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e415889a-46f6-4d7b-acec-186fd9389472",
+          "author": "Vilmos Kintera",
+          "description": "When we work with a Data Entity in D365FO, it can get tricky to track how transfers are going and how much is left. Here is a quick SQL snippet to query staging tables to figure out DMF TransferStatus...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/dmf-transferstatus-to-check-entity-processing",
+          "publishedOn": "2023-03-19T19:30:32.000Z",
+          "wordCount": 3765,
+          "title": "DMF TransferStatus to check entity processing",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4f7e7dac-ba83-4480-ad40-b6fced487f64",
           "author": "Vilmos Kintera",
           "description": "It has been a long time since we could meet in person due to the Covid lockdown. I am happy to announce that we are going to have our D365FO Meetup at Microsoft headquarters in Graphisoft park, Budape...(read more)",
@@ -8017,6 +8087,16 @@
           "publishedOn": "2023-02-13T08:46:11.000Z",
           "wordCount": 3811,
           "title": "D365FO Meetup, 2023 February, Budapest",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3cfa4dd4-92b4-4c89-84d2-dba002b95aa0",
+          "author": "Vilmos Kintera",
+          "description": "The Mensa high IQ society in Hungary has started a series of sessions dedicated for showing the various IT professions in detail on a career day. As a proud member of the society I have the pleasure t...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/daxrunbase/posts/career-day-speaker-at-mensa-hungariqa",
+          "publishedOn": "2023-01-05T18:26:19.000Z",
+          "wordCount": 3886,
+          "title": "Career day speaker at Mensa HungarIQa",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
         {
@@ -10500,6 +10580,36 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "try-the-new-power-fx-formula-bar-in-power-apps-studio",
+          "author": null,
+          "description": "A new Power Fx editing experience Today we are announcing a new Power Fx formula editing experience in Power Apps Studio.  The new formula editor is available an experimental feature that we encourage you to turn on in your apps and try out!  The new editor is based on the powerful Monaco shared code editor…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/try-the-new-power-fx-formula-bar-in-power-apps-studio/",
+          "publishedOn": "2023-03-20T10:27:06.000Z",
+          "wordCount": 2214,
+          "title": "Try the new Power Fx Formula Bar in Power Apps Studio",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "powerapps-request-license",
+          "author": null,
+          "description": "Power Apps is excited to share that users can now request a license from their admin – directly in product! If a user is trying to run an app that requires a license, they will see the option to ‘Request a license’, in addition to the buy a license or start a trial option (if…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/powerapps-request-license/",
+          "publishedOn": "2023-03-20T10:18:03.000Z",
+          "wordCount": 1698,
+          "title": "New: Request a Power Apps premium license from org admins",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "releasing-the-february-update-for-the-developer-tools-power-platform-cli",
+          "author": null,
+          "description": "We are happy to finally release our February update for the Power Platform CLI. For those of you who are new, our pattern has been that we release an update for the work done in the last month, in the current month. Usually, we each include some new capabilities, along with the usual fixes that…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/releasing-the-february-update-for-the-developer-tools-power-platform-cli/",
+          "publishedOn": "2023-03-20T07:14:16.000Z",
+          "wordCount": 1980,
+          "title": "Releasing the February Update for the  Developer Tools (Power Platform CLI)",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "announcing-a-next-generation-ai-copilot-in-microsoft-power-apps-that-will-transform-low-code-development",
           "author": null,
