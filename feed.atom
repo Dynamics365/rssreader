@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-21T01:17:57.379Z</updated>
+    <updated>2023-03-22T01:17:50.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Expense Deferrals [Purchase accruals] with Invoice journal [Non PO] using subscription billing in Microsoft Dynamics 365 finance and operations: Part-7]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2406</id>
+        <link href="https://exploredynamics365.home.blog/2023/03/21/expense-deferrals-purchase-accruals-with-invoice-journal-non-po-using-subscription-billing-in-microsoft-dynamics-365-finance-and-operations-part-7/"/>
+        <updated>2023-03-21T11:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Managing purchase accruals has been a difficult task in Microsoft dynamics though we have accrual scheme but that doesn’t provide better reporting and control over accrual schedule. Now this has been resolved using the new module subscription billing and in this blog I am going to show you how we can manage purchase accruals in […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expense Deferrals [Purchase accruals] with Invoice journal [Non PO] using subscription billing in Microsoft Dynamics 365 finance and operations: Part-7]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2406</id>
+        <link href="https://exploredynamics365.home.blog/2023/03/21/expense-deferrals-purchase-accruals-with-invoice-journal-non-po-using-subscription-billing-in-microsoft-dynamics-365-finance-and-operations-part-7/"/>
+        <updated>2023-03-21T11:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Managing purchase accruals has been a difficult task in Microsoft dynamics though we have accrual scheme but that doesn’t provide better reporting and control over accrual schedule. Now this has been resolved using the new module subscription billing and in this blog I am going to show you how we can manage purchase accruals in […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now in preview: CoE Starter Kit backed by data from self-serve analytics data export]]></title>
+        <id>now-in-preview-coe-starter-kit-backed-by-data-from-self-serve-analytics-data-export</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/now-in-preview-coe-starter-kit-backed-by-data-from-self-serve-analytics-data-export/"/>
+        <updated>2023-03-21T08:17:41.000Z</updated>
+        <summary type="html"><![CDATA[In 2019, we launched the Center of Excellence (CoE) Starter Kit – a set of templates that are designed to help you get started with developing a strategy for adopting, maintaining and supporting Microsoft Power Platform, with a focus on Power Apps and Power Automate. In the past three years we’ve continued to evolve and innovate as we learn from our customers. Today we’re excited to announce that the CoE Starter Kit can now use data provided by self-serve analytics as a foundation for inventory and telemetry, enabling rich insights built for scale.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we can use GPT-4 to continually improve AI models in Dynamics 365 and Power Platform]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bfd722ea-3109-44a2-815c-af41f3a933b0</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/how-we-can-use-gpt-4-to-continually-improve-ai-models-in-dynamics-365-and-power-platform"/>
+        <updated>2023-03-20T17:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Across Dynamics 365, Power Platform, and Viva Sales, we've introduced, and will continue delivering, a cascade of AI capabilities to help businesses and individuals achieve more. Earlier this month, we announced Dynamics 365 Copilot, a collaboration with OpenAI that uses large language models to provide AI-powered assistance across business functions. For instance, a smart news insights capability for Microsoft Supply Chain Platform alerts warehouse and logistics professionals to external events, such as weather or geo-political activities, that might trigger a disruptionand then proactively helps them plan their mitigation with Copilot-powered content. 
+GPT-4 will bring more powerful capabilities to Microsoft business applications
+The Azure OpenAI service uses large-scale, generative mode…]]></summary>
+        <author>
+            <name>Walter Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we can use GPT-4 to continually improve AI models in Dynamics 365 and Power Platform]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/03/20/how-we-can-use-gpt-4-to-continually-improve-ai-models-in-dynamics-365-and-power-platform/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/03/20/how-we-can-use-gpt-4-to-continually-improve-ai-models-in-dynamics-365-and-power-platform/"/>
+        <updated>2023-03-20T17:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Across Dynamics 365, Power Platform, and Viva Sales, we've introduced, and will continue delivering, a cascade of AI capabilities to help businesses and individuals achieve more.
+The post How we can use GPT-4 to continually improve AI models in Dynamics 365 and Power Platform appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Walter Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Finance and Operations extends out-of-the-box country coverage in Latin America]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bcfd8f6a-fd0d-4cde-8a4f-5f0b37db6d81</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/dynamics-365-finance-and-operations-extends-out-of-the-box-country-coverage-in-latin-america"/>
+        <updated>2023-03-20T17:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Our customers run Dynamics 365 Finance and Operations applications globally and must meet multiple tax compliance and other regulatory and local business practice requirements (we call them localizations). These requirements are complex and change frequently, especially in many countries within Latin America (LATAM).
+As a part of our continuous commitment to customers and partners and following our strategy of expanding the out-of-the-box country coverage, in 2023 release wave 1, we will ship localizations for seven additional LATAM countries: Chile, Colombia, Costa Rica, Nicaragua, Panama, Paraguay, Uruguay.
+Microsoft localizations for these new countries were built in collaboration with Finnie, S.A., an affiliate of Artware SRL based on their LATAM localization solution. To better align …]]></summary>
+        <author>
+            <name>Mikhail Filatov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Finance and Operations extends out-of-the-box country coverage in Latin America]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/03/20/dynamics-365-finance-and-operations-extends-out-of-the-box-country-coverage-in-latin-america/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/03/20/dynamics-365-finance-and-operations-extends-out-of-the-box-country-coverage-in-latin-america/"/>
+        <updated>2023-03-20T17:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Our customers use D365 Finance and Operations to meet multiple tax compliance and other regulatory and local business practice requirements. These requirements are complex, especially in many Latin American  countries.
+The post Dynamics 365 Finance and Operations extends out-of-the-box country coverage in Latin America appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mikhail Filatov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wrong packing slip (delivery note) is printed for sales order]]></title>
         <id>1860</id>
