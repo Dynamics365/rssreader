@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-22T01:17:50.342Z</updated>
+    <updated>2023-03-23T01:18:00.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celebrating the first graduates of the Microsoft Power Up Program]]></title>
+        <id>celebrating-the-first-graduates-of-the-microsoft-power-up-program</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/celebrating-the-first-graduates-of-the-microsoft-power-up-program/"/>
+        <updated>2023-03-22T11:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is a leader in enterprise low-code application platforms. We’re excited to announce that our first 18 learners have successfully graduated from the Microsoft Power Up Program, a 12-week skilling program designed to enable non-technical professionals to successfully advance their careers with low-code application development using Microsoft Power Platform technologies. Congratulations, graduates! Power Up Program popularity…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explore new capabilities in Microsoft Power Apps at the Microsoft Business Applications Launch Event]]></title>
+        <id>explore-new-capabilities-in-microsoft-power-apps-at-the-microsoft-business-applications-launch-event</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/explore-new-capabilities-in-microsoft-power-apps-at-the-microsoft-business-applications-launch-event/"/>
+        <updated>2023-03-22T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Businesses today are constantly facing new and bigger challenges. Technology is diversifying and evolving faster than ever to address these issues, giving industries across the board a growing number of solutions to sift through.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve customer loyalty and reduce fraud with Nuance Gatekeeper]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/03/21/improve-customer-loyalty-and-reduce-fraud-with-nuance-gatekeeper/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/03/21/improve-customer-loyalty-and-reduce-fraud-with-nuance-gatekeeper/"/>
+        <updated>2023-03-21T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nuance Gatekeeper is a biometric authentication and fraud prevention technology that can be integrated with Microsoft Dynamics 365 Customer Service. It offers a streamlined verification process that allows contact centers to identify customers through natural conversation without relying on specific questions, security codes, or secret questions and answers.
+The post Improve customer loyalty and reduce fraud with Nuance Gatekeeper appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Daniel Wollmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Expense Deferrals [Purchase accruals] with Invoice journal [Non PO] using subscription billing in Microsoft Dynamics 365 finance and operations: Part-7]]></title>
         <id>http://exploredynamics365.home.blog/?p=2406</id>

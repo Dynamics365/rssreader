@@ -4524,6 +4524,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/21/improve-customer-loyalty-and-reduce-fraud-with-nuance-gatekeeper/",
+          "author": "Daniel Wollmann",
+          "description": "Nuance Gatekeeper is a biometric authentication and fraud prevention technology that can be integrated with Microsoft Dynamics 365 Customer Service. It offers a streamlined verification process that allows contact centers to identify customers through natural conversation without relying on specific questions, security codes, or secret questions and answers.\nThe post Improve customer loyalty and reduce fraud with Nuance Gatekeeper appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/21/improve-customer-loyalty-and-reduce-fraud-with-nuance-gatekeeper/",
+          "publishedOn": "2023-03-21T18:00:00.000Z",
+          "wordCount": 2318,
+          "title": "Improve customer loyalty and reduce fraud with Nuance Gatekeeper",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/03/WCO18_SMB_OneNote_006_v2.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/20/how-we-can-use-gpt-4-to-continually-improve-ai-models-in-dynamics-365-and-power-platform/",
           "author": "Walter Sun",
           "description": "Across Dynamics 365, Power Platform, and Viva Sales, we've introduced, and will continue delivering, a cascade of AI capabilities to help businesses and individuals achieve more.\nThe post How we can use GPT-4 to continually improve AI models in Dynamics 365 and Power Platform appeared first on Microsoft Dynamics 365 Blog.",
@@ -10640,6 +10650,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "celebrating-the-first-graduates-of-the-microsoft-power-up-program",
+          "author": null,
+          "description": "Microsoft is a leader in enterprise low-code application platforms. We’re excited to announce that our first 18 learners have successfully graduated from the Microsoft Power Up Program, a 12-week skilling program designed to enable non-technical professionals to successfully advance their careers with low-code application development using Microsoft Power Platform technologies. Congratulations, graduates! Power Up Program popularity…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/celebrating-the-first-graduates-of-the-microsoft-power-up-program/",
+          "publishedOn": "2023-03-22T11:01:53.000Z",
+          "wordCount": 2132,
+          "title": "Celebrating the first graduates of the Microsoft Power Up Program",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/03/GraduationBadge.png"
+        },
+        {
+          "id": "explore-new-capabilities-in-microsoft-power-apps-at-the-microsoft-business-applications-launch-event",
+          "author": null,
+          "description": "Businesses today are constantly facing new and bigger challenges. Technology is diversifying and evolving faster than ever to address these issues, giving industries across the board a growing number of solutions to sift through.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/explore-new-capabilities-in-microsoft-power-apps-at-the-microsoft-business-applications-launch-event/",
+          "publishedOn": "2023-03-22T08:55:00.000Z",
+          "wordCount": 2106,
+          "title": "Explore new capabilities in Microsoft Power Apps at the Microsoft Business Applications Launch Event",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/03/Power-Apps_1200.png"
+        },
         {
           "id": "now-in-preview-coe-starter-kit-backed-by-data-from-self-serve-analytics-data-export",
           "author": null,
