@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-23T01:18:00.382Z</updated>
+    <updated>2023-03-24T01:17:57.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to bulk expire & delete non-primary addresses – DIXF – D365F&O]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2397</id>
+        <link href="https://anithasantosh.wordpress.com/2023/03/23/how-to-bulk-expire-delete-non-primary-addresses-dixf-d365fo/"/>
+        <updated>2023-03-23T21:15:29.000Z</updated>
+        <summary type="html"><![CDATA[We had a situation in one of our projects where the customer postal addresses were imported twice by mistake. The import was close to 10000 records and manually correcting them was impossible. There were few options left with us to … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cost Price is zero for Returned Product]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:24a8d356-18be-43d0-8f29-b5d00cf9ba65</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/cost-price-for-returned-product"/>
+        <updated>2023-03-23T10:45:54.000Z</updated>
+        <summary type="html"><![CDATA[There some scenarios when Cost Price is zero for returned product in POS.
+1. When you do a "Blind return". This means you 'Return product' in POS without any settlement to the original sales transaction. Then Cost price might be zero.
+2. When sales and return transaction is in the same statement (even 'Return transaction' is used). Then Cost price might be zero. Using trickle feed feature, it should be only about 2% when the scenario of having the sales and return in the same statement can happen. (For this one we have a feature request # 15482192 to analyze and improve in future versions).
+In both above options we cannot find the original cost price.
+How to avoid zero cost price in Inventory transactions:
+When creating new product – you need to enter Default Purchase Price.
+If you do not do that in step 1, you can enable ‘Latest cost price’ on a Product:
+ 
+When the parameter 'Latest cost price' is enabled, Cost price will be filled in with Latest cost price once Purchase Invoice is posted.
+Then this cost price will be automatically filled in Sales order return line in field ‘Return cost price’ and Inventory return transaction will be filled in with Cost price.
+ 
+If above options are not accepted for your business scenario – you would need to create a customization.]]></summary>
+        <author>
+            <name>Ramune Peckyte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digitally transform physical workflows by turning the devices you already have into cost-efficient scanning tools]]></title>
+        <id>digitally-transform-physical-workflows-by-turning-the-devices-you-already-have-into-cost-efficient-scanning-tools</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/digitally-transform-physical-workflows-by-turning-the-devices-you-already-have-into-cost-efficient-scanning-tools/"/>
+        <updated>2023-03-23T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Scanning barcodes is a critical part of many frontline worker workflows – whether you are managing shelves in a retail store, inventorying goods in a warehouse, managing assets on the factory floor, or accessing records in a hospital. We are excited to share the immediate general availability (GA) of the improved barcode reader control. Workers…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celebrating the first graduates of the Microsoft Power Up Program]]></title>
         <id>celebrating-the-first-graduates-of-the-microsoft-power-up-program</id>

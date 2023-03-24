@@ -3120,6 +3120,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2397",
+          "author": "AnithaEswaran",
+          "description": "We had a situation in one of our projects where the customer postal addresses were imported twice by mistake. The import was close to 10000 records and manually correcting them was impossible. There were few options left with us to … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/03/23/how-to-bulk-expire-delete-non-primary-addresses-dixf-d365fo/",
+          "publishedOn": "2023-03-23T21:15:29.000Z",
+          "wordCount": 3812,
+          "title": "How to bulk expire & delete non-primary addresses – DIXF – D365F&O",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/03/image-11.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2382",
           "author": "AnithaEswaran",
           "description": "Recently the database transaction log of my D365F&O development environments grew too large and the service was down. When the service goes down all of a sudden, I troubleshoot by restarting the Batch service in dev environment first. If it … Continue reading →",
@@ -9350,6 +9360,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/axsupport",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:24a8d356-18be-43d0-8f29-b5d00cf9ba65",
+          "author": "Ramune Peckyte",
+          "description": "There some scenarios when Cost Price is zero for returned product in POS.\n1. When you do a \"Blind return\". This means you 'Return product' in POS without any settlement to the original sales transaction. Then Cost price might be zero.\n2. When sales and return transaction is in the same statement (even 'Return transaction' is used). Then Cost price might be zero. Using trickle feed feature, it should be only about 2% when the scenario of having the sales and return in the same statement can happen. (For this one we have a feature request # 15482192 to analyze and improve in future versions).\nIn both above options we cannot find the original cost price.\nHow to avoid zero cost price in Inventory transactions:\nWhen creating new product – you need to enter Default Purchase Price.\nIf you do not do that in step 1, you can enable ‘Latest cost price’ on a Product:\n \nWhen the parameter 'Latest cost price' is enabled, Cost price will be filled in with Latest cost price once Purchase Invoice is posted.\nThen this cost price will be automatically filled in Sales order return line in field ‘Return cost price’ and Inventory return transaction will be filled in with Cost price.\n \nIf above options are not accepted for your business scenario – you would need to create a customization.",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/cost-price-for-returned-product",
+          "publishedOn": "2023-03-23T10:45:54.000Z",
+          "wordCount": 3897,
+          "title": "Cost Price is zero for Returned Product",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e140cd97-18a2-42b2-b620-1d044f2c2002",
           "author": "Ramune Peckyte",
           "description": "This article explains how payment refunds are generated through call centers when returns are created, or when orders or order lines are canceled:\nRefund payment processing in call centers - Commerce | Dynamics 365 | Microsoft Learn\nSomething important to pay an attention:\nSome functional details on that topic to be able understand how call center refunds work:\nWhen canceling an order that was originally created in call center – we will attempt to refund back to the original payment method. If the original payment method cannot be found (this happens if the order being canceled was not originally created by call center) we will not be able to obtain the original payment method. In that situation, we apply the refund method defined in this call center parameters:\n\nIf we can locate the origi…",
@@ -10650,6 +10670,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "digitally-transform-physical-workflows-by-turning-the-devices-you-already-have-into-cost-efficient-scanning-tools",
+          "author": null,
+          "description": "Scanning barcodes is a critical part of many frontline worker workflows – whether you are managing shelves in a retail store, inventorying goods in a warehouse, managing assets on the factory floor, or accessing records in a hospital. We are excited to share the immediate general availability (GA) of the improved barcode reader control. Workers…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/digitally-transform-physical-workflows-by-turning-the-devices-you-already-have-into-cost-efficient-scanning-tools/",
+          "publishedOn": "2023-03-23T08:55:00.000Z",
+          "wordCount": 1897,
+          "title": "Digitally transform physical workflows by turning the devices you already have into cost-efficient scanning tools",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/03/barcode-two-screens.png"
+        },
         {
           "id": "celebrating-the-first-graduates-of-the-microsoft-power-up-program",
           "author": null,
