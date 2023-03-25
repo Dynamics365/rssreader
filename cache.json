@@ -1628,6 +1628,16 @@
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56236",
+          "author": "Tracy Gillis",
+          "description": "How to Create a Sandbox in Dynamics 365 Business Central\nDynamics 365 Business Central users are able to refresh sandboxes by copying the production environment. If you are an Encore customer and you need assistance, please submit a ticket to our Encore Care team through email or the portal, and our team can help you/have this done for you. Currently you are able to have...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/sandbox-d365-business-central/",
+          "publishedOn": "2023-03-24T11:13:43.000Z",
+          "wordCount": 1196,
+          "title": "How to Create a Sandbox in Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=47364",
           "author": "Jess Mooney",
           "description": "What Is Dynamics 365 Field Service?\nMicrosoft Dynamics 365 Field Service is an agile asset-routing and optimization platform that provides advanced automation and tracking functionality. These integrated toolsets help organizations with the more complicated and time-sensitive aspects of field service, such as resource assignment agility, work order and invoice accuracy, optimized service scheduling, warranty and SLA compliance, and much more. We’ve...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -6185,6 +6195,16 @@
       "siteUrl": "https://www.brewsterware.com",
       "articles": [
         {
+          "id": "http://www.brewsterware.com/?p=587",
+          "author": "Joe Brewer",
+          "description": "As promised, please find the source code that generates the spreadsheets that contain the metadata for the Finance and Operations data entities here. If you find this software useful, or have a suggestion to improve it I would love to hear from you.",
+          "link": "https://www.brewsterware.com/data-entities-for-finance-and-operations.html",
+          "publishedOn": "2023-03-24T19:51:23.000Z",
+          "wordCount": 772,
+          "title": "Data Entities for Finance and Operations",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.brewsterware.com/?p=579",
           "author": "Joe Brewer",
           "description": "Here is the latest collection of data entities for 10.0.31 in both en-GB and en-US languages. 10.0.31 Data Entities – en-US 10.0.31 Data Entities – en-GB",
@@ -7136,6 +7156,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5028",
+          "author": "Ludwig Reinhard",
+          "description": "[German language podcast] In der neuesten Ausgabe des Microsoft BizApps Deutschland Podcasts spreche ich mit Lisa Pulsinger und David Lu …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2023/03/24/microsoft-bizapps-deutschland-podcast-9/",
+          "publishedOn": "2023-03-24T07:28:55.000Z",
+          "wordCount": 2747,
+          "title": "Microsoft BizApps Deutschland Podcast #9",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/03/titlefoto.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=4967",
           "author": "Ludwig Reinhard",
@@ -9138,6 +9168,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:9ee392c5-ddfd-4bda-a295-6f9f5595f784",
+          "author": "Vijay Yelmame",
+          "description": "Hi All, Today we are going to see how to create table in email body without using email templates. Please refer below example.Note - Please make sure your email parameter setup is done and you able to send test email.Expected result: X++ Codeint...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/create-table-in-email-body-using-x-code",
+          "publishedOn": "2023-03-24T12:34:00.000Z",
+          "wordCount": 3756,
+          "title": "Create table in email body using X++ code.",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:96b93bcc-6503-4930-a529-3a152fd4dcc2",
           "author": "Vijay Yelmame",

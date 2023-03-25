@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-24T03:59:45.167Z</updated>
+    <updated>2023-03-25T01:16:16.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data Entities for Finance and Operations]]></title>
+        <id>http://www.brewsterware.com/?p=587</id>
+        <link href="https://www.brewsterware.com/data-entities-for-finance-and-operations.html"/>
+        <updated>2023-03-24T19:51:23.000Z</updated>
+        <summary type="html"><![CDATA[As promised, please find the source code that generates the spreadsheets that contain the metadata for the Finance and Operations data entities here. If you find this software useful, or have a suggestion to improve it I would love to hear from you.]]></summary>
+        <author>
+            <name>Joe Brewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create table in email body using X++ code.]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9ee392c5-ddfd-4bda-a295-6f9f5595f784</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/create-table-in-email-body-using-x-code"/>
+        <updated>2023-03-24T12:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi All, Today we are going to see how to create table in email body without using email templates. Please refer below example.Note - Please make sure your email parameter setup is done and you able to send test email.Expected result: X++ Codeint...(read more)]]></summary>
+        <author>
+            <name>Vijay Yelmame</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Sandbox in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=56236</id>
+        <link href="https://www.encorebusiness.com/blog/sandbox-d365-business-central/"/>
+        <updated>2023-03-24T11:13:43.000Z</updated>
+        <summary type="html"><![CDATA[How to Create a Sandbox in Dynamics 365 Business Central
+Dynamics 365 Business Central users are able to refresh sandboxes by copying the production environment. If you are an Encore customer and you need assistance, please submit a ticket to our Encore Care team through email or the portal, and our team can help you/have this done for you. Currently you are able to have...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Tracy Gillis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #9]]></title>
+        <id>http://dynamicsax-fico.com/?p=5028</id>
+        <link href="https://dynamicsax-fico.com/2023/03/24/microsoft-bizapps-deutschland-podcast-9/"/>
+        <updated>2023-03-24T07:28:55.000Z</updated>
+        <summary type="html"><![CDATA[[German language podcast] In der neuesten Ausgabe des Microsoft BizApps Deutschland Podcasts spreche ich mit Lisa Pulsinger und David Lu …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to bulk expire & delete non-primary addresses – DIXF – D365F&O]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2397</id>
