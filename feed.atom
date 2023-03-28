@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-27T01:17:14.824Z</updated>
+    <updated>2023-03-28T01:21:26.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -61,6 +61,17 @@ Continue reading →]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introducing a new era of AI-powered experiences in Dynamics 365 Business Central]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/23/introducing-a-new-era-of-ai-powered-experiences-in-dynamics-365-business-central/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/23/introducing-a-new-era-of-ai-powered-experiences-in-dynamics-365-business-central/"/>
+        <updated>2023-03-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is an exciting time in the evolution of AI, and you don't have to look far to see the headlines on ways it is changing the world. From advanced machine learning models to breakthrough natural language technology, new opportunities to use AI to improve the way we work are surfacing daily.
+The post Introducing a new era of AI-powered experiences in Dynamics 365 Business Central appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mike Morton</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cost Price is zero for Returned Product]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:24a8d356-18be-43d0-8f29-b5d00cf9ba65</id>
         <link href="https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/cost-price-for-returned-product"/>
@@ -89,6 +100,17 @@ If above options are not accepted for your business scenario – you would nee
         <summary type="html"><![CDATA[Scanning barcodes is a critical part of many frontline worker workflows – whether you are managing shelves in a retail store, inventorying goods in a warehouse, managing assets on the factory floor, or accessing records in a hospital. We are excited to share the immediate general availability (GA) of the improved barcode reader control. Workers…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[See what’s new for Dynamics 365 at the Microsoft Business Applications Launch Event]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/22/see-whats-new-for-dynamics-365-at-the-microsoft-business-applications-launch-event-2/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/22/see-whats-new-for-dynamics-365-at-the-microsoft-business-applications-launch-event-2/"/>
+        <updated>2023-03-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Businesses today are constantly facing new and bigger challenges. Technology is diversifying and evolving faster than ever to address these issues, giving industries across the board a growing number of solutions to sift through.
+The post See what’s new for Dynamics 365 at the Microsoft Business Applications Launch Event appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Keith Barnett</name>
         </author>
     </entry>
     <entry>

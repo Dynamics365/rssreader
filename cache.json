@@ -4550,6 +4550,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/23/introducing-a-new-era-of-ai-powered-experiences-in-dynamics-365-business-central/",
+          "author": "Mike Morton",
+          "description": "This is an exciting time in the evolution of AI, and you don't have to look far to see the headlines on ways it is changing the world. From advanced machine learning models to breakthrough natural language technology, new opportunities to use AI to improve the way we work are surfacing daily.\nThe post Introducing a new era of AI-powered experiences in Dynamics 365 Business Central appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/23/introducing-a-new-era-of-ai-powered-experiences-in-dynamics-365-business-central/",
+          "publishedOn": "2023-03-23T15:00:00.000Z",
+          "wordCount": 2638,
+          "title": "Introducing a new era of AI-powered experiences in Dynamics 365 Business Central",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/03/WCO18_helicopterFactory_008_v2.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/22/see-whats-new-for-dynamics-365-at-the-microsoft-business-applications-launch-event-2/",
+          "author": "Keith Barnett",
+          "description": "Businesses today are constantly facing new and bigger challenges. Technology is diversifying and evolving faster than ever to address these issues, giving industries across the board a growing number of solutions to sift through.\nThe post See what’s new for Dynamics 365 at the Microsoft Business Applications Launch Event appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/22/see-whats-new-for-dynamics-365-at-the-microsoft-business-applications-launch-event-2/",
+          "publishedOn": "2023-03-22T16:00:00.000Z",
+          "wordCount": 2474,
+          "title": "See what’s new for Dynamics 365 at the Microsoft Business Applications Launch Event",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/03/CLO22_TechOffice_031_v2.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/21/improve-customer-loyalty-and-reduce-fraud-with-nuance-gatekeeper/",
           "author": "Daniel Wollmann",
           "description": "Nuance Gatekeeper is a biometric authentication and fraud prevention technology that can be integrated with Microsoft Dynamics 365 Customer Service. It offers a streamlined verification process that allows contact centers to identify customers through natural conversation without relying on specific questions, security codes, or secret questions and answers.\nThe post Improve customer loyalty and reduce fraud with Nuance Gatekeeper appeared first on Microsoft Dynamics 365 Blog.",
