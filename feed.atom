@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-28T01:21:26.713Z</updated>
+    <updated>2023-03-29T01:27:06.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Custom help toolkits for Dynamics 365 to be retired in April 2023]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/03/28/custom-help-toolkits-for-dynamics-365-to-be-retired-in-april-2023/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/03/28/custom-help-toolkits-for-dynamics-365-to-be-retired-in-april-2023/"/>
+        <updated>2023-03-28T17:50:12.000Z</updated>
+        <summary type="html"><![CDATA[If you've been using the custom help toolkits for Dynamics 365 finance and operations apps or Dynamics 365 Business Central, then change is coming your way.
+The post Custom help toolkits for Dynamics 365 to be retired in April 2023 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Eva Dupont</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utilizing Telemetry Data Within D365FO]]></title>
+        <id>https://alexdmeyer.com/?p=2627</id>
+        <link href="https://alexdmeyer.com/2023/03/28/utilizing-telemetry-data-within-d365fo/"/>
+        <updated>2023-03-28T14:44:53.000Z</updated>
+        <summary type="html"><![CDATA[I’ve written before about the telemetry data now available in D365FO, but is there a way to consume this telemetry data within the application itself? Let’s see how we could do this! Problem Statement In our case let’s see if we could automatically disable users that have not logged in within the last 90 days. […]
+The post Utilizing Telemetry Data Within D365FO appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Practices for Dynamics AX to Dynamics 365 Finance & Operations Upgrades]]></title>
+        <id>https://www.encorebusiness.com/?p=56290</id>
+        <link href="https://www.encorebusiness.com/blog/best-practices-for-dynamics-ax-to-dynamics-365-finance-operations-upgrades/"/>
+        <updated>2023-03-28T13:59:44.000Z</updated>
+        <summary type="html"><![CDATA[Best Practices for Dynamics AX to Dynamics 365 Finance & Operations Upgrades
+The purpose of this article is to educate users on what to expect before, during and after an upgrade from Dynamics AX to Dynamics 365 Finance & Operations. This blog is geared towards company decision makers and Dynamics AX subject matter experts, and not meant as a technical resource. If you are interested in more...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Isabella McPeak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use InsertDatabase In D365]]></title>
+        <id>https://dynamics365musings.com/?p=2729</id>
+        <link href="https://dynamics365musings.com/insertdatabase-in-d365/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=insertdatabase-in-d365"/>
+        <updated>2023-03-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, learn how to use insertDatabase in D365 to insert multiple records into a table faster than calling the insert method on each record. There are several different ways to insert data into tables in Microsoft Dynamics 365 F&O. The most common is to call the insert method on the table buffer. However,... Continue Reading →
+The post How To Use InsertDatabase In D365 appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Entities for Finance and Operations]]></title>
         <id>http://www.brewsterware.com/?p=587</id>
@@ -62,6 +108,17 @@ Continue reading →]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Introducing a new era of AI-powered experiences in Dynamics 365 Business Central]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a28ce4e2-fec8-4148-9753-7f0ce9e7b1cb</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/introducing-a-new-era-of-ai-powered-experiences-in-dynamics-365-business-central"/>
+        <updated>2023-03-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is an exciting time in the evolution of AI, and you don't have to look far to see the headlines on ways it is changing the world. From advanced machine learning models to breakthrough natural language technology, new opportunities to use AI to improve the way we work are surfacing daily. AI innovation can free employees from mundane, repetitive tasks and allow them to focus on the work that matters most, increasing job satisfaction and pushing productivity to new heights. According to our recent survey on business trends, 89 percent of those with access to automation and AI-powered tools feel more fulfilled because they can spend time on work that truly matters.1
+Microsoft Dynamics 365 Business Central brings the power of AI to small and medium-sized businesses with features that help…]]></summary>
+        <author>
+            <name>Mike Morton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing a new era of AI-powered experiences in Dynamics 365 Business Central]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/23/introducing-a-new-era-of-ai-powered-experiences-in-dynamics-365-business-central/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/23/introducing-a-new-era-of-ai-powered-experiences-in-dynamics-365-business-central/"/>
         <updated>2023-03-23T15:00:00.000Z</updated>
@@ -104,6 +161,31 @@ If above options are not accepted for your business scenario – you would nee
     </entry>
     <entry>
         <title type="html"><![CDATA[See what’s new for Dynamics 365 at the Microsoft Business Applications Launch Event]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1232737d-8990-44db-a8d8-60e0c451a3dd</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/see-what-s-new-for-dynamics-365-at-the-microsoft-business-applications-launch-event-1566141630"/>
+        <updated>2023-03-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The first release wave of 2023 kicks off in just a few weeks! You're invited to get a sneak preview of what's new at the Microsoft Business Applications Launch Event, streaming live on April 4 at 9:00 AM Pacific Time. Tune in live, or on-demand after the live broadcast, for news and demos showcasing some of the hundreds of product features and innovation heading to Microsoft Dynamics 365 and Power Platform. 
+Sign up for the event today for reminders, agenda updates, and instructions to tune in live from your desktop or mobile device.
+
+
+
+
+Business Applications Launch Event
+
+The latest updates across Microsoft Dynamics 365 and Power Platform
+
+Register for the event
+
+
+
+What to expect at the Business Applications Launch Event
+Featuring news and product demos, the event will cover updates launc…]]></summary>
+        <author>
+            <name>Keith Barnett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[See what’s new for Dynamics 365 at the Microsoft Business Applications Launch Event]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/22/see-whats-new-for-dynamics-365-at-the-microsoft-business-applications-launch-event-2/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/03/22/see-whats-new-for-dynamics-365-at-the-microsoft-business-applications-launch-event-2/"/>
         <updated>2023-03-22T16:00:00.000Z</updated>
@@ -131,6 +213,17 @@ The post See what’s new for Dynamics 365 at the Microsoft Business Application
         <summary type="html"><![CDATA[Businesses today are constantly facing new and bigger challenges. Technology is diversifying and evolving faster than ever to address these issues, giving industries across the board a growing number of solutions to sift through.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve customer loyalty and reduce fraud with Nuance Gatekeeper]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a8193579-a021-410d-af0b-69153601c763</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/improve-customer-loyalty-and-reduce-fraud-with-nuance-gatekeeper"/>
+        <updated>2023-03-21T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nuance Gatekeeper is a biometric authentication and fraud prevention technology that can be integrated with Microsoft Dynamics 365 Customer Service. It offers a streamlined verification process that allows contact centers to identify customers through natural conversation without relying on specific questions, security codes, or secret questions and answers. 
+This technology provides a secure and seamless way to verify customer identities so call center agents can focus their attention on serving these individuals. The results include increased customer satisfaction and reduced average call handling times. By using voice biometrics, Nuance Gatekeeper can quickly and accurately verify a customer’s identity, significantly reducing the risk of fraud and protecting customers’ personal data fro…]]></summary>
+        <author>
+            <name>Daniel Wollmann</name>
         </author>
     </entry>
     <entry>
