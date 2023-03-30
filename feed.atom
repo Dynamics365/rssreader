@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-29T01:27:06.468Z</updated>
+    <updated>2023-03-30T01:20:38.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Modern controls coming to canvas apps]]></title>
+        <id>modern-controls-coming-to-canvas-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/modern-controls-coming-to-canvas-apps/"/>
+        <updated>2023-03-29T15:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Following on from the launch of the new look for model driven apps, we’re making the same modern controls available to canvas apps through an opt in preview. The new controls bring the following improvements:  Modern – A focused and less cluttered design that supports richer interaction states and elevation, provides a higher usability baseline…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Way to Do Bank Reconciliation in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=56257</id>
+        <link href="https://www.encorebusiness.com/blog/bank-reconciliation-business-central/"/>
+        <updated>2023-03-29T11:13:41.000Z</updated>
+        <summary type="html"><![CDATA[The New Way to Do Bank Reconciliation in Dynamics 365 Business Central
+The upcoming 2023 Wave 1 update to Dynamics 365 Business Central will be changing the behavior of bank reconciliations. Read the 2023 release wave 1 details here. Stay tuned for an upcoming blog that will feature some other highlights from this list. With respect to the changes that will impact bank reconciliations, we recommend that...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Tracy Gillis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solution checker enforcement in Managed Environments]]></title>
+        <id>solution-checker-enforcement-in-managed-environments</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/solution-checker-enforcement-in-managed-environments/"/>
+        <updated>2023-03-29T08:09:24.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the public preview of solution checker enforcement, a new feature in Managed Environments that gives admins much more control over the customizations in their environments! Solution checker enforcement allows you to block or warn on solution imports with critical severity violations, as defined in the solution checker rules. These violations…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Custom help toolkits for Dynamics 365 to be retired in April 2023]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/03/28/custom-help-toolkits-for-dynamics-365-to-be-retired-in-april-2023/</id>

@@ -1628,6 +1628,16 @@
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56257",
+          "author": "Tracy Gillis",
+          "description": "The New Way to Do Bank Reconciliation in Dynamics 365 Business Central\nThe upcoming 2023 Wave 1 update to Dynamics 365 Business Central will be changing the behavior of bank reconciliations. Read the 2023 release wave 1 details here. Stay tuned for an upcoming blog that will feature some other highlights from this list. With respect to the changes that will impact bank reconciliations, we recommend that...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/bank-reconciliation-business-central/",
+          "publishedOn": "2023-03-29T11:13:41.000Z",
+          "wordCount": 1223,
+          "title": "The New Way to Do Bank Reconciliation in Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=56290",
           "author": "Isabella McPeak",
           "description": "Best Practices for Dynamics AX to Dynamics 365 Finance & Operations Upgrades\nThe purpose of this article is to educate users on what to expect before, during and after an upgrade from Dynamics AX to Dynamics 365 Finance & Operations. This blog is geared towards company decision makers and Dynamics AX subject matter experts, and not meant as a technical resource. If you are interested in more...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -10806,6 +10816,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "modern-controls-coming-to-canvas-apps",
+          "author": null,
+          "description": "Following on from the launch of the new look for model driven apps, we’re making the same modern controls available to canvas apps through an opt in preview. The new controls bring the following improvements:  Modern – A focused and less cluttered design that supports richer interaction states and elevation, provides a higher usability baseline…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/modern-controls-coming-to-canvas-apps/",
+          "publishedOn": "2023-03-29T15:46:02.000Z",
+          "wordCount": 1906,
+          "title": "Modern controls coming to canvas apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "solution-checker-enforcement-in-managed-environments",
+          "author": null,
+          "description": "We are excited to announce the public preview of solution checker enforcement, a new feature in Managed Environments that gives admins much more control over the customizations in their environments! Solution checker enforcement allows you to block or warn on solution imports with critical severity violations, as defined in the solution checker rules. These violations…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/solution-checker-enforcement-in-managed-environments/",
+          "publishedOn": "2023-03-29T08:09:24.000Z",
+          "wordCount": 1939,
+          "title": "Solution checker enforcement in Managed Environments",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "digitally-transform-physical-workflows-by-turning-the-devices-you-already-have-into-cost-efficient-scanning-tools",
           "author": null,
