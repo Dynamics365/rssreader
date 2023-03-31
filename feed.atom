@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-30T01:20:38.335Z</updated>
+    <updated>2023-03-31T01:19:56.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spring 2023 – Presenting at Upcoming User Group Conferences]]></title>
+        <id>https://alexdmeyer.com/?p=2642</id>
+        <link href="https://alexdmeyer.com/2023/03/30/spring-2023-presenting-at-upcoming-user-group-conferences/"/>
+        <updated>2023-03-30T17:30:21.000Z</updated>
+        <summary type="html"><![CDATA[I’m excited to be speaking in-person at a couple upcoming conferences and sharing my knowledge and expertise! Here are two spring 2023 conferences I am speaking at! DynamicsCon Live! DynamicsCon Live! is being hosted in Scottsdale, Arizona from May 22nd – May 25th and looks to have an awesome line up of speakers and content! […]
+The post Spring 2023 – Presenting at Upcoming User Group Conferences appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 eCommerce – My personal copy-paste blog]]></title>
+        <id>http://kurthatlevik.com/?p=4457</id>
+        <link href="https://kurthatlevik.com/2023/03/30/d365-ecommerce-my-personal-copy-paste-blog/"/>
+        <updated>2023-03-30T16:54:17.000Z</updated>
+        <summary type="html"><![CDATA[This blogpost is meant for myself as a copy-paste of stuff I often use when working with Dynamics 365 eCommerce. If others can benefit from it just makes me happy. URL’s when working with D365 eCommerce sites: Depending on the URL, you need to add the prefix ‘?’ for the first parameter, and ‘&’ for … Continue reading D365 eCommerce – My personal copy-paste blog]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Production order should not get Released on material shortage]]></title>
+        <id>https://erconsult.eu/?p=7543</id>
+        <link href="https://erconsult.eu/blog/production-order-should-not-get-released-on-material-shortage/"/>
+        <updated>2023-03-30T11:52:16.000Z</updated>
+        <summary type="html"><![CDATA[There is an evergreen issue in Dynamics 365 material reservation for production: despite the policy “Require full reservation“, the production order is released even if there is a shortage of materials: The issue is very well known, I have been combating it since 2018. It has been reported to Microsoft on […]
+The post Production order should not get Released on material shortage appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhanced security for implicitly shared connections in Power Apps]]></title>
+        <id>power-apps-secure-implicit-connections</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-secure-implicit-connections/"/>
+        <updated>2023-03-30T11:51:21.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce enhanced security for implicitly shared connections in Power Apps. Many customers have asked for this feature, and it is now available in all commercial regions as Experimental Preview. Power Apps’ implicitly shared connections are ones that use a fixed credential such as a SQL Server connection string rather than the…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modern controls coming to canvas apps]]></title>
         <id>modern-controls-coming-to-canvas-apps</id>

@@ -2565,6 +2565,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2642",
+          "author": "Alex",
+          "description": "I’m excited to be speaking in-person at a couple upcoming conferences and sharing my knowledge and expertise! Here are two spring 2023 conferences I am speaking at! DynamicsCon Live! DynamicsCon Live! is being hosted in Scottsdale, Arizona from May 22nd – May 25th and looks to have an awesome line up of speakers and content! […]\nThe post Spring 2023 – Presenting at Upcoming User Group Conferences appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/03/30/spring-2023-presenting-at-upcoming-user-group-conferences/",
+          "publishedOn": "2023-03-30T17:30:21.000Z",
+          "wordCount": 4199,
+          "title": "Spring 2023 – Presenting at Upcoming User Group Conferences",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/03/ALEX-MEYER_D365FO-Telemetry-Data-Overview_Telementery-Data.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2627",
           "author": "Alex",
           "description": "I’ve written before about the telemetry data now available in D365FO, but is there a way to consume this telemetry data within the application itself? Let’s see how we could do this! Problem Statement In our case let’s see if we could automatically disable users that have not logged in within the last 90 days. […]\nThe post Utilizing Telemetry Data Within D365FO appeared first on Alex Meyer.",
@@ -4006,6 +4016,16 @@
       "feedUrl": "https://kurthatlevik.com/feed/",
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
+        {
+          "id": "http://kurthatlevik.com/?p=4457",
+          "author": "Kurt Hatlevik",
+          "description": "This blogpost is meant for myself as a copy-paste of stuff I often use when working with Dynamics 365 eCommerce. If others can benefit from it just makes me happy. URL’s when working with D365 eCommerce sites: Depending on the URL, you need to add the prefix ‘?’ for the first parameter, and ‘&’ for … Continue reading D365 eCommerce – My personal copy-paste blog",
+          "link": "https://kurthatlevik.com/2023/03/30/d365-ecommerce-my-personal-copy-paste-blog/",
+          "publishedOn": "2023-03-30T16:54:17.000Z",
+          "wordCount": 3184,
+          "title": "D365 eCommerce – My personal copy-paste blog",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/03/033023_1654_d365ecommer1.jpg"
+        },
         {
           "id": "http://kurthatlevik.com/?p=4443",
           "author": "Kurt Hatlevik",
@@ -10587,6 +10607,16 @@
       "siteUrl": "https://erconsult.eu/",
       "articles": [
         {
+          "id": "https://erconsult.eu/?p=7543",
+          "author": "Eugen Glasow",
+          "description": "There is an evergreen issue in Dynamics 365 material reservation for production: despite the policy “Require full reservation“, the production order is released even if there is a shortage of materials: The issue is very well known, I have been combating it since 2018. It has been reported to Microsoft on […]\nThe post Production order should not get Released on material shortage appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/production-order-should-not-get-released-on-material-shortage/",
+          "publishedOn": "2023-03-30T11:52:16.000Z",
+          "wordCount": 1751,
+          "title": "Production order should not get Released on material shortage",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2023/03/D365MandatoryReservation.png"
+        },
+        {
           "id": "https://erconsult.eu/?p=7411",
           "author": "Eugen Glasow",
           "description": "We are excited to announce the release of the common German-French electronic invoice ZUGFeRD / Factur-X in Dynamics 365 for Finance and SCM. This plug-and-play solution in its “Light” version does not require any customisation and can be easily installed in the standard Electronic Reporting module of D365. It supports the […]\nThe post ZUGFeRD 2.1/ Factur-X 1.0 for Dynamics 365 FO appeared first on ER-Consult.",
@@ -10816,6 +10846,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "power-apps-secure-implicit-connections",
+          "author": null,
+          "description": "We are excited to announce enhanced security for implicitly shared connections in Power Apps. Many customers have asked for this feature, and it is now available in all commercial regions as Experimental Preview. Power Apps’ implicitly shared connections are ones that use a fixed credential such as a SQL Server connection string rather than the…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-apps-secure-implicit-connections/",
+          "publishedOn": "2023-03-30T11:51:21.000Z",
+          "wordCount": 1634,
+          "title": "Enhanced security for implicitly shared connections in Power Apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "modern-controls-coming-to-canvas-apps",
           "author": null,
