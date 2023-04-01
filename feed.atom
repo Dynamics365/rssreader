@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-03-31T01:19:56.815Z</updated>
+    <updated>2023-04-01T01:18:56.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Integrating Dynamics 365 Business Central with Dynamics 365 CRM Applications]]></title>
+        <id>https://www.encorebusiness.com/?p=56196</id>
+        <link href="https://www.encorebusiness.com/blog/integrating-d365-business-central-crm/"/>
+        <updated>2023-03-31T11:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Integrating Dynamics 365 Business Central with Dynamics 365 CRM Applications
+When Dynamics 365 Business Central is integrated with Dynamics 365 CRM applications such as Dynamics 365 Sales or Field Service, your business will benefit from having a single, reliable source of truth. For example, we’ve integrated Business Central and Dynamics 365 Field Service for a waste management company to make their whole customer lifecycle, from...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Andrea Oklobdzija</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post-Dated Cheque End-to-End Setup and Process Demo on Microsoft Dynamics 365 Finance]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:af79925a-3912-4c24-b7ca-da8a36cc3842</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/msdynamics365-empowered-community/posts/post-dated-cheque-end-to-end-setup-and-process-demo-on-microsoft-dynamics-365-finance"/>
+        <updated>2023-03-31T06:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Dear Microsoft BizApps Community,
+Welcome to my next blog on Post-Dated Cheque(PDC) End to End Setup and Process Demo on Microsoft Dynamics 365 Finance and Operations.
+PDC is a very interesting concept in FInance and in this Video I have tried to art...(read more)]]></summary>
+        <author>
+            <name>Ramit Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supercharge sales conversion in 3 easy steps to drive revenue and customer wins!]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/03/30/supercharge-sales-conversion-in-3-easy-steps-to-drive-revenue-and-customer-wins/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/03/30/supercharge-sales-conversion-in-3-easy-steps-to-drive-revenue-and-customer-wins/"/>
+        <updated>2023-03-30T17:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Converting leads and opportunities directly contributes to the company's revenue.
+The post Supercharge sales conversion in 3 easy steps to drive revenue and customer wins!  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Phani Goruganthu, Ankur Gupta and Hengul Dutta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spring 2023 – Presenting at Upcoming User Group Conferences]]></title>
         <id>https://alexdmeyer.com/?p=2642</id>
@@ -25,6 +61,43 @@ The post Spring 2023 – Presenting at Upcoming User Group Conferences appeared 
         <summary type="html"><![CDATA[This blogpost is meant for myself as a copy-paste of stuff I often use when working with Dynamics 365 eCommerce. If others can benefit from it just makes me happy. URL’s when working with D365 eCommerce sites: Depending on the URL, you need to add the prefix ‘?’ for the first parameter, and ‘&’ for … Continue reading D365 eCommerce – My personal copy-paste blog]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: Document management in today's Dynamics 365 projects]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f8aed53d-f2fb-4d80-b842-73d24779a501</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-document-management-in-today-s-dynamics-365-projects"/>
+        <updated>2023-03-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This episode is sponsored by 
+ 
+Formpipe . 
+ 
+ Microsoft Dynamics 365 projects have the potential to impact
+organizations both in terms of the quality of internal operations
+and their customer-facing activities. On this episode, Formpipe’s
+Commercial... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Production order should not get Released on material shortage]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8922251b-4a2a-441f-ab5a-d5c314a06295</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/production-order-should-not-get-released-on-material-shortage"/>
+        <updated>2023-03-30T11:52:16.000Z</updated>
+        <summary type="html"><![CDATA[Production order should not get Released on material shortage		
+				
+				
+				
+					
+					
+						
+											
+															
+									
+										E...(read more)]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
         </author>
     </entry>
     <entry>
@@ -17486,16 +17559,6 @@ We've seen a significant reduction in the number of downloads of the e-learning
         <link href="https://d365fostuff.wordpress.com/2021/04/06/d365fo-integration-enable-users-after-database-refresh/"/>
         <updated>2021-04-06T19:51:01.000Z</updated>
         <summary type="html"><![CDATA[After my last post on auto refreshing data entities after a deployment, I want to show you how to enable users in your system after a database refresh. A big ‘thank you’ goes out, as always, to @splaxi for delivering the d365fo – toolset and for the idea on this post.We will use the d365fo.integrations […]]]></summary>
-        <author>
-            <name>Marijan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d365fo.integrations – Auto refresh your data entity list]]></title>
-        <id>http://d365fostuff.wordpress.com/?p=194</id>
-        <link href="https://d365fostuff.wordpress.com/2021/03/31/d365fo-integrations-auto-refresh-your-data-entity-list/"/>
-        <updated>2021-03-31T20:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Meet the little brother of the d365fo.tools – d365fo.integrations. To be honest I wasn’t fully aware about this one until @splaxi mentioned them. But after a quick look into this module I’m more than excited to share this. Ever wondered why you need to manually refresh the data entity list in your Tier-2 environment after […]]]></summary>
         <author>
             <name>Marijan</name>
         </author>

@@ -961,6 +961,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f8aed53d-f2fb-4d80-b842-73d24779a501",
+          "author": "MSDynamicsWorld.com",
+          "description": "This episode is sponsored by \n \nFormpipe . \n \n Microsoft Dynamics 365 projects have the potential to impact\norganizations both in terms of the quality of internal operations\nand their customer-facing activities. On this episode, Formpipe’s\nCommercial... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-document-management-in-today-s-dynamics-365-projects",
+          "publishedOn": "2023-03-30T13:00:00.000Z",
+          "wordCount": 3732,
+          "title": "MSDW Podcast: Document management in today's Dynamics 365 projects",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8dad7bdd-83d4-424e-bb9a-4c2f19b479ae",
           "author": "MSDynamicsWorld.com",
           "description": "Microsoft Dynamics and Power\nPlatform customers planning for the long-term future of their\nsystems will have a chance to hear Microsoft's latest guidance at \n the first-ever,\nglobal Microsoft Customer Success Day on March 16 . Microsoft\nhas teamed up... Read the full text.",
@@ -1627,6 +1637,16 @@
       "feedUrl": "https://www.encorebusiness.com/blog/feed/",
       "siteUrl": "https://www.encorebusiness.com",
       "articles": [
+        {
+          "id": "https://www.encorebusiness.com/?p=56196",
+          "author": "Andrea Oklobdzija",
+          "description": "Integrating Dynamics 365 Business Central with Dynamics 365 CRM Applications\nWhen Dynamics 365 Business Central is integrated with Dynamics 365 CRM applications such as Dynamics 365 Sales or Field Service, your business will benefit from having a single, reliable source of truth. For example, we’ve integrated Business Central and Dynamics 365 Field Service for a waste management company to make their whole customer lifecycle, from...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/integrating-d365-business-central-crm/",
+          "publishedOn": "2023-03-31T11:13:07.000Z",
+          "wordCount": 2316,
+          "title": "Integrating Dynamics 365 Business Central with Dynamics 365 CRM Applications",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2020/01/D365-Img.jpg"
+        },
         {
           "id": "https://www.encorebusiness.com/?p=56257",
           "author": "Tracy Gillis",
@@ -2883,16 +2903,6 @@
           "wordCount": 937,
           "title": "d365fo.integration – Enable users after database refresh",
           "imageUrl": "https://d365fostuff.files.wordpress.com/2021/04/devopsscript.png?w=1200"
-        },
-        {
-          "id": "http://d365fostuff.wordpress.com/?p=194",
-          "author": "Marijan",
-          "description": "Meet the little brother of the d365fo.tools – d365fo.integrations. To be honest I wasn’t fully aware about this one until @splaxi mentioned them. But after a quick look into this module I’m more than excited to share this. Ever wondered why you need to manually refresh the data entity list in your Tier-2 environment after […]",
-          "link": "https://d365fostuff.wordpress.com/2021/03/31/d365fo-integrations-auto-refresh-your-data-entity-list/",
-          "publishedOn": "2021-03-31T20:49:17.000Z",
-          "wordCount": 1037,
-          "title": "d365fo.integrations – Auto refresh your data entity list",
-          "imageUrl": "https://d365fostuff.files.wordpress.com/2021/03/devopsrefreshdone.png?w=1200"
         }
       ]
     },
@@ -4639,6 +4649,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/30/supercharge-sales-conversion-in-3-easy-steps-to-drive-revenue-and-customer-wins/",
+          "author": "Phani Goruganthu, Ankur Gupta and Hengul Dutta",
+          "description": "Converting leads and opportunities directly contributes to the company's revenue.\nThe post Supercharge sales conversion in 3 easy steps to drive revenue and customer wins!  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/30/supercharge-sales-conversion-in-3-easy-steps-to-drive-revenue-and-customer-wins/",
+          "publishedOn": "2023-03-30T17:36:00.000Z",
+          "wordCount": 2852,
+          "title": "Supercharge sales conversion in 3 easy steps to drive revenue and customer wins!",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/03/CLO22_RemoteHome_039-1024x683.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/28/custom-help-toolkits-for-dynamics-365-to-be-retired-in-april-2023/",
           "author": "Eva Dupont",
@@ -9112,6 +9132,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8922251b-4a2a-441f-ab5a-d5c314a06295",
+          "author": "Eugen Glasow",
+          "description": "Production order should not get Released on material shortage\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tE...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/production-order-should-not-get-released-on-material-shortage",
+          "publishedOn": "2023-03-30T11:52:16.000Z",
+          "wordCount": 3384,
+          "title": "Production order should not get Released on material shortage",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f5696871-be2b-4c1a-bcb4-c5a1ce950837",
           "author": "Eugen Glasow",
           "description": "ZUGFeRD 2.1/ Factur-X 1.0 for Dynamics 365 FO\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t...(read more)",
@@ -9677,6 +9707,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/msdynamics365-empowered-community/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/msdynamics365-empowered-community",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:af79925a-3912-4c24-b7ca-da8a36cc3842",
+          "author": "Ramit Paul",
+          "description": "Dear Microsoft BizApps Community,\nWelcome to my next blog on Post-Dated Cheque(PDC) End to End Setup and Process Demo on Microsoft Dynamics 365 Finance and Operations.\nPDC is a very interesting concept in FInance and in this Video I have tried to art...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/msdynamics365-empowered-community/posts/post-dated-cheque-end-to-end-setup-and-process-demo-on-microsoft-dynamics-365-finance",
+          "publishedOn": "2023-03-31T06:49:16.000Z",
+          "wordCount": 3660,
+          "title": "Post-Dated Cheque End-to-End Setup and Process Demo on Microsoft Dynamics 365 Finance",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:6b881104-89fa-4a88-8567-5d63fe2cff4b",
           "author": "Ramit Paul",
