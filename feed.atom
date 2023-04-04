@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-03T01:14:11.968Z</updated>
+    <updated>2023-04-04T01:20:50.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Planning Optimization Updates: Wave 1 2023 - Dynamics 365 Supply Chain Management | March 15, 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bc845bc7-b185-4e3f-8094-61e3778a95d1</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/planning-optimization-updates-wave-1-2023---dynamics-365-supply-chain-management-march-15-2023"/>
+        <updated>2023-04-03T23:18:00.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com/watch
+
+Presenters: 
+Anne Krupke annekrupke@microsoft.com
+Beatriz Nebot Gracia Beatriz.Nebot@microsoft.com
+Anders Sorensen anderson@microsoft.com
+
+~
+This TechTalk will provide a re...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel add-ins – Config & set up  – D365 F&O]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2416</id>
+        <link href="https://anithasantosh.wordpress.com/2023/04/03/excel-add-ins-config-set-up-d365-fo/"/>
+        <updated>2023-04-03T13:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Excel can change and quickly analyze data. The Excel Data Connector app interacts with Excel workbooks and OData services that are created for publicly exposed data entities. The Excel Data Connector add-in enables Excel to become a seamless part … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new: Power Apps March 2023 Feature Update]]></title>
+        <id>whats-new-power-apps-march-2023-feature-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-march-2023-feature-update/"/>
+        <updated>2023-04-03T11:47:48.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share including…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PowerPlatform, ChatGPT & Pokemon]]></title>
         <id>http://dynamicsax-fico.com/?p=5050</id>
@@ -40,6 +78,17 @@ Welcome to my next blog on Post-Dated Cheque(PDC) End to End Setup and Process D
 PDC is a very interesting concept in FInance and in this Video I have tried to art...(read more)]]></summary>
         <author>
             <name>Ramit Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supercharge sales conversion in 3 easy steps to drive revenue and customer wins!]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b012a4cb-1f3c-459d-9eeb-946563f08285</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/supercharge-sales-conversion-in-3-easy-steps-to-drive-revenue-and-customer-wins"/>
+        <updated>2023-03-30T17:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Converting leads and opportunities directly contributes to the company's revenue. To increase conversion rate companies often need a number of factors to align. First, it's about matching the right seller to take the deal forward.  As a business owner or sales manager, finding the best seller to work on the new lead can really make or break a customer relationship. We need to look carefully not just at the seller with the highest close rate, but also balance that with their availability and expertise to attend to the customer’s needs and requirements.  
+Applying the right business tactic to close a deal at the right moment is the second key to success. We must recognize where the buyer is in their sales journey and employ the right action to engage. If we can use technology to help provide…]]></summary>
+        <author>
+            <name>Phani Goruganthu, Ankur Gupta and Hengul Dutta</name>
         </author>
     </entry>
     <entry>
@@ -163,6 +212,28 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[We are excited to announce the public preview of solution checker enforcement, a new feature in Managed Environments that gives admins much more control over the customizations in their environments! Solution checker enforcement allows you to block or warn on solution imports with critical severity violations, as defined in the solution checker rules. These violations…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom help toolkits for Dynamics 365 to be retired in April 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9b30ff13-bc03-4a7c-a77e-1b3caf6c8034</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/custom-help-toolkits-for-dynamics-365-to-be-retired-in-april-2023"/>
+        <updated>2023-03-28T17:50:12.000Z</updated>
+        <summary type="html"><![CDATA[If you've been using the custom help toolkits for Dynamics 365 finance and operations apps or Dynamics 365 Business Central, then change is coming your way. If you've never used either toolkit, you can stop reading now.
+What's changing
+The custom help toolkits started out as a way to connect your own help content to Dynamics 365 and to customize Microsoft's help content. But times change, technology changes with them, and we no longer recommend that you customize our content. Instead, we recommend that you create your own help content using any tools you prefer, and then let that override Microsoft's content.
+After April 11, 2023, the toolkits will be archived.
+We're also removing content from our contributor guides that encourages customizing our content. Everyone can still contribute to our documentation, but in English only.
+Why are you making this change?
+The custom help toolkits are being used less and less. We know custom solutions are still running on versions that are or soon will be unsupported. We expect those migration projects will be complex enough that existing custom help can't be easily reused.
+If you find that you need one of the tools in the archived toolkits, you can download a release package and extract the one you need.
+What about custom help?
+If you develop a solution that's based on Dynamics 365, you should continue to deliver documentation for its users. Use any tools you prefer.
+If your solution includes Dynamics 365 Finance, Supply Chain Management, or Commerce, and you need to connect your content to the in-product help pane, download the AzureSearchCustomHelp solution. Learn more at Connect a custom help website to the Help pane.
+Not yet a Dynamics 365 customer? Take a tour and get a free trial.
+The post Custom help toolkits for Dynamics 365 to be retired in April 2023 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Eva Dupont</name>
         </author>
     </entry>
     <entry>

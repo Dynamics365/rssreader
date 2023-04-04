@@ -744,6 +744,16 @@
       "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bc845bc7-b185-4e3f-8094-61e3778a95d1",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nAnne Krupke annekrupke@microsoft.com\nBeatriz Nebot Gracia Beatriz.Nebot@microsoft.com\nAnders Sorensen anderson@microsoft.com\n\n~\nThis TechTalk will provide a re...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/planning-optimization-updates-wave-1-2023---dynamics-365-supply-chain-management-march-15-2023",
+          "publishedOn": "2023-04-03T23:18:00.000Z",
+          "wordCount": 3330,
+          "title": "Planning Optimization Updates: Wave 1 2023 - Dynamics 365 Supply Chain Management | March 15, 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/357497_5F00_DTT126.png?_=638161607848188736"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c3646b02-8f4f-4a0a-8fd9-8be2ab89a604",
           "author": "Ilanit Manor - Community Manager",
           "description": "www.youtube.com/watch\n\nPresenters: \nPranav Kumar Kumar.Pranav@microsoft.com\nMeenu Laul meenulaul@microsoft.com\n\n~\nIn Dynamics 365 Commerce, a call center is a type of channel that can be defined ...(read more)",
@@ -1934,6 +1944,26 @@
       "feedUrl": "https://community.dynamics.com/365/b/365teamblog/rss",
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b012a4cb-1f3c-459d-9eeb-946563f08285",
+          "author": "Phani Goruganthu, Ankur Gupta and Hengul Dutta",
+          "description": "Converting leads and opportunities directly contributes to the company's revenue. To increase conversion rate companies often need a number of factors to align. First, it's about matching the right seller to take the deal forward.  As a business owner or sales manager, finding the best seller to work on the new lead can really make or break a customer relationship. We need to look carefully not just at the seller with the highest close rate, but also balance that with their availability and expertise to attend to the customer’s needs and requirements.  \nApplying the right business tactic to close a deal at the right moment is the second key to success. We must recognize where the buyer is in their sales journey and employ the right action to engage. If we can use technology to help provide…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/supercharge-sales-conversion-in-3-easy-steps-to-drive-revenue-and-customer-wins",
+          "publishedOn": "2023-03-30T17:36:00.000Z",
+          "wordCount": 4718,
+          "title": "Supercharge sales conversion in 3 easy steps to drive revenue and customer wins!",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:9b30ff13-bc03-4a7c-a77e-1b3caf6c8034",
+          "author": "Eva Dupont",
+          "description": "If you've been using the custom help toolkits for Dynamics 365 finance and operations apps or Dynamics 365 Business Central, then change is coming your way. If you've never used either toolkit, you can stop reading now.\nWhat's changing\nThe custom help toolkits started out as a way to connect your own help content to Dynamics 365 and to customize Microsoft's help content. But times change, technology changes with them, and we no longer recommend that you customize our content. Instead, we recommend that you create your own help content using any tools you prefer, and then let that override Microsoft's content.\nAfter April 11, 2023, the toolkits will be archived.\nWe're also removing content from our contributor guides that encourages customizing our content. Everyone can still contribute to our documentation, but in English only.\nWhy are you making this change?\nThe custom help toolkits are being used less and less. We know custom solutions are still running on versions that are or soon will be unsupported. We expect those migration projects will be complex enough that existing custom help can't be easily reused.\nIf you find that you need one of the tools in the archived toolkits, you can download a release package and extract the one you need.\nWhat about custom help?\nIf you develop a solution that's based on Dynamics 365, you should continue to deliver documentation for its users. Use any tools you prefer.\nIf your solution includes Dynamics 365 Finance, Supply Chain Management, or Commerce, and you need to connect your content to the in-product help pane, download the AzureSearchCustomHelp solution. Learn more at Connect a custom help website to the Help pane.\nNot yet a Dynamics 365 customer? Take a tour and get a free trial.\nThe post Custom help toolkits for Dynamics 365 to be retired in April 2023 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/custom-help-toolkits-for-dynamics-365-to-be-retired-in-april-2023",
+          "publishedOn": "2023-03-28T17:50:12.000Z",
+          "wordCount": 3989,
+          "title": "Custom help toolkits for Dynamics 365 to be retired in April 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a28ce4e2-fec8-4148-9753-7f0ce9e7b1cb",
           "author": "Mike Morton",
@@ -3215,6 +3245,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2416",
+          "author": "AnithaEswaran",
+          "description": "Microsoft Excel can change and quickly analyze data. The Excel Data Connector app interacts with Excel workbooks and OData services that are created for publicly exposed data entities. The Excel Data Connector add-in enables Excel to become a seamless part … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/04/03/excel-add-ins-config-set-up-d365-fo/",
+          "publishedOn": "2023-04-03T13:54:36.000Z",
+          "wordCount": 3448,
+          "title": "Excel add-ins – Config & set up  – D365 F&O",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/04/image-29.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=2397",
           "author": "AnithaEswaran",
@@ -10896,6 +10936,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "whats-new-power-apps-march-2023-feature-update",
+          "author": null,
+          "description": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share including…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-march-2023-feature-update/",
+          "publishedOn": "2023-04-03T11:47:48.000Z",
+          "wordCount": 5012,
+          "title": "What’s new: Power Apps March 2023 Feature Update",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/04/thumbnail_Side-by-Side-comparison.png"
+        },
         {
           "id": "power-apps-secure-implicit-connections",
           "author": null,
