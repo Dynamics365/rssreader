@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-04T01:20:50.448Z</updated>
+    <updated>2023-04-05T01:04:37.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PGE saves over 38 million dollars from Power Platform solutions and a Center of Excellence]]></title>
+        <id>pge-saves-over-38-million-dollars-from-power-platform-solutions-and-a-center-of-excellence</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/pge-saves-over-38-million-dollars-from-power-platform-solutions-and-a-center-of-excellence/"/>
+        <updated>2023-04-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pacific Gas and Electric Company (PG&E) adopted Microsoft Power Platform saving them over 38.5 million US Dollars in two years and enabling over 1,300 digital creators.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Planning Optimization Updates: Wave 1 2023 - Dynamics 365 Supply Chain Management | March 15, 2023]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bc845bc7-b185-4e3f-8094-61e3778a95d1</id>
