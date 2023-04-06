@@ -744,6 +744,16 @@
       "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:542d8c80-aa8e-48e8-a7e7-4bf69e0ad443",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nMarkus Otte Markus.Otte@microsoft.com\nUday Soni udaysoni@microsoft.com\nJohan Hoffmann johanho@microsoft.com\n\n~\nDiscrete production is one of three production c...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/discrete-manufacturing-overview---dynamics-365-supply-chain-management-march-21-2023",
+          "publishedOn": "2023-04-05T17:08:00.000Z",
+          "wordCount": 3364,
+          "title": "Discrete Manufacturing Overview - Dynamics 365 Supply Chain Management | March 21, 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/357570_5F00_350125_5F00_5F00_5F00_InvVisibility.png?_=638163131899475304"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bc845bc7-b185-4e3f-8094-61e3778a95d1",
           "author": "Ilanit Manor - Community Manager",
           "description": "www.youtube.com/watch\n\nPresenters: \nAnne Krupke annekrupke@microsoft.com\nBeatriz Nebot Gracia Beatriz.Nebot@microsoft.com\nAnders Sorensen anderson@microsoft.com\n\n~\nThis TechTalk will provide a re...(read more)",
@@ -1643,9 +1653,9 @@
       ]
     },
     {
-      "title": "Blog – Encore Business Solutions",
+      "title": "Encore Blog",
       "feedUrl": "https://www.encorebusiness.com/blog/feed/",
-      "siteUrl": "https://www.encorebusiness.com",
+      "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
           "id": "https://www.encorebusiness.com/?p=56196",
@@ -9605,6 +9615,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/axsupport/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/axsupport",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:445d20ca-1ffe-450e-ae7b-f161e92baaf9",
+          "author": "DawnLanglie",
+          "description": "The bundle item is part of Revenue recognition functionality.  This feature allows you to Allocate revenue, to help ensure that the appropriate revenue price is recognized, based on the value of the components on multi-element orders.\nA bundle master item will have component items.  When you add the master item to a sales order, when you confirm the order, the Bundle master item will automatically be exploded and add the bundle components to the sales order.\nWhen you add a bundle master item to a Call Center Sales order, this item will not be exploded to the sales line.  With a Call Center Sales Order, there is the added step of Completing the order and capturing the payment and the Confirm Sales order is not done.\nWhen adding a bundle item to a Call Center Sales order, you will receive the following error:\n                “Enter a base sale price on at least one bundle component”\nPer the Revenue Recognition documentation:\nRevenue recognition, including bundle functionality, isn't supported for use in Commerce channels (e-commerce, POS, call center). Items configured with revenue recognition should not be added to orders or transactions created in Commerce channels.\nCurrently, this is a limitation in the architecture for Call Center.\n\nSee the following documentation:  https://docs.microsoft.com/en-us/dynamics365/finance/accounts-receivable/revenue-recognition-overview",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/adding-a-bundle-item-on-the-call-center-sales-order-and-are-unable-to-explode-the-bundle-item",
+          "publishedOn": "2023-04-05T15:59:45.000Z",
+          "wordCount": 3905,
+          "title": "Adding a Bundle item on the Call Center Sales order and are unable to Explode the bundle item.",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:24a8d356-18be-43d0-8f29-b5d00cf9ba65",
           "author": "Ramune Peckyte",
