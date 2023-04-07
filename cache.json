@@ -744,6 +744,16 @@
       "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1867cbd0-23c8-4829-b3d9-9b9daf0df1b9",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nNicole Gump ngump@microsoft.com\nAlejandra Cabrales Orozco Alejandra.Cabrales@microsoft.com\nHarshad Puthran hputhran@microsoft.com\nJohan Hoffmann johanho@micros...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/asset-management-mobile-app---dynamics-365-supply-chain-management-march-22-23-2023",
+          "publishedOn": "2023-04-06T22:03:00.000Z",
+          "wordCount": 3373,
+          "title": "Asset Management Mobile App - Dynamics 365 Supply Chain Management | March 22, 23 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/357636_5F00_DTT129.png?_=638164156238596079"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:542d8c80-aa8e-48e8-a7e7-4bf69e0ad443",
           "author": "Ilanit Manor - Community Manager",
           "description": "www.youtube.com/watch\n\nPresenters: \nMarkus Otte Markus.Otte@microsoft.com\nUday Soni udaysoni@microsoft.com\nJohan Hoffmann johanho@microsoft.com\n\n~\nDiscrete production is one of three production c...(read more)",
@@ -2933,16 +2943,6 @@
           "wordCount": 1230,
           "title": "Power Automate Flow to fetch LCS environment metadata",
           "imageUrl": "https://d365fostuff.files.wordpress.com/2021/09/parallel-excel-actions-1.png?w=1200"
-        },
-        {
-          "id": "http://d365fostuff.wordpress.com/?p=217",
-          "author": "Marijan",
-          "description": "After my last post on auto refreshing data entities after a deployment, I want to show you how to enable users in your system after a database refresh. A big ‘thank you’ goes out, as always, to @splaxi for delivering the d365fo – toolset and for the idea on this post.We will use the d365fo.integrations […]",
-          "link": "https://d365fostuff.wordpress.com/2021/04/06/d365fo-integration-enable-users-after-database-refresh/",
-          "publishedOn": "2021-04-06T19:51:01.000Z",
-          "wordCount": 937,
-          "title": "d365fo.integration – Enable users after database refresh",
-          "imageUrl": "https://d365fostuff.files.wordpress.com/2021/04/devopsscript.png?w=1200"
         }
       ]
     },
@@ -7347,6 +7347,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=4887",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/04/06/process-mining-cost-accounting-part-1/",
+          "publishedOn": "2023-04-06T05:10:48.000Z",
+          "wordCount": 2652,
+          "title": "Process Mining & Cost Accounting – Part 1",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2022/12/mining1-en.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5050",
           "author": "Ludwig Reinhard",
           "description": "The video is available in German language only. Please use an online translation tool or check it out with English …\nContinue reading →",
@@ -10956,6 +10966,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "power-apps-on-windows-updates",
+          "author": null,
+          "description": "We built Power Apps on Windows (General Available since June 2022) so that your apps can take advantage of advanced device capabilities and offline support from your PC or tablet. We’ve added some great new features that we’d like to share with you. What’s new? Recent and pinned apps. Find recent apps and pin favorite…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-apps-on-windows-updates/",
+          "publishedOn": "2023-04-05T06:50:46.000Z",
+          "wordCount": 1864,
+          "title": "Power Apps on Windows updates",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "pge-saves-over-38-million-dollars-from-power-platform-solutions-and-a-center-of-excellence",
           "author": null,

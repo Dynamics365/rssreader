@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-06T01:13:19.771Z</updated>
+    <updated>2023-04-07T01:11:18.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Asset Management Mobile App - Dynamics 365 Supply Chain Management | March 22, 23 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1867cbd0-23c8-4829-b3d9-9b9daf0df1b9</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/asset-management-mobile-app---dynamics-365-supply-chain-management-march-22-23-2023"/>
+        <updated>2023-04-06T22:03:00.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com/watch
+
+Presenters: 
+Nicole Gump ngump@microsoft.com
+Alejandra Cabrales Orozco Alejandra.Cabrales@microsoft.com
+Harshad Puthran hputhran@microsoft.com
+Johan Hoffmann johanho@micros...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Process Mining & Cost Accounting – Part 1]]></title>
+        <id>http://dynamicsax-fico.com/?p=4887</id>
+        <link href="https://dynamicsax-fico.com/2023/04/06/process-mining-cost-accounting-part-1/"/>
+        <updated>2023-04-06T05:10:48.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Discrete Manufacturing Overview - Dynamics 365 Supply Chain Management | March 21, 2023]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:542d8c80-aa8e-48e8-a7e7-4bf69e0ad443</id>
@@ -41,6 +67,16 @@ Currently, this is a limitation in the architecture for Call Center.
 See the following documentation:  https://docs.microsoft.com/en-us/dynamics365/finance/accounts-receivable/revenue-recognition-overview]]></summary>
         <author>
             <name>DawnLanglie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Apps on Windows updates]]></title>
+        <id>power-apps-on-windows-updates</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-on-windows-updates/"/>
+        <updated>2023-04-05T06:50:46.000Z</updated>
+        <summary type="html"><![CDATA[We built Power Apps on Windows (General Available since June 2022) so that your apps can take advantage of advanced device capabilities and offline support from your PC or tablet. We’ve added some great new features that we’d like to share with you. What’s new? Recent and pinned apps. Find recent apps and pin favorite…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -17680,16 +17716,6 @@ We've seen a significant reduction in the number of downloads of the e-learning
         <summary type="html"><![CDATA[Read complete post here(read more)]]></summary>
         <author>
             <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d365fo.integration – Enable users after database refresh]]></title>
-        <id>http://d365fostuff.wordpress.com/?p=217</id>
-        <link href="https://d365fostuff.wordpress.com/2021/04/06/d365fo-integration-enable-users-after-database-refresh/"/>
-        <updated>2021-04-06T19:51:01.000Z</updated>
-        <summary type="html"><![CDATA[After my last post on auto refreshing data entities after a deployment, I want to show you how to enable users in your system after a database refresh. A big ‘thank you’ goes out, as always, to @splaxi for delivering the d365fo – toolset and for the idea on this post.We will use the d365fo.integrations […]]]></summary>
-        <author>
-            <name>Marijan</name>
         </author>
     </entry>
 </feed>
