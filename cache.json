@@ -744,6 +744,16 @@
       "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:595b163f-69b1-4218-8bba-74c2f846cf84",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nAmira Beldjilali - Sn FastTrack Solutions Architect\nCorina Balan – Sn Fast Track Solutions Architect\n\n~\nThis TechTalk covers a comparison between feature...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/conversation-intelligence-with-sales-premium-vs-with-viva-sales-april-2023",
+          "publishedOn": "2023-04-07T21:45:00.000Z",
+          "wordCount": 3337,
+          "title": "Conversation Intelligence with Sales Premium VS with Viva Sales | April 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/357679_5F00_vivasales.png?_=638165010043780262"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:1867cbd0-23c8-4829-b3d9-9b9daf0df1b9",
           "author": "Ilanit Manor - Community Manager",
           "description": "www.youtube.com/watch\n\nPresenters: \nNicole Gump ngump@microsoft.com\nAlejandra Cabrales Orozco Alejandra.Cabrales@microsoft.com\nHarshad Puthran hputhran@microsoft.com\nJohan Hoffmann johanho@micros...(read more)",
@@ -990,6 +1000,26 @@
       "feedUrl": "https://community.dynamics.com/ax/b/axmsdwnews/rss",
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8cc8da7a-944d-4693-95f2-ac9f56de4e89",
+          "author": "MSDynamicsWorld.com",
+          "description": "This episode is sponsored by \n \nMazars . \n \n Microsoft continues to support Dynamics 365 mixed reality\napplications to support training and remote work scenarios, and the\nproducts get even more interesting when viewed against the backdrop\nof the rest... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-an-update-on-mixed-reality-solutions-for-microsoft-dynamics-365",
+          "publishedOn": "2023-04-06T17:00:00.000Z",
+          "wordCount": 3740,
+          "title": "MSDW Podcast: An update on mixed reality solutions for Microsoft Dynamics 365",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d4bcb833-ed63-402b-b44f-e845fcc8f467",
+          "author": "MSDynamicsWorld.com",
+          "description": "The acquisition of AXP will help To-Increase expand its business and strengthen its presence in the process manufacturing vertical .... Read More Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/to-increase-acquires-microsoft-dynamics-isv-ax-for-pharma",
+          "publishedOn": "2023-04-06T16:00:00.000Z",
+          "wordCount": 3715,
+          "title": "To-Increase acquires Microsoft Dynamics ISV AX for Pharma",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f8aed53d-f2fb-4d80-b842-73d24779a501",
           "author": "MSDynamicsWorld.com",
@@ -10093,16 +10123,6 @@
           "wordCount": 3403,
           "title": "Use logic apps and Recurring Integrations API for exporting data package out of D365 for Finance and Operations",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:88e95f1e-f5d1-4d7d-93b5-d3dc6adc111c",
-          "author": "Sukrut Parab",
-          "description": "Read complete post here(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/posts/export-data-package-using-power-automate-and-data-management-package-rest-api",
-          "publishedOn": "2021-04-07T23:06:00.000Z",
-          "wordCount": 3435,
-          "title": "Export data package using power automate and data management package REST API",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -10168,6 +10188,26 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:53cbc5e6-3d23-4b33-823e-ba8d24b1ad05",
+          "author": "Deepak Singh",
+          "description": "Basic Configuration\nBelow is the few mandatory setup required to record the lease transaction. Apart from these, there are additional setup required as business requirement. \n\n1. Asset Leasing Parameter\n1A. Journal Name setup\nBelow are the journ...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/asset-leasing-configuration-in-dynamics-365-finance-operation",
+          "publishedOn": "2023-04-05T18:13:49.000Z",
+          "wordCount": 3756,
+          "title": "Asset Leasing Basic Configuration in Dynamics 365 Finance & Operation Part 2",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:260504ff-5c4e-46a0-aa42-3add5e21edbf",
+          "author": "Deepak Singh",
+          "description": "Introduction\nAsset leasing is an advanced capability for managing, tracking, and automating financial transactions for leased assets in Microsoft Dynamics 365 Finance. Asset leasing complies with International accounting standards (IFRS 16) and US GA...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/asset-leasing-general-introduction-in-dynamics-365-finance",
+          "publishedOn": "2023-04-05T06:02:54.000Z",
+          "wordCount": 3691,
+          "title": "Asset Leasing General Introduction in Dynamics 365 Finance & Operation Part 1",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:9e7f10c9-710f-4fb9-977c-793e9c39ffb7",
           "author": "Deepak Singh",

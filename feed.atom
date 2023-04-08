@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-07T01:11:18.940Z</updated>
+    <updated>2023-04-08T01:13:03.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Conversation Intelligence with Sales Premium VS with Viva Sales | April 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:595b163f-69b1-4218-8bba-74c2f846cf84</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/conversation-intelligence-with-sales-premium-vs-with-viva-sales-april-2023"/>
+        <updated>2023-04-07T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com/watch
+
+Presenters: 
+Amira Beldjilali - Sn FastTrack Solutions Architect
+Corina Balan – Sn Fast Track Solutions Architect
+
+~
+This TechTalk covers a comparison between feature...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asset Management Mobile App - Dynamics 365 Supply Chain Management | March 22, 23 2023]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1867cbd0-23c8-4829-b3d9-9b9daf0df1b9</id>
@@ -23,6 +40,33 @@ Johan Hoffmann johanho@micros...(read more)]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MSDW Podcast: An update on mixed reality solutions for Microsoft Dynamics 365]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8cc8da7a-944d-4693-95f2-ac9f56de4e89</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-an-update-on-mixed-reality-solutions-for-microsoft-dynamics-365"/>
+        <updated>2023-04-06T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This episode is sponsored by 
+ 
+Mazars . 
+ 
+ Microsoft continues to support Dynamics 365 mixed reality
+applications to support training and remote work scenarios, and the
+products get even more interesting when viewed against the backdrop
+of the rest... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To-Increase acquires Microsoft Dynamics ISV AX for Pharma]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d4bcb833-ed63-402b-b44f-e845fcc8f467</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/to-increase-acquires-microsoft-dynamics-isv-ax-for-pharma"/>
+        <updated>2023-04-06T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The acquisition of AXP will help To-Increase expand its business and strengthen its presence in the process manufacturing vertical .... Read More Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Process Mining & Cost Accounting – Part 1]]></title>
         <id>http://dynamicsax-fico.com/?p=4887</id>
         <link href="https://dynamicsax-fico.com/2023/04/06/process-mining-cost-accounting-part-1/"/>
@@ -30,6 +74,21 @@ Johan Hoffmann johanho@micros...(read more)]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asset Leasing Basic Configuration in Dynamics 365 Finance & Operation Part 2]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:53cbc5e6-3d23-4b33-823e-ba8d24b1ad05</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/asset-leasing-configuration-in-dynamics-365-finance-operation"/>
+        <updated>2023-04-05T18:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Basic Configuration
+Below is the few mandatory setup required to record the lease transaction. Apart from these, there are additional setup required as business requirement. 
+
+1. Asset Leasing Parameter
+1A. Journal Name setup
+Below are the journ...(read more)]]></summary>
+        <author>
+            <name>Deepak Singh</name>
         </author>
     </entry>
     <entry>
@@ -77,6 +136,17 @@ See the following documentation:  https://docs.microsoft.com/en-us/dynamics365
         <summary type="html"><![CDATA[We built Power Apps on Windows (General Available since June 2022) so that your apps can take advantage of advanced device capabilities and offline support from your PC or tablet. We’ve added some great new features that we’d like to share with you. What’s new? Recent and pinned apps. Find recent apps and pin favorite…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asset Leasing General Introduction in Dynamics 365 Finance & Operation Part 1]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:260504ff-5c4e-46a0-aa42-3add5e21edbf</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/asset-leasing-general-introduction-in-dynamics-365-finance"/>
+        <updated>2023-04-05T06:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Asset leasing is an advanced capability for managing, tracking, and automating financial transactions for leased assets in Microsoft Dynamics 365 Finance. Asset leasing complies with International accounting standards (IFRS 16) and US GA...(read more)]]></summary>
+        <author>
+            <name>Deepak Singh</name>
         </author>
     </entry>
     <entry>
@@ -17706,16 +17776,6 @@ We've seen a significant reduction in the number of downloads of the e-learning
         <summary type="html"><![CDATA[In this blog I want to discuss how you can download the Microsoft Dynamics 365 for Finance and Operations NuGets from LCS and push them automatically to Feeds in Azure Artifacts via Azure Pipeline. Before publishing this blog, but after creating the corresponding YML-File, Victor Tang (Microsoft Customer Engineer) has published a nice step by … Continue reading Download the MsDyn365FO NuGets from LCS and push them to a feed in Azure Artifacts via Azure Pipeline →]]></summary>
         <author>
             <name>Paul Heisterkamp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Export data package using power automate and data management package REST API]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:88e95f1e-f5d1-4d7d-93b5-d3dc6adc111c</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/posts/export-data-package-using-power-automate-and-data-management-package-rest-api"/>
-        <updated>2021-04-07T23:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Read complete post here(read more)]]></summary>
-        <author>
-            <name>Sukrut Parab</name>
         </author>
     </entry>
 </feed>
