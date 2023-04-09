@@ -4730,6 +4730,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/04/release-wave-1-expands-agility-automation-and-innovation-across-microsoft-dynamics-365-and-power-platform/",
+          "author": "Charles Lamanna",
+          "description": "Today we launched 2023 release wave 1 for Microsoft Dynamics 365 and Microsoft Power Platform, a rollout of new features and enhanced capabilities slated for release between April and September 2023.\nThe post Release wave 1 expands agility, automation, and innovation across Microsoft Dynamics 365 and Power Platform appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/04/release-wave-1-expands-agility-automation-and-innovation-across-microsoft-dynamics-365-and-power-platform/",
+          "publishedOn": "2023-04-04T17:00:00.000Z",
+          "wordCount": 3663,
+          "title": "Release wave 1 expands agility, automation, and innovation across Microsoft Dynamics 365 and Power Platform",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/Commercial16_discussion_03.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/04/dynamics-365-implementation-portal-now-available/",
+          "author": "Gonçalo Antunes",
+          "description": "We are excited to announce the launch of the Dynamics 365 Implementation Portal. The implementation portal is a self-serve tool that helps Dynamics 365 customers and partners manage their project data, users, and reviews.\nThe post Dynamics 365 Implementation Portal now available appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/04/dynamics-365-implementation-portal-now-available/",
+          "publishedOn": "2023-04-04T14:30:00.000Z",
+          "wordCount": 1975,
+          "title": "Dynamics 365 Implementation Portal now available",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/CLO20b_Sabien_team_meeting_001-scaled.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/03/30/supercharge-sales-conversion-in-3-easy-steps-to-drive-revenue-and-customer-wins/",
           "author": "Phani Goruganthu, Ankur Gupta and Hengul Dutta",
           "description": "Converting leads and opportunities directly contributes to the company's revenue.\nThe post Supercharge sales conversion in 3 easy steps to drive revenue and customer wins!  appeared first on Microsoft Dynamics 365 Blog.",
@@ -10766,6 +10786,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=7581",
+          "author": "Eugen Glasow",
+          "description": "You are going to have this error in Dynamics 365 Warehouse management, guaranteed. The error manifests itself at the production order picking or at sales order picking: the picking location is empty. Depending on the Location directive failures setup under the Warehouse management parameters this is going to either create a […]\nThe post Dynamics 365 SCM: Do not reserve in Inbound appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/dynamics-365-scm-do-not-reserve-in-inbound/",
+          "publishedOn": "2023-04-08T17:31:46.000Z",
+          "wordCount": 2300,
+          "title": "Dynamics 365 SCM: Do not reserve in Inbound",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2023/04/Dynamics-365-Inbound-status-process.png"
+        },
         {
           "id": "https://erconsult.eu/?p=7543",
           "author": "Eugen Glasow",
