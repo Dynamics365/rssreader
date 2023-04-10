@@ -22,11 +22,136 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-10 datetime="2023-04-09T19:59:00.002Z">2023-04-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-10 datetime="2023-04-09T19:59:00.002Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Adventures in Axapta world</button>
+                  <a class="source-heading__link" href="https://alexvoy.blogspot.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://alexvoy.blogspot.com/2023/04/two-outer-joined-tables-in-report.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Two outer joined tables in a report without duplicates from both sides</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://alexvoy.blogspot.com/2023/04/two-outer-joined-tables-in-report.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgJlNxlYwHotpiJtjZooTpFUghyshF1Z-HyrAoqP-EOQ-C9mB6ApMUXI5mqwOsL36rrcMCEtLHMW41hGhC-rJDeJen7bmelSED0V1_kSJBbWLHGuj5rjrxSMtIhi6eNoUsZnIhFRnRFEwypMj1IC8h6cV-KoQvcGhFYC3xVSuUpLSTncJVh11YsObKi&#x3D;w1200-h630-p-k-no-nu" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I cannot find a particular term for this type of join; so I called it &#x27;hanging left outer join&#x27;.
+
+
+Let&#x27;s state the problem.
+
+
+We have two tables:
+- LedgerJournalTrans (trans) with a field mgcProjId, which is a reference to ProjTable.
+- mgcWarrantsDetails (details), which may have 0..N records for certain records from ProjTable.
+
+
+Examples of data in both may look like the following:
+
+
+
+
+If we apply standard outer join, the output will be as follows
+
+
+
+But we need to print all details records by &#x27;hanging&#x27; them against the same projId, like this
+
+
+
+So, no duplicates from both tables must be present in the merged table.
+
+
+This is how you can achieve it. 
+
+/// 
+    /// Process report data.
+    /// 
+    public void processReport()
+    {
+        Query                   query;
+…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-09 datetime="2023-04-08T17:31:46.000Z">2023-04-09</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-09 datetime="2023-04-08T17:31:46.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >D365FO blog of ER-Consult</button>
+                  <a class="source-heading__link" href="https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="f7860544-fd88-4f76-8c0c-6920dd39f354:f8a20f9e-a7e1-4fdd-9943-dc5c15841d4a"
+                        open
+                      >
+                        <summary class="article-expander__title">Dynamics 365 SCM: Do not reserve in Inbound</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/dynamics-365-scm-do-not-reserve-in-inbound">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_&#x3D;637798982754763787" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Dynamics 365 SCM: Do not reserve in Inbound		
+				
+				
+				
+					
+					
+						
+											
+									...(read more)</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -51013,8 +51138,8 @@ We&#x27;ve seen a significant reduction in the number of downloads of the e-lea
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/4648041453">
-        <time id="build-timestamp" datetime="2023-04-09T01:18:17.025Z">2023-04-09T01:18:17.025Z</time>
+      <a class="footer-link" href="https://github.com/Dynamics365/finopsnews/actions/runs/4653494183">
+        <time id="build-timestamp" datetime="2023-04-10T01:15:05.223Z">2023-04-10T01:15:05.223Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

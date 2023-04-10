@@ -6502,6 +6502,16 @@
       "siteUrl": "https://alexvoy.blogspot.com/",
       "articles": [
         {
+          "id": "https://alexvoy.blogspot.com/2023/04/two-outer-joined-tables-in-report.html",
+          "author": null,
+          "description": "I cannot find a particular term for this type of join; so I called it 'hanging left outer join'.\n\n\nLet's state the problem.\n\n\nWe have two tables:\n- LedgerJournalTrans (trans) with a field mgcProjId, which is a reference to ProjTable.\n- mgcWarrantsDetails (details), which may have 0..N records for certain records from ProjTable.\n\n\nExamples of data in both may look like the following:\n\n\n\n\nIf we apply standard outer join, the output will be as follows\n\n\n\nBut we need to print all details records by 'hanging' them against the same projId, like this\n\n\n\nSo, no duplicates from both tables must be present in the merged table.\n\n\nThis is how you can achieve it. \n\n/// <summary>\n    /// Process report data.\n    /// </summary>\n    public void processReport()\n    {\n        Query                   query;\n…",
+          "link": "https://alexvoy.blogspot.com/2023/04/two-outer-joined-tables-in-report.html",
+          "publishedOn": "2023-04-09T19:59:00.002Z",
+          "wordCount": 2404,
+          "title": "Two outer joined tables in a report without duplicates from both sides",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgJlNxlYwHotpiJtjZooTpFUghyshF1Z-HyrAoqP-EOQ-C9mB6ApMUXI5mqwOsL36rrcMCEtLHMW41hGhC-rJDeJen7bmelSED0V1_kSJBbWLHGuj5rjrxSMtIhi6eNoUsZnIhFRnRFEwypMj1IC8h6cV-KoQvcGhFYC3xVSuUpLSTncJVh11YsObKi=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://alexvoy.blogspot.com/2023/03/how-to-exportimport-tax-registration.html",
           "author": null,
           "description": "D365FO contains a special data entity which can be used for both DMF export/import and also in Excel Add-in, but... \nThere is an interesting InnerJoin inside of this data entity, which may be a hurdle for understanding why you still have no records exported; nevertheless, you have some in TaxRegistration table.\n\n\n\n\nIn fact, when you create records in Vendor Registration IDs form, it does not tell you about this constraint.\n\n\n\n\n\n\nTo get these records exported, you simply need to add it in Registration categories.\n\n\n\nand voila!",
@@ -9251,6 +9261,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f8a20f9e-a7e1-4fdd-9943-dc5c15841d4a",
+          "author": "Eugen Glasow",
+          "description": "Dynamics 365 SCM: Do not reserve in Inbound\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/dynamics-365-scm-do-not-reserve-in-inbound",
+          "publishedOn": "2023-04-08T17:31:46.000Z",
+          "wordCount": 4391,
+          "title": "Dynamics 365 SCM: Do not reserve in Inbound",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8922251b-4a2a-441f-ab5a-d5c314a06295",
           "author": "Eugen Glasow",
