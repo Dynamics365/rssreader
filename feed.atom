@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-10T01:15:05.345Z</updated>
+    <updated>2023-04-11T01:15:32.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Subcontract management in Dynamics 365 Project Operations | March 16, 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:08b1e7e6-9c89-4760-a211-90db654827c2</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/subcontract-management-in-dynamics-365-project-operations-march-16-2023"/>
+        <updated>2023-04-10T21:31:00.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com/watch
+
+Presenters: 
+Satish Panwar sapanwar@microsoft.com
+Martin Walker Walker.Martin@microsoft.com
+
+~
+Microsoft Dynamics 365 Project Operations connects sales, resourcing, project...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Process Mining & Cost Accounting – Part 2]]></title>
+        <id>http://dynamicsax-fico.com/?p=4895</id>
+        <link href="https://dynamicsax-fico.com/2023/04/10/process-mining-cost-accounting-part-2/"/>
+        <updated>2023-04-10T13:37:37.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two outer joined tables in a report without duplicates from both sides]]></title>
         <id>https://alexvoy.blogspot.com/2023/04/two-outer-joined-tables-in-report.html</id>
@@ -111,6 +138,17 @@ Harshad Puthran hputhran@microsoft.com
 Johan Hoffmann johanho@micros...(read more)]]></summary>
         <author>
             <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 wave 1 releases AI, automation, and analytics in Microsoft Dynamics 365 Finance and Project Operations]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/06/2023-wave-1-releases-ai-automation-and-analytics-in-microsoft-dynamics-365-finance-and-project-operations/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/06/2023-wave-1-releases-ai-automation-and-analytics-in-microsoft-dynamics-365-finance-and-project-operations/"/>
+        <updated>2023-04-06T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[With the 2023 release wave 1, we are delivering enhancements across Dynamics 365 Finance, Dynamics 365 Project Operations, and Dynamics 365 Human Resources that focus on helping our customers adapt faster, work smarter, perform better, and operate more sustainably.
+The post 2023 wave 1 releases AI, automation, and analytics in Microsoft Dynamics 365 Finance and Project Operations appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Gurkan Salk</name>
         </author>
     </entry>
     <entry>
@@ -428,6 +466,17 @@ The post Production order should not get Released on material shortage appeared 
         <summary type="html"><![CDATA[We are excited to announce enhanced security for implicitly shared connections in Power Apps. Many customers have asked for this feature, and it is now available in all commercial regions as Experimental Preview. Power Apps’ implicitly shared connections are ones that use a fixed credential such as a SQL Server connection string rather than the…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customer Service voice support channel launches in India and Switzerland]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/03/29/customer-service-voice-support-channel-launches-in-india-and-switzerland/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/03/29/customer-service-voice-support-channel-launches-in-india-and-switzerland/"/>
+        <updated>2023-03-29T20:34:53.000Z</updated>
+        <summary type="html"><![CDATA[As of April 1, 2023, the voice support channel in Dynamics 365 Customer Service is live in India and Switzerland. 
+The post Customer Service voice support channel launches in India and Switzerland  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Varsha Nandula</name>
         </author>
     </entry>
     <entry>
