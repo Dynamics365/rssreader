@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-12T01:15:54.707Z</updated>
+    <updated>2023-04-13T01:14:11.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cash flow forecast configuration in Microsoft Dynamics 365 finance and operations: Part-1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2422</id>
+        <link href="https://exploredynamics365.home.blog/2023/04/13/cash-flow-forecast-configuration-in-microsoft-dynamics-365-finance-and-operations-part-1/"/>
+        <updated>2023-04-12T19:47:20.000Z</updated>
+        <summary type="html"><![CDATA[You can use the cash flow forecasting tools to analyse upcoming cash flow and currency requirements, so that you can estimate the company’s future need for cash. In this blog primary focus is to complete the configuration for cash flow forecast calculation. So, before we start the configuration lets understand the key drivers for cash […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cash flow forecast configuration in Microsoft Dynamics 365 finance and operations: Part-1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2422</id>
+        <link href="https://exploredynamics365.home.blog/2023/04/13/cash-flow-forecast-configuration-in-microsoft-dynamics-365-finance-and-operations-part-1/"/>
+        <updated>2023-04-12T19:47:20.000Z</updated>
+        <summary type="html"><![CDATA[You can use the cash flow forecasting tools to analyse upcoming cash flow and currency requirements, so that you can estimate the company’s future need for cash. In this blog primary focus is to complete the configuration for cash flow forecast calculation. So, before we start the configuration lets understand the key drivers for cash […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make your Supply Chain Resilient and Agile with D365 F&O | PLM Integration Solution with ECM and Analytics Capabilities (Video)]]></title>
+        <id>https://www.encorebusiness.com/?p=56487</id>
+        <link href="https://www.encorebusiness.com/blog/make-your-supply-chain-resilient-and-agile-with-d365-fo-plm-integration-solution-with-ecm-and-analytics-capabilities/"/>
+        <updated>2023-04-12T10:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Make your Supply Chain Resilient and Agile with D365 F&O | PLM Integration Solution with ECM and Analytics Capabilities (Video)
+How can a manufacturing organization connect the diverse teams and activities to make the entire designing, building and supply chain processes work like a well-oiled machine? Discover how a PLM-ERP integration solution, together with engineering change management and analytics capabilities, connects your design and manufacturing functions, minimizes supply chain disruptions, and helps you make informed...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>To-Increase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Custom Connector for your Web API from within Visual Studio]]></title>
+        <id>create-a-custom-connector-for-your-web-api-from-within-visual-studio</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/create-a-custom-connector-for-your-web-api-from-within-visual-studio/"/>
+        <updated>2023-04-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m excited to announce that Power Platform is now a connected service in Visual Studio 2022 Preview! Code-first developers will now be able to create both APIs and connectors from within Microsoft Visual Studio, thereby minimizing context switching when developing custom connectors for Microsoft Power Platform. Let’s explore how to create a simple Power apps…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Performance best practices and patterns for E-commerce- Dynamics 365 Commerce | March 20, 2023]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:680a6059-f830-4a9e-a2ce-d092d67e2f4a</id>
@@ -36,6 +79,18 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Release wave 1: Transforming customer experiences with generative AI and Dynamics 365]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:847acfe3-280e-4883-9027-bd9702349427</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/release-wave-1-transforming-customer-experiences-with-generative-ai-and-dynamics-365"/>
+        <updated>2023-04-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Generative AI has left its mark on computing, and it's only the beginning. The world of business applications will never be the same. For several years now, we have been iterating on and shipping copilot features in Microsoft Dynamics 365, and I'm pleased to announce our next wave of value.
+And it's coming out just in time. Today's customers demand tailored experiences that cater to their individual needs. They expect businesses to be responsive on all communication channels and to treat each individual with knowledge of their overall relationship and journey. For example, recent research from LinkedIn found that over two-thirds of customers say they're less likely to engage with sellers whose initial outreach isn't tailored to them and their role.1
+On the heels of our Business Application…]]></summary>
+        <author>
+            <name>Lori Lamkin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Subcontract management in Dynamics 365 Project Operations | March 16, 2023]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:08b1e7e6-9c89-4760-a211-90db654827c2</id>
         <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/subcontract-management-in-dynamics-365-project-operations-march-16-2023"/>
@@ -50,6 +105,28 @@ Martin Walker Walker.Martin@microsoft.com
 Microsoft Dynamics 365 Project Operations connects sales, resourcing, project...(read more)]]></summary>
         <author>
             <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create beautiful email templates with enhanced email editor]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0f2bcbb1-e5f1-426d-9476-1b59b4c53525</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/create-beautiful-email-templates-with-enhanced-email-editor"/>
+        <updated>2023-04-10T17:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Customer service agents in the digital contact center can handle a variety of cases that require specialized knowledge and personal attention. At the same time, they might also find themselves answering the same types of questions or having to send emails with a common theme. Email templates make it easy to streamline and consolidate these types of tasks. 
+With email templates, agents spend less time writing the same content repeatedly and more time helping the customers. Email templates help agents to optimize their time, improve productivity, and ensure consistent messaging. This translates to quick resolution and happy customers. 
+To ensure agents can create email templates easily, Dynamics 365 Customer Service offers an enhanced email editor that allows agents to use a variety of layou…]]></summary>
+        <author>
+            <name>Naman Agrawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Supply Chain Platform at Hannover Messe 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:413deb05-afb3-437b-af5d-95bfef884b8b</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/microsoft-supply-chain-platform-at-hannover-messe-2023"/>
+        <updated>2023-04-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, disruptions like COVID-19, geopolitical conflict, and natural disasters have challenged organizations to improve their supply chain resilience. A Microsoft-sponsored Harvard Business Review Analytic Services survey from October 2022 indicates that 94 percent of respondents view supply chain operations as a higher priority than they did three years ago. Moreover, 97 percent agree that a resilient supply chain positively affects a company’s bottom line.1 However, many organizations struggle to achieve this resilience due to technological challenges and a shortage of qualified talent. AI and related emerging technologies are helping businesses overcome these challenges by empowering teams with solutions that amplify and extend current capabilities. With this in mind, we’re ex…]]></summary>
+        <author>
+            <name>Francois van Splunder</name>
         </author>
     </entry>
     <entry>
@@ -167,6 +244,17 @@ Harshad Puthran hputhran@microsoft.com
 Johan Hoffmann johanho@micros...(read more)]]></summary>
         <author>
             <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 wave 1 releases AI, automation, and analytics in Microsoft Dynamics 365 Finance and Project Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:76304fd9-9d04-44b0-b804-80c6cd100445</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/2023-wave-1-releases-ai-automation-and-analytics-in-microsoft-dynamics-365-finance-and-project-operations"/>
+        <updated>2023-04-06T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We surveyed more than 500 CFOs and senior business leaders for our 2023 Future of Finance Trends Report and found that many organizations continue to struggle with lack of IT resources, overwhelmed employees, and disconnected systems. In fact, while 79 percent outlined that they were shifting to owning business model innovation and empowering transformation across the organization, 88 percent said they don't have the IT resources or tools needed to drive operational efficiency and minimize busy work for their teams. Finance, human resources (HR), and project operations leaders need to reimagine processes to help their teams achieve more, faster. 
+With the 2023 release wave 1, we are delivering enhancements across Microsoft Dynamics 365 Finance, Dynamics 365 Project Operations, and Dynamics…]]></summary>
+        <author>
+            <name>Gurkan Salk</name>
         </author>
     </entry>
     <entry>
@@ -292,6 +380,18 @@ Asset leasing is an advanced capability for managing, tracking, and automating f
     </entry>
     <entry>
         <title type="html"><![CDATA[Release wave 1 expands agility, automation, and innovation across Microsoft Dynamics 365 and Power Platform]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4e5c0754-3e93-4172-b725-06872e48bf78</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/release-wave-1-expands-agility-automation-and-innovation-across-microsoft-dynamics-365-and-power-platform"/>
+        <updated>2023-04-04T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we launched 2023 release wave 1 for Microsoft Dynamics 365 and Microsoft Power Platform, a rollout of new features and enhanced capabilities slated for release between April and September 2023.
+The updates include Copilot for Dynamics 365 and Copilot for Microsoft Power Platform, bringing the power of next-generation AI capabilities and natural language processing to business processes. Release wave 1 also introduces hundreds of new and updated user experiences to collaboratively solve challenges, streamline workflows, and help individuals and teams focus on what matters most.
+The 2023 Microsoft Business Applications Launch Event, available to view on demand, is a great way to get up to speed on the release wave and learn how organizations are already using these capabilities to tran…]]></summary>
+        <author>
+            <name>Charles Lamanna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release wave 1 expands agility, automation, and innovation across Microsoft Dynamics 365 and Power Platform]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/04/release-wave-1-expands-agility-automation-and-innovation-across-microsoft-dynamics-365-and-power-platform/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/04/release-wave-1-expands-agility-automation-and-innovation-across-microsoft-dynamics-365-and-power-platform/"/>
         <updated>2023-04-04T17:00:00.000Z</updated>
@@ -299,6 +399,29 @@ Asset leasing is an advanced capability for managing, tracking, and automating f
 The post Release wave 1 expands agility, automation, and innovation across Microsoft Dynamics 365 and Power Platform appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Charles Lamanna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Implementation Portal now available]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:300b9758-0779-41a2-9eef-7fa215897c8c</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/dynamics-365-implementation-portal-now-available"/>
+        <updated>2023-04-04T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the launch of the Dynamics 365 Implementation Portal. The implementation portal is a self-serve tool that helps Dynamics 365 customers and partners manage their project data, users, and reviews. It also provides access to tailored implementation guidance to help ensure a successful cloud deployment.
+
+Manage project data: Manage project data and users, profile projects by selecting the relevant Dynamics 365 products and features, and define other project characteristics.
+Execute project reviews: Identify potential risks, mitigation recommendations, and other best practices based on the Success by Design framework to support a successful go-live.
+Access tailored guidance: Access tailored implementation guidance, including feature and product documentation, TechTalks, training materials, and case studies.
+
+The implementation portal is based on Success by Design, a systematic approach for successful cloud deployment that was developed by Microsoft. Success by Design provides prescriptive guidance for designing, building, and deploying your new Dynamics 365 solution.
+Eligible customers may also collaborate with Microsoft FastTrack solution architects. The FastTrack team of product experts can help you validate the architecture of your solution, mitigate risks, and overcome deployment blockers.
+The Dynamics 365 Implementation Portal represents a significant step in equipping all Dynamics 365 customers with the necessary resources to go live with confidence.
+Next steps
+Sign up for the Dynamics 365 Implementation Portal: https://aka.ms/D365ImplementationPortal
+Learn more about the implementation portal: https://aka.ms/D365ImplementationPortal-Docs
+Not yet a Dynamics 365 customer? Take a tour and get a free trial.
+The post Dynamics 365 Implementation Portal now available appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Gon&amp;amp;#231;alo Antunes</name>
         </author>
     </entry>
     <entry>
@@ -495,6 +618,21 @@ The post Production order should not get Released on material shortage appeared 
         <summary type="html"><![CDATA[We are excited to announce enhanced security for implicitly shared connections in Power Apps. Many customers have asked for this feature, and it is now available in all commercial regions as Experimental Preview. Power Apps’ implicitly shared connections are ones that use a fixed credential such as a SQL Server connection string rather than the…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customer Service voice support channel launches in India and Switzerland]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c6898d59-039f-422e-8065-0109edd27f0d</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/customer-service-voice-support-channel-launches-in-india-and-switzerland"/>
+        <updated>2023-03-29T20:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Since the November 2021 launch in select geographic regions of the native voice channel in Microsoft Dynamics 365 Customer Service, we have been expanding worldwide to satisfy growing customer demand. We are proud to announce that we now support local country regions as well. As of April 1, 2023, the voice support channel is live in India and Switzerland. 
+Native voice support channel capabilities 
+The integrated voice channel allows customer service representatives to communicate with customers on the phone to resolve issues. The India and Switzerland launches include all the features that the voice channel in Customer Service omnichannel environments supports today. 
+
+Self-serve voice support channel with Power Virtual Agents 
+The general availability launch in India and Switzerland also…]]></summary>
+        <author>
+            <name>Varsha Nandula</name>
         </author>
     </entry>
     <entry>
@@ -17908,38 +18046,6 @@ concept - let’s go !]]></summary>
         <summary type="html"><![CDATA[Watch and learn about the Lifecycle Services (LCS) implementation project type including when to use them and what makes them different from other project types.  For more information, visit: htt...(read more)]]></summary>
         <author>
             <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Automate & MSDyn365FO: A fondo (IV)]]></title>
-        <id>https://jatomas.com/?p=1775</id>
-        <link href="https://jatomas.com/2021/04/13/power-automate-msdyn365fo-fondo-iv/"/>
-        <updated>2021-04-13T06:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Hace unas semanas, preparando la sesión para el Global Power Platform Bootcamp 2021, me di cuenta que la serie de artículos que había escrito sobre Power Automate & MSDyn365FO estaba incompleta…, me había dejado una de las opciones que tiene disponible el conector de Dynamics 365 Finance and Operations apps sin analizar: Ejecutar acción Ejecutar… 
-Read]]></summary>
-        <author>
-            <name>ja.tomas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Development tutorial] Extending the work list and work pick line overview flow fields]]></title>
-        <id>http://kashperuk.blogspot.com/2021/04/development-tutorial-extending-work.html</id>
-        <link href="http://kashperuk.blogspot.com/2021/04/development-tutorial-extending-work.html"/>
-        <updated>2021-04-13T00:14:00.002Z</updated>
-        <summary type="html"><![CDATA[IntroductionWhenever we talk about the work list, and recently also the work pick line overview feature, customers think this could be a great optimization for their warehouse, but frequently, they want to display some business-specific information on the cards, that would help drive the decisions, but that information is not available out of the box on the work list.In this post I'd like to]]></summary>
-        <author>
-            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Downloadable courses retiring in October, 2021]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c178ebf8-faba-48a1-b3cb-3d4b3fdef8ef</id>
-        <link href="https://community.dynamics.com/365/b/learningcurriculum/posts/downloadable-courses-retiring-in-october-2021"/>
-        <updated>2021-04-12T21:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi all,
-We've seen a significant reduction in the number of downloads of the e-learning courses. We will be removing them as downloads October 15, 2021. Please download any of ...(read more)]]></summary>
-        <author>
-            <name>Margo Crandall Microsoft</name>
         </author>
     </entry>
 </feed>

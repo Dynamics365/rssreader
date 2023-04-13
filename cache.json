@@ -351,18 +351,7 @@
       "title": "Dynamics 365 Downloadable E-learning Courses for Customers",
       "feedUrl": "https://community.dynamics.com/365/b/learningcurriculum/rss",
       "siteUrl": "https://community.dynamics.com/365/b/learningcurriculum",
-      "articles": [
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c178ebf8-faba-48a1-b3cb-3d4b3fdef8ef",
-          "author": "Margo Crandall Microsoft",
-          "description": "Hi all,\nWe've seen a significant reduction in the number of downloads of the e-learning courses. We will be removing them as downloads October 15, 2021. Please download any of ...(read more)",
-          "link": "https://community.dynamics.com/365/b/learningcurriculum/posts/downloadable-courses-retiring-in-october-2021",
-          "publishedOn": "2021-04-12T21:28:00.000Z",
-          "wordCount": 829,
-          "title": "Downloadable courses retiring in October, 2021",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Microsoft Dynamics AX Videos",
@@ -1718,6 +1707,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56487",
+          "author": "To-Increase",
+          "description": "Make your Supply Chain Resilient and Agile with D365 F&O | PLM Integration Solution with ECM and Analytics Capabilities (Video)\nHow can a manufacturing organization connect the diverse teams and activities to make the entire designing, building and supply chain processes work like a well-oiled machine? Discover how a PLM-ERP integration solution, together with engineering change management and analytics capabilities, connects your design and manufacturing functions, minimizes supply chain disruptions, and helps you make informed...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/make-your-supply-chain-resilient-and-agile-with-d365-fo-plm-integration-solution-with-ecm-and-analytics-capabilities/",
+          "publishedOn": "2023-04-12T10:01:32.000Z",
+          "wordCount": 5410,
+          "title": "Make your Supply Chain Resilient and Agile with D365 F&O | PLM Integration Solution with ECM and Analytics Capabilities (Video)",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/04/To-Increase-Encore.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=56332",
           "author": "Aran Cameron",
           "description": "Unlock Business Potential with the Microsoft Ecosystem\nCompanies evaluating a critical business application like an ERP or CRM today often struggle to know how to make their choice. The truth is that from a low-level feature and function perspective, there’s very little to differentiate between most of the business applications on the market today. While no company should ignore those features and...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -2025,6 +2024,66 @@
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:847acfe3-280e-4883-9027-bd9702349427",
+          "author": "Lori Lamkin",
+          "description": "Generative AI has left its mark on computing, and it's only the beginning. The world of business applications will never be the same. For several years now, we have been iterating on and shipping copilot features in Microsoft Dynamics 365, and I'm pleased to announce our next wave of value.\nAnd it's coming out just in time. Today's customers demand tailored experiences that cater to their individual needs. They expect businesses to be responsive on all communication channels and to treat each individual with knowledge of their overall relationship and journey. For example, recent research from LinkedIn found that over two-thirds of customers say they're less likely to engage with sellers whose initial outreach isn't tailored to them and their role.1\nOn the heels of our Business Application…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/release-wave-1-transforming-customer-experiences-with-generative-ai-and-dynamics-365",
+          "publishedOn": "2023-04-11T15:00:00.000Z",
+          "wordCount": 5205,
+          "title": "Release wave 1: Transforming customer experiences with generative AI and Dynamics 365",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0f2bcbb1-e5f1-426d-9476-1b59b4c53525",
+          "author": "Naman Agrawal",
+          "description": "Customer service agents in the digital contact center can handle a variety of cases that require specialized knowledge and personal attention. At the same time, they might also find themselves answering the same types of questions or having to send emails with a common theme. Email templates make it easy to streamline and consolidate these types of tasks. \nWith email templates, agents spend less time writing the same content repeatedly and more time helping the customers. Email templates help agents to optimize their time, improve productivity, and ensure consistent messaging. This translates to quick resolution and happy customers. \nTo ensure agents can create email templates easily, Dynamics 365 Customer Service offers an enhanced email editor that allows agents to use a variety of layou…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/create-beautiful-email-templates-with-enhanced-email-editor",
+          "publishedOn": "2023-04-10T17:59:31.000Z",
+          "wordCount": 4032,
+          "title": "Create beautiful email templates with enhanced email editor",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:413deb05-afb3-437b-af5d-95bfef884b8b",
+          "author": "Francois van Splunder",
+          "description": "In recent years, disruptions like COVID-19, geopolitical conflict, and natural disasters have challenged organizations to improve their supply chain resilience. A Microsoft-sponsored Harvard Business Review Analytic Services survey from October 2022 indicates that 94 percent of respondents view supply chain operations as a higher priority than they did three years ago. Moreover, 97 percent agree that a resilient supply chain positively affects a company’s bottom line.1 However, many organizations struggle to achieve this resilience due to technological challenges and a shortage of qualified talent. AI and related emerging technologies are helping businesses overcome these challenges by empowering teams with solutions that amplify and extend current capabilities. With this in mind, we’re ex…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/microsoft-supply-chain-platform-at-hannover-messe-2023",
+          "publishedOn": "2023-04-10T15:00:00.000Z",
+          "wordCount": 4904,
+          "title": "Microsoft Supply Chain Platform at Hannover Messe 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:76304fd9-9d04-44b0-b804-80c6cd100445",
+          "author": "Gurkan Salk",
+          "description": "We surveyed more than 500 CFOs and senior business leaders for our 2023 Future of Finance Trends Report and found that many organizations continue to struggle with lack of IT resources, overwhelmed employees, and disconnected systems. In fact, while 79 percent outlined that they were shifting to owning business model innovation and empowering transformation across the organization, 88 percent said they don't have the IT resources or tools needed to drive operational efficiency and minimize busy work for their teams. Finance, human resources (HR), and project operations leaders need to reimagine processes to help their teams achieve more, faster. \nWith the 2023 release wave 1, we are delivering enhancements across Microsoft Dynamics 365 Finance, Dynamics 365 Project Operations, and Dynamics…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/2023-wave-1-releases-ai-automation-and-analytics-in-microsoft-dynamics-365-finance-and-project-operations",
+          "publishedOn": "2023-04-06T17:30:00.000Z",
+          "wordCount": 5539,
+          "title": "2023 wave 1 releases AI, automation, and analytics in Microsoft Dynamics 365 Finance and Project Operations",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4e5c0754-3e93-4172-b725-06872e48bf78",
+          "author": "Charles Lamanna",
+          "description": "Today we launched 2023 release wave 1 for Microsoft Dynamics 365 and Microsoft Power Platform, a rollout of new features and enhanced capabilities slated for release between April and September 2023.\nThe updates include Copilot for Dynamics 365 and Copilot for Microsoft Power Platform, bringing the power of next-generation AI capabilities and natural language processing to business processes. Release wave 1 also introduces hundreds of new and updated user experiences to collaboratively solve challenges, streamline workflows, and help individuals and teams focus on what matters most.\nThe 2023 Microsoft Business Applications Launch Event, available to view on demand, is a great way to get up to speed on the release wave and learn how organizations are already using these capabilities to tran…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/release-wave-1-expands-agility-automation-and-innovation-across-microsoft-dynamics-365-and-power-platform",
+          "publishedOn": "2023-04-04T17:00:00.000Z",
+          "wordCount": 5448,
+          "title": "Release wave 1 expands agility, automation, and innovation across Microsoft Dynamics 365 and Power Platform",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:300b9758-0779-41a2-9eef-7fa215897c8c",
+          "author": "Gon&amp;amp;#231;alo Antunes",
+          "description": "We are excited to announce the launch of the Dynamics 365 Implementation Portal. The implementation portal is a self-serve tool that helps Dynamics 365 customers and partners manage their project data, users, and reviews. It also provides access to tailored implementation guidance to help ensure a successful cloud deployment.\n\nManage project data: Manage project data and users, profile projects by selecting the relevant Dynamics 365 products and features, and define other project characteristics.\nExecute project reviews: Identify potential risks, mitigation recommendations, and other best practices based on the Success by Design framework to support a successful go-live.\nAccess tailored guidance: Access tailored implementation guidance, including feature and product documentation, TechTalks, training materials, and case studies.\n\nThe implementation portal is based on Success by Design, a systematic approach for successful cloud deployment that was developed by Microsoft. Success by Design provides prescriptive guidance for designing, building, and deploying your new Dynamics 365 solution.\nEligible customers may also collaborate with Microsoft FastTrack solution architects. The FastTrack team of product experts can help you validate the architecture of your solution, mitigate risks, and overcome deployment blockers.\nThe Dynamics 365 Implementation Portal represents a significant step in equipping all Dynamics 365 customers with the necessary resources to go live with confidence.\nNext steps\nSign up for the Dynamics 365 Implementation Portal: https://aka.ms/D365ImplementationPortal\nLearn more about the implementation portal: https://aka.ms/D365ImplementationPortal-Docs\nNot yet a Dynamics 365 customer? Take a tour and get a free trial.\nThe post Dynamics 365 Implementation Portal now available appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/dynamics-365-implementation-portal-now-available",
+          "publishedOn": "2023-04-04T14:30:00.000Z",
+          "wordCount": 3916,
+          "title": "Dynamics 365 Implementation Portal now available",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b012a4cb-1f3c-459d-9eeb-946563f08285",
           "author": "Phani Goruganthu, Ankur Gupta and Hengul Dutta",
           "description": "Converting leads and opportunities directly contributes to the company's revenue. To increase conversion rate companies often need a number of factors to align. First, it's about matching the right seller to take the deal forward.  As a business owner or sales manager, finding the best seller to work on the new lead can really make or break a customer relationship. We need to look carefully not just at the seller with the highest close rate, but also balance that with their availability and expertise to attend to the customer’s needs and requirements.  \nApplying the right business tactic to close a deal at the right moment is the second key to success. We must recognize where the buyer is in their sales journey and employ the right action to engage. If we can use technology to help provide…",
@@ -2032,6 +2091,16 @@
           "publishedOn": "2023-03-30T17:36:00.000Z",
           "wordCount": 4718,
           "title": "Supercharge sales conversion in 3 easy steps to drive revenue and customer wins!",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c6898d59-039f-422e-8065-0109edd27f0d",
+          "author": "Varsha Nandula",
+          "description": "Since the November 2021 launch in select geographic regions of the native voice channel in Microsoft Dynamics 365 Customer Service, we have been expanding worldwide to satisfy growing customer demand. We are proud to announce that we now support local country regions as well. As of April 1, 2023, the voice support channel is live in India and Switzerland. \nNative voice support channel capabilities \nThe integrated voice channel allows customer service representatives to communicate with customers on the phone to resolve issues. The India and Switzerland launches include all the features that the voice channel in Customer Service omnichannel environments supports today. \n\nSelf-serve voice support channel with Power Virtual Agents \nThe general availability launch in India and Switzerland also…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/customer-service-voice-support-channel-launches-in-india-and-switzerland",
+          "publishedOn": "2023-03-29T20:34:53.000Z",
+          "wordCount": 3995,
+          "title": "Customer Service voice support channel launches in India and Switzerland",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
         {
@@ -5654,6 +5723,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2422",
+          "author": "Saurabh Bharti",
+          "description": "You can use the cash flow forecasting tools to analyse upcoming cash flow and currency requirements, so that you can estimate the company’s future need for cash. In this blog primary focus is to complete the configuration for cash flow forecast calculation. So, before we start the configuration lets understand the key drivers for cash […]",
+          "link": "https://exploredynamics365.home.blog/2023/04/13/cash-flow-forecast-configuration-in-microsoft-dynamics-365-finance-and-operations-part-1/",
+          "publishedOn": "2023-04-12T19:47:20.000Z",
+          "wordCount": 2760,
+          "title": "Cash flow forecast configuration in Microsoft Dynamics 365 finance and operations: Part-1",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/04/cashflow-forecast.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2406",
           "author": "Saurabh Bharti",
           "description": "Managing purchase accruals has been a difficult task in Microsoft dynamics though we have accrual scheme but that doesn’t provide better reporting and control over accrual schedule. Now this has been resolved using the new module subscription billing and in this blog I am going to show you how we can manage purchase accruals in […]",
@@ -5890,6 +5969,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2422",
+          "author": "Saurabh Bharti",
+          "description": "You can use the cash flow forecasting tools to analyse upcoming cash flow and currency requirements, so that you can estimate the company’s future need for cash. In this blog primary focus is to complete the configuration for cash flow forecast calculation. So, before we start the configuration lets understand the key drivers for cash […]",
+          "link": "https://exploredynamics365.home.blog/2023/04/13/cash-flow-forecast-configuration-in-microsoft-dynamics-365-finance-and-operations-part-1/",
+          "publishedOn": "2023-04-12T19:47:20.000Z",
+          "wordCount": 2760,
+          "title": "Cash flow forecast configuration in Microsoft Dynamics 365 finance and operations: Part-1",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/04/cashflow-forecast.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2406",
           "author": "Saurabh Bharti",
@@ -6870,16 +6959,6 @@
           "wordCount": 2389,
           "title": "Insertar Power Apps en Dynamics 365 Finance and Operations",
           "imageUrl": "https://i0.wp.com/jatomas.com/wp-content/uploads/2022/04/insertar-Power-apps-dynamics-365-finance-operations-jatomas.png"
-        },
-        {
-          "id": "https://jatomas.com/?p=1775",
-          "author": "ja.tomas",
-          "description": "Hace unas semanas, preparando la sesión para el Global Power Platform Bootcamp 2021, me di cuenta que la serie de artículos que había escrito sobre Power Automate & MSDyn365FO estaba incompleta…, me había dejado una de las opciones que tiene disponible el conector de Dynamics 365 Finance and Operations apps sin analizar: Ejecutar acción Ejecutar… \nRead",
-          "link": "https://jatomas.com/2021/04/13/power-automate-msdyn365fo-fondo-iv/",
-          "publishedOn": "2021-04-13T06:48:22.000Z",
-          "wordCount": 1732,
-          "title": "Power Automate & MSDyn365FO: A fondo (IV)",
-          "imageUrl": "https://i0.wp.com/jatomas.com/wp-content/uploads/2021/04/power-automate-msdyn365fo-a-fondo-iv.png"
         }
       ]
     },
@@ -7401,16 +7480,6 @@
           "wordCount": 4172,
           "title": "[Development tutorial] Thoughts on test automation + more sample tests using ATL",
           "imageUrl": null
-        },
-        {
-          "id": "http://kashperuk.blogspot.com/2021/04/development-tutorial-extending-work.html",
-          "author": null,
-          "description": "IntroductionWhenever we talk about the work list, and recently also the work pick line overview feature, customers think this could be a great optimization for their warehouse, but frequently, they want to display some business-specific information on the cards, that would help drive the decisions, but that information is not available out of the box on the work list.In this post I'd like to",
-          "link": "http://kashperuk.blogspot.com/2021/04/development-tutorial-extending-work.html",
-          "publishedOn": "2021-04-13T00:14:00.002Z",
-          "wordCount": 2822,
-          "title": "[Development tutorial] Extending the work list and work pick line overview flow fields",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha0JbZw7nXMXHX2sVDjsbqVBwv_ReOfu4tZthL_VmAQABEAB6ZKOCnsQKnB3ofgPqy2OTOo3u-gRIsdr352DN_4zW6EbP60QyScZDywPq8KVC23VDQ=w1200-h630-n-k-no-nu"
         }
       ]
     },
@@ -11106,6 +11175,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "create-a-custom-connector-for-your-web-api-from-within-visual-studio",
+          "author": null,
+          "description": "I’m excited to announce that Power Platform is now a connected service in Visual Studio 2022 Preview! Code-first developers will now be able to create both APIs and connectors from within Microsoft Visual Studio, thereby minimizing context switching when developing custom connectors for Microsoft Power Platform. Let’s explore how to create a simple Power apps…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/create-a-custom-connector-for-your-web-api-from-within-visual-studio/",
+          "publishedOn": "2023-04-12T08:00:00.000Z",
+          "wordCount": 1816,
+          "title": "Create a Custom Connector for your Web API from within Visual Studio",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "power-apps-on-windows-updates",
           "author": null,
