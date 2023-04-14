@@ -2,10 +2,134 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-13T01:14:11.292Z</updated>
+    <updated>2023-04-14T01:16:08.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cost Accounting Part 1 - Overview | March 29, 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:363ae4e5-4438-4e7f-aa1b-61177919fbd8</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/cost-accounting-part-1---overview-march-29-2023"/>
+        <updated>2023-04-13T18:51:00.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com/watch
+
+Presenters: 
+Alejandra Cabrales Orozco Alejandra.Cabrales@microsoft.com
+Amar Kumar Kumar.Amar@microsoft.com
+
+~
+In this first TechTalk, we will provide guidance on how to ge...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cash flow forecast(inflow/outflow) calculation using SO/PO/Budget in Microsoft dynamics 365 finance and operations: Part-2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2438</id>
+        <link href="https://exploredynamics365.home.blog/2023/04/13/cash-flow-forecastinflow-outflow-calculation-using-so-po-budget-in-microsoft-dynamics-365-finance-and-operations-part-2/"/>
+        <updated>2023-04-13T16:23:31.000Z</updated>
+        <summary type="html"><![CDATA[This is the part-2 of cash flow forecast series, click here to ready Part-1. In this blog we will see how different transactions gets created and calculate Cash inflow and outflow and it is presented on power BI dashboards. Before We start the scenario lets understand how end to end process works , it has […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cash flow forecast(inflow/outflow) calculation using SO/PO/Budget in Microsoft dynamics 365 finance and operations: Part-2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2438</id>
+        <link href="https://exploredynamics365.home.blog/2023/04/13/cash-flow-forecastinflow-outflow-calculation-using-so-po-budget-in-microsoft-dynamics-365-finance-and-operations-part-2/"/>
+        <updated>2023-04-13T16:23:31.000Z</updated>
+        <summary type="html"><![CDATA[This is the part-2 of cash flow forecast series, click here to ready Part-1. In this blog we will see how different transactions gets created and calculate Cash inflow and outflow and it is presented on power BI dashboards. Before We start the scenario lets understand how end to end process works , it has […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updates to simplify using JSON]]></title>
+        <id>updates-to-simplify-using-json</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/updates-to-simplify-using-json/"/>
+        <updated>2023-04-13T15:50:03.000Z</updated>
+        <summary type="html"><![CDATA[We’re pleased to announce some exciting updates to how makers can use untyped objects. ParseJSON() and untyped objects are very flexible, but we’ve heard your feedback that improvements are needed to require less code and make untyped objects easier to use. So today’s announcement is all about implicit type conversion, or coercion. For untyped objects…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in 2023 Release Wave 1 for Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=56505</id>
+        <link href="https://www.encorebusiness.com/blog/whats-new-in-2023-release-wave-1-for-dynamics-365-business-central/"/>
+        <updated>2023-04-13T15:17:12.000Z</updated>
+        <summary type="html"><![CDATA[What’s New in 2023 Release Wave 1 for Dynamics 365 Business Central
+Microsoft has released the new updates to Dynamics 365 Business Central in the 2023 Release Wave 1 and has improvements with how it integrates with the Power Platform. There are some new features and functions that could be helpful for your business. In this blog I’ll be sharing the Dynamics 365 Business Central update details...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Mike Harris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deduct days from date time]]></title>
+        <id>1868</id>
+        <link href="http://daxonline.org/1868-deduct-days-from-date-time.html"/>
+        <updated>2023-04-13T11:03:14.000Z</updated>
+        <summary type="html"><![CDATA[X++ to deduct days from date time:
+
+
+ 
+        utcdatetime dateTime;
+        date        datePart;
+        TimeOfDay   timePart;
+        int         monthPart;
+ 
+
+        // option 1
+        dateTime = DateTimeUtil::getSystemDateTime();
+        dateTime = DateTimeUtil::addDays(dateTime , -2);
+        info(strFmt("New date time is %1", dateTime));
+ 
+        // option 2
+        dateTime = DateTimeUtil::getSystemDateTime();
+        datePart = DateTimeUtil::date(dateTime) - 2;
+        timePart = DateTimeUtil::time(dateTime);
+        dateTime = DateTimeUtil::newDateTime(datePart, timePart);
+        info(strFmt("New date time is %1", dateTime));]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[update_recordset / insert_recordset]]></title>
+        <id>1866</id>
+        <link href="http://daxonline.org/1866-update_recordset-insert_recordset.html"/>
+        <updated>2023-04-13T07:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Update recordset:
+    MyTable myTableBuffer;
+
+    update_recordset myTableBuffer
+    setting
+        field1 = 1,
+        field2 = fieldX + fieldY
+    where field1 == 0;
+
+Insert recordset
+    insert_recordset myTable (myNum, mySum)
+        select myNum, sum(myValue) 
+            from anotherTable 
+            group by myNum 
+            where myNum <= 100;]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cost Accounting Series - Dynamics 365 Supply Chain Management]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ecea774e-f58b-491b-9dc1-dc8f5d741ae3</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/cost-accounting-series---dynamics-365-supply-chain-management"/>
+        <updated>2023-04-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This TechTalk series will dive-in into the Cost Accounting module in Dynamics 365 Finance and Operations, in order for you to get the best of this module for your business. We will go from underst...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cash flow forecast configuration in Microsoft Dynamics 365 finance and operations: Part-1]]></title>
         <id>http://exploredynamics365.home.blog/?p=2422</id>
@@ -228,6 +352,30 @@ Corina Balan – Sn Fast Track Solutions Architect
 This TechTalk covers a comparison between feature...(read more)]]></summary>
         <author>
             <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asset Leasing transaction of lease summary in Dynamics 365 Finance & Operation Part 3]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b651baab-2f5f-45d8-a9b8-024ff9fb44d4</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/asset-leasing-transaction-in-dynamics-365-finance-operation-part-3"/>
+        <updated>2023-04-07T11:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Business Scenario
+Company ABC (lessee) has taken Mercedese on lease for 10 years on annual lease payment. Lease details are as below:
+
+
+
+Discounted Rate/Interest Rate
+12%
+
+
+Life of Asset/lease period in months
+120
+
+
+Annual Payment
+ 2,00,000...(read more)]]></summary>
+        <author>
+            <name>Deepak Singh</name>
         </author>
     </entry>
     <entry>
