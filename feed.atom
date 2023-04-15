@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-14T01:16:08.922Z</updated>
+    <updated>2023-04-15T01:17:58.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Commerce Batch Tracked Products Errors When Posting Statements]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:179729a5-f2d6-4422-ac73-6ab350746057</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/dynamics-365-commerce-batch-tracked-products-errors-when-posting-statements"/>
+        <updated>2023-04-14T18:23:33.000Z</updated>
+        <summary type="html"><![CDATA[Point of Sale does not support batch numbers, so the batch must default.  If the batch does not default below is a couple examples of an error you can see posting a statement
+
+Batch number group is not specified on the item
+Batch number is a primary input/output dimension and must consequently be specified
+
+To default the batch numbers in statement posting, set the following:
+
+Accounts receivable parameters
+Accounts receivable > Setup > Accounts Receivables Parameters > General>Sales default values
+Change Reservation to Automatic
+Change Auto batch reservation to Yes
+
+Create Batch number group and assign to Batch tracked products
+For Returns, a Batch number group should be specified on the item.
+Inventory management > Setup > Dimensions > Tracking number groups
+ 
+This Batch number group sho…]]></summary>
+        <author>
+            <name>DawnLanglie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Process Mining & Cost Accounting – Part 3]]></title>
+        <id>http://dynamicsax-fico.com/?p=4897</id>
+        <link href="https://dynamicsax-fico.com/2023/04/14/process-mining-cost-accounting-part-3/"/>
+        <updated>2023-04-14T04:44:36.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cost Accounting Part 1 - Overview | March 29, 2023]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:363ae4e5-4438-4e7f-aa1b-61177919fbd8</id>
@@ -215,6 +251,17 @@ On the heels of our Business Application…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Release wave 1: Transforming customer experiences with generative AI and Dynamics 365]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/11/release-wave-1-transforming-customer-experiences-with-generative-ai-and-dynamics-365/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/11/release-wave-1-transforming-customer-experiences-with-generative-ai-and-dynamics-365/"/>
+        <updated>2023-04-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Generative AI has left its mark on computing, and it's only the beginning. The world of business applications will never be the same. 
+The post Release wave 1: Transforming customer experiences with generative AI and Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Lori Lamkin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Subcontract management in Dynamics 365 Project Operations | March 16, 2023]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:08b1e7e6-9c89-4760-a211-90db654827c2</id>
         <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/subcontract-management-in-dynamics-365-project-operations-march-16-2023"/>
@@ -244,11 +291,33 @@ To ensure agents can create email templates easily, Dynamics 365 Customer Servic
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Create beautiful email templates with enhanced email editor]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/04/10/create-beautiful-email-templates-with-enhanced-email-editor/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/04/10/create-beautiful-email-templates-with-enhanced-email-editor/"/>
+        <updated>2023-04-10T17:59:31.000Z</updated>
+        <summary type="html"><![CDATA[With email templates, agents spend less time writing the same content repeatedly and more time helping the customers. 
+The post Create beautiful email templates with enhanced email editor  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Naman Agrawal</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft Supply Chain Platform at Hannover Messe 2023]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:413deb05-afb3-437b-af5d-95bfef884b8b</id>
         <link href="https://community.dynamics.com/365/b/365teamblog/posts/microsoft-supply-chain-platform-at-hannover-messe-2023"/>
         <updated>2023-04-10T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[In recent years, disruptions like COVID-19, geopolitical conflict, and natural disasters have challenged organizations to improve their supply chain resilience. A Microsoft-sponsored Harvard Business Review Analytic Services survey from October 2022 indicates that 94 percent of respondents view supply chain operations as a higher priority than they did three years ago. Moreover, 97 percent agree that a resilient supply chain positively affects a company’s bottom line.1 However, many organizations struggle to achieve this resilience due to technological challenges and a shortage of qualified talent. AI and related emerging technologies are helping businesses overcome these challenges by empowering teams with solutions that amplify and extend current capabilities. With this in mind, we’re ex…]]></summary>
+        <author>
+            <name>Francois van Splunder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Supply Chain Platform at Hannover Messe 2023]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/10/microsoft-supply-chain-platform-at-hannover-messe-2023/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/10/microsoft-supply-chain-platform-at-hannover-messe-2023/"/>
+        <updated>2023-04-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, disruptions like COVID-19, geopolitical conflict, and natural disasters have challenged organizations to improve their supply chain resilience. 
+The post Microsoft Supply Chain Platform at Hannover Messe 2023 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Francois van Splunder</name>
         </author>
@@ -18074,126 +18143,6 @@ concept - let’s go !]]></summary>
         <summary type="html"><![CDATA[Describes a sample approach of improving Dynamics AX 2009/2012 performance by downgrading D365FO InventSum table change]]></summary>
         <author>
             <name>Gatsby RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Power Platform: Learning Resources]]></title>
-        <id>microsoft-powerapps-learning-resources</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/"/>
-        <updated>2021-04-15T12:00:37.000Z</updated>
-        <summary type="html"><![CDATA[As members of the Power CAT team driving customer success and adoption, we often get asked for a summary of resources to share with customers on their Power Platform journey. This blog post includes a set of links we’ve curated to help novice, intermediate and advanced users as they take this journey with us.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting up a development branch and build]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:70e5e61d-e2c0-44f6-ad11-c3f0d47cc3e1</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/setting-up-a-development-branch-and-build"/>
-        <updated>2021-04-15T11:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Watch and learn how to configure the Dynamics 365 for Operations build system for effective application lifecycle management (ALM). For more information, visit: https://docs.microsoft.com/en-us/dynami...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting up a development machine]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3a632de7-0ff4-40cd-8b29-a1bda7b65db8</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/setting-up-a-development-machine"/>
-        <updated>2021-04-15T11:31:35.000Z</updated>
-        <summary type="html"><![CDATA[Watch and learn how to set up a Dynamics 365 for Operations development machine using Visual Studio to install application updates and write custom code. For more information, visit: https://docs.micr...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating support tickets from Dynamics 365 for Operations]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3500125a-ce72-4986-9e64-8096148bf652</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/creating-support-tickets-from-dynamics-365-for-operations"/>
-        <updated>2021-04-15T11:31:29.000Z</updated>
-        <summary type="html"><![CDATA[You'll learn how to create a support incident directly from the Microsoft Dynamics 365 for Operations client, and then view the incident in Lifecycle Services (also known as LCS) and the associate...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying code to a production environment]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c7704801-bd40-468f-88d9-27ebb021063e</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/deploying-code-to-a-production-environment"/>
-        <updated>2021-04-15T11:31:19.000Z</updated>
-        <summary type="html"><![CDATA[You'll learn the process for deploying code to a production environment using Lifecycle Services (LCS). For more information, visit: https://docs.microsoft.com/en-us/dynamics365/operations/dev-itp...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying code to a sandbox environment]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4a52cea3-8814-4a81-a397-98b0bdcaf8a9</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/deploying-code-to-a-sandbox-environment"/>
-        <updated>2021-04-15T11:31:10.000Z</updated>
-        <summary type="html"><![CDATA[You will learn the process for deploying code to a sandbox environment using Lifecycle Services (LCS). For more information, visit: https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/li...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying environments]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e489df7c-3090-443f-bb11-86f646b402a0</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/deploying-environments"/>
-        <updated>2021-04-15T11:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to deploy a Dynamics 365 for Operations environment. For more information, visit: https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/lifecycle-services/ax-2012/deploy-201...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asset library in Lifecycle Services]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f75939d6-d2dc-4cfc-b23a-87df39bf1a8a</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/asset-library-in-lifecycle-services"/>
-        <updated>2021-04-15T11:30:51.000Z</updated>
-        <summary type="html"><![CDATA[You'll learn about organizing and storing assets in Lifecycle Services (LCS). For more information, visit: https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/sysadmin/system-adminis...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud-hosted environments]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:97e31f1f-ed33-44f0-81ed-5d794bf9975b</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/cloud-hosted-environments"/>
-        <updated>2021-04-15T11:30:44.000Z</updated>
-        <summary type="html"><![CDATA[You will learn the process for deploying code to a production environment using Lifecycle Services (LCS). for more information, visit: https://ax.help.dynamics.com/en/wiki/cloud-hosted-environments-li...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing business process libraries in Lifecycle Services]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:8bc4884c-4a3b-4f6d-bc29-eb0779caf99c</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/managing-business-process-libraries-in-lifecycle-services"/>
-        <updated>2021-04-15T11:30:33.000Z</updated>
-        <summary type="html"><![CDATA[You will learn how implementations can benefit from using the business process modelling capabilities in Lifecycle Services (LCS). For more information, visit: https://ax.help.dynamics.com/en/wiki/bus...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with Lifecycle Services]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:07d4115c-35d0-4bf3-8522-9121bf190095</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/getting-started-with-lifecycle-services"/>
-        <updated>2021-04-15T11:30:25.000Z</updated>
-        <summary type="html"><![CDATA[You will learn how Lifecycle Services (LCS) can help you manage the application lifecycle of your Microsoft Dynamics 365 for Operations implementations. For more information, visit: (Partners) https:/...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementation projects in Lifecycle Services]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f924b7ff-247a-4d3f-996a-71ef79578d30</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/implementation-projects-in-lifecycle-services"/>
-        <updated>2021-04-15T11:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Watch and learn about the Lifecycle Services (LCS) implementation project type including when to use them and what makes them different from other project types.  For more information, visit: htt...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
         </author>
     </entry>
 </feed>

@@ -614,116 +614,6 @@
           "wordCount": 928,
           "title": "Deliver on your order promise with Dynamics 365 Intelligent Order Management",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:70e5e61d-e2c0-44f6-ad11-c3f0d47cc3e1",
-          "author": "Microsoft Dynamics Community",
-          "description": "Watch and learn how to configure the Dynamics 365 for Operations build system for effective application lifecycle management (ALM). For more information, visit: https://docs.microsoft.com/en-us/dynami...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/setting-up-a-development-branch-and-build",
-          "publishedOn": "2021-04-15T11:31:43.000Z",
-          "wordCount": 727,
-          "title": "Setting up a development branch and build",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3a632de7-0ff4-40cd-8b29-a1bda7b65db8",
-          "author": "Microsoft Dynamics Community",
-          "description": "Watch and learn how to set up a Dynamics 365 for Operations development machine using Visual Studio to install application updates and write custom code. For more information, visit: https://docs.micr...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/setting-up-a-development-machine",
-          "publishedOn": "2021-04-15T11:31:35.000Z",
-          "wordCount": 727,
-          "title": "Setting up a development machine",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3500125a-ce72-4986-9e64-8096148bf652",
-          "author": "Microsoft Dynamics Community",
-          "description": "You'll learn how to create a support incident directly from the Microsoft Dynamics 365 for Operations client, and then view the incident in Lifecycle Services (also known as LCS) and the associate...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/creating-support-tickets-from-dynamics-365-for-operations",
-          "publishedOn": "2021-04-15T11:31:29.000Z",
-          "wordCount": 752,
-          "title": "Creating support tickets from Dynamics 365 for Operations",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c7704801-bd40-468f-88d9-27ebb021063e",
-          "author": "Microsoft Dynamics Community",
-          "description": "You'll learn the process for deploying code to a production environment using Lifecycle Services (LCS). For more information, visit: https://docs.microsoft.com/en-us/dynamics365/operations/dev-itp...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/deploying-code-to-a-production-environment",
-          "publishedOn": "2021-04-15T11:31:19.000Z",
-          "wordCount": 720,
-          "title": "Deploying code to a production environment",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4a52cea3-8814-4a81-a397-98b0bdcaf8a9",
-          "author": "Microsoft Dynamics Community",
-          "description": "You will learn the process for deploying code to a sandbox environment using Lifecycle Services (LCS). For more information, visit: https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/li...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/deploying-code-to-a-sandbox-environment",
-          "publishedOn": "2021-04-15T11:31:10.000Z",
-          "wordCount": 721,
-          "title": "Deploying code to a sandbox environment",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e489df7c-3090-443f-bb11-86f646b402a0",
-          "author": "Microsoft Dynamics Community",
-          "description": "Learn how to deploy a Dynamics 365 for Operations environment. For more information, visit: https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/lifecycle-services/ax-2012/deploy-201...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/deploying-environments",
-          "publishedOn": "2021-04-15T11:31:02.000Z",
-          "wordCount": 703,
-          "title": "Deploying environments",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f75939d6-d2dc-4cfc-b23a-87df39bf1a8a",
-          "author": "Microsoft Dynamics Community",
-          "description": "You'll learn about organizing and storing assets in Lifecycle Services (LCS). For more information, visit: https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/sysadmin/system-adminis...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/asset-library-in-lifecycle-services",
-          "publishedOn": "2021-04-15T11:30:51.000Z",
-          "wordCount": 713,
-          "title": "Asset library in Lifecycle Services",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:97e31f1f-ed33-44f0-81ed-5d794bf9975b",
-          "author": "Microsoft Dynamics Community",
-          "description": "You will learn the process for deploying code to a production environment using Lifecycle Services (LCS). for more information, visit: https://ax.help.dynamics.com/en/wiki/cloud-hosted-environments-li...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/cloud-hosted-environments",
-          "publishedOn": "2021-04-15T11:30:44.000Z",
-          "wordCount": 709,
-          "title": "Cloud-hosted environments",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8bc4884c-4a3b-4f6d-bc29-eb0779caf99c",
-          "author": "Microsoft Dynamics Community",
-          "description": "You will learn how implementations can benefit from using the business process modelling capabilities in Lifecycle Services (LCS). For more information, visit: https://ax.help.dynamics.com/en/wiki/bus...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/managing-business-process-libraries-in-lifecycle-services",
-          "publishedOn": "2021-04-15T11:30:33.000Z",
-          "wordCount": 726,
-          "title": "Managing business process libraries in Lifecycle Services",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:07d4115c-35d0-4bf3-8522-9121bf190095",
-          "author": "Microsoft Dynamics Community",
-          "description": "You will learn how Lifecycle Services (LCS) can help you manage the application lifecycle of your Microsoft Dynamics 365 for Operations implementations. For more information, visit: (Partners) https:/...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/getting-started-with-lifecycle-services",
-          "publishedOn": "2021-04-15T11:30:25.000Z",
-          "wordCount": 728,
-          "title": "Getting Started with Lifecycle Services",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f924b7ff-247a-4d3f-996a-71ef79578d30",
-          "author": "Microsoft Dynamics Community",
-          "description": "Watch and learn about the Lifecycle Services (LCS) implementation project type including when to use them and what makes them different from other project types.  For more information, visit: htt...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/implementation-projects-in-lifecycle-services",
-          "publishedOn": "2021-04-15T11:30:18.000Z",
-          "wordCount": 727,
-          "title": "Implementation projects in Lifecycle Services",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -4869,6 +4759,36 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/11/release-wave-1-transforming-customer-experiences-with-generative-ai-and-dynamics-365/",
+          "author": "Lori Lamkin",
+          "description": "Generative AI has left its mark on computing, and it's only the beginning. The world of business applications will never be the same. \nThe post Release wave 1: Transforming customer experiences with generative AI and Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/11/release-wave-1-transforming-customer-experiences-with-generative-ai-and-dynamics-365/",
+          "publishedOn": "2023-04-11T15:00:00.000Z",
+          "wordCount": 3463,
+          "title": "Release wave 1: Transforming customer experiences with generative AI and Dynamics 365",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/M365CO20_MTR_POLY_003_1200.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/10/create-beautiful-email-templates-with-enhanced-email-editor/",
+          "author": "Naman Agrawal",
+          "description": "With email templates, agents spend less time writing the same content repeatedly and more time helping the customers. \nThe post Create beautiful email templates with enhanced email editor  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/10/create-beautiful-email-templates-with-enhanced-email-editor/",
+          "publishedOn": "2023-04-10T17:59:31.000Z",
+          "wordCount": 2141,
+          "title": "Create beautiful email templates with enhanced email editor",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2021/11/Hero-image-PCA21_Contextual_0307_RGB.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/10/microsoft-supply-chain-platform-at-hannover-messe-2023/",
+          "author": "Francois van Splunder",
+          "description": "In recent years, disruptions like COVID-19, geopolitical conflict, and natural disasters have challenged organizations to improve their supply chain resilience. \nThe post Microsoft Supply Chain Platform at Hannover Messe 2023 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/10/microsoft-supply-chain-platform-at-hannover-messe-2023/",
+          "publishedOn": "2023-04-10T15:00:00.000Z",
+          "wordCount": 3093,
+          "title": "Microsoft Supply Chain Platform at Hannover Messe 2023",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/SCM-hero-image-1024x576.png"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/06/2023-wave-1-releases-ai-automation-and-analytics-in-microsoft-dynamics-365-finance-and-project-operations/",
           "author": "Gurkan Salk",
           "description": "With the 2023 release wave 1, we are delivering enhancements across Dynamics 365 Finance, Dynamics 365 Project Operations, and Dynamics 365 Human Resources that focus on helping our customers adapt faster, work smarter, perform better, and operate more sustainably.\nThe post 2023 wave 1 releases AI, automation, and analytics in Microsoft Dynamics 365 Finance and Project Operations appeared first on Microsoft Dynamics 365 Blog.",
@@ -7586,6 +7506,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=4897",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/04/14/process-mining-cost-accounting-part-3/",
+          "publishedOn": "2023-04-14T04:44:36.000Z",
+          "wordCount": 2657,
+          "title": "Process Mining & Cost Accounting – Part 3",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2022/12/en.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=4895",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -9884,6 +9814,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/axsupport/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/axsupport",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:179729a5-f2d6-4422-ac73-6ab350746057",
+          "author": "DawnLanglie",
+          "description": "Point of Sale does not support batch numbers, so the batch must default.  If the batch does not default below is a couple examples of an error you can see posting a statement\n\nBatch number group is not specified on the item\nBatch number is a primary input/output dimension and must consequently be specified\n\nTo default the batch numbers in statement posting, set the following:\n\nAccounts receivable parameters\nAccounts receivable > Setup > Accounts Receivables Parameters > General>Sales default values\nChange Reservation to Automatic\nChange Auto batch reservation to Yes\n\nCreate Batch number group and assign to Batch tracked products\nFor Returns, a Batch number group should be specified on the item.\nInventory management > Setup > Dimensions > Tracking number groups\n \nThis Batch number group sho…",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/dynamics-365-commerce-batch-tracked-products-errors-when-posting-statements",
+          "publishedOn": "2023-04-14T18:23:33.000Z",
+          "wordCount": 3526,
+          "title": "Dynamics 365 Commerce Batch Tracked Products Errors When Posting Statements",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:445d20ca-1ffe-450e-ae7b-f161e92baaf9",
           "author": "DawnLanglie",
@@ -12654,16 +12594,6 @@
           "wordCount": 1022,
           "title": "GA release of Large file and Image support in Power Apps canvas and UCI",
           "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
-        },
-        {
-          "id": "microsoft-powerapps-learning-resources",
-          "author": null,
-          "description": "As members of the Power CAT team driving customer success and adoption, we often get asked for a summary of resources to share with customers on their Power Platform journey. This blog post includes a set of links we’ve curated to help novice, intermediate and advanced users as they take this journey with us.",
-          "link": "https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/",
-          "publishedOn": "2021-04-15T12:00:37.000Z",
-          "wordCount": 2566,
-          "title": "Microsoft Power Platform: Learning Resources",
-          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2020/09/PowerPlatformGraphic_learningresources.jpg"
         }
       ]
     },
