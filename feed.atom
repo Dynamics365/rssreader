@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-15T01:17:58.666Z</updated>
+    <updated>2023-04-16T01:21:17.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -30,6 +30,22 @@ Inventory management > Setup > Dimensions > Tracking number groups
 This Batch number group sho…]]></summary>
         <author>
             <name>DawnLanglie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics Partner Roundup: Municipal contract; New executive; ISV acquisition]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b38399b2-20d9-4393-a6c8-2e37bc3fb4d6</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-partner-roundup-municipal-contract-new-executive-isv-acquisition"/>
+        <updated>2023-04-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this week’s Dynamics partner roundup, Digia receives a
+municipal services contract, Ciellos names a new executive vice
+president, and Paymerang acquires KwikTag and Sypht. 
+ 
+ Digia receives municipal services contract 
+ Finnish partner, 
+ Digia ,... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
         </author>
     </entry>
     <entry>
@@ -18133,16 +18149,6 @@ Insights with Microsoft technologies all combined, as part of Industry 4.0
 concept - let’s go !]]></summary>
         <author>
             <name>Aurélien Clere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving Dynamics AX2009 / AX2012 logistics performance by denormalizing InventSum table]]></title>
-        <id>https://denistrunin.com/ax2012-inventsumfields/</id>
-        <link href="https://denistrunin.com/ax2012-inventsumfields/"/>
-        <updated>2021-04-15T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[Describes a sample approach of improving Dynamics AX 2009/2012 performance by downgrading D365FO InventSum table change]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
         </author>
     </entry>
 </feed>

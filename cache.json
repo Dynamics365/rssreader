@@ -920,6 +920,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b38399b2-20d9-4393-a6c8-2e37bc3fb4d6",
+          "author": "MSDynamicsWorld.com",
+          "description": "In this week’s Dynamics partner roundup, Digia receives a\nmunicipal services contract, Ciellos names a new executive vice\npresident, and Paymerang acquires KwikTag and Sypht. \n \n Digia receives municipal services contract \n Finnish partner, \n Digia ,... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-partner-roundup-municipal-contract-new-executive-isv-acquisition",
+          "publishedOn": "2023-04-14T18:00:00.000Z",
+          "wordCount": 3730,
+          "title": "Microsoft Dynamics Partner Roundup: Municipal contract; New executive; ISV acquisition",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:8cc8da7a-944d-4693-95f2-ac9f56de4e89",
           "author": "MSDynamicsWorld.com",
           "description": "This episode is sponsored by \n \nMazars . \n \n Microsoft continues to support Dynamics 365 mixed reality\napplications to support training and remote work scenarios, and the\nproducts get even more interesting when viewed against the backdrop\nof the rest... Read the full text.",
@@ -10750,16 +10760,6 @@
           "wordCount": 814,
           "title": "Implementing of Dynamics AX business operations performance monitoring",
           "imageUrl": "https://denistrunin.com/static/1dd12f8c88c514fb612c1e039b4ef7c9/5a326/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/ax2012-inventsumfields/",
-          "author": null,
-          "description": "Describes a sample approach of improving Dynamics AX 2009/2012 performance by downgrading D365FO InventSum table change",
-          "link": "https://denistrunin.com/ax2012-inventsumfields/",
-          "publishedOn": "2021-04-15T22:12:03.000Z",
-          "wordCount": 1019,
-          "title": "Improving Dynamics AX2009 / AX2012 logistics performance by denormalizing InventSum table",
-          "imageUrl": "https://denistrunin.com/static/3ad9179ea9ed656fc5063cd7c4d4689a/8080f/logo.png"
         }
       ]
     },
