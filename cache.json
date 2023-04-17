@@ -1954,6 +1954,16 @@
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4c52a1a9-f594-4308-909f-a37147d14e71",
+          "author": "Aleksandar Totovic and Artur Ventsel",
+          "description": "You asked for it and we're delivering: With 2023 release wave 1, Microsoft Dynamics 365 Business Central will expand the non-deductible value-added tax (VAT) feature to our customers worldwide. It's required by almost all countries where VAT is used and was previously available only to our customers in Belgium, Italy, and Norway. We're excited to make it available everywhere our Business Central customers are.\nVAT is a tax that businesses must pay when they buy things. They can usually recover the tax by buying goods and services relating to their business activities. However, there are some situations in which a business incurs VAT that can't be recovered and isn't deductible.\nThe expanded functionality covers the most common scenarios and can be easily extended if you need more features.…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/non-deductible-vat-coming-to-dynamics-365-business-central-worldwide",
+          "publishedOn": "2023-04-12T14:19:54.000Z",
+          "wordCount": 4307,
+          "title": "Non-deductible VAT coming to Dynamics 365 Business Central worldwide",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:847acfe3-280e-4883-9027-bd9702349427",
           "author": "Lori Lamkin",
           "description": "Generative AI has left its mark on computing, and it's only the beginning. The world of business applications will never be the same. For several years now, we have been iterating on and shipping copilot features in Microsoft Dynamics 365, and I'm pleased to announce our next wave of value.\nAnd it's coming out just in time. Today's customers demand tailored experiences that cater to their individual needs. They expect businesses to be responsive on all communication channels and to treat each individual with knowledge of their overall relationship and journey. For example, recent research from LinkedIn found that over two-thirds of customers say they're less likely to engage with sellers whose initial outreach isn't tailored to them and their role.1\nOn the heels of our Business Application…",
@@ -4768,6 +4778,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/12/non-deductible-vat-coming-to-dynamics-365-business-central-worldwide/",
+          "author": "Aleksandar Totovic and Artur Ventsel",
+          "description": "You asked for it and we're delivering: With 2023 release wave 1, Microsoft Dynamics 365 Business Central will expand the non-deductible value-added tax (VAT) feature to our customers worldwide.\nThe post Non-deductible VAT coming to Dynamics 365 Business Central worldwide appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/12/non-deductible-vat-coming-to-dynamics-365-business-central-worldwide/",
+          "publishedOn": "2023-04-12T14:19:54.000Z",
+          "wordCount": 2760,
+          "title": "Non-deductible VAT coming to Dynamics 365 Business Central worldwide",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/Commercial16_discussion_12.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/11/release-wave-1-transforming-customer-experiences-with-generative-ai-and-dynamics-365/",
           "author": "Lori Lamkin",

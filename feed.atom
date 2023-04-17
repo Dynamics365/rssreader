@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-16T01:21:17.427Z</updated>
+    <updated>2023-04-17T01:17:01.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -200,6 +200,29 @@ Insert recordset
         <summary type="html"><![CDATA[You can use the cash flow forecasting tools to analyse upcoming cash flow and currency requirements, so that you can estimate the company’s future need for cash. In this blog primary focus is to complete the configuration for cash flow forecast calculation. So, before we start the configuration lets understand the key drivers for cash […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-deductible VAT coming to Dynamics 365 Business Central worldwide]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4c52a1a9-f594-4308-909f-a37147d14e71</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/non-deductible-vat-coming-to-dynamics-365-business-central-worldwide"/>
+        <updated>2023-04-12T14:19:54.000Z</updated>
+        <summary type="html"><![CDATA[You asked for it and we're delivering: With 2023 release wave 1, Microsoft Dynamics 365 Business Central will expand the non-deductible value-added tax (VAT) feature to our customers worldwide. It's required by almost all countries where VAT is used and was previously available only to our customers in Belgium, Italy, and Norway. We're excited to make it available everywhere our Business Central customers are.
+VAT is a tax that businesses must pay when they buy things. They can usually recover the tax by buying goods and services relating to their business activities. However, there are some situations in which a business incurs VAT that can't be recovered and isn't deductible.
+The expanded functionality covers the most common scenarios and can be easily extended if you need more features.…]]></summary>
+        <author>
+            <name>Aleksandar Totovic and Artur Ventsel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-deductible VAT coming to Dynamics 365 Business Central worldwide]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/04/12/non-deductible-vat-coming-to-dynamics-365-business-central-worldwide/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/04/12/non-deductible-vat-coming-to-dynamics-365-business-central-worldwide/"/>
+        <updated>2023-04-12T14:19:54.000Z</updated>
+        <summary type="html"><![CDATA[You asked for it and we're delivering: With 2023 release wave 1, Microsoft Dynamics 365 Business Central will expand the non-deductible value-added tax (VAT) feature to our customers worldwide.
+The post Non-deductible VAT coming to Dynamics 365 Business Central worldwide appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Aleksandar Totovic and Artur Ventsel</name>
         </author>
     </entry>
     <entry>
