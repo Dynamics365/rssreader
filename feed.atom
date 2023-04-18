@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-17T01:17:01.309Z</updated>
+    <updated>2023-04-18T01:15:35.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cost Accounting Part 2 – Overhead Calculation | April 5, 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:99e12947-1d91-4d96-94f3-a9756ed4e911</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/cost-accounting-part-2-overhead-calculation-april-5-2023"/>
+        <updated>2023-04-17T19:06:00.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com/watch
+
+Presenters: 
+Alejandra Cabrales Orozco Alejandra.Cabrales@microsoft.com
+Amar Kumar Kumar.Amar@microsoft.com
+
+~
+This TechTalk series will dive-in into the Cost Accounting mo...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summarize bank transactions from customer/vendor payment journals in Microsoft dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2465</id>
+        <link href="https://exploredynamics365.home.blog/2023/04/17/summarize-bank-transactions-from-customer-vendor-payment-journals-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-04-17T07:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Enabling this feature will allow an organization to post vendor and customer payments in separate vouchers but update the bank account in summary. New options are added to the journal name setup, allowing the flexibility to post payments in detail to the bank account for some journals but in summary for different journals. Payments included […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summarize bank transactions from customer/vendor payment journals in Microsoft dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2465</id>
+        <link href="https://exploredynamics365.home.blog/2023/04/17/summarize-bank-transactions-from-customer-vendor-payment-journals-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-04-17T07:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Enabling this feature will allow an organization to post vendor and customer payments in separate vouchers but update the bank account in summary. New options are added to the journal name setup, allowing the flexibility to post payments in detail to the bank account for some journals but in summary for different journals. Payments included […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing a menu item is not enough – table permissions]]></title>
+        <id>https://dynamicspedia.com/?p=18466</id>
+        <link href="https://dynamicspedia.com/2023/04/securing-a-menu-item-is-not-enough-table-permissions/"/>
+        <updated>2023-04-17T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the two earlier posts, I talked about missing parts and controls when you would create privileges from scratch. In this post, I will continue explaining about reasons for missing elements on forms due to table permissions. Or maybe you would like to restrict certain fields from being visible to users. Missing fields As mentioned […]
+The post Securing a menu item is not enough – table permissions appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 Commerce Batch Tracked Products Errors When Posting Statements]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:179729a5-f2d6-4422-ac73-6ab350746057</id>

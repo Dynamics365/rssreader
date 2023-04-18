@@ -623,6 +623,16 @@
       "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:99e12947-1d91-4d96-94f3-a9756ed4e911",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nAlejandra Cabrales Orozco Alejandra.Cabrales@microsoft.com\nAmar Kumar Kumar.Amar@microsoft.com\n\n~\nThis TechTalk series will dive-in into the Cost Accounting mo...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/cost-accounting-part-2-overhead-calculation-april-5-2023",
+          "publishedOn": "2023-04-17T19:06:00.000Z",
+          "wordCount": 3417,
+          "title": "Cost Accounting Part 2 – Overhead Calculation | April 5, 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/357946_5F00_DTT131.png?_=638173552866733673"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:363ae4e5-4438-4e7f-aa1b-61177919fbd8",
           "author": "Ilanit Manor - Community Manager",
           "description": "www.youtube.com/watch\n\nPresenters: \nAlejandra Cabrales Orozco Alejandra.Cabrales@microsoft.com\nAmar Kumar Kumar.Amar@microsoft.com\n\n~\nIn this first TechTalk, we will provide guidance on how to ge...(read more)",
@@ -5723,6 +5733,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2465",
+          "author": "Saurabh Bharti",
+          "description": "Enabling this feature will allow an organization to post vendor and customer payments in separate vouchers but update the bank account in summary. New options are added to the journal name setup, allowing the flexibility to post payments in detail to the bank account for some journals but in summary for different journals. Payments included […]",
+          "link": "https://exploredynamics365.home.blog/2023/04/17/summarize-bank-transactions-from-customer-vendor-payment-journals-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-04-17T07:39:02.000Z",
+          "wordCount": 2564,
+          "title": "Summarize bank transactions from customer/vendor payment journals in Microsoft dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/04/0.1-1.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2438",
           "author": "Saurabh Bharti",
           "description": "This is the part-2 of cash flow forecast series, click here to ready Part-1. In this blog we will see how different transactions gets created and calculate Cash inflow and outflow and it is presented on power BI dashboards. Before We start the scenario lets understand how end to end process works , it has […]",
@@ -5979,6 +5999,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2465",
+          "author": "Saurabh Bharti",
+          "description": "Enabling this feature will allow an organization to post vendor and customer payments in separate vouchers but update the bank account in summary. New options are added to the journal name setup, allowing the flexibility to post payments in detail to the bank account for some journals but in summary for different journals. Payments included […]",
+          "link": "https://exploredynamics365.home.blog/2023/04/17/summarize-bank-transactions-from-customer-vendor-payment-journals-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-04-17T07:39:02.000Z",
+          "wordCount": 2564,
+          "title": "Summarize bank transactions from customer/vendor payment journals in Microsoft dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/04/0.1-1.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2438",
           "author": "Saurabh Bharti",
@@ -7792,6 +7822,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=18466",
+          "author": "André Arnaud de Calavon",
+          "description": "In the two earlier posts, I talked about missing parts and controls when you would create privileges from scratch. In this post, I will continue explaining about reasons for missing elements on forms due to table permissions. Or maybe you would like to restrict certain fields from being visible to users. Missing fields As mentioned […]\nThe post Securing a menu item is not enough – table permissions appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2023/04/securing-a-menu-item-is-not-enough-table-permissions/",
+          "publishedOn": "2023-04-17T05:00:00.000Z",
+          "wordCount": 4474,
+          "title": "Securing a menu item is not enough – table permissions",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/04/SecurityTablePermissions.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=18486",
           "author": "André Arnaud de Calavon",
