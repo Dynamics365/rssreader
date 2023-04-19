@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-18T01:15:35.388Z</updated>
+    <updated>2023-04-19T01:17:43.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understand inventory on hand form columns (Status) in Microsoft dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2475</id>
+        <link href="https://exploredynamics365.home.blog/2023/04/19/understand-inventory-on-hand-form-columns-status-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-04-18T19:12:36.000Z</updated>
+        <summary type="html"><![CDATA[In this blog we will go back to our basics , for long time I was confused about column available on inventory on hand form. How these columns get impacted by every transaction. I have tried explaining this using new product and creating new transactions and showing up the impact. Note: If these is something […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understand inventory on hand form columns (Status) in Microsoft dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2475</id>
+        <link href="https://exploredynamics365.home.blog/2023/04/19/understand-inventory-on-hand-form-columns-status-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-04-18T19:12:36.000Z</updated>
+        <summary type="html"><![CDATA[In this blog we will go back to our basics , for long time I was confused about column available on inventory on hand form. How these columns get impacted by every transaction. I have tried explaining this using new product and creating new transactions and showing up the impact. Note: If these is something […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reporting in Dynamics 365 Finance & Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=56452</id>
+        <link href="https://www.encorebusiness.com/blog/reporting-in-dynamics-365-finance-operations/"/>
+        <updated>2023-04-18T15:23:35.000Z</updated>
+        <summary type="html"><![CDATA[Reporting in Dynamics 365 Finance & Operations
+Dynamics 365 Finance and Operations (D365 F&O) is the cloud evolution of Dynamics AX, and how you access and report data from on-premise, versus accessing data from the cloud, has changed. The SQL database used to be on a server where the administrator could directly access the data to build a report. In a cloud-hosted...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Gale Dallyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Database Export Request using a DevOps Pipeline]]></title>
+        <id>1660 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/create-database-export-request-using-devops-pipeline"/>
+        <updated>2023-04-18T02:38:01.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 04/17/23.
+
+
+Last modified: 
+
+04/17/23
+
+
+
+
+
+
+
+
+
+
+
+
+Need to Export a database for safe keeping?
+MSFT has had database movement APIs for some time but I haven't seen a lot of use of them. I thought I'd provide a simple Power Shell script to show what can be done. You can make this more user friendly or modern by putting it in Power Automate or using a Logic App. For reference, the API specs and available operations can be found at https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dat...
+ 
+Request A Database Backup
+You can request a database backup on an environment like so:
+# Update these values for your situation
+https://login.microsoftonline.com/{DOMAIN}/oauth2/v2.0/token"       
+USER@DOMAIN.COM}'
+https://lcsapi.lcs.dynamics.com"
+# Install Azure PowerShell
+# Install D365FO.Tools
+# Install D365FO.Integrations
+Get-D365LcsApiToken -ClientId $ClientId -Username $Username -Password $Password -LcsApiUri $LcsApiUri -Verbose | Set-D365LcsApiConfig
+Invoke-D365LcsDatabaseExport -ProjectId $ProjectId -SourceEnvironmentId $SourceEnvironmentId -BackupName $BackupName -LcsApiUri $LcsApiUri -Verbose
+ 
+Using that as a starting point, you can use this script to create a pipeline. All variables at the top of the script should be changed for your specific scenario. In a pipeline, they can be added as pipeline variables and secured within the pipeline.
+
+
+
+
+View the discussion thread.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cost Accounting Part 2 – Overhead Calculation | April 5, 2023]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:99e12947-1d91-4d96-94f3-a9756ed4e911</id>
@@ -21,6 +102,17 @@ Amar Kumar Kumar.Amar@microsoft.com
 This TechTalk series will dive-in into the Cost Accounting mo...(read more)]]></summary>
         <author>
             <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is A D365 Data Entity?]]></title>
+        <id>https://dynamics365musings.com/?p=2725</id>
+        <link href="https://dynamics365musings.com/d365-data-entity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-data-entity"/>
+        <updated>2023-04-17T16:04:38.000Z</updated>
+        <summary type="html"><![CDATA[What is a D365 Data Entity? Data entities allow outside systems to read and write data in Microsoft Dynamics 365 for Finance and Operations. For example, perhaps you read the product inventory levels in D365, and send these values to your website. Similarly, you may have sales order information entered on a website that you... Continue Reading →
+The post What Is A D365 Data Entity? appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
         </author>
     </entry>
     <entry>

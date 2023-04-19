@@ -1637,6 +1637,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56452",
+          "author": "Gale Dallyn",
+          "description": "Reporting in Dynamics 365 Finance & Operations\nDynamics 365 Finance and Operations (D365 F&O) is the cloud evolution of Dynamics AX, and how you access and report data from on-premise, versus accessing data from the cloud, has changed. The SQL database used to be on a server where the administrator could directly access the data to build a report. In a cloud-hosted...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/reporting-in-dynamics-365-finance-operations/",
+          "publishedOn": "2023-04-18T15:23:35.000Z",
+          "wordCount": 1928,
+          "title": "Reporting in Dynamics 365 Finance & Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=56505",
           "author": "Mike Harris",
           "description": "What’s New in 2023 Release Wave 1 for Dynamics 365 Business Central\nMicrosoft has released the new updates to Dynamics 365 Business Central in the 2023 Release Wave 1 and has improvements with how it integrates with the Power Platform. There are some new features and functions that could be helpful for your business. In this blog I’ll be sharing the Dynamics 365 Business Central update details...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -3622,6 +3632,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=2725",
+          "author": "peter.ramer",
+          "description": "What is a D365 Data Entity? Data entities allow outside systems to read and write data in Microsoft Dynamics 365 for Finance and Operations. For example, perhaps you read the product inventory levels in D365, and send these values to your website. Similarly, you may have sales order information entered on a website that you... Continue Reading →\nThe post What Is A D365 Data Entity? appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-data-entity/?utm_source=rss&utm_medium=rss&utm_campaign=d365-data-entity",
+          "publishedOn": "2023-04-17T16:04:38.000Z",
+          "wordCount": 3093,
+          "title": "What Is A D365 Data Entity?",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/04/What-Is-A-D365-Data-Entity.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=2729",
           "author": "peter.ramer",
           "description": "In this article, learn how to use insertDatabase in D365 to insert multiple records into a table faster than calling the insert method on each record. There are several different ways to insert data into tables in Microsoft Dynamics 365 F&O. The most common is to call the insert method on the table buffer. However,... Continue Reading →\nThe post How To Use InsertDatabase In D365 appeared first on Dynamics 365 Musings.",
@@ -3968,6 +3988,16 @@
       "feedUrl": "http://atomicax.com/rss.xml",
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
+        {
+          "id": "1660 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 04/17/23.\n\n\nLast modified: \n\n04/17/23\n\n\n\n\n\n\n\n\n\n\n\n\nNeed to Export a database for safe keeping?\nMSFT has had database movement APIs for some time but I haven't seen a lot of use of them. I thought I'd provide a simple Power Shell script to show what can be done. You can make this more user friendly or modern by putting it in Power Automate or using a Logic App. For reference, the API specs and available operations can be found at https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dat...\n \nRequest A Database Backup\nYou can request a database backup on an environment like so:\n# Update these values for your situation\nhttps://login.microsoftonline.com/{DOMAIN}/oauth2/v2.0/token\"       \nUSER@DOMAIN.COM}'\nhttps://lcsapi.lcs.dynamics.com\"\n# Install Azure PowerShell\n# Install D365FO.Tools\n# Install D365FO.Integrations\nGet-D365LcsApiToken -ClientId $ClientId -Username $Username -Password $Password -LcsApiUri $LcsApiUri -Verbose | Set-D365LcsApiConfig\nInvoke-D365LcsDatabaseExport -ProjectId $ProjectId -SourceEnvironmentId $SourceEnvironmentId -BackupName $BackupName -LcsApiUri $LcsApiUri -Verbose\n \nUsing that as a starting point, you can use this script to create a pipeline. All variables at the top of the script should be changed for your specific scenario. In a pipeline, they can be added as pipeline variables and secured within the pipeline.\n\n\n\n\nView the discussion thread.",
+          "link": "https://www.atomicax.com/article/create-database-export-request-using-devops-pipeline",
+          "publishedOn": "2023-04-18T02:38:01.000Z",
+          "wordCount": 1059,
+          "title": "Create a Database Export Request using a DevOps Pipeline",
+          "imageUrl": null
+        },
         {
           "id": "1674 at https://www.atomicax.com",
           "author": "Nathan Clouse",
@@ -5733,6 +5763,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2475",
+          "author": "Saurabh Bharti",
+          "description": "In this blog we will go back to our basics , for long time I was confused about column available on inventory on hand form. How these columns get impacted by every transaction. I have tried explaining this using new product and creating new transactions and showing up the impact. Note: If these is something […]",
+          "link": "https://exploredynamics365.home.blog/2023/04/19/understand-inventory-on-hand-form-columns-status-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-04-18T19:12:36.000Z",
+          "wordCount": 2779,
+          "title": "Understand inventory on hand form columns (Status) in Microsoft dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/04/0-3.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2465",
           "author": "Saurabh Bharti",
           "description": "Enabling this feature will allow an organization to post vendor and customer payments in separate vouchers but update the bank account in summary. New options are added to the journal name setup, allowing the flexibility to post payments in detail to the bank account for some journals but in summary for different journals. Payments included […]",
@@ -5999,6 +6039,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2475",
+          "author": "Saurabh Bharti",
+          "description": "In this blog we will go back to our basics , for long time I was confused about column available on inventory on hand form. How these columns get impacted by every transaction. I have tried explaining this using new product and creating new transactions and showing up the impact. Note: If these is something […]",
+          "link": "https://exploredynamics365.home.blog/2023/04/19/understand-inventory-on-hand-form-columns-status-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-04-18T19:12:36.000Z",
+          "wordCount": 2779,
+          "title": "Understand inventory on hand form columns (Status) in Microsoft dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/04/0-3.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2465",
           "author": "Saurabh Bharti",
