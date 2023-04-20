@@ -623,6 +623,16 @@
       "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a28f082a-1a09-4c18-98c8-1313d41d8d03",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nPriyanka Sinha prsinha@microsoft.com\nEdison Lai Edison.Lai@microsoft.com\nRachel Profitt Rachel.Profitt@microsoft.com\nTulsi Jhaveri tulsijhaveri@microsoft.com\nU...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/what-s-changed-in-dynamics-365-human-resources-functional-march-29-2023",
+          "publishedOn": "2023-04-19T16:27:00.000Z",
+          "wordCount": 3396,
+          "title": "What’s changed in Dynamics 365 Human Resources (Functional) | March 29, 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/358042_5F00_DTT142.png?_=638175188701362601"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:99e12947-1d91-4d96-94f3-a9756ed4e911",
           "author": "Ilanit Manor - Community Manager",
           "description": "www.youtube.com/watch\n\nPresenters: \nAlejandra Cabrales Orozco Alejandra.Cabrales@microsoft.com\nAmar Kumar Kumar.Amar@microsoft.com\n\n~\nThis TechTalk series will dive-in into the Cost Accounting mo...(read more)",
@@ -2962,17 +2972,6 @@
           "publishedOn": "2021-06-30T08:36:53.000Z",
           "wordCount": null,
           "title": "Dynamics 365 Inventory Visibility",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:607d5e15b54c9b3503806937",
-          "author": "Aurélien Clere",
-          "description": "Hello the Community ! A new article for you now about something I was \r\nworking at Dynagile for some time now with couples of EMEA projects / \r\nespecially on D365 Finance Operations => all about IoT ! As usual with me ! \r\nMy favorite topics with Azure components with Dynamics 365 (Field Service, \r\nCustomer Service and Finance Operations) - business side to leverage Data \r\nInsights with Microsoft technologies all combined, as part of Industry 4.0 \r\nconcept - let’s go !",
-          "link": "https://www.powerazure365.com/blog-1/dynamics-365-azure-iot",
-          "publishedOn": "2021-04-19T14:04:38.000Z",
-          "wordCount": null,
-          "title": "Dynamics 365 Azure IoT - Industry 4.0",
           "itunes": {},
           "imageUrl": null
         }
@@ -7615,6 +7614,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5073",
+          "author": "Ludwig Reinhard",
+          "description": "[German Language Podcast] In der Podcast Ausgabe nach den Osterfeiertagen sprechen wir mit Jörg Lüthge, der als ‚Head of Business …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2023/04/19/microsoft-bizapps-deutschland-podcast-10/",
+          "publishedOn": "2023-04-19T05:47:36.000Z",
+          "wordCount": 2757,
+          "title": "Microsoft BizApps Deutschland Podcast #10",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/04/2023-04-11_picturelre.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=4897",
           "author": "Ludwig Reinhard",

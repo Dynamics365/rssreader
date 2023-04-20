@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-19T01:17:43.483Z</updated>
+    <updated>2023-04-20T01:14:32.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s changed in Dynamics 365 Human Resources (Functional) | March 29, 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a28f082a-1a09-4c18-98c8-1313d41d8d03</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/what-s-changed-in-dynamics-365-human-resources-functional-march-29-2023"/>
+        <updated>2023-04-19T16:27:00.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com/watch
+
+Presenters: 
+Priyanka Sinha prsinha@microsoft.com
+Edison Lai Edison.Lai@microsoft.com
+Rachel Profitt Rachel.Profitt@microsoft.com
+Tulsi Jhaveri tulsijhaveri@microsoft.com
+U...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #10]]></title>
+        <id>http://dynamicsax-fico.com/?p=5073</id>
+        <link href="https://dynamicsax-fico.com/2023/04/19/microsoft-bizapps-deutschland-podcast-10/"/>
+        <updated>2023-04-19T05:47:36.000Z</updated>
+        <summary type="html"><![CDATA[[German Language Podcast] In der Podcast Ausgabe nach den Osterfeiertagen sprechen wir mit Jörg Lüthge, der als ‚Head of Business …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understand inventory on hand form columns (Status) in Microsoft dynamics 365 finance and operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2475</id>
@@ -18296,22 +18324,6 @@ As an example, inventory for a Widget is not available for 30 days.  An authori
 (read more)]]></summary>
         <author>
             <name>Rahul Mohta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Azure IoT - Industry 4.0]]></title>
-        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:607d5e15b54c9b3503806937</id>
-        <link href="https://www.powerazure365.com/blog-1/dynamics-365-azure-iot"/>
-        <updated>2021-04-19T14:04:38.000Z</updated>
-        <summary type="html"><![CDATA[Hello the Community ! A new article for you now about something I was 
-working at Dynagile for some time now with couples of EMEA projects / 
-especially on D365 Finance Operations => all about IoT ! As usual with me ! 
-My favorite topics with Azure components with Dynamics 365 (Field Service, 
-Customer Service and Finance Operations) - business side to leverage Data 
-Insights with Microsoft technologies all combined, as part of Industry 4.0 
-concept - let’s go !]]></summary>
-        <author>
-            <name>Aurélien Clere</name>
         </author>
     </entry>
 </feed>
