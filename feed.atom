@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-20T01:14:32.670Z</updated>
+    <updated>2023-04-20T03:16:37.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your one-stop resources for Microsoft Dynamics 365 Finance & Operation developers]]></title>
+        <id>http://paragchapre.com/?p=2929</id>
+        <link href="https://paragchapre.com/2023/04/20/your-one-stop-resources-for-microsoft-dynamics-365-finance-operation-developers/"/>
+        <updated>2023-04-20T02:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Developers in Microsoft Dynamics 365 Finance and Operations (F&O) often ask how to learn X++ from the basics to advanced levels. In this article, I will share some resources, certifications, blogs and YouTube link which can be useful for the developers. Learning catalog for Dynamics 365 Finance developers from Microsoft Learning catalog for Dynamics 365... Continue Reading →]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s changed in Dynamics 365 Human Resources (Functional) | March 29, 2023]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a28f082a-1a09-4c18-98c8-1313d41d8d03</id>
@@ -32,6 +42,19 @@ U...(read more)]]></summary>
 Continue reading →]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do I Deploy a Dynamics 365 Integrated Trial Environment? – Step -by-Step Guide]]></title>
+        <id>https://d365cliffsnotes.com/how-do-i-deploy-a-dynamics-365-integrated-trial-environment-step-by-step-guide</id>
+        <link href="https://d365cliffsnotes.com/how-do-i-deploy-a-dynamics-365-integrated-trial-environment-step-by-step-guide"/>
+        <updated>2023-04-19T05:00:39.000Z</updated>
+        <summary type="html"><![CDATA[The challenge is: what is it?
+Keeping up-to-date with the latest & greatest features of Dynamics 365 family products is essential in today's fast-paced technological landscape.
+The other day, I revisited my programming journal, only to discover several new features, updates, and changes I hadn't seen before. Simply to stay current, I had to revisit new features of Dynamics 365 Project Operations and some features of Dynamics 365 FO.
+At work, I am often required to use new frameworks or features. Although I concentrate on learning new Dynamics 365 Project Operations features, I might still feel that I am missing the full picture of Dynamics 365 Finance business processes. In some cases, it's frustrating not to have a dedicated, managed or trial-integrated Dynamics 365 Project Operations or …]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -214,6 +237,19 @@ president, and Paymerang acquires KwikTag and Sypht.
  Digia ,... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deal With Missing Fields on Dual-write Table Custom Maps]]></title>
+        <id>https://d365cliffsnotes.com/how-to-deal-with-missing-fields-on-dual-write-table-custom-maps</id>
+        <link href="https://d365cliffsnotes.com/how-to-deal-with-missing-fields-on-dual-write-table-custom-maps"/>
+        <updated>2023-04-14T08:57:27.000Z</updated>
+        <summary type="html"><![CDATA[Dual-write Custom entity Maps: I bet, You're probably missing something.
+Roughly a year ago I had to create a complex Dual-write table map and I couldn't decide the approach to start with Dataverse first or Dynamics 365 FO. However, I knew I wanted to use a custom data entity with a custom table of Dataverse to complete the data mapping. So I began a process of table mapping using Dual-write. I could able to complete the data fields mapping process and try to start the map to initiate the data sync. However, it failed in testing due to some missing fields or columns.
+I had almost no experience with Dual-write troubleshooting to resolve the issue. The only option left with me was to step-by-step approach right from Dynamics 365 FO Data entity to Dataverse table fields.
+Real-world Dual-write…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -404,6 +440,22 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>To-Increase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual-write: Types of Errors and How to Fix them]]></title>
+        <id>https://d365cliffsnotes.com/dual-write-types-of-errors-and-how-to-fix-them</id>
+        <link href="https://d365cliffsnotes.com/dual-write-types-of-errors-and-how-to-fix-them"/>
+        <updated>2023-04-12T08:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Oopstheres an Error! :) 😬
+While using Dual-write infrastructure we encounter a wide variety of different types of errors. Often, these errors leave us scratching our heads. Nevertheless, we can learn what those errors mean by understanding why we get them. Our life will be a lot easier if we know how to solve or avoid them!
+With the Dual-write Alert capability feature, we can set up an error of type to happen in minute(s) and hour(s) for all the table maps.
+
+In today's blog, let's understand what the 'Types of Error' are. Why do we get those errors? And how are we supposed to avoid them?
+What is an error?
+Errors that prevent your data sync operation from performing smoothly.  Whether it is uni-directional or bi-directional using Dual-write infrastructure. There are eight main types of err…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -6237,6 +6289,23 @@ The post Accelerate your year-end close process appeared first on Microsoft Dyna
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Chat GPT was asked to build a Daily Tracker application in Canvas Power Apps — Does this mean we have a replacement?]]></title>
+        <id>https://d365cliffsnotes.com/chat-gpt-was-asked-to-build-a-daily-tracker-application-in-canvas-power-apps-does-this-mean-we-have-a-replacement</id>
+        <link href="https://d365cliffsnotes.com/chat-gpt-was-asked-to-build-a-daily-tracker-application-in-canvas-power-apps-does-this-mean-we-have-a-replacement"/>
+        <updated>2022-12-16T18:28:04.000Z</updated>
+        <summary type="html"><![CDATA[In light of everyone's buzz over Open AI's ChatGPT, I reached out to OpenAI Chat to ask to build Daily tracker apps for Canvas PowerApps and use Dataverse as a back-end and the response was amazing.
+If you remember, GitHub Co-pilot was released in October 2021, and the entire developer community loved it.
+Others, like myself, thought that while the tool was interesting, it was so far from replacing humans. Certainly, it could improve a process, but it wasn't capable of creating apps from scratch.
+Let's understand.
+What is Open AI's ChatGPT?
+By using the GPT-3.5 language model, the AI research group OpenAI has released a beta version of ChatGPT.
+Basically, ChatGPT is a chatbot that answers questions based on artificial intelligence.
+In order to produce text similar to that of a human, this …]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MSDW Podcast: NMB Solutions expands in Europe with new shipping partnership]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a60656b4-64dc-4f4b-8619-9ccccb094533</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-nmb-solutions-expands-in-europe-with-new-shipping-partnership"/>
@@ -6387,6 +6456,23 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[We are glad to announce the release of our final 2022 deliverable, the November update for Power Platform CLI, Azure DevOps, and GitHub actions. Once again, this month’s update has some great new features available, and I am happy to share them with you. Support for Managed Identities in Azure DevOps This has by far…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The magical option to refresh virtual table relationships in Dataverse]]></title>
+        <id>https://d365cliffsnotes.com/the-magical-option-to-refresh-virtual-table-relationships-in-dataverse</id>
+        <link href="https://d365cliffsnotes.com/the-magical-option-to-refresh-virtual-table-relationships-in-dataverse"/>
+        <updated>2022-12-14T03:40:58.000Z</updated>
+        <summary type="html"><![CDATA[My goal in this blog post will be to provide you with steps that will help you to auto-refresh Virtual table relationships when changes are made to the Data entity relationships in Dynamics 365 FO.
+Business scenario:
+Consider the scenario where you have modified & developed several standard and custom data entities and defined the relationships required by the business.
+As a result of the discussion with the business SME, it was discovered that Power Apps or Dynamics 365 CE require a few additional relationships between the data fields.
+Lets deep dive and understand the steps
+I have chosen **PurchPurchaseOrderHeaderV2Entity (**Public Collection Name: PurchaseOrderHeadersV2) as an example.
+Assumption: PurchPurchaseOrderHeaderV2Entity is already enabled as a Virtual table in the Dataverse.
+I…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -7621,6 +7707,23 @@ Use this link to add the App Registration in F&O. We should select the environme
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What Must Be Done To Create An Entity Relationship Diagram in Dynamics 365 Finance & Operations]]></title>
+        <id>https://d365cliffsnotes.com/what-must-be-done-to-create-an-entity-relationship-diagram-in-dynamics-365-finance-operations</id>
+        <link href="https://d365cliffsnotes.com/what-must-be-done-to-create-an-entity-relationship-diagram-in-dynamics-365-finance-operations"/>
+        <updated>2022-11-09T18:37:55.000Z</updated>
+        <summary type="html"><![CDATA[This blog post walks you through the process of creating ERD diagrams and unpacking them with information about Dynamics 365 Finance & Operations.
+Problem statement
+The customer IT team is expecting the implementation team to generate an ERD diagram for custom or standard tables to understand Dynamics 365 FO table relationships.
+There are a few situations in the discovery and design phase of Dynamics 365 FO implementation where ERD really simplifies everyone's life.
+Why is it so critical?
+By creating ERDs, business analysts and users can clarify business terms, understand business domains, and connect concepts to databases.
+What is an ERD (Entity Relationship Diagram)?
+It describes the relationship between entities or concepts in a data model. It is therefore necessary to distinguish betwe…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Customer Service voice support channel launches in the UK]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2022/11/09/customer-service-voice-support-channel-launches-in-the-uk/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2022/11/09/customer-service-voice-support-channel-launches-in-the-uk/"/>
@@ -8739,6 +8842,22 @@ Kelly]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Do I Resolve the Parent Child Lookup Issue in Dataverse for Dynamics 365 Finance & Operations]]></title>
+        <id>https://d365cliffsnotes.com/how-do-i-resolve-the-parent-child-lookup-issue-in-dataverse-for-dynamics-365-finance-operations</id>
+        <link href="https://d365cliffsnotes.com/how-do-i-resolve-the-parent-child-lookup-issue-in-dataverse-for-dynamics-365-finance-operations"/>
+        <updated>2022-10-07T17:13:35.000Z</updated>
+        <summary type="html"><![CDATA[What makes it so important to remember?
+Simply put, it keeps you and your project execution happy and in a healthy state .
+Business scenario:
+Think about the scenario where you and your team have designed & developed several custom data entities as the parent-child relationship for customized business processes.
+Integration requires sending both records such as retail, and business documents (Sales order, Purchase order) together. The sales order or purchase order document and its associated order lines are created in the same transaction scope. However, you found that you often had issues with lookups.
+Error description  
+Unable to write data to an entity. Unable to lookup with values {DC00...}. Unable to look up salestable with values {DC00...}. Writes to failed with error message Except…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Subscription Billing - Pricing Methods]]></title>
         <id>https://www.d365fandom.com/2022/10/subscription-billing-pricing-methods.html</id>
         <link href="https://www.d365fandom.com/2022/10/subscription-billing-pricing-methods.html"/>
@@ -8974,6 +9093,26 @@ Development environments can be hosted locally or on Microsoft Azure. The build 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How To Design Data Entity For Dual-write in Dynamics 365 Finance & Operations]]></title>
+        <id>https://d365cliffsnotes.com/how-to-design-data-entity-for-dual-write-in-dynamics-365-finance-operations</id>
+        <link href="https://d365cliffsnotes.com/how-to-design-data-entity-for-dual-write-in-dynamics-365-finance-operations"/>
+        <updated>2022-10-01T13:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Testing The Waters Is Better Than Drowning in the Pool! isn't it so? 🏊
+Long story short, there are two sets of Data entities in Dynamics 365 FO.
+Standard data entities
+Dual-write specific data entities (Postfix as CDSEntity)
+The core purpose of having these categorizations is to manage, simplify & better control ALM, CE & ERP-related business scenarios, External party integration, or some processes that required some additional logic to be called to handshake with other downstream processes.
+
+How Does It Work Under The Hood?
+This is more about how data entities are designed in Dynamics 365 FO.
+Dynamics 365 FO data entities are more complex since they encompass a wide range of data sources.
+
+Furthermore, each data source could result in multiple tables. During a transaction, most processes…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Enumerate lines in Configurable Business Documents]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9fc313cf-70e4-43f8-be5d-6987243d442e</id>
         <link href="https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/enumerate-lines-in-configurable-business-documents"/>
@@ -9045,6 +9184,21 @@ Check spellings - especially on data that is validated by the system (Address/ci
 Once your data is clean, you can still get errors. Here are some common errors that you can run into before any records ever…]]></summary>
         <author>
             <name>D365FandO(m)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover Fundamentals of Dual-write Live sync transactions Process in Dynamics 365 FO & Dataverse]]></title>
+        <id>https://d365cliffsnotes.com/discover-fundamentals-of-dual-write-live-sync-transactions-process-in-dynamics-365-fo-dataverse</id>
+        <link href="https://d365cliffsnotes.com/discover-fundamentals-of-dual-write-live-sync-transactions-process-in-dynamics-365-fo-dataverse"/>
+        <updated>2022-09-28T13:05:55.000Z</updated>
+        <summary type="html"><![CDATA[Why is it important to understand?
+When considering the Dynamics 365 Cross-Apps solution design, it is imperative to understand the internal dynamics of each system. Each system has its own capabilities and limitations.
+And when it comes to transaction commitment to the database, each system has its own transaction tracking mechanism. Dynamics 365 Finance & Operations and Dataverse are not exceptions to this rule.
+Transaction tracking mechanisms exist to ensure data integrity. I'm sure you have used either application before.
+With Dynamics 365 FO, every transaction is part of the transaction scope, and a single transaction scope can include multiple changes. Sometimes it will be a complex case based on your business scenario.
+As a result, it becomes the record event of table inserts and up…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -9284,6 +9438,23 @@ Curr...(read more)]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Multithreaded Execution Of The Calculate Sales Totals Batch Job in Dynamics 365 Finance and Operations]]></title>
+        <id>https://d365cliffsnotes.com/multithreaded-execution-of-the-calculate-sales-totals-batch-job-in-dynamics-365-finance-and-operations</id>
+        <link href="https://d365cliffsnotes.com/multithreaded-execution-of-the-calculate-sales-totals-batch-job-in-dynamics-365-finance-and-operations"/>
+        <updated>2022-09-19T17:51:19.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, we will learn about a new feature released in D365 Finance and Operations Platform updates 10.0.29 i.e., Multithread capability in the "Calculate sales totals" batch.
+
+Navigation path
+Modules -> Sales and marketing -> Periodic tasks -> Calculate sales totals
+Background
+The business functionality of this batch job was introduced about 3 to 4 years ago in Dynamics 365 FO mainly to bridge the gap in data synchronization between Dynamics 365 Sales & Dynamics 365 Finance and Operations. 
+In the scenario of Dynamics 365 Cross-apps when Dual-write is installed and all sales orders are created and updated in Dynamics 365 FO and then changes are reflected in Dynamics 365 Customer Engagement app when Calculate Sales Totals is executed in Dynamics 365 FO (Not before).
+Basically, th…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ensure relieble Releases on Dynamics 365 FinOps]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ea90e64e-9393-46da-88c5-9d2322491375</id>
         <link href="https://community.dynamics.com/ax/b/moredatamoresuccess/posts/ensure-relieble-releases-on-dynamics-365-finops"/>
@@ -9444,6 +9615,20 @@ The post Batch jobs in D365: a Russian roulette appeared first on ER-Consult.]]>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Design Cooking Metaphor for Business Unit & Company in Dynamics 365 FO & Dataverse]]></title>
+        <id>https://d365cliffsnotes.com/design-cooking-metaphor-for-business-unit-company-in-dynamics-365-fo-dataverse</id>
+        <link href="https://d365cliffsnotes.com/design-cooking-metaphor-for-business-unit-company-in-dynamics-365-fo-dataverse"/>
+        <updated>2022-09-17T12:09:21.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post, we learned company semantics as well as security construct in Dynamics 365 FO & Dataverse especially when Dual-write & Virtual entity technologies are involved.
+In this blog post, you will learn how these two different concepts are getting configured in multiple legal entities' business scenarios and how it works under the hood.
+We will also understand what product offers as part of Out-of-box capability & some of the recommended design configurations based on my learning.
+Business scenario
+CliffsNotes is a fictitious organization, planning to implement Cross apps functionality using Dynamics 365 Customer Engagement Apps, Power apps & Dynamics 365 Finance and Operations Apps. CliffsNotes operates in India & Europe geographies as part of its line of business. Therefore,…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Separate voucher for journal lines related to Fixed asset Split transactions in Microsoft dynamics 365 finance and operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2117</id>
         <link href="https://exploredynamics365.home.blog/2022/09/17/separate-voucher-for-journal-lines-related-to-fixed-asset-split-transactions-in-microsoft-dynamics-365-finance-and-operations/"/>
@@ -9547,6 +9732,24 @@ In this article we shall see the new feature called “Allow edits to...(read mo
         <summary type="html"><![CDATA[The inventory value report shows the details about the physical and financial quantities as well as physical and financial quantities of inventory. In this article, we will see how to]]></summary>
         <author>
             <name>Ali Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Company and Security Concept in Dynamics 365 FO & Dataverse]]></title>
+        <id>https://d365cliffsnotes.com/company-and-security-concept-in-dynamics-365-fo-dataverse</id>
+        <link href="https://d365cliffsnotes.com/company-and-security-concept-in-dynamics-365-fo-dataverse"/>
+        <updated>2022-09-14T17:55:15.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we will learn how security boundaries and ownership concepts work in Dataverse and Dynamics 365 FO especially when Dual-write and Virtual entity installed.
+Why should we understand?
+This can lead to an incorrect design of end-to-end Cross-app solution and inaccuracy in record ownership across both the systems i.e. Dynamics 365 FO & Dataverse 
+What is Company abstract in Dynamics 365 FO & Dataverse?
+Lets understand company concept & security concept of Dual-write and virtual entity technologies.
+In my view, these concepts are very important to understand by Dynamics 365 consultant while designing the solution.
+But before we talk about in detail, let's understand what a company looks like in both FnO and Dataverse.
+
+In Dynamics 365 FO, we have a dataarea and really this is two …]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -10101,6 +10304,19 @@ Setup Power Platform I…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Guide To Azure Management Groups For User Security in Dynamics 365 Finance & Operations]]></title>
+        <id>https://d365cliffsnotes.com/a-guide-to-azure-management-groups-for-user-security-in-dynamics-365-finance-operations</id>
+        <link href="https://d365cliffsnotes.com/a-guide-to-azure-management-groups-for-user-security-in-dynamics-365-finance-operations"/>
+        <updated>2022-08-23T17:35:36.000Z</updated>
+        <summary type="html"><![CDATA[Business Scenario: CliffsNotes is a fictional company getting ready for its Business As Usual (BAU) processes as the production go-live for D365 Finance and Operations is scheduled for next week. However, looking at the number of entries of joiners and movers in the organization as well as the proper segregation of duties of each department an organization is looking at more control and a RBAC-driven solution in D365 Finance and Operations to manage the security roles.
+Solution: A feature called Active directory security group can be leveraged as it allows AZURE AD groups driven access to a respective department.
+Security should be top of mind for every D365 Finance and Operations Administrator.
+One of the best parts of this feature is a one-time setup and the remaining steps can be execut…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Search and find Dynamics 365 records with Microsoft Search]]></title>
         <id>search-and-find-dynamics-365-records-with-microsoft-search</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/search-and-find-dynamics-365-records-with-microsoft-search/"/>
@@ -10129,6 +10345,34 @@ Setup Power Platform I…]]></summary>
 The post How To Manage D365 Batch Jobs appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Increase Default Time-out limit for Dual-write Sessions]]></title>
+        <id>https://d365cliffsnotes.com/how-to-increase-default-time-out-limit-for-dual-write-sessions</id>
+        <link href="https://d365cliffsnotes.com/how-to-increase-default-time-out-limit-for-dual-write-sessions"/>
+        <updated>2022-08-19T16:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Problem statement:
+The issue of time-outs for dual-write sessions has been noticed in a couple of scenarios.
+Analysis:
+A default time-out of two minutes is not adequate for Dual-write sessions.
+Solution:
+Prerequisites: Dual-write core solution (Anchor solution for Dual-write Core) version 1.0.36. and later must be installed in Dataverse.
+Log in to https://admin.powerplatform.microsoft.com/home
+Navigate to Environments
+Select your Environment 
+
+Navigate to Resources and select Dynamics 365 apps
+Select Dual-write core solution
+Click on  and then select details option 
+
+Validate version number
+
+Lets understand first, the core of Dual-write
+What is Dual-write?
+Dual-write is an out-of-the-box infrastructure that allows near-real-time bidirectional data integration capability between Dataverse &…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -10204,6 +10448,18 @@ The post How To Use D365 Batch Jobs appeared first on Dynamics 365 Musings.]]></
         <summary type="html"><![CDATA[Reliable error handling moves to preview for Power Fx and Power Apps.  You now have all the tools you need to detect, replace, report, and log errors, including a good default behavior if you never take advantage of these tools.  And, bonus, you can also now write blank (or null) values to databases.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for leveraging free text invoice templates]]></title>
+        <id>https://d365cliffsnotes.com/tips-for-leveraging-free-text-invoice-templates</id>
+        <link href="https://d365cliffsnotes.com/tips-for-leveraging-free-text-invoice-templates"/>
+        <updated>2022-08-15T12:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Business scenario: A company such as ABC Inc. generates invoices for its customers for a variety of services, fees, or charges that must be itemized and posted to specific ledger accounts. These ledger accounts must also have dedicated financial dimensions at invoice line level. There is, however, a relatively high number of invoices generated each day. In order to ease out their employees' daily tasks, businesses want to automate the invoice generation process.
+Solution approach: Dynamics 365 Finance Free Text invoice is the best suitable approach considering the given business scenario to support Create FT invoice by using the predefined templates
+Observations: Dynamics 365 Finance & Operations product version 10.0.28 (10.0.1265.60) & Update52 (7.0.6441.74) does support Free text invoice…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -11525,6 +11781,22 @@ management... Read the full text.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mistake #8 – Motivation Of The Team Is Lacking]]></title>
+        <id>https://d365cliffsnotes.com/mistake-8-motivation-of-the-team-is-lacking</id>
+        <link href="https://d365cliffsnotes.com/mistake-8-motivation-of-the-team-is-lacking"/>
+        <updated>2022-06-13T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Put the team under pressure so that they deliver on time, Is that a good idea??
+
+One of the most important aspects of Dynamics 365 FO projects is the team that builds it. It's easy to neglect them, but we should make sure to take care of them.
+One way to acknowledge the team's devotion is by implementing a reward and recognition scheme.
+The project leadership team often lacks understanding and support for the individual team members, which can lead to problems like crises that may arise during a project.
+One way to motivate a team member is to support and encourage them. Part of leadership is making sure that everyone knows that you're standing alongside them and will be by their side as the project progresses.
+One other important motivator is getting appreciated for your work by a custome…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to write to an event log from inside of a transaction]]></title>
         <id>https://alexvoy.blogspot.com/2022/06/how-to-write-to-event-log-from-inside.html</id>
         <link href="https://alexvoy.blogspot.com/2022/06/how-to-write-to-event-log-from-inside.html"/>
@@ -11563,6 +11835,22 @@ management... Read the full text.]]></summary>
     }]]></summary>
         <author>
             <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistake #7 - Risky to start a Dynamics 365 FO project without acquiring the requisite skills]]></title>
+        <id>https://d365cliffsnotes.com/mistake-7-risky-to-start-a-dynamics-365-fo-project-without-acquiring-the-requisite-skills</id>
+        <link href="https://d365cliffsnotes.com/mistake-7-risky-to-start-a-dynamics-365-fo-project-without-acquiring-the-requisite-skills"/>
+        <updated>2022-06-11T08:33:32.000Z</updated>
+        <summary type="html"><![CDATA[As the team struggles with these new capabilities of Dynamics 365 FO, they will learn. Does that sound good?
+
+Many system integrators need to handle projects with skills that they don't have. It is inevitable that they will face this problem at some point.
+Before deploying any resources into the project, organizations must invest in training and skills development.
+A project without refactoring will quickly become inefficient and error-prone. As a result, your team's morale will be lower, design & build phase time will increase, and your implementation success rate will be slowed down.
+Although the team had a longer learning curve than anticipated, they were able to get up to speed quickly. This is because there was no formal training and few resources with experience.
+This had the consequ…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -11752,6 +12040,35 @@ As you can see, only Project time entry has a replacement with the Microsoft Dyn
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mistake #6 – Insufficient knowledge of a customer's specific business processes]]></title>
+        <id>https://d365cliffsnotes.com/mistake-6-insufficient-knowledge-of-a-customers-specific-business-processes</id>
+        <link href="https://d365cliffsnotes.com/mistake-6-insufficient-knowledge-of-a-customers-specific-business-processes"/>
+        <updated>2022-06-08T04:36:30.000Z</updated>
+        <summary type="html"><![CDATA[What is the Real Problem with Customer Business Processes That Needs to be Addressed?
+
+The real problem with customer business processes that need to be addressed is their lack of transparency. As a result, the customers are not able to understand whats happening with their data. They are kept in the dark about how their data is being used and why its being used for certain purposes.
+A lot of system integrators find it difficult to understand the customer's business process. This is because customers are often not aware of their own process, or they may not have a written plan.
+So, how do you approach this situation? It is important to ask questions about the customer's business process. What are their goals? What are their challenges? How do they measure success? A lot of these questions …]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistake #5 – The lack of low-level design document]]></title>
+        <id>https://d365cliffsnotes.com/mistake-5-the-lack-of-low-level-design-document</id>
+        <link href="https://d365cliffsnotes.com/mistake-5-the-lack-of-low-level-design-document"/>
+        <updated>2022-06-06T16:52:36.000Z</updated>
+        <summary type="html"><![CDATA[Why Every System Integrator Needs to Focus on Their Low-Level Design Strategy?
+
+The low-level design document is the first step in the design process. A low-level design document contains a description of the problem and a list of requirements that need to be fulfilled by the design.
+This is one of the important documents to ensure that the project's goals are met.
+Functional consultants & Architects need to be able to communicate their ideas in a way that is easy for developers to understand. Low-level documentation is the key to successful collaboration between designers and developers.
+Low-level documentation includes things like wireframes, sketches, mock-ups, and prototypes. This type of documentation is essential for functional consultants & Architects because it helps them communica…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How To Develop A D365 Number Sequence]]></title>
         <id>https://dynamics365musings.com/?p=2027</id>
         <link href="https://dynamics365musings.com/develop-a-d365-number-sequence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=develop-a-d365-number-sequence"/>
@@ -11804,6 +12121,21 @@ Dimension      from account type
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mistake #4 – The Dangers of a Bad Project Manager]]></title>
+        <id>https://d365cliffsnotes.com/mistake-4-the-dangers-of-a-bad-project-manager</id>
+        <link href="https://d365cliffsnotes.com/mistake-4-the-dangers-of-a-bad-project-manager"/>
+        <updated>2022-06-04T09:39:06.000Z</updated>
+        <summary type="html"><![CDATA[There's no perfect candidate. What is the downside of selecting a bad project manager?
+
+Project managers are responsible for making sure that their projects are delivered on time, within budget and with the quality expected. They also need to make sure that the project is successful in achieving its objectives.
+One of the skills needed to be a good project manager is learning and understanding the various principles. Doing practice runs will also help improve your project management skills and you will learn over time.
+The main responsibility of a project manager is to understand the processes and tools that are available, order the projects in a way that will manage workflow, and be constantly aware of what's going on with each project.
+Therefore, even a skilled technical professional can…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FastTrack recommendations for success]]></title>
         <id>http://kurthatlevik.com/?p=4355</id>
         <link href="https://kurthatlevik.com/2022/06/03/fasttrack-recommendations-for-success/"/>
@@ -11811,6 +12143,22 @@ Dimension      from account type
         <summary type="html"><![CDATA[I give the Microsoft FastTrack team and team producing the docs all credit for the following blogpost! We very often get information overload, and then there is great to get a more compressed summary of what is important to consider in D365 projects. Here is the text from an email that is sent out to … Continue reading FastTrack recommendations for success]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistake #3 – Moving before understanding scope of business requirements]]></title>
+        <id>https://d365cliffsnotes.com/mistake-3-moving-before-understanding-scope-of-business-requirements</id>
+        <link href="https://d365cliffsnotes.com/mistake-3-moving-before-understanding-scope-of-business-requirements"/>
+        <updated>2022-06-03T07:44:54.000Z</updated>
+        <summary type="html"><![CDATA[What Should You Remember If You're Moving with an Incomplete Scope of Business Requirements Documented?
+
+Lets talk about how we can satisfy any business requirements that are important to your project success.
+It is important to have an understanding with your customer that the requirements are not finalized yet, and make sure the customer understands. Otherwise, the failure to properly meet these requirements could lead to problems.
+So, it's important for the project team to get a sign-off of the requirements. This will help them in future if they want to refer back again.
+Changes to a signed off scope will need to go through the change management process. Making sure you do this diligently is important.
+A project's customer needs to be informed about the change management process, even i…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -11845,6 +12193,27 @@ The post How to Grant Access to Navigation Modules in D365FO appeared first on A
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mistake #2 – Lack of Communication With Project Team]]></title>
+        <id>https://d365cliffsnotes.com/mistake-2-lack-of-communication-with-project-team</id>
+        <link href="https://d365cliffsnotes.com/mistake-2-lack-of-communication-with-project-team"/>
+        <updated>2022-06-01T13:52:25.000Z</updated>
+        <summary type="html"><![CDATA[How Communication Mistakes Can Lead To Project Failure?
+
+Communication between team members is vital for success. If team members are not communicating with each other, they will not be able to work together efficiently, which can lead to delays and even failure of a project.
+Communication is a key part of any project. It is the way that the team communicates with each other, their clients and stakeholders. 
+Communication can be verbal, written or visual. All three are important for different reasons but it is vital that all parties have access to the same information in a timely manner.
+A lack of communication can have many effects on a project including:
+Confusion
+Lack of trust
+Unclear goals
+Inability to make decisions
+Enhancing the Workplace Experience with Better Communication
+Communic…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Announcing the general availability of canvas components and component libraries]]></title>
         <id>announcing-the-general-availability-of-canvas-components-and-component-libraries</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/announcing-the-general-availability-of-canvas-components-and-component-libraries/"/>
@@ -11865,6 +12234,20 @@ partners around the world. Like the rest of their country, they saw
 their lives upended by the Russian invasion in February... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistake #1 – The Problem with Poor Estimation and the Solution for Better Planning]]></title>
+        <id>https://d365cliffsnotes.com/mistake-1-the-problem-with-poor-estimation-and-the-solution-for-better-planning</id>
+        <link href="https://d365cliffsnotes.com/mistake-1-the-problem-with-poor-estimation-and-the-solution-for-better-planning"/>
+        <updated>2022-05-31T07:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Why Do We Have So Much Trouble With Project Estimation?
+
+Project estimation is a difficult task. There are many factors that can contribute to this difficulty, including the type of project, the team size, the level of experience and expertise of the estimators, and more. Lets understand some of these factors and pay attention as well as some guidance on how to estimate projects more accurately.
+Many people believe that estimating projects is an art form or a skill set that can be developed over time with practice. However, it's also important to realize that estimating projects is not as easy as it seems and there are many factors at play when trying to come up with an accurate estimate for a project.
+Another reason for the difficulty in estimating ERP projects is the lack of past data on…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
@@ -16181,6 +16564,20 @@ Module Reference 'yyy' in model 'zzz' cannot be located. This is an indication]]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[16 Learning Experiences Stories of Dynamics 365 Finance & Operations Apps Developer for Diwali]]></title>
+        <id>https://d365cliffsnotes.com/16-learning-experiences-stories-of-dynamics-365-finance-and-operations-apps-developer-for-diwali</id>
+        <link href="https://d365cliffsnotes.com/16-learning-experiences-stories-of-dynamics-365-finance-and-operations-apps-developer-for-diwali"/>
+        <updated>2021-11-01T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone, so November is started, and Diwali, the festival of light, is just begun. It's a moment of bliss to put out this article on some of the victory of light over darkness that Microsoft Dynamics 365 Finance & Operations Apps developers/technical consultants may have experienced.
+In this article, here are some stories that are shaped learning such as major obstacles to increasing continuous upgrade cost and written code that is not easy to understand, not easy to change by another person (developer) and not in line with best practices.
+Please comment to share your experiences as a developer/technical consultant while working on Dynamics 365 Finance & Operations Apps implementation, upgrade or business as usual (BAU)
+1. Indicate unfinished code
+Lets begin with the most common condit…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5 Tips to improve the performance in a DMF import project]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:46938077-4d11-43cb-8275-cb7aab191f44</id>
         <link href="https://community.dynamics.com/ax/b/axinthefield/posts/5-tips-to-improve-the-performance-in-a-dmf-import-project"/>
@@ -16303,6 +16700,24 @@ But what to do if the client is not available (for example because a build is fa
 In earlier versions it]]></summary>
         <author>
             <name>Robin Kretzschmar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speaking for Myself, for Destiny me]]></title>
+        <id>https://d365cliffsnotes.com/speaking-for-myself-for-destiny-me</id>
+        <link href="https://d365cliffsnotes.com/speaking-for-myself-for-destiny-me"/>
+        <updated>2021-10-27T05:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone and welcome to my blog. My name is Rakesh. Im glad to see you and I want to say a few words about myself.
+Why am I here?
+Ambitious about technology & design-thinking approach. To immerse me to apply the same to help a customer to resolve complex business problems by applying technology. I am a strong believer in community-based learning to enhance knowledge by connecting countless people across the wider community. Now I am glad that I got here and will be able to carry out what I have planned.
+What do I expect from my blog posts?
+Sharing challenges that I encountered & my learnings on Microsoft Business Applications & Azure to all. I recognize that learning from blogs or articles helps individuals & the community to grow faster. We all need to apply a continuous learning mindset and be able to be persistent. I think that I will gain a lot of new knowledge and  I will easily utilize them.
+What do I want from the learning experience, ideally?
+Of course, I want to become a person who will be very challenged in the area in which I am working. I will be able to communicate with the wider community to learn & grow together.
+Thank you for Reading - Let's Connect! 
+Enjoy my blog? For more such awesome blog articles - follow, subscribe and let's connect on  LinkedIn, Twitter]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
         </author>
     </entry>
     <entry>
