@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-20T03:16:37.229Z</updated>
+    <updated>2023-04-21T01:14:57.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[X++ to run XIRR]]></title>
+        <id>https://alexvoy.blogspot.com/2023/04/x-to-run-xirr.html</id>
+        <link href="https://alexvoy.blogspot.com/2023/04/x-to-run-xirr.html"/>
+        <updated>2023-04-20T17:06:00.002Z</updated>
+        <summary type="html"><![CDATA[I created a small X++ wrapper to call XIRR function from the C# project provided by https://github.com/klearlending/XIRR (Thank you!) 
+You can test XIRR function in Excel, btw.
+
+
+using tmxExcelFinance;
+/// <summary>
+/// Implements various financial functions
+/// </summary>
+public final class mgcFinanceFunction
+{
+    /// <summary>
+    /// Calculates XIRR value
+    /// </summary>
+    /// <param name = "_cashFlows">List of containers kind [cashflow amount, its date]</param>
+    /// <param name = "_decimals">how many decimals to calculate</param>
+    /// <param name = "_maxRate">Maximum rate</param>
+    /// <returns>XIRR value</returns>
+    public static real calculateXIRR(List _cashFlows, int _decimals, real _maxRate = 1000000)
+    { 
+         
+        var                                 cash…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General Journal posting for multiple companies – D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2484</id>
+        <link href="https://anithasantosh.wordpress.com/2023/04/20/general-journal-posting-for-multiple-companies-d365fo/"/>
+        <updated>2023-04-20T11:11:54.000Z</updated>
+        <summary type="html"><![CDATA[With the latest PU release 10.0.33, a new feature is introduced which enables the users the post the GL across the multiple companies Go to Feature Management and filter for ‘Journal’. Click ‘Enable now’ and the feature is ready for … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High five Matthew Devaney—Microsoft Power Platform Conference 2022 demo contest winner]]></title>
+        <id>high-five-matthew-devaney-microsoft-power-platform-conference-2022-demo-contest-winner</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/high-five-matthew-devaney-microsoft-power-platform-conference-2022-demo-contest-winner/"/>
+        <updated>2023-04-20T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s National High Five Day, and we’re excited to give a virtual high five to Matthew Devaney, one of our Microsoft Power Platform MVPs, for being one of the demo contest winners at the Microsoft Power Platform Conference 2022 (and for having an awesome career switching story too)!]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your one-stop resources for Microsoft Dynamics 365 Finance & Operation developers]]></title>
         <id>http://paragchapre.com/?p=2929</id>
@@ -14,6 +64,23 @@
         <summary type="html"><![CDATA[Developers in Microsoft Dynamics 365 Finance and Operations (F&O) often ask how to learn X++ from the basics to advanced levels. In this article, I will share some resources, certifications, blogs and YouTube link which can be useful for the developers. Learning catalog for Dynamics 365 Finance developers from Microsoft Learning catalog for Dynamics 365... Continue Reading →]]></summary>
         <author>
             <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s changed in Dynamics 365 Human Resources (Technical) | March 30, 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:eae3a007-8e84-4924-a941-5782150d30ef</id>
+        <link href="https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/what-s-changed-in-dynamics-365-human-resources-technical-march-30-2023"/>
+        <updated>2023-04-19T17:23:00.000Z</updated>
+        <summary type="html"><![CDATA[www.youtube.com/watch
+
+Presenters: 
+Priyanka Sinha prsinha@microsoft.com
+Edison Lai Edison.Lai@microsoft.com
+Rachel Profitt Rachel.Profitt@microsoft.com
+Tulsi Jhaveri tulsijhaveri@microsoft.com
+U...(read more)]]></summary>
+        <author>
+            <name>Ilanit Manor - Community Manager</name>
         </author>
     </entry>
     <entry>
@@ -384,6 +451,21 @@ Insert recordset
         <summary type="html"><![CDATA[This TechTalk series will dive-in into the Cost Accounting module in Dynamics 365 Finance and Operations, in order for you to get the best of this module for your business. We will go from underst...(read more)]]></summary>
         <author>
             <name>Ilanit Manor - Community Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insert templates faster with email template views]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:fdac4321-c8a1-4067-9e26-8227fa191150</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/insert-templates-faster-with-email-template-views"/>
+        <updated>2023-04-12T19:53:33.000Z</updated>
+        <summary type="html"><![CDATA[If you are a customer service agent, you know how important it is to respond to your customers quickly and effectively. You also know how frustrating it can be to waste time searching for the right email template to use for each situation. That is why you need to use email template views while selecting an email template. 
+We have upgraded enhanced email template selection to help agents efficiently use email templates. With integrated record selection and email template views, finding the right email template is easier than before. 
+
+With email template views, just create a view with your choice of filters and then have it available when selecting the templates. Creating a view with your favorite or most used templates will help save a lot of time when working with emails. 
+
+In Customer S…]]></summary>
+        <author>
+            <name>Naman Agrawal</name>
         </author>
     </entry>
     <entry>
@@ -18727,18 +18809,6 @@ Problem statement- managing every user’s specific role to define organization
 As an example, inventory for a Widget is not available for 30 days.  An authorization for the credit card created today would normally expire after 7 days.  This means we would attempt a new authorization while the pick/pack/shipment occurs in 30 days.  What this feature allows in this example is to configure the system to wait until 5 days prior to shipment (day 25)…]]></summary>
         <author>
             <name>RandyHiggins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing and sharing screen persoanlization views with others in Microsoft Dynamics 365 Finance and Operations]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5f231eed-5449-4503-9a7d-0f7cd2060465</id>
-        <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/managing-and-sharing-screen-persoanlization-views-with-others-in-microsoft-dynamics-365-finance-and-operations"/>
-        <updated>2021-04-21T08:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Easily can be done with advanced grids
-
-(read more)]]></summary>
-        <author>
-            <name>Rahul Mohta</name>
         </author>
     </entry>
 </feed>

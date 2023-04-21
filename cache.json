@@ -623,6 +623,16 @@
       "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:eae3a007-8e84-4924-a941-5782150d30ef",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nPriyanka Sinha prsinha@microsoft.com\nEdison Lai Edison.Lai@microsoft.com\nRachel Profitt Rachel.Profitt@microsoft.com\nTulsi Jhaveri tulsijhaveri@microsoft.com\nU...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/what-s-changed-in-dynamics-365-human-resources-technical-march-30-2023",
+          "publishedOn": "2023-04-19T17:23:00.000Z",
+          "wordCount": 3396,
+          "title": "What’s changed in Dynamics 365 Human Resources (Technical) | March 30, 2023",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/358044_5F00_DTT142_2D00_2.png?_=638175224054812849"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a28f082a-1a09-4c18-98c8-1313d41d8d03",
           "author": "Ilanit Manor - Community Manager",
           "description": "www.youtube.com/watch\n\nPresenters: \nPriyanka Sinha prsinha@microsoft.com\nEdison Lai Edison.Lai@microsoft.com\nRachel Profitt Rachel.Profitt@microsoft.com\nTulsi Jhaveri tulsijhaveri@microsoft.com\nU...(read more)",
@@ -1984,6 +1994,16 @@
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:fdac4321-c8a1-4067-9e26-8227fa191150",
+          "author": "Naman Agrawal",
+          "description": "If you are a customer service agent, you know how important it is to respond to your customers quickly and effectively. You also know how frustrating it can be to waste time searching for the right email template to use for each situation. That is why you need to use email template views while selecting an email template. \nWe have upgraded enhanced email template selection to help agents efficiently use email templates. With integrated record selection and email template views, finding the right email template is easier than before. \n\nWith email template views, just create a view with your choice of filters and then have it available when selecting the templates. Creating a view with your favorite or most used templates will help save a lot of time when working with emails. \n\nIn Customer S…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/insert-templates-faster-with-email-template-views",
+          "publishedOn": "2023-04-12T19:53:33.000Z",
+          "wordCount": 3992,
+          "title": "Insert templates faster with email template views",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4c52a1a9-f594-4308-909f-a37147d14e71",
           "author": "Aleksandar Totovic and Artur Ventsel",
           "description": "You asked for it and we're delivering: With 2023 release wave 1, Microsoft Dynamics 365 Business Central will expand the non-deductible value-added tax (VAT) feature to our customers worldwide. It's required by almost all countries where VAT is used and was previously available only to our customers in Belgium, Italy, and Norway. We're excited to make it available everywhere our Business Central customers are.\nVAT is a tax that businesses must pay when they buy things. They can usually recover the tax by buying goods and services relating to their business activities. However, there are some situations in which a business incurs VAT that can't be recovered and isn't deductible.\nThe expanded functionality covers the most common scenarios and can be easily extended if you need more features.…",
@@ -3333,6 +3353,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2484",
+          "author": "AnithaEswaran",
+          "description": "With the latest PU release 10.0.33, a new feature is introduced which enables the users the post the GL across the multiple companies Go to Feature Management and filter for ‘Journal’. Click ‘Enable now’ and the feature is ready for … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/04/20/general-journal-posting-for-multiple-companies-d365fo/",
+          "publishedOn": "2023-04-20T11:11:54.000Z",
+          "wordCount": 3251,
+          "title": "General Journal posting for multiple companies – D365FO",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/04/screenshot-2023-04-20-12.05.22-pm.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=2416",
           "author": "AnithaEswaran",
@@ -6730,6 +6760,16 @@
       "siteUrl": "https://alexvoy.blogspot.com/",
       "articles": [
         {
+          "id": "https://alexvoy.blogspot.com/2023/04/x-to-run-xirr.html",
+          "author": null,
+          "description": "I created a small X++ wrapper to call XIRR function from the C# project provided by https://github.com/klearlending/XIRR (Thank you!) \nYou can test XIRR function in Excel, btw.\n\n\nusing tmxExcelFinance;\n/// <summary>\n/// Implements various financial functions\n/// </summary>\npublic final class mgcFinanceFunction\n{\n    /// <summary>\n    /// Calculates XIRR value\n    /// </summary>\n    /// <param name = \"_cashFlows\">List of containers kind [cashflow amount, its date]</param>\n    /// <param name = \"_decimals\">how many decimals to calculate</param>\n    /// <param name = \"_maxRate\">Maximum rate</param>\n    /// <returns>XIRR value</returns>\n    public static real calculateXIRR(List _cashFlows, int _decimals, real _maxRate = 1000000)\n    { \n         \n        var                                 cash…",
+          "link": "https://alexvoy.blogspot.com/2023/04/x-to-run-xirr.html",
+          "publishedOn": "2023-04-20T17:06:00.002Z",
+          "wordCount": 2192,
+          "title": "X++ to run XIRR",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhkzZcaE7mcaRDeYkE2dYcrnIwNKb_9K_PKywXYjYUBLnIitL2Dd_70sPiZ9jAnwcvE6kETHxm7BYlUcXjKm4sMC4xaFhhd55Xa_-3Z9l9FjNJxi6X3Mpe0d-U7bs4Yxp_7J5T3-XQMM6IU5qPHLnSO5IruTq37x1JY5H84NxhfluaS2FWPHl1pTcmM=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://alexvoy.blogspot.com/2023/04/two-outer-joined-tables-in-report.html",
           "author": null,
           "description": "I cannot find a particular term for this type of join; so I called it 'hanging left outer join'.\n\n\nLet's state the problem.\n\n\nWe have two tables:\n- LedgerJournalTrans (trans) with a field mgcProjId, which is a reference to ProjTable.\n- mgcWarrantsDetails (details), which may have 0..N records for certain records from ProjTable.\n\n\nExamples of data in both may look like the following:\n\n\n\n\nIf we apply standard outer join, the output will be as follows\n\n\n\nBut we need to print all details records by 'hanging' them against the same projId, like this\n\n\n\nSo, no duplicates from both tables must be present in the merged table.\n\n\nThis is how you can achieve it. \n\n/// <summary>\n    /// Process report data.\n    /// </summary>\n    public void processReport()\n    {\n        Query                   query;\n…",
@@ -8530,16 +8570,6 @@
           "publishedOn": "2021-04-30T14:09:00.000Z",
           "wordCount": 948,
           "title": "Mass update legal entity wise security in Microsoft Dynamics 365 Finance and Operations",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5f231eed-5449-4503-9a7d-0f7cd2060465",
-          "author": "Rahul Mohta",
-          "description": "Easily can be done with advanced grids\n\n(read more)",
-          "link": "https://community.dynamics.com/ax/b/happyd365fo/posts/managing-and-sharing-screen-persoanlization-views-with-others-in-microsoft-dynamics-365-finance-and-operations",
-          "publishedOn": "2021-04-21T08:58:00.000Z",
-          "wordCount": 920,
-          "title": "Managing and sharing screen persoanlization views with others in Microsoft Dynamics 365 Finance and Operations",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -11581,6 +11611,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "high-five-matthew-devaney-microsoft-power-platform-conference-2022-demo-contest-winner",
+          "author": null,
+          "description": "It’s National High Five Day, and we’re excited to give a virtual high five to Matthew Devaney, one of our Microsoft Power Platform MVPs, for being one of the demo contest winners at the Microsoft Power Platform Conference 2022 (and for having an awesome career switching story too)!",
+          "link": "https://powerapps.microsoft.com/en-us/blog/high-five-matthew-devaney-microsoft-power-platform-conference-2022-demo-contest-winner/",
+          "publishedOn": "2023-04-20T09:00:00.000Z",
+          "wordCount": 2084,
+          "title": "High five Matthew Devaney—Microsoft Power Platform Conference 2022 demo contest winner",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/04/WIN22_lifestyle_GenZ_0047_02.png"
+        },
         {
           "id": "updates-to-simplify-using-json",
           "author": null,
