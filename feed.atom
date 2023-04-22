@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-21T01:14:57.262Z</updated>
+    <updated>2023-04-22T01:17:10.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Billing schedules with projects using subscription billing in Microsoft dynamics 365 finance and operations: Part-8]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2491</id>
+        <link href="https://exploredynamics365.home.blog/2023/04/21/billing-schedules-with-projects-using-subscription-billing-in-microsoft-dynamics-365-finance-and-operations-part-8/"/>
+        <updated>2023-04-21T10:18:41.000Z</updated>
+        <summary type="html"><![CDATA[This feature enables configuring and using billing schedules with Projects. Billing schedules can be associated with a time and material project and invoiced using Project invoice proposals. This capability is supported for Project Operations for production/ stocked scenarios only. Read previous blogs here on subscription billing Pre-requisites: Enable feature and setup project stage rule Step-1: […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billing schedules with projects using subscription billing in Microsoft dynamics 365 finance and operations: Part-8]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2491</id>
+        <link href="https://exploredynamics365.home.blog/2023/04/21/billing-schedules-with-projects-using-subscription-billing-in-microsoft-dynamics-365-finance-and-operations-part-8/"/>
+        <updated>2023-04-21T10:18:41.000Z</updated>
+        <summary type="html"><![CDATA[This feature enables configuring and using billing schedules with Projects. Billing schedules can be associated with a time and material project and invoiced using Project invoice proposals. This capability is supported for Project Operations for production/ stocked scenarios only. Read previous blogs here on subscription billing Pre-requisites: Enable feature and setup project stage rule Step-1: […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X++ to run XIRR]]></title>
         <id>https://alexvoy.blogspot.com/2023/04/x-to-run-xirr.html</id>

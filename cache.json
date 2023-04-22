@@ -5792,6 +5792,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2491",
+          "author": "Saurabh Bharti",
+          "description": "This feature enables configuring and using billing schedules with Projects. Billing schedules can be associated with a time and material project and invoiced using Project invoice proposals. This capability is supported for Project Operations for production/ stocked scenarios only. Read previous blogs here on subscription billing Pre-requisites: Enable feature and setup project stage rule Step-1: […]",
+          "link": "https://exploredynamics365.home.blog/2023/04/21/billing-schedules-with-projects-using-subscription-billing-in-microsoft-dynamics-365-finance-and-operations-part-8/",
+          "publishedOn": "2023-04-21T10:18:41.000Z",
+          "wordCount": 2520,
+          "title": "Billing schedules with projects using subscription billing in Microsoft dynamics 365 finance and operations: Part-8",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/04/0-4.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2475",
           "author": "Saurabh Bharti",
           "description": "In this blog we will go back to our basics , for long time I was confused about column available on inventory on hand form. How these columns get impacted by every transaction. I have tried explaining this using new product and creating new transactions and showing up the impact. Note: If these is something […]",
@@ -6068,6 +6078,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2491",
+          "author": "Saurabh Bharti",
+          "description": "This feature enables configuring and using billing schedules with Projects. Billing schedules can be associated with a time and material project and invoiced using Project invoice proposals. This capability is supported for Project Operations for production/ stocked scenarios only. Read previous blogs here on subscription billing Pre-requisites: Enable feature and setup project stage rule Step-1: […]",
+          "link": "https://exploredynamics365.home.blog/2023/04/21/billing-schedules-with-projects-using-subscription-billing-in-microsoft-dynamics-365-finance-and-operations-part-8/",
+          "publishedOn": "2023-04-21T10:18:41.000Z",
+          "wordCount": 2520,
+          "title": "Billing schedules with projects using subscription billing in Microsoft dynamics 365 finance and operations: Part-8",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/04/0-4.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2475",
           "author": "Saurabh Bharti",
