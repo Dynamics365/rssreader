@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-22T01:17:10.225Z</updated>
+    <updated>2023-04-23T01:25:08.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn How To Troubleshoot Company Records Issue In Dual-write]]></title>
+        <id>https://d365cliffsnotes.com/learn-how-to-troubleshoot-company-records-issue-in-dual-write</id>
+        <link href="https://d365cliffsnotes.com/learn-how-to-troubleshoot-company-records-issue-in-dual-write"/>
+        <updated>2023-04-22T17:03:26.000Z</updated>
+        <summary type="html"><![CDATA[Ever been configuring and validating Dual-write health checks and then notice that one of your colleagues set up a new legal entity in Dynamics 365 FO and failed to sync company records moving to Dataverse and refreshing the Dual-write maps as a last option but nothing is working? 
+On checking the error or behavior using the Plug-in registration tool, you see an observation that reads Company records are not to Dataverse. 
+In this blog post, I will share my learning on how to troubleshoot company records sync issues with Dataverse when you have Dual-write infrastructure.
+What is a Legal entity or company record sync issue?
+Well, when you enable Dual-write infrastructure for your business processes to sync data between Dynamics 365 CE (CRM) and Dynamics 365 FO (ERP). Sometimes your Dynamics…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Billing schedules with projects using subscription billing in Microsoft dynamics 365 finance and operations: Part-8]]></title>
         <id>http://exploredynamics365.home.blog/?p=2491</id>
@@ -18818,17 +18832,6 @@ Problem statement- managing every user’s specific role to define organization
         <summary type="html"><![CDATA[Read complete post here(read more)]]></summary>
         <author>
             <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call center Future orders and Authorization resubmit]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:45615693-c80d-453a-a1e7-7ef67af19595</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/call-center-future-orders-and-authorization-resubmit"/>
-        <updated>2021-04-22T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[There is a Call center specific Future order feature that will allow users to delay authorizing a customer’s credit card during the Sales order creation and payment process.  The reason behind a delay authorization may be due to back orders or extended shipping dates.  In this scenario, the system will wait to authorize the credit card tied to the sales order until a specific number of days prior to an expected shipping date. 
-As an example, inventory for a Widget is not available for 30 days.  An authorization for the credit card created today would normally expire after 7 days.  This means we would attempt a new authorization while the pick/pack/shipment occurs in 30 days.  What this feature allows in this example is to configure the system to wait until 5 days prior to shipment (day 25)…]]></summary>
-        <author>
-            <name>RandyHiggins</name>
         </author>
     </entry>
 </feed>
