@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-23T01:25:08.241Z</updated>
+    <updated>2023-04-24T01:18:46.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[More options to personalize the date and time format – Dynamics 365 Finance and Operations]]></title>
+        <id>https://dynamicspedia.com/?p=18543</id>
+        <link href="https://dynamicspedia.com/2023/04/more-options-to-personalize-the-date-and-time-format/"/>
+        <updated>2023-04-23T14:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Personalization is an important aspect of Microsoft Dynamics 365 Finance and Operations. Removing or adding custom fields, setting default filter ranges, and changing the order of fields are some examples that make end users more productive. Next to what is visualized to the user, also the language and date format is helping the user to […]
+The post More options to personalize the date and time format – Dynamics 365 Finance and Operations appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Calculate purchase order total value using X++ in Dynamics 365 FO?]]></title>
+        <id>https://www.d365snippets.com/2023/04/calculate-totals-of-po-using-xpp-in-d365fo.html</id>
+        <link href="https://www.d365snippets.com/2023/04/calculate-totals-of-po-using-xpp-in-d365fo.html"/>
+        <updated>2023-04-23T06:26:00.013Z</updated>
+        <summary type="html"><![CDATA[In the previous article  “Field Fixed Relation in D365 with Example “, you learned what is a Field Fixed relation and how to make a Field Fixed table relation in Dynamics 365 fo. Additionally, you learned an example associated with field fixed relations. In this article, you can learn, what is a PO, what is purchase order total value and How to Calculate the purchase order total value in D365 using X++ code.
+What is a Purchase Order?
+
+A Purchase Order is a document that represents a request to a vendor to supply goods or services at a specific price and delivery date. The purchase order includes details such as the quantity, unit price, and delivery date of the items or services requested, as well as the vendor's information and the buyer's information.
+A purchase order is typically create…]]></summary>
+        <author>
+            <name>D365 Snippets</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn How To Troubleshoot Company Records Issue In Dual-write]]></title>
         <id>https://d365cliffsnotes.com/learn-how-to-troubleshoot-company-records-issue-in-dual-write</id>
@@ -338,6 +363,19 @@ president, and Paymerang acquires KwikTag and Sypht.
  Digia ,... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mixed reality experience now more intuitive in Dynamics 365 Guides]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3991dd7c-e1a4-44de-8826-e7428693cef7</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/mixed-reality-experience-now-more-intuitive-in-dynamics-365-guides"/>
+        <updated>2023-04-14T17:07:24.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft aims to make mixed reality accessible and intuitive for frontline workers everywhere. With Dynamics 365 Guides, deskless workers use step-by-step holographic instructions to ensure process compliance, improve efficiency, and learn on the job. In 2022, new Microsoft Teams capabilities in Guides combined anyone, anywhere, seamless collaboration with the “see what I see” magic of HoloLens 2. In real-time, participants on a call could see what the HoloLens user saw, annotate their colleague’s three-dimensional space, and share needed files easily. We've just released another set of features in Guides to make this new experience even more intuitive and reliable.
+
+Draw anywhere with digital 3Dannotations
+Imagine being able to draw on any object, any surface, or in thin air. With our re…]]></summary>
+        <author>
+            <name>Amanda Hillman</name>
         </author>
     </entry>
     <entry>
