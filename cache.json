@@ -623,6 +623,16 @@
       "siteUrl": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:31aadfec-95ca-4a19-b290-21110d220d68",
+          "author": "Ilanit Manor - Community Manager",
+          "description": "www.youtube.com/watch\n\nPresenters: \nAmira Beldjilali - Sn FastTrack Solutions Architect\nCorina Balan – Sn Fast Track Solutions Architect\n\n~\nThis TechTalk provides an introduction into Viva ...(read more)",
+          "link": "https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/introduction-into-viva-sales-the-future-of-work-for-sellers",
+          "publishedOn": "2023-04-21T22:25:00.000Z",
+          "wordCount": 3358,
+          "title": "Introduction into Viva Sales – the future of work for sellers",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/msdenhancedbloggingcfs/FeaturedImages/358125_5F00_vivasales2.png?_=638177129990058433"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:eae3a007-8e84-4924-a941-5782150d30ef",
           "author": "Ilanit Manor - Community Manager",
           "description": "www.youtube.com/watch\n\nPresenters: \nPriyanka Sinha prsinha@microsoft.com\nEdison Lai Edison.Lai@microsoft.com\nRachel Profitt Rachel.Profitt@microsoft.com\nTulsi Jhaveri tulsijhaveri@microsoft.com\nU...(read more)",
@@ -2764,6 +2774,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2654",
+          "author": "Alex",
+          "description": "Last week I got to experience my first Microsoft MVP Summit in person since becoming an MVP in November of 2019. It was great to see old friends and meet new ones (face to face!) in the Business Application for D365FO space. So many great sessions, information being shared, and connections being made! I wanted […]\nThe post My First Microsoft MVP Summit appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/04/24/my-first-microsoft-mvp-summit/",
+          "publishedOn": "2023-04-24T17:24:47.000Z",
+          "wordCount": 3992,
+          "title": "My First Microsoft MVP Summit",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/04/IMG-20230418-WA0016.jpg"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2642",
           "author": "Alex",
           "description": "I’m excited to be speaking in-person at a couple upcoming conferences and sharing my knowledge and expertise! Here are two spring 2023 conferences I am speaking at! DynamicsCon Live! DynamicsCon Live! is being hosted in Scottsdale, Arizona from May 22nd – May 25th and looks to have an awesome line up of speakers and content! […]\nThe post Spring 2023 – Presenting at Upcoming User Group Conferences appeared first on Alex Meyer.",
@@ -3363,6 +3383,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2505",
+          "author": "AnithaEswaran",
+          "description": "Entity Relationship Diagram (ERD) is a structural diagram that is useful in database design. It shows how an entity is connected with one or more entities. To be precise, it helps us to understand the inheritance and the relationship between … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/04/24/entity-relationship-diagram-in-d365fo/",
+          "publishedOn": "2023-04-24T20:51:08.000Z",
+          "wordCount": 3447,
+          "title": "Entity Relationship Diagram in D365F&O",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/04/image-40.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=2484",
           "author": "AnithaEswaran",
@@ -4857,6 +4887,66 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/21/field-service-wave-1-2023-features/",
+          "author": "Jason Shotts",
+          "description": "The new not-to-exceed (NTE) feature ensures that work orders stay within budget, the trade and trade coverages features enable you to stay organized and efficient when providing groups of services to customers. \nThe post Field Service Wave 1 2023 Features  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/21/field-service-wave-1-2023-features/",
+          "publishedOn": "2023-04-21T16:48:23.000Z",
+          "wordCount": 2587,
+          "title": "Field Service Wave 1 2023 Features",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/CLO22_GreenEnergyFarm_037-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/20/applying-next-generation-ai-to-the-microsoft-supply-chain-platform/",
+          "author": "Ray Smith",
+          "description": "For more than two decades, customer relationship management (CRM) and enterprise resource planning (ERP) software have been defined by manual entry and high-touch data processes. Since then, businesses have made strides in automating many manual transactions through various means but have largely reached a plateau. \nThe post Applying next-generation AI to the Microsoft Supply Chain Platform appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/20/applying-next-generation-ai-to-the-microsoft-supply-chain-platform/",
+          "publishedOn": "2023-04-20T21:05:00.000Z",
+          "wordCount": 4601,
+          "title": "Applying next-generation AI to the Microsoft Supply Chain Platform",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/03/CLO17_warehouse_007v2.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/19/use-generative-ai-to-drive-customer-engagement-with-2023-release-wave-1-for-dynamics-365-marketing-and-customer-insights/",
+          "author": "Jim Nakashima",
+          "description": "Discover how 2023 release wave 1 for Dynamics 365 Marketing and Dynamics 365 Customer Insights will help you delight your customers while increasing your team's efficiency. \nThe post Use generative AI to drive customer engagement with 2023 release wave 1 for Dynamics 365 Marketing and Customer Insights appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/19/use-generative-ai-to-drive-customer-engagement-with-2023-release-wave-1-for-dynamics-365-marketing-and-customer-insights/",
+          "publishedOn": "2023-04-19T17:00:00.000Z",
+          "wordCount": 3352,
+          "title": "Use generative AI to drive customer engagement with 2023 release wave 1 for Dynamics 365 Marketing and Customer Insights",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/Win17a_Lisbon_ProjectManager_DesignOffice_HPSpectrex360_109_1200.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/18/spend-more-time-selling-new-sales-capabilities-in-2023-release-wave-1/",
+          "author": "Aaron Bjork",
+          "description": "The role of the seller is evolving. Buyers expect a blend of digital and personalized experiences throughout their journey.\nThe post Spend more time selling—new sales capabilities in 2023 release wave 1 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/18/spend-more-time-selling-new-sales-capabilities-in-2023-release-wave-1/",
+          "publishedOn": "2023-04-18T15:00:00.000Z",
+          "wordCount": 3100,
+          "title": "Spend more time selling—new sales capabilities in 2023 release wave 1",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/MSC21_Getty_officePortrait_1068963888_v2.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/14/mixed-reality-experience-now-more-intuitive-in-dynamics-365-guides/",
+          "author": "Amanda Hillman",
+          "description": "Microsoft aims to make mixed reality accessible and intuitive for frontline workers everywhere. With Dynamics 365 Guides, deskless workers use step-by-step holographic instructions to ensure process compliance, improve efficiency, and learn on the job.\nThe post Mixed reality experience now more intuitive in Dynamics 365 Guides appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/14/mixed-reality-experience-now-more-intuitive-in-dynamics-365-guides/",
+          "publishedOn": "2023-04-14T17:07:24.000Z",
+          "wordCount": 2380,
+          "title": "Mixed reality experience now more intuitive in Dynamics 365 Guides",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/Featured-Image.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/12/insert-templates-faster-with-email-template-views/",
+          "author": "Naman Agrawal",
+          "description": "With integrated record selection and email template views, finding the right email template is easier than before.\nThe post Insert templates faster with email template views appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/12/insert-templates-faster-with-email-template-views/",
+          "publishedOn": "2023-04-12T19:53:33.000Z",
+          "wordCount": 2089,
+          "title": "Insert templates faster with email template views",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/WWS16_Library_108V2.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/12/non-deductible-vat-coming-to-dynamics-365-business-central-worldwide/",
           "author": "Aleksandar Totovic and Artur Ventsel",
@@ -9359,6 +9449,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axinthefield",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:444fdeaa-9acc-42f7-802f-1a23b20cace2",
+          "author": "Jose Antonio Estevan",
+          "description": "A couple months ago, Microsoft Azure Load Testing (MALT) was made generally available as a fully managed load-testing service that enables generation of high-scale load against our applications. ...(read more)",
+          "link": "https://community.dynamics.com/ax/b/axinthefield/posts/azure-load-testing-with-dynamics-365-finance-and-operations-apps",
+          "publishedOn": "2023-04-24T13:35:12.000Z",
+          "wordCount": 4824,
+          "title": "Azure Load Testing with Dynamics 365 Finance and Operations apps",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:7bb7943d-d661-4c02-99c0-6a2199a8fc0b",
           "author": "Kennet Kildegaard",
           "description": "In this video we will go through a use case scenario demonstrating the use of Outbound sorting and using the setup and configuration that I had previously setup in an earlier video and blog post which...(read more)",
@@ -10758,16 +10858,6 @@
           "wordCount": 3391,
           "title": "Import data package using Power Automate and Data management package REST API",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:99b83aa8-b8f5-4f5a-98ad-c6ef08e99c4a",
-          "author": "Sukrut Parab",
-          "description": "Read complete post here(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/posts/use-logic-apps-and-recurring-integrations-api-for-exporting-data-package-out-of-d365-for-finance-and-operations",
-          "publishedOn": "2021-04-25T04:55:00.000Z",
-          "wordCount": 3403,
-          "title": "Use logic apps and Recurring Integrations API for exporting data package out of D365 for Finance and Operations",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -11661,6 +11751,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "streamline-collaboration-with-the-general-availability-of-comments-in-power-apps-and-power-automate",
+          "author": null,
+          "description": "If you are a Power Platform user, you know how important collaboration is when it comes to building custom solutions with your fusion team. We continue to hear from our customers about the need for additional capabilities that improve maker collaboration, and we are dedicated to meeting this need. That’s why we’re thrilled to announce…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/streamline-collaboration-with-the-general-availability-of-comments-in-power-apps-and-power-automate/",
+          "publishedOn": "2023-04-24T13:36:52.000Z",
+          "wordCount": 2133,
+          "title": "Streamline collaboration with the General Availability of comments in Power Apps and Power Automate",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "improved-variables-and-collections-experience-in-canvas-designer",
+          "author": null,
+          "description": "Creating variables and collections is an essential part of the app building process. Therefore, we are excited to announce the general availability of an improved, seamless experience that enables makers to see variables and collections directly in-line with the canvas designer! Gone are the days of switching between the app designer and backstage to set…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/improved-variables-and-collections-experience-in-canvas-designer/",
+          "publishedOn": "2023-04-24T10:02:37.000Z",
+          "wordCount": 1802,
+          "title": "Improved variables and collections experience in Canvas Designer",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "high-five-matthew-devaney-microsoft-power-platform-conference-2022-demo-contest-winner",
           "author": null,
