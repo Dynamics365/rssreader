@@ -11752,6 +11752,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "update-forms-and-views-more-conveniently-with-table-designer",
+          "author": null,
+          "description": "We are pleased to announce the public preview of Update forms and views feature in table designer. With this new experience, makers can now add columns to their forms and views on the fly, instead of navigating away from their table to update their forms and views manually. This also means when working with table…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/update-forms-and-views-more-conveniently-with-table-designer/",
+          "publishedOn": "2023-04-25T09:00:00.000Z",
+          "wordCount": 1880,
+          "title": "Update forms and views more conveniently with table designer",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/04/Update-forms-and-views-option-247-1.png"
+        },
+        {
           "id": "streamline-collaboration-with-the-general-availability-of-comments-in-power-apps-and-power-automate",
           "author": null,
           "description": "If you are a Power Platform user, you know how important collaboration is when it comes to building custom solutions with your fusion team. We continue to hear from our customers about the need for additional capabilities that improve maker collaboration, and we are dedicated to meeting this need. That’s why we’re thrilled to announce…",

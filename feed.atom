@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-25T01:18:00.839Z</updated>
+    <updated>2023-04-26T01:16:40.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update forms and views more conveniently with table designer]]></title>
+        <id>update-forms-and-views-more-conveniently-with-table-designer</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/update-forms-and-views-more-conveniently-with-table-designer/"/>
+        <updated>2023-04-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the public preview of Update forms and views feature in table designer. With this new experience, makers can now add columns to their forms and views on the fly, instead of navigating away from their table to update their forms and views manually. This also means when working with table…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entity Relationship Diagram in D365F&O]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2505</id>
