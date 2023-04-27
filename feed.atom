@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-26T01:16:40.999Z</updated>
+    <updated>2023-04-27T01:17:52.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recent improvements to the Modern App Designer]]></title>
+        <id>recent-improvements-to-the-modern-app-designer</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/recent-improvements-to-the-modern-app-designer/"/>
+        <updated>2023-04-26T13:34:49.000Z</updated>
+        <summary type="html"><![CDATA[The Modern App Designer has been generally available since May 2022, and since then we’ve have been closely monitoring feedback from makers. Therefore, we are pleased to announce the release of a series of significant improvements to improve maker productivity when building in the Modern App Designer.   In summary, the app navigation is now…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Questions About Dynamics GP Versions]]></title>
+        <id>https://www.encorebusiness.com/?p=47956</id>
+        <link href="https://www.encorebusiness.com/blog/top-questions-about-dynamics-gp-versions/"/>
+        <updated>2023-04-26T11:13:32.000Z</updated>
+        <summary type="html"><![CDATA[Top Questions About Dynamics GP Versions
+Dynamics GP is a mature Microsoft product with many product versions. We often receive questions that relate to Dynamics GP versions, such as which Microsoft support policy applies, when Mainstream & Extended Support end, and which versions Encore supports. This blog will address frequently asked questions like those. Table of Contents Which version of Dynamics...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Kelly McLaughlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategies for Maximizing Subscription Revenue with Dynamics 365 F&O]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6957ca15-66b9-4bea-bf31-5f45b24a0c42</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/strategies-for-maximizing-subscription-revenue-with-dynamics-365-f-o"/>
+        <updated>2023-04-25T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article is sponsored by Bluefort. 
+ 
+ 
+ The world of subscription-based businesses can
+be cutthroat. Competition is fierce, and customers will leave on
+the turn of a dime. For organizations struggling to better
+manage their subscription business... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update forms and views more conveniently with table designer]]></title>
         <id>update-forms-and-views-more-conveniently-with-table-designer</id>

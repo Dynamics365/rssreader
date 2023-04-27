@@ -960,6 +960,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:6957ca15-66b9-4bea-bf31-5f45b24a0c42",
+          "author": "MSDynamicsWorld.com",
+          "description": "This article is sponsored by Bluefort. \n \n \n The world of subscription-based businesses can\nbe cutthroat. Competition is fierce, and customers will leave on\nthe turn of a dime. For organizations struggling to better\nmanage their subscription business... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/strategies-for-maximizing-subscription-revenue-with-dynamics-365-f-o",
+          "publishedOn": "2023-04-25T17:00:00.000Z",
+          "wordCount": 3727,
+          "title": "Strategies for Maximizing Subscription Revenue with Dynamics 365 F&O",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b38399b2-20d9-4393-a6c8-2e37bc3fb4d6",
           "author": "MSDynamicsWorld.com",
           "description": "In this week’s Dynamics partner roundup, Digia receives a\nmunicipal services contract, Ciellos names a new executive vice\npresident, and Paymerang acquires KwikTag and Sypht. \n \n Digia receives municipal services contract \n Finnish partner, \n Digia ,... Read the full text.",
@@ -1666,6 +1676,16 @@
       "feedUrl": "https://www.encorebusiness.com/blog/feed/",
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
+        {
+          "id": "https://www.encorebusiness.com/?p=47956",
+          "author": "Kelly McLaughlin",
+          "description": "Top Questions About Dynamics GP Versions\nDynamics GP is a mature Microsoft product with many product versions. We often receive questions that relate to Dynamics GP versions, such as which Microsoft support policy applies, when Mainstream & Extended Support end, and which versions Encore supports. This blog will address frequently asked questions like those. Table of Contents Which version of Dynamics...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/top-questions-about-dynamics-gp-versions/",
+          "publishedOn": "2023-04-26T11:13:32.000Z",
+          "wordCount": 2705,
+          "title": "Top Questions About Dynamics GP Versions",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
         {
           "id": "https://www.encorebusiness.com/?p=56452",
           "author": "Gale Dallyn",
@@ -11751,6 +11771,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "recent-improvements-to-the-modern-app-designer",
+          "author": null,
+          "description": "The Modern App Designer has been generally available since May 2022, and since then we’ve have been closely monitoring feedback from makers. Therefore, we are pleased to announce the release of a series of significant improvements to improve maker productivity when building in the Modern App Designer.   In summary, the app navigation is now…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/recent-improvements-to-the-modern-app-designer/",
+          "publishedOn": "2023-04-26T13:34:49.000Z",
+          "wordCount": 1900,
+          "title": "Recent improvements to the Modern App Designer",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "update-forms-and-views-more-conveniently-with-table-designer",
           "author": null,
