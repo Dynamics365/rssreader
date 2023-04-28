@@ -1677,6 +1677,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56639",
+          "author": "Tracey Santos",
+          "description": "How Are Upgrades Different in Dynamics 365?\nWhat exactly is an upgrade, and what makes a cloud upgrade in Dynamics 365 different than one with on-premise servers? Microsoft Dynamics 365 is known as software as a service (SaaS), and it means that you get billed on a monthly basis. As you consume it, you’re billed. This will be familiar to anyone using...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-are-upgrades-different-in-dynamics-365/",
+          "publishedOn": "2023-04-27T15:07:35.000Z",
+          "wordCount": 2495,
+          "title": "How Are Upgrades Different in Dynamics 365?",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/04/Upgrades-cloud-blog-img.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=47956",
           "author": "Kelly McLaughlin",
           "description": "Top Questions About Dynamics GP Versions\nDynamics GP is a mature Microsoft product with many product versions. We often receive questions that relate to Dynamics GP versions, such as which Microsoft support policy applies, when Mainstream & Extended Support end, and which versions Encore supports. This blog will address frequently asked questions like those. Table of Contents Which version of Dynamics...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -2023,6 +2033,76 @@
       "feedUrl": "https://community.dynamics.com/365/b/365teamblog/rss",
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a069d570-8795-4327-89e1-1b4395224013",
+          "author": "Safiyyah O’Quinn",
+          "description": "We're excited to return to Field Service Palm Springs from April 25 through April 27, 2023, at the JW Marriott Desert Springs Resort & Spa.\nWe will showcase how Connected Field Service helps leaders:\n\nMove beyond the costly break/fix model to a proactive, predictive model.\nUnlock the power of data and use Internet of Things (IoT), machine learning, and AI.\nTransform their field operations and improve customer experience.\n\nThis year, we are hosting a thought leadership luncheon with our partner Hitachi Solutions to discuss the benefits of a connected field service and how to use data to remain competitive, and continuously improve business performance and customer experiences in an increasingly challenging environment.\nField service organizations manage hundreds of technicians with varying …",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/field-service-palm-springs-modernize-service-operations",
+          "publishedOn": "2023-04-25T15:00:00.000Z",
+          "wordCount": 4598,
+          "title": "Field Service Palm Springs: Modernize service operations",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b12d8e88-42a3-40c9-b869-a87ea3c6bdda",
+          "author": "Sherry Zheng",
+          "description": "Pricing is one of the fundamental tools to boost supply chain profits by better matching supply and demand. Many businesses have started to reform their pricing strategies in recent years as a result of the growth of e-commerce and the constantly changing business environments in order to improve pricing transparency, supply chain agility and margin optimization.\nWe are launching the Public Preview of Pricing management within Dynamics 365 Supply Chain Management from 10.0.33 to support sales managers managing and execute the attribute-based omnichannel sales pricing.\nWhy attribute-based omnichannel pricing?\n\nTransaction to omnichannel pricing:\n\nTraditional business-to-business (B2B) organizations are increasingly considering switching to omnichannel sales and selling directly to end custo…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/manage-attribute-based-omnichannel-sales-pricing",
+          "publishedOn": "2023-04-25T11:16:12.000Z",
+          "wordCount": 4295,
+          "title": "Manage attribute-based omnichannel sales pricing",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bd6daeac-1f32-4351-ab5e-a5ac79195898",
+          "author": "Jessica Li",
+          "description": "Your brand is the face of your business. And often, the live chat widget on your website is the first point of contact for your customers. Having a strong brand for your customer service products can build trust and credibility, differentiate yourself from competitors, ensure consistency in communication, and create a positive emotional connection with customers.  \nWe are excited to announce our upgraded live chat widget that allows you to customize every detail of the widget to match your brand identity. From the font and color scheme to the iconography, you can now own every pixel of the widget and ensure that it represents your brand in the best possible way. \nThree customized chat widgets, each representing a different branding style\nStyle every component of the live chat widget to reflect your brand \nWhen you update your environment with the latest release, you can use our live chat script tag customization to edit the design of the live chat widget through CSS-represented styling. It is easier than ever to create a branded look for your chat widget. You can choose the font, color, style, and size of every component of the chat widget to reflect your brand. The image below shows examples of chat widget components and the different ways you can change them.\nEditable elements in the default chat button and chat container\nLearn more\nWatch a quick video introduction. \nTo update your chat widget and customize every detail, please check out our public documentation here to learn more. \nFor more advanced customization options, try the custom chat widget here, where you can customize the functionalities as well.  \nThe post Drive brand loyalty with a customizable live chat widget in Dynamics 365 Customer Service  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/drive-brand-loyalty-with-a-customizable-live-chat-widget-in-dynamics-365-customer-service",
+          "publishedOn": "2023-04-24T17:53:09.000Z",
+          "wordCount": 3979,
+          "title": "Drive brand loyalty with a customizable live chat widget in Dynamics 365 Customer Service",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5532622f-e582-4833-9ff6-e5a054ec37aa",
+          "author": "Jason Shotts",
+          "description": "We are excited to announce several new features that will help service organizations work more efficiently than ever before. The new not-to-exceed (NTE) feature ensures that work orders stay within budget, the trade and trade coverages features enable you to stay organized and efficient when providing groups of services to customers. In addition, significant performance improvements to the asset and functional location trees let you manage larger facilities and more complex assets. These features will streamline your workflow and save time, especially when working with vendors or subcontractors to fulfill jobs. Read on to learn more about how they work and why you should try them out today! \nNot-to-Exceed functionality\nPhenomenal service starts with understanding customers' needs and expec…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/field-service-wave-1-2023-features",
+          "publishedOn": "2023-04-21T16:48:23.000Z",
+          "wordCount": 4401,
+          "title": "Field Service Wave 1 2023 Features",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:adb39daf-226b-45e4-a90b-50d1c84379e3",
+          "author": "Ray Smith",
+          "description": "For more than two decades, customer relationship management (CRM) and enterprise resource planning (ERP) software have been defined by manual entry and high-touch data processes. Since then, businesses have made strides in automating many manual transactions through various means but have largely reached a plateau. Our 2023 survey on business trends found that 9 out of 10 workers hope to use AI to reduce these kinds of repetitive tasks from their jobs.1\nSupply chains have been a prime area for the application of AI, due to the vast amounts of critical business data and processes involved. Supply chains have evolved over the years, with emerging technologies and innovations that enable businesses to optimize their operations, reduce costs, and improve customer satisfaction. Yet, while stati…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/applying-next-generation-ai-to-the-microsoft-supply-chain-platform",
+          "publishedOn": "2023-04-20T21:05:00.000Z",
+          "wordCount": 6386,
+          "title": "Applying next-generation AI to the Microsoft Supply Chain Platform",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:6dd6f4f7-b6a0-48eb-966e-c116d01ec723",
+          "author": "Jim Nakashima",
+          "description": "In today’s unpredictable market conditions, companies are looking to do more with less, and delivering exceptional customer experiences is necessary to both acquire new customers and retain and increase the lifetime value of existing customers. Faced with a larger set of choices, customers expect the companies they do business with to know them, anticipate their needs, and deliver personalized interactions. To earn their loyalty, it's critical that every interaction, digital or in person, exceeds their expectations. \nTo win against their competitors, companies need to deeply understand their customers, personalize every interaction pre-sale and post-sale, and use data and AI to deliver proactive and continuous value to win the hearts and minds of their customers. Marketers and sellers must…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/use-generative-ai-to-drive-customer-engagement-with-2023-release-wave-1-for-dynamics-365-marketing-and-customer-insights",
+          "publishedOn": "2023-04-19T17:00:00.000Z",
+          "wordCount": 4934,
+          "title": "Use generative AI to drive customer engagement with 2023 release wave 1 for Dynamics 365 Marketing and Customer Insights",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:95361f81-6072-4862-a926-c89f01000359",
+          "author": "Aaron Bjork",
+          "description": "The role of the seller is evolving. Buyers expect a blend of digital and personalized experiences throughout their journey. To achieve this, sellers must be efficient and effectiveprioritizing who to engage, identifying how and when to connect, and spending more time becoming trusted advisors to their customers. Sellers can’t be overwhelmed trying to make sense of too much data and information; rather, they need the data to work for them by providing value in every customer interaction.\nWith Microsoft Dynamics 365 Sales, sellers can improve their sales by prioritizing their best bets, collaborating with their sales team in the moment with Microsoft Teams built-in, knowing when they should engage with prospective customers, and then seeing how it went after ending the call. Sellers are give…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/spend-more-time-selling-new-sales-capabilities-in-2023-release-wave-1",
+          "publishedOn": "2023-04-18T15:00:00.000Z",
+          "wordCount": 4869,
+          "title": "Spend more time selling—new sales capabilities in 2023 release wave 1",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3991dd7c-e1a4-44de-8826-e7428693cef7",
           "author": "Amanda Hillman",
@@ -3248,16 +3328,6 @@
           "wordCount": 646,
           "title": "Reduce the amount of clicks to access the MsDyn365FO developer tools in Visual Studio",
           "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/05/amenabilityofmsdyn365fodevelopertools-customize.png"
-        },
-        {
-          "id": "https://msdyn365fo.wordpress.com/?p=476",
-          "author": "Paul Heisterkamp",
-          "description": "In this blog I want to show you, how you can include the upload to LCS and deploy via LCS into your  Microsoft Dynamics 365 for Finance and Operations hosted build automation. You can find the xpp-ci.yml and xpp-ci-LCS-deployment.yml in my repository on GitHub, which togethers work right out of the box. The xpp-ci.yml is … Continue reading Upload to LCS and deploy via LCS using YML based multistage Azure Pipelines for your MsDyn365FO hosted build automation →",
-          "link": "https://msdyn365fo.wordpress.com/2021/04/28/upload-to-lcs-and-deploy-via-lcs-using-yml-based-multistage-azure-pipelines-for-your-msdyn365fo-hosted-build-automation/",
-          "publishedOn": "2021-04-28T08:25:39.000Z",
-          "wordCount": 810,
-          "title": "Upload to LCS and deploy via LCS using YML based multistage Azure Pipelines for your MsDyn365FO hosted build automation",
-          "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/04/stagedbuild-banner-1.png?w=1200"
         }
       ]
     },
@@ -3403,6 +3473,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2533",
+          "author": "AnithaEswaran",
+          "description": "In this post, I will give a brief walkthrough of handling the nested json data and extracting the contents from it. My sample file is as follows . If you notice , the file has nested contents in it. Here, … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/04/27/nestedjsoninlogicapps/",
+          "publishedOn": "2023-04-27T15:05:36.000Z",
+          "wordCount": 3445,
+          "title": "Parse nested Json from logic apps",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/04/image-46.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=2505",
           "author": "AnithaEswaran",
@@ -4711,6 +4791,16 @@
           "imageUrl": null
         },
         {
+          "id": "1863",
+          "author": "Vasiliy Kovalenko",
+          "description": "Generic table methods:\n\n\n\n    /// <summary>\n    /// Find by natural key\n    /// </summary>\n    /// <param name = \"_id\">id</param>\n    /// <param name = \"_forUpdate\">for update</param>\n    /// <returns>VKTable record</returns>\n    static VKTable find(VKIdentifier      _id,\n                                  boolean           _forUpdate = false)\n    {\n        VKTable table;\n\n        if (_id)\n        {\n            if (_forUpdate)\n            {\n                table.selectForUpdate(_forUpdate);\n            }\n\n            select firstonly table\n                where table.Id == _id;\n        }\n\n        return interfaceSetup;\n    }\n\n    /// <summary>\n    /// Find by RecId\n    /// </summary>\n    /// <param name = \"_refRecId\">RecId reference</param>\n    /// <param name = \"_forUpdate\">for update</par…",
+          "link": "http://daxonline.org/1863-generic-table-methods.html",
+          "publishedOn": "2023-04-07T14:22:21.000Z",
+          "wordCount": 377,
+          "title": "Generic table methods",
+          "imageUrl": null
+        },
+        {
           "id": "1860",
           "author": "Vasiliy Kovalenko",
           "description": "There is an error in standard SalesPackingSlipDP class:\n    protected SalesPackingSlipHeaderTmp createReportData()\n    {\n        this.initializeReportData();\n\n        custPackingSlipVersion  = custPackingSlipVersion::find(this.parmPackingSlipContract().parmRecordId());\n        custPackingSlipJour     = custPackingSlipJour::findRecId(custPackingSlipVersion.custPackingSlipJour);\n        \n        return this.createSalesPackingSlip();\n    }\nRegardless of which table record RecId report contract contains CustPackingSlipVersion record is selected. Even though the same class contains the following method:\n    protected CustPackingSlipJourRecId retrieveJournalRecId(SalesPackingSlipContract _salesPackingSlipContract)\n    {\n        RecId                       recId = _salesPackingSlipContract.parmRe…",
@@ -4907,6 +4997,36 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/25/field-service-palm-springs-modernize-service-operations/",
+          "author": "Safiyyah O’Quinn",
+          "description": "We're excited to return to Field Service Palm Springs 2023 from April 25 through 27. We invite you to join us, along with our partners, to discover how Connected Field Service using Dynamics 365 Field Service and IoT can help create a seamless service experience that enhances customer satisfaction while boosting revenue.\nThe post Field Service Palm Springs: Modernize service operations appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/25/field-service-palm-springs-modernize-service-operations/",
+          "publishedOn": "2023-04-25T15:00:00.000Z",
+          "wordCount": 2790,
+          "title": "Field Service Palm Springs: Modernize service operations",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/Picture1V2.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/25/manage-attribute-based-omnichannel-sales-pricing/",
+          "author": "Sherry Zheng",
+          "description": "Pricing is one of the fundamental tools to boost supply chain profits by better matching supply and demand. Many businesses have started to reform their pricing strategies in recent years as a result of the growth of e-commerce and the constantly changing business environments in order to improve pricing transparency, supply chain agility and margin optimization.\nThe post Manage attribute-based omnichannel sales pricing  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/25/manage-attribute-based-omnichannel-sales-pricing/",
+          "publishedOn": "2023-04-25T11:16:12.000Z",
+          "wordCount": 2373,
+          "title": "Manage attribute-based omnichannel sales pricing",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/CLO17_waterworks_003.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/24/drive-brand-loyalty-with-a-customizable-live-chat-widget-in-dynamics-365-customer-service/",
+          "author": "Jessica Li",
+          "description": "We are excited to announce our upgraded live chat widget that allows you to customize every detail of the widget to match your brand identity. \nThe post Drive brand loyalty with a customizable live chat widget in Dynamics 365 Customer Service  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/24/drive-brand-loyalty-with-a-customizable-live-chat-widget-in-dynamics-365-customer-service/",
+          "publishedOn": "2023-04-24T17:53:09.000Z",
+          "wordCount": 2153,
+          "title": "Drive brand loyalty with a customizable live chat widget in Dynamics 365 Customer Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/01/DYN21_RemoteAssist_008-scaled.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/04/21/field-service-wave-1-2023-features/",
           "author": "Jason Shotts",
@@ -5912,6 +6032,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2505",
+          "author": "Saurabh Bharti",
+          "description": "Recently while looking at feature management workspace (Which I try to do on regular basis) I saw this feature and was curious what exactly it is? because when it comes to adjustments its up to business to decide what adjustments they want to make. So, after enabling it looks like Microsoft is trying to streamline […]",
+          "link": "https://exploredynamics365.home.blog/2023/04/27/general-ledger-adjustments-feature-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-04-27T07:19:10.000Z",
+          "wordCount": 2686,
+          "title": "General ledger adjustments feature in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/04/0-5.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2491",
           "author": "Saurabh Bharti",
           "description": "This feature enables configuring and using billing schedules with Projects. Billing schedules can be associated with a time and material project and invoiced using Project invoice proposals. This capability is supported for Project Operations for production/ stocked scenarios only. Read previous blogs here on subscription billing Pre-requisites: Enable feature and setup project stage rule Step-1: […]",
@@ -6198,6 +6328,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2505",
+          "author": "Saurabh Bharti",
+          "description": "Recently while looking at feature management workspace (Which I try to do on regular basis) I saw this feature and was curious what exactly it is? because when it comes to adjustments its up to business to decide what adjustments they want to make. So, after enabling it looks like Microsoft is trying to streamline […]",
+          "link": "https://exploredynamics365.home.blog/2023/04/27/general-ledger-adjustments-feature-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-04-27T07:19:10.000Z",
+          "wordCount": 2686,
+          "title": "General ledger adjustments feature in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/04/0-5.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2491",
           "author": "Saurabh Bharti",
