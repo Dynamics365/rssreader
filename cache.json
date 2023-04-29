@@ -6032,6 +6032,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2513",
+          "author": "Saurabh Bharti",
+          "description": "In this blog, I will be talking about the option available in (General ledger > Ledger setup. Parameters > Ledger > Accounting rule > Financial dimensions) where we see two options: So, these two options are basically for posting financial dimension for summary accounts (Control accounts) like Payable, Receivable etc… Let’s take one scenario of […]",
+          "link": "https://exploredynamics365.home.blog/2023/04/28/accounting-rule-financial-dimension-value-used-for-summary-account-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-04-28T08:09:53.000Z",
+          "wordCount": 2787,
+          "title": "(Accounting rule) Financial dimension value used for summary account in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/04/6-5.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2505",
           "author": "Saurabh Bharti",
           "description": "Recently while looking at feature management workspace (Which I try to do on regular basis) I saw this feature and was curious what exactly it is? because when it comes to adjustments its up to business to decide what adjustments they want to make. So, after enabling it looks like Microsoft is trying to streamline […]",
@@ -6328,6 +6338,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2513",
+          "author": "Saurabh Bharti",
+          "description": "In this blog, I will be talking about the option available in (General ledger > Ledger setup. Parameters > Ledger > Accounting rule > Financial dimensions) where we see two options: So, these two options are basically for posting financial dimension for summary accounts (Control accounts) like Payable, Receivable etc… Let’s take one scenario of […]",
+          "link": "https://exploredynamics365.home.blog/2023/04/28/accounting-rule-financial-dimension-value-used-for-summary-account-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-04-28T08:09:53.000Z",
+          "wordCount": 2787,
+          "title": "(Accounting rule) Financial dimension value used for summary account in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/04/6-5.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2505",
           "author": "Saurabh Bharti",
