@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-29T01:16:17.690Z</updated>
+    <updated>2023-04-30T01:21:49.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[New feature] Supply risk assessment in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2526</id>
+        <link href="https://exploredynamics365.home.blog/2023/04/28/new-feature-supply-risk-assessment-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-04-28T12:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Supply risk assessment for Microsoft Dynamics 365 Supply Chain Management lets you identify supply risks, so that you can act to help prevent supply chain disruptions. Enable feature : The Supply risk assessment workspace, together with the supplier performance and risk analysis reports, helps supply managers understand the risk of encountering sourcing shortages and delays. It enables […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[New feature] Supply risk assessment in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2526</id>
+        <link href="https://exploredynamics365.home.blog/2023/04/28/new-feature-supply-risk-assessment-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-04-28T12:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Supply risk assessment for Microsoft Dynamics 365 Supply Chain Management lets you identify supply risks, so that you can act to help prevent supply chain disruptions. Enable feature : The Supply risk assessment workspace, together with the supplier performance and risk analysis reports, helps supply managers understand the risk of encountering sourcing shortages and delays. It enables […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(Accounting rule) Financial dimension value used for summary account in Microsoft Dynamics 365 finance and operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2513</id>
@@ -67,6 +87,18 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[Recently while looking at feature management workspace (Which I try to do on regular basis) I saw this feature and was curious what exactly it is? because when it comes to adjustments its up to business to decide what adjustments they want to make. So, after enabling it looks like Microsoft is trying to streamline […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Financial Tags: Flexible reporting and analytics capabilities without the overhead of dimensions]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1c669dfc-5b60-4e11-8946-3367a1a22c58</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/financial-tags-flexible-reporting-and-analytics-capabilities-without-the-overhead-of-dimensions"/>
+        <updated>2023-04-26T16:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Organizations need subledger data, external data, and even internal 'notations' for managerial reporting and analysis on their accounting entries. But it's a struggle!  It's challenging to get to detailed data in the subledger data model and there isn't a solution for external data or internal notations. Organizations are adding more financial dimensions, concatenating data into the transaction descriptions, or using the document number to track this additional data within general ledger and none of these are presenting the results users desire.   
+These challenges are what prompted the Dynamics 365 Finance team to add the Financial tag feature. Financial tags allow an organization to track up to 20 user-defined fields on the accounting entries within general ledger.  
+Financial dimensions…]]></summary>
+        <author>
+            <name>Kristi Slininger</name>
         </author>
     </entry>
     <entry>
