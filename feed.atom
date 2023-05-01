@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-04-30T01:21:49.283Z</updated>
+    <updated>2023-05-01T01:21:10.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -19280,29 +19280,6 @@ Continue reading ‘Entity metadata in a console application’ »]]></summary>
 When selecting data from SQL in X++, you can provide a field list to limit the amount of data fetched from SQL. This improves the performance of the select statement; but risks that downstr...(read more)]]></summary>
         <author>
             <name>Michael Fruergaard Pontoppidan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mass update legal entity wise security in Microsoft Dynamics 365 Finance and Operations]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:5a7a0568-2440-4409-aa25-77777850fdbd</id>
-        <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/mass-update-legal-entity-wise-security-in-microsoft-dynamics-365-finance-and-operations"/>
-        <updated>2021-04-30T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Mass update legal entity wise security in Microsoft Dynamics 365 Finance and Operations
-
-
-Problem statement- managing every user’s specific role to define organization access is a ti...(read more)]]></summary>
-        <author>
-            <name>Rahul Mohta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X++: How to get the D365FO URL correctly inside backend services]]></title>
-        <id>https://devblog.sertanyaman.com/?p=3553</id>
-        <link href="https://devblog.sertanyaman.com/2021/04/30/x-how-to-get-the-d365fo-url-correctly-inside-backend-services/"/>
-        <updated>2021-04-30T11:05:50.000Z</updated>
-        <summary type="html"><![CDATA[You may need to retrieve the URL of the D365 FO instance for logging or integration purposes, or for generating deep links. D365 FO foundation package provides you the URLUtility::getUrl() method for this. However this FO standard method does not work if you execute it from a batch or inside a custom API service. When … Continue reading X++: How to get the D365FO URL correctly inside backend services]]></summary>
-        <author>
-            <name>Tayfun Sertan Yaman</name>
         </author>
     </entry>
 </feed>

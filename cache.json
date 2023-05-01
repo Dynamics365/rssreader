@@ -7549,16 +7549,6 @@
           "wordCount": 2642,
           "title": "Integration tips: SSL, TLS, Certificates and HTTPS",
           "imageUrl": null
-        },
-        {
-          "id": "https://devblog.sertanyaman.com/?p=3553",
-          "author": "Tayfun Sertan Yaman",
-          "description": "You may need to retrieve the URL of the D365 FO instance for logging or integration purposes, or for generating deep links. D365 FO foundation package provides you the URLUtility::getUrl() method for this. However this FO standard method does not work if you execute it from a batch or inside a custom API service. When … Continue reading X++: How to get the D365FO URL correctly inside backend services",
-          "link": "https://devblog.sertanyaman.com/2021/04/30/x-how-to-get-the-d365fo-url-correctly-inside-backend-services/",
-          "publishedOn": "2021-04-30T11:05:50.000Z",
-          "wordCount": null,
-          "title": "X++: How to get the D365FO URL correctly inside backend services",
-          "imageUrl": null
         }
       ]
     },
@@ -8920,16 +8910,6 @@
           "publishedOn": "2021-06-09T06:07:00.000Z",
           "wordCount": 1110,
           "title": "Setup and end to end usage of ACH for vendor payment in Microsoft Dynamics 365 Finance and Operations",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:5a7a0568-2440-4409-aa25-77777850fdbd",
-          "author": "Rahul Mohta",
-          "description": "Mass update legal entity wise security in Microsoft Dynamics 365 Finance and Operations\n\n\nProblem statement- managing every user’s specific role to define organization access is a ti...(read more)",
-          "link": "https://community.dynamics.com/ax/b/happyd365fo/posts/mass-update-legal-entity-wise-security-in-microsoft-dynamics-365-finance-and-operations",
-          "publishedOn": "2021-04-30T14:09:00.000Z",
-          "wordCount": 948,
-          "title": "Mass update legal entity wise security in Microsoft Dynamics 365 Finance and Operations",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
