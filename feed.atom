@@ -2,11 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-01T01:21:10.828Z</updated>
+    <updated>2023-05-02T01:16:41.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
     <entry>
+        <title type="html"><![CDATA[ChatGPT in Excel]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2553</id>
+        <link href="https://anithasantosh.wordpress.com/2023/05/01/chatgpt-in-excel/"/>
+        <updated>2023-05-01T20:05:39.000Z</updated>
+        <summary type="html"><![CDATA[We are now familiar with the latest buzz on ChatGPT. In this post, I am giving a brief introduction on integrating ChatGPT with Excel. Excel is an incredibly powerful tool for getting meaning out of vast amounts of data. But … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project time recording with OpenAI speech to text]]></title>
+        <id>http://dynamicsax-fico.com/?p=5089</id>
+        <link href="https://dynamicsax-fico.com/2023/05/01/project-time-recording-with-openai-speech-to-text/"/>
+        <updated>2023-05-01T04:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[how to create number sequence in d365fo]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e15f5fbe-1fe6-42f0-9848-36fc81e386ff</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/posts/how-to-create-number-sequence-in-d365fo"/>
+        <updated>2023-05-01T03:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi All, Welcome to Blog.Today we are going to learn how to create new number sequence. But before we start let's understand about number sequence framework. Microsoft Dynamics AX has a number
+sequence framework to g...(read more)]]></summary>
+        <author>
+            <name>Vijay Yelmame</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create and manage cases efficiently with enhanced case forms]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1950f612-debe-4b1f-9861-844d910b115e</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/create-and-manage-cases-efficiently-with-enhanced-case-forms"/>
+        <updated>2023-04-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Customer service agents in a digital contact center handle multiple customer queries simultaneously and work on several support requests in a day. Often, they might spend extra time creating support cases, catching up on past activities, or performing simple case management processes. This leaves them with less time to focus on customer queries, which affects customer satisfaction. Enhanced case forms in Dynamics 365 Customer Service provide a streamlined layout to help agents expedite the case creation process and find relevant information quickly.  
+With enhanced case forms, agents spend less time creating a case or finding required information and more time helping customers. As a result, agents reduce case handling time, improve productivity, and drive better customer satisfaction.   
+…]]></summary>
+        <author>
+            <name>Shruti Chaurasia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New API for Distributed Order Management fulfillment optimization]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:fcfee4ca-7e51-4f6a-b2bb-1df8d85622da</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/new-api-for-distributed-order-management-fulfillment-optimization"/>
+        <updated>2023-04-28T13:59:28.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+From same-day delivery to social commerce and self-service solutions, the modern-day supply chain is pushing retailers to keep pace with consumer expectations for near-instantaneous, omnichannel service. With Microsoft Dynamics 365 Intelligent Order Management, retailers can offer customers the best shipping and fulfillment options in real-time. Now, with the new Distributed Order Management (DOM) API, you can take advantage of the core capabilities of Intelligent Order Management well in advance of order orchestration in a platform-agnostic way.
+What capabilities does the DOM API unlock? 
+
+Call the DOM API from any platform. Get the fulfillment source and shipping options for an order or cart items in real-time by making a call to the DOM API from any e-commerce, ERP, or mark…]]></summary>
+        <author>
+            <name>Anusha Venkatesan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[New feature] Supply risk assessment in Microsoft Dynamics 365 finance and operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2526</id>
         <link href="https://exploredynamics365.home.blog/2023/04/28/new-feature-supply-risk-assessment-in-microsoft-dynamics-365-finance-and-operations/"/>
@@ -44,6 +101,19 @@
         <summary type="html"><![CDATA[In this blog, I will be talking about the option available in (General ledger > Ledger setup. Parameters > Ledger > Accounting rule > Financial dimensions) where we see two options: So, these two options are basically for posting financial dimension for summary accounts (Control accounts) like Payable, Receivable etc… Let’s take one scenario of […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve operations with real-time analytics in Dynamics 365 Customer Service]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:285c9cd0-cd54-4970-aa82-40b7452e30ae</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/improve-operations-with-real-time-analytics-in-dynamics-365-customer-service"/>
+        <updated>2023-04-27T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced business environment, contact centers need real-time analytics to provide top-notch customer support under pressure. One of the biggest challenges contact center managers face is the ability to react quickly to unexpected events. These events may include spikes in the volume of incoming customer interactions, longer call lengths, and agent absences. 
+To address these challenges, we are excited to introduce Dynamics 365 Customer Service real-time analytics for omnichannel. This powerful tool provides contact center managers with real-time visibility into overall support performance. They can monitor key operational metrics, make course corrections at the right time, and keep service levels high. 
+Monitor customer interactions with real-time analytics
+Contact centers ne…]]></summary>
+        <author>
+            <name>Vikram Yerrabhaneni</name>
         </author>
     </entry>
     <entry>
@@ -67,6 +137,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[In this post, I will give a brief walkthrough of handling the nested json data and extracting the contents from it. My sample file is as follows . If you notice , the file has nested contents in it. Here, … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimize experiences for sellers and marketers with Dynamics 365]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3f2a8253-8aee-4244-aefd-7e7de2eaac9c</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/optimize-experiences-for-sellers-and-marketers-with-dynamics-365"/>
+        <updated>2023-04-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how Dynamics 365 helps customer experience leaders do more with less
+Leaders of organizations in every region and industry are cautiously navigating business decisions of 2023. The recent economic turbulence has forced companies to evaluate their internal processes, tools, and enterprise software to optimize for efficiency. Conversely, customer experience (CX) leaders see 2023 as the year of opportunity. By strengthening their customer experience strategy with technology, CX leaders can retain their most valuable customers, acquire new customers, and look to surpass their competitors. The good news is that you don't need more to do this. You can do more with less, utilizing the power of AI to optimize experiences for your sellers, marketers, and data analysts so they can deliver b…]]></summary>
+        <author>
+            <name>Jayme Mesecher</name>
         </author>
     </entry>
     <entry>
