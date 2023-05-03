@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-02T01:16:41.663Z</updated>
+    <updated>2023-05-03T01:17:54.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s new: Power Apps April 2023 Feature Update]]></title>
+        <id>whats-new-power-apps-april-2023-feature-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-april-2023-feature-update/"/>
+        <updated>2023-05-02T18:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share including Managed Environment Updates, new Variable and Collections experience, and improvements to offline on mobile!]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 eCommerce implementation and costs]]></title>
+        <id>http://kurthatlevik.com/?p=4473</id>
+        <link href="https://kurthatlevik.com/2023/05/02/d365-ecommerce-implementation-and-costs/"/>
+        <updated>2023-05-02T12:18:44.000Z</updated>
+        <summary type="html"><![CDATA[I’ve received several inquiries about implementing Dynamics 365 eCommerce in a B2B context, with a recurring concern being the associated costs and efforts. In this post, I will share my experiences and recommendations for creating a B2B eCommerce site catering to both local and regional markets. The example presented here represents a medium-sized eCommerce implementation. … Continue reading D365 eCommerce implementation and costs]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable recording option in XBox Game bar]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2567</id>
+        <link href="https://anithasantosh.wordpress.com/2023/05/02/enable-recording-option-in-xbox-game-bar/"/>
+        <updated>2023-05-02T11:38:24.000Z</updated>
+        <summary type="html"><![CDATA[When I was trying to record using XBox Gamin bar, the ‘record’ option was disabled. So I tried uninstalling it using Powershell in admin mode and entered the following command Then went to Microsoft store to install the ‘XBox Game … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT in Excel]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2553</id>

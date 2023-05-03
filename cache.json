@@ -3524,6 +3524,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2567",
+          "author": "AnithaEswaran",
+          "description": "When I was trying to record using XBox Gamin bar, the ‘record’ option was disabled. So I tried uninstalling it using Powershell in admin mode and entered the following command Then went to Microsoft store to install the ‘XBox Game … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/05/02/enable-recording-option-in-xbox-game-bar/",
+          "publishedOn": "2023-05-02T11:38:24.000Z",
+          "wordCount": 3130,
+          "title": "Enable recording option in XBox Game bar",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/05/image-6.png?w=1024"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2553",
           "author": "AnithaEswaran",
           "description": "We are now familiar with the latest buzz on ChatGPT. In this post, I am giving a brief introduction on integrating ChatGPT with Excel. Excel is an incredibly powerful tool for getting meaning out of vast amounts of data. But … Continue reading →",
@@ -4404,6 +4414,16 @@
       "feedUrl": "https://kurthatlevik.com/feed/",
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
+        {
+          "id": "http://kurthatlevik.com/?p=4473",
+          "author": "Kurt Hatlevik",
+          "description": "I’ve received several inquiries about implementing Dynamics 365 eCommerce in a B2B context, with a recurring concern being the associated costs and efforts. In this post, I will share my experiences and recommendations for creating a B2B eCommerce site catering to both local and regional markets. The example presented here represents a medium-sized eCommerce implementation. … Continue reading D365 eCommerce implementation and costs",
+          "link": "https://kurthatlevik.com/2023/05/02/d365-ecommerce-implementation-and-costs/",
+          "publishedOn": "2023-05-02T12:18:44.000Z",
+          "wordCount": 4250,
+          "title": "D365 eCommerce implementation and costs",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/05/050223_1218_d365ecommer1.png"
+        },
         {
           "id": "http://kurthatlevik.com/?p=4457",
           "author": "Kurt Hatlevik",
@@ -12011,6 +12031,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "whats-new-power-apps-april-2023-feature-update",
+          "author": null,
+          "description": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share including Managed Environment Updates, new Variable and Collections experience, and improvements to offline on mobile!",
+          "link": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-april-2023-feature-update/",
+          "publishedOn": "2023-05-02T18:11:03.000Z",
+          "wordCount": 3452,
+          "title": "What’s new: Power Apps April 2023 Feature Update",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/ImprovedVariablesPane.gif"
+        },
         {
           "id": "recent-improvements-to-the-modern-app-designer",
           "author": null,
