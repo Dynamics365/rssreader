@@ -6015,6 +6015,16 @@
       "siteUrl": "https://dev.goshoom.net",
       "articles": [
         {
+          "id": "https://dev.goshoom.net/?p=9853",
+          "author": "Martin Dráb",
+          "description": "Acceptance Test Library (ATL) in F&O isn’t a new feature, but many people aren’t aware of it, therefore let me try to raise awareness a bit. ATL is used in automated tests written by developers and its purpose is to easily create test data and verify results. Here is an example of such a test: ...\nContinue reading ‘Acceptance Test Library’ »",
+          "link": "https://dev.goshoom.net/2023/05/acceptance-test-library/",
+          "publishedOn": "2023-05-03T05:35:24.000Z",
+          "wordCount": 2073,
+          "title": "Acceptance Test Library",
+          "imageUrl": null
+        },
+        {
           "id": "https://dev.goshoom.net/?p=9835",
           "author": "Martin Dráb",
           "description": "I’ve just checked the list of sessions proposed for DynamicsMinds conference (22–24 May 2023, Slovenia), where I’ll also have a few, and recognized many familiar names. It’ll be great not only to listen their sessions, but also to finally meet them again in person. The list is long, but to mention at least some names, ...\nContinue reading ‘DynamicsMinds conference speakers’ »",

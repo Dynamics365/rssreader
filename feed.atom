@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-03T01:17:54.448Z</updated>
+    <updated>2023-05-04T01:15:59.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Acceptance Test Library]]></title>
+        <id>https://dev.goshoom.net/?p=9853</id>
+        <link href="https://dev.goshoom.net/2023/05/acceptance-test-library/"/>
+        <updated>2023-05-03T05:35:24.000Z</updated>
+        <summary type="html"><![CDATA[Acceptance Test Library (ATL) in F&O isn’t a new feature, but many people aren’t aware of it, therefore let me try to raise awareness a bit. ATL is used in automated tests written by developers and its purpose is to easily create test data and verify results. Here is an example of such a test: ...
+Continue reading ‘Acceptance Test Library’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s new: Power Apps April 2023 Feature Update]]></title>
         <id>whats-new-power-apps-april-2023-feature-update</id>
