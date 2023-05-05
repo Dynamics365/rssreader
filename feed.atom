@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-04T01:15:59.326Z</updated>
+    <updated>2023-05-05T01:10:33.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ADF – Generating an Rest API Bearer Token]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2573</id>
+        <link href="https://anithasantosh.wordpress.com/2023/05/04/adf-generating-an-rest-api-bearer-token/"/>
+        <updated>2023-05-04T17:32:03.000Z</updated>
+        <summary type="html"><![CDATA[I`ve already given the post on generating a bearer token usins Postman. As there are various requirements using cloud concepts , in this blog I will show you on creating the token using ADF. Create a new Pipeline . Let … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Acceptance Test Library]]></title>
         <id>https://dev.goshoom.net/?p=9853</id>
@@ -19391,17 +19401,6 @@ setup attribute types...
 Continue reading ‘Entity metadata in a console application’ »]]></summary>
         <author>
             <name>Martin Dráb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checking for references to not-selected fields]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f2d46b43-a768-4834-9f94-a06b484e8bbc</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/mfp/posts/checking-for-references-to-not-selected-fields"/>
-        <updated>2021-05-05T07:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Background
-When selecting data from SQL in X++, you can provide a field list to limit the amount of data fetched from SQL. This improves the performance of the select statement; but risks that downstr...(read more)]]></summary>
-        <author>
-            <name>Michael Fruergaard Pontoppidan</name>
         </author>
     </entry>
 </feed>

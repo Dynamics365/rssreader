@@ -3524,6 +3524,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2573",
+          "author": "AnithaEswaran",
+          "description": "I`ve already given the post on generating a bearer token usins Postman. As there are various requirements using cloud concepts , in this blog I will show you on creating the token using ADF. Create a new Pipeline . Let … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/05/04/adf-generating-an-rest-api-bearer-token/",
+          "publishedOn": "2023-05-04T17:32:03.000Z",
+          "wordCount": 3212,
+          "title": "ADF – Generating an Rest API Bearer Token",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/05/image-9.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2567",
           "author": "AnithaEswaran",
           "description": "When I was trying to record using XBox Gamin bar, the ‘record’ option was disabled. So I tried uninstalling it using Powershell in admin mode and entered the following command Then went to Microsoft store to install the ‘XBox Game … Continue reading →",
@@ -10101,18 +10111,7 @@
       "title": "mfp's two cents",
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/mfp/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/mfp",
-      "articles": [
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f2d46b43-a768-4834-9f94-a06b484e8bbc",
-          "author": "Michael Fruergaard Pontoppidan",
-          "description": "Background\nWhen selecting data from SQL in X++, you can provide a field list to limit the amount of data fetched from SQL. This improves the performance of the select statement; but risks that downstr...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/mfp/posts/checking-for-references-to-not-selected-fields",
-          "publishedOn": "2021-05-05T07:37:00.000Z",
-          "wordCount": 3360,
-          "title": "Checking for references to not-selected fields",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "A practitioner's views on Dynamics 365 for Finance and Operations",
