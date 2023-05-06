@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-05T01:10:33.242Z</updated>
+    <updated>2023-05-06T01:12:29.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -229,6 +229,17 @@ Leaders of organizations in every region and industry are cautiously navigating 
         <summary type="html"><![CDATA[Organizations need subledger data, external data, and even internal 'notations' for managerial reporting and analysis on their accounting entries. But it's a struggle!  It's challenging to get to detailed data in the subledger data model and there isn't a solution for external data or internal notations. Organizations are adding more financial dimensions, concatenating data into the transaction descriptions, or using the document number to track this additional data within general ledger and none of these are presenting the results users desire.   
 These challenges are what prompted the Dynamics 365 Finance team to add the Financial tag feature. Financial tags allow an organization to track up to 20 user-defined fields on the accounting entries within general ledger.  
 Financial dimensions…]]></summary>
+        <author>
+            <name>Kristi Slininger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Financial Tags: Flexible reporting and analytics capabilities without the overhead of dimensions]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/04/26/financial-tags-flexible-reporting-and-analytics-capabilities-without-the-overhead-of-dimensions/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/04/26/financial-tags-flexible-reporting-and-analytics-capabilities-without-the-overhead-of-dimensions/"/>
+        <updated>2023-04-26T16:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Organizations need subledger data, external data, and even internal 'notations' for managerial reporting and analysis on their accounting entries. 
+The post Financial Tags: Flexible reporting and analytics capabilities without the overhead of dimensions  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Kristi Slininger</name>
         </author>
