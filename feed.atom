@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-06T01:12:29.920Z</updated>
+    <updated>2023-05-07T01:21:59.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics Partner Roundup: Product configurator; UK acquisition; Retirement; Specializations achieved]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:94549561-8d09-4bda-b5e9-2db09a0dcf9a</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-partner-roundup-product-configurator-uk-acquisition-retirement-specializations-achieved"/>
+        <updated>2023-05-05T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this week's Microsoft Dynamics Partner News Roundup: 
+ 
+ Product Configurator 3.7 for Business Central now
+available 
+ Transparity acquires Microsoft data specialist DataShapa 
+ Linda Collins, president of Western Computer, announces
+retirement after... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: Microsoft update on Dynamics 365 F&O migrations and business process guides with Rachel Profitt]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:24ee6b4f-9e6f-4360-9109-792a40b2127c</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-microsoft-update-on-dynamics-365-f-o-migrations-and-business-process-guides-with-rachel-profitt"/>
+        <updated>2023-05-05T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This episode is sponsored by Microsoft.   
+ FastTrack senior program manager Rachel Profitt joins us to talk
+about Dynamics 365 F&O migrations, the latest updates to the
+FastTrack program, and her team's newest achievement, the launch of
+new business... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Sales process efficiency using sequence insights]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/04/improve-sales-process-efficiency-using-sequence-insights/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/04/improve-sales-process-efficiency-using-sequence-insights/"/>
+        <updated>2023-05-04T18:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Sequences in Dynamics 365 Sales is a valuable sales engagement tool for businesses looking to drive efficiency via standardized sales processes.
+The post Improve Sales process efficiency using sequence insights appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Vinay Deo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ADF – Generating an Rest API Bearer Token]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2573</id>
@@ -14,6 +55,28 @@
         <summary type="html"><![CDATA[I`ve already given the post on generating a bearer token usins Postman. As there are various requirements using cloud concepts , in this blog I will show you on creating the token using ADF. Create a new Pipeline . Let … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Copilot at Gartner Supply Chain Symposium Xpo™ 2023]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/04/microsoft-dynamics-365-copilot-at-gartner-supply-chain-symposium-xpo-2023/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/04/microsoft-dynamics-365-copilot-at-gartner-supply-chain-symposium-xpo-2023/"/>
+        <updated>2023-05-04T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[To truly deliver a proactive, resilient supply chain, Chief Supply Chain Officers (CSCOs) need a clear digital transformation strategy that builds on top of existing investments in data to uncover new insights.
+The post Microsoft Dynamics 365 Copilot at Gartner Supply Chain Symposium Xpo™ 2023 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Alexis Goodrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intraday insights are deprecated and replaced by real-time analytics reports]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/03/use-omnichannel-real-time-analytics-reports-in-dynamics-365-customer-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/03/use-omnichannel-real-time-analytics-reports-in-dynamics-365-customer-service/"/>
+        <updated>2023-05-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Starting Monday, May 1, 2023, we are deprecating the Intraday Insights reports and encouraging customers to move to Real-Time Analytics reports.
+The post Intraday insights are deprecated and replaced by real-time analytics reports appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Sukesh Kaul</name>
         </author>
     </entry>
     <entry>
@@ -101,6 +164,17 @@ With enhanced case forms, agents spend less time creating a case or finding req
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Create and manage cases efficiently with enhanced case forms]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/04/28/create-and-manage-cases-efficiently-with-enhanced-case-forms/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/04/28/create-and-manage-cases-efficiently-with-enhanced-case-forms/"/>
+        <updated>2023-04-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enhanced case forms in Dynamics 365 Customer Service provide a streamlined layout to expedite case creation and show relevant information.
+The post Create and manage cases efficiently with enhanced case forms  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Shruti Chaurasia</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New API for Distributed Order Management fulfillment optimization]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:fcfee4ca-7e51-4f6a-b2bb-1df8d85622da</id>
         <link href="https://community.dynamics.com/365/b/365teamblog/posts/new-api-for-distributed-order-management-fulfillment-optimization"/>
@@ -110,6 +184,17 @@ From same-day delivery to social commerce and self-service solutions, the modern
 What capabilities does the DOM API unlock? 
 
 Call the DOM API from any platform. Get the fulfillment source and shipping options for an order or cart items in real-time by making a call to the DOM API from any e-commerce, ERP, or mark…]]></summary>
+        <author>
+            <name>Anusha Venkatesan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New API for Distributed Order Management fulfillment optimization]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/04/28/calling-intelligent-order-management/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/04/28/calling-intelligent-order-management/"/>
+        <updated>2023-04-28T13:59:28.000Z</updated>
+        <summary type="html"><![CDATA[From same-day delivery to social commerce and self-service solutions, the modern-day supply chain is pushing retailers to keep pace with consumer expectations for near-instantaneous, omnichannel service. With Microsoft Dynamics 365 Intelligent Order Management, retailers can offer customers the best shipping and fulfillment options in real-time.
+The post New API for Distributed Order Management fulfillment optimization appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Anusha Venkatesan</name>
         </author>
@@ -168,6 +253,17 @@ Contact centers ne…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Improve operations with real-time analytics in Dynamics 365 Customer Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/04/27/improve-operations-with-real-time-analytics-in-dynamics-365-customer-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/04/27/improve-operations-with-real-time-analytics-in-dynamics-365-customer-service/"/>
+        <updated>2023-04-27T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Customer Service real-time analytics give contact center managers visibility into overall support performance.
+The post Improve operations with real-time analytics in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Vikram Yerrabhaneni</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Are Upgrades Different in Dynamics 365?]]></title>
         <id>https://www.encorebusiness.com/?p=56639</id>
         <link href="https://www.encorebusiness.com/blog/how-are-upgrades-different-in-dynamics-365/"/>
@@ -197,6 +293,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <updated>2023-04-27T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover how Dynamics 365 helps customer experience leaders do more with less
 Leaders of organizations in every region and industry are cautiously navigating business decisions of 2023. The recent economic turbulence has forced companies to evaluate their internal processes, tools, and enterprise software to optimize for efficiency. Conversely, customer experience (CX) leaders see 2023 as the year of opportunity. By strengthening their customer experience strategy with technology, CX leaders can retain their most valuable customers, acquire new customers, and look to surpass their competitors. The good news is that you don't need more to do this. You can do more with less, utilizing the power of AI to optimize experiences for your sellers, marketers, and data analysts so they can deliver b…]]></summary>
+        <author>
+            <name>Jayme Mesecher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimize experiences for sellers and marketers with Dynamics 365]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/27/optimize-experiences-for-sellers-and-marketers-with-dynamics-365/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/27/optimize-experiences-for-sellers-and-marketers-with-dynamics-365/"/>
+        <updated>2023-04-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can do more with less, utilizing the power of AI to optimize experiences for your sellers, marketers, and data analysts so they can deliver better experiences for your customers.
+The post Optimize experiences for sellers and marketers with Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Jayme Mesecher</name>
         </author>
@@ -19401,17 +19508,6 @@ setup attribute types...
         <summary type="html"><![CDATA[In this article I will explain you the very basics of SSL/TLS which is widely used in today’s secure connection methods for web browsing, APIs, services and IOT. Although platforms and SDKs often use SSL/TLS behind the scenes without requiring you to implement anything, it is quite essential to have this basic knowledge to keep … Continue reading Integration tips: SSL, TLS, Certificates and HTTPS]]></summary>
         <author>
             <name>Tayfun Sertan Yaman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entity metadata in a console application]]></title>
-        <id>http://dev.goshoom.net/?p=9678</id>
-        <link href="https://dev.goshoom.net/2021/05/entity-metadata-in-a-console-application/"/>
-        <updated>2021-05-07T06:22:57.000Z</updated>
-        <summary type="html"><![CDATA[There was a question in the Community forum about creating tables in an external databases that would match the schema of F&O data entities. One of the possible approaches is generating SQL code for CREATE TABLE statement. The information about field names, types and such things would be taken from F&O metadata and we already ...
-Continue reading ‘Entity metadata in a console application’ »]]></summary>
-        <author>
-            <name>Martin Dráb</name>
         </author>
     </entry>
 </feed>
