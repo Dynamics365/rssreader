@@ -4881,6 +4881,16 @@
       "siteUrl": "http://daxonline.org/",
       "articles": [
         {
+          "id": "1875",
+          "author": "Vasiliy Kovalenko",
+          "description": "For example we need to tie following datasources:\nInventSum\n    InventDim\n        InventBatch\n\n\nInventBatch unique key index consists of ItemId and InventbatchId, therefore we need to link Invnetbatch with both InventDim and InventSum. However, if you try to do it using addLink method:\nqbdsInventBatch.clearDynalinks();\nqbdsInventBatch.addLink(fieldnum(InventDim, inventBatchId), fieldNum(InventBatch, inventBatchId));\nqbdsInventBatch.addLink(fieldnum(InventSum, ItemId), fieldNum(InventBatch, ItemId));\nInvalid Field/Related field combination\":\n\n\nThere are a few tricks how this can be resolved:\n\n\n1. Create a view from InventSum and InventDim and use it as a single data source and then join InventBatch to it.\n2. Start query from Inventbatch data source and then join to it InventSum and InventDim. However, considering the example above in most cases it will not be logical. But it might work in your case.\n3. Use extended ranges. The solution will have the following look:\nQueryBuildRange qbrItemId = SysQuery::findOrCreateRange(qbdsInventBatch, fieldNum(InventBatch, ItemId));\nstr itemIdRange = strFmt('(%1.%2=%3.%4)', qbdsInventBatch.name(), fieldStr(InventBatch, ItemId), _inventSum_DS_Query.dataSourceName(formDataSourceStr(InventOnhandItem, InventSum)).name(), fieldStr(InventSum, ItemId));\nqbrItemId.value(itemIdRange);\nAdditional query build extended range example",
+          "link": "http://daxonline.org/1875-how-to-link-multiple-data-sources-between-each-other.html",
+          "publishedOn": "2023-05-08T12:35:50.000Z",
+          "wordCount": 360,
+          "title": "How to link multiple data sources between each other",
+          "imageUrl": null
+        },
+        {
           "id": "1868",
           "author": "Vasiliy Kovalenko",
           "description": "X++ to deduct days from date time:\n\n\n \n        utcdatetime dateTime;\n        date        datePart;\n        TimeOfDay   timePart;\n        int         monthPart;\n \n\n        // option 1\n        dateTime = DateTimeUtil::getSystemDateTime();\n        dateTime = DateTimeUtil::addDays(dateTime , -2);\n        info(strFmt(\"New date time is %1\", dateTime));\n \n        // option 2\n        dateTime = DateTimeUtil::getSystemDateTime();\n        datePart = DateTimeUtil::date(dateTime) - 2;\n        timePart = DateTimeUtil::time(dateTime);\n        dateTime = DateTimeUtil::newDateTime(datePart, timePart);\n        info(strFmt(\"New date time is %1\", dateTime));",
@@ -6222,6 +6232,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2541",
+          "author": "Saurabh Bharti",
+          "description": "Many times, we have requirement to auto trigger email for some documents like Purchase order confirmation, Sales order invoices, free text invoices etc…So to do this we can use print management functionality of Microsoft dynamics 365 finance and operation to setup printing method as email and run the batch job for specific task. Print management […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/08/email-documents-using-print-management-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-05-08T11:50:21.000Z",
+          "wordCount": 2829,
+          "title": "Email documents using print management in Microsoft dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/9.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2526",
           "author": "Saurabh Bharti",
           "description": "Supply risk assessment for Microsoft Dynamics 365 Supply Chain Management lets you identify supply risks, so that you can act to help prevent supply chain disruptions. Enable feature : The Supply risk assessment workspace, together with the supplier performance and risk analysis reports, helps supply managers understand the risk of encountering sourcing shortages and delays. It enables […]",
@@ -6538,6 +6558,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2541",
+          "author": "Saurabh Bharti",
+          "description": "Many times, we have requirement to auto trigger email for some documents like Purchase order confirmation, Sales order invoices, free text invoices etc…So to do this we can use print management functionality of Microsoft dynamics 365 finance and operation to setup printing method as email and run the batch job for specific task. Print management […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/08/email-documents-using-print-management-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-05-08T11:50:21.000Z",
+          "wordCount": 2829,
+          "title": "Email documents using print management in Microsoft dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/9.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2526",
           "author": "Saurabh Bharti",

@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-08T01:15:57.227Z</updated>
+    <updated>2023-05-09T01:18:11.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to link multiple data sources between each other]]></title>
+        <id>1875</id>
+        <link href="http://daxonline.org/1875-how-to-link-multiple-data-sources-between-each-other.html"/>
+        <updated>2023-05-08T12:35:50.000Z</updated>
+        <summary type="html"><![CDATA[For example we need to tie following datasources:
+InventSum
+    InventDim
+        InventBatch
+
+
+InventBatch unique key index consists of ItemId and InventbatchId, therefore we need to link Invnetbatch with both InventDim and InventSum. However, if you try to do it using addLink method:
+qbdsInventBatch.clearDynalinks();
+qbdsInventBatch.addLink(fieldnum(InventDim, inventBatchId), fieldNum(InventBatch, inventBatchId));
+qbdsInventBatch.addLink(fieldnum(InventSum, ItemId), fieldNum(InventBatch, ItemId));
+Invalid Field/Related field combination":
+
+
+There are a few tricks how this can be resolved:
+
+
+1. Create a view from InventSum and InventDim and use it as a single data source and then join InventBatch to it.
+2. Start query from Inventbatch data source and then join to it InventSum and InventDim. However, considering the example above in most cases it will not be logical. But it might work in your case.
+3. Use extended ranges. The solution will have the following look:
+QueryBuildRange qbrItemId = SysQuery::findOrCreateRange(qbdsInventBatch, fieldNum(InventBatch, ItemId));
+str itemIdRange = strFmt('(%1.%2=%3.%4)', qbdsInventBatch.name(), fieldStr(InventBatch, ItemId), _inventSum_DS_Query.dataSourceName(formDataSourceStr(InventOnhandItem, InventSum)).name(), fieldStr(InventSum, ItemId));
+qbrItemId.value(itemIdRange);
+Additional query build extended range example]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email documents using print management in Microsoft dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2541</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/08/email-documents-using-print-management-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-05-08T11:50:21.000Z</updated>
+        <summary type="html"><![CDATA[Many times, we have requirement to auto trigger email for some documents like Purchase order confirmation, Sales order invoices, free text invoices etc…So to do this we can use print management functionality of Microsoft dynamics 365 finance and operation to setup printing method as email and run the batch job for specific task. Print management […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email documents using print management in Microsoft dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2541</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/08/email-documents-using-print-management-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-05-08T11:50:21.000Z</updated>
+        <summary type="html"><![CDATA[Many times, we have requirement to auto trigger email for some documents like Purchase order confirmation, Sales order invoices, free text invoices etc…So to do this we can use print management functionality of Microsoft dynamics 365 finance and operation to setup printing method as email and run the batch job for specific task. Print management […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Dynamics Partner Roundup: Product configurator; UK acquisition; Retirement; Specializations achieved]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:94549561-8d09-4bda-b5e9-2db09a0dcf9a</id>
