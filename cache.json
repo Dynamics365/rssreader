@@ -1697,6 +1697,26 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56784",
+          "author": "Don McNulty",
+          "description": "Functionality Similarities and Differences | Dynamics GP and Dynamics 365 Business Central\nIn this blog we’re going to delve into some of the most common functionalities in Dynamics GP, and compare them to the same or similar functionalities in Dynamics 365 Business Central. To learn about differences in licensing, hosting, extensions, and updates/upgrades, read our overall comparison of GP and Business Central. You’ll see that there are...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/functionality-similarities-and-differences-dynamics-gp-and-dynamics-365-business-central/",
+          "publishedOn": "2023-05-09T15:21:27.000Z",
+          "wordCount": 1995,
+          "title": "Functionality Similarities and Differences | Dynamics GP and Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/05/Functionalities-GP-and-D365BC.jpg"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=56777",
+          "author": "To-Increase",
+          "description": "Make your Supply Chain Resilient and Agile with D365 F&O | Create Integrations with Top CAD and PLM Systems (Video)\nPLM Integration Solution, when used with Microsoft Dynamics 365 Finance and Operations, helps make your supply chain strong, agile, and resilient in fast-changing markets and customer dynamics. When you work with multiple software systems and platforms, one small error in the product’s lifecycle can cost you dearly. Getting the right information at the right time...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/make-your-supply-chain-resilient-and-agile-with-d365-fo-create-integrations-with-top-cad-and-plm-systems/",
+          "publishedOn": "2023-05-09T13:39:56.000Z",
+          "wordCount": 6459,
+          "title": "Make your Supply Chain Resilient and Agile with D365 F&O | Create Integrations with Top CAD and PLM Systems (Video)",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/05/Webinar-To-Increase-Encore3.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=56639",
           "author": "Tracey Santos",
           "description": "How Are Upgrades Different in Dynamics 365?\nWhat exactly is an upgrade, and what makes a cloud upgrade in Dynamics 365 different than one with on-premise servers? Microsoft Dynamics 365 is known as software as a service (SaaS), and it means that you get billed on a monthly basis. As you consume it, you’re billed. This will be familiar to anyone using...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -2944,6 +2964,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2670",
+          "author": "Alex",
+          "description": "The Power Platform is an extremely powerful and versatile solution for businesses. Normally to use Power Apps you need an Azure AD account (aka work account) but what if you want to sign up for Power Apps with a Microsoft account (aka a ‘non work account’)? Let’s look at how this can be done! Note: […]\nThe post How to Sign Up for Power Apps With Microsoft Account appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/05/09/how-to-sign-up-for-power-apps-with-microsoft-account/",
+          "publishedOn": "2023-05-09T14:25:37.000Z",
+          "wordCount": 4370,
+          "title": "How to Sign Up for Power Apps With Microsoft Account",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/05/10.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2654",
           "author": "Alex",
           "description": "Last week I got to experience my first Microsoft MVP Summit in person since becoming an MVP in November of 2019. It was great to see old friends and meet new ones (face to face!) in the Business Application for D365FO space. So many great sessions, information being shared, and connections being made! I wanted […]\nThe post My First Microsoft MVP Summit appeared first on Alex Meyer.",
@@ -3900,6 +3930,16 @@
       "feedUrl": "https://dynamics365musings.com/feed/",
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
+        {
+          "id": "https://dynamics365musings.com/?p=2803",
+          "author": "peter.ramer",
+          "description": "In this article, learn how to create a D365 Data Entity. Previously, you learned what a data entity is, and when they are used. In this lesson, walk through the steps of creating a data entity in Visual Studio. Then, see it within the Data Management workspace. Review Before learning how to create a D365... Continue Reading →\nThe post How To Create A D365 Data Entity appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/create-a-d365-data-entity/?utm_source=rss&utm_medium=rss&utm_campaign=create-a-d365-data-entity",
+          "publishedOn": "2023-05-08T12:45:53.000Z",
+          "wordCount": 4778,
+          "title": "How To Create A D365 Data Entity",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/05/How-To-Create-A-D365-Data-Entity-1.png"
+        },
         {
           "id": "https://dynamics365musings.com/?p=2725",
           "author": "peter.ramer",
@@ -7309,6 +7349,16 @@
       "feedUrl": "https://alexvoy.blogspot.com/feeds/posts/default",
       "siteUrl": "https://alexvoy.blogspot.com/",
       "articles": [
+        {
+          "id": "https://alexvoy.blogspot.com/2023/05/how-to-create-new-folder-on-sharepoint.html",
+          "author": null,
+          "description": "There are some useful code behind OfficeSharePointFolderSelectionDiaolog form; however, there is a limitation.\n\n\nWell, we can create a new folder via REST API call as follows. Take note that the access token is created in testSharePointConnection\n\nusing Microsoft.Dynamics.Platform.Integration.SharePoint;\nusing System.Net;\nusing System.Net.Http;\n\n[Form]\npublic class wzhSPFolderForm extends FormRun\n{\n    str                 apiUrl;\n    System.Exception    ex;\n    ISharePointProxy    proxy;\n\n\n    public void init()\n    {\n        super();\n        fNewFolder.text('_wzhNewFolder');\n        fServer.text('https://wzhServer.sharepoint.com');\n        fRootFolder.text('Shared Documents');\n    }\n\n    public boolean testSharePointConnection()\n    {\n        str src = fServer.text();\n        boolean vali…",
+          "link": "https://alexvoy.blogspot.com/2023/05/how-to-create-new-folder-on-sharepoint.html",
+          "publishedOn": "2023-05-09T01:43:00.007Z",
+          "wordCount": 2192,
+          "title": "How to create a new folder on Sharepoint",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh5Gc61Z_FOO_J50qPON-LvqiyJs4kMiiWjWx3sk908ty3bABHnF6DjyLOeMBuuMkNuYRZmYj_KHB1TIIdnGXjPOdSZZ01cWs9tRaDXAqhXGDlKPV0iFKBOmdwH6lsRDnvBdp2fnZJP9DBXQcwYi-_OLa1cRIWYFd2z_um_OVmx609_BhYIo5K4Kuhy=w1200-h630-p-k-no-nu"
+        },
         {
           "id": "https://alexvoy.blogspot.com/2023/04/x-to-run-xirr.html",
           "author": null,
@@ -12160,6 +12210,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "request-licenses-for-app-users",
+          "author": null,
+          "description": "Power Apps is excited to share that makers can now proactively request licenses for their app users! Makers will see the option to request licenses for their users during the app share experience. Once a request is submitted, makers will see a confirmation message at the top of the page saying the request was successfully…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/request-licenses-for-app-users/",
+          "publishedOn": "2023-05-09T10:15:10.000Z",
+          "wordCount": 1808,
+          "title": "New: Makers can now proactively request Power Apps premium licenses for their users",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "whats-new-power-apps-april-2023-feature-update",
           "author": null,

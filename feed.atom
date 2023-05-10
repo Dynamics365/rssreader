@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-09T01:18:11.691Z</updated>
+    <updated>2023-05-10T01:15:25.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Functionality Similarities and Differences | Dynamics GP and Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=56784</id>
+        <link href="https://www.encorebusiness.com/blog/functionality-similarities-and-differences-dynamics-gp-and-dynamics-365-business-central/"/>
+        <updated>2023-05-09T15:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Functionality Similarities and Differences | Dynamics GP and Dynamics 365 Business Central
+In this blog we’re going to delve into some of the most common functionalities in Dynamics GP, and compare them to the same or similar functionalities in Dynamics 365 Business Central. To learn about differences in licensing, hosting, extensions, and updates/upgrades, read our overall comparison of GP and Business Central. You’ll see that there are...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Don McNulty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Sign Up for Power Apps With Microsoft Account]]></title>
+        <id>https://alexdmeyer.com/?p=2670</id>
+        <link href="https://alexdmeyer.com/2023/05/09/how-to-sign-up-for-power-apps-with-microsoft-account/"/>
+        <updated>2023-05-09T14:25:37.000Z</updated>
+        <summary type="html"><![CDATA[The Power Platform is an extremely powerful and versatile solution for businesses. Normally to use Power Apps you need an Azure AD account (aka work account) but what if you want to sign up for Power Apps with a Microsoft account (aka a ‘non work account’)? Let’s look at how this can be done! Note: […]
+The post How to Sign Up for Power Apps With Microsoft Account appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make your Supply Chain Resilient and Agile with D365 F&O | Create Integrations with Top CAD and PLM Systems (Video)]]></title>
+        <id>https://www.encorebusiness.com/?p=56777</id>
+        <link href="https://www.encorebusiness.com/blog/make-your-supply-chain-resilient-and-agile-with-d365-fo-create-integrations-with-top-cad-and-plm-systems/"/>
+        <updated>2023-05-09T13:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Make your Supply Chain Resilient and Agile with D365 F&O | Create Integrations with Top CAD and PLM Systems (Video)
+PLM Integration Solution, when used with Microsoft Dynamics 365 Finance and Operations, helps make your supply chain strong, agile, and resilient in fast-changing markets and customer dynamics. When you work with multiple software systems and platforms, one small error in the product’s lifecycle can cost you dearly. Getting the right information at the right time...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>To-Increase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New: Makers can now proactively request Power Apps premium licenses for their users]]></title>
+        <id>request-licenses-for-app-users</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/request-licenses-for-app-users/"/>
+        <updated>2023-05-09T10:15:10.000Z</updated>
+        <summary type="html"><![CDATA[Power Apps is excited to share that makers can now proactively request licenses for their app users! Makers will see the option to request licenses for their users during the app share experience. Once a request is submitted, makers will see a confirmation message at the top of the page saying the request was successfully…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create a new folder on Sharepoint]]></title>
+        <id>https://alexvoy.blogspot.com/2023/05/how-to-create-new-folder-on-sharepoint.html</id>
+        <link href="https://alexvoy.blogspot.com/2023/05/how-to-create-new-folder-on-sharepoint.html"/>
+        <updated>2023-05-09T01:43:00.007Z</updated>
+        <summary type="html"><![CDATA[There are some useful code behind OfficeSharePointFolderSelectionDiaolog form; however, there is a limitation.
+
+
+Well, we can create a new folder via REST API call as follows. Take note that the access token is created in testSharePointConnection
+
+using Microsoft.Dynamics.Platform.Integration.SharePoint;
+using System.Net;
+using System.Net.Http;
+
+[Form]
+public class wzhSPFolderForm extends FormRun
+{
+    str                 apiUrl;
+    System.Exception    ex;
+    ISharePointProxy    proxy;
+
+
+    public void init()
+    {
+        super();
+        fNewFolder.text('_wzhNewFolder');
+        fServer.text('https://wzhServer.sharepoint.com');
+        fRootFolder.text('Shared Documents');
+    }
+
+    public boolean testSharePointConnection()
+    {
+        str src = fServer.text();
+        boolean vali…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create A D365 Data Entity]]></title>
+        <id>https://dynamics365musings.com/?p=2803</id>
+        <link href="https://dynamics365musings.com/create-a-d365-data-entity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=create-a-d365-data-entity"/>
+        <updated>2023-05-08T12:45:53.000Z</updated>
+        <summary type="html"><![CDATA[In this article, learn how to create a D365 Data Entity. Previously, you learned what a data entity is, and when they are used. In this lesson, walk through the steps of creating a data entity in Visual Studio. Then, see it within the Data Management workspace. Review Before learning how to create a D365... Continue Reading →
+The post How To Create A D365 Data Entity appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to link multiple data sources between each other]]></title>
         <id>1875</id>
