@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-10T01:15:25.344Z</updated>
+    <updated>2023-05-11T01:17:12.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #11]]></title>
+        <id>http://dynamicsax-fico.com/?p=5116</id>
+        <link href="https://dynamicsax-fico.com/2023/05/10/microsoft-bizapps-deutschland-podcast-11/"/>
+        <updated>2023-05-10T04:25:37.000Z</updated>
+        <summary type="html"><![CDATA[[German language podcast] Im neuesten Microsoft BizApps Deutschland Podcast sprechen wir Robin Rosengrün von der Energie Baden Württemberg (EnBW). Robin …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Functionality Similarities and Differences | Dynamics GP and Dynamics 365 Business Central]]></title>
         <id>https://www.encorebusiness.com/?p=56784</id>
@@ -185,6 +196,67 @@ new business... Read the full text.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Get quick access to your most-used knowledge articles]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:467dd215-73b0-485f-afa7-cb119bf69a87</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/get-quick-access-to-your-most-used-knowledge-articles"/>
+        <updated>2023-05-05T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you tired of constantly searching for the same knowledge articles in Dynamics 365 Customer Service? Say goodbye to wasting precious time and hello to the new favorite feature! 
+We are excited to announce a new knowledge management feature in Dynamics 365 Customer Service that allows you to mark knowledge articles as favorites. 
+With this new feature, you can easily save up to 50 knowledge articles that you frequently use as favorites. This allows you to access them quickly while you’re working on a case, without having to search for them every time. 
+To use this feature, your administrator will need to enable it and provide privileges to specific roles. Once enabled, you can easily mark an article as a favorite by selecting the heart icon next to it in the search results. 
+
+Using your …]]></summary>
+        <author>
+            <name>Mohit Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get quick access to your most-used knowledge articles]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/05/get-quick-access-to-your-most-used-knowledge-articles/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/05/get-quick-access-to-your-most-used-knowledge-articles/"/>
+        <updated>2023-05-05T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce a new feature in Dynamics 365 Customer Service that allows you to mark knowledge articles as favorites. 
+The post Get quick access to your most-used knowledge articles appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mohit Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating your Human Resources environment!]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3aa05b4e-421f-4e92-b792-1e6d456db206</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/migrating-your-human-resources-environment"/>
+        <updated>2023-05-05T16:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Have you tried migrating your Dynamics 365 Human Resources (D365 HR) environment yet? We announced in early December the general availability (GA) release of the automated tooling, for the lift and shift migration of your standalone Human Resources environment.  
+Albert Einstein said, "The measure of intelligence is the ability to change" and that is how we feel about the merged and improved Human Resources on the Dynamics 365 Finance and Operations infrastructure.  
+As part of the infrastructure merge, all capabilities of the Human Resources application have been made available in Dynamics 365 Finance and Operations (Finance and Operations) environments. Customers can migrate their Human Resources environments using the migration tooling that is available in Microsoft Dynamics Lifecycle S…]]></summary>
+        <author>
+            <name>Tulsi Jhaveri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating your Human Resources environment!]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/05/migrating-your-human-resources-environment/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/05/migrating-your-human-resources-environment/"/>
+        <updated>2023-05-05T16:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Have you tried migrating your Dynamics 365 Human Resources (D365 HR) environment yet? 
+The post Migrating your Human Resources environment!  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Tulsi Jhaveri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Sales process efficiency using sequence insights]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:247f1357-eb50-4cc9-870b-8f6d3269db0c</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/improve-sales-process-efficiency-using-sequence-insights"/>
+        <updated>2023-05-04T18:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Sequences in Dynamics 365 Sales is a valuable sales engagement tool for businesses looking to drive efficiency via standardized sales processes. When sellers engage with sequences, it's important to understand if they are supporting the process effectively. This is where sequence insights come into play.
+Sequence insights provide data on the performance of sequences and their steps. Businesses can use sequence insights to review and analyze the effectiveness of their current sequences by identifying bottlenecks, and take corrective measures. Also, they can update the wait times and steps to ensure that the overall process is efficient and working as intended.
+Additionally, sequence insights can help businesses identify best practices that are working well across the sales team. By analyzin…]]></summary>
+        <author>
+            <name>Vinay Deo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Improve Sales process efficiency using sequence insights]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/04/improve-sales-process-efficiency-using-sequence-insights/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/04/improve-sales-process-efficiency-using-sequence-insights/"/>
@@ -206,6 +278,17 @@ The post Improve Sales process efficiency using sequence insights appeared first
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Copilot at Gartner Supply Chain Symposium Xpo™︎ 2023]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:b6723e0b-de0a-45e6-9c2a-fdc217f0270b</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/microsoft-dynamics-365-copilot-at-gartner-supply-chain-symposium-xpo-2023"/>
+        <updated>2023-05-04T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Achieving supply chain excellence today requires orchestrating complex global operations with agility, adapting to rapid and continuous change, and navigating economic headwinds and ongoing disruptions. Yet only 22 percent of companies have a proactive supply chain network, meaning disruptions or shifts in supply or demand can quickly escalate into significant issues.1 To truly deliver a proactive, resilient supply chain, Chief Supply Chain Officers (CSCOs) need a clear digital transformation strategy that builds on top of existing investments in data to uncover new insights. At the same time, CSCOs must enable the adoption of new productivity tools, such as generative AI, to help organizations rethink the status quo.  
+At Microsoft, we recently introduced Microsoft Dynamics 365 Copilot to…]]></summary>
+        <author>
+            <name>Alexis Goodrich</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft Dynamics 365 Copilot at Gartner Supply Chain Symposium Xpo™ 2023]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/04/microsoft-dynamics-365-copilot-at-gartner-supply-chain-symposium-xpo-2023/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/04/microsoft-dynamics-365-copilot-at-gartner-supply-chain-symposium-xpo-2023/"/>
@@ -214,6 +297,36 @@ The post Improve Sales process efficiency using sequence insights appeared first
 The post Microsoft Dynamics 365 Copilot at Gartner Supply Chain Symposium Xpo™ 2023 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Alexis Goodrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intraday insights are deprecated and replaced by real-time analytics reports]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e90bdf40-4e38-4b83-ac39-db5dc68d2b97</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/intraday-insights-are-deprecated-and-replaced-by-real-time-analytics-reports"/>
+        <updated>2023-05-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Real-time analytics reports provide visibility into the overall support performance of an organization, so supervisors can monitor key operational metrics, make course corrections at the right time, and keep service levels high.
+Starting Monday, May 1, 2023, we are deprecating Microsoft Dynamics 365 Intraday Insights for Omnichannel for Customer Service reports and encouraging customers to move to Real-Time Analytics reports. This change is intended to ensure that our customers use our latest and best capabilities when it comes to real-time reporting.
+Key dates
+
+Disclosure date: April 28, 2023
+We sent communications to affected customers that we are planning to deprecate the Intraday Insights for Omnichannel for Customer Service.
+
+Deprecation date: May 1, 2023
+After this date, we are no longer going to invest in Intraday Insights for Omnichannel for Customer Service.
+
+End of support: October 31, 2023
+After this date, we are no longer going to support the Intraday Insights for Omnichannel for Customer Service.
+
+End of life: April 30, 2024
+After this date, Intraday Insights for Omnichannel for Customer Service will be taken out of service.
+
+Next Steps
+We strongly encourage you to move to Real-time analytics reports in Omnichannel for Customer Service. We will be focusing our future developments on them, and these reports are our recommended solution for all Dynamics 365 Customer Service real-time reporting needs.
+Real-time analytics reports provide information about the health and key performance indicators (KPIs) for your organization. Supervisors can use real-time metrics and review work distribution to adjust agent allocation. They can also drill down into agents’ ongoing conversations, view the customer sentiment, and join the conversation if necessary. 
+Please contact your Success Manager, FastTrack representative, or Microsoft Support if you have any additional questions.
+The post Intraday insights are deprecated and replaced by real-time analytics reports appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Sukesh Kaul</name>
         </author>
     </entry>
     <entry>
@@ -19646,16 +19759,6 @@ setup attribute types...
 (read more)]]></summary>
         <author>
             <name>andreasraithel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integration tips: SSL, TLS, Certificates and HTTPS]]></title>
-        <id>https://devblog.sertanyaman.com/?p=3541</id>
-        <link href="https://devblog.sertanyaman.com/2021/05/10/integration-tips-ssl-tls-certificates-and-https/"/>
-        <updated>2021-05-10T19:17:24.000Z</updated>
-        <summary type="html"><![CDATA[In this article I will explain you the very basics of SSL/TLS which is widely used in today’s secure connection methods for web browsing, APIs, services and IOT. Although platforms and SDKs often use SSL/TLS behind the scenes without requiring you to implement anything, it is quite essential to have this basic knowledge to keep … Continue reading Integration tips: SSL, TLS, Certificates and HTTPS]]></summary>
-        <author>
-            <name>Tayfun Sertan Yaman</name>
         </author>
     </entry>
 </feed>
