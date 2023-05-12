@@ -5208,6 +5208,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/10/boost-your-sales-business-with-smart-organization-charts/",
+          "author": "Revathi Sankar",
+          "description": "Organization charts enable sellers to better understand their customers' organizational structures and identify key decision-makers.\nThe post Boost your sales business with smart organization charts appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/10/boost-your-sales-business-with-smart-organization-charts/",
+          "publishedOn": "2023-05-10T17:10:00.000Z",
+          "wordCount": 2436,
+          "title": "Boost your sales business with smart organization charts",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/CLO22_TechOffice_022-1024x794.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/05/get-quick-access-to-your-most-used-knowledge-articles/",
           "author": "Mohit Shukla",
           "description": "We are excited to announce a new feature in Dynamics 365 Customer Service that allows you to mark knowledge articles as favorites. \nThe post Get quick access to your most-used knowledge articles appeared first on Microsoft Dynamics 365 Blog.",
@@ -8313,6 +8323,16 @@
       "feedUrl": "https://d365cliffsnotes.com/rss.xml",
       "siteUrl": "https://d365cliffsnotes.com",
       "articles": [
+        {
+          "id": "https://d365cliffsnotes.com/should-you-learn-cds-vs-standard-public-data-entities-implementation-approach-first",
+          "author": "Rakesh Darge",
+          "description": "Let's look at some stats.\nSo you want to get into integration between Dynamics 365 CE or Custom Power Apps and Dynamics 365 FO. The question is, which type of Public Data entities are to be used from Dynamics365 FO?\nAs someone who's working on a list of integration approaches such as\n1. Dual-write\n2. Data integrator\n3. Connector\n4. API\nShould I use Customers V2, Customers V3, or Sales Quotation Header CDS entity? What is the difference between these entities and tables?\nIt is always tricky to make decisions about which data entity to be used for the above-mentioned integration approaches, read on and I'll give you my thoughts.\nIf you deep dive more into available Dynamics 365 FO Data entities whether named with CDS or not under the hood it is connected with business transactions or master …",
+          "link": "https://d365cliffsnotes.com/should-you-learn-cds-vs-standard-public-data-entities-implementation-approach-first",
+          "publishedOn": "2023-05-11T18:19:19.000Z",
+          "wordCount": 5440,
+          "title": "Should You Learn CDS vs. Standard public data entities implementation approach First?",
+          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1683828463589%2F1f67bc2a-0269-4915-bd9b-b20aaa939341.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
+        },
         {
           "id": "https://d365cliffsnotes.com/learn-how-to-troubleshoot-company-records-issue-in-dual-write",
           "author": "Rakesh Darge",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-11T01:17:12.221Z</updated>
+    <updated>2023-05-12T01:16:49.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Should You Learn CDS vs. Standard public data entities implementation approach First?]]></title>
+        <id>https://d365cliffsnotes.com/should-you-learn-cds-vs-standard-public-data-entities-implementation-approach-first</id>
+        <link href="https://d365cliffsnotes.com/should-you-learn-cds-vs-standard-public-data-entities-implementation-approach-first"/>
+        <updated>2023-05-11T18:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Let's look at some stats.
+So you want to get into integration between Dynamics 365 CE or Custom Power Apps and Dynamics 365 FO. The question is, which type of Public Data entities are to be used from Dynamics365 FO?
+As someone who's working on a list of integration approaches such as
+1. Dual-write
+2. Data integrator
+3. Connector
+4. API
+Should I use Customers V2, Customers V3, or Sales Quotation Header CDS entity? What is the difference between these entities and tables?
+It is always tricky to make decisions about which data entity to be used for the above-mentioned integration approaches, read on and I'll give you my thoughts.
+If you deep dive more into available Dynamics 365 FO Data entities whether named with CDS or not under the hood it is connected with business transactions or master …]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost your sales business with smart organization charts]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/10/boost-your-sales-business-with-smart-organization-charts/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/10/boost-your-sales-business-with-smart-organization-charts/"/>
+        <updated>2023-05-10T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Organization charts enable sellers to better understand their customers' organizational structures and identify key decision-makers.
+The post Boost your sales business with smart organization charts appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Revathi Sankar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #11]]></title>
         <id>http://dynamicsax-fico.com/?p=5116</id>
