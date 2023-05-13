@@ -2074,6 +2074,16 @@
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:089c7a9b-d3b0-479d-bc80-f8839edb85d5",
+          "author": "Revathi Sankar",
+          "description": "Organization charts enable sellers to better understand their customers’ organizational structures and identify key decision-makers. This information helps sellers develop and execute targeted sales strategies, improve their sales effectiveness, and build stronger relationships with their customers. Additionally, having an org chart in a CRM system helps improve collaboration among sales teams and improves overall communication and coordination with the customer’s organization.\nWith our new organization charts, you can build your entire org chart with ease and precision!\nCreating organization charts made easy\nThe new feature in Dynamics 365 Sales makes building an organizational chart easier and more efficient, as users can create entire org charts with simple drag-and-drop actions. The li…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/boost-your-sales-business-with-smart-organization-charts",
+          "publishedOn": "2023-05-10T17:10:00.000Z",
+          "wordCount": 4303,
+          "title": "Boost your sales business with smart organization charts",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:467dd215-73b0-485f-afa7-cb119bf69a87",
           "author": "Mohit Shukla",
           "description": "Are you tired of constantly searching for the same knowledge articles in Dynamics 365 Customer Service? Say goodbye to wasting precious time and hello to the new favorite feature! \nWe are excited to announce a new knowledge management feature in Dynamics 365 Customer Service that allows you to mark knowledge articles as favorites. \nWith this new feature, you can easily save up to 50 knowledge articles that you frequently use as favorites. This allows you to access them quickly while you’re working on a case, without having to search for them every time. \nTo use this feature, your administrator will need to enable it and provide privileges to specific roles. Once enabled, you can easily mark an article as a favorite by selecting the heart icon next to it in the search results. \n\nUsing your …",
@@ -3623,6 +3633,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2587",
+          "author": "AnithaEswaran",
+          "description": "D365FO provides two primary sets of APIs, Recurring Integration APIs & Data Management Platform (DMF) package APIs, to support file based integration scenarios. These APIs allow DMF data files as well as data projects to be imported and exported from … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/05/12/import-using-data-management-package-rest-api-with-logic-apps/",
+          "publishedOn": "2023-05-12T11:24:21.000Z",
+          "wordCount": 3835,
+          "title": "Import using Data Management package REST API with logic apps",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/05/image-17.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=2573",
           "author": "AnithaEswaran",
@@ -8600,6 +8620,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5124",
+          "author": "Ludwig Reinhard",
+          "description": "[German language podcast] Im neuesten Microsoft BizApps Podcast sprechen wir mit Juergen Bailey, der als Global Application Director bei Britax …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2023/05/12/microsoft-bizapps-deutschland-podcast-12/",
+          "publishedOn": "2023-05-12T04:39:24.000Z",
+          "wordCount": 2748,
+          "title": "Microsoft BizApps Deutschland Podcast #12",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/05/titlev1britax.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5116",
           "author": "Ludwig Reinhard",

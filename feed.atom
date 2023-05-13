@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-12T01:16:49.158Z</updated>
+    <updated>2023-05-13T01:14:45.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Import using Data Management package REST API with logic apps]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2587</id>
+        <link href="https://anithasantosh.wordpress.com/2023/05/12/import-using-data-management-package-rest-api-with-logic-apps/"/>
+        <updated>2023-05-12T11:24:21.000Z</updated>
+        <summary type="html"><![CDATA[D365FO provides two primary sets of APIs, Recurring Integration APIs & Data Management Platform (DMF) package APIs, to support file based integration scenarios. These APIs allow DMF data files as well as data projects to be imported and exported from … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #12]]></title>
+        <id>http://dynamicsax-fico.com/?p=5124</id>
+        <link href="https://dynamicsax-fico.com/2023/05/12/microsoft-bizapps-deutschland-podcast-12/"/>
+        <updated>2023-05-12T04:39:24.000Z</updated>
+        <summary type="html"><![CDATA[[German language podcast] Im neuesten Microsoft BizApps Podcast sprechen wir mit Juergen Bailey, der als Global Application Director bei Britax …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should You Learn CDS vs. Standard public data entities implementation approach First?]]></title>
         <id>https://d365cliffsnotes.com/should-you-learn-cds-vs-standard-public-data-entities-implementation-approach-first</id>
@@ -23,6 +44,19 @@ It is always tricky to make decisions about which data entity to be used for the
 If you deep dive more into available Dynamics 365 FO Data entities whether named with CDS or not under the hood it is connected with business transactions or master …]]></summary>
         <author>
             <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost your sales business with smart organization charts]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:089c7a9b-d3b0-479d-bc80-f8839edb85d5</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/boost-your-sales-business-with-smart-organization-charts"/>
+        <updated>2023-05-10T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Organization charts enable sellers to better understand their customers’ organizational structures and identify key decision-makers. This information helps sellers develop and execute targeted sales strategies, improve their sales effectiveness, and build stronger relationships with their customers. Additionally, having an org chart in a CRM system helps improve collaboration among sales teams and improves overall communication and coordination with the customer’s organization.
+With our new organization charts, you can build your entire org chart with ease and precision!
+Creating organization charts made easy
+The new feature in Dynamics 365 Sales makes building an organizational chart easier and more efficient, as users can create entire org charts with simple drag-and-drop actions. The li…]]></summary>
+        <author>
+            <name>Revathi Sankar</name>
         </author>
     </entry>
     <entry>
