@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-13T01:14:45.169Z</updated>
+    <updated>2023-05-14T01:21:15.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -19778,51 +19778,6 @@ or you can duplicate any standard entity. I created AutomationDataEntity. Right-
         <summary type="html"><![CDATA[We are very pleased to announce the public preview of our latest innovation: Microsoft Dynamics 365 Intelligent Order Management that enables organizations to consistently deliver on their order promi...(read more)]]></summary>
         <author>
             <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Import data package using Power Automate and Data management package REST API]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3346505a-eb5b-4274-b713-b0a7593938fd</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/posts/import-data-package-using-power-automate-and-data-management-package-rest-api"/>
-        <updated>2021-05-14T05:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Read complete post here(read more)]]></summary>
-        <author>
-            <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Finance & SCM Tip: Setup an alternate email ID for workflow notifications for your users]]></title>
-        <id>http://sandeepchaudhuryd365.com/?p=6118</id>
-        <link href="https://sandeepchaudhuryd365.com/2021/05/13/dynamics-365-finance-scm-tip-setup-an-alternate-email-id-for-workflow-notifications-for-your-users/"/>
-        <updated>2021-05-13T14:58:56.000Z</updated>
-        <summary type="html"><![CDATA[There is a new feature under the Feature management area that you can enable to setup an email ID for your users dedicated for workflow related notifications in D365 Finance and Supply Chain. When you enable this new feature, you will see a new field named “Alternate email” on the User Options page under the … Continue reading Dynamics 365 Finance & SCM Tip: Setup an alternate email ID for workflow notifications for your users]]></summary>
-        <author>
-            <name>Sandeep Chaudhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Finance Tip: Did you know you can now apply cash advances to individual expense report lines?]]></title>
-        <id>http://sandeepchaudhuryd365.com/?p=6103</id>
-        <link href="https://sandeepchaudhuryd365.com/2021/05/13/dynamics-365-finance-tip-did-you-know-you-can-now-apply-cash-advances-to-individual-expense-report-lines/"/>
-        <updated>2021-05-13T14:18:53.000Z</updated>
-        <summary type="html"><![CDATA[Here is a quick tip on a new feature in the Expense Management module of Dynamics 365 Finance introduced in version 10.0.17. If you give cash advances to your employees for expenses they might incur(Office or travel related expenses), they now have better control over applying specific cash advances(s) against each line of their expense … Continue reading Dynamics 365 Finance Tip: Did you know you can now apply cash advances to individual expense report lines?]]></summary>
-        <author>
-            <name>Sandeep Chaudhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare multilingual Product Attributes using googletranslate()]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d3f08bc7-b031-4a3f-8cfc-1308a99848ac</id>
-        <link href="https://community.dynamics.com/ax/b/moredatamoresuccess/posts/prepare-multilingual-product-attributes-using-googletranslate"/>
-        <updated>2021-05-13T13:22:38.000Z</updated>
-        <summary type="html"><![CDATA[Recently I was requested to support a customer for the setup of product attributes. As this is a very common task and not as complicated I told him: 
-
-keep all attributes unique
-setup attribute types...
-
-(read more)]]></summary>
-        <author>
-            <name>andreasraithel</name>
         </author>
     </entry>
 </feed>

@@ -7872,26 +7872,6 @@
           "wordCount": 5138,
           "title": "Workflow work item approvals in D365 F&O using Microsoft Power Automate/Flow",
           "imageUrl": "https://sandeepchaudhury.files.wordpress.com/2021/12/pexels-photo-459654.jpeg?w=1200"
-        },
-        {
-          "id": "http://sandeepchaudhuryd365.com/?p=6118",
-          "author": "Sandeep Chaudhury",
-          "description": "There is a new feature under the Feature management area that you can enable to setup an email ID for your users dedicated for workflow related notifications in D365 Finance and Supply Chain. When you enable this new feature, you will see a new field named “Alternate email” on the User Options page under the … Continue reading Dynamics 365 Finance & SCM Tip: Setup an alternate email ID for workflow notifications for your users",
-          "link": "https://sandeepchaudhuryd365.com/2021/05/13/dynamics-365-finance-scm-tip-setup-an-alternate-email-id-for-workflow-notifications-for-your-users/",
-          "publishedOn": "2021-05-13T14:58:56.000Z",
-          "wordCount": 4884,
-          "title": "Dynamics 365 Finance & SCM Tip: Setup an alternate email ID for workflow notifications for your users",
-          "imageUrl": "https://sandeepchaudhury.files.wordpress.com/2021/05/pexels-photo-7877015.jpeg?w=1200"
-        },
-        {
-          "id": "http://sandeepchaudhuryd365.com/?p=6103",
-          "author": "Sandeep Chaudhury",
-          "description": "Here is a quick tip on a new feature in the Expense Management module of Dynamics 365 Finance introduced in version 10.0.17. If you give cash advances to your employees for expenses they might incur(Office or travel related expenses), they now have better control over applying specific cash advances(s) against each line of their expense … Continue reading Dynamics 365 Finance Tip: Did you know you can now apply cash advances to individual expense report lines?",
-          "link": "https://sandeepchaudhuryd365.com/2021/05/13/dynamics-365-finance-tip-did-you-know-you-can-now-apply-cash-advances-to-individual-expense-report-lines/",
-          "publishedOn": "2021-05-13T14:18:53.000Z",
-          "wordCount": 4846,
-          "title": "Dynamics 365 Finance Tip: Did you know you can now apply cash advances to individual expense report lines?",
-          "imageUrl": "https://sandeepchaudhury.files.wordpress.com/2021/05/pexels-photo-6266445.jpeg?w=1200"
         }
       ]
     },
@@ -9442,16 +9422,6 @@
           "publishedOn": "2022-09-19T16:27:38.000Z",
           "wordCount": 3889,
           "title": "Ensure relieble Releases on Dynamics 365 FinOps",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d3f08bc7-b031-4a3f-8cfc-1308a99848ac",
-          "author": "andreasraithel",
-          "description": "Recently I was requested to support a customer for the setup of product attributes. As this is a very common task and not as complicated I told him: \n\nkeep all attributes unique\nsetup attribute types...\n\n(read more)",
-          "link": "https://community.dynamics.com/ax/b/moredatamoresuccess/posts/prepare-multilingual-product-attributes-using-googletranslate",
-          "publishedOn": "2021-05-13T13:22:38.000Z",
-          "wordCount": 1336,
-          "title": "Prepare multilingual Product Attributes using googletranslate()",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -11430,16 +11400,6 @@
           "publishedOn": "2021-06-05T05:22:00.000Z",
           "wordCount": 3384,
           "title": "Using Power Apps to upload document attachments in F&O",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:3346505a-eb5b-4274-b713-b0a7593938fd",
-          "author": "Sukrut Parab",
-          "description": "Read complete post here(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/posts/import-data-package-using-power-automate-and-data-management-package-rest-api",
-          "publishedOn": "2021-05-14T05:10:00.000Z",
-          "wordCount": 3391,
-          "title": "Import data package using Power Automate and Data management package REST API",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
