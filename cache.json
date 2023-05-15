@@ -5228,6 +5228,56 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/work-order-status-concepts-system-status-and-substatus/",
+          "author": "Jason Cohen",
+          "description": "Work orders in Dynamics 365 Field Service have a column called System Status which helps organizations manage their field service processes efficiently. \nThe post Status-Driven Success: Managing Your Work Order Lifecycle through Statuses – Part 1   appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/work-order-status-concepts-system-status-and-substatus/",
+          "publishedOn": "2023-05-12T17:31:00.000Z",
+          "wordCount": 3072,
+          "title": "Status-Driven Success: Managing Your Work Order Lifecycle through Statuses – Part 1",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/CLO22_Factory_012-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/status-driven-success-managing-your-work-order-lifecycle-through-statuses-part-2/",
+          "author": "Jason Cohen",
+          "description": "By mapping their custom Booking Status values to the Field Service Status values, organizations ensure seamless integration between their unique processes and the overall Field Service solution.\nThe post Status-Driven Success: Managing Your Work Order Lifecycle through Statuses – Part 2   appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/status-driven-success-managing-your-work-order-lifecycle-through-statuses-part-2/",
+          "publishedOn": "2023-05-12T17:30:28.000Z",
+          "wordCount": 2745,
+          "title": "Status-Driven Success: Managing Your Work Order Lifecycle through Statuses – Part 2",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/MicrosoftTeams-image-13-1024x683.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/status-driven-success-managing-your-work-order-lifecycle-through-statuses-part-3/",
+          "author": "Jason Cohen",
+          "description": "Start harnessing the power of Dynamics 365 Field Service's adaptable status functionality today to unlock your organization's full potential in managing work orders and bookings.\nThe post Status-Driven Success: Managing Your Work Order Lifecycle through Statuses – Part 3   appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/status-driven-success-managing-your-work-order-lifecycle-through-statuses-part-3/",
+          "publishedOn": "2023-05-12T17:29:30.000Z",
+          "wordCount": 3064,
+          "title": "Status-Driven Success: Managing Your Work Order Lifecycle through Statuses – Part 3",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/CLO22_Retail_015-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/printing-labels-using-external-service-with-dynamics-365-warehouse-management/",
+          "author": "Galyna Fedorova",
+          "description": "Barcodes and shipping labels are essential components in the supply chain landscape. They play a vital role in ensuring accurate inventory management, product tracking, and streamlining processes. Shipping labels are particularly important for navigating shipments complex global supply chains while maintaining end-to-end traceability. QR codes have also become a valuable tool for companies to engage customers and track their products worldwide.\nThe post Printing Labels Using External Service with Dynamics 365 – Warehouse Management appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/printing-labels-using-external-service-with-dynamics-365-warehouse-management/",
+          "publishedOn": "2023-05-12T15:43:12.000Z",
+          "wordCount": 2299,
+          "title": "Printing Labels Using External Service with Dynamics 365 – Warehouse Management",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/CLO18_manufacturing_008-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/12/how-copilot-in-microsoft-dynamics-365-and-power-platform-delivers-enterprise-ready-ai-built-for-security-and-privacy/",
+          "author": "Walter Sun",
+          "description": "With the introduction of generative AI across Microsoft business applicationsincluding Microsoft Dynamics 365, Viva Sales, and Power Platforminteractions with AI across business roles and processes will become second nature. With Copilot, Microsoft Dynamics 365 and Power Platform introduce a new way to generate ideas and content drafts, and methods to access and organize information across the business.\nThe post How Copilot in Microsoft Dynamics 365 and Power Platform delivers enterprise-ready AI built for security and privacy appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/12/how-copilot-in-microsoft-dynamics-365-and-power-platform-delivers-enterprise-ready-ai-built-for-security-and-privacy/",
+          "publishedOn": "2023-05-12T15:00:00.000Z",
+          "wordCount": 3667,
+          "title": "How Copilot in Microsoft Dynamics 365 and Power Platform delivers enterprise-ready AI built for security and privacy",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/04/Ofc17_Meeting3_001_1200.png"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/10/boost-your-sales-business-with-smart-organization-charts/",
           "author": "Revathi Sankar",
           "description": "Organization charts enable sellers to better understand their customers' organizational structures and identify key decision-makers.\nThe post Boost your sales business with smart organization charts appeared first on Microsoft Dynamics 365 Blog.",
@@ -6372,6 +6422,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2556",
+          "author": "Saurabh Bharti",
+          "description": "In this blog series we will see how sale return works, what is importance or disposition code from finance and inventory. Disposition Action: For each disposition code that you define, you must select a disposition action. The disposition action determines the physical and financial implications of the disposition codes. For example, the disposition action determines […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/14/disposition-code-for-sales-order-in-microsoft-dynamics-365-finance-and-operations-part-1/",
+          "publishedOn": "2023-05-14T14:30:53.000Z",
+          "wordCount": 2764,
+          "title": "Disposition code for sales order in Microsoft Dynamics 365 finance and operations: Part-1",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/0-1.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2541",
           "author": "Saurabh Bharti",
           "description": "Many times, we have requirement to auto trigger email for some documents like Purchase order confirmation, Sales order invoices, free text invoices etc…So to do this we can use print management functionality of Microsoft dynamics 365 finance and operation to setup printing method as email and run the batch job for specific task. Print management […]",
@@ -6698,6 +6758,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2556",
+          "author": "Saurabh Bharti",
+          "description": "In this blog series we will see how sale return works, what is importance or disposition code from finance and inventory. Disposition Action: For each disposition code that you define, you must select a disposition action. The disposition action determines the physical and financial implications of the disposition codes. For example, the disposition action determines […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/14/disposition-code-for-sales-order-in-microsoft-dynamics-365-finance-and-operations-part-1/",
+          "publishedOn": "2023-05-14T14:30:53.000Z",
+          "wordCount": 2764,
+          "title": "Disposition code for sales order in Microsoft Dynamics 365 finance and operations: Part-1",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/0-1.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2541",
           "author": "Saurabh Bharti",
