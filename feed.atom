@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-15T01:19:42.974Z</updated>
+    <updated>2023-05-16T01:18:47.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Form Fields Populated By Data Methods in D365FO]]></title>
+        <id>https://alexdmeyer.com/?p=2690</id>
+        <link href="https://alexdmeyer.com/2023/05/15/how-to-secure-form-fields-populated-by-data-methods-in-d365fo/"/>
+        <updated>2023-05-15T15:06:21.000Z</updated>
+        <summary type="html"><![CDATA[I have written in the past about using field level security to help secure sensitive information within your D365FO environment, but what if the field you want to secure doesn’t correlate directly to a SQL table field and instead is populated by a data method? Let’s see how you can still secure this!   Scenario […]
+The post How to Secure Form Fields Populated By Data Methods in D365FO appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Million Moments of Gratitude: Celebrating Our Milestone Together]]></title>
+        <id>http://kurthatlevik.com/?p=4479</id>
+        <link href="https://kurthatlevik.com/2023/05/15/a-million-moments-of-gratitude-celebrating-our-milestone-together/"/>
+        <updated>2023-05-15T12:41:38.000Z</updated>
+        <summary type="html"><![CDATA[As I sit down to pen this message today, my heart brims with a sense of joy and humility. Why, you may wonder? I’ve just crossed an incredible milestone that I scarcely dared to dream of when we embarked on this journey. My blog, my shared space of learning and exchange, is right now surpassing … Continue reading A Million Moments of Gratitude: Celebrating Our Milestone Together]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vendor Collaboration: Scheduling the PO auto-confirmation batch job]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:366f3021-68e3-44ba-9ad2-f5722427e243</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/vendor-collaboration-scheduling-the-auto-confirmation-batch-job"/>
+        <updated>2023-05-15T10:36:19.000Z</updated>
+        <summary type="html"><![CDATA[1. Business Requirement
+In the vendor collaboration feature organization wants to PO auto-confirm when the vendor accepts the Purchase Order from its portal without any amendment so the organization does need not to confirm manually. This functi...(read more)]]></summary>
+        <author>
+            <name>Deepak Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Public Preview of canvas built-in offline]]></title>
+        <id>announcing-public-preview-of-canvas-built-in-offline</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-canvas-built-in-offline/"/>
+        <updated>2023-05-15T07:42:00.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the Public Preview of the canvas offline feature for mobile application on iOS, Android and Windows devices. With this experimental feature, you can easily enable your Dataverse-centric canvas Power Apps for offline scenarios with simple switches and a simple canvas control. There is no need to use Power Fx SaveData/LoadData…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delete Actions in D365 FO]]></title>
+        <id>https://www.d365snippets.com/2023/05/delete-actions-in-dynamics-365-finance-and-operations.html</id>
+        <link href="https://www.d365snippets.com/2023/05/delete-actions-in-dynamics-365-finance-and-operations.html"/>
+        <updated>2023-05-15T03:51:00.001Z</updated>
+        <summary type="html"><![CDATA[When a Delete Action comes into the picture? Normally delete actions come in to picture when a user is trying to delete a database record. Delete actions are used to maintain the data integrity and consistency of the database. At the time of development, a developer has to take care of the delete actions to implement in the project. Then"How is the database consistency maintained?".
+
+
+
+In Dynamics 365 Finance and Operations (D365 FO), the "Deleted" action refers to the deletion of a record from a table in the database.
+When a record is deleted, it is permanently removed from the system and cannot be recovered. Therefore, it is important to exercise caution when performing this action and ensure that it is necessary and appropriate to do so.
+In D365 FO, the Deleted action can be performed u…]]></summary>
+        <author>
+            <name>D365 Snippets</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disposition code for sales order in Microsoft Dynamics 365 finance and operations: Part-1]]></title>
         <id>http://exploredynamics365.home.blog/?p=2556</id>

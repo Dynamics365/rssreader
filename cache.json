@@ -3024,6 +3024,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2690",
+          "author": "Alex",
+          "description": "I have written in the past about using field level security to help secure sensitive information within your D365FO environment, but what if the field you want to secure doesn’t correlate directly to a SQL table field and instead is populated by a data method? Let’s see how you can still secure this!   Scenario […]\nThe post How to Secure Form Fields Populated By Data Methods in D365FO appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/05/15/how-to-secure-form-fields-populated-by-data-methods-in-d365fo/",
+          "publishedOn": "2023-05-15T15:06:21.000Z",
+          "wordCount": 4228,
+          "title": "How to Secure Form Fields Populated By Data Methods in D365FO",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/05/1a.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2670",
           "author": "Alex",
           "description": "The Power Platform is an extremely powerful and versatile solution for businesses. Normally to use Power Apps you need an Azure AD account (aka work account) but what if you want to sign up for Power Apps with a Microsoft account (aka a ‘non work account’)? Let’s look at how this can be done! Note: […]\nThe post How to Sign Up for Power Apps With Microsoft Account appeared first on Alex Meyer.",
@@ -4554,6 +4564,16 @@
       "feedUrl": "https://kurthatlevik.com/feed/",
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
+        {
+          "id": "http://kurthatlevik.com/?p=4479",
+          "author": "Kurt Hatlevik",
+          "description": "As I sit down to pen this message today, my heart brims with a sense of joy and humility. Why, you may wonder? I’ve just crossed an incredible milestone that I scarcely dared to dream of when we embarked on this journey. My blog, my shared space of learning and exchange, is right now surpassing … Continue reading A Million Moments of Gratitude: Celebrating Our Milestone Together",
+          "link": "https://kurthatlevik.com/2023/05/15/a-million-moments-of-gratitude-celebrating-our-milestone-together/",
+          "publishedOn": "2023-05-15T12:41:38.000Z",
+          "wordCount": 3013,
+          "title": "A Million Moments of Gratitude: Celebrating Our Milestone Together",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/05/051523_1241_amillionmom1.png"
+        },
         {
           "id": "http://kurthatlevik.com/?p=4473",
           "author": "Kurt Hatlevik",
@@ -7095,6 +7115,16 @@
       "feedUrl": "https://d365snippets.com/feeds/posts/default",
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
+        {
+          "id": "https://www.d365snippets.com/2023/05/delete-actions-in-dynamics-365-finance-and-operations.html",
+          "author": null,
+          "description": "When a Delete Action comes into the picture? Normally delete actions come in to picture when a user is trying to delete a database record. Delete actions are used to maintain the data integrity and consistency of the database. At the time of development, a developer has to take care of the delete actions to implement in the project. Then\"How is the database consistency maintained?\".\n\n\n\nIn Dynamics 365 Finance and Operations (D365 FO), the \"Deleted\" action refers to the deletion of a record from a table in the database.\nWhen a record is deleted, it is permanently removed from the system and cannot be recovered. Therefore, it is important to exercise caution when performing this action and ensure that it is necessary and appropriate to do so.\nIn D365 FO, the Deleted action can be performed u…",
+          "link": "https://www.d365snippets.com/2023/05/delete-actions-in-dynamics-365-finance-and-operations.html",
+          "publishedOn": "2023-05-15T03:51:00.001Z",
+          "wordCount": 10544,
+          "title": "Delete Actions in D365 FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK8-kFL2RE96DFcLH-DnQbkl56R_Mc49A5W59PkDiKT7USit3zGo2GVYIV9SIKUgueI_pq1zrJk3D4EvoXnF5D-OTRhRCVIO0h2dZKsTDEdb1VypHt6ICt2PrqCBjCNXoAOeaR267ICNdV79UM5rAKaG24i2DCEU9ZSl8FaxmBP9uWZd14IaeETeGu/s16000/delete%20action%20in%20d365%20fo%20delete%20action%20in%20dynamics%20365%20finance%20and%20operations.jpg"
+        },
         {
           "id": "https://www.d365snippets.com/2023/04/calculate-totals-of-po-using-xpp-in-d365fo.html",
           "author": null,
@@ -11537,6 +11567,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:366f3021-68e3-44ba-9ad2-f5722427e243",
+          "author": "Deepak Singh",
+          "description": "1. Business Requirement\nIn the vendor collaboration feature organization wants to PO auto-confirm when the vendor accepts the Purchase Order from its portal without any amendment so the organization does need not to confirm manually. This functi...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/vendor-collaboration-scheduling-the-auto-confirmation-batch-job",
+          "publishedOn": "2023-05-15T10:36:19.000Z",
+          "wordCount": 3831,
+          "title": "Vendor Collaboration: Scheduling the PO auto-confirmation batch job",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:b651baab-2f5f-45d8-a9b8-024ff9fb44d4",
           "author": "Deepak Singh",
           "description": "Business Scenario\nCompany ABC (lessee) has taken Mercedese on lease for 10 years on annual lease payment. Lease details are as below:\n\n\n\nDiscounted Rate/Interest Rate\n12%\n\n\nLife of Asset/lease period in months\n120\n\n\nAnnual Payment\n 2,00,000...(read more)",
@@ -12364,6 +12404,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-public-preview-of-canvas-built-in-offline",
+          "author": null,
+          "description": "We are pleased to announce the Public Preview of the canvas offline feature for mobile application on iOS, Android and Windows devices. With this experimental feature, you can easily enable your Dataverse-centric canvas Power Apps for offline scenarios with simple switches and a simple canvas control. There is no need to use Power Fx SaveData/LoadData…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-canvas-built-in-offline/",
+          "publishedOn": "2023-05-15T07:42:00.000Z",
+          "wordCount": 2051,
+          "title": "Announcing Public Preview of canvas built-in offline",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "request-licenses-for-app-users",
           "author": null,
