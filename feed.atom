@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-16T01:18:47.477Z</updated>
+    <updated>2023-05-17T01:19:04.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cross-company data sharing – D365F&O]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2610</id>
+        <link href="https://anithasantosh.wordpress.com/2023/05/16/cross-company-data-sharing-d365fo/"/>
+        <updated>2023-05-16T17:47:10.000Z</updated>
+        <summary type="html"><![CDATA[In D365F&O, if there are more than one legal entity ,there may be scenarios where both companies use the same set of data and they always need to be synchronized(CUD operations). For example, if both companies use the same list … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DO YOU KNOW … How to calculate the NPV of a project in D365ProjectOperations?]]></title>
+        <id>http://dynamicsax-fico.com/?p=5009</id>
+        <link href="https://dynamicsax-fico.com/2023/05/16/do-you-know-how-to-calculate-the-npv-of-a-project-in-d365projectoperations/"/>
+        <updated>2023-05-16T16:24:18.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vendor Collaboration Setup]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f8cfa4d0-a2c0-4e03-951d-faab70edd663</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/vendor-collaboration-contact-and-user-creation"/>
+        <updated>2023-05-16T15:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Vendor Collaboration functionality enables vendor to view the Request for Quotations (RFQ) and Purchase Orders (POs) created by organization. Vendor can directly participate in the RFQ bid raised by company and review and accept the POs....(read more)]]></summary>
+        <author>
+            <name>Deepak Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Secure Form Fields Populated By Data Methods in D365FO]]></title>
         <id>https://alexdmeyer.com/?p=2690</id>

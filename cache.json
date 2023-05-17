@@ -3644,6 +3644,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2610",
+          "author": "AnithaEswaran",
+          "description": "In D365F&O, if there are more than one legal entity ,there may be scenarios where both companies use the same set of data and they always need to be synchronized(CUD operations). For example, if both companies use the same list … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/05/16/cross-company-data-sharing-d365fo/",
+          "publishedOn": "2023-05-16T17:47:10.000Z",
+          "wordCount": 4260,
+          "title": "Cross-company data sharing – D365F&O",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/05/image-37.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2587",
           "author": "AnithaEswaran",
           "description": "D365FO provides two primary sets of APIs, Recurring Integration APIs & Data Management Platform (DMF) package APIs, to support file based integration scenarios. These APIs allow DMF data files as well as data projects to be imported and exported from … Continue reading →",
@@ -8701,6 +8711,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5009",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/05/16/do-you-know-how-to-calculate-the-npv-of-a-project-in-d365projectoperations/",
+          "publishedOn": "2023-05-16T16:24:18.000Z",
+          "wordCount": 2662,
+          "title": "DO YOU KNOW … How to calculate the NPV of a project in D365ProjectOperations?",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/03/pictureblogen.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5124",
           "author": "Ludwig Reinhard",
           "description": "[German language podcast] Im neuesten Microsoft BizApps Podcast sprechen wir mit Juergen Bailey, der als Global Application Director bei Britax …\nContinue reading →",
@@ -11566,6 +11586,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f8cfa4d0-a2c0-4e03-951d-faab70edd663",
+          "author": "Deepak Singh",
+          "description": "Introduction\nVendor Collaboration functionality enables vendor to view the Request for Quotations (RFQ) and Purchase Orders (POs) created by organization. Vendor can directly participate in the RFQ bid raised by company and review and accept the POs....(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/vendor-collaboration-contact-and-user-creation",
+          "publishedOn": "2023-05-16T15:56:07.000Z",
+          "wordCount": 3923,
+          "title": "Vendor Collaboration Setup",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:366f3021-68e3-44ba-9ad2-f5722427e243",
           "author": "Deepak Singh",
