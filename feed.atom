@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-17T01:19:04.162Z</updated>
+    <updated>2023-05-18T01:17:23.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -35,6 +35,17 @@
 Vendor Collaboration functionality enables vendor to view the Request for Quotations (RFQ) and Purchase Orders (POs) created by organization. Vendor can directly participate in the RFQ bid raised by company and review and accept the POs....(read more)]]></summary>
         <author>
             <name>Deepak Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Split recurring contract billing across multiple customers]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/15/split-recurring-contract-billing-across-multiple-customers/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/15/split-recurring-contract-billing-across-multiple-customers/"/>
+        <updated>2023-05-15T20:11:21.000Z</updated>
+        <summary type="html"><![CDATA[The new feature Customer split allows Dynamics 365 Finance users to split billing schedules across multiple customers based on a percentage of the invoice. 
+The post Split recurring contract billing across multiple customers  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Brian King</name>
         </author>
     </entry>
     <entry>
@@ -19932,16 +19943,6 @@ or you can duplicate any standard entity. I created AutomationDataEntity. Right-
         <summary type="html"><![CDATA[Hello, Today’s video will be about managing security in Dynamics 365 For Finance and Operations via PowerApps. We will look how D365FinOps data connector can help us to externalize security data to Power Apps or even to other technological stack solutions different than Microsoft. The agenda for today will be in a video representing some … Lire la suite Managing Dynamics 365 FinOps security roles via PowerApps →]]></summary>
         <author>
             <name>adalhix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deliver on your order promise with Dynamics 365 Intelligent Order Management]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:dcb40699-6b3e-4618-bb3b-d2bd505ee87f</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/deliver-on-your-order-promise-with-dynamics-365-intelligent-order-management"/>
-        <updated>2021-05-18T11:04:16.000Z</updated>
-        <summary type="html"><![CDATA[We are very pleased to announce the public preview of our latest innovation: Microsoft Dynamics 365 Intelligent Order Management that enables organizations to consistently deliver on their order promi...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
         </author>
     </entry>
 </feed>

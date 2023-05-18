@@ -604,16 +604,6 @@
           "wordCount": 1038,
           "title": "Utilize RPA to create quality orders in Dynamics 365 Supply Chain Management",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:dcb40699-6b3e-4618-bb3b-d2bd505ee87f",
-          "author": "Microsoft Dynamics Community",
-          "description": "We are very pleased to announce the public preview of our latest innovation: Microsoft Dynamics 365 Intelligent Order Management that enables organizations to consistently deliver on their order promi...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/deliver-on-your-order-promise-with-dynamics-365-intelligent-order-management",
-          "publishedOn": "2021-05-18T11:04:16.000Z",
-          "wordCount": 928,
-          "title": "Deliver on your order promise with Dynamics 365 Intelligent Order Management",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -5257,6 +5247,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/15/split-recurring-contract-billing-across-multiple-customers/",
+          "author": "Brian King",
+          "description": "The new feature Customer split allows Dynamics 365 Finance users to split billing schedules across multiple customers based on a percentage of the invoice. \nThe post Split recurring contract billing across multiple customers  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/15/split-recurring-contract-billing-across-multiple-customers/",
+          "publishedOn": "2023-05-15T20:11:21.000Z",
+          "wordCount": 2274,
+          "title": "Split recurring contract billing across multiple customers",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/CLO17_corporateOffice_010.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/work-order-status-concepts-system-status-and-substatus/",
           "author": "Jason Cohen",
