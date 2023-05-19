@@ -3634,6 +3634,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2656",
+          "author": "AnithaEswaran",
+          "description": "There are pre-defined datasource formats in F&O – XML, CSV, Excel etc. But there is no option of exporting the data as JSON using DIXF. Using this GitHub extension which convers xml to json, it is possible to achieve this. Download the file from github here As we are using XML as the source format … … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/05/18/json-export-in-dixf-d365fo/",
+          "publishedOn": "2023-05-18T15:55:27.000Z",
+          "wordCount": 3644,
+          "title": "JSON Export in DIXF – D365FO",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/05/image-45.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2610",
           "author": "AnithaEswaran",
           "description": "In D365F&O, if there are more than one legal entity ,there may be scenarios where both companies use the same set of data and they always need to be synchronized(CUD operations). For example, if both companies use the same list … Continue reading →",
@@ -6452,6 +6462,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2581",
+          "author": "Saurabh Bharti",
+          "description": "This is the Part-2 of the sales return order series where we are talking about disposition codes and its impact on inventory and financials. If you have not visited Part-1, the click here to read. Now in this blog we are going to talk about Disposition Action Scrap: As per this disposition action we must […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/19/scrap-disposition-code-for-sales-return-order-in-microsoft-dynamics-365-finance-and-operations-part-2/",
+          "publishedOn": "2023-05-18T20:17:58.000Z",
+          "wordCount": 2653,
+          "title": "[Scrap] Disposition code for sales return order in Microsoft Dynamics 365 finance and operations: Part-2",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/6-2.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2556",
           "author": "Saurabh Bharti",
           "description": "In this blog series we will see how sale return works, what is importance or disposition code from finance and inventory. Disposition Action: For each disposition code that you define, you must select a disposition action. The disposition action determines the physical and financial implications of the disposition codes. For example, the disposition action determines […]",
@@ -6788,6 +6808,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2581",
+          "author": "Saurabh Bharti",
+          "description": "This is the Part-2 of the sales return order series where we are talking about disposition codes and its impact on inventory and financials. If you have not visited Part-1, the click here to read. Now in this blog we are going to talk about Disposition Action Scrap: As per this disposition action we must […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/19/scrap-disposition-code-for-sales-return-order-in-microsoft-dynamics-365-finance-and-operations-part-2/",
+          "publishedOn": "2023-05-18T20:17:58.000Z",
+          "wordCount": 2653,
+          "title": "[Scrap] Disposition code for sales return order in Microsoft Dynamics 365 finance and operations: Part-2",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/6-2.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2556",
           "author": "Saurabh Bharti",

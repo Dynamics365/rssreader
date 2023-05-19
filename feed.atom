@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-18T01:17:23.429Z</updated>
+    <updated>2023-05-19T01:18:20.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Scrap] Disposition code for sales return order in Microsoft Dynamics 365 finance and operations: Part-2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2581</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/19/scrap-disposition-code-for-sales-return-order-in-microsoft-dynamics-365-finance-and-operations-part-2/"/>
+        <updated>2023-05-18T20:17:58.000Z</updated>
+        <summary type="html"><![CDATA[This is the Part-2 of the sales return order series where we are talking about disposition codes and its impact on inventory and financials. If you have not visited Part-1, the click here to read. Now in this blog we are going to talk about Disposition Action Scrap: As per this disposition action we must […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Scrap] Disposition code for sales return order in Microsoft Dynamics 365 finance and operations: Part-2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2581</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/19/scrap-disposition-code-for-sales-return-order-in-microsoft-dynamics-365-finance-and-operations-part-2/"/>
+        <updated>2023-05-18T20:17:58.000Z</updated>
+        <summary type="html"><![CDATA[This is the Part-2 of the sales return order series where we are talking about disposition codes and its impact on inventory and financials. If you have not visited Part-1, the click here to read. Now in this blog we are going to talk about Disposition Action Scrap: As per this disposition action we must […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON Export in DIXF – D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2656</id>
+        <link href="https://anithasantosh.wordpress.com/2023/05/18/json-export-in-dixf-d365fo/"/>
+        <updated>2023-05-18T15:55:27.000Z</updated>
+        <summary type="html"><![CDATA[There are pre-defined datasource formats in F&O – XML, CSV, Excel etc. But there is no option of exporting the data as JSON using DIXF. Using this GitHub extension which convers xml to json, it is possible to achieve this. Download the file from github here As we are using XML as the source format … … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cross-company data sharing – D365F&O]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2610</id>
