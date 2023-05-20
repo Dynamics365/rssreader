@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-19T01:18:20.299Z</updated>
+    <updated>2023-05-20T01:15:22.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Scrap and Replace] Disposition code for sales return order in Microsoft Dynamics 365 finance and operations: Part-3]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2596</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/19/scrap-and-replace-disposition-code-for-sales-return-order-in-microsoft-dynamics-365-finance-and-operations-part-3/"/>
+        <updated>2023-05-19T14:19:30.000Z</updated>
+        <summary type="html"><![CDATA[This is the Part-3 of this Disposition code for sales return order. You can view Part-1 and Part-2 Here. Now in this part I am going to talk about next disposition action which is Scrap and Replace, This disposition code allows us to give replacement to the customer against the return order. We can replace […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Scrap and Replace] Disposition code for sales return order in Microsoft Dynamics 365 finance and operations: Part-3]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2596</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/19/scrap-and-replace-disposition-code-for-sales-return-order-in-microsoft-dynamics-365-finance-and-operations-part-3/"/>
+        <updated>2023-05-19T14:19:30.000Z</updated>
+        <summary type="html"><![CDATA[This is the Part-3 of this Disposition code for sales return order. You can view Part-1 and Part-2 Here. Now in this part I am going to talk about next disposition action which is Scrap and Replace, This disposition code allows us to give replacement to the customer against the return order. We can replace […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Scrap] Disposition code for sales return order in Microsoft Dynamics 365 finance and operations: Part-2]]></title>
         <id>http://exploredynamics365.home.blog/?p=2581</id>
@@ -158,11 +178,46 @@ In D365 FO, the Deleted action can be performed u…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Status-Driven Success: Managing Your Work Order Lifecycle through Statuses – Part 1]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a009e567-6340-4380-b0eb-288593290573</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/status-driven-success-managing-your-work-order-lifecycle-through-statuses-part-1"/>
+        <updated>2023-05-12T17:31:00.000Z</updated>
+        <summary type="html"><![CDATA[One aspect of Dynamics 365 Field Service’s adaptability lies in the flexibility of its ‘status’ functionality, driving a meaningful work order lifecycle tailored to each organization. Field Service helps manage work orders and bookings across diverse use cases. This blog series explores critical status concepts: 
+
+System Status and Substatus for Work Orders 
+Booking Status and Field Service Status for Bookings 
+Booking Status Impact on Work Orders Across Single and Multi-Booking Scenarios 
+
+Grasping these concepts allows organizations to leverage the solution’s functionality, optimize field service processes, and ultimately provide better customer service. 
+This blog will expand upon many of the concepts discussed in the existing work order and booking status documentation: Work order life…]]></summary>
+        <author>
+            <name>Jason Cohen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Status-Driven Success: Managing Your Work Order Lifecycle through Statuses – Part 1]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/work-order-status-concepts-system-status-and-substatus/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/work-order-status-concepts-system-status-and-substatus/"/>
         <updated>2023-05-12T17:31:00.000Z</updated>
         <summary type="html"><![CDATA[Work orders in Dynamics 365 Field Service have a column called System Status which helps organizations manage their field service processes efficiently. 
 The post Status-Driven Success: Managing Your Work Order Lifecycle through Statuses – Part 1   appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jason Cohen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Status-Driven Success: Managing Your Work Order Lifecycle through Statuses – Part 2]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f2ccc92b-3bbc-43a1-8097-fbe8d14307ae</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/status-driven-success-managing-your-work-order-lifecycle-through-statuses-part-2"/>
+        <updated>2023-05-12T17:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Continuing our 3-part series exploring Dynamics 365 Field Service’s adaptability using critical status concepts. We have viewed the following concept Work Order Status Concepts: System Status and Substatus  in our last blog. 
+This blog explores the concept of: 
+
+Booking Status and Field Service Status for Bookings 
+
+Grasping these concepts allows organizations to leverage the solution’s functionality, optimize field service processes, and ultimately provide better customer service. 
+Booking Status Concepts: Booking Status and Field Service Status 
+Before delving into the concepts of Booking Status and Field Service Status, it is important to understand the distinction between a work order and a booking in Dynamics 365 Field Service.  
+A work order represents a scope of work to be performed…]]></summary>
         <author>
             <name>Jason Cohen</name>
         </author>
@@ -180,6 +235,23 @@ The post Status-Driven Success: Managing Your Work Order Lifecycle through Statu
     </entry>
     <entry>
         <title type="html"><![CDATA[Status-Driven Success: Managing Your Work Order Lifecycle through Statuses – Part 3]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3c8693ed-f58d-4b12-8f86-cee43c139abe</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/status-driven-success-managing-your-work-order-lifecycle-through-statuses-part-3"/>
+        <updated>2023-05-12T17:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Completing our 3-part series exploring Dynamics 365 Field Service’s adaptability using critical status concepts. We have viewed the following concepts of Work Order Status Concepts: System Status and Substatus  and Booking Status Concepts: Booking Status and Field Service Status
+This blog explores the concept of: 
+
+Booking status impact on work orders across single and multi-booking scenarios 
+
+Grasping these concepts allows organizations to leverage the solution’s functionality, optimize field service processes, and ultimately provide better customer service. 
+Booking Status Impact on Work Order System Status 
+In addition to the status concepts explained earlier, it is essential to understand how the status of a booking, defined by Booking Status and interpreted by the Booking Status’ Fie…]]></summary>
+        <author>
+            <name>Jason Cohen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Status-Driven Success: Managing Your Work Order Lifecycle through Statuses – Part 3]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/status-driven-success-managing-your-work-order-lifecycle-through-statuses-part-3/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/status-driven-success-managing-your-work-order-lifecycle-through-statuses-part-3/"/>
         <updated>2023-05-12T17:29:30.000Z</updated>
@@ -191,6 +263,21 @@ The post Status-Driven Success: Managing Your Work Order Lifecycle through Statu
     </entry>
     <entry>
         <title type="html"><![CDATA[Printing Labels Using External Service with Dynamics 365 – Warehouse Management]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:63f799e9-7489-47ef-abbb-1398b691550a</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/printing-labels-using-external-service-with-dynamics-365-warehouse-management"/>
+        <updated>2023-05-12T15:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Live in Dynamics 365 Supply Chain Management
+
+Introduction
+Barcodes and shipping labels are essential components in the supply chain landscape. They play a vital role in ensuring accurate inventory management, product tracking, and streamlining processes. Shipping labels are particularly important for navigating shipments complex global supply chains while maintaining end-to-end traceability. QR codes have also become a valuable tool for companies to engage customers and track their products worldwide.
+With the 10.0.34 release, Supply Chain Management (SCM) has become even more robust, offering seamless integrations with third-party labelling solutions out-of-the-box.
+Microsoft has partnered with Seagull Scientific BarTender and Loftware NiceLabel to enhance core Dynamics 365 SCM labeling …]]></summary>
+        <author>
+            <name>Galyna Fedorova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Printing Labels Using External Service with Dynamics 365 – Warehouse Management]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/printing-labels-using-external-service-with-dynamics-365-warehouse-management/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/12/printing-labels-using-external-service-with-dynamics-365-warehouse-management/"/>
         <updated>2023-05-12T15:43:12.000Z</updated>
@@ -198,6 +285,17 @@ The post Status-Driven Success: Managing Your Work Order Lifecycle through Statu
 The post Printing Labels Using External Service with Dynamics 365 – Warehouse Management appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Galyna Fedorova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Copilot in Microsoft Dynamics 365 and Power Platform delivers enterprise-ready AI built for security and privacy]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ac656469-76e0-4a09-9b8e-34eb0cf2660c</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/how-copilot-in-microsoft-dynamics-365-and-power-platform-delivers-enterprise-ready-ai-built-for-security-and-privacy"/>
+        <updated>2023-05-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few months, the world has been captivated by generative AI and applications like the new chat experience in Bing, which can generate original text responses from a simple prompt written in natural language. With the introduction of generative AI across Microsoft business applicationsincluding Microsoft Dynamics 365, Viva Sales, and Power Platforminteractions with AI across business roles and processes will become second nature. With Copilot, Microsoft Dynamics 365 and Power Platform introduce a new way to generate ideas and content drafts, and methods to access and organize information across the business.
+Before your business starts using Copilot capabilities in Dynamics 365 and Power Platform, you may have questions about how it works, how it keeps your business data secure…]]></summary>
+        <author>
+            <name>Walter Sun</name>
         </author>
     </entry>
     <entry>
@@ -249,6 +347,17 @@ It is always tricky to make decisions about which data entity to be used for the
 If you deep dive more into available Dynamics 365 FO Data entities whether named with CDS or not under the hood it is connected with business transactions or master …]]></summary>
         <author>
             <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How real-time analytics improve supervisor experiences in Customer Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/11/how-real-time-analytics-improve-supervisor-experiences-in-customer-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/11/how-real-time-analytics-improve-supervisor-experiences-in-customer-service/"/>
+        <updated>2023-05-11T16:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Real-time analytics are critical for organizations that want to stay on top of their contact center operations.
+The post How real-time analytics improve supervisor experiences in Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Venkat Anantharaman</name>
         </author>
     </entry>
     <entry>
