@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-21T01:23:15.203Z</updated>
+    <updated>2023-05-22T01:21:30.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -85,6 +85,18 @@
 Vendor Collaboration functionality enables vendor to view the Request for Quotations (RFQ) and Purchase Orders (POs) created by organization. Vendor can directly participate in the RFQ bid raised by company and review and accept the POs....(read more)]]></summary>
         <author>
             <name>Deepak Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Split recurring contract billing across multiple customers]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:750fe365-51bc-4384-8d66-22e6605d49f8</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/split-recurring-contract-billing-across-multiple-customers"/>
+        <updated>2023-05-15T20:11:21.000Z</updated>
+        <summary type="html"><![CDATA[A key component of the Subscription billing feature is the Recurring contract billing module. Recurring contract billing allows customers to manage their recurring billing contracts through billing schedules which contain the financial details of a contract. Recurring billing contracts can be managed across one or many customers based on how a contract is drafted. The new feature Customer split allows Dynamics 365 Finance users to split billing schedules across multiple customers based on a percentage of the invoice. This feature reduces the risk of incorrect billing, as a single billing schedule can manage the billing for all customers that are to be billed.
+What is Customer Split
+Customer split allows a single billing schedule to be billed across multiple customers. For example, let's co…]]></summary>
+        <author>
+            <name>Brian King</name>
         </author>
     </entry>
     <entry>
@@ -347,6 +359,20 @@ It is always tricky to make decisions about which data entity to be used for the
 If you deep dive more into available Dynamics 365 FO Data entities whether named with CDS or not under the hood it is connected with business transactions or master …]]></summary>
         <author>
             <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How real-time analytics improve supervisor experiences in Customer Service]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:ccf9e99b-2080-46d1-8bf0-59812b8bf342</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/how-real-time-analytics-improve-supervisor-experiences-in-customer-service"/>
+        <updated>2023-05-11T16:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Real-time analytics are critical for organizations that want to stay on top of their contact center operations. The ability to see what’s happening in real-time, and to focus on the metrics that matter most, enables supervisors to identify and address issues efficiently.  
+We built intraday analytics to help address this requirement. Intraday analytics uses an intermediary database to aggregate metrics from Dataverse and then use it to power the reports. 
+A better experience with real-time analytics 
+We received feedback from you about improvements you would like to see around supervisor experiences. Subsequently, we decided to build a feature from the ground up that improves upon the intraday analytics experience. 
+Starting this April, we are providing Real-Time Analytics for Omnichannel …]]></summary>
+        <author>
+            <name>Venkat Anantharaman</name>
         </author>
     </entry>
     <entry>
@@ -20072,16 +20098,6 @@ or you can duplicate any standard entity. I created AutomationDataEntity. Right-
         <summary type="html"><![CDATA[I recently had an interesting discussion around testing and specifically Microsoft testing efforts and frameworks, namely, ATL. If you are not familiar with this framework - you've been living under a rock. Get out from under there and go read some articles about it, like the one belowhttps://kashperuk.blogspot.com/2019/05/development-tutorial-sample-test-tips.htmlThe discussion revolved around]]></summary>
         <author>
             <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing Dynamics 365 FinOps security roles via PowerApps]]></title>
-        <id>http://dynvision365.com/?p=754</id>
-        <link href="https://dynvision365.com/2021/05/22/managing-dynamics-365-finops-security-via-powerapps/"/>
-        <updated>2021-05-22T00:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Hello, Today’s video will be about managing security in Dynamics 365 For Finance and Operations via PowerApps. We will look how D365FinOps data connector can help us to externalize security data to Power Apps or even to other technological stack solutions different than Microsoft. The agenda for today will be in a video representing some … Lire la suite Managing Dynamics 365 FinOps security roles via PowerApps →]]></summary>
-        <author>
-            <name>adalhix</name>
         </author>
     </entry>
 </feed>

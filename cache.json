@@ -2064,6 +2064,16 @@
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:750fe365-51bc-4384-8d66-22e6605d49f8",
+          "author": "Brian King",
+          "description": "A key component of the Subscription billing feature is the Recurring contract billing module. Recurring contract billing allows customers to manage their recurring billing contracts through billing schedules which contain the financial details of a contract. Recurring billing contracts can be managed across one or many customers based on how a contract is drafted. The new feature Customer split allows Dynamics 365 Finance users to split billing schedules across multiple customers based on a percentage of the invoice. This feature reduces the risk of incorrect billing, as a single billing schedule can manage the billing for all customers that are to be billed.\nWhat is Customer Split\nCustomer split allows a single billing schedule to be billed across multiple customers. For example, let's co…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/split-recurring-contract-billing-across-multiple-customers",
+          "publishedOn": "2023-05-15T20:11:21.000Z",
+          "wordCount": 4170,
+          "title": "Split recurring contract billing across multiple customers",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:a009e567-6340-4380-b0eb-288593290573",
           "author": "Jason Cohen",
           "description": "One aspect of Dynamics 365 Field Service’s adaptability lies in the flexibility of its ‘status’ functionality, driving a meaningful work order lifecycle tailored to each organization. Field Service helps manage work orders and bookings across diverse use cases. This blog series explores critical status concepts: \n\nSystem Status and Substatus for Work Orders \nBooking Status and Field Service Status for Bookings \nBooking Status Impact on Work Orders Across Single and Multi-Booking Scenarios \n\nGrasping these concepts allows organizations to leverage the solution’s functionality, optimize field service processes, and ultimately provide better customer service. \nThis blog will expand upon many of the concepts discussed in the existing work order and booking status documentation: Work order life…",
@@ -2111,6 +2121,16 @@
           "publishedOn": "2023-05-12T15:00:00.000Z",
           "wordCount": 5383,
           "title": "How Copilot in Microsoft Dynamics 365 and Power Platform delivers enterprise-ready AI built for security and privacy",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:ccf9e99b-2080-46d1-8bf0-59812b8bf342",
+          "author": "Venkat Anantharaman",
+          "description": "Real-time analytics are critical for organizations that want to stay on top of their contact center operations. The ability to see what’s happening in real-time, and to focus on the metrics that matter most, enables supervisors to identify and address issues efficiently.  \nWe built intraday analytics to help address this requirement. Intraday analytics uses an intermediary database to aggregate metrics from Dataverse and then use it to power the reports. \nA better experience with real-time analytics \nWe received feedback from you about improvements you would like to see around supervisor experiences. Subsequently, we decided to build a feature from the ground up that improves upon the intraday analytics experience. \nStarting this April, we are providing Real-Time Analytics for Omnichannel …",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/how-real-time-analytics-improve-supervisor-experiences-in-customer-service",
+          "publishedOn": "2023-05-11T16:23:36.000Z",
+          "wordCount": 4355,
+          "title": "How real-time analytics improve supervisor experiences in Customer Service",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
         {
@@ -4925,16 +4945,6 @@
           "wordCount": 803,
           "title": "Getting ready for the next Azure DevOps pipeline agent update",
           "imageUrl": "https://adalhix.files.wordpress.com/2021/12/captureada2.png"
-        },
-        {
-          "id": "http://dynvision365.com/?p=754",
-          "author": "adalhix",
-          "description": "Hello, Today’s video will be about managing security in Dynamics 365 For Finance and Operations via PowerApps. We will look how D365FinOps data connector can help us to externalize security data to Power Apps or even to other technological stack solutions different than Microsoft. The agenda for today will be in a video representing some … Lire la suite Managing Dynamics 365 FinOps security roles via PowerApps →",
-          "link": "https://dynvision365.com/2021/05/22/managing-dynamics-365-finops-security-via-powerapps/",
-          "publishedOn": "2021-05-22T00:26:35.000Z",
-          "wordCount": 560,
-          "title": "Managing Dynamics 365 FinOps security roles via PowerApps",
-          "imageUrl": "https://adalhix.files.wordpress.com/2021/05/image-3.png"
         }
       ]
     },
