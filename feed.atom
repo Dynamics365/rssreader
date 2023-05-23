@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-22T01:21:30.689Z</updated>
+    <updated>2023-05-23T01:18:09.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Return to customer] Disposition code for sales return order in Microsoft Dynamics 365 finance and operations: Part-4]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2621</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/23/return-to-customer-disposition-code-for-sales-return-order-in-microsoft-dynamics-365-finance-and-operations-part-4/"/>
+        <updated>2023-05-22T19:53:18.000Z</updated>
+        <summary type="html"><![CDATA[This is the part-4 of this blog series where I am going to explain about the next disposition code “Return to customer”. If you have not read previous blogs, you can read here: Part-1, Part-2, Part-3 Return to customer disposition code: In this scenario item which customer wants to return is sent back to customer […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Return to customer] Disposition code for sales return order in Microsoft Dynamics 365 finance and operations: Part-4]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2621</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/23/return-to-customer-disposition-code-for-sales-return-order-in-microsoft-dynamics-365-finance-and-operations-part-4/"/>
+        <updated>2023-05-22T19:53:18.000Z</updated>
+        <summary type="html"><![CDATA[This is the part-4 of this blog series where I am going to explain about the next disposition code “Return to customer”. If you have not read previous blogs, you can read here: Part-1, Part-2, Part-3 Return to customer disposition code: In this scenario item which customer wants to return is sent back to customer […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Scrap and Replace] Disposition code for sales return order in Microsoft Dynamics 365 finance and operations: Part-3]]></title>
         <id>http://exploredynamics365.home.blog/?p=2596</id>
