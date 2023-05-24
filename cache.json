@@ -8518,26 +8518,6 @@
           "wordCount": 3426,
           "title": "[Announcement] Warehouse App task validation framework (RSAT for WMA) now available on Tier 2 environments",
           "imageUrl": "https://1.bp.blogspot.com/-du4uvh6Rnys/YLFQbPb_XSI/AAAAAAAAluQ/k8v50USrZEUY602sWF10MM-4qt5fslFkwCLcBGAsYHQ/w1200-h630-p-k-no-nu/E2GhZRxXsAI1n-R.png"
-        },
-        {
-          "id": "http://kashperuk.blogspot.com/2021/05/tutorial-find-your-device-id-and.html",
-          "author": null,
-          "description": "IntroductionThe two basic things support needs any time you log a support case is your application version, as well as your session id or similar, plus the timestamp of when the issue occurred. This helps troubleshoot the specific issue reported.Well, with the Warehouse management app, it's pretty much the same. We'd like to know the app version you're running, as well as the Device ID of the",
-          "link": "http://kashperuk.blogspot.com/2021/05/tutorial-find-your-device-id-and.html",
-          "publishedOn": "2021-05-24T10:53:00.000Z",
-          "wordCount": 2650,
-          "title": "[Tutorial] Find your Device ID and Warehouse management app version",
-          "imageUrl": "https://lh3.googleusercontent.com/-2XkcBcmPdhQ/YKuEINuMBMI/AAAAAAAAlt0/u7NApzDJgw0-hsZMS2ea_4mUShk73pxTQCLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png"
-        },
-        {
-          "id": "http://kashperuk.blogspot.com/2021/05/development-tutorial-thoughts-on-test.html",
-          "author": null,
-          "description": "I recently had an interesting discussion around testing and specifically Microsoft testing efforts and frameworks, namely, ATL. If you are not familiar with this framework - you've been living under a rock. Get out from under there and go read some articles about it, like the one belowhttps://kashperuk.blogspot.com/2019/05/development-tutorial-sample-test-tips.htmlThe discussion revolved around",
-          "link": "http://kashperuk.blogspot.com/2021/05/development-tutorial-thoughts-on-test.html",
-          "publishedOn": "2021-05-23T21:04:00.003Z",
-          "wordCount": 4172,
-          "title": "[Development tutorial] Thoughts on test automation + more sample tests using ATL",
-          "imageUrl": null
         }
       ]
     },
@@ -12574,6 +12554,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "power-apps-is-empowering-coders-with-next-generation-ai-capabilities",
+          "author": null,
+          "description": "Every year at Microsoft Build, Microsoft returns to its roots and puts developers at center stage. This year, Microsoft Power Apps is announcing a powerful set of next-generation AI capabilities and developer-focused features that improve productivity for all developers—including those who code.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-apps-is-empowering-coders-with-next-generation-ai-capabilities/",
+          "publishedOn": "2023-05-23T07:55:00.000Z",
+          "wordCount": 3119,
+          "title": "Power Apps is empowering coders with next-generation AI capabilities",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/img-5use.png"
+        },
         {
           "id": "announcing-public-preview-of-canvas-built-in-offline",
           "author": null,

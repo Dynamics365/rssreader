@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-23T01:18:09.097Z</updated>
+    <updated>2023-05-24T01:20:31.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Apps is empowering coders with next-generation AI capabilities]]></title>
+        <id>power-apps-is-empowering-coders-with-next-generation-ai-capabilities</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-is-empowering-coders-with-next-generation-ai-capabilities/"/>
+        <updated>2023-05-23T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Every year at Microsoft Build, Microsoft returns to its roots and puts developers at center stage. This year, Microsoft Power Apps is announcing a powerful set of next-generation AI capabilities and developer-focused features that improve productivity for all developers—including those who code.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Return to customer] Disposition code for sales return order in Microsoft Dynamics 365 finance and operations: Part-4]]></title>
         <id>http://exploredynamics365.home.blog/?p=2621</id>
@@ -20098,26 +20108,6 @@ or you can duplicate any standard entity. I created AutomationDataEntity. Right-
 24…]]></summary>
         <author>
             <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Tutorial] Find your Device ID and Warehouse management app version]]></title>
-        <id>http://kashperuk.blogspot.com/2021/05/tutorial-find-your-device-id-and.html</id>
-        <link href="http://kashperuk.blogspot.com/2021/05/tutorial-find-your-device-id-and.html"/>
-        <updated>2021-05-24T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[IntroductionThe two basic things support needs any time you log a support case is your application version, as well as your session id or similar, plus the timestamp of when the issue occurred. This helps troubleshoot the specific issue reported.Well, with the Warehouse management app, it's pretty much the same. We'd like to know the app version you're running, as well as the Device ID of the]]></summary>
-        <author>
-            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Development tutorial] Thoughts on test automation + more sample tests using ATL]]></title>
-        <id>http://kashperuk.blogspot.com/2021/05/development-tutorial-thoughts-on-test.html</id>
-        <link href="http://kashperuk.blogspot.com/2021/05/development-tutorial-thoughts-on-test.html"/>
-        <updated>2021-05-23T21:04:00.003Z</updated>
-        <summary type="html"><![CDATA[I recently had an interesting discussion around testing and specifically Microsoft testing efforts and frameworks, namely, ATL. If you are not familiar with this framework - you've been living under a rock. Get out from under there and go read some articles about it, like the one belowhttps://kashperuk.blogspot.com/2019/05/development-tutorial-sample-test-tips.htmlThe discussion revolved around]]></summary>
-        <author>
-            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
 </feed>
