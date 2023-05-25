@@ -2,10 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-24T01:20:31.835Z</updated>
+    <updated>2023-05-25T01:18:01.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Identify duplicate invoices using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2642</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/25/identify-duplicate-invoices-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-1/"/>
+        <updated>2023-05-24T19:47:56.000Z</updated>
+        <summary type="html"><![CDATA[In today’s blog post, we will discuss a highly significant and often overlooked feature in D365 that can provide a significant level of control for various types of documents. By leveraging audit policies, you gain the ability to evaluate expense reports, vendor invoices, and purchase orders, ensuring their compliance with policy rules that you define. […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identify duplicate invoices using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2642</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/25/identify-duplicate-invoices-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-1/"/>
+        <updated>2023-05-24T19:47:56.000Z</updated>
+        <summary type="html"><![CDATA[In today’s blog post, we will discuss a highly significant and often overlooked feature in D365 that can provide a significant level of control for various types of documents. By leveraging audit policies, you gain the ability to evaluate expense reports, vendor invoices, and purchase orders, ensuring their compliance with policy rules that you define. […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safely hyperscale low-code apps with ease using Microsoft Dataverse]]></title>
+        <id>safely-hyperscale-low-code-apps-with-ease-using-microsoft-dataverse</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/safely-hyperscale-low-code-apps-with-ease-using-microsoft-dataverse/"/>
+        <updated>2023-05-24T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dataverse is saving development teams time and money by accelerating data-driven application development and streamlining data insights on an enterprise-grade low code data platform you can trust.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walk through all tables and fields]]></title>
+        <id>1882</id>
+        <link href="http://daxonline.org/1882-walk-through-all-tables-and-fields.html"/>
+        <updated>2023-05-24T08:35:33.000Z</updated>
+        <summary type="html"><![CDATA[Job to walk through all tables and fields and check where specific EDTs are used:
+using Microsoft.Dynamics.AX.Metadata.MetaModel;
+class VKTest
+{
+    Map     edtMap;
+    List    edtList;
+    str     edtListText;
+    str     fieldListText;
+
+    public static void main(Args _args)
+    {
+
+        VKTest vkTest = new VKTest();
+
+        vkTest.buildEDTList();
+
+        vkTest.tableList2();
+
+        vkTest.outputResults();
+
+
+        Info('Done');
+    }
+
+    public void outputResults()
+    {
+        Info(edtListText);
+        Info(fieldListText);
+    }
+
+    public void buildEDTList()
+    {
+        DictType    dictType = new DictType(extendedTypeNum(WeightBase));
+
+        edtList = dictType.extendedBy(true);
+
+        //Info(strFmt("EDT count: %1", edtList.elements()));
+
+        edtMap = new Map(Type…]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Field Service Mobile: New multi-image attachment feature and tips to get the most out of Inspections]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/23/new-multi-image-attachment-feature-and-tips-to-get-the-most-out-of-inspections/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/23/new-multi-image-attachment-feature-and-tips-to-get-the-most-out-of-inspections/"/>
+        <updated>2023-05-23T16:27:45.000Z</updated>
+        <summary type="html"><![CDATA[You can now easily select multiple pictures for upload during Inspections! 
+The post Dynamics 365 Field Service Mobile: New multi-image attachment feature and tips to get the most out of Inspections appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Joseph Shum</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Apps is empowering coders with next-generation AI capabilities]]></title>
         <id>power-apps-is-empowering-coders-with-next-generation-ai-capabilities</id>
@@ -34,6 +123,30 @@
         <summary type="html"><![CDATA[This is the part-4 of this blog series where I am going to explain about the next disposition code “Return to customer”. If you have not read previous blogs, you can read here: Part-1, Part-2, Part-3 Return to customer disposition code: In this scenario item which customer wants to return is sent back to customer […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Account structure activation performance enhancement]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:95f6e621-4b61-4cbf-8424-efd873b1e944</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/account-structure-activation-performance-enhancement"/>
+        <updated>2023-05-19T20:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Introduction  
+Account structures in Dynamics 365 Finance use a main account and financial dimensions to create a set of rules that determine the order and allowed values when entering account numbers in transactions. Once an account structure is defined, it must be activated. Historically, the account structure activation process has been time consuming. It was also difficult to view the activation progress or to view any errors with the new configuration. If an account structure configuration change caused an error, a user could not find the root error message on the account structure page, but rather needed to dig through batch job logs to find the error message to understand the problem with the new account structure configuration.  
+Feature details  
+In order to solve these problems, …]]></summary>
+        <author>
+            <name>Ryan Carlson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Account structure activation performance enhancement]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/19/account-structure-activation-performance-enhancement/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/19/account-structure-activation-performance-enhancement/"/>
+        <updated>2023-05-19T20:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Introduction   Account structures in Dynamics 365 Finance use a main account and financial dimensions to create a set of rules that determine the order and allowed values when entering account numbers in transactions. Once an account structure is defined, it must be activated. Historically, the account structure activation process has been time consuming. It wasRead more
+The post Account structure activation performance enhancement  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ryan Carlson</name>
         </author>
     </entry>
     <entry>
@@ -20053,61 +20166,6 @@ W…]]></summary>
 (read more)]]></summary>
         <author>
             <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utilize RPA to create quality orders in Dynamics 365 Supply Chain Management]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:fcc6e9b3-298d-45fb-9238-b422c263c82a</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/utilize-rpa-to-create-quality-orders-in-dynamics-365-supply-chain-management"/>
-        <updated>2021-05-25T11:06:14.000Z</updated>
-        <summary type="html"><![CDATA[In this feature overview video series, we highlight new capabilities included in the latest update to Dynamics 365 Supply Chain Management.
-
-Our automation solution template for Dynamics 365 Supply Ch...(read more)]]></summary>
-        <author>
-            <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All about Odata actions in Dynamics 365 Finance And Operations]]></title>
-        <id>https://nuxulu.com/2021-05-25-all-about-odata-actions-in-dynamics-365-finance-and-operations/</id>
-        <link href="https://nuxulu.com/2021-05-25-all-about-odata-actions-in-dynamics-365-finance-and-operations/"/>
-        <updated>2021-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ODATA actions in Data Entities provide a way to inject behaviors into the data model, or expose custom business logic from Dynamics 365 Finance & Operations.
-You can add actions by adding a method to the data entity and then decorating the method with specific attributes [SysODataActionAttribute]
-I use this Odata actions mostly in automation job like after refreshing data from PROD to UAT, we need to enable users, assign company to users, enable batches …
-Or simply consume it in Power Automate.
-1. Create an action to OData entity
-You can create a new entity following this standard docs
-or you can duplicate any standard entity. I created AutomationDataEntity. Right-click the enitity, select View code and add the code
-
-
-
- 1
- 2
- 3
- 4
- 5
- 6
- 7
- 8
- 9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24…]]></summary>
-        <author>
-            <name>Max Nguyen</name>
         </author>
     </entry>
 </feed>

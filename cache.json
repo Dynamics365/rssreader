@@ -334,16 +334,6 @@
           "wordCount": 1007,
           "title": "Git & Github cheatsheet",
           "imageUrl": "https://nuxulu.com/2021-10-08-git-cheatsheet/git-basic-design.png"
-        },
-        {
-          "id": "https://nuxulu.com/2021-05-25-all-about-odata-actions-in-dynamics-365-finance-and-operations/",
-          "author": "Max Nguyen",
-          "description": "ODATA actions in Data Entities provide a way to inject behaviors into the data model, or expose custom business logic from Dynamics 365 Finance & Operations.\nYou can add actions by adding a method to the data entity and then decorating the method with specific attributes [SysODataActionAttribute]\nI use this Odata actions mostly in automation job like after refreshing data from PROD to UAT, we need to enable users, assign company to users, enable batches …\nOr simply consume it in Power Automate.\n1. Create an action to OData entity\nYou can create a new entity following this standard docs\nor you can duplicate any standard entity. I created AutomationDataEntity. Right-click the enitity, select View code and add the code\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24…",
-          "link": "https://nuxulu.com/2021-05-25-all-about-odata-actions-in-dynamics-365-finance-and-operations/",
-          "publishedOn": "2021-05-25T00:00:00.000Z",
-          "wordCount": 1050,
-          "title": "All about Odata actions in Dynamics 365 Finance And Operations",
-          "imageUrl": "https://nuxulu.com/2021-05-25-all-about-odata-actions-in-dynamics-365-finance-and-operations/dodatapostman.png"
         }
       ]
     },
@@ -593,16 +583,6 @@
           "publishedOn": "2021-07-01T11:03:12.000Z",
           "wordCount": 924,
           "title": "Streamline Dynamics 365 Finance reports with RPA",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:fcc6e9b3-298d-45fb-9238-b422c263c82a",
-          "author": "Microsoft Dynamics Community",
-          "description": "In this feature overview video series, we highlight new capabilities included in the latest update to Dynamics 365 Supply Chain Management.\n\nOur automation solution template for Dynamics 365 Supply Ch...(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/howtovideos/posts/utilize-rpa-to-create-quality-orders-in-dynamics-365-supply-chain-management",
-          "publishedOn": "2021-05-25T11:06:14.000Z",
-          "wordCount": 1038,
-          "title": "Utilize RPA to create quality orders in Dynamics 365 Supply Chain Management",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -2063,6 +2043,16 @@
       "feedUrl": "https://community.dynamics.com/365/b/365teamblog/rss",
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:95f6e621-4b61-4cbf-8424-efd873b1e944",
+          "author": "Ryan Carlson",
+          "description": "Introduction  \nAccount structures in Dynamics 365 Finance use a main account and financial dimensions to create a set of rules that determine the order and allowed values when entering account numbers in transactions. Once an account structure is defined, it must be activated. Historically, the account structure activation process has been time consuming. It was also difficult to view the activation progress or to view any errors with the new configuration. If an account structure configuration change caused an error, a user could not find the root error message on the account structure page, but rather needed to dig through batch job logs to find the error message to understand the problem with the new account structure configuration.  \nFeature details  \nIn order to solve these problems, …",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/account-structure-activation-performance-enhancement",
+          "publishedOn": "2023-05-19T20:09:47.000Z",
+          "wordCount": 4023,
+          "title": "Account structure activation performance enhancement",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:750fe365-51bc-4384-8d66-22e6605d49f8",
           "author": "Brian King",
@@ -5081,6 +5071,16 @@
       "siteUrl": "http://daxonline.org/",
       "articles": [
         {
+          "id": "1882",
+          "author": "Vasiliy Kovalenko",
+          "description": "Job to walk through all tables and fields and check where specific EDTs are used:\nusing Microsoft.Dynamics.AX.Metadata.MetaModel;\nclass VKTest\n{\n    Map     edtMap;\n    List    edtList;\n    str     edtListText;\n    str     fieldListText;\n\n    public static void main(Args _args)\n    {\n\n        VKTest vkTest = new VKTest();\n\n        vkTest.buildEDTList();\n\n        vkTest.tableList2();\n\n        vkTest.outputResults();\n\n\n        Info('Done');\n    }\n\n    public void outputResults()\n    {\n        Info(edtListText);\n        Info(fieldListText);\n    }\n\n    public void buildEDTList()\n    {\n        DictType    dictType = new DictType(extendedTypeNum(WeightBase));\n\n        edtList = dictType.extendedBy(true);\n\n        //Info(strFmt(\"EDT count: %1\", edtList.elements()));\n\n        edtMap = new Map(Type…",
+          "link": "http://daxonline.org/1882-walk-through-all-tables-and-fields.html",
+          "publishedOn": "2023-05-24T08:35:33.000Z",
+          "wordCount": 581,
+          "title": "Walk through all tables and fields",
+          "imageUrl": null
+        },
+        {
           "id": "1875",
           "author": "Vasiliy Kovalenko",
           "description": "For example we need to tie following datasources:\nInventSum\n    InventDim\n        InventBatch\n\n\nInventBatch unique key index consists of ItemId and InventbatchId, therefore we need to link Invnetbatch with both InventDim and InventSum. However, if you try to do it using addLink method:\nqbdsInventBatch.clearDynalinks();\nqbdsInventBatch.addLink(fieldnum(InventDim, inventBatchId), fieldNum(InventBatch, inventBatchId));\nqbdsInventBatch.addLink(fieldnum(InventSum, ItemId), fieldNum(InventBatch, ItemId));\nInvalid Field/Related field combination\":\n\n\nThere are a few tricks how this can be resolved:\n\n\n1. Create a view from InventSum and InventDim and use it as a single data source and then join InventBatch to it.\n2. Start query from Inventbatch data source and then join to it InventSum and InventDim. However, considering the example above in most cases it will not be logical. But it might work in your case.\n3. Use extended ranges. The solution will have the following look:\nQueryBuildRange qbrItemId = SysQuery::findOrCreateRange(qbdsInventBatch, fieldNum(InventBatch, ItemId));\nstr itemIdRange = strFmt('(%1.%2=%3.%4)', qbdsInventBatch.name(), fieldStr(InventBatch, ItemId), _inventSum_DS_Query.dataSourceName(formDataSourceStr(InventOnhandItem, InventSum)).name(), fieldStr(InventSum, ItemId));\nqbrItemId.value(itemIdRange);\nAdditional query build extended range example",
@@ -5317,6 +5317,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/23/new-multi-image-attachment-feature-and-tips-to-get-the-most-out-of-inspections/",
+          "author": "Joseph Shum",
+          "description": "You can now easily select multiple pictures for upload during Inspections! \nThe post Dynamics 365 Field Service Mobile: New multi-image attachment feature and tips to get the most out of Inspections appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/23/new-multi-image-attachment-feature-and-tips-to-get-the-most-out-of-inspections/",
+          "publishedOn": "2023-05-23T16:27:45.000Z",
+          "wordCount": 2829,
+          "title": "Dynamics 365 Field Service Mobile: New multi-image attachment feature and tips to get the most out of Inspections",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/CLO22_GreenEnergyFarm_047-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/19/account-structure-activation-performance-enhancement/",
+          "author": "Ryan Carlson",
+          "description": "Introduction   Account structures in Dynamics 365 Finance use a main account and financial dimensions to create a set of rules that determine the order and allowed values when entering account numbers in transactions. Once an account structure is defined, it must be activated. Historically, the account structure activation process has been time consuming. It wasRead more\nThe post Account structure activation performance enhancement  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/19/account-structure-activation-performance-enhancement/",
+          "publishedOn": "2023-05-19T20:09:47.000Z",
+          "wordCount": 2124,
+          "title": "Account structure activation performance enhancement",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/CLO22_TechOffice_027-1024x683.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/15/split-recurring-contract-billing-across-multiple-customers/",
           "author": "Brian King",
@@ -6532,6 +6552,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2642",
+          "author": "Saurabh Bharti",
+          "description": "In today’s blog post, we will discuss a highly significant and often overlooked feature in D365 that can provide a significant level of control for various types of documents. By leveraging audit policies, you gain the ability to evaluate expense reports, vendor invoices, and purchase orders, ensuring their compliance with policy rules that you define. […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/25/identify-duplicate-invoices-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-1/",
+          "publishedOn": "2023-05-24T19:47:56.000Z",
+          "wordCount": 2831,
+          "title": "Identify duplicate invoices using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-1",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/8-4.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2621",
           "author": "Saurabh Bharti",
           "description": "This is the part-4 of this blog series where I am going to explain about the next disposition code “Return to customer”. If you have not read previous blogs, you can read here: Part-1, Part-2, Part-3 Return to customer disposition code: In this scenario item which customer wants to return is sent back to customer […]",
@@ -6898,6 +6928,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2642",
+          "author": "Saurabh Bharti",
+          "description": "In today’s blog post, we will discuss a highly significant and often overlooked feature in D365 that can provide a significant level of control for various types of documents. By leveraging audit policies, you gain the ability to evaluate expense reports, vendor invoices, and purchase orders, ensuring their compliance with policy rules that you define. […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/25/identify-duplicate-invoices-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-1/",
+          "publishedOn": "2023-05-24T19:47:56.000Z",
+          "wordCount": 2831,
+          "title": "Identify duplicate invoices using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-1",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/8-4.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2621",
           "author": "Saurabh Bharti",
@@ -12554,6 +12594,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "safely-hyperscale-low-code-apps-with-ease-using-microsoft-dataverse",
+          "author": null,
+          "description": "Microsoft Dataverse is saving development teams time and money by accelerating data-driven application development and streamlining data insights on an enterprise-grade low code data platform you can trust.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/safely-hyperscale-low-code-apps-with-ease-using-microsoft-dataverse/",
+          "publishedOn": "2023-05-24T09:00:00.000Z",
+          "wordCount": 3224,
+          "title": "Safely hyperscale low-code apps with ease using Microsoft Dataverse",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/CLO18_manufacturing_018.jpg"
+        },
         {
           "id": "power-apps-is-empowering-coders-with-next-generation-ai-capabilities",
           "author": null,
