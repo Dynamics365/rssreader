@@ -1667,6 +1667,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56842",
+          "author": "Patrick Ceaser",
+          "description": "Top 9 Reasons to Stay Current on Dynamics GP\nHere are the top 9 reasons why it’s important to remain current on Dynamics GP. To ensure that you are current on Dynamics GP, you need to upgrade to the latest version if you are still using an old version. After upgrading to the latest version, you must keep up with at least one of...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/reasons-to-stay-current-on-dynamics-gp/",
+          "publishedOn": "2023-05-25T14:55:46.000Z",
+          "wordCount": 1773,
+          "title": "Top 9 Reasons to Stay Current on Dynamics GP",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=56784",
           "author": "Don McNulty",
           "description": "Functionality Similarities and Differences | Dynamics GP and Dynamics 365 Business Central\nIn this blog we’re going to delve into some of the most common functionalities in Dynamics GP, and compare them to the same or similar functionalities in Dynamics 365 Business Central. To learn about differences in licensing, hosting, extensions, and updates/upgrades, read our overall comparison of GP and Business Central. You’ll see that there are...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -8871,6 +8881,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5141",
+          "author": "Ludwig Reinhard",
+          "description": "[German language podcast] Im Rahmen der DynamicsMinds Konferenz in Slowenien hatten wir die Möglichkeit mit Georg Glantschnig, dem Microsoft Vice …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2023/05/25/microsoft-bizapps-deutschland-podcast-13/",
+          "publishedOn": "2023-05-25T05:30:00.000Z",
+          "wordCount": 2729,
+          "title": "Microsoft BizApps Deutschland Podcast #13",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/05/picturecollection.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5009",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -12050,6 +12070,16 @@
       "feedUrl": "https://denistrunin.com/rss.xml",
       "siteUrl": "https://denistrunin.com",
       "articles": [
+        {
+          "id": "https://denistrunin.com/performance-d365batch/",
+          "author": null,
+          "description": "The blog post describes how D365FO batch framework handle errors and what kind of problems it may cause",
+          "link": "https://denistrunin.com/performance-d365batch/",
+          "publishedOn": "2023-05-25T22:12:03.000Z",
+          "wordCount": 1189,
+          "title": "Batch Job errors in D365FO: How they can ruin the performance and how to fix them",
+          "imageUrl": "https://denistrunin.com/static/3660de68a1c93370618a6689966f0672/0a613/logo.png"
+        },
         {
           "id": "https://denistrunin.com/performance-restoretier2/",
           "author": null,

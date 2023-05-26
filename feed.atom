@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-25T01:18:01.042Z</updated>
+    <updated>2023-05-26T01:18:00.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Batch Job errors in D365FO: How they can ruin the performance and how to fix them]]></title>
+        <id>https://denistrunin.com/performance-d365batch/</id>
+        <link href="https://denistrunin.com/performance-d365batch/"/>
+        <updated>2023-05-25T22:12:03.000Z</updated>
+        <summary type="html"><![CDATA[The blog post describes how D365FO batch framework handle errors and what kind of problems it may cause]]></summary>
+        <author>
+            <name>Gatsby RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 9 Reasons to Stay Current on Dynamics GP]]></title>
+        <id>https://www.encorebusiness.com/?p=56842</id>
+        <link href="https://www.encorebusiness.com/blog/reasons-to-stay-current-on-dynamics-gp/"/>
+        <updated>2023-05-25T14:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Top 9 Reasons to Stay Current on Dynamics GP
+Here are the top 9 reasons why it’s important to remain current on Dynamics GP. To ensure that you are current on Dynamics GP, you need to upgrade to the latest version if you are still using an old version. After upgrading to the latest version, you must keep up with at least one of...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Patrick Ceaser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #13]]></title>
+        <id>http://dynamicsax-fico.com/?p=5141</id>
+        <link href="https://dynamicsax-fico.com/2023/05/25/microsoft-bizapps-deutschland-podcast-13/"/>
+        <updated>2023-05-25T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[[German language podcast] Im Rahmen der DynamicsMinds Konferenz in Slowenien hatten wir die Möglichkeit mit Georg Glantschnig, dem Microsoft Vice …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Identify duplicate invoices using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-1]]></title>
         <id>http://exploredynamics365.home.blog/?p=2642</id>
