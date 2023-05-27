@@ -1667,6 +1667,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "http://blog.encorebusiness.com/?p=7123",
+          "author": "Tracey Santos",
+          "description": "Microsoft Annual Maintenance Renewal – FAQs\nIn this article we will discuss the annual Microsoft maintenance and support plan and the frequently asked questions we get from our clients. 1. What is this annual maintenance & support plan we pay for each year? “Your Microsoft Dynamics Enhancement Plan service plan is what you need to stay compliant, competitive, and thrive in...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/microsoft-annual-maintenance-renewal-faqs/",
+          "publishedOn": "2023-05-26T15:07:11.000Z",
+          "wordCount": 1454,
+          "title": "Microsoft Annual Maintenance Renewal – FAQs",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/03/Msft-Tech.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=56842",
           "author": "Patrick Ceaser",
           "description": "Top 9 Reasons to Stay Current on Dynamics GP\nHere are the top 9 reasons why it’s important to remain current on Dynamics GP. To ensure that you are current on Dynamics GP, you need to upgrade to the latest version if you are still using an old version. After upgrading to the latest version, you must keep up with at least one of...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -3548,16 +3558,6 @@
           "wordCount": 928,
           "title": "MsDyn365SCM Inventory Visibility Add-in",
           "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/05/inventoryvisibilityaddin-banner.png"
-        },
-        {
-          "id": "https://msdyn365fo.wordpress.com/?p=483",
-          "author": "Paul Heisterkamp",
-          "description": "In this blog I want to share with you, how you can reduce the amount of clicks needed to access the Microsoft Dynamics 365 for Finance and Operations developer tools in Visual Studio. I´ve recently started to use Visual Studio 2019 for my MsDyn365FO development work. All in all the extension works quite well with … Continue reading Reduce the amount of clicks to access the MsDyn365FO developer tools in Visual Studio →",
-          "link": "https://msdyn365fo.wordpress.com/2021/05/27/reduce-the-amount-of-clicks-to-access-the-msdyn365fo-developer-tools-in-visual-studio/",
-          "publishedOn": "2021-05-27T08:19:03.000Z",
-          "wordCount": 646,
-          "title": "Reduce the amount of clicks to access the MsDyn365FO developer tools in Visual Studio",
-          "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/05/amenabilityofmsdyn365fodevelopertools-customize.png"
         }
       ]
     },
@@ -10988,16 +10988,6 @@
           "wordCount": 3640,
           "title": "WHS Label copies, Custom work, display methods on labels",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:580c31c1-a3e6-430b-a77e-ac3c2a7307a4",
-          "author": "Eugen Glasow",
-          "description": "The deconsolidation (opening of a complex packaging, quality control, taking small packages out of the larger packages announced by the supplier of the goods via ASN) seems to be a well-established process...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/towards-the-deconsolidation-in-dynamics-warehouse-management",
-          "publishedOn": "2021-05-26T19:02:48.000Z",
-          "wordCount": 4399,
-          "title": "Towards the deconsolidation in Dynamics Warehouse Management",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -11766,6 +11756,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f4ae20dc-a91b-4d45-9b5f-bf0709ad0e56",
+          "author": "Deepak Singh",
+          "description": "Business Requirement\nTo configure the GST Setup for Indian Legal entity in new Sandbox Environment where there is blank in Tax configuration under Electronic Reporting workspace. \n\n\nNote: The Tax engine functionality is only available for l...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/tax-engine-import-configuration-in-d365-finance-operations",
+          "publishedOn": "2023-05-26T17:44:45.000Z",
+          "wordCount": 3769,
+          "title": "Tax engine import configuration in D365 Finance & Operations",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f8cfa4d0-a2c0-4e03-951d-faab70edd663",
           "author": "Deepak Singh",

@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-26T01:18:00.772Z</updated>
+    <updated>2023-05-27T01:18:43.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tax engine import configuration in D365 Finance & Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f4ae20dc-a91b-4d45-9b5f-bf0709ad0e56</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/tax-engine-import-configuration-in-d365-finance-operations"/>
+        <updated>2023-05-26T17:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Business Requirement
+To configure the GST Setup for Indian Legal entity in new Sandbox Environment where there is blank in Tax configuration under Electronic Reporting workspace. 
+
+
+Note: The Tax engine functionality is only available for l...(read more)]]></summary>
+        <author>
+            <name>Deepak Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Annual Maintenance Renewal – FAQs]]></title>
+        <id>http://blog.encorebusiness.com/?p=7123</id>
+        <link href="https://www.encorebusiness.com/blog/microsoft-annual-maintenance-renewal-faqs/"/>
+        <updated>2023-05-26T15:07:11.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Annual Maintenance Renewal – FAQs
+In this article we will discuss the annual Microsoft maintenance and support plan and the frequently asked questions we get from our clients. 1. What is this annual maintenance & support plan we pay for each year? “Your Microsoft Dynamics Enhancement Plan service plan is what you need to stay compliant, competitive, and thrive in...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Tracey Santos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Batch Job errors in D365FO: How they can ruin the performance and how to fix them]]></title>
         <id>https://denistrunin.com/performance-d365batch/</id>
@@ -20179,27 +20206,6 @@ W…]]></summary>
         <summary type="html"><![CDATA[We have made the decision not to invest in transitioning the Russian payroll capabilities in Dynamics AX 2012 R3 over to Dynamics 365. However, we’ll continue to support existing Russian payroll capabilities...(read more)]]></summary>
         <author>
             <name>Sergey Shvedov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reduce the amount of clicks to access the MsDyn365FO developer tools in Visual Studio]]></title>
-        <id>https://msdyn365fo.wordpress.com/?p=483</id>
-        <link href="https://msdyn365fo.wordpress.com/2021/05/27/reduce-the-amount-of-clicks-to-access-the-msdyn365fo-developer-tools-in-visual-studio/"/>
-        <updated>2021-05-27T08:19:03.000Z</updated>
-        <summary type="html"><![CDATA[In this blog I want to share with you, how you can reduce the amount of clicks needed to access the Microsoft Dynamics 365 for Finance and Operations developer tools in Visual Studio. I´ve recently started to use Visual Studio 2019 for my MsDyn365FO development work. All in all the extension works quite well with … Continue reading Reduce the amount of clicks to access the MsDyn365FO developer tools in Visual Studio →]]></summary>
-        <author>
-            <name>Paul Heisterkamp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards the deconsolidation in Dynamics Warehouse Management]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:580c31c1-a3e6-430b-a77e-ac3c2a7307a4</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/towards-the-deconsolidation-in-dynamics-warehouse-management"/>
-        <updated>2021-05-26T19:02:48.000Z</updated>
-        <summary type="html"><![CDATA[The deconsolidation (opening of a complex packaging, quality control, taking small packages out of the larger packages announced by the supplier of the goods via ASN) seems to be a well-established process...
-(read more)]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
         </author>
     </entry>
 </feed>
