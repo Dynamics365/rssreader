@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-27T01:18:43.719Z</updated>
+    <updated>2023-05-28T01:27:08.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -20142,70 +20142,6 @@ Let...
         <summary type="html"><![CDATA[RefresherIn a recent post, I talked about testing, using the ATL framework to write easy-to-read test automation. This is a developer activity recommended for ISVs and partners, to ensure their customizations against regressions. At a customer site, if a developer team is unavailable, or for testing E2E scenarios in the system, Microsoft recommends using the RSAT tool. You can see a quick summary]]></summary>
         <author>
             <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing of Dynamics AX business operations performance monitoring]]></title>
-        <id>https://denistrunin.com/performance-operlog/</id>
-        <link href="https://denistrunin.com/performance-operlog/"/>
-        <updated>2021-05-27T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The blog post describes a sample implementation for Dynamics AX business operations performance monitoring and performance analysis]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhance workplace automation with prebuilt RPA templates for Dynamics 365 (preview)]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:a44c185c-3e70-4202-b493-7ea3f61a5efb</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/enhance-workplace-automation-with-prebuilt-rpa-templates-for-dynamics-365-preview"/>
-        <updated>2021-05-27T18:56:34.000Z</updated>
-        <summary type="html"><![CDATA[For many businesses, success increasingly depends on having the agility to innovate and adapt to rapid change, responding to customer needs, competitive pressure, and industry trends. But this is a difficult challenge when employees are buried in time...(read more)]]></summary>
-        <author>
-            <name>Stephen Siciliano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhance workplace automation with prebuilt RPA templates for Dynamics 365 (preview)]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:0003a92c-ebdc-4932-8021-5b3f3b793fba</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/enhance-workplace-automation-with-prebuilt-rpa-templates-for-dynamics-365-preview"/>
-        <updated>2021-05-27T18:56:34.000Z</updated>
-        <summary type="html"><![CDATA[For many businesses, success increasingly depends on having the agility to innovate and adapt to rapid change, responding to customer needs, competitive pressure, and industry trends. But this is a difficult...(read more)]]></summary>
-        <author>
-            <name>Stephen Siciliano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update for our customers using Russian payroll capabilities of Dynamics AX 2012 R3]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f2a4cebc-be81-43d4-927b-0cae687bf381</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/update-for-our-customers-using-russian-payroll-capabilities-of-dynamics-ax-2012-r3"/>
-        <updated>2021-05-27T13:30:29.000Z</updated>
-        <summary type="html"><![CDATA[We have made the decision not to invest in transitioning the Russian payroll capabilities in Dynamics AX 2012 R3 over to Dynamics 365. However, we’ll continue to support existing Russian payroll capabilities for organizations on an Enhancement Plan during...(read more)]]></summary>
-        <author>
-            <name>Sergey Shvedov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update for our customers using Russian payroll capabilities of Dynamics AX 2012 R3]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d7cb904e-4d33-42e3-851a-1a82e8704ea3</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/update-for-our-customers-using-russian-payroll-capabilities-of-dynamics-ax-2012-r3"/>
-        <updated>2021-05-27T13:30:29.000Z</updated>
-        <summary type="html"><![CDATA[We have made the decision not to invest in transitioning the Russian payroll capabilities in Dynamics AX 2012 R3 over to Dynamics 365.
-However, we’ll continue to support existing Russian payroll capabilities for organizations on an Enhancement Plan during the mainstream support and extended support through October 12, 2021 and January 10, 2023, respectively. For more information about Dynamics AX 2012 R3 lifecycle, read this article.
-Although we do not recommend it, organizations can continue using Russian payroll capabilities with the knowledge that all regulatory updates and non-security hotfixes for Dynamics AX 2012 R3 will end on October 12, 2021, and security hotfixes will end on January 10, 2023.
-Here are answers to some common questions for organizations impacted by this decision.
-W…]]></summary>
-        <author>
-            <name>Sergey Shvedov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update for our customers using Russian payroll capabilities of Dynamics AX 2012 R3]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e7731290-89b8-4dd1-9e2b-733f75610c9e</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/update-for-our-customers-using-russian-payroll-capabilities-of-dynamics-ax-2012-r3"/>
-        <updated>2021-05-27T13:30:29.000Z</updated>
-        <summary type="html"><![CDATA[We have made the decision not to invest in transitioning the Russian payroll capabilities in Dynamics AX 2012 R3 over to Dynamics 365. However, we’ll continue to support existing Russian payroll capabilities...(read more)]]></summary>
-        <author>
-            <name>Sergey Shvedov</name>
         </author>
     </entry>
 </feed>
