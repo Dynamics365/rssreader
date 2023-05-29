@@ -6562,6 +6562,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2657",
+          "author": "Saurabh Bharti",
+          "description": "This is the next part of Audit workbench module and its policies. In the previous part we discussed about “Duplicate” query type. If you have not read the previous part, you can read here: Part-1 Now in this blog we will discuss about “Aggregate” query type using the audit policies. Aggregate Query Evaluate multiple source […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/28/identify-high-spenders-expense-lines-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-2/",
+          "publishedOn": "2023-05-28T14:53:43.000Z",
+          "wordCount": 2722,
+          "title": "Identify high spenders expense lines using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-2",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/0-6.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2642",
           "author": "Saurabh Bharti",
           "description": "In today’s blog post, we will discuss a highly significant and often overlooked feature in D365 that can provide a significant level of control for various types of documents. By leveraging audit policies, you gain the ability to evaluate expense reports, vendor invoices, and purchase orders, ensuring their compliance with policy rules that you define. […]",
@@ -6939,6 +6949,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2657",
+          "author": "Saurabh Bharti",
+          "description": "This is the next part of Audit workbench module and its policies. In the previous part we discussed about “Duplicate” query type. If you have not read the previous part, you can read here: Part-1 Now in this blog we will discuss about “Aggregate” query type using the audit policies. Aggregate Query Evaluate multiple source […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/28/identify-high-spenders-expense-lines-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-2/",
+          "publishedOn": "2023-05-28T14:53:43.000Z",
+          "wordCount": 2722,
+          "title": "Identify high spenders expense lines using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-2",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/0-6.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2642",
           "author": "Saurabh Bharti",
           "description": "In today’s blog post, we will discuss a highly significant and often overlooked feature in D365 that can provide a significant level of control for various types of documents. By leveraging audit policies, you gain the ability to evaluate expense reports, vendor invoices, and purchase orders, ensuring their compliance with policy rules that you define. […]",
@@ -7315,6 +7335,26 @@
       "feedUrl": "https://d365snippets.com/feeds/posts/default",
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
+        {
+          "id": "https://www.d365snippets.com/2023/05/power-bi-introduction.html",
+          "author": null,
+          "description": "Introduction Power BI\nMicrosoft Power BI is a powerful and popular business intelligence and data visualization tool or suite developed by Microsoft. It enables users to transform raw data from various sources like Excel, SQL, OData, etc… into interactive and visually appealing dashboards, BI reports, and data visualizations. Power BI offers a range of features and functionalities that make it easier for individuals and organizations to analyze, explore, and share insights from their data. Tableau was considered one of the leading tools in the business intelligence world, but after introduced power BI by Microsoft, Power BI became more popular, this was due to its easiness of development and close integration with the Microsoft Office suite. \nKey Components of Power BI:\n1. Power BI Desktop…",
+          "link": "https://www.d365snippets.com/2023/05/power-bi-introduction.html",
+          "publishedOn": "2023-05-28T19:01:00.002Z",
+          "wordCount": 9789,
+          "title": "Power BI Introduction",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpdFVk_9cy70KSCBgYa1bi5WGkPrEBVVmPnFdTnkUXXFvYM0Sybxq55mNDjeiYw_jN0a6ub--WXkganfWUKq43mLuVv6zBVmUTcxVeUvc5ZKyg80IsNU53HwB-4bzybCoZ_lI8shdGdjQARjXgPvTlPlUs-1KqvIoMED0vBhk2fI698C9ZfCrCS39V/s16000/power%20bi%20introduction.png"
+        },
+        {
+          "id": "https://www.d365snippets.com/2023/05/cascade%20-delete-action-in-dynamics-365-fo.html",
+          "author": null,
+          "description": "When a Delete Action comes into the\npicture? Normally delete actions come into the picture when a user\nis trying to delete a database record. Delete actions are used to maintain\nthe data integrity and consistency of\nthe database. At the time of development, a developer must take\ncare of the delete actions to implement in the project.\n\n\n\nIn Dynamics 365 Finance and Operations (D365 FO), the delete action refers to the deletion of a record from a table in the database.\nWhen a record is deleted, it is permanently removed from the system and cannot be recovered. Therefore, it is important to exercise caution when performing this action and ensure that it is necessary and appropriate to do so. In D365 FO, the Deleted action can be performed using various methods, including:\n\nUsing the \"Delete\" …",
+          "link": "https://www.d365snippets.com/2023/05/cascade%20-delete-action-in-dynamics-365-fo.html",
+          "publishedOn": "2023-05-28T12:54:00.024Z",
+          "wordCount": 10349,
+          "title": "Cascade Delete Action in Dynamics 365 FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh92lYckV-_-2LV33eXR6i7DETJDsa6Yq2jIGBYWBBGCo97nsf9rHecmrCJ7YGSeLdBykYYSq_NjQFHueJ5HvmBO__QCjdeVME_-mdjRLTKzRR90ZRp8jzyTiy7hHI9uD4j1nR8WD4ZRycaM26qcI-1M54wIRkdSbjvx7HS_xg1XB1UyMFhVQFlB0XX/s16000/cascade%20delte%20action%20in%20d365%20delete%20action%20in%20d365.png"
+        },
         {
           "id": "https://www.d365snippets.com/2023/05/delete-actions-in-dynamics-365-finance-and-operations.html",
           "author": null,
@@ -8558,16 +8598,6 @@
           "wordCount": 3166,
           "title": "[We're hiring!] Multiple open positions for passionate and talented software engineers in Microsoft Cloud for Sustainability team in Atlanta, GA",
           "imageUrl": null
-        },
-        {
-          "id": "http://kashperuk.blogspot.com/2021/05/announcement-warehouse-app-task.html",
-          "author": null,
-          "description": "RefresherIn a recent post, I talked about testing, using the ATL framework to write easy-to-read test automation. This is a developer activity recommended for ISVs and partners, to ensure their customizations against regressions. At a customer site, if a developer team is unavailable, or for testing E2E scenarios in the system, Microsoft recommends using the RSAT tool. You can see a quick summary",
-          "link": "http://kashperuk.blogspot.com/2021/05/announcement-warehouse-app-task.html",
-          "publishedOn": "2021-05-28T20:59:00.001Z",
-          "wordCount": 3426,
-          "title": "[Announcement] Warehouse App task validation framework (RSAT for WMA) now available on Tier 2 environments",
-          "imageUrl": "https://1.bp.blogspot.com/-du4uvh6Rnys/YLFQbPb_XSI/AAAAAAAAluQ/k8v50USrZEUY602sWF10MM-4qt5fslFkwCLcBGAsYHQ/w1200-h630-p-k-no-nu/E2GhZRxXsAI1n-R.png"
         }
       ]
     },
@@ -10957,16 +10987,6 @@
           "publishedOn": "2021-08-09T10:08:10.000Z",
           "wordCount": 3789,
           "title": "Bye-bye work report, welcome wave labels!",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4dcbc760-7103-47fc-b0b9-2d9d8fd386dd",
-          "author": "Eugen Glasow",
-          "description": "Todays exercise is seemingly simple: print a voluntary number of warehouse label copies where the standard Dynamics 365 SCM only prints one. The ingredients are quite exquisite and variegated:\n^PQ\nLet...\n(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/whs-label-copies-custom-work-display-methods-on-labels",
-          "publishedOn": "2021-05-28T21:36:45.000Z",
-          "wordCount": 3640,
-          "title": "WHS Label copies, Custom work, display methods on labels",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]

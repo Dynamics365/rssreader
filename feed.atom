@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-28T01:27:08.667Z</updated>
+    <updated>2023-05-29T01:21:40.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power BI Introduction]]></title>
+        <id>https://www.d365snippets.com/2023/05/power-bi-introduction.html</id>
+        <link href="https://www.d365snippets.com/2023/05/power-bi-introduction.html"/>
+        <updated>2023-05-28T19:01:00.002Z</updated>
+        <summary type="html"><![CDATA[Introduction Power BI
+Microsoft Power BI is a powerful and popular business intelligence and data visualization tool or suite developed by Microsoft. It enables users to transform raw data from various sources like Excel, SQL, OData, etc… into interactive and visually appealing dashboards, BI reports, and data visualizations. Power BI offers a range of features and functionalities that make it easier for individuals and organizations to analyze, explore, and share insights from their data. Tableau was considered one of the leading tools in the business intelligence world, but after introduced power BI by Microsoft, Power BI became more popular, this was due to its easiness of development and close integration with the Microsoft Office suite. 
+Key Components of Power BI:
+1. Power BI Desktop…]]></summary>
+        <author>
+            <name>D365 Snippets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identify high spenders expense lines using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2657</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/28/identify-high-spenders-expense-lines-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-2/"/>
+        <updated>2023-05-28T14:53:43.000Z</updated>
+        <summary type="html"><![CDATA[This is the next part of Audit workbench module and its policies. In the previous part we discussed about “Duplicate” query type. If you have not read the previous part, you can read here: Part-1 Now in this blog we will discuss about “Aggregate” query type using the audit policies. Aggregate Query Evaluate multiple source […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identify high spenders expense lines using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2657</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/28/identify-high-spenders-expense-lines-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-2/"/>
+        <updated>2023-05-28T14:53:43.000Z</updated>
+        <summary type="html"><![CDATA[This is the next part of Audit workbench module and its policies. In the previous part we discussed about “Duplicate” query type. If you have not read the previous part, you can read here: Part-1 Now in this blog we will discuss about “Aggregate” query type using the audit policies. Aggregate Query Evaluate multiple source […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cascade Delete Action in Dynamics 365 FO]]></title>
+        <id>https://www.d365snippets.com/2023/05/cascade%20-delete-action-in-dynamics-365-fo.html</id>
+        <link href="https://www.d365snippets.com/2023/05/cascade%20-delete-action-in-dynamics-365-fo.html"/>
+        <updated>2023-05-28T12:54:00.024Z</updated>
+        <summary type="html"><![CDATA[When a Delete Action comes into the
+picture? Normally delete actions come into the picture when a user
+is trying to delete a database record. Delete actions are used to maintain
+the data integrity and consistency of
+the database. At the time of development, a developer must take
+care of the delete actions to implement in the project.
+
+
+
+In Dynamics 365 Finance and Operations (D365 FO), the delete action refers to the deletion of a record from a table in the database.
+When a record is deleted, it is permanently removed from the system and cannot be recovered. Therefore, it is important to exercise caution when performing this action and ensure that it is necessary and appropriate to do so. In D365 FO, the Deleted action can be performed using various methods, including:
+
+Using the "Delete" …]]></summary>
+        <author>
+            <name>D365 Snippets</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tax engine import configuration in D365 Finance & Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f4ae20dc-a91b-4d45-9b5f-bf0709ad0e56</id>
@@ -20119,29 +20174,6 @@ Later, in Azure it will look like below.
 When we look at the VM with Disk Management we see a striped disk that has partitions for database and ‘A…]]></summary>
         <author>
             <name>Dick Wenning</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHS Label copies, Custom work, display methods on labels]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4dcbc760-7103-47fc-b0b9-2d9d8fd386dd</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/posts/whs-label-copies-custom-work-display-methods-on-labels"/>
-        <updated>2021-05-28T21:36:45.000Z</updated>
-        <summary type="html"><![CDATA[Todays exercise is seemingly simple: print a voluntary number of warehouse label copies where the standard Dynamics 365 SCM only prints one. The ingredients are quite exquisite and variegated:
-^PQ
-Let...
-(read more)]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Announcement] Warehouse App task validation framework (RSAT for WMA) now available on Tier 2 environments]]></title>
-        <id>http://kashperuk.blogspot.com/2021/05/announcement-warehouse-app-task.html</id>
-        <link href="http://kashperuk.blogspot.com/2021/05/announcement-warehouse-app-task.html"/>
-        <updated>2021-05-28T20:59:00.001Z</updated>
-        <summary type="html"><![CDATA[RefresherIn a recent post, I talked about testing, using the ATL framework to write easy-to-read test automation. This is a developer activity recommended for ISVs and partners, to ensure their customizations against regressions. At a customer site, if a developer team is unavailable, or for testing E2E scenarios in the system, Microsoft recommends using the RSAT tool. You can see a quick summary]]></summary>
-        <author>
-            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
 </feed>
