@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-29T01:21:40.992Z</updated>
+    <updated>2023-05-30T01:22:03.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Identify/monitor high value/volume Purchase/expense lines using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-3]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2672</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/29/identify-monitor-high-value-volume-purchase-expense-lines-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-3/"/>
+        <updated>2023-05-29T12:20:59.000Z</updated>
+        <summary type="html"><![CDATA[This the part-3 of the Audit workbench policy configuration in Microsoft dynamics 365 finance and operations. Part-1 and Part-2 In this blog I will talk about another query type “Sampling” and how it can be used for Aduit purpose. Sampling:  Randomly select a specified percentage of the source documents to evaluate for policy violations. When […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identify/monitor high value/volume Purchase/expense lines using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-3]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2672</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/29/identify-monitor-high-value-volume-purchase-expense-lines-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-3/"/>
+        <updated>2023-05-29T12:20:59.000Z</updated>
+        <summary type="html"><![CDATA[This the part-3 of the Audit workbench policy configuration in Microsoft dynamics 365 finance and operations. Part-1 and Part-2 In this blog I will talk about another query type “Sampling” and how it can be used for Aduit purpose. Sampling:  Randomly select a specified percentage of the source documents to evaluate for policy violations. When […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power BI Introduction]]></title>
         <id>https://www.d365snippets.com/2023/05/power-bi-introduction.html</id>
@@ -140,6 +160,28 @@ Continue reading →]]></summary>
         <summary type="html"><![CDATA[In today’s blog post, we will discuss a highly significant and often overlooked feature in D365 that can provide a significant level of control for various types of documents. By leveraging audit policies, you gain the ability to evaluate expense reports, vendor invoices, and purchase orders, ensuring their compliance with policy rules that you define. […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transform your customer support organization with copilot AI in 30 days]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/24/transform-your-customer-support-organization-with-copilot-ai-in-30-days/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/24/transform-your-customer-support-organization-with-copilot-ai-in-30-days/"/>
+        <updated>2023-05-24T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the preview of Copilot in Dynamics 365 Customer Service, it's easy to bring next-generation AI to your customer support organization.
+The post Transform your customer support organization with copilot AI in 30 days appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Rushil Vora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Dataverse enhancements and AI-powered productivity with Microsoft 365 Copilot]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/24/new-dataverse-enhancements-and-ai-powered-productivity-with-microsoft-365-copilot/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/24/new-dataverse-enhancements-and-ai-powered-productivity-with-microsoft-365-copilot/"/>
+        <updated>2023-05-24T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[At Microsoft Build 2023, we're announcing new AI, low code, and data management capabilities that enable our Dynamics 365 customers to complete time-consuming tasks faster and gain more insights from their business data.
+The post New Dataverse enhancements and AI-powered productivity with Microsoft 365 Copilot appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Nirav Shah</name>
         </author>
     </entry>
     <entry>

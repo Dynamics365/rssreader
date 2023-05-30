@@ -5328,6 +5328,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/24/transform-your-customer-support-organization-with-copilot-ai-in-30-days/",
+          "author": "Rushil Vora",
+          "description": "With the preview of Copilot in Dynamics 365 Customer Service, it's easy to bring next-generation AI to your customer support organization.\nThe post Transform your customer support organization with copilot AI in 30 days appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/24/transform-your-customer-support-organization-with-copilot-ai-in-30-days/",
+          "publishedOn": "2023-05-24T18:00:00.000Z",
+          "wordCount": 2968,
+          "title": "Transform your customer support organization with copilot AI in 30 days",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2019/11/customer-service-1024x576.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/24/new-dataverse-enhancements-and-ai-powered-productivity-with-microsoft-365-copilot/",
+          "author": "Nirav Shah",
+          "description": "At Microsoft Build 2023, we're announcing new AI, low code, and data management capabilities that enable our Dynamics 365 customers to complete time-consuming tasks faster and gain more insights from their business data.\nThe post New Dataverse enhancements and AI-powered productivity with Microsoft 365 Copilot appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/24/new-dataverse-enhancements-and-ai-powered-productivity-with-microsoft-365-copilot/",
+          "publishedOn": "2023-05-24T16:30:00.000Z",
+          "wordCount": 3403,
+          "title": "New Dataverse enhancements and AI-powered productivity with Microsoft 365 Copilot",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/AI-enhanced-Dynamics-365-data.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/23/new-multi-image-attachment-feature-and-tips-to-get-the-most-out-of-inspections/",
           "author": "Joseph Shum",
           "description": "You can now easily select multiple pictures for upload during Inspections! \nThe post Dynamics 365 Field Service Mobile: New multi-image attachment feature and tips to get the most out of Inspections appeared first on Microsoft Dynamics 365 Blog.",
@@ -6562,6 +6582,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2672",
+          "author": "Saurabh Bharti",
+          "description": "This the part-3 of the Audit workbench policy configuration in Microsoft dynamics 365 finance and operations. Part-1 and Part-2 In this blog I will talk about another query type “Sampling” and how it can be used for Aduit purpose. Sampling:  Randomly select a specified percentage of the source documents to evaluate for policy violations. When […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/29/identify-monitor-high-value-volume-purchase-expense-lines-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-3/",
+          "publishedOn": "2023-05-29T12:20:59.000Z",
+          "wordCount": 2747,
+          "title": "Identify/monitor high value/volume Purchase/expense lines using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-3",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/5-6.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2657",
           "author": "Saurabh Bharti",
           "description": "This is the next part of Audit workbench module and its policies. In the previous part we discussed about “Duplicate” query type. If you have not read the previous part, you can read here: Part-1 Now in this blog we will discuss about “Aggregate” query type using the audit policies. Aggregate Query Evaluate multiple source […]",
@@ -6948,6 +6978,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2672",
+          "author": "Saurabh Bharti",
+          "description": "This the part-3 of the Audit workbench policy configuration in Microsoft dynamics 365 finance and operations. Part-1 and Part-2 In this blog I will talk about another query type “Sampling” and how it can be used for Aduit purpose. Sampling:  Randomly select a specified percentage of the source documents to evaluate for policy violations. When […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/29/identify-monitor-high-value-volume-purchase-expense-lines-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-3/",
+          "publishedOn": "2023-05-29T12:20:59.000Z",
+          "wordCount": 2747,
+          "title": "Identify/monitor high value/volume Purchase/expense lines using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-3",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/5-6.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2657",
           "author": "Saurabh Bharti",
