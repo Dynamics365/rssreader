@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-30T01:22:03.599Z</updated>
+    <updated>2023-05-31T01:40:13.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Audit Expense reports/purchase orders with specific keywords using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-4]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2686</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/30/audit-expense-reports-purchase-orders-with-specific-keywords-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-4/"/>
+        <updated>2023-05-30T14:41:17.000Z</updated>
+        <summary type="html"><![CDATA[This is the part-4 of this blog series. You can read previous blogs here: Part-1, Part-2 and Part-3 Now in this blog I will talk about the next query type which is “Keyword search”. Evaluate source documents to determine whether they contain certain words. When you select this option, enter the words to look for […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audit Expense reports/purchase orders with specific keywords using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-4]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2686</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/30/audit-expense-reports-purchase-orders-with-specific-keywords-using-audit-workbench-policies-in-microsoft-dynamics-365-finance-and-operations-part-4/"/>
+        <updated>2023-05-30T14:41:17.000Z</updated>
+        <summary type="html"><![CDATA[This is the part-4 of this blog series. You can read previous blogs here: Part-1, Part-2 and Part-3 Now in this blog I will talk about the next query type which is “Keyword search”. Evaluate source documents to determine whether they contain certain words. When you select this option, enter the words to look for […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update ItemCoverage using OData – Limitation & Workaround – D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2676</id>
+        <link href="https://anithasantosh.wordpress.com/2023/05/30/update-itemcoverage-using-odata-limitation-workaround-d365fo/"/>
+        <updated>2023-05-30T14:36:43.000Z</updated>
+        <summary type="html"><![CDATA[Updating existing data using Odata is not a new ask in any integration. Most of the entities which are exposed in D365FO would not have any issues during update. I`ve posted the CRUD operations for the entities here Update for … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Identify/monitor high value/volume Purchase/expense lines using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-3]]></title>
         <id>http://exploredynamics365.home.blog/?p=2672</id>
@@ -82,6 +112,17 @@ Using the "Delete" …]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Boost your productivity with timeline enhancements]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/27/personalize-your-timeline-layout-and-boost-your-productivity/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/27/personalize-your-timeline-layout-and-boost-your-productivity/"/>
+        <updated>2023-05-27T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Layout personalization and persistent filters to inline attachment and transcript views are designed to boost user personalization and productivity.
+The post Boost your productivity with timeline enhancements appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Madhuri Somara</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tax engine import configuration in D365 Finance & Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f4ae20dc-a91b-4d45-9b5f-bf0709ad0e56</id>
         <link href="https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/tax-engine-import-configuration-in-d365-finance-operations"/>
@@ -109,6 +150,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introduction to Over/Under tolerance feature during goods in transit process]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/26/introduction-to-over-under-tolerance-feature-during-goods-in-transit-process/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/26/introduction-to-over-under-tolerance-feature-during-goods-in-transit-process/"/>
+        <updated>2023-05-26T08:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 F&O Supply Chain Management is a powerful enterprise resource planning (ERP) system that offers a range of modules to help businesses manage their operations. One of the modules available is the landed cost module, which helps businesses to calculate the total cost of a product, including all the additional costs incurred when importing goods from overseas. One of the key functions of the landed cost module is the over and under delivery tolerance function, which helps businesses to manage their costs and avoid unexpected expenses.
+The post Introduction to Over/Under tolerance feature during goods in transit process appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Roger Sa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Batch Job errors in D365FO: How they can ruin the performance and how to fix them]]></title>
         <id>https://denistrunin.com/performance-d365batch/</id>
         <link href="https://denistrunin.com/performance-d365batch/"/>
@@ -116,6 +168,28 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[The blog post describes how D365FO batch framework handle errors and what kind of problems it may cause]]></summary>
         <author>
             <name>Gatsby RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winning sales sequences: A/B testing guide]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/25/winning-sales-sequences-a-b-testing-guide/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/25/winning-sales-sequences-a-b-testing-guide/"/>
+        <updated>2023-05-25T17:20:00.000Z</updated>
+        <summary type="html"><![CDATA[In the Sales world, business success is often dependent upon effective communication with customers.
+The post Winning sales sequences: A/B testing guide appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Akhilesh Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Labelling processes with new enhanced capabilities]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/05/25/improve-labelling-processes-with-new-enhanced-capabilities/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/05/25/improve-labelling-processes-with-new-enhanced-capabilities/"/>
+        <updated>2023-05-25T15:07:24.000Z</updated>
+        <summary type="html"><![CDATA[Effective labelling processes and configuration play a crucial role in optimizing warehouse operations. There are several reasons why accurate labelling and configuration are important, as highlighted below.
+The post Improve Labelling processes with new enhanced capabilities appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Galyna Fedorova</name>
         </author>
     </entry>
     <entry>
