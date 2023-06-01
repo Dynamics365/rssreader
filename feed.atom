@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-05-31T01:40:13.986Z</updated>
+    <updated>2023-06-01T01:56:46.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central Extensions: How to Download & Install Them]]></title>
+        <id>https://www.encorebusiness.com/?p=39857</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-365-business-central-extensions-how-download-install/"/>
+        <updated>2023-05-31T15:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Business Central Extensions: How to Download & Install Them
+There are many different Dynamics 365 Business Central extensions, also known as apps, that you can download and install to add functionality to your ERP. Follow the simple steps below to see how to download and install extensions in Business Central. Important Notes You and your Dynamics Partner should review potential extensions to determine what fits best...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Fred Holst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Default accounting structure on budget register line in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2699</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/31/default-accounting-structure-on-budget-register-line-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-05-31T13:26:46.000Z</updated>
+        <summary type="html"><![CDATA[This blog is about new feature which is available for us on budgeting module in D365 on enhancing experience on creating budget register line and populate default account structure based on Main account selected on the line. Pre-Requites: Enable feature from feature management. Now lets see how it works: Before enabling feature budget register entry: […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Default accounting structure on budget register line in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2699</id>
+        <link href="https://exploredynamics365.home.blog/2023/05/31/default-accounting-structure-on-budget-register-line-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-05-31T13:26:46.000Z</updated>
+        <summary type="html"><![CDATA[This blog is about new feature which is available for us on budgeting module in D365 on enhancing experience on creating budget register line and populate default account structure based on Main account selected on the line. Pre-Requites: Enable feature from feature management. Now lets see how it works: Before enabling feature budget register entry: […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More power with pipelines in Power Platform]]></title>
+        <id>more-power-with-pipelines-in-power-platform</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/more-power-with-pipelines-in-power-platform/"/>
+        <updated>2023-05-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It has been amazing to see how pipelines in Power Platform have been used over the past few months since the general availability (GA) release in March, saving companies like Lumen time and providing more accessibility to ALM. We are excited to announce that new features are now available in Pipelines! In this blog post, we’ll be going through the latest updates to the Pipelines experience and guiding you through the steps to making your deployments even more seamless than before.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Time to Increment Dynamics 365 to Version 11: A Focus on Dataverse and CoPilot Innovations]]></title>
+        <id>http://kurthatlevik.com/2023/05/31/its-time-to-increment-dynamics-365-to-version-11-a-focus-on-dataverse-and-copilot-innovations/</id>
+        <link href="https://kurthatlevik.com/2023/05/31/its-time-to-increment-dynamics-365-to-version-11-a-focus-on-dataverse-and-copilot-innovations/"/>
+        <updated>2023-05-31T05:29:22.000Z</updated>
+        <summary type="html"><![CDATA[In the evolving world of business applications, Microsoft Dynamics 365 has consistently played a pivotal role in empowering organizations to drive digital transformation. With a rich history of releases, each version of Dynamics 365 has brought about significant enhancements and introduced innovative features to streamline operations, improve customer engagements, and accelerate business growth. As we … Continue reading It’s Time to Increment Dynamics 365 to Version 11: A Focus on Dataverse and CoPilot Innovations]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Audit Expense reports/purchase orders with specific keywords using Audit workbench policies in Microsoft dynamics 365 finance and operations: Part-4]]></title>
         <id>http://exploredynamics365.home.blog/?p=2686</id>

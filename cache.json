@@ -1667,6 +1667,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=39857",
+          "author": "Fred Holst",
+          "description": "Dynamics 365 Business Central Extensions: How to Download & Install Them\nThere are many different Dynamics 365 Business Central extensions, also known as apps, that you can download and install to add functionality to your ERP. Follow the simple steps below to see how to download and install extensions in Business Central. Important Notes You and your Dynamics Partner should review potential extensions to determine what fits best...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-365-business-central-extensions-how-download-install/",
+          "publishedOn": "2023-05-31T15:00:11.000Z",
+          "wordCount": 1243,
+          "title": "Dynamics 365 Business Central Extensions: How to Download & Install Them",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "http://blog.encorebusiness.com/?p=7123",
           "author": "Tracey Santos",
           "description": "Microsoft Annual Maintenance Renewal – FAQs\nIn this article we will discuss the annual Microsoft maintenance and support plan and the frequently asked questions we get from our clients. 1. What is this annual maintenance & support plan we pay for each year? “Your Microsoft Dynamics Enhancement Plan service plan is what you need to stay compliant, competitive, and thrive in...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -4655,6 +4665,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/2023/05/31/its-time-to-increment-dynamics-365-to-version-11-a-focus-on-dataverse-and-copilot-innovations/",
+          "author": "Kurt Hatlevik",
+          "description": "In the evolving world of business applications, Microsoft Dynamics 365 has consistently played a pivotal role in empowering organizations to drive digital transformation. With a rich history of releases, each version of Dynamics 365 has brought about significant enhancements and introduced innovative features to streamline operations, improve customer engagements, and accelerate business growth. As we … Continue reading It’s Time to Increment Dynamics 365 to Version 11: A Focus on Dataverse and CoPilot Innovations",
+          "link": "https://kurthatlevik.com/2023/05/31/its-time-to-increment-dynamics-365-to-version-11-a-focus-on-dataverse-and-copilot-innovations/",
+          "publishedOn": "2023-05-31T05:29:22.000Z",
+          "wordCount": 3283,
+          "title": "It’s Time to Increment Dynamics 365 to Version 11: A Focus on Dataverse and CoPilot Innovations",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2010/12/kurt.jpg?w=200"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4479",
           "author": "Kurt Hatlevik",
           "description": "As I sit down to pen this message today, my heart brims with a sense of joy and humility. Why, you may wonder? I’ve just crossed an incredible milestone that I scarcely dared to dream of when we embarked on this journey. My blog, my shared space of learning and exchange, is right now surpassing … Continue reading A Million Moments of Gratitude: Celebrating Our Milestone Together",
@@ -6632,6 +6652,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2699",
+          "author": "Saurabh Bharti",
+          "description": "This blog is about new feature which is available for us on budgeting module in D365 on enhancing experience on creating budget register line and populate default account structure based on Main account selected on the line. Pre-Requites: Enable feature from feature management. Now lets see how it works: Before enabling feature budget register entry: […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/31/default-accounting-structure-on-budget-register-line-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-05-31T13:26:46.000Z",
+          "wordCount": 2502,
+          "title": "Default accounting structure on budget register line in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/0-10.png"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2686",
           "author": "Saurabh Bharti",
           "description": "This is the part-4 of this blog series. You can read previous blogs here: Part-1, Part-2 and Part-3 Now in this blog I will talk about the next query type which is “Keyword search”. Evaluate source documents to determine whether they contain certain words. When you select this option, enter the words to look for […]",
@@ -7038,6 +7068,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2699",
+          "author": "Saurabh Bharti",
+          "description": "This blog is about new feature which is available for us on budgeting module in D365 on enhancing experience on creating budget register line and populate default account structure based on Main account selected on the line. Pre-Requites: Enable feature from feature management. Now lets see how it works: Before enabling feature budget register entry: […]",
+          "link": "https://exploredynamics365.home.blog/2023/05/31/default-accounting-structure-on-budget-register-line-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-05-31T13:26:46.000Z",
+          "wordCount": 2502,
+          "title": "Default accounting structure on budget register line in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://exploredynamics365home.files.wordpress.com/2023/05/0-10.png"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2686",
           "author": "Saurabh Bharti",
@@ -12694,6 +12734,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "more-power-with-pipelines-in-power-platform",
+          "author": null,
+          "description": "It has been amazing to see how pipelines in Power Platform have been used over the past few months since the general availability (GA) release in March, saving companies like Lumen time and providing more accessibility to ALM. We are excited to announce that new features are now available in Pipelines! In this blog post, we’ll be going through the latest updates to the Pipelines experience and guiding you through the steps to making your deployments even more seamless than before.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/more-power-with-pipelines-in-power-platform/",
+          "publishedOn": "2023-05-31T08:00:00.000Z",
+          "wordCount": 2222,
+          "title": "More power with pipelines in Power Platform",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "safely-hyperscale-low-code-apps-with-ease-using-microsoft-dataverse",
           "author": null,
