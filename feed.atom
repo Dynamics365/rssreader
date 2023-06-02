@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-01T01:56:46.619Z</updated>
+    <updated>2023-06-02T01:40:31.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s new: Power Apps May 2023 Feature Update]]></title>
+        <id>whats-new-power-apps-may-2023-feature-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-may-2023-feature-update/"/>
+        <updated>2023-06-01T17:13:48.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share for Copilot, Tenant Isolation and the new device preview for makers.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP Canadian Payroll July 2023 Tax Update]]></title>
+        <id>https://www.encorebusiness.com/?p=57054</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-gp-canadian-payroll-july-2023-tax-update/"/>
+        <updated>2023-06-01T15:15:17.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics GP Canadian Payroll July 2023 Tax Update
+A July tax update for Dynamics GP Canadian payroll users has been announced. All the details have not yet been released, but read below for the information available so far. Keep in mind that this information is subject to change, and this article will be updated as new information becomes available. Mid-Year Tax Update for...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Debra Huntly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collection Process automation in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2708</id>
+        <link href="https://exploredynamics365.home.blog/2023/06/01/collection-process-automation-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-06-01T09:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Announcement I am thrilled to announce that after several years of writing blogs to share my expertise in Dynamics 365 Finance and Operations with the community, I am ready to embrace a new approach. As technology rapidly evolves, I am motivated to adapt my knowledge-sharing methods beyond the confines of traditional blogging. While it is […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collection Process automation in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2708</id>
+        <link href="https://exploredynamics365.home.blog/2023/06/01/collection-process-automation-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-06-01T09:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Announcement I am thrilled to announce that after several years of writing blogs to share my expertise in Dynamics 365 Finance and Operations with the community, I am ready to embrace a new approach. As technology rapidly evolves, I am motivated to adapt my knowledge-sharing methods beyond the confines of traditional blogging. While it is […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Syntex & D365 Document Handling]]></title>
+        <id>http://dynamicsax-fico.com/?p=5132</id>
+        <link href="https://dynamicsax-fico.com/2023/06/01/microsoft-syntex-d365-document-handling/"/>
+        <updated>2023-06-01T04:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 Business Central Extensions: How to Download & Install Them]]></title>
         <id>https://www.encorebusiness.com/?p=39857</id>
@@ -209,6 +262,26 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <updated>2023-05-26T08:46:59.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Dynamics 365 F&O Supply Chain Management is a powerful enterprise resource planning (ERP) system that offers a range of modules to help businesses manage their operations. One of the modules available is the landed cost module, which helps businesses to calculate the total cost of a product, including all the additional costs incurred when importing goods from overseas. One of the key functions of the landed cost module is the over and under delivery tolerance function, which helps businesses to manage their costs and avoid unexpected expenses.
 The post Introduction to Over/Under tolerance feature during goods in transit process appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Roger Sa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Over/Under tolerance feature during goods in transit process]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:4310b1c3-d777-4ffc-bcd9-fc32b10f3995</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/introduction-to-over-under-tolerance-feature-during-goods-in-transit-process"/>
+        <updated>2023-05-26T08:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Introduction:Microsoft Dynamics 365 F&O Supply Chain Management is a powerful enterprise resource planning (ERP) system that offers a range of modules to help businesses manage their operations. One of the modules available is the landed cost mod...(read more)]]></summary>
+        <author>
+            <name>Roger Sa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Over/Under tolerance feature during goods in transit process]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:fc9229c9-aa17-4b99-baec-9f72da3b44f8</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/introduction-to-over-under-tolerance-feature-during-goods-in-transit-process"/>
+        <updated>2023-05-26T08:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Introduction:Microsoft Dynamics 365 F&O Supply Chain Management is a powerful enterprise resource planning (ERP) system that offers a range of modules to help businesses manage their operations. O...(read more)]]></summary>
         <author>
             <name>Roger Sa</name>
         </author>
@@ -20289,60 +20362,6 @@ There is a security roll setup required to allow a user to override the price an
         <summary type="html"><![CDATA[Read complete post here(read more)]]></summary>
         <author>
             <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 for Commerce: Size Barcode setup and creation with number sequence]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:70c8bbd2-5ba0-418e-aec3-486a8d423205</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/dynamics-365-for-commerce-size-barcode-setup-and-creation-with-number-sequence"/>
-        <updated>2021-06-01T21:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Below are steps to create a barcode for an item that tracks the Size variant and use a number sequence to automatically create the new barcodes.
-1.Set up the bar code Mask characters:
- Retail and commerce >>Inventory management >>Bar codes and labels>>Mask character
-a.Product = I
-b.Size = Z
-
-
-2.Set up the Bar Code Mask Setup for “Size”:
- Retail and commerce >> Inventory management >> Bar codes and labels >> Bar code mask setup
-NOTE: The total calculated length must be within the length limits of the Bar code setup in Step 3.
-NOTE: When using “Functions>>Create bar codes from number sequence” in Step 10, because Number Sequences will be used to generate the bar code, this Bar code mask setup is not actually used. If you choose “Functions >> Create/Update bar codes”, then this assigned Bar c…]]></summary>
-        <author>
-            <name>DawnLanglie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[D365] The parent of additional control was not found on the base form]]></title>
-        <id>62c06aea4cecce22d735c4d3</id>
-        <link href="https://robscode.onl/d365-the-parent-of-additional-control-was-not-found-on-the-base-form/"/>
-        <updated>2021-06-01T15:34:34.000Z</updated>
-        <summary type="html"><![CDATA[In a project with more than 3 ISV solutions installed we encountered the following compile error from time to time while updating to a new version of ISV Solutions:
-[AxFormExtension/EcoResProductDetailsExtended.ourOwnExtension/Controls/FormExtensionControlnhogurxf1/Parent]:The parent 'ButtonGroupNameFromISV' of the additional control 'FormExtensionControlnhogurxf1' was not found]]></summary>
-        <author>
-            <name>Robin Kretzschmar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Size does matter (or not?)]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:2035182c-b394-4a44-914c-aa5077a2ebf4</id>
-        <link href="https://community.dynamics.com/ax/b/axstart/posts/size-does-matter-or-not"/>
-        <updated>2021-06-01T14:52:31.000Z</updated>
-        <summary type="html"><![CDATA[It is a general issue with D365FO development on those development VMs (virtual machines) when it is not working as planned, in the end we throw it away and start over. In the next blog I will explain some tricks to solve issues on the disk space. Look at the next example, we use a disk of 32GB and need 20 of them so we have 640 GB of disk space.
-
-
-
-
-Of course, check the prices: Pricing – Managed Disks | Microsoft Azure.
-Besides the disk size I also use DS13 V2, so I can upgrade to Managed Disks: Performance tuning development VM (Virtual Machine) – Kaya Consulting (kaya-consulting.com)
-Why not 10 * 64 GB or 5 * 128 GB? It is all about IOPS!
-Later, in Azure it will look like below.
-
-
-
-
-When we look at the VM with Disk Management we see a striped disk that has partitions for database and ‘A…]]></summary>
-        <author>
-            <name>Dick Wenning</name>
         </author>
     </entry>
 </feed>

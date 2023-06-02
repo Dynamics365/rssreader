@@ -1667,6 +1667,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=57054",
+          "author": "Debra Huntly",
+          "description": "Dynamics GP Canadian Payroll July 2023 Tax Update\nA July tax update for Dynamics GP Canadian payroll users has been announced. All the details have not yet been released, but read below for the information available so far. Keep in mind that this information is subject to change, and this article will be updated as new information becomes available. Mid-Year Tax Update for...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-gp-canadian-payroll-july-2023-tax-update/",
+          "publishedOn": "2023-06-01T15:15:17.000Z",
+          "wordCount": 1326,
+          "title": "Dynamics GP Canadian Payroll July 2023 Tax Update",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=39857",
           "author": "Fred Holst",
           "description": "Dynamics 365 Business Central Extensions: How to Download & Install Them\nThere are many different Dynamics 365 Business Central extensions, also known as apps, that you can download and install to add functionality to your ERP. Follow the simple steps below to see how to download and install extensions in Business Central. Important Notes You and your Dynamics Partner should review potential extensions to determine what fits best...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -6652,6 +6662,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2708",
+          "author": "Saurabh Bharti",
+          "description": "Announcement I am thrilled to announce that after several years of writing blogs to share my expertise in Dynamics 365 Finance and Operations with the community, I am ready to embrace a new approach. As technology rapidly evolves, I am motivated to adapt my knowledge-sharing methods beyond the confines of traditional blogging. While it is […]",
+          "link": "https://exploredynamics365.home.blog/2023/06/01/collection-process-automation-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-06-01T09:07:06.000Z",
+          "wordCount": 2584,
+          "title": "Collection Process automation in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2699",
           "author": "Saurabh Bharti",
           "description": "This blog is about new feature which is available for us on budgeting module in D365 on enhancing experience on creating budget register line and populate default account structure based on Main account selected on the line. Pre-Requites: Enable feature from feature management. Now lets see how it works: Before enabling feature budget register entry: […]",
@@ -7068,6 +7088,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2708",
+          "author": "Saurabh Bharti",
+          "description": "Announcement I am thrilled to announce that after several years of writing blogs to share my expertise in Dynamics 365 Finance and Operations with the community, I am ready to embrace a new approach. As technology rapidly evolves, I am motivated to adapt my knowledge-sharing methods beyond the confines of traditional blogging. While it is […]",
+          "link": "https://exploredynamics365.home.blog/2023/06/01/collection-process-automation-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-06-01T09:07:06.000Z",
+          "wordCount": 2584,
+          "title": "Collection Process automation in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2699",
           "author": "Saurabh Bharti",
@@ -8325,16 +8355,6 @@
           "wordCount": 983,
           "title": "[D365] How to update ISV solutions with version control",
           "imageUrl": "https://robscode.onl/content/images/2015/02/Black-Pattern-1680x1050.jpg"
-        },
-        {
-          "id": "62c06aea4cecce22d735c4d3",
-          "author": "Robin Kretzschmar",
-          "description": "In a project with more than 3 ISV solutions installed we encountered the following compile error from time to time while updating to a new version of ISV Solutions:\n[AxFormExtension/EcoResProductDetailsExtended.ourOwnExtension/Controls/FormExtensionControlnhogurxf1/Parent]:The parent 'ButtonGroupNameFromISV' of the additional control 'FormExtensionControlnhogurxf1' was not found",
-          "link": "https://robscode.onl/d365-the-parent-of-additional-control-was-not-found-on-the-base-form/",
-          "publishedOn": "2021-06-01T15:34:34.000Z",
-          "wordCount": 795,
-          "title": "[D365] The parent of additional control was not found on the base form",
-          "imageUrl": "https://robscode.onl/content/images/2015/02/Black-Pattern-1680x1050.jpg"
         }
       ]
     },
@@ -9060,6 +9080,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5132",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/06/01/microsoft-syntex-d365-document-handling/",
+          "publishedOn": "2023-06-01T04:43:01.000Z",
+          "wordCount": 2789,
+          "title": "Microsoft Syntex & D365 Document Handling",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/05/orig-en.png"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5141",
           "author": "Ludwig Reinhard",
@@ -10340,16 +10370,6 @@
           "wordCount": 4009,
           "title": "Dynamics AX 2012 naar D365 F&O kookboek",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:2035182c-b394-4a44-914c-aa5077a2ebf4",
-          "author": "Dick Wenning",
-          "description": "It is a general issue with D365FO development on those development VMs (virtual machines) when it is not working as planned, in the end we throw it away and start over. In the next blog I will explain some tricks to solve issues on the disk space. Look at the next example, we use a disk of 32GB and need 20 of them so we have 640 GB of disk space.\n\n\n\n\nOf course, check the prices: Pricing – Managed Disks | Microsoft Azure.\nBesides the disk size I also use DS13 V2, so I can upgrade to Managed Disks: Performance tuning development VM (Virtual Machine) – Kaya Consulting (kaya-consulting.com)\nWhy not 10 * 64 GB or 5 * 128 GB? It is all about IOPS!\nLater, in Azure it will look like below.\n\n\n\n\nWhen we look at the VM with Disk Management we see a striped disk that has partitions for database and ‘A…",
-          "link": "https://community.dynamics.com/ax/b/axstart/posts/size-does-matter-or-not",
-          "publishedOn": "2021-06-01T14:52:31.000Z",
-          "wordCount": 1145,
-          "title": "Size does matter (or not?)",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -10799,6 +10819,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:4310b1c3-d777-4ffc-bcd9-fc32b10f3995",
+          "author": "Roger Sa",
+          "description": "Introduction:Microsoft Dynamics 365 F&O Supply Chain Management is a powerful enterprise resource planning (ERP) system that offers a range of modules to help businesses manage their operations. One of the modules available is the landed cost mod...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/posts/introduction-to-over-under-tolerance-feature-during-goods-in-transit-process",
+          "publishedOn": "2023-05-26T08:46:59.000Z",
+          "wordCount": 3515,
+          "title": "Introduction to Over/Under tolerance feature during goods in transit process",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:119692af-09ae-422d-ab24-afb3ebe6a5ac",
           "author": "Mohamed Aamer",
@@ -11527,16 +11557,6 @@
           "wordCount": 4191,
           "title": "Call Center Price Override Functionality with Manager Approval Workflow for Dynamics 365",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:70c8bbd2-5ba0-418e-aec3-486a8d423205",
-          "author": "DawnLanglie",
-          "description": "Below are steps to create a barcode for an item that tracks the Size variant and use a number sequence to automatically create the new barcodes.\n1.Set up the bar code Mask characters:\n Retail and commerce >>Inventory management >>Bar codes and labels>>Mask character\na.Product = I\nb.Size = Z\n\n\n2.Set up the Bar Code Mask Setup for “Size”:\n Retail and commerce >> Inventory management >> Bar codes and labels >> Bar code mask setup\nNOTE: The total calculated length must be within the length limits of the Bar code setup in Step 3.\nNOTE: When using “Functions>>Create bar codes from number sequence” in Step 10, because Number Sequences will be used to generate the bar code, this Bar code mask setup is not actually used. If you choose “Functions >> Create/Update bar codes”, then this assigned Bar c…",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/dynamics-365-for-commerce-size-barcode-setup-and-creation-with-number-sequence",
-          "publishedOn": "2021-06-01T21:13:00.000Z",
-          "wordCount": 4251,
-          "title": "Dynamics 365 for Commerce: Size Barcode setup and creation with number sequence",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -11839,6 +11859,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/newdynamicsax",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:fc9229c9-aa17-4b99-baec-9f72da3b44f8",
+          "author": "Roger Sa",
+          "description": "Introduction:Microsoft Dynamics 365 F&O Supply Chain Management is a powerful enterprise resource planning (ERP) system that offers a range of modules to help businesses manage their operations. O...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/introduction-to-over-under-tolerance-feature-during-goods-in-transit-process",
+          "publishedOn": "2023-05-26T08:46:59.000Z",
+          "wordCount": 4632,
+          "title": "Introduction to Over/Under tolerance feature during goods in transit process",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:fb5b37f2-1528-4619-ab37-31f74ef9b990",
           "author": "Mohamed Aamer",
@@ -12734,6 +12764,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "whats-new-power-apps-may-2023-feature-update",
+          "author": null,
+          "description": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share for Copilot, Tenant Isolation and the new device preview for makers.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-may-2023-feature-update/",
+          "publishedOn": "2023-06-01T17:13:48.000Z",
+          "wordCount": 3407,
+          "title": "What’s new: Power Apps May 2023 Feature Update",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/Wiz_from_Table.gif"
+        },
         {
           "id": "more-power-with-pipelines-in-power-platform",
           "author": null,
