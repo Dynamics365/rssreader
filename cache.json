@@ -5368,6 +5368,36 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/01/download-live-pdf-release-plans-on-demand/",
+          "author": "Erica Wolff",
+          "description": "Thanks to a recent upgrade of the Microsoft Learn platform, you can now get an up-to-the-minute PDF version of release plans for Dynamics 365, Power Platform, and Cloud for Industry on demand.\nThe post Download live PDF release plans on demand appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/01/download-live-pdf-release-plans-on-demand/",
+          "publishedOn": "2023-06-01T17:36:00.000Z",
+          "wordCount": 2159,
+          "title": "Download live PDF release plans on demand",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/06/CLO17_corporateOffice_020.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/01/5-ways-copilot-in-viva-sales-takes-seller-productivity-to-the-next-level/",
+          "author": "Eyal Zach, Maya Shoval, Rafi Rabo and Katy Shatsov",
+          "description": "AI-powered experiences are changing the game of what’s possible for sellers, and generative AI with Copilot is here to assist sellers do their best work.\nThe post 5 ways Copilot in Viva Sales takes seller productivity to the next level appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/01/5-ways-copilot-in-viva-sales-takes-seller-productivity-to-the-next-level/",
+          "publishedOn": "2023-06-01T17:15:00.000Z",
+          "wordCount": 3237,
+          "title": "5 ways Copilot in Viva Sales takes seller productivity to the next level",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/CLO22_TechOffice_014.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/31/introducing-extended-planning-and-analytics-for-dynamics-365-finance/",
+          "author": "Georg Glantschnig",
+          "description": "Microsoft is introducing a fully developed, customer-ready extended planning and analytics solution (xP&A). Our solution provides Microsoft Dynamics 365 Finance customers with user-friendly and rapidly deployable modern xP&A capabilities.\nThe post Introducing extended planning and analytics for Dynamics 365 Finance appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/31/introducing-extended-planning-and-analytics-for-dynamics-365-finance/",
+          "publishedOn": "2023-05-31T16:00:00.000Z",
+          "wordCount": 2660,
+          "title": "Introducing extended planning and analytics for Dynamics 365 Finance",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/CLO18_portrait_006_1200.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/05/27/personalize-your-timeline-layout-and-boost-your-productivity/",
           "author": "Madhuri Somara",
           "description": "Layout personalization and persistent filters to inline attachment and transcript views are designed to boost user personalization and productivity.\nThe post Boost your productivity with timeline enhancements appeared first on Microsoft Dynamics 365 Blog.",
@@ -12764,6 +12794,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "chevron-leads-the-way-in-citizen-development-by-extending-data-lake-accessibility-with-microsoft-dataverse",
+          "author": null,
+          "description": "Chevron has been at the forefront of the energy industry for more than 140 years, and while there are many factors contributing to this success, it’s clear the ingenuity and creativity of its people continuously pave the way for innovation. The global company has always empowered its workforce to solve business challenges. A solid example…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/chevron-leads-the-way-in-citizen-development-by-extending-data-lake-accessibility-with-microsoft-dataverse/",
+          "publishedOn": "2023-06-02T06:34:42.000Z",
+          "wordCount": 2557,
+          "title": "Chevron Leads the Way in Citizen Development by Extending Data Lake Accessibility with Microsoft Dataverse",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/Pipelines-extensibility-GA2-blog-2.gif"
+        },
         {
           "id": "whats-new-power-apps-may-2023-feature-update",
           "author": null,

@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-02T01:40:31.756Z</updated>
+    <updated>2023-06-03T01:37:38.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chevron Leads the Way in Citizen Development by Extending Data Lake Accessibility with Microsoft Dataverse]]></title>
+        <id>chevron-leads-the-way-in-citizen-development-by-extending-data-lake-accessibility-with-microsoft-dataverse</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/chevron-leads-the-way-in-citizen-development-by-extending-data-lake-accessibility-with-microsoft-dataverse/"/>
+        <updated>2023-06-02T06:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Chevron has been at the forefront of the energy industry for more than 140 years, and while there are many factors contributing to this success, it’s clear the ingenuity and creativity of its people continuously pave the way for innovation. The global company has always empowered its workforce to solve business challenges. A solid example…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Download live PDF release plans on demand]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/01/download-live-pdf-release-plans-on-demand/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/01/download-live-pdf-release-plans-on-demand/"/>
+        <updated>2023-06-01T17:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to a recent upgrade of the Microsoft Learn platform, you can now get an up-to-the-minute PDF version of release plans for Dynamics 365, Power Platform, and Cloud for Industry on demand.
+The post Download live PDF release plans on demand appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Erica Wolff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 ways Copilot in Viva Sales takes seller productivity to the next level]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/01/5-ways-copilot-in-viva-sales-takes-seller-productivity-to-the-next-level/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/01/5-ways-copilot-in-viva-sales-takes-seller-productivity-to-the-next-level/"/>
+        <updated>2023-06-01T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered experiences are changing the game of what’s possible for sellers, and generative AI with Copilot is here to assist sellers do their best work.
+The post 5 ways Copilot in Viva Sales takes seller productivity to the next level appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Eyal Zach, Maya Shoval, Rafi Rabo and Katy Shatsov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s new: Power Apps May 2023 Feature Update]]></title>
         <id>whats-new-power-apps-may-2023-feature-update</id>
@@ -57,6 +89,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing extended planning and analytics for Dynamics 365 Finance]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/31/introducing-extended-planning-and-analytics-for-dynamics-365-finance/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/31/introducing-extended-planning-and-analytics-for-dynamics-365-finance/"/>
+        <updated>2023-05-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is introducing a fully developed, customer-ready extended planning and analytics solution (xP&A). Our solution provides Microsoft Dynamics 365 Finance customers with user-friendly and rapidly deployable modern xP&A capabilities.
+The post Introducing extended planning and analytics for Dynamics 365 Finance appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Georg Glantschnig</name>
         </author>
     </entry>
     <entry>
