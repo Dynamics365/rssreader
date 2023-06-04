@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-03T01:37:38.062Z</updated>
+    <updated>2023-06-04T01:52:45.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics Partner Roundup: Payment processing; Shipping; Industry update]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:70e538bb-13c3-44cc-856e-c9a10919cafb</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-partner-roundup-payment-processing-shipping-industry-update"/>
+        <updated>2023-06-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this week's Microsoft Dynamics Partner News Roundup: 
+ 
+ Fujitsu and Microsoft announce global partnership to enable
+'sustainability transformation' 
+ Bluefort launches free payment collection automation platform
+for Dynamics 365 
+ Now available globally... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chevron Leads the Way in Citizen Development by Extending Data Lake Accessibility with Microsoft Dataverse]]></title>
         <id>chevron-leads-the-way-in-citizen-development-by-extending-data-lake-accessibility-with-microsoft-dataverse</id>
