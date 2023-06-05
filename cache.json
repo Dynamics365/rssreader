@@ -2094,6 +2094,46 @@
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:44e10365-f51a-40b7-a675-307dd6c636df",
+          "author": "Georg Glantschnig",
+          "description": "In an era marked by increasing interest rates, high inflation, and economic uncertainty, empowering CFOs with financial planning tools and data analytics (FP&A) has become essential. These resources aid decision-making by providing comprehensive financial analysis, forecasting, and budgeting capabilities helping organizations to consolidate and analyze financial data, and create accurate financial models. At Microsoft, we are dedicated to delivering advanced FP&A solutions that seamlessly integrate innovative new features with traditional capabilities, empowering CFOs with impactful tools tailored for the modern era. Our objective is to usher in a new generation of planning capabilities for CFOs by unifying data across business processes, delivering near real-time insights to anticipate th…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/introducing-extended-planning-and-analytics-for-dynamics-365-finance",
+          "publishedOn": "2023-05-31T16:00:00.000Z",
+          "wordCount": 4790,
+          "title": "Introducing extended planning and analytics for Dynamics 365 Finance",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:6243eb97-e461-40c8-ab7f-cb4862091783",
+          "author": "Galyna Fedorova",
+          "description": "Introduction\nEffective labelling processes and configuration play a crucial role in optimizing warehouse operations. There are several reasons why accurate labelling and configuration are important.\nFirstly, proper labelling and configuration enhance efficiency in a warehouse. When items are labelled and organized accurately, warehouse staff can quickly locate and identify products, reducing the time spent searching for items and ultimately boosting productivity.\nFurthermore, clear and accurate labelling also reduces the likelihood of picking or shipping errors, which can lead to improved customer satisfaction and decreased costs associated with returns and corrections.\nLastly, proper labelling and configuration contribute to safety and compliance in a warehouse. By adhering to regulations…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/improve-labelling-processes-with-new-enhanced-capabilities",
+          "publishedOn": "2023-05-25T15:07:24.000Z",
+          "wordCount": 4412,
+          "title": "Improve Labelling processes with new enhanced capabilities",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:9320249f-7fa1-41b7-aadd-9edc350538bb",
+          "author": "Rushil Vora",
+          "description": "With the preview of Copilot in Dynamics 365 Customer Service, it’s easy to bring next-generation AI to your customer support organization. Enable Copilot so your agents can start benefiting from these capabilities today: \nChat with Copilot. Agents can diagnose customer problems and find solutions with Copilot-assisted search of internal knowledge bases. \nGenerate live conversation responses. Built-in generative AI suggests appropriate responses faster than agents can type. Agents can handle more cases in less time regardless of how a customer reaches out for support. \nSend expertly crafted emails. Agents can use predefined and custom prompts to create relevant and personalized email responses in seconds. \nView the Copilot case summary. Agents can view a summary of case highlights on the de…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/transform-your-customer-support-organization-with-copilot-ai-in-30-days",
+          "publishedOn": "2023-05-24T18:00:00.000Z",
+          "wordCount": 4818,
+          "title": "Transform your customer support organization with copilot AI in 30 days",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:0838a785-9622-4cec-a437-e8a414f0b8e2",
+          "author": "Joseph Shum",
+          "description": "We’re excited to share some fantastic news for Android users who use Inspection in Dynamics 365 Field Service: you can now easily select multiple pictures for upload during Inspections! This is especially useful where users are capturing photos during a work execution, and it works even in offline scenarios.\nPreviously, only iOS could select and upload multiple photos at once, but now, Android users can do the same. This new feature is designed to speed up the Inspection process by allowing users to select multiple images at once, making it possible to upload all pictures in one go.\nHere’s how to use the feature:\nNavigate to an Inspection in Field Service Mobile, find a question that accepts files and hit “Choose file(s)”\nIn your Android device’s file viewer, tap to highlight multiple file…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/dynamics-365-field-service-mobile-new-multi-image-attachment-feature-and-tips-to-get-the-most-out-of-inspections",
+          "publishedOn": "2023-05-23T16:27:45.000Z",
+          "wordCount": 4492,
+          "title": "Dynamics 365 Field Service Mobile: New multi-image attachment feature and tips to get the most out of Inspections",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:95f6e621-4b61-4cbf-8424-efd873b1e944",
           "author": "Ryan Carlson",
           "description": "Introduction  \nAccount structures in Dynamics 365 Finance use a main account and financial dimensions to create a set of rules that determine the order and allowed values when entering account numbers in transactions. Once an account structure is defined, it must be activated. Historically, the account structure activation process has been time consuming. It was also difficult to view the activation progress or to view any errors with the new configuration. If an account structure configuration change caused an error, a user could not find the root error message on the account structure page, but rather needed to dig through batch job logs to find the error message to understand the problem with the new account structure configuration.  \nFeature details  \nIn order to solve these problems, …",
@@ -11881,16 +11921,6 @@
           "wordCount": 3394,
           "title": "Exporting database from D365 FO tier 1 environments as a bacpac file using SSMS.",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:787bbcfc-1fcc-4870-a9b9-9ccc9ee6c0df",
-          "author": "Sukrut Parab",
-          "description": "Read complete post here(read more)",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/posts/using-power-apps-to-upload-document-attachments-in-f-o",
-          "publishedOn": "2021-06-05T05:22:00.000Z",
-          "wordCount": 3384,
-          "title": "Using Power Apps to upload document attachments in F&O",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -11946,6 +11976,16 @@
       "feedUrl": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/rss",
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning",
       "articles": [
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:32ded1a2-9b35-4735-a935-eea9747198a1",
+          "author": "Deepak Singh",
+          "description": "Requirement\nIn the previous blog where we learned how to Import Tax (India GST) from Electronic Reporting. After Importing the Tax (India GST) from Electronic Reporting it is required to do the Tax setup in the Tax module of D365 Finance & O...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/posts/tax-configuration-setup-in-d365-finance-operations",
+          "publishedOn": "2023-06-04T14:12:15.000Z",
+          "wordCount": 3795,
+          "title": "Tax Configuration Setup in D365 Finance & Operations",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
         {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f4ae20dc-a91b-4d45-9b5f-bf0709ad0e56",
           "author": "Deepak Singh",
