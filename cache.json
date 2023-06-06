@@ -3774,6 +3774,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2701",
+          "author": "AnithaEswaran",
+          "description": "In Dynamics 365 Finance version 10.0.34, a new feature Delete journal performance using batch is available. This feature allows the delete process to be scheduled. This lets users to continue other work instead of waiting for the delete processing to complete. To … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/06/05/delete-journal-performance-using-batch-feature-10-0-34/",
+          "publishedOn": "2023-06-05T20:16:01.000Z",
+          "wordCount": 3504,
+          "title": "Delete journal performance using Batch – Feature – 10.0.34",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/06/image-6.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2676",
           "author": "AnithaEswaran",
           "description": "Updating existing data using Odata is not a new ask in any integration. Most of the entities which are exposed in D365FO would not have any issues during update. I`ve posted the CRUD operations for the entities here Update for … Continue reading →",
@@ -4170,6 +4180,16 @@
       "feedUrl": "https://dynamics365musings.com/feed/",
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
+        {
+          "id": "https://dynamics365musings.com/?p=2880",
+          "author": "peter.ramer",
+          "description": "In the last couple articles, you learned what a data entity is, and how to create one. Now, learn how to test and use a D365 data entity to read or write data in Microsoft Dynamics 365 for Finance and Operations. Review Before showing you the steps to use a D365 Data Entity, as a... Continue Reading →\nThe post How To Use A D365 Data Entity appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/use-a-d365-data-entity/?utm_source=rss&utm_medium=rss&utm_campaign=use-a-d365-data-entity",
+          "publishedOn": "2023-06-05T13:00:00.000Z",
+          "wordCount": 4541,
+          "title": "How To Use A D365 Data Entity",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/05/How-To-Use-A-D365-Data-Entity.png"
+        },
         {
           "id": "https://dynamics365musings.com/?p=2803",
           "author": "peter.ramer",
@@ -6742,6 +6762,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2711",
+          "author": "Saurabh Bharti",
+          "description": "Microsoft Dynamics 365 Supply Chain Management offers a comprehensive Supply Risk Assessment feature that enables organizations to identify potential risks in the supply chain. By utilizing this feature, businesses can take proactive measures to prevent disruptions and maintain smooth operations. The Supply Risk Assessment workspace, in conjunction with supplier performance and risk analysis reports, empowers […]",
+          "link": "https://exploredynamics365.home.blog/2023/06/05/supply-risk-assessment-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-06-05T07:36:25.000Z",
+          "wordCount": 2543,
+          "title": "Supply risk Assessment in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "http://img.youtube.com/vi/JgD7i3eKOYM/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2708",
           "author": "Saurabh Bharti",
           "description": "Announcement I am thrilled to announce that after several years of writing blogs to share my expertise in Dynamics 365 Finance and Operations with the community, I am ready to embrace a new approach. As technology rapidly evolves, I am motivated to adapt my knowledge-sharing methods beyond the confines of traditional blogging. While it is […]",
@@ -7168,6 +7198,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2711",
+          "author": "Saurabh Bharti",
+          "description": "Microsoft Dynamics 365 Supply Chain Management offers a comprehensive Supply Risk Assessment feature that enables organizations to identify potential risks in the supply chain. By utilizing this feature, businesses can take proactive measures to prevent disruptions and maintain smooth operations. The Supply Risk Assessment workspace, in conjunction with supplier performance and risk analysis reports, empowers […]",
+          "link": "https://exploredynamics365.home.blog/2023/06/05/supply-risk-assessment-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-06-05T07:36:25.000Z",
+          "wordCount": 2543,
+          "title": "Supply risk Assessment in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "http://img.youtube.com/vi/JgD7i3eKOYM/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2708",
           "author": "Saurabh Bharti",
@@ -12844,6 +12884,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "may-2023-updates-for-modernization-in-power-apps",
+          "author": null,
+          "description": "Note: This blog is in continuation of the announcement of modern controls coming to canvas apps & new look for model driven apps. We thank our community and users for the active engagement on the journey to modernize Power Apps. This blog outlines the modernization updates we rolled out or are rolling out on both…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/may-2023-updates-for-modernization-in-power-apps/",
+          "publishedOn": "2023-06-05T11:25:00.000Z",
+          "wordCount": 2186,
+          "title": "May 2023 updates for modernization in Power Apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "new-power-apps-home-page-now-in-public-preview",
+          "author": null,
+          "description": "Our latest update features a modern design that offers an intuitive and user-friendly experience. The new layout showcases the latest AI Copilot app creation flow, plus simplified “Start from” options, making it easier than ever for you to start creating apps to solve your business needs.  Key improvements to the new home page include:  A…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/new-power-apps-home-page-now-in-public-preview/",
+          "publishedOn": "2023-06-05T09:12:23.000Z",
+          "wordCount": 1932,
+          "title": "New Power Apps home page now in public preview",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/Home-Page-Pic_1.png"
+        },
         {
           "id": "chevron-leads-the-way-in-citizen-development-by-extending-data-lake-accessibility-with-microsoft-dataverse",
           "author": null,

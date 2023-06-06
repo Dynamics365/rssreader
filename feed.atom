@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-05T01:38:58.705Z</updated>
+    <updated>2023-06-06T01:41:12.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Delete journal performance using Batch – Feature – 10.0.34]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2701</id>
+        <link href="https://anithasantosh.wordpress.com/2023/06/05/delete-journal-performance-using-batch-feature-10-0-34/"/>
+        <updated>2023-06-05T20:16:01.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 Finance version 10.0.34, a new feature Delete journal performance using batch is available. This feature allows the delete process to be scheduled. This lets users to continue other work instead of waiting for the delete processing to complete. To … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use A D365 Data Entity]]></title>
+        <id>https://dynamics365musings.com/?p=2880</id>
+        <link href="https://dynamics365musings.com/use-a-d365-data-entity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=use-a-d365-data-entity"/>
+        <updated>2023-06-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the last couple articles, you learned what a data entity is, and how to create one. Now, learn how to test and use a D365 data entity to read or write data in Microsoft Dynamics 365 for Finance and Operations. Review Before showing you the steps to use a D365 Data Entity, as a... Continue Reading →
+The post How To Use A D365 Data Entity appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 2023 updates for modernization in Power Apps]]></title>
+        <id>may-2023-updates-for-modernization-in-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/may-2023-updates-for-modernization-in-power-apps/"/>
+        <updated>2023-06-05T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Note: This blog is in continuation of the announcement of modern controls coming to canvas apps & new look for model driven apps. We thank our community and users for the active engagement on the journey to modernize Power Apps. This blog outlines the modernization updates we rolled out or are rolling out on both…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Power Apps home page now in public preview]]></title>
+        <id>new-power-apps-home-page-now-in-public-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/new-power-apps-home-page-now-in-public-preview/"/>
+        <updated>2023-06-05T09:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Our latest update features a modern design that offers an intuitive and user-friendly experience. The new layout showcases the latest AI Copilot app creation flow, plus simplified “Start from” options, making it easier than ever for you to start creating apps to solve your business needs.  Key improvements to the new home page include:  A…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply risk Assessment in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2711</id>
+        <link href="https://exploredynamics365.home.blog/2023/06/05/supply-risk-assessment-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-06-05T07:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Supply Chain Management offers a comprehensive Supply Risk Assessment feature that enables organizations to identify potential risks in the supply chain. By utilizing this feature, businesses can take proactive measures to prevent disruptions and maintain smooth operations. The Supply Risk Assessment workspace, in conjunction with supplier performance and risk analysis reports, empowers […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply risk Assessment in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2711</id>
+        <link href="https://exploredynamics365.home.blog/2023/06/05/supply-risk-assessment-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-06-05T07:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Supply Chain Management offers a comprehensive Supply Risk Assessment feature that enables organizations to identify potential risks in the supply chain. By utilizing this feature, businesses can take proactive measures to prevent disruptions and maintain smooth operations. The Supply Risk Assessment workspace, in conjunction with supplier performance and risk analysis reports, empowers […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tax Configuration Setup in D365 Finance & Operations]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:32ded1a2-9b35-4735-a935-eea9747198a1</id>
