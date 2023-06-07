@@ -1677,6 +1677,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56439",
+          "author": "The Encore Team",
+          "description": "Update Your Dates & Voucher Numbers With Excel in D365 Finance & Operations\nWhen using the “open lines in Excel” function in Dynamics 365 Finance & Operations, the system provides one voucher number for the entire entry, no matter if you have 10 lines or 1000 lines. That can create a problem for clients who would like to use this feature for uploading credit card transactions from their...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/update-your-dates-voucher-numbers-with-excel-in-d365-finance-operations/",
+          "publishedOn": "2023-06-06T15:00:04.000Z",
+          "wordCount": 1445,
+          "title": "Update Your Dates & Voucher Numbers With Excel in D365 Finance & Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=57054",
           "author": "Debra Huntly",
           "description": "Dynamics GP Canadian Payroll July 2023 Tax Update\nA July tax update for Dynamics GP Canadian payroll users has been announced. All the details have not yet been released, but read below for the information available so far. Keep in mind that this information is subject to change, and this article will be updated as new information becomes available. Mid-Year Tax Update for...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -5437,6 +5447,46 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/06/maximizing-efficiency-in-resource-scheduling-prioritizing-locked-bookings-2/",
+          "author": "Feifei Qiu",
+          "description": "With the improved logic for locked bookings shipped along RSO 3.4.0.8, RSO will ALWAYS include locked bookings in the new proposed schedules, and schedule other bookings around. \nThe post Maximizing efficiency in Resource Scheduling: Prioritizing Locked Bookings appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/06/maximizing-efficiency-in-resource-scheduling-prioritizing-locked-bookings-2/",
+          "publishedOn": "2023-06-06T16:05:00.000Z",
+          "wordCount": 2384,
+          "title": "Maximizing efficiency in Resource Scheduling: Prioritizing Locked Bookings",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/CLO22_TechOffice_066-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/05/enhancing-seller-productivity-customize-viva-sales-forms/",
+          "author": "Eran Manor",
+          "description": "In today's competitive business landscape, maximizing the value sellers derive from sales tools is paramount.\nThe post Enhancing Seller Productivity: Customize Viva Sales Forms  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/05/enhancing-seller-productivity-customize-viva-sales-forms/",
+          "publishedOn": "2023-06-05T17:30:00.000Z",
+          "wordCount": 2540,
+          "title": "Enhancing Seller Productivity: Customize Viva Sales Forms",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/06/CLO22_TechOffice_061-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/05/a-report-on-global-state-of-customer-service-sophistication/",
+          "author": "Arvind Iyer",
+          "description": "With a growing alignment between customer service and brand loyalty, companies recognize the growing complexity and consequence of the service relationship. Those looking to bridge the divide have sought new tools and technologies to help evolve service delivery for both the customer and the employee.\nThe post A report on Global State of Customer Service Sophistication appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/05/a-report-on-global-state-of-customer-service-sophistication/",
+          "publishedOn": "2023-06-05T15:00:00.000Z",
+          "wordCount": 2468,
+          "title": "A report on Global State of Customer Service Sophistication",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/OFC16_Millie_006_v2.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/02/personalize-your-timeline-layout-and-boost-your-productivity/",
+          "author": "Madhuri Somara",
+          "description": "Layout personalization and persistent filters to inline attachment and transcript views are designed to boost user personalization and productivity.\nThe post Boost your productivity with timeline enhancements appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/02/personalize-your-timeline-layout-and-boost-your-productivity/",
+          "publishedOn": "2023-06-02T17:00:00.000Z",
+          "wordCount": 2106,
+          "title": "Boost your productivity with timeline enhancements",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2021/11/MSC16_slalom_024.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/01/download-live-pdf-release-plans-on-demand/",
           "author": "Erica Wolff",
@@ -12884,6 +12934,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "delegation-improvements-async-updateif-and-miscellaneous-functions",
+          "author": null,
+          "description": "We are excited to announce that several key delegation improvements will roll out this month that should improve your app’s performance and correctness and significantly reduce formula authoring confusion. Today, when you author a Power Fx query expression to get data, for instance a Filter, Power Apps will show a double blue underline to indicate…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/delegation-improvements-async-updateif-and-miscellaneous-functions/",
+          "publishedOn": "2023-06-06T18:21:13.000Z",
+          "wordCount": 1882,
+          "title": "Delegation improvements  Async, UpdateIf, and miscellaneous functions",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "announcing-general-availability-of-wrap-for-power-apps-wizard",
+          "author": null,
+          "description": "We are pleased to announce the General Availability of wrap for Power Apps wizard that can turn your canvas apps into mobile apps for Android and iOS in a few simple steps! Makers can use wrap wizard to create secure, custom-branded, standalone Android and iOS enterprise native mobile apps and distribute them through the app stores or…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-wrap-for-power-apps-wizard/",
+          "publishedOn": "2023-06-06T10:26:40.000Z",
+          "wordCount": 1822,
+          "title": "Announcing General Availability of wrap for Power Apps wizard",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "may-2023-updates-for-modernization-in-power-apps",
           "author": null,

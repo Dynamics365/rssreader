@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-06T01:41:12.102Z</updated>
+    <updated>2023-06-07T01:42:24.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Delegation improvements  Async, UpdateIf, and miscellaneous functions]]></title>
+        <id>delegation-improvements-async-updateif-and-miscellaneous-functions</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/delegation-improvements-async-updateif-and-miscellaneous-functions/"/>
+        <updated>2023-06-06T18:21:13.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce that several key delegation improvements will roll out this month that should improve your app’s performance and correctness and significantly reduce formula authoring confusion. Today, when you author a Power Fx query expression to get data, for instance a Filter, Power Apps will show a double blue underline to indicate…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximizing efficiency in Resource Scheduling: Prioritizing Locked Bookings]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/06/maximizing-efficiency-in-resource-scheduling-prioritizing-locked-bookings-2/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/06/maximizing-efficiency-in-resource-scheduling-prioritizing-locked-bookings-2/"/>
+        <updated>2023-06-06T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[With the improved logic for locked bookings shipped along RSO 3.4.0.8, RSO will ALWAYS include locked bookings in the new proposed schedules, and schedule other bookings around. 
+The post Maximizing efficiency in Resource Scheduling: Prioritizing Locked Bookings appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Feifei Qiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Your Dates & Voucher Numbers With Excel in D365 Finance & Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=56439</id>
+        <link href="https://www.encorebusiness.com/blog/update-your-dates-voucher-numbers-with-excel-in-d365-finance-operations/"/>
+        <updated>2023-06-06T15:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Update Your Dates & Voucher Numbers With Excel in D365 Finance & Operations
+When using the “open lines in Excel” function in Dynamics 365 Finance & Operations, the system provides one voucher number for the entire entry, no matter if you have 10 lines or 1000 lines. That can create a problem for clients who would like to use this feature for uploading credit card transactions from their...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>The Encore Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing General Availability of wrap for Power Apps wizard]]></title>
+        <id>announcing-general-availability-of-wrap-for-power-apps-wizard</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-wrap-for-power-apps-wizard/"/>
+        <updated>2023-06-06T10:26:40.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the General Availability of wrap for Power Apps wizard that can turn your canvas apps into mobile apps for Android and iOS in a few simple steps! Makers can use wrap wizard to create secure, custom-branded, standalone Android and iOS enterprise native mobile apps and distribute them through the app stores or…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Delete journal performance using Batch – Feature – 10.0.34]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2701</id>
@@ -14,6 +58,28 @@
         <summary type="html"><![CDATA[In Dynamics 365 Finance version 10.0.34, a new feature Delete journal performance using batch is available. This feature allows the delete process to be scheduled. This lets users to continue other work instead of waiting for the delete processing to complete. To … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Seller Productivity: Customize Viva Sales Forms]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/05/enhancing-seller-productivity-customize-viva-sales-forms/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/05/enhancing-seller-productivity-customize-viva-sales-forms/"/>
+        <updated>2023-06-05T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's competitive business landscape, maximizing the value sellers derive from sales tools is paramount.
+The post Enhancing Seller Productivity: Customize Viva Sales Forms  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Eran Manor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A report on Global State of Customer Service Sophistication]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/05/a-report-on-global-state-of-customer-service-sophistication/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/05/a-report-on-global-state-of-customer-service-sophistication/"/>
+        <updated>2023-06-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With a growing alignment between customer service and brand loyalty, companies recognize the growing complexity and consequence of the service relationship. Those looking to bridge the divide have sought new tools and technologies to help evolve service delivery for both the customer and the employee.
+The post A report on Global State of Customer Service Sophistication appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Arvind Iyer</name>
         </author>
     </entry>
     <entry>
@@ -76,6 +142,17 @@ The post How To Use A D365 Data Entity appeared first on Dynamics 365 Musings.]]
 In the previous blog where we learned how to Import Tax (India GST) from Electronic Reporting. After Importing the Tax (India GST) from Electronic Reporting it is required to do the Tax setup in the Tax module of D365 Finance & O...(read more)]]></summary>
         <author>
             <name>Deepak Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost your productivity with timeline enhancements]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/02/personalize-your-timeline-layout-and-boost-your-productivity/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/02/personalize-your-timeline-layout-and-boost-your-productivity/"/>
+        <updated>2023-06-02T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Layout personalization and persistent filters to inline attachment and transcript views are designed to boost user personalization and productivity.
+The post Boost your productivity with timeline enhancements appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Madhuri Somara</name>
         </author>
     </entry>
     <entry>
