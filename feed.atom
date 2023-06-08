@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-07T01:42:24.388Z</updated>
+    <updated>2023-06-08T01:39:12.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 Supply Chain Disruptions Solved by PLM-ERP Integration for Manufacturers]]></title>
+        <id>https://www.encorebusiness.com/?p=56976</id>
+        <link href="https://www.encorebusiness.com/blog/7-supply-chain-disruptions-solved-by-plm-erp-integration-for-manufacturers/"/>
+        <updated>2023-06-07T15:00:37.000Z</updated>
+        <summary type="html"><![CDATA[7 Supply Chain Disruptions Solved by PLM-ERP Integration for Manufacturers
+This blog originally appeared here on To-Increase’s blog page.  As a manufacturing business, you could be utilizing PLM and ERP systems to manage and control different processes related to the engineering, designing, and transactions of your products. With both systems handling critical product data, not having them talk to each other puts you at risk...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>To-Increase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run Your Enterprise on Power Platform with New Enterprise Application Templates]]></title>
+        <id>run-your-enterprise-on-power-platform-with-new-enterprise-application-templates</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/run-your-enterprise-on-power-platform-with-new-enterprise-application-templates/"/>
+        <updated>2023-06-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are announcing the Public Preview of the new enterprise application templates for Power Platform — a family of end-to-end solutions that simplify and automate core business processes for a range of common departmental use cases.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Delegation improvements  Async, UpdateIf, and miscellaneous functions]]></title>
         <id>delegation-improvements-async-updateif-and-miscellaneous-functions</id>
@@ -14,6 +37,20 @@
         <summary type="html"><![CDATA[We are excited to announce that several key delegation improvements will roll out this month that should improve your app’s performance and correctness and significantly reduce formula authoring confusion. Today, when you author a Power Fx query expression to get data, for instance a Filter, Power Apps will show a double blue underline to indicate…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximizing efficiency in Resource Scheduling: Prioritizing Locked Bookings]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bcd4e8dd-a3ed-4a11-8fb9-929d9a39198d</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/maximizing-efficiency-in-resource-scheduling-prioritizing-locked-bookings"/>
+        <updated>2023-06-06T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[In Resource Scheduling Optimization, dispatchers can lock existing scheduled bookings to Resource, Time or Time Range, or Resource and Time based on their scheduling scenarios.
+What are locked options and why are they needed?
+Once a booking is created, a lock can be set on the Scheduling Lock Options field in the Resource Scheduling Optimization tab of the Bookable Resource Booking record.
+There are 4 options:
+Lock to ‘Time Range’. A repair work order is scheduled for tomorrow and a confirmation sent to customer stating that a technician will be arriving between 9am to 12pm in the morning. In case if this repair work order needed to be rescheduled as part of rescheduling or re-optimization process, RSO will need to make sure estimated arrival time for this booking still between 9am to 12pm…]]></summary>
+        <author>
+            <name>Feifei Qiu</name>
         </author>
     </entry>
     <entry>
@@ -62,6 +99,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Enhancing Seller Productivity: Customize Viva Sales Forms]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:889d8b6a-95d2-44ad-8714-88eadabd2654</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/enhancing-seller-productivity-customize-viva-sales-forms"/>
+        <updated>2023-06-05T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s competitive business landscape, maximizing the value sellers derive from sales tools is paramount. One key aspect of achieving this is the ability for customers to customize Viva Sales forms, enabling them to have the right business information at the right time. This blog post explores how the latest Viva Sales update empowers administrators to add relevant out-of-the-box or custom entities to enhance the Viva Sales experience, so sellers can reduce context switching across applications and instead focus on building stronger relationships with their customers to close deals faster. 
+We have integrated Viva Sales settings with the underlying CRM app, offering a more cohesive admin experience. When adding a new entity to Viva Sales, administrators now have the option to select an…]]></summary>
+        <author>
+            <name>Eran Manor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Seller Productivity: Customize Viva Sales Forms]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/05/enhancing-seller-productivity-customize-viva-sales-forms/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/05/enhancing-seller-productivity-customize-viva-sales-forms/"/>
         <updated>2023-06-05T17:30:00.000Z</updated>
@@ -69,6 +117,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
 The post Enhancing Seller Productivity: Customize Viva Sales Forms  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Eran Manor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A report on Global State of Customer Service Sophistication]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:3f661d95-c253-46f3-acc3-5d7dd3d20d59</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/a-report-on-global-state-of-customer-service-sophistication"/>
+        <updated>2023-06-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With a growing alignment between customer service and brand loyalty, companies recognize the increasing complexity and consequence of the service relationship. Those looking to evolve service delivery have sought new tools and technologies to improve the experience for both the customer and the employee. This includes everything from omnichannel engagement to self-service, automation, and AI-enabled technologies that can assist agents in faster resolution and increase customer satisfaction.
+But where should they start? To answer that question, Microsoft developed a service sophistication model that helps organizations assess their current service level and get guidance on evolving to the next level or beyond. Based on the aggregated responses from the assessment since its launch, we now ha…]]></summary>
+        <author>
+            <name>Arvind Iyer</name>
         </author>
     </entry>
     <entry>
@@ -146,6 +205,21 @@ In the previous blog where we learned how to Import Tax (India GST) from Electro
     </entry>
     <entry>
         <title type="html"><![CDATA[Boost your productivity with timeline enhancements]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9842f878-fdca-4548-9e5f-a5db186cbffa</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/boost-your-productivity-with-timeline-enhancements"/>
+        <updated>2023-06-02T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Users across Power Apps and Dynamics 365 apps rely on the timeline to quickly understand the history of a record, such as an account or a case. The timeline captures notes, appointments, emails, phone calls, and tasks in a single place to ensure that all customer interactions are tracked and visible over time. 
+We are excited to share the latest enhancements in the timeline control. Layout personalization and persistent filters to inline attachment and transcript views are designed to boost user personalization and productivity. 
+Personalize your timeline
+Pick your layout density
+We are introducing two different layouts to control the density of the timeline:  
+Roomy: The roomy layout provides more space between and inside the activity cards and shows activity-specific cards and the comman…]]></summary>
+        <author>
+            <name>Madhuri Somara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost your productivity with timeline enhancements]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/02/personalize-your-timeline-layout-and-boost-your-productivity/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/02/personalize-your-timeline-layout-and-boost-your-productivity/"/>
         <updated>2023-06-02T17:00:00.000Z</updated>
@@ -183,6 +257,19 @@ for Dynamics 365
     </entry>
     <entry>
         <title type="html"><![CDATA[Download live PDF release plans on demand]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:62361721-3594-4c33-87dd-998c3f64e422</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/download-live-pdf-release-plans-on-demand"/>
+        <updated>2023-06-01T17:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to a recent upgrade of Microsoft Learn, you can now get an up-to-the-minute PDF version of release plans for Dynamics 365, Power Platform, and Cloud for Industry anytime you like, in any language we publish. Previously, you had to wait for us to create PDF files to share the release plans with your team, clients, or partners. And since we created PDFs just once a month, they were often out of sync with the published release plans. Our localized PDFs were even more tardy.
+Custom PDFs will be retired
+In the next two weeks, we’ll retire the custom PDF files we’ve been creating every month. After that, any links to PDFs on the release wave landing pages will redirect to the automated PDF option so that you have the most up-to-date information available.
+How to get live PDF release plans…]]></summary>
+        <author>
+            <name>Erica Wolff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Download live PDF release plans on demand]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/01/download-live-pdf-release-plans-on-demand/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/01/download-live-pdf-release-plans-on-demand/"/>
         <updated>2023-06-01T17:36:00.000Z</updated>
@@ -190,6 +277,18 @@ for Dynamics 365
 The post Download live PDF release plans on demand appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Erica Wolff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 ways Copilot in Viva Sales takes seller productivity to the next level]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:51fbff7b-4b4b-44d2-9dcd-155f38921cb7</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/5-ways-copilot-in-viva-sales-takes-seller-productivity-to-the-next-level"/>
+        <updated>2023-06-01T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered experiences are changing the game of what’s possible for sellers, and generative AI with Copilot is here to assist sellers do their best work. Copilot in Viva Sales is quickly evolving and adding new features and experiences to make sellers’ lives better. The tools are there to help offload and automate those mundane sales activities, allowing a seller to spend more time with prospects and engaging customers at the right moment in the sales cycle. 
+With email remaining a key channel in day-to-day interactions the recently announced General Availability of email features have received great feedback from salespeople helping them save time when connecting with customers. Let’s look at 5 ways Copilot in Viva Sales takes seller productivity to the next level:
+Use Copilot in Viva Sal…]]></summary>
+        <author>
+            <name>Eyal Zach, Maya Shoval, Rafi Rabo and Katy Shatsov</name>
         </author>
     </entry>
     <entry>
@@ -617,6 +716,22 @@ View the Copilot case summary. Agents can view a summary of case highlights on t
 The post Transform your customer support organization with copilot AI in 30 days appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Rushil Vora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Dataverse enhancements and AI-powered productivity with Microsoft 365 Copilot]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:bcdf3e92-240e-4e46-beef-ced0d89fec24</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/new-dataverse-enhancements-and-ai-powered-productivity-with-microsoft-365-copilot"/>
+        <updated>2023-05-24T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[At Microsoft Build 2023, we’re announcing new AI, low code, and data management capabilities that enable our Dynamics 365 customers to complete time-consuming tasks faster and gain more insights from their business data. We’re also introducing enhancements to Dataverse, our smart, secure, scalable, low-code data platform that 97% of Fortune 500 companies rely on. Together, these updates make it easier than ever for organizations to extend their Dynamics 365 enterprise applications and business processes across the Microsoft Cloud securely and compliantly.
+
+
+
+
+Unlock AI-enhanced productivity with your Dynamics 365 data
+Two months ago, we announced Microsoft 365 Copilot, a revolutionary new way of working that uses AI to enable users to get answers and perform tasks using natural language pr…]]></summary>
+        <author>
+            <name>Nirav Shah</name>
         </author>
     </entry>
     <entry>
@@ -20591,27 +20706,6 @@ Automated Clearing House (ACH)  is a computer-based clearing and settlement f
 There is a security roll setup required to allow a user to override the price and the percent that the user can override.  When the price override is over that percent, the manager…]]></summary>
         <author>
             <name>DawnLanglie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extend Dynamics 365 Finance and Operations Workflows with Business Events]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d27454b5-72e5-4add-803a-ea2f0980cfab</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/extend-dynamics-365-finance-and-operations-workflows-with-business-events"/>
-        <updated>2021-06-08T06:47:56.000Z</updated>
-        <summary type="html"><![CDATA[Back when Business Events were introduced in Dynamics 365 Finance and Operations (D365F&O), a slightly overlooked use case was the ability to extend inbuilt workflows to external endpoints such as Power...
-(read more)]]></summary>
-        <author>
-            <name>Henrik Marx Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extend Dynamics 365 Finance and Operations Workflows with Business Events]]></title>
-        <id>http://henrikmarxlarsen.wordpress.com/?p=2629</id>
-        <link href="https://henrikmarxlarsen.wordpress.com/2021/06/08/extend-dynamics-365-finance-and-operations-workflows-with-business-events/"/>
-        <updated>2021-06-08T06:47:56.000Z</updated>
-        <summary type="html"><![CDATA[Extending inbuilt workflows in Dynamics 365 Finance and Operations through Business Events is a powerful way to augment the process.]]></summary>
-        <author>
-            <name>Henrik Marx Larsen</name>
         </author>
     </entry>
 </feed>
