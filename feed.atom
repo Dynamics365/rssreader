@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-08T01:39:12.429Z</updated>
+    <updated>2023-06-09T01:41:06.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Allocations in the Microsoft Sustainability Manager]]></title>
+        <id>http://dynamicsax-fico.com/?p=5150</id>
+        <link href="https://dynamicsax-fico.com/2023/06/08/allocations-in-the-microsoft-sustainability-manager/"/>
+        <updated>2023-06-08T19:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing an easier than ever experience to import data from Excel]]></title>
+        <id>introducing-an-easier-than-ever-experience-to-import-data-from-excel</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/introducing-an-easier-than-ever-experience-to-import-data-from-excel/"/>
+        <updated>2023-06-08T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the public preview of an easier than ever import from Excel experience. You can now upload your Excel files and turn them into full functional Dataverse tables as well as responsive canvas apps in a one-stop experience. Moreover, when Copilot is enabled, it will assist with your table creation by…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Supply Chain Disruptions Solved by PLM-ERP Integration for Manufacturers]]></title>
         <id>https://www.encorebusiness.com/?p=56976</id>
@@ -160,6 +180,17 @@ The post How To Use A D365 Data Entity appeared first on Dynamics 365 Musings.]]
         <summary type="html"><![CDATA[Note: This blog is in continuation of the announcement of modern controls coming to canvas apps & new look for model driven apps. We thank our community and users for the active engagement on the journey to modernize Power Apps. This blog outlines the modernization updates we rolled out or are rolling out on both…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerate Warehouse management implementation with new pain-free experience]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/05/accelerate-warehouse-management-implementation-with-new-pain-free-experience/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/05/accelerate-warehouse-management-implementation-with-new-pain-free-experience/"/>
+        <updated>2023-06-05T10:37:41.000Z</updated>
+        <summary type="html"><![CDATA[In this release, we're thrilled to showcase several major themes that will take your warehouse management to new heights. From label printing enhancements to a modernized user experience for setting up your warehouse, and even innovative methods for importing data while maintaining configuration, this release is packed with game-changing improvements.
+The post Accelerate Warehouse management implementation with new pain-free experience appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Galyna Fedorova</name>
         </author>
     </entry>
     <entry>
@@ -20674,38 +20705,6 @@ Now you can open Visual Studio, connect to Azure DevOps server, create a new wor
         <summary type="html"><![CDATA[The blog post describes a monitoring solution for SQL Server parameters sniffing issues]]></summary>
         <author>
             <name>Gatsby RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MsDyn365SCM Inventory Visibility Add-in]]></title>
-        <id>https://msdyn365fo.wordpress.com/?p=493</id>
-        <link href="https://msdyn365fo.wordpress.com/2021/06/09/msdyn365scm-inventory-visibility-add-in/"/>
-        <updated>2021-06-09T06:34:57.000Z</updated>
-        <summary type="html"><![CDATA[In today’s blog I want to share my thoughts and my opinion on the ongoing public preview of the Microsoft Dynamics 365 for Supply Chain Management Inventory Visibility Add-in (https://docs.microsoft.com/en-us/dynamics365/supply-chain/inventory/inventory-visibility). “The Inventory Visibility Add-in is an independent and highly scalable microservice that enables real-time on-hand inventory tracking…” With the Inventory Visibility Add-in MsDyn365SCM or MsDyn365FO … Continue reading MsDyn365SCM Inventory Visibility Add-in →]]></summary>
-        <author>
-            <name>Paul Heisterkamp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setup and end to end usage of ACH for vendor payment in Microsoft Dynamics 365 Finance and Operations]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:aa837492-6b56-48d9-8359-54c0b6003448</id>
-        <link href="https://community.dynamics.com/ax/b/happyd365fo/posts/setup-and-end-to-end-usage-of-ach-for-vendor-payment-in-microsoft-dynamics-365-finance-and-operations"/>
-        <updated>2021-06-09T06:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Setup and end to end usage of ACH for vendor payment in Microsoft Dynamics 365 Finance and Operations
-Automated Clearing House (ACH)  is a computer-based clearing and settlement facilit...(read more)]]></summary>
-        <author>
-            <name>Rahul Mohta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call Center Price Override Functionality with Manager Approval Workflow for Dynamics 365]]></title>
-        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:d47c58a3-84fc-46fb-935b-23f27013d493</id>
-        <link href="https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/call-center-price-override-functionality-with-manager-approval-workflow-for-dynamics-365"/>
-        <updated>2021-06-08T15:54:00.000Z</updated>
-        <summary type="html"><![CDATA[In AX2012 R3, the manager override was done in “realtime” and when changing the price, you received a pop up window to enter your Reason code and Override login.  In Dynamics 365, manager override can no longer be done in “realtime” and this functionality uses workflow to put the order on hold and as a second step the manager reviews and approves the workflow and the hold is released for the price change.  You will no longer receive a pop up window to prompt for the reason code and login.  The reason code is manually added to the sales order line and the manager login was replaced with Workflow approval process.
-There is a security roll setup required to allow a user to override the price and the percent that the user can override.  When the price override is over that percent, the manager…]]></summary>
-        <author>
-            <name>DawnLanglie</name>
         </author>
     </entry>
 </feed>

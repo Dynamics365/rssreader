@@ -3708,16 +3708,6 @@
           "wordCount": 776,
           "title": "Error DMF2009 when exporting from MsDyn365FO to Excel",
           "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/06/dmf2009_errorinexecutionlog.png?w=1200"
-        },
-        {
-          "id": "https://msdyn365fo.wordpress.com/?p=493",
-          "author": "Paul Heisterkamp",
-          "description": "In today’s blog I want to share my thoughts and my opinion on the ongoing public preview of the Microsoft Dynamics 365 for Supply Chain Management Inventory Visibility Add-in (https://docs.microsoft.com/en-us/dynamics365/supply-chain/inventory/inventory-visibility). “The Inventory Visibility Add-in is an independent and highly scalable microservice that enables real-time on-hand inventory tracking…” With the Inventory Visibility Add-in MsDyn365SCM or MsDyn365FO … Continue reading MsDyn365SCM Inventory Visibility Add-in →",
-          "link": "https://msdyn365fo.wordpress.com/2021/06/09/msdyn365scm-inventory-visibility-add-in/",
-          "publishedOn": "2021-06-09T06:34:57.000Z",
-          "wordCount": 928,
-          "title": "MsDyn365SCM Inventory Visibility Add-in",
-          "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/05/inventoryvisibilityaddin-banner.png"
         }
       ]
     },
@@ -5556,6 +5546,16 @@
           "wordCount": 2468,
           "title": "A report on Global State of Customer Service Sophistication",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/OFC16_Millie_006_v2.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/05/accelerate-warehouse-management-implementation-with-new-pain-free-experience/",
+          "author": "Galyna Fedorova",
+          "description": "In this release, we're thrilled to showcase several major themes that will take your warehouse management to new heights. From label printing enhancements to a modernized user experience for setting up your warehouse, and even innovative methods for importing data while maintaining configuration, this release is packed with game-changing improvements.\nThe post Accelerate Warehouse management implementation with new pain-free experience appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/05/accelerate-warehouse-management-implementation-with-new-pain-free-experience/",
+          "publishedOn": "2023-06-05T10:37:41.000Z",
+          "wordCount": 3562,
+          "title": "Accelerate Warehouse management implementation with new pain-free experience",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/04/Warehouse-with-overlay.png"
         },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/02/personalize-your-timeline-layout-and-boost-your-productivity/",
@@ -9331,6 +9331,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5150",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/06/08/allocations-in-the-microsoft-sustainability-manager/",
+          "publishedOn": "2023-06-08T19:00:59.000Z",
+          "wordCount": 2645,
+          "title": "Allocations in the Microsoft Sustainability Manager",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/05/enintro.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5132",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -10034,16 +10044,6 @@
           "publishedOn": "2021-06-23T05:54:00.000Z",
           "wordCount": 1020,
           "title": "opening balances for financial using general journal entity - tips and error resolution for Microsoft Dynamics 365 Finance and Operations",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:aa837492-6b56-48d9-8359-54c0b6003448",
-          "author": "Rahul Mohta",
-          "description": "Setup and end to end usage of ACH for vendor payment in Microsoft Dynamics 365 Finance and Operations\nAutomated Clearing House (ACH)  is a computer-based clearing and settlement facilit...(read more)",
-          "link": "https://community.dynamics.com/ax/b/happyd365fo/posts/setup-and-end-to-end-usage-of-ach-for-vendor-payment-in-microsoft-dynamics-365-finance-and-operations",
-          "publishedOn": "2021-06-09T06:07:00.000Z",
-          "wordCount": 1110,
-          "title": "Setup and end to end usage of ACH for vendor payment in Microsoft Dynamics 365 Finance and Operations",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
@@ -11787,16 +11787,6 @@
           "wordCount": 4542,
           "title": "Retail Sales Tax Determination",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
-        },
-        {
-          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:d47c58a3-84fc-46fb-935b-23f27013d493",
-          "author": "DawnLanglie",
-          "description": "In AX2012 R3, the manager override was done in “realtime” and when changing the price, you received a pop up window to enter your Reason code and Override login.  In Dynamics 365, manager override can no longer be done in “realtime” and this functionality uses workflow to put the order on hold and as a second step the manager reviews and approves the workflow and the hold is released for the price change.  You will no longer receive a pop up window to prompt for the reason code and login.  The reason code is manually added to the sales order line and the manager login was replaced with Workflow approval process.\nThere is a security roll setup required to allow a user to override the price and the percent that the user can override.  When the price override is over that percent, the manager…",
-          "link": "https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/call-center-price-override-functionality-with-manager-approval-workflow-for-dynamics-365",
-          "publishedOn": "2021-06-08T15:54:00.000Z",
-          "wordCount": 4191,
-          "title": "Call Center Price Override Functionality with Manager Approval Workflow for Dynamics 365",
-          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         }
       ]
     },
@@ -12994,6 +12984,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "introducing-an-easier-than-ever-experience-to-import-data-from-excel",
+          "author": null,
+          "description": "We are excited to announce the public preview of an easier than ever import from Excel experience. You can now upload your Excel files and turn them into full functional Dataverse tables as well as responsive canvas apps in a one-stop experience. Moreover, when Copilot is enabled, it will assist with your table creation by…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/introducing-an-easier-than-ever-experience-to-import-data-from-excel/",
+          "publishedOn": "2023-06-08T09:00:00.000Z",
+          "wordCount": 2156,
+          "title": "Introducing an easier than ever experience to import data from Excel",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/06/Excel2DV-table-preview.png"
+        },
         {
           "id": "run-your-enterprise-on-power-platform-with-new-enterprise-application-templates",
           "author": null,
