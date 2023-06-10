@@ -3854,6 +3854,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2722",
+          "author": "AnithaEswaran",
+          "description": "In this blog , let us have a walkthrough of uploading the attachments to FO using PowerAutomate. This approach can be used in logic apps also. In my instance, the files uploaded in one drive are read and imported to … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/06/09/import-attachments-using-powerautomate-d365fo/",
+          "publishedOn": "2023-06-09T17:55:22.000Z",
+          "wordCount": 3701,
+          "title": "Import attachments using PowerAutomate – D365FO",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/06/image-18.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2701",
           "author": "AnithaEswaran",
           "description": "In Dynamics 365 Finance version 10.0.34, a new feature Delete journal performance using batch is available. This feature allows the delete process to be scheduled. This lets users to continue other work instead of waiting for the delete processing to complete. To … Continue reading →",
@@ -12549,16 +12559,6 @@
           "wordCount": 1485,
           "title": "Multicompany DMF integration in Dynamics 365 FinOps using X++",
           "imageUrl": "https://denistrunin.com/static/8d61ca34e2f424ee443485f15c4ea8bb/5ca18/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/performance-snifmonitor/",
-          "author": null,
-          "description": "The blog post describes a monitoring solution for SQL Server parameters sniffing issues",
-          "link": "https://denistrunin.com/performance-snifmonitor/",
-          "publishedOn": "2021-06-09T22:12:03.000Z",
-          "wordCount": 1405,
-          "title": "Monitoring the most problematic performance problem in Dynamics AX - parameters sniffing",
-          "imageUrl": "https://denistrunin.com/static/d4ea2a269a41308ea4303743ecc54682/463b4/logo.png"
         }
       ]
     },
