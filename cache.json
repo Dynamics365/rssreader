@@ -930,6 +930,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f98ae723-cb0b-429a-92c3-6800f803b8e1",
+          "author": "MSDynamicsWorld.com",
+          "description": "In this week's Microsoft Dynamics Partner News Roundup: \n \n Repay integrates AP functionality into Microsoft Dynamics 365\nBusiness Central \n Insight Works announces MxAPS 4.7 for Dynamics 365 Business\nCentral: Advanced scheduling \n 365WineTrade and Solver... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-partner-roundup-ap-integration-advanced-scheduling-budgeting-and-forecasting-new-partner",
+          "publishedOn": "2023-06-09T15:00:00.000Z",
+          "wordCount": 3948,
+          "title": "Microsoft Dynamics Partner Roundup: AP integration; Advanced scheduling; Budgeting and forecasting; New partner",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:70e538bb-13c3-44cc-856e-c9a10919cafb",
           "author": "MSDynamicsWorld.com",
           "description": "In this week's Microsoft Dynamics Partner News Roundup: \n \n Fujitsu and Microsoft announce global partnership to enable\n'sustainability transformation' \n Bluefort launches free payment collection automation platform\nfor Dynamics 365 \n Now available globally... Read the full text.",
@@ -2114,6 +2124,36 @@
       "siteUrl": "https://community.dynamics.com/365/b/365teamblog",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:fdc7aea1-7177-4342-86ae-49eb5a5ba634",
+          "author": "Vamsee Mullapudi",
+          "description": "Organizations in different industries need to visualize their customer interactions in different ways. With customized columns in the conversation table, organizations can enable agents to quickly summarize the purpose of the interaction, and they can associate conversations with leads. The ability to customize the conversation table improves agent productivity and creates positive customer outcomes.  \nImprove agent productivity and CSAT with conversation table customization \nWhen agents converse with customers, the Active Conversation form helps capture the details of the interaction. And consequently, supervisors and other agents can easily understand it. \nAna is a customer service agent at Contoso who works tirelessly, juggling multiple customer problems over chat throughout the day. Af…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/customize-the-conversation-table-for-your-business-needs",
+          "publishedOn": "2023-06-08T17:00:00.000Z",
+          "wordCount": 4505,
+          "title": "Customize the conversation table for your business needs",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:e16b3292-c49a-4ec6-a231-9caac2a952ba",
+          "author": "Rushil Vora",
+          "description": "Support agents often have to manage complex and lengthy conversations and cases. These require a lot of time and attention to understand and resolve. Wouldn’t it be great if there was a way to quickly get the gist of what’s going on without having to read through every single message or all the information linked to a case? \nNow agents can use Copilot to ramp up fast. Copilot summarization automatically generates concise and informative summaries of conversations and cases in simple, intuitive natural language. Agents can read these summaries in seconds and get up to speed on the most important details. \nConversation summarization\nConversation summarization is available for any digital messaging or voice conversation that involves a virtual agent handoff to live support, an agent consult, …",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/accelerate-support-ramp-ups-handoffs-and-wrap-ups-with-copilot-summarization",
+          "publishedOn": "2023-06-07T20:26:00.000Z",
+          "wordCount": 4633,
+          "title": "Accelerate support ramp-ups, handoffs, and wrap-ups with Copilot summarization",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f243a310-c633-425a-b68f-ae56bc965d2a",
+          "author": "Rupa Mantravadi",
+          "description": "Hello to the Project Service Automation (PSA) Community!\nBack in November 2022 we announced the availability of the second phase of Project Service Automation to Project Operations upgrade, making it possible to upgrade projects with up to 500 tasks.  If all projects in your environment contain 500 tasks or less, we strongly encourage you to start your upgrade process as soon as possible so you can take advantage of many new Project Operations features such as: \nIntegration with Project for the Web with many new advanced scheduling features\nProject Budgeting and Time-phased forecasting  \nDate Effective price overrides \nRevision and Activation on Quotes   \nMaterial usage recording in projects and tasks \nSubcontract Management \nAdvances and Retained-based contracts \nContract not-to-exceed \nTask based billing \nMulti-customer contracts \n\n\n\n\nLearn more\nCurious to know details about the upgrade process? Please check this link and learn more about it! \n \nWant to learn more about Project Operations? Check this link and navigate to our detailed documentation! \nWant to try Project Operations? Click here and sign up for a 30 days trial! \nThank you\nThe Microsoft Project Operations Product Team \nThe post Upgrade Project Service Automation to Project Operations appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/upgrade-project-service-automation-to-project-operations",
+          "publishedOn": "2023-06-07T18:40:25.000Z",
+          "wordCount": 4087,
+          "title": "Upgrade Project Service Automation to Project Operations",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:bcd4e8dd-a3ed-4a11-8fb9-929d9a39198d",
           "author": "Feifei Qiu",
           "description": "In Resource Scheduling Optimization, dispatchers can lock existing scheduled bookings to Resource, Time or Time Range, or Resource and Time based on their scheduling scenarios.\nWhat are locked options and why are they needed?\nOnce a booking is created, a lock can be set on the Scheduling Lock Options field in the Resource Scheduling Optimization tab of the Bookable Resource Booking record.\nThere are 4 options:\nLock to ‘Time Range’. A repair work order is scheduled for tomorrow and a confirmation sent to customer stating that a technician will be arriving between 9am to 12pm in the morning. In case if this repair work order needed to be rescheduled as part of rescheduling or re-optimization process, RSO will need to make sure estimated arrival time for this booking still between 9am to 12pm…",
@@ -2141,6 +2181,16 @@
           "publishedOn": "2023-06-05T15:00:00.000Z",
           "wordCount": 4610,
           "title": "A report on Global State of Customer Service Sophistication",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
+        },
+        {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:76ddfb0c-7d82-483d-aa4a-fe001a05641d",
+          "author": "Galyna Fedorova",
+          "description": "Introduction:\nIn this blogpost we are going to dive into the exciting features and capabilities of  2023 release wave 1  for the Warehouse Management module. Get ready for a sneak preview of the cutting-edge features that will revolutionize the implementation experience and streamline your warehouse operations.\nIn this release, we’re thrilled to showcase several major themes that will take your warehouse management to new heights. From label printing enhancements to a modernized user experience for setting up your warehouse, and even innovative methods for importing data while maintaining configuration, this release is packed with game-changing improvements.\nLet’s dive in and uncover the possibilities that lie ahead in the world of warehouse management.\nWarehouse groups\nWarehouse groups ar…",
+          "link": "https://community.dynamics.com/365/b/365teamblog/posts/accelerate-warehouse-management-implementation-with-new-pain-free-experience",
+          "publishedOn": "2023-06-05T10:37:41.000Z",
+          "wordCount": 5634,
+          "title": "Accelerate Warehouse management implementation with new pain-free experience",
           "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=637798982754763787"
         },
         {
@@ -5527,6 +5577,56 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/09/fire-up-your-mobile-field-service-game-offline-enhancements-for-a-seamless-user-experience/",
+          "author": "Jonathan Baker",
+          "description": "The offline-enabled application will allow frontline workers to perform functions while they are in the field, without depending on an internet connection. This keeps them productive even in environments without high quality network coverage, which can be a common problem in rural locations or even remote urban areas where network coverage is poor.\nThe post Fire up your mobile field service game: offline enhancements for a seamless user experience appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/09/fire-up-your-mobile-field-service-game-offline-enhancements-for-a-seamless-user-experience/",
+          "publishedOn": "2023-06-09T22:05:09.000Z",
+          "wordCount": 2182,
+          "title": "Fire up your mobile field service game: offline enhancements for a seamless user experience",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/CLO22_GreenEnergyFarm_014-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/09/customize-and-access-the-improved-active-conversation-form/",
+          "author": "Shruti Chaurasia",
+          "description": "Recent enhancements to the Active Conversation form allow agents to access and edit relevant information without any screen switching.\nThe post Customize and access the improved Active Conversation form  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/09/customize-and-access-the-improved-active-conversation-form/",
+          "publishedOn": "2023-06-09T14:20:14.000Z",
+          "wordCount": 2076,
+          "title": "Customize and access the improved Active Conversation form",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/03/MicrosoftTeams-image-3.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/08/customize-the-conversation-table-for-your-business-needs/",
+          "author": "Vamsee Mullapudi",
+          "description": "With custom columns in the conversation table, organizations can enable agents to quickly summarize interactions and associate conversations with leads.\nThe post Customize the conversation table for your business needs  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/08/customize-the-conversation-table-for-your-business-needs/",
+          "publishedOn": "2023-06-08T17:00:00.000Z",
+          "wordCount": 2481,
+          "title": "Customize the conversation table for your business needs",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2016/07/249564_5F00_empower_2D00_customer_2D00_service_2D00_agents.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/07/accelerate-support-ramp-ups-handoffs-and-wrap-ups-with-copilot-summarization/",
+          "author": "Rushil Vora",
+          "description": "Copilot summarization automatically generates concise and informative summaries of conversations and cases in simple, intuitive natural language.\nThe post Accelerate support ramp-ups, handoffs, and wrap-ups with Copilot summarization  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/07/accelerate-support-ramp-ups-handoffs-and-wrap-ups-with-copilot-summarization/",
+          "publishedOn": "2023-06-07T20:26:00.000Z",
+          "wordCount": 2617,
+          "title": "Accelerate support ramp-ups, handoffs, and wrap-ups with Copilot summarization",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2019/05/Hero-VA.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/07/upgrade-project-service-automation-to-project-operations/",
+          "author": "Rupa Mantravadi",
+          "description": "Back in November 2022 we announced the availability of the second phase of Project Service Automation to Project Operations upgrade, making it possible to upgrade projects with up to 500 tasks.  \nThe post Upgrade Project Service Automation to Project Operations appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/07/upgrade-project-service-automation-to-project-operations/",
+          "publishedOn": "2023-06-07T18:40:25.000Z",
+          "wordCount": 1935,
+          "title": "Upgrade Project Service Automation to Project Operations",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/CLO22_TechOffice_061-1024x683.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/06/maximizing-efficiency-in-resource-scheduling-prioritizing-locked-bookings-2/",
           "author": "Feifei Qiu",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-10T01:24:58.442Z</updated>
+    <updated>2023-06-11T01:47:03.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fire up your mobile field service game: offline enhancements for a seamless user experience]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/09/fire-up-your-mobile-field-service-game-offline-enhancements-for-a-seamless-user-experience/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/09/fire-up-your-mobile-field-service-game-offline-enhancements-for-a-seamless-user-experience/"/>
+        <updated>2023-06-09T22:05:09.000Z</updated>
+        <summary type="html"><![CDATA[The offline-enabled application will allow frontline workers to perform functions while they are in the field, without depending on an internet connection. This keeps them productive even in environments without high quality network coverage, which can be a common problem in rural locations or even remote urban areas where network coverage is poor.
+The post Fire up your mobile field service game: offline enhancements for a seamless user experience appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jonathan Baker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Import attachments using PowerAutomate – D365FO]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2722</id>
@@ -14,6 +25,33 @@
         <summary type="html"><![CDATA[In this blog , let us have a walkthrough of uploading the attachments to FO using PowerAutomate. This approach can be used in logic apps also. In my instance, the files uploaded in one drive are read and imported to … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics Partner Roundup: AP integration; Advanced scheduling; Budgeting and forecasting; New partner]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f98ae723-cb0b-429a-92c3-6800f803b8e1</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/microsoft-dynamics-partner-roundup-ap-integration-advanced-scheduling-budgeting-and-forecasting-new-partner"/>
+        <updated>2023-06-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this week's Microsoft Dynamics Partner News Roundup: 
+ 
+ Repay integrates AP functionality into Microsoft Dynamics 365
+Business Central 
+ Insight Works announces MxAPS 4.7 for Dynamics 365 Business
+Central: Advanced scheduling 
+ 365WineTrade and Solver... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customize and access the improved Active Conversation form]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/09/customize-and-access-the-improved-active-conversation-form/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/09/customize-and-access-the-improved-active-conversation-form/"/>
+        <updated>2023-06-09T14:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Recent enhancements to the Active Conversation form allow agents to access and edit relevant information without any screen switching.
+The post Customize and access the improved Active Conversation form  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Shruti Chaurasia</name>
         </author>
     </entry>
     <entry>
@@ -27,6 +65,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Customize the conversation table for your business needs]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:fdc7aea1-7177-4342-86ae-49eb5a5ba634</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/customize-the-conversation-table-for-your-business-needs"/>
+        <updated>2023-06-08T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations in different industries need to visualize their customer interactions in different ways. With customized columns in the conversation table, organizations can enable agents to quickly summarize the purpose of the interaction, and they can associate conversations with leads. The ability to customize the conversation table improves agent productivity and creates positive customer outcomes.  
+Improve agent productivity and CSAT with conversation table customization 
+When agents converse with customers, the Active Conversation form helps capture the details of the interaction. And consequently, supervisors and other agents can easily understand it. 
+Ana is a customer service agent at Contoso who works tirelessly, juggling multiple customer problems over chat throughout the day. Af…]]></summary>
+        <author>
+            <name>Vamsee Mullapudi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customize the conversation table for your business needs]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/08/customize-the-conversation-table-for-your-business-needs/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/08/customize-the-conversation-table-for-your-business-needs/"/>
+        <updated>2023-06-08T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With custom columns in the conversation table, organizations can enable agents to quickly summarize interactions and associate conversations with leads.
+The post Customize the conversation table for your business needs  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Vamsee Mullapudi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introducing an easier than ever experience to import data from Excel]]></title>
         <id>introducing-an-easier-than-ever-experience-to-import-data-from-excel</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/introducing-an-easier-than-ever-experience-to-import-data-from-excel/"/>
@@ -34,6 +96,74 @@
         <summary type="html"><![CDATA[We are excited to announce the public preview of an easier than ever import from Excel experience. You can now upload your Excel files and turn them into full functional Dataverse tables as well as responsive canvas apps in a one-stop experience. Moreover, when Copilot is enabled, it will assist with your table creation by…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerate support ramp-ups, handoffs, and wrap-ups with Copilot summarization]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:e16b3292-c49a-4ec6-a231-9caac2a952ba</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/accelerate-support-ramp-ups-handoffs-and-wrap-ups-with-copilot-summarization"/>
+        <updated>2023-06-07T20:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Support agents often have to manage complex and lengthy conversations and cases. These require a lot of time and attention to understand and resolve. Wouldn’t it be great if there was a way to quickly get the gist of what’s going on without having to read through every single message or all the information linked to a case? 
+Now agents can use Copilot to ramp up fast. Copilot summarization automatically generates concise and informative summaries of conversations and cases in simple, intuitive natural language. Agents can read these summaries in seconds and get up to speed on the most important details. 
+Conversation summarization
+Conversation summarization is available for any digital messaging or voice conversation that involves a virtual agent handoff to live support, an agent consult, …]]></summary>
+        <author>
+            <name>Rushil Vora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerate support ramp-ups, handoffs, and wrap-ups with Copilot summarization]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/07/accelerate-support-ramp-ups-handoffs-and-wrap-ups-with-copilot-summarization/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/07/accelerate-support-ramp-ups-handoffs-and-wrap-ups-with-copilot-summarization/"/>
+        <updated>2023-06-07T20:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Copilot summarization automatically generates concise and informative summaries of conversations and cases in simple, intuitive natural language.
+The post Accelerate support ramp-ups, handoffs, and wrap-ups with Copilot summarization  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Rushil Vora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrade Project Service Automation to Project Operations]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:f243a310-c633-425a-b68f-ae56bc965d2a</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/upgrade-project-service-automation-to-project-operations"/>
+        <updated>2023-06-07T18:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Hello to the Project Service Automation (PSA) Community!
+Back in November 2022 we announced the availability of the second phase of Project Service Automation to Project Operations upgrade, making it possible to upgrade projects with up to 500 tasks.  If all projects in your environment contain 500 tasks or less, we strongly encourage you to start your upgrade process as soon as possible so you can take advantage of many new Project Operations features such as: 
+Integration with Project for the Web with many new advanced scheduling features
+Project Budgeting and Time-phased forecasting  
+Date Effective price overrides 
+Revision and Activation on Quotes   
+Material usage recording in projects and tasks 
+Subcontract Management 
+Advances and Retained-based contracts 
+Contract not-to-exceed 
+Task based billing 
+Multi-customer contracts 
+
+
+
+
+Learn more
+Curious to know details about the upgrade process? Please check this link and learn more about it! 
+ 
+Want to learn more about Project Operations? Check this link and navigate to our detailed documentation! 
+Want to try Project Operations? Click here and sign up for a 30 days trial! 
+Thank you
+The Microsoft Project Operations Product Team 
+The post Upgrade Project Service Automation to Project Operations appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Rupa Mantravadi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrade Project Service Automation to Project Operations]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/07/upgrade-project-service-automation-to-project-operations/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/07/upgrade-project-service-automation-to-project-operations/"/>
+        <updated>2023-06-07T18:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Back in November 2022 we announced the availability of the second phase of Project Service Automation to Project Operations upgrade, making it possible to upgrade projects with up to 500 tasks.  
+The post Upgrade Project Service Automation to Project Operations appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Rupa Mantravadi</name>
         </author>
     </entry>
     <entry>
@@ -190,6 +320,21 @@ The post How To Use A D365 Data Entity appeared first on Dynamics 365 Musings.]]
         <summary type="html"><![CDATA[Note: This blog is in continuation of the announcement of modern controls coming to canvas apps & new look for model driven apps. We thank our community and users for the active engagement on the journey to modernize Power Apps. This blog outlines the modernization updates we rolled out or are rolling out on both…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerate Warehouse management implementation with new pain-free experience]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:76ddfb0c-7d82-483d-aa4a-fe001a05641d</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/accelerate-warehouse-management-implementation-with-new-pain-free-experience"/>
+        <updated>2023-06-05T10:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Introduction:
+In this blogpost we are going to dive into the exciting features and capabilities of  2023 release wave 1  for the Warehouse Management module. Get ready for a sneak preview of the cutting-edge features that will revolutionize the implementation experience and streamline your warehouse operations.
+In this release, we’re thrilled to showcase several major themes that will take your warehouse management to new heights. From label printing enhancements to a modernized user experience for setting up your warehouse, and even innovative methods for importing data while maintaining configuration, this release is packed with game-changing improvements.
+Let’s dive in and uncover the possibilities that lie ahead in the world of warehouse management.
+Warehouse groups
+Warehouse groups ar…]]></summary>
+        <author>
+            <name>Galyna Fedorova</name>
         </author>
     </entry>
     <entry>
