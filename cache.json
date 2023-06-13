@@ -7002,6 +7002,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2714",
+          "author": "Saurabh Bharti",
+          "description": "Data templates in Dynamics 365 Finance and Operations can be a highly valuable tool for effectively managing configuration migration between environments or legal entities. When there is a need to transfer configuration from our primary Gold environment to another environment, ensuring consistency throughout the process can be challenging. However, this is where data templates come […]",
+          "link": "https://exploredynamics365.home.blog/2023/06/12/migrate-data-using-data-templates-in-microsoft-dynamics-365-finance-and-operations-part-1/",
+          "publishedOn": "2023-06-12T07:06:21.000Z",
+          "wordCount": 2478,
+          "title": "Migrate Data using Data templates in Microsoft Dynamics 365 finance and operations: Part-1",
+          "imageUrl": "http://img.youtube.com/vi/og-LvgXzzVc/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2711",
           "author": "Saurabh Bharti",
           "description": "Microsoft Dynamics 365 Supply Chain Management offers a comprehensive Supply Risk Assessment feature that enables organizations to identify potential risks in the supply chain. By utilizing this feature, businesses can take proactive measures to prevent disruptions and maintain smooth operations. The Supply Risk Assessment workspace, in conjunction with supplier performance and risk analysis reports, empowers […]",
@@ -7439,6 +7449,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2714",
+          "author": "Saurabh Bharti",
+          "description": "Data templates in Dynamics 365 Finance and Operations can be a highly valuable tool for effectively managing configuration migration between environments or legal entities. When there is a need to transfer configuration from our primary Gold environment to another environment, ensuring consistency throughout the process can be challenging. However, this is where data templates come […]",
+          "link": "https://exploredynamics365.home.blog/2023/06/12/migrate-data-using-data-templates-in-microsoft-dynamics-365-finance-and-operations-part-1/",
+          "publishedOn": "2023-06-12T07:06:21.000Z",
+          "wordCount": 2478,
+          "title": "Migrate Data using Data templates in Microsoft Dynamics 365 finance and operations: Part-1",
+          "imageUrl": "http://img.youtube.com/vi/og-LvgXzzVc/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2711",
           "author": "Saurabh Bharti",
           "description": "Microsoft Dynamics 365 Supply Chain Management offers a comprehensive Supply Risk Assessment feature that enables organizations to identify potential risks in the supply chain. By utilizing this feature, businesses can take proactive measures to prevent disruptions and maintain smooth operations. The Supply Risk Assessment workspace, in conjunction with supplier performance and risk analysis reports, empowers […]",
@@ -7875,6 +7895,16 @@
       "feedUrl": "https://d365snippets.com/feeds/posts/default",
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
+        {
+          "id": "https://www.d365snippets.com/2023/06/what-is-power-bi-desktop-work-flow-in-power-bi.html",
+          "author": null,
+          "description": "What is Power BI Desktop? Power BI Desktop is a powerful business intelligence tool developed by Microsoft. It is part of the Power BI suite, which includes other components like Power BI Service (cloud-based service) and Power BI Mobile (mobile app). Power BI Desktop allows users to create interactive visualizations, reports, and dashboards from various data sources.\n\n\n\n\nWith Power BI Desktop, you can connect to a wide range of data sources such as databases, Excel files, CSV files, SharePoint lists, cloud services, and more. It provides a user-friendly interface for data transformation and modeling, allowing you to shape and clean your data before analysis. You can apply various transformations, such as filtering, merging, appending, and creating calculated columns.\nPower BI Desktop offe…",
+          "link": "https://www.d365snippets.com/2023/06/what-is-power-bi-desktop-work-flow-in-power-bi.html",
+          "publishedOn": "2023-06-12T13:31:00.001Z",
+          "wordCount": 9655,
+          "title": "What is Power BI Desktop & The flow of work in Power BI",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHDYgpd0q_YtOFkL_kCYHaSZpPmueDoUEB2WEpS67mQZuARCcIQMg-d21Y2ULMgfxTmATvYSkojhJBWhMrSciH-n8D8ailFQ8GYUanUc4ldIJjiZAi0Gv6esPgQIAcxghkK05CAnVGIrOBEQvoGbBSnG2LOrF4RlHIUjwPxBWGhAFNpOoy_E9l-cQW/s16000/what%20is%20power%20bi%20desktop%20the%20flow%20of%20power%20bi.png"
+        },
         {
           "id": "https://www.d365snippets.com/2023/05/power-bi-introduction.html",
           "author": null,
@@ -8329,6 +8359,16 @@
       "feedUrl": "https://alexvoy.blogspot.com/feeds/posts/default",
       "siteUrl": "https://alexvoy.blogspot.com/",
       "articles": [
+        {
+          "id": "https://alexvoy.blogspot.com/2023/06/complete-packunpack-pack-for.html",
+          "author": null,
+          "description": "Usage\nWe can use pack-unpack methods in RunBaseBatch classes and all its descendants to save and/or store the state of an object, and then later re-instantiate the same object.\nWe need it, for example, to use the user's input for any batch job: some parameters can be used when a batch job is executed on the server. \nDocumentation\nMicrosoft doc article is here.\nQuote: \"A reinstantiated object is not the same object as the one that was saved. It is just an object of the same class whose members contain the same information.\" \nYou need to teleport your objects without a fly or other bugs.\nCase examples\nBasics\nBasic example of such a class is Tutorial_RunbaseBatch.\n\n\n    TransDate       transDate;\n    CustAccount     custAccount;\n\n    #define.CurrentVersion(1)\n    #localmacro.CurrentList\n     …",
+          "link": "https://alexvoy.blogspot.com/2023/06/complete-packunpack-pack-for.html",
+          "publishedOn": "2023-06-12T23:38:00.001Z",
+          "wordCount": 2609,
+          "title": "Complete pack/unpack pack for RunBaseBatch adventure",
+          "imageUrl": null
+        },
         {
           "id": "https://alexvoy.blogspot.com/2023/05/how-to-create-new-folder-on-sharepoint.html",
           "author": null,

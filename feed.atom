@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-12T01:40:16.180Z</updated>
+    <updated>2023-06-13T01:27:47.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Complete pack/unpack pack for RunBaseBatch adventure]]></title>
+        <id>https://alexvoy.blogspot.com/2023/06/complete-packunpack-pack-for.html</id>
+        <link href="https://alexvoy.blogspot.com/2023/06/complete-packunpack-pack-for.html"/>
+        <updated>2023-06-12T23:38:00.001Z</updated>
+        <summary type="html"><![CDATA[Usage
+We can use pack-unpack methods in RunBaseBatch classes and all its descendants to save and/or store the state of an object, and then later re-instantiate the same object.
+We need it, for example, to use the user's input for any batch job: some parameters can be used when a batch job is executed on the server. 
+Documentation
+Microsoft doc article is here.
+Quote: "A reinstantiated object is not the same object as the one that was saved. It is just an object of the same class whose members contain the same information." 
+You need to teleport your objects without a fly or other bugs.
+Case examples
+Basics
+Basic example of such a class is Tutorial_RunbaseBatch.
+
+
+    TransDate       transDate;
+    CustAccount     custAccount;
+
+    #define.CurrentVersion(1)
+    #localmacro.CurrentList
+     …]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Power BI Desktop & The flow of work in Power BI]]></title>
+        <id>https://www.d365snippets.com/2023/06/what-is-power-bi-desktop-work-flow-in-power-bi.html</id>
+        <link href="https://www.d365snippets.com/2023/06/what-is-power-bi-desktop-work-flow-in-power-bi.html"/>
+        <updated>2023-06-12T13:31:00.001Z</updated>
+        <summary type="html"><![CDATA[What is Power BI Desktop? Power BI Desktop is a powerful business intelligence tool developed by Microsoft. It is part of the Power BI suite, which includes other components like Power BI Service (cloud-based service) and Power BI Mobile (mobile app). Power BI Desktop allows users to create interactive visualizations, reports, and dashboards from various data sources.
+
+
+
+
+With Power BI Desktop, you can connect to a wide range of data sources such as databases, Excel files, CSV files, SharePoint lists, cloud services, and more. It provides a user-friendly interface for data transformation and modeling, allowing you to shape and clean your data before analysis. You can apply various transformations, such as filtering, merging, appending, and creating calculated columns.
+Power BI Desktop offe…]]></summary>
+        <author>
+            <name>D365 Snippets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrate Data using Data templates in Microsoft Dynamics 365 finance and operations: Part-1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2714</id>
+        <link href="https://exploredynamics365.home.blog/2023/06/12/migrate-data-using-data-templates-in-microsoft-dynamics-365-finance-and-operations-part-1/"/>
+        <updated>2023-06-12T07:06:21.000Z</updated>
+        <summary type="html"><![CDATA[Data templates in Dynamics 365 Finance and Operations can be a highly valuable tool for effectively managing configuration migration between environments or legal entities. When there is a need to transfer configuration from our primary Gold environment to another environment, ensuring consistency throughout the process can be challenging. However, this is where data templates come […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrate Data using Data templates in Microsoft Dynamics 365 finance and operations: Part-1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2714</id>
+        <link href="https://exploredynamics365.home.blog/2023/06/12/migrate-data-using-data-templates-in-microsoft-dynamics-365-finance-and-operations-part-1/"/>
+        <updated>2023-06-12T07:06:21.000Z</updated>
+        <summary type="html"><![CDATA[Data templates in Dynamics 365 Finance and Operations can be a highly valuable tool for effectively managing configuration migration between environments or legal entities. When there is a need to transfer configuration from our primary Gold environment to another environment, ensuring consistency throughout the process can be challenging. However, this is where data templates come […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fire up your mobile field service game: offline enhancements for a seamless user experience]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/09/fire-up-your-mobile-field-service-game-offline-enhancements-for-a-seamless-user-experience/</id>
