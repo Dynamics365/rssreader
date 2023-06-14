@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-13T01:27:47.713Z</updated>
+    <updated>2023-06-14T01:25:48.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Project Operations in Dynamics 365 | Which Version to Deploy? (Video)]]></title>
+        <id>https://www.encorebusiness.com/?p=57150</id>
+        <link href="https://www.encorebusiness.com/blog/project-operations-in-dynamics-365-which-version-to-deploy/"/>
+        <updated>2023-06-13T15:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Project Operations in Dynamics 365 | Which Version to Deploy? (Video)
+There are three different types of deployment for Project Operations in Dynamics 365. The right one for your company depends on your industry, your specific needs, and the other technologies you need Project Operations to connect with. Watch the video below to learn more about Dynamics 365 Project Operations: ﻿ Transcript below: Hello, my name...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Mike Lamb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Govern your business applications data with Microsoft Purview]]></title>
+        <id>govern-your-business-applications-data-with-microsoft-purview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/govern-your-business-applications-data-with-microsoft-purview/"/>
+        <updated>2023-06-13T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we are excited to announce the private preview of the Microsoft Purview integration with Microsoft Dataverse. Microsoft Purview Data Map will enable automated data discovery and sensitive data classification.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing General Availability for Power Platform Customer-managed key (CMK)]]></title>
+        <id>announcing-general-availability-for-power-platform-customer-managed-key-cmk</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-power-platform-customer-managed-key-cmk/"/>
+        <updated>2023-06-13T10:09:21.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the General Availability for Power Platform Customer-managed key (CMK)! Microsoft Power Platform empowers you to do more with less by making it easier than ever to securely scale low-code adoption, increase organizational collaboration, and infuse AI and automation into all your business processes. Microsoft Power Platform comes with advanced risk and compliance…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Complete pack/unpack pack for RunBaseBatch adventure]]></title>
         <id>https://alexvoy.blogspot.com/2023/06/complete-packunpack-pack-for.html</id>

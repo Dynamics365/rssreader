@@ -1687,6 +1687,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=57150",
+          "author": "Mike Lamb",
+          "description": "Project Operations in Dynamics 365 | Which Version to Deploy? (Video)\nThere are three different types of deployment for Project Operations in Dynamics 365. The right one for your company depends on your industry, your specific needs, and the other technologies you need Project Operations to connect with. Watch the video below to learn more about Dynamics 365 Project Operations: ﻿ Transcript below: Hello, my name...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/project-operations-in-dynamics-365-which-version-to-deploy/",
+          "publishedOn": "2023-06-13T15:32:09.000Z",
+          "wordCount": 3400,
+          "title": "Project Operations in Dynamics 365 | Which Version to Deploy? (Video)",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/06/Project-Operations.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=56976",
           "author": "To-Increase",
           "description": "7 Supply Chain Disruptions Solved by PLM-ERP Integration for Manufacturers\nThis blog originally appeared here on To-Increase’s blog page.  As a manufacturing business, you could be utilizing PLM and ERP systems to manage and control different processes related to the engineering, designing, and transactions of your products. With both systems handling critical product data, not having them talk to each other puts you at risk...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -13124,6 +13134,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "govern-your-business-applications-data-with-microsoft-purview",
+          "author": null,
+          "description": "Today we are excited to announce the private preview of the Microsoft Purview integration with Microsoft Dataverse. Microsoft Purview Data Map will enable automated data discovery and sensitive data classification.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/govern-your-business-applications-data-with-microsoft-purview/",
+          "publishedOn": "2023-06-13T10:25:00.000Z",
+          "wordCount": 1895,
+          "title": "Govern your business applications data with Microsoft Purview",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/05/MSC16_slalom_028_1200.jpg"
+        },
+        {
+          "id": "announcing-general-availability-for-power-platform-customer-managed-key-cmk",
+          "author": null,
+          "description": "We are excited to announce the General Availability for Power Platform Customer-managed key (CMK)! Microsoft Power Platform empowers you to do more with less by making it easier than ever to securely scale low-code adoption, increase organizational collaboration, and infuse AI and automation into all your business processes. Microsoft Power Platform comes with advanced risk and compliance…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-power-platform-customer-managed-key-cmk/",
+          "publishedOn": "2023-06-13T10:09:21.000Z",
+          "wordCount": 2204,
+          "title": "Announcing General Availability for Power Platform Customer-managed key (CMK)",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "introducing-an-easier-than-ever-experience-to-import-data-from-excel",
           "author": null,
