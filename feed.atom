@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-14T01:25:48.840Z</updated>
+    <updated>2023-06-15T01:24:56.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enhanced component properties]]></title>
+        <id>enhanced-component-properties</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/enhanced-component-properties/"/>
+        <updated>2023-06-14T15:11:55.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to announce our new updates to our experimental enhanced component properties. As part of our effort to finalize this feature and make it ready for public preview, we’d like to solicit your feedback on these updates and the overall properties features. Improved UX and clearer concepts One of the main goals of…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bak file restore error : The backup set holds a backup of a database other than the existing ‘xxx’ database]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2752</id>
+        <link href="https://anithasantosh.wordpress.com/2023/06/14/bak-file-restore-error-the-backup-set-holds-a-backup-of-a-database-other-than-the-existing-xxx-database/"/>
+        <updated>2023-06-14T12:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Recently I faced an issue when trying to restore a bak file . Though the option ‘Overwrite the existing database (with Replace)’ was selected during restore process, error was not resolved. Instead of executing the ‘Restore’ from database level, I … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guest Access with Field Service Mobile: Introducing Tenant Switcher for Field Service Mobile]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/13/guest-access-with-field-service-mobile-introducing-tenant-switcher-for-field-service-mobile/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/13/guest-access-with-field-service-mobile-introducing-tenant-switcher-for-field-service-mobile/"/>
+        <updated>2023-06-13T16:39:45.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 has made this vendor onboarding process even easier with Wave 1 2023 by introducing Tenant Switcher for Field Service Mobile.
+The post Guest Access with Field Service Mobile: Introducing Tenant Switcher for Field Service Mobile appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jonathan Baker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Project Operations in Dynamics 365 | Which Version to Deploy? (Video)]]></title>
         <id>https://www.encorebusiness.com/?p=57150</id>
@@ -104,6 +135,19 @@ Power BI Desktop offe…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fire up your mobile field service game: offline enhancements for a seamless user experience]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c9aca87a-3b9a-4904-80f8-856577a69a88</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/fire-up-your-mobile-field-service-game-offline-enhancements-for-a-seamless-user-experience"/>
+        <updated>2023-06-09T22:05:09.000Z</updated>
+        <summary type="html"><![CDATA[‘Offline-first’ with the Dynamics 365 Field Service Mobile application offers many advantages for frontline workers. The offline-enabled application will allow frontline workers to perform functions while they are in the field, without depending on an internet connection. This keeps them productive even in environments without high quality network coverage, which can be a common problem in rural locations or even remote urban areas where network coverage is poor.
+In this blog post we will share details on recent enhancements to the Dynamics 365 ‘Offline-first’ as well as some new capabilities to help your organization debug customizations with the offline application. Let’s go!
+Wave 1 2023 enhancements
+With the release of Wave 1 2023, frontline workers will have a faster sync experience an…]]></summary>
+        <author>
+            <name>Jonathan Baker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire up your mobile field service game: offline enhancements for a seamless user experience]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/09/fire-up-your-mobile-field-service-game-offline-enhancements-for-a-seamless-user-experience/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/09/fire-up-your-mobile-field-service-game-offline-enhancements-for-a-seamless-user-experience/"/>
         <updated>2023-06-09T22:05:09.000Z</updated>
@@ -137,6 +181,17 @@ Central: Advanced scheduling
  365WineTrade and Solver... Read the full text.]]></summary>
         <author>
             <name>MSDynamicsWorld.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customize and access the improved Active Conversation form]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:1abfdd18-c933-4251-b15d-baf9114153b2</id>
+        <link href="https://community.dynamics.com/365/b/365teamblog/posts/customize-and-access-the-improved-active-conversation-form"/>
+        <updated>2023-06-09T14:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Customer service agents in a digital contact center interact with multiple customers daily through live chat, phone calls, and social media channels. During customer interactions, often they find themselves searching for relevant information on various screens or other systems, resulting in increased wait time for the end customer. Also, they want to quickly capture or update the information about their conversation, in real time without having to create or link a case to a conversation. Recent enhancements to the Active Conversation form allow agents to access and edit relevant information without any screen switching.  
+Now, agents have all the relevant information at their fingertips, so that they spend less time looking for information on different screens or systems and help customers…]]></summary>
+        <author>
+            <name>Shruti Chaurasia</name>
         </author>
     </entry>
     <entry>
