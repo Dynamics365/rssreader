@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-15T01:24:56.679Z</updated>
+    <updated>2023-06-16T01:26:09.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #14]]></title>
+        <id>http://dynamicsax-fico.com/?p=5162</id>
+        <link href="https://dynamicsax-fico.com/2023/06/15/microsoft-bizapps-deutschland-podcast-14/"/>
+        <updated>2023-06-15T16:47:53.000Z</updated>
+        <summary type="html"><![CDATA[[German language podcast] In der neuesten Ausgabe des Microsoft BizApps Podcasts sprechen wir Peter Linke, dem Vorstand und Gründer der …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating and Improving Business Processes When You Move to Dynamics 365 Finance & Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=57086</id>
+        <link href="https://www.encorebusiness.com/blog/automating-and-improving-business-processes-when-you-move-to-dynamics-365/"/>
+        <updated>2023-06-15T15:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Automating and Improving Business Processes When You Move to Dynamics 365 Finance & Operations
+When a user migrates from Dynamics AX to Dynamics 365 Finance & Operations, they may wonder if any of their regular business processes should be changed. Some manual processes may benefit from becoming automated, and some may need to be redesigned to become more efficient. An important distinction to begin with is the difference between...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Kailey Acuña</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enhanced component properties]]></title>
         <id>enhanced-component-properties</id>
