@@ -930,6 +930,16 @@
       "siteUrl": "https://community.dynamics.com/ax/b/axmsdwnews",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:dc4414b8-bc0c-4033-8471-b1e8f6af60d5",
+          "author": "MSDynamicsWorld.com",
+          "description": "This episode is sponsored by \n Esker . \n \n \n Integration a\nthird-party solution with Dynamics 365 F&O remains a real\nchallenge, and an ISV's architectural choices can make a bit\ndifference for ERP customers weighing their options, especially as\nthey plan... Read the full text.",
+          "link": "https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-why-esker-built-a-new-dynamics-365-f-o-connector",
+          "publishedOn": "2023-06-15T13:00:00.000Z",
+          "wordCount": 3963,
+          "title": "MSDW Podcast: Why Esker built a new Dynamics 365 F&O connector",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=638225327346453306"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:f98ae723-cb0b-429a-92c3-6800f803b8e1",
           "author": "MSDynamicsWorld.com",
           "description": "In this week's Microsoft Dynamics Partner News Roundup: \n \n Repay integrates AP functionality into Microsoft Dynamics 365\nBusiness Central \n Insight Works announces MxAPS 4.7 for Dynamics 365 Business\nCentral: Advanced scheduling \n 365WineTrade and Solver... Read the full text.",
@@ -1686,6 +1696,16 @@
       "feedUrl": "https://www.encorebusiness.com/blog/feed/",
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
+        {
+          "id": "https://www.encorebusiness.com/?p=57165",
+          "author": "Andrea Oklobdzija",
+          "description": "Dynamics 365 CRM: Workflows vs Power Automate vs Plugins vs JavaScript vs Business Rules\nWhen you want to automate some business activity in a Dynamics 365 CRM application like Dynamics 365 Sales or Field Service, you have 5 different options: Workflows, Power Automate Flows, Plugins, JavaScript, and Business Rules. Each approach has pros and cons. At Encore, we have used all 5 of these methods of customization and configuration...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/crm-workflows-vs-power-automate-vs-javascript-vs-business-rules-vs-plugins/",
+          "publishedOn": "2023-06-16T18:39:23.000Z",
+          "wordCount": 2370,
+          "title": "Dynamics 365 CRM: Workflows vs Power Automate vs Plugins vs JavaScript vs Business Rules",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/CRM-blog-image.png"
+        },
         {
           "id": "https://www.encorebusiness.com/?p=57086",
           "author": "Kailey Acuña",
@@ -11343,6 +11363,16 @@
       "siteUrl": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations",
       "articles": [
         {
+          "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:c5b93026-9483-466f-89d2-99d5a87cdb9b",
+          "author": "Henrik Marx Larsen",
+          "description": "Dear Readers,\n\n\n\nAfter 10 years, this blog has finally reached the end of the line. \n\n\n\nIt has been great for me to share what I know about Dynamics 365 Finance and Operations and see how the audienc...(read more)",
+          "link": "https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/hasta-la-vista-baby",
+          "publishedOn": "2023-06-16T08:30:05.000Z",
+          "wordCount": 3940,
+          "title": "Hasta La Vista, baby",
+          "imageUrl": "https://community.dynamics.com/cfs-filesystemfile/__key/widgetfiles/9377c7f4820a4b3a8a2aa0fbd1a266eb-d/microsoft_2D00_logo.jpg?_=638225327346453306"
+        },
+        {
           "id": "f7860544-fd88-4f76-8c0c-6920dd39f354:75d19fef-b1b1-4698-a2c0-56bc32bae439",
           "author": "Henrik Marx Larsen",
           "description": "The new Invoice Capture for Dynamics 365 Finance is an AI-based capability that allows you to receive, read and ingest vendor invoices.\nAs of March 2023, this feature is still in public preview, but t...(read more)",
@@ -13101,6 +13131,16 @@
       "feedUrl": "https://henrikmarxlarsen.wordpress.com/feed/",
       "siteUrl": "https://henrikmarxlarsen.wordpress.com",
       "articles": [
+        {
+          "id": "http://henrikmarxlarsen.wordpress.com/?p=3031",
+          "author": "Henrik Marx Larsen",
+          "description": "Dear Readers, After 10 years, this blog has finally reached the end of the line. It has been great for me to share what I know about Dynamics 365 Finance and Operations and see how the audience and community around the product has grown. I would like to send a BIG thank you to you, […]",
+          "link": "https://henrikmarxlarsen.wordpress.com/2023/06/16/hasta-la-vista-baby/",
+          "publishedOn": "2023-06-16T08:30:05.000Z",
+          "wordCount": 7282,
+          "title": "Hasta La Vista, baby",
+          "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2023/06/the-end.jpg?w=1200"
+        },
         {
           "id": "http://henrikmarxlarsen.wordpress.com/?p=2886",
           "author": "Henrik Marx Larsen",

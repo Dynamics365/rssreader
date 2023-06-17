@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-16T01:26:09.397Z</updated>
+    <updated>2023-06-17T01:22:03.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 CRM: Workflows vs Power Automate vs Plugins vs JavaScript vs Business Rules]]></title>
+        <id>https://www.encorebusiness.com/?p=57165</id>
+        <link href="https://www.encorebusiness.com/blog/crm-workflows-vs-power-automate-vs-javascript-vs-business-rules-vs-plugins/"/>
+        <updated>2023-06-16T18:39:23.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 CRM: Workflows vs Power Automate vs Plugins vs JavaScript vs Business Rules
+When you want to automate some business activity in a Dynamics 365 CRM application like Dynamics 365 Sales or Field Service, you have 5 different options: Workflows, Power Automate Flows, Plugins, JavaScript, and Business Rules. Each approach has pros and cons. At Encore, we have used all 5 of these methods of customization and configuration...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Andrea Oklobdzija</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hasta La Vista, baby]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:c5b93026-9483-466f-89d2-99d5a87cdb9b</id>
+        <link href="https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/posts/hasta-la-vista-baby"/>
+        <updated>2023-06-16T08:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Dear Readers,
+
+
+
+After 10 years, this blog has finally reached the end of the line. 
+
+
+
+It has been great for me to share what I know about Dynamics 365 Finance and Operations and see how the audienc...(read more)]]></summary>
+        <author>
+            <name>Henrik Marx Larsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hasta La Vista, baby]]></title>
+        <id>http://henrikmarxlarsen.wordpress.com/?p=3031</id>
+        <link href="https://henrikmarxlarsen.wordpress.com/2023/06/16/hasta-la-vista-baby/"/>
+        <updated>2023-06-16T08:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Dear Readers, After 10 years, this blog has finally reached the end of the line. It has been great for me to share what I know about Dynamics 365 Finance and Operations and see how the audience and community around the product has grown. I would like to send a BIG thank you to you, […]]]></summary>
+        <author>
+            <name>Henrik Marx Larsen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #14]]></title>
         <id>http://dynamicsax-fico.com/?p=5162</id>
@@ -28,6 +69,24 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Kailey Acuña</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDW Podcast: Why Esker built a new Dynamics 365 F&O connector]]></title>
+        <id>f7860544-fd88-4f76-8c0c-6920dd39f354:dc4414b8-bc0c-4033-8471-b1e8f6af60d5</id>
+        <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/msdw-podcast-why-esker-built-a-new-dynamics-365-f-o-connector"/>
+        <updated>2023-06-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This episode is sponsored by 
+ Esker . 
+ 
+ 
+ Integration a
+third-party solution with Dynamics 365 F&O remains a real
+challenge, and an ISV's architectural choices can make a bit
+difference for ERP customers weighing their options, especially as
+they plan... Read the full text.]]></summary>
+        <author>
+            <name>MSDynamicsWorld.com</name>
         </author>
     </entry>
     <entry>
