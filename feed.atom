@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-17T01:22:03.739Z</updated>
+    <updated>2023-06-18T01:45:28.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -69,6 +69,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Kailey Acuña</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing next-generation AI and Microsoft Dynamics 365 Copilot capabilities for ERP]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/15/introducing-next-generation-ai-and-microsoft-dynamics-365-copilot-capabilities-for-erp/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/15/introducing-next-generation-ai-and-microsoft-dynamics-365-copilot-capabilities-for-erp/"/>
+        <updated>2023-06-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a new era in enterprise resource planning (ERP) systems. As businesses around the world embrace the power of AI to streamline operations, speed time to actionable insight, and drive innovation, a game-changer is taking center stage: generative AI.
+The post Introducing next-generation AI and Microsoft Dynamics 365 Copilot capabilities for ERP appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Stephanie Dart</name>
         </author>
     </entry>
     <entry>
