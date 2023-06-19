@@ -3964,6 +3964,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2759",
+          "author": "AnithaEswaran",
+          "description": "https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/add-ai-copilot",
+          "link": "https://anithasantosh.wordpress.com/2023/06/18/embedding-copilot-in-canvasapp/",
+          "publishedOn": "2023-06-18T13:17:19.000Z",
+          "wordCount": 3358,
+          "title": "Embedding copilot in CanvasApp",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/06/community_5f00_badge_5f00_logo_2d00_01.png?w=143"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2752",
           "author": "AnithaEswaran",
           "description": "Recently I faced an issue when trying to restore a bak file . Though the option ‘Overwrite the existing database (with Replace)’ was selected during restore process, error was not resolved. Instead of executing the ‘Restore’ from database level, I … Continue reading →",
@@ -9570,6 +9580,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5034",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/06/18/missing-timesheets-in-d365projectoperations/",
+          "publishedOn": "2023-06-18T10:59:09.000Z",
+          "wordCount": 2650,
+          "title": "Missing timesheets in D365ProjectOperations",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/03/origlre_en.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5162",
           "author": "Ludwig Reinhard",
