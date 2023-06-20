@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-19T01:27:02.621Z</updated>
+    <updated>2023-06-20T01:22:44.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 application modernization on Azure: Envisioning the future]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/19/dynamics-365-application-modernization-on-azure-envisioning-the-future/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/19/dynamics-365-application-modernization-on-azure-envisioning-the-future/"/>
+        <updated>2023-06-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Of all the questions that customers have, one of the most common is how Microsoft continually delivers new AI innovations at a rapid pace. If you are still running systems on-premises, it starts with application modernization in the cloud. 
+The post Dynamics 365 application modernization on Azure: Envisioning the future appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Charles Lamanna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Read A File In D365]]></title>
+        <id>https://dynamics365musings.com/?p=2953</id>
+        <link href="https://dynamics365musings.com/read-a-file-in-d365/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=read-a-file-in-d365"/>
+        <updated>2023-06-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Instead of manually typing in data, users can upload a file, then read a file in D365. I will show you how to use helper classes to do both of these things. This is especially helpful when you have many records to bring in. There are several other ways that data can be brought into... Continue Reading →
+The post How To Read A File In D365 appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workflow security in Dynamics 365 Finance and Operations]]></title>
+        <id>https://dynamicspedia.com/?p=18614</id>
+        <link href="https://dynamicspedia.com/2023/06/workflow-security-in-dynamics-365-finance-and-operations/"/>
+        <updated>2023-06-19T07:52:03.000Z</updated>
+        <summary type="html"><![CDATA[When working with workflow in Microsoft Dynamics 365 Finance and Operations, the users should have proper permissions to be able to not only approve but also submit documents to the workflow. There is no easy guidance on which roles, duties, or privileges to use to ensure having the correct permissions. In case you build up […]
+The post Workflow security in Dynamics 365 Finance and Operations appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Settlement transaction type on vendor/customer transaction type in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2718</id>
+        <link href="https://exploredynamics365.home.blog/2023/06/19/settlement-transaction-type-on-vendor-customer-transaction-type-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-06-19T07:26:18.000Z</updated>
+        <summary type="html"><![CDATA[In this upcoming video, I will be addressing two specific scenarios where systems generate additional vouchers/transactions for vendor and customer transactions with the type “Settlement.” It’s important to note that these additional transactions are not generated for every transaction, but only in certain specific scenarios. Stay tuned as I dive into the details and provide […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Settlement transaction type on vendor/customer transaction type in Microsoft Dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2718</id>
+        <link href="https://exploredynamics365.home.blog/2023/06/19/settlement-transaction-type-on-vendor-customer-transaction-type-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-06-19T07:26:18.000Z</updated>
+        <summary type="html"><![CDATA[In this upcoming video, I will be addressing two specific scenarios where systems generate additional vouchers/transactions for vendor and customer transactions with the type “Settlement.” It’s important to note that these additional transactions are not generated for every transaction, but only in certain specific scenarios. Stay tuned as I dive into the details and provide […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDyn365FO. Truncate a table.]]></title>
+        <id>http://ievgensaxblog.wordpress.com/?p=1645</id>
+        <link href="https://ievgensaxblog.wordpress.com/2023/06/19/msdyn365fo-truncate-a-table/"/>
+        <updated>2023-06-19T03:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Now when storage capacity report is available you may want to clean up some data. One of the top one’s to grow out of control is document attachment history. You have standard batch job for the clean up, but if…  
+Continue reading →]]></summary>
+        <author>
+            <name>Ievgen Miroshnikov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Embedding copilot in CanvasApp]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2759</id>

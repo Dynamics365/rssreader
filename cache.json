@@ -4401,6 +4401,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=2953",
+          "author": "peter.ramer",
+          "description": "Instead of manually typing in data, users can upload a file, then read a file in D365. I will show you how to use helper classes to do both of these things. This is especially helpful when you have many records to bring in. There are several other ways that data can be brought into... Continue Reading →\nThe post How To Read A File In D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/read-a-file-in-d365/?utm_source=rss&utm_medium=rss&utm_campaign=read-a-file-in-d365",
+          "publishedOn": "2023-06-19T13:00:00.000Z",
+          "wordCount": 4817,
+          "title": "How To Read A File In D365",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/06/Read-A-File-In-D365-1.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=2880",
           "author": "peter.ramer",
           "description": "In the last couple articles, you learned what a data entity is, and how to create one. Now, learn how to test and use a D365 data entity to read or write data in Microsoft Dynamics 365 for Finance and Operations. Review Before showing you the steps to use a D365 Data Entity, as a... Continue Reading →\nThe post How To Use A D365 Data Entity appeared first on Dynamics 365 Musings.",
@@ -5657,6 +5667,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/19/dynamics-365-application-modernization-on-azure-envisioning-the-future/",
+          "author": "Charles Lamanna",
+          "description": "Of all the questions that customers have, one of the most common is how Microsoft continually delivers new AI innovations at a rapid pace. If you are still running systems on-premises, it starts with application modernization in the cloud. \nThe post Dynamics 365 application modernization on Azure: Envisioning the future appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/19/dynamics-365-application-modernization-on-azure-envisioning-the-future/",
+          "publishedOn": "2023-06-19T15:00:00.000Z",
+          "wordCount": 2975,
+          "title": "Dynamics 365 application modernization on Azure: Envisioning the future",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/06/WIN22_Productivity_026_cropped.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/15/introducing-next-generation-ai-and-microsoft-dynamics-365-copilot-capabilities-for-erp/",
           "author": "Stephanie Dart",
@@ -7102,6 +7122,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2718",
+          "author": "Saurabh Bharti",
+          "description": "In this upcoming video, I will be addressing two specific scenarios where systems generate additional vouchers/transactions for vendor and customer transactions with the type “Settlement.” It’s important to note that these additional transactions are not generated for every transaction, but only in certain specific scenarios. Stay tuned as I dive into the details and provide […]",
+          "link": "https://exploredynamics365.home.blog/2023/06/19/settlement-transaction-type-on-vendor-customer-transaction-type-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-06-19T07:26:18.000Z",
+          "wordCount": 2520,
+          "title": "Settlement transaction type on vendor/customer transaction type in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "http://img.youtube.com/vi/K7YjyWmMI18/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2714",
           "author": "Saurabh Bharti",
           "description": "Data templates in Dynamics 365 Finance and Operations can be a highly valuable tool for effectively managing configuration migration between environments or legal entities. When there is a need to transfer configuration from our primary Gold environment to another environment, ensuring consistency throughout the process can be challenging. However, this is where data templates come […]",
@@ -7548,6 +7578,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2718",
+          "author": "Saurabh Bharti",
+          "description": "In this upcoming video, I will be addressing two specific scenarios where systems generate additional vouchers/transactions for vendor and customer transactions with the type “Settlement.” It’s important to note that these additional transactions are not generated for every transaction, but only in certain specific scenarios. Stay tuned as I dive into the details and provide […]",
+          "link": "https://exploredynamics365.home.blog/2023/06/19/settlement-transaction-type-on-vendor-customer-transaction-type-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-06-19T07:26:18.000Z",
+          "wordCount": 2520,
+          "title": "Settlement transaction type on vendor/customer transaction type in Microsoft Dynamics 365 finance and operations",
+          "imageUrl": "http://img.youtube.com/vi/K7YjyWmMI18/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2714",
           "author": "Saurabh Bharti",
@@ -9942,6 +9982,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=18614",
+          "author": "André Arnaud de Calavon",
+          "description": "When working with workflow in Microsoft Dynamics 365 Finance and Operations, the users should have proper permissions to be able to not only approve but also submit documents to the workflow. There is no easy guidance on which roles, duties, or privileges to use to ensure having the correct permissions. In case you build up […]\nThe post Workflow security in Dynamics 365 Finance and Operations appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2023/06/workflow-security-in-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-06-19T07:52:03.000Z",
+          "wordCount": 4522,
+          "title": "Workflow security in Dynamics 365 Finance and Operations",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/06/SecurityWorkflow.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=18543",
           "author": "André Arnaud de Calavon",
@@ -15085,6 +15135,16 @@
       "feedUrl": "https://ievgensaxblog.wordpress.com/feed/",
       "siteUrl": "https://ievgensaxblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://ievgensaxblog.wordpress.com/?p=1645",
+          "author": "Ievgen Miroshnikov",
+          "description": "Now when storage capacity report is available you may want to clean up some data. One of the top one’s to grow out of control is document attachment history. You have standard batch job for the clean up, but if…  \nContinue reading →",
+          "link": "https://ievgensaxblog.wordpress.com/2023/06/19/msdyn365fo-truncate-a-table/",
+          "publishedOn": "2023-06-19T03:56:19.000Z",
+          "wordCount": 3036,
+          "title": "MSDyn365FO. Truncate a table.",
+          "imageUrl": "https://secure.gravatar.com/blavatar/21ec9a54e4bc4dea7b96dd3cfa93fdaec25f7c1df1862cc65ca325afcc73dfe7?s=200&ts=1687224130"
+        },
         {
           "id": "http://ievgensaxblog.wordpress.com/?p=1637",
           "author": "Ievgen Miroshnikov",
