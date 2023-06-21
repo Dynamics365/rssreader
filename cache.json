@@ -1697,6 +1697,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=57113",
+          "author": "Gary Harrison",
+          "description": "Customize the Profile Page in Microsoft Power Pages\nMicrosoft Power Pages provides customers the ability to edit their Dataverse contact information with the profile page on the customer service portal. There are cases when the out-of-the-box (OOB) version of the profile page does not meet the company’s business requirements. Power Pages administrators may modify this form to meet these requirements, but not necessarily...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/customize-the-profile-page-in-microsoft-power-pages/",
+          "publishedOn": "2023-06-20T15:20:48.000Z",
+          "wordCount": 2246,
+          "title": "Customize the Profile Page in Microsoft Power Pages",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/06/Power-Pages-Blog-Img.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=57165",
           "author": "Andrea Oklobdzija",
           "description": "Dynamics 365 CRM: Workflows vs Power Automate vs Plugins vs JavaScript vs Business Rules\nWhen you want to automate some business activity in a Dynamics 365 CRM application like Dynamics 365 Sales or Field Service, you have 5 different options: Workflows, Power Automate Flows, Plugins, JavaScript, and Business Rules. Each approach has pros and cons. At Encore, we have used all 5 of these methods of customization and configuration...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -13314,6 +13324,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "integrating-dataverse-microsoft-sentinel-and-power-platform-to-enable-more-with-less",
+          "author": null,
+          "description": "Microsoft Power Platform admins can monitor certain types of security vulnerabilities using the static analysis tools and reports provided in the platform. Having an early and more holistic threat detection and the ability to apply preventative guardrails is crucial to enable frictionless productivity while minimizing cyber risk.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/integrating-dataverse-microsoft-sentinel-and-power-platform-to-enable-more-with-less/",
+          "publishedOn": "2023-06-20T13:00:00.000Z",
+          "wordCount": 2305,
+          "title": "Integrating Microsoft Sentinel and Power Platform to better monitor and protect your low-code solutions",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/06/CLO17_azure_010.jpg"
+        },
         {
           "id": "enhanced-component-properties",
           "author": null,

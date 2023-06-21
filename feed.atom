@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-20T01:22:44.282Z</updated>
+    <updated>2023-06-21T01:24:51.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Customize the Profile Page in Microsoft Power Pages]]></title>
+        <id>https://www.encorebusiness.com/?p=57113</id>
+        <link href="https://www.encorebusiness.com/blog/customize-the-profile-page-in-microsoft-power-pages/"/>
+        <updated>2023-06-20T15:20:48.000Z</updated>
+        <summary type="html"><![CDATA[Customize the Profile Page in Microsoft Power Pages
+Microsoft Power Pages provides customers the ability to edit their Dataverse contact information with the profile page on the customer service portal. There are cases when the out-of-the-box (OOB) version of the profile page does not meet the company’s business requirements. Power Pages administrators may modify this form to meet these requirements, but not necessarily...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Gary Harrison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Microsoft Sentinel and Power Platform to better monitor and protect your low-code solutions]]></title>
+        <id>integrating-dataverse-microsoft-sentinel-and-power-platform-to-enable-more-with-less</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/integrating-dataverse-microsoft-sentinel-and-power-platform-to-enable-more-with-less/"/>
+        <updated>2023-06-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Power Platform admins can monitor certain types of security vulnerabilities using the static analysis tools and reports provided in the platform. Having an early and more holistic threat detection and the ability to apply preventative guardrails is crucial to enable frictionless productivity while minimizing cyber risk.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 application modernization on Azure: Envisioning the future]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/19/dynamics-365-application-modernization-on-azure-envisioning-the-future/</id>
