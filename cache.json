@@ -8808,16 +8808,6 @@
           "wordCount": 1966,
           "title": "Where to find Azure Virtual Machine RDP port",
           "imageUrl": "https://lh3.googleusercontent.com/-H2O7jlFKpNI/YNO5-bA2nPI/AAAAAAADi7o/skED13tPYfE5-A1P91qXb6osn4-LDeVJQCLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2021/06/tf-command-line-to-fix-error-mapping-on.html",
-          "author": null,
-          "description": "Just to document my command line to get rid of this blocking error.\n\n\n\n\nMy environment is under Azure DevOps version control and some other user already created a workspace on this computer.\n\n\nClose Visual Studio (2017 in my case) and open the command line. It can be open via Developer Command Prompt for VS 2017; so you would not need to provide the entire path to tf.exe.\n\n\n\n\nNext, run a tf command to delete the workspace created by the previous user (Name and Surname)\n\n\ntf workspace /delete DEV365-FO-VM-3;\"Name Surname\" /collection:https://YOURCOMPANYPROJECT.visualstudio.com\n\n\n\n\n\n\nThen stop all locally running D365FO services, like Web Publishing, Batch processing, etc, in order to avoid errors with locked files in your K:\\AosService\\PackagesLocalDirectory subfolders.\n\n\nNow you can open Visual Studio, connect to Azure DevOps server, create a new workspace, map your folders for projects and metadata, and get latest.",
-          "link": "https://alexvoy.blogspot.com/2021/06/tf-command-line-to-fix-error-mapping-on.html",
-          "publishedOn": "2021-06-21T23:25:00.006Z",
-          "wordCount": 2159,
-          "title": "TF command line to fix the error: Mapping on the working folder is already in use",
-          "imageUrl": "https://lh3.googleusercontent.com/-jM_eJn9cmJU/YNEbXY9Hk8I/AAAAAAADi3s/8DhNqGrEe3gaNRyK35UDPwOUYEi4-uNhACLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png"
         }
       ]
     },
@@ -13324,6 +13314,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "direct-power-fx-dataverse-actions-support-now-in-preview-default-on",
+          "author": null,
+          "description": "We are excited to announce direct access to Dataverse actions in Power Fx formulas as Preview feature (default on.) As a part of the Power Fx language, authors can now directly invoke a Dataverse action within a formula. A new Power Fx ‘Environment’ language object that authors can add to their app enables access to…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/direct-power-fx-dataverse-actions-support-now-in-preview-default-on/",
+          "publishedOn": "2023-06-21T11:08:00.000Z",
+          "wordCount": 1662,
+          "title": "Direct Power Fx Dataverse actions support now in preview",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "integrating-microsoft-sentinel-and-power-platform-to-better-monitor-and-protect-your-low-code-solutions",
+          "author": null,
+          "description": "Microsoft Power Platform admins can monitor certain types of security vulnerabilities using the static analysis tools and reports provided in the platform. Having an early and more holistic threat detection and the ability to apply preventative guardrails is crucial to enable frictionless productivity while minimizing cyber risk.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/integrating-microsoft-sentinel-and-power-platform-to-better-monitor-and-protect-your-low-code-solutions/",
+          "publishedOn": "2023-06-20T13:00:00.000Z",
+          "wordCount": 2305,
+          "title": "Integrating Microsoft Sentinel and Power Platform to better monitor and protect your low-code solutions",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/06/CLO17_azure_010.jpg"
+        },
         {
           "id": "integrating-dataverse-microsoft-sentinel-and-power-platform-to-enable-more-with-less",
           "author": null,

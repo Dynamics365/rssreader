@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-21T01:24:51.705Z</updated>
+    <updated>2023-06-22T01:26:09.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Direct Power Fx Dataverse actions support now in preview]]></title>
+        <id>direct-power-fx-dataverse-actions-support-now-in-preview-default-on</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/direct-power-fx-dataverse-actions-support-now-in-preview-default-on/"/>
+        <updated>2023-06-21T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce direct access to Dataverse actions in Power Fx formulas as Preview feature (default on.) As a part of the Power Fx language, authors can now directly invoke a Dataverse action within a formula. A new Power Fx ‘Environment’ language object that authors can add to their app enables access to…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Customize the Profile Page in Microsoft Power Pages]]></title>
         <id>https://www.encorebusiness.com/?p=57113</id>
@@ -17,6 +27,16 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Gary Harrison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Microsoft Sentinel and Power Platform to better monitor and protect your low-code solutions]]></title>
+        <id>integrating-microsoft-sentinel-and-power-platform-to-better-monitor-and-protect-your-low-code-solutions</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/integrating-microsoft-sentinel-and-power-platform-to-better-monitor-and-protect-your-low-code-solutions/"/>
+        <updated>2023-06-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Power Platform admins can monitor certain types of security vulnerabilities using the static analysis tools and reports provided in the platform. Having an early and more holistic threat detection and the ability to apply preventative guardrails is crucial to enable frictionless productivity while minimizing cyber risk.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -21166,42 +21186,6 @@ A property for a journal batch number has more than one value. Update the journa
 ']]></summary>
         <author>
             <name>Rahul Mohta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TF command line to fix the error: Mapping on the working folder is already in use]]></title>
-        <id>https://alexvoy.blogspot.com/2021/06/tf-command-line-to-fix-error-mapping-on.html</id>
-        <link href="https://alexvoy.blogspot.com/2021/06/tf-command-line-to-fix-error-mapping-on.html"/>
-        <updated>2021-06-21T23:25:00.006Z</updated>
-        <summary type="html"><![CDATA[Just to document my command line to get rid of this blocking error.
-
-
-
-
-My environment is under Azure DevOps version control and some other user already created a workspace on this computer.
-
-
-Close Visual Studio (2017 in my case) and open the command line. It can be open via Developer Command Prompt for VS 2017; so you would not need to provide the entire path to tf.exe.
-
-
-
-
-Next, run a tf command to delete the workspace created by the previous user (Name and Surname)
-
-
-tf workspace /delete DEV365-FO-VM-3;"Name Surname" /collection:https://YOURCOMPANYPROJECT.visualstudio.com
-
-
-
-
-
-
-Then stop all locally running D365FO services, like Web Publishing, Batch processing, etc, in order to avoid errors with locked files in your K:\AosService\PackagesLocalDirectory subfolders.
-
-
-Now you can open Visual Studio, connect to Azure DevOps server, create a new workspace, map your folders for projects and metadata, and get latest.]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
 </feed>
