@@ -1697,6 +1697,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=57238",
+          "author": "Raymond Wong",
+          "description": "Auditing Requirements After an ERP Implementation or Conversion\nThe basic premise of an ERP system audit is to ensure that the data converted matches the previous system’s data at cut off. It’s also to document any changes made, system wise and security wise. I’ve been involved with all aspects of ERP implementations for the past 20 years. This article is based on my...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/auditing-requirements-after-an-erp-implementation-or-conversion/",
+          "publishedOn": "2023-06-22T16:25:17.000Z",
+          "wordCount": 1763,
+          "title": "Auditing Requirements After an ERP Implementation or Conversion",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/06/Auditing.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=57113",
           "author": "Gary Harrison",
           "description": "Customize the Profile Page in Microsoft Power Pages\nMicrosoft Power Pages provides customers the ability to edit their Dataverse contact information with the profile page on the customer service portal. There are cases when the out-of-the-box (OOB) version of the profile page does not meet the company’s business requirements. Power Pages administrators may modify this form to meet these requirements, but not necessarily...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -5678,6 +5688,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/21/customize-data-models-to-view-your-organizations-unique-metrics/",
+          "author": "Vikram Yerrabhaneni",
+          "description": "You can customize data models using data within Dynamics or external data to view metrics tailored to your needs.\nThe post Customize data models to view your organization’s unique metrics  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/21/customize-data-models-to-view-your-organizations-unique-metrics/",
+          "publishedOn": "2023-06-21T17:00:00.000Z",
+          "wordCount": 2402,
+          "title": "Customize data models to view your organization’s unique metrics",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/CLO17_casualOffice_004.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/21/copilot-in-dynamics-365-marketing-revolutionizes-marketing-with-query-assist-and-content-ideas/",
+          "author": "Jim Nakashima",
+          "description": "The use cases for Copilot in customer experience (CX) are endless. Let’s delve into how these copilot features came to be and highlight our generative AI roadmap moving forward.\nThe post Copilot in Dynamics 365 Marketing revolutionizes marketing with query assist and content ideas appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/21/copilot-in-dynamics-365-marketing-revolutionizes-marketing-with-query-assist-and-content-ideas/",
+          "publishedOn": "2023-06-21T15:00:00.000Z",
+          "wordCount": 3671,
+          "title": "Copilot in Dynamics 365 Marketing revolutionizes marketing with query assist and content ideas",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/06/CLO22_RemoteHome_007.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/19/dynamics-365-application-modernization-on-azure-envisioning-the-future/",
           "author": "Charles Lamanna",
           "description": "Of all the questions that customers have, one of the most common is how Microsoft continually delivers new AI innovations at a rapid pace. If you are still running systems on-premises, it starts with application modernization in the cloud. \nThe post Dynamics 365 application modernization on Azure: Envisioning the future appeared first on Microsoft Dynamics 365 Blog.",
@@ -7132,6 +7162,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2721",
+          "author": "Saurabh Bharti",
+          "description": "This is the next part of data template series, you can find Part-1 Here. In the previous video, I discussed default templates and the approach for exporting and importing data from one environment to another using data management. In this video, I will delve into the topic of creating custom templates and provide insights on […]",
+          "link": "https://exploredynamics365.home.blog/2023/06/22/create-and-manage-your-own-data-templates-in-microsoft-dynamics-365-finance-and-operations-part-2/",
+          "publishedOn": "2023-06-22T07:09:12.000Z",
+          "wordCount": 2612,
+          "title": "Create and manage your own data templates in Microsoft Dynamics 365 finance and operations: Part-2",
+          "imageUrl": "http://img.youtube.com/vi/ummsoynSPtU/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2718",
           "author": "Saurabh Bharti",
           "description": "In this upcoming video, I will be addressing two specific scenarios where systems generate additional vouchers/transactions for vendor and customer transactions with the type “Settlement.” It’s important to note that these additional transactions are not generated for every transaction, but only in certain specific scenarios. Stay tuned as I dive into the details and provide […]",
@@ -7589,6 +7629,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2721",
+          "author": "Saurabh Bharti",
+          "description": "This is the next part of data template series, you can find Part-1 Here. In the previous video, I discussed default templates and the approach for exporting and importing data from one environment to another using data management. In this video, I will delve into the topic of creating custom templates and provide insights on […]",
+          "link": "https://exploredynamics365.home.blog/2023/06/22/create-and-manage-your-own-data-templates-in-microsoft-dynamics-365-finance-and-operations-part-2/",
+          "publishedOn": "2023-06-22T07:09:12.000Z",
+          "wordCount": 2612,
+          "title": "Create and manage your own data templates in Microsoft Dynamics 365 finance and operations: Part-2",
+          "imageUrl": "http://img.youtube.com/vi/ummsoynSPtU/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2718",
           "author": "Saurabh Bharti",
           "description": "In this upcoming video, I will be addressing two specific scenarios where systems generate additional vouchers/transactions for vendor and customer transactions with the type “Settlement.” It’s important to note that these additional transactions are not generated for every transaction, but only in certain specific scenarios. Stay tuned as I dive into the details and provide […]",
@@ -8045,6 +8095,16 @@
       "feedUrl": "https://d365snippets.com/feeds/posts/default",
       "siteUrl": "https://www.d365snippets.com/",
       "articles": [
+        {
+          "id": "https://www.d365snippets.com/2023/06/restricted-delete-action-in-dynamics-365-fo.html",
+          "author": null,
+          "description": "In a previous article, I had shown how to add a cascade delete in Dynamics 365 finance and operations. In this article, I will show you how to add a restricted delete action in dynamics 365 Finance and Operations. When a Delete Action comes into the picture? Normally delete actions come into the picture when a user is trying to delete a database record. Delete actions are used to maintain the data integrity and consistency of the database. At the time of development, a developer must take care of the delete actions to implement in the project.\nIn Dynamics 365 Finance and Operations (D365 FO), the delete action refers to the deletion of a record from a table in the database. When a record is deleted, it is permanently removed from the system and cannot be recovered. Therefore, it is importa…",
+          "link": "https://www.d365snippets.com/2023/06/restricted-delete-action-in-dynamics-365-fo.html",
+          "publishedOn": "2023-06-22T12:28:00.013Z",
+          "wordCount": 11827,
+          "title": "Restricted Delete Action in Dynamics 365 Finance and Operations",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAp4ONmsEfZWgqKJH2NpY1Th0leanbNhX6f6cNVAPuA9aB6MHAuvBVyJ28c9nrlnEz2LOjFZ-S6kxBo0QYWrV6PhX1lVupTkjSExNm3tSNzGp30Vki1bwVRlljvg-tXgWxv3JZs0eesw0dUQfLMBvVwQcYBymBlDJPB5ZUxqVKL39C3HIiLVQGrhlnBhg/s16000/Restricted%20Delete%20Action%20in%20Dynamics%20365%20Finance%20and%20Operations.jpg"
+        },
         {
           "id": "https://www.d365snippets.com/2023/06/what-is-power-bi-desktop-work-flow-in-power-bi.html",
           "author": null,

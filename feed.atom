@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-22T01:26:09.591Z</updated>
+    <updated>2023-06-23T01:43:07.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Auditing Requirements After an ERP Implementation or Conversion]]></title>
+        <id>https://www.encorebusiness.com/?p=57238</id>
+        <link href="https://www.encorebusiness.com/blog/auditing-requirements-after-an-erp-implementation-or-conversion/"/>
+        <updated>2023-06-22T16:25:17.000Z</updated>
+        <summary type="html"><![CDATA[Auditing Requirements After an ERP Implementation or Conversion
+The basic premise of an ERP system audit is to ensure that the data converted matches the previous system’s data at cut off. It’s also to document any changes made, system wise and security wise. I’ve been involved with all aspects of ERP implementations for the past 20 years. This article is based on my...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Raymond Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restricted Delete Action in Dynamics 365 Finance and Operations]]></title>
+        <id>https://www.d365snippets.com/2023/06/restricted-delete-action-in-dynamics-365-fo.html</id>
+        <link href="https://www.d365snippets.com/2023/06/restricted-delete-action-in-dynamics-365-fo.html"/>
+        <updated>2023-06-22T12:28:00.013Z</updated>
+        <summary type="html"><![CDATA[In a previous article, I had shown how to add a cascade delete in Dynamics 365 finance and operations. In this article, I will show you how to add a restricted delete action in dynamics 365 Finance and Operations. When a Delete Action comes into the picture? Normally delete actions come into the picture when a user is trying to delete a database record. Delete actions are used to maintain the data integrity and consistency of the database. At the time of development, a developer must take care of the delete actions to implement in the project.
+In Dynamics 365 Finance and Operations (D365 FO), the delete action refers to the deletion of a record from a table in the database. When a record is deleted, it is permanently removed from the system and cannot be recovered. Therefore, it is importa…]]></summary>
+        <author>
+            <name>D365 Snippets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create and manage your own data templates in Microsoft Dynamics 365 finance and operations: Part-2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2721</id>
+        <link href="https://exploredynamics365.home.blog/2023/06/22/create-and-manage-your-own-data-templates-in-microsoft-dynamics-365-finance-and-operations-part-2/"/>
+        <updated>2023-06-22T07:09:12.000Z</updated>
+        <summary type="html"><![CDATA[This is the next part of data template series, you can find Part-1 Here. In the previous video, I discussed default templates and the approach for exporting and importing data from one environment to another using data management. In this video, I will delve into the topic of creating custom templates and provide insights on […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create and manage your own data templates in Microsoft Dynamics 365 finance and operations: Part-2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2721</id>
+        <link href="https://exploredynamics365.home.blog/2023/06/22/create-and-manage-your-own-data-templates-in-microsoft-dynamics-365-finance-and-operations-part-2/"/>
+        <updated>2023-06-22T07:09:12.000Z</updated>
+        <summary type="html"><![CDATA[This is the next part of data template series, you can find Part-1 Here. In the previous video, I discussed default templates and the approach for exporting and importing data from one environment to another using data management. In this video, I will delve into the topic of creating custom templates and provide insights on […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customize data models to view your organization’s unique metrics]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/21/customize-data-models-to-view-your-organizations-unique-metrics/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/21/customize-data-models-to-view-your-organizations-unique-metrics/"/>
+        <updated>2023-06-21T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can customize data models using data within Dynamics or external data to view metrics tailored to your needs.
+The post Customize data models to view your organization’s unique metrics  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Vikram Yerrabhaneni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot in Dynamics 365 Marketing revolutionizes marketing with query assist and content ideas]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/21/copilot-in-dynamics-365-marketing-revolutionizes-marketing-with-query-assist-and-content-ideas/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/06/21/copilot-in-dynamics-365-marketing-revolutionizes-marketing-with-query-assist-and-content-ideas/"/>
+        <updated>2023-06-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The use cases for Copilot in customer experience (CX) are endless. Let’s delve into how these copilot features came to be and highlight our generative AI roadmap moving forward.
+The post Copilot in Dynamics 365 Marketing revolutionizes marketing with query assist and content ideas appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jim Nakashima</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Direct Power Fx Dataverse actions support now in preview]]></title>
         <id>direct-power-fx-dataverse-actions-support-now-in-preview-default-on</id>
