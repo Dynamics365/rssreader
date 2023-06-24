@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-23T01:43:07.095Z</updated>
+    <updated>2023-06-24T01:42:17.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Financial dimension names lookup]]></title>
+        <id>1891</id>
+        <link href="http://daxonline.org/1891-financial-dimension-names-lookup.html"/>
+        <updated>2023-06-23T12:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Financial dimension names lookup to exclude system-generated financial dimension names:
+    /// <summary>
+    /// Look up to filter system generated financial dimension names
+    /// </summary>
+    /// <param name="sender"></param>
+    /// <param name="e"></param>
+    [FormControlEventHandler(formControlStr(HRMParameters, VKAPDPayrollSystem_VKADPCostCentreDim), FormControlEventType::Lookup)]
+    public static void VKAPDPayrollSystem_VKADPCostCentreDim_OnLookup(FormControl sender, FormControlEventArgs e)
+    {
+        FormReferenceControl    formControl = sender as FormReferenceControl;
+        SysReferenceTableLookup sysReferenceTableLookup = SysReferenceTableLookup::newParameters(tablenum(DimensionAttribute), formControl);
+        Query                   query = new Query();
+        Query…]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Account-based seller insights improve sales account manager effectiveness]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/06/22/account-based-seller-insights-improve-sales-account-manager-effectiveness/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/22/account-based-seller-insights-improve-sales-account-manager-effectiveness/"/>
+        <updated>2023-06-22T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Busy sales account managers prioritize their activities by mining information from their accounts. But manually making sense of all that unstructured data is tedious and can lead to erroneous assumptions. They can end up focusing on the wrong activities, which results in a lower impact on business outcomes.
+The post Account-based seller insights improve sales account manager effectiveness  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ashwini Kumar Dalai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Auditing Requirements After an ERP Implementation or Conversion]]></title>
         <id>https://www.encorebusiness.com/?p=57238</id>
@@ -21189,16 +21222,6 @@ In this blog post I will look at...
         <summary type="html"><![CDATA[With Platform Update 43 it is possible to pass the current legal entity context from Dynamics 365 Finance and Operations (D365F&O) to an embedded Power Apps app.]]></summary>
         <author>
             <name>Henrik Marx Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where to find Azure Virtual Machine RDP port]]></title>
-        <id>https://alexvoy.blogspot.com/2021/06/where-to-find-azure-virtual-machine-rdp.html</id>
-        <link href="https://alexvoy.blogspot.com/2021/06/where-to-find-azure-virtual-machine-rdp.html"/>
-        <updated>2021-06-23T22:48:00.002Z</updated>
-        <summary type="html"><![CDATA[Here you go]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>

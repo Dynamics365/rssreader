@@ -5441,6 +5441,16 @@
       "siteUrl": "http://daxonline.org/",
       "articles": [
         {
+          "id": "1891",
+          "author": "Vasiliy Kovalenko",
+          "description": "Financial dimension names lookup to exclude system-generated financial dimension names:\n    /// <summary>\n    /// Look up to filter system generated financial dimension names\n    /// </summary>\n    /// <param name=\"sender\"></param>\n    /// <param name=\"e\"></param>\n    [FormControlEventHandler(formControlStr(HRMParameters, VKAPDPayrollSystem_VKADPCostCentreDim), FormControlEventType::Lookup)]\n    public static void VKAPDPayrollSystem_VKADPCostCentreDim_OnLookup(FormControl sender, FormControlEventArgs e)\n    {\n        FormReferenceControl    formControl = sender as FormReferenceControl;\n        SysReferenceTableLookup sysReferenceTableLookup = SysReferenceTableLookup::newParameters(tablenum(DimensionAttribute), formControl);\n        Query                   query = new Query();\n        Query…",
+          "link": "http://daxonline.org/1891-financial-dimension-names-lookup.html",
+          "publishedOn": "2023-06-23T12:42:23.000Z",
+          "wordCount": 353,
+          "title": "Financial dimension names lookup",
+          "imageUrl": null
+        },
+        {
           "id": "1882",
           "author": "Vasiliy Kovalenko",
           "description": "Job to walk through all tables and fields and check where specific EDTs are used:\nusing Microsoft.Dynamics.AX.Metadata.MetaModel;\nclass VKTest\n{\n    Map     edtMap;\n    List    edtList;\n    str     edtListText;\n    str     fieldListText;\n\n    public static void main(Args _args)\n    {\n\n        VKTest vkTest = new VKTest();\n\n        vkTest.buildEDTList();\n\n        vkTest.tableList2();\n\n        vkTest.outputResults();\n\n\n        Info('Done');\n    }\n\n    public void outputResults()\n    {\n        Info(edtListText);\n        Info(fieldListText);\n    }\n\n    public void buildEDTList()\n    {\n        DictType    dictType = new DictType(extendedTypeNum(WeightBase));\n\n        edtList = dictType.extendedBy(true);\n\n        //Info(strFmt(\"EDT count: %1\", edtList.elements()));\n\n        edtMap = new Map(Type…",
@@ -5687,6 +5697,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/22/account-based-seller-insights-improve-sales-account-manager-effectiveness/",
+          "author": "Ashwini Kumar Dalai",
+          "description": "Busy sales account managers prioritize their activities by mining information from their accounts. But manually making sense of all that unstructured data is tedious and can lead to erroneous assumptions. They can end up focusing on the wrong activities, which results in a lower impact on business outcomes.\nThe post Account-based seller insights improve sales account manager effectiveness  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/22/account-based-seller-insights-improve-sales-account-manager-effectiveness/",
+          "publishedOn": "2023-06-22T17:15:00.000Z",
+          "wordCount": 2506,
+          "title": "Account-based seller insights improve sales account manager effectiveness",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/06/CLO18_cafeWork_001-scaled.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/21/customize-data-models-to-view-your-organizations-unique-metrics/",
           "author": "Vikram Yerrabhaneni",
@@ -8858,16 +8878,6 @@
           "wordCount": 2063,
           "title": "Some ISV/Custom labels not resolved when migrated from AX 2012 to D365FO",
           "imageUrl": "https://lh3.googleusercontent.com/-eVE9iMgcs4o/YN8hWNqC2jI/AAAAAAADjfs/3SqK9Peje6UeMh2Ss0E75nzACBPsoOnrwCLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2021/06/where-to-find-azure-virtual-machine-rdp.html",
-          "author": null,
-          "description": "Here you go",
-          "link": "https://alexvoy.blogspot.com/2021/06/where-to-find-azure-virtual-machine-rdp.html",
-          "publishedOn": "2021-06-23T22:48:00.002Z",
-          "wordCount": 1966,
-          "title": "Where to find Azure Virtual Machine RDP port",
-          "imageUrl": "https://lh3.googleusercontent.com/-H2O7jlFKpNI/YNO5-bA2nPI/AAAAAAADi7o/skED13tPYfE5-A1P91qXb6osn4-LDeVJQCLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png"
         }
       ]
     },
