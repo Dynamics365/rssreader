@@ -13405,6 +13405,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "microsoft-is-a-leader-in-2023-forrester-wave-low-code-platforms-for-professional-developers",
+          "author": null,
+          "description": "We are honored to be named a leader in The Forrester Wave™ Low-Code Development Platforms for Professional Developers Q2 2023. The Forrester report acknowledges Microsoft’s “best-in-class features for AI development”, track record of innovation, and unique approach to unifying across professional and citizen development as key advantages, saying, “the vision for the platform as the…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/microsoft-is-a-leader-in-2023-forrester-wave-low-code-platforms-for-professional-developers/",
+          "publishedOn": "2023-06-27T10:21:05.000Z",
+          "wordCount": 2091,
+          "title": "Microsoft is a leader in 2023 Forrester Wave Low-Code Platforms for Professional Developers",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/06/Screenshot-2023-06-27-103511.png"
+        },
+        {
           "id": "direct-power-fx-dataverse-actions-support-now-in-preview-default-on",
           "author": null,
           "description": "We are excited to announce direct access to Dataverse actions in Power Fx formulas as Preview feature (default on.) As a part of the Power Fx language, authors can now directly invoke a Dataverse action within a formula. A new Power Fx ‘Environment’ language object that authors can add to their app enables access to…",

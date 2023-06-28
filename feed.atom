@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-27T01:46:17.603Z</updated>
+    <updated>2023-06-28T01:44:55.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is a leader in 2023 Forrester Wave Low-Code Platforms for Professional Developers]]></title>
+        <id>microsoft-is-a-leader-in-2023-forrester-wave-low-code-platforms-for-professional-developers</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/microsoft-is-a-leader-in-2023-forrester-wave-low-code-platforms-for-professional-developers/"/>
+        <updated>2023-06-27T10:21:05.000Z</updated>
+        <summary type="html"><![CDATA[We are honored to be named a leader in The Forrester Wave™ Low-Code Development Platforms for Professional Developers Q2 2023. The Forrester report acknowledges Microsoft’s “best-in-class features for AI development”, track record of innovation, and unique approach to unifying across professional and citizen development as key advantages, saying, “the vision for the platform as the…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Experiencing the new Microsoft Dynamics community site]]></title>
         <id>https://dynamicspedia.com/?p=18646</id>
