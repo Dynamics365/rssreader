@@ -1697,6 +1697,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=57162",
+          "author": "Henry Villanueva",
+          "description": "How to Deploy a Tier 2+ Environment in Dynamics 365 Finance & Operations\nDeployment of Dynamics 365 Finance & Operations cloud environment is self-service through Lifecycle Services (LCS). You can control when you need to deploy the environment and verify when it is already deployed. There is no remote desktop access to Tier 2+ environments but all operations that you need are available as self-service actions under the...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-deploy-a-tier-2-environment-in-d365-fo/",
+          "publishedOn": "2023-06-28T14:00:01.000Z",
+          "wordCount": 1487,
+          "title": "How to Deploy a Tier 2+ Environment in Dynamics 365 Finance & Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=57238",
           "author": "Raymond Wong",
           "description": "Auditing Requirements After an ERP Implementation or Conversion\nThe basic premise of an ERP system audit is to ensure that the data converted matches the previous system’s data at cut off. It’s also to document any changes made, system wise and security wise. I’ve been involved with all aspects of ERP implementations for the past 20 years. This article is based on my...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -3828,16 +3838,6 @@
           "wordCount": 1074,
           "title": "How to Push your MsDyn365FO deployable package to Azure Artifacts as NuGet packages",
           "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/09/how-to-push-your-msdyn365fo-deployable-package-to-azure-artifacts-as-nuget-packages-banner.png?w=1200"
-        },
-        {
-          "id": "https://msdyn365fo.wordpress.com/?p=508",
-          "author": "Paul Heisterkamp",
-          "description": "In this blog I want to show, how you could find what exact error/exception is causing problems when exporting data from Microsoft Dynamics 365 for Finance and Operations via the DIXF (Data Import Export Framework) e. g. to Excel. I recently worked on a bug from one of my colleagues with the following repro steps: … Continue reading Error DMF2009 when exporting from MsDyn365FO to Excel →",
-          "link": "https://msdyn365fo.wordpress.com/2021/06/29/error-dmf2009-when-exporting-from-msdyn365fo-to-excel/",
-          "publishedOn": "2021-06-29T06:36:56.000Z",
-          "wordCount": 776,
-          "title": "Error DMF2009 when exporting from MsDyn365FO to Excel",
-          "imageUrl": "https://msdyn365fo.files.wordpress.com/2021/06/dmf2009_errorinexecutionlog.png?w=1200"
         }
       ]
     },
@@ -3983,6 +3983,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2761",
+          "author": "AnithaEswaran",
+          "description": "Data grows over time and it is a good idea to archive it for the effective performance of the system. Latest feature in D365FO has the ‘Archive Set up’ solution which is simple to configure . This set up moves … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/06/28/archive-data-in-d365fo-part-1-sales-order/",
+          "publishedOn": "2023-06-28T17:43:01.000Z",
+          "wordCount": 3900,
+          "title": "Archive Data in D365FO – Part 1-Sales Order",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/06/image-34.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=2759",
           "author": "AnithaEswaran",
@@ -5697,6 +5707,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/23/take-customer-service-to-new-heights-with-cross-geo-support-for-copilot/",
+          "author": "Prashanth Venkataramu",
+          "description": "We are excited to introduce support for Copilot in Dynamics 365 Customer Service across multiple geographic regions, or cross-geo support.\nThe post Take Customer Service to new heights with cross-geo support for Copilot appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/23/take-customer-service-to-new-heights-with-cross-geo-support-for-copilot/",
+          "publishedOn": "2023-06-23T17:00:00.000Z",
+          "wordCount": 2343,
+          "title": "Take Customer Service to new heights with cross-geo support for Copilot",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/06/earth-hero.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/22/account-based-seller-insights-improve-sales-account-manager-effectiveness/",
           "author": "Ashwini Kumar Dalai",
@@ -9701,6 +9721,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5175",
+          "author": "Ludwig Reinhard",
+          "description": "[German language podcast] Im neuesten Podcast sprechen wir mir Maik Schulz, dem Leiter im IT Bereich für Application & Business …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2023/06/28/microsoft-bizapps-deutschland-podcast-15/",
+          "publishedOn": "2023-06-28T04:29:30.000Z",
+          "wordCount": 2797,
+          "title": "Microsoft BizApps Deutschland Podcast #15",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/06/collagelre.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5034",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -13155,6 +13185,16 @@
       "siteUrl": "https://erconsult.eu/",
       "articles": [
         {
+          "id": "https://erconsult.eu/?p=7709",
+          "author": "Eugen Glasow",
+          "description": "Low value parts such as bolts, screws, gaskets, clamps, and other fasteners, as well as small electric parts, are rarely retrieved from the main warehouse in the precise quantities by production order. Instead, they are stored in surplus at the workbenches, typically organized in boxes of various sizes. The usage of […]\nThe post Consumable “Kanban” parts in D365 Warehouse management appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/consumable-kanban-parts-in-d365-warehouse-management/",
+          "publishedOn": "2023-06-28T10:32:13.000Z",
+          "wordCount": 2372,
+          "title": "Consumable “Kanban” parts in D365 Warehouse management",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2023/06/Small_consumable_items.png"
+        },
+        {
           "id": "https://erconsult.eu/?p=7581",
           "author": "Eugen Glasow",
           "description": "You are going to have this error in Dynamics 365 Warehouse management, guaranteed. The error manifests itself at the production order picking or at sales order picking: the picking location is empty. Depending on the Location directive failures setup under the Warehouse management parameters this is going to either create a […]\nThe post Dynamics 365 SCM: Do not reserve in Inbound appeared first on ER-Consult.",
@@ -13380,16 +13420,6 @@
           "wordCount": 3740,
           "title": "Using Derived Test Cases in RSAT",
           "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2022/02/software-1.jpg"
-        },
-        {
-          "id": "http://henrikmarxlarsen.wordpress.com/?p=2664",
-          "author": "Henrik Marx Larsen",
-          "description": "With Platform Update 43 it is possible to pass the current legal entity context from Dynamics 365 Finance and Operations (D365F&O) to an embedded Power Apps app.",
-          "link": "https://henrikmarxlarsen.wordpress.com/2021/06/29/passing-legal-entity-context-to-an-embedded-power-apps-app-in-dynamics-365-finance-and-operations/",
-          "publishedOn": "2021-06-29T05:25:43.000Z",
-          "wordCount": 4124,
-          "title": "Passing Legal Entity Context to an Embedded Power Apps App in Dynamics 365 Finance and Operations",
-          "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2021/06/legal-entity-1-1.png?w=1200"
         }
       ]
     },
@@ -13404,6 +13434,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-monthly-channel-for-model-driven-apps",
+          "author": null,
+          "description": "Today we are launching Release Channels for model-driven apps in public and sovereign clouds. Release channels provide more choice for adopting new features in model driven apps and Dynamics 365 apps.  Rather than only being able to receive updates twice a year during the wave releases, you can choose some or all users to receive more frequent updates through monthly channel.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-monthly-channel-for-model-driven-apps/",
+          "publishedOn": "2023-06-28T13:20:31.000Z",
+          "wordCount": 2144,
+          "title": "Announcing monthly channel for model-driven apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "microsoft-is-a-leader-in-2023-forrester-wave-low-code-platforms-for-professional-developers",
           "author": null,
