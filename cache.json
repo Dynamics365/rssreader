@@ -1697,6 +1697,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=57314",
+          "author": "Kailey Acuña",
+          "description": "How to Navigate Through the Dynamics 365 Finance & Operations Interface\nThis blog will help you navigate through the Dynamics 365 Finance and Operations (D365 F&O) interface while providing some tips and tricks to ease your initial training when using the system. Note: Even though most customers, commentators, and consultants still call it Dynamics 365 Finance & Operations or D365FO, Microsoft now technically licenses it as Dynamics...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-navigate-through-the-dynamics-365-finance-operations-interface/",
+          "publishedOn": "2023-06-29T20:15:37.000Z",
+          "wordCount": 3587,
+          "title": "How to Navigate Through the Dynamics 365 Finance & Operations Interface",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=57162",
           "author": "Henry Villanueva",
           "description": "How to Deploy a Tier 2+ Environment in Dynamics 365 Finance & Operations\nDeployment of Dynamics 365 Finance & Operations cloud environment is self-service through Lifecycle Services (LCS). You can control when you need to deploy the environment and verify when it is already deployed. There is no remote desktop access to Tier 2+ environments but all operations that you need are available as self-service actions under the...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -3651,17 +3661,6 @@
           "publishedOn": "2021-12-01T14:04:39.000Z",
           "wordCount": null,
           "title": "Dynamics 365 Finance Operations Data Event Catalog - Power Platform Convergence",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:60dc2d2aee3ee846de96e669",
-          "author": "Aurélien Clere",
-          "description": "Wanted to consume your inventory data (on hand) and send also change from \r\nexternal system ? You want with Realtime and without decreasing performance \r\nside of your ERP : Dynamics 365 Finance Operations. This new micro service \r\nis for you ! Let's jump on how to configure it and use it directly in few \r\nminutes after in Power Platform (Power Apps and Power Automate)",
-          "link": "https://www.powerazure365.com/blog-1/dynamics-365-inventory-visibility",
-          "publishedOn": "2021-06-30T08:36:53.000Z",
-          "wordCount": null,
-          "title": "Dynamics 365 Inventory Visibility",
           "itunes": {},
           "imageUrl": null
         }

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-29T01:40:41.335Z</updated>
+    <updated>2023-06-30T01:40:45.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Navigate Through the Dynamics 365 Finance & Operations Interface]]></title>
+        <id>https://www.encorebusiness.com/?p=57314</id>
+        <link href="https://www.encorebusiness.com/blog/how-to-navigate-through-the-dynamics-365-finance-operations-interface/"/>
+        <updated>2023-06-29T20:15:37.000Z</updated>
+        <summary type="html"><![CDATA[How to Navigate Through the Dynamics 365 Finance & Operations Interface
+This blog will help you navigate through the Dynamics 365 Finance and Operations (D365 F&O) interface while providing some tips and tricks to ease your initial training when using the system. Note: Even though most customers, commentators, and consultants still call it Dynamics 365 Finance & Operations or D365FO, Microsoft now technically licenses it as Dynamics...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Kailey Acuña</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Archive Data in D365FO – Part 1-Sales Order]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2761</id>
@@ -21261,20 +21274,6 @@ Then it works well.]]></summary>
 When you integrate robotic process automation into the streamlined proc...(read more)]]></summary>
         <author>
             <name>Microsoft Dynamics Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Inventory Visibility]]></title>
-        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:60dc2d2aee3ee846de96e669</id>
-        <link href="https://www.powerazure365.com/blog-1/dynamics-365-inventory-visibility"/>
-        <updated>2021-06-30T08:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Wanted to consume your inventory data (on hand) and send also change from 
-external system ? You want with Realtime and without decreasing performance 
-side of your ERP : Dynamics 365 Finance Operations. This new micro service 
-is for you ! Let's jump on how to configure it and use it directly in few 
-minutes after in Power Platform (Power Apps and Power Automate)]]></summary>
-        <author>
-            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>
