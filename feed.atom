@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-06-30T01:40:45.215Z</updated>
+    <updated>2023-07-02T01:49:50.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -17,6 +17,28 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Kailey Acuña</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get started with developing generative AI features for Dynamics 365 Business Central]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/?p=186085</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/29/developing-generative-ai-features-for-business-central/"/>
+        <updated>2023-06-29T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[An answer to the question: How do I get started with AI in AL and Visual Studio Code? 
+The post Get started with developing generative AI features for Dynamics 365 Business Central  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mike Borg Cardona, Ievgenii Korovin and Sam van Lieshout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the New Dynamics 365 Community – A Catalyst for Collaboration and Innovation]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/?p=186078</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/06/28/new-dynamics-365-community-site/"/>
+        <updated>2023-06-28T19:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is delighted to announce that the new Dynamics 365 Community is now live, marking a significant milestone in our journey of empowering users, fostering collaboration, and driving innovation. 
+The post Introducing the New Dynamics 365 Community – A Catalyst for Collaboration and Innovation  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Darshan Desai</name>
         </author>
     </entry>
     <entry>
@@ -3019,6 +3041,16 @@ public final class mgcFinanceFunction
     </entry>
     <entry>
         <title type="html"><![CDATA[Your one-stop resources for Microsoft Dynamics 365 Finance & Operation developers]]></title>
+        <id>https://paragchapre.com/?p=2929</id>
+        <link href="https://paragchapre.com/your-one-stop-resources-for-microsoft-dynamics-365-finance-operation-developers/"/>
+        <updated>2023-04-20T02:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Developers in Microsoft Dynamics 365 Finance and Operations (F&O) often ask how to learn X++ from the basics to advanced levels. In this article, I will share some resources, certifications, blogs and YouTube link which can be useful for the developers. Learning catalog for Dynamics 365 Finance developers from Microsoft Learning catalog for Dynamics 365 […]]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your one-stop resources for Microsoft Dynamics 365 Finance & Operation developers]]></title>
         <id>http://paragchapre.com/?p=2929</id>
         <link href="https://paragchapre.com/2023/04/20/your-one-stop-resources-for-microsoft-dynamics-365-finance-operation-developers/"/>
         <updated>2023-04-20T02:01:26.000Z</updated>
@@ -4842,6 +4874,16 @@ The post Introducing New Asset Management Mobile App for Dynamics 365 Supply Cha
     </entry>
     <entry>
         <title type="html"><![CDATA[Learn Power Platform in 30 days]]></title>
+        <id>https://paragchapre.com/?p=2865</id>
+        <link href="https://paragchapre.com/learn-power-platform-in-30-days/"/>
+        <updated>2023-03-17T03:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Learn Power Platform in 30 days]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Power Platform in 30 days]]></title>
         <id>http://paragchapre.com/?p=2865</id>
         <link href="https://paragchapre.com/2023/03/17/learn-power-platform-in-30-days/"/>
         <updated>2023-03-17T03:41:40.000Z</updated>
@@ -6280,6 +6322,16 @@ This post first appeared first on Encore Business Solutions.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to create a worker in x++]]></title>
+        <id>https://paragchapre.com/?p=2812</id>
+        <link href="https://paragchapre.com/how-to-create-a-worker-in-x/"/>
+        <updated>2023-02-14T08:01:10.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to create a worker using X++. Step 1: Create a class and define the global variable. Step 2: Create new method to insert Title in the master table. Step 3: Create a new method to enter first name, middle name and last name in the Dir party table. […]]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create a worker in x++]]></title>
         <id>http://paragchapre.com/?p=2812</id>
         <link href="https://paragchapre.com/2023/02/14/how-to-create-a-worker-in-x/"/>
         <updated>2023-02-14T08:01:10.000Z</updated>
@@ -6358,6 +6410,16 @@ The post A restyled user experience for F&O apps in April 2023 release appeared 
     </entry>
     <entry>
         <title type="html"><![CDATA[How to add filter in Dual-write]]></title>
+        <id>https://paragchapre.com/?p=2794</id>
+        <link href="https://paragchapre.com/how-to-add-filter-in-dual-write/"/>
+        <updated>2023-02-13T04:36:20.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to add filter in Dual write when syncing data from FinOps to Dataverse and vice versa. For Dataverse, we can use Odata filter expression using Dual-write but for FinOps, we have to use different techniques which can be later in this article. Step 1: Go Data management > […]]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add filter in Dual-write]]></title>
         <id>http://paragchapre.com/?p=2794</id>
         <link href="https://paragchapre.com/2023/02/13/how-to-add-filter-in-dual-write/"/>
         <updated>2023-02-13T04:36:20.000Z</updated>
@@ -6368,12 +6430,32 @@ The post A restyled user experience for F&O apps in April 2023 release appeared 
     </entry>
     <entry>
         <title type="html"><![CDATA[How to get workers current position, department and manger in X++]]></title>
+        <id>https://paragchapre.com/?p=2785</id>
+        <link href="https://paragchapre.com/how-to-get-workers-current-position-department-and-manger-in-x/"/>
+        <updated>2023-02-13T03:38:54.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 F&O, we have HcmWorkerHelper class which gives much information about worker such as department, primary position, current legal entity and so on. The code to get worker’s current position. This gives current worker record. The code to get current worker manager. The code to get current worker department. The code to get […]]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get workers current position, department and manger in X++]]></title>
         <id>http://paragchapre.com/?p=2785</id>
         <link href="https://paragchapre.com/2023/02/13/how-to-get-workers-current-position-department-and-manger-in-x/"/>
         <updated>2023-02-13T03:38:54.000Z</updated>
         <summary type="html"><![CDATA[In Dynamics 365 F&O, we have HcmWorkerHelper class which gives much information about worker such as department, primary position, current legal entity and so on. The code to get worker’s current position. This gives current worker record. The code to get current worker manager. The code to get current worker department. The code to get... Continue Reading →]]></summary>
         <author>
             <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get current user worker in X++]]></title>
+        <id>https://paragchapre.com/?p=2777</id>
+        <link href="https://paragchapre.com/how-to-get-current-user-worker-in-x/"/>
+        <updated>2023-02-13T03:23:59.000Z</updated>
+        <summary type="html"><![CDATA[The code to get current user. The code to get current user worker. Option 1: Option 2: The code to get current worker name]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>
@@ -6408,6 +6490,16 @@ Inventory protection (ring fencing): Protecting the allocated inventory from oth
 The post Inventory allocation ensures limited stock goes where it’s most needed appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Yufei Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create lookup with Virtual entity to native entity]]></title>
+        <id>https://paragchapre.com/?p=2647</id>
+        <link href="https://paragchapre.com/how-to-create-lookup-with-virtual-entity-to-native-entity/"/>
+        <updated>2023-02-10T06:14:05.000Z</updated>
+        <summary type="html"><![CDATA[Building an app requires capabilities to perform relational modeling between entities that are being used in the app. In the context of virtual entities, there will be scenarios where virtual entities and native entities in Dataverse must work together to enable the desired user experience. In this article, we will see the concept of relational […]]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>
@@ -6491,6 +6583,16 @@ ariste.info Dynamics 365 F&O y firewalls: monitoreo de IPs de Azure]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a customer in Dynamics 365 F&O using Power Platform]]></title>
+        <id>https://paragchapre.com/?p=2711</id>
+        <link href="https://paragchapre.com/create-a-customer-in-dynamics-365-fo-using-power-platform/"/>
+        <updated>2023-02-08T22:27:35.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to create a customer in Dynamics 365 F&O using Power Platform. Pre-requisites: Canvas app Check below video for more details. If you like this article, feel free to share it with others who might find it helpful! If you have any questions, feel free to reach out to […]]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>
@@ -7382,6 +7484,16 @@ Depreciation profiles for Fixed assets in Microsoft Dynamics 365 Finance]]></sum
     </entry>
     <entry>
         <title type="html"><![CDATA[How to use D365 F&O number sequence in Power Platform]]></title>
+        <id>https://paragchapre.com/?p=2673</id>
+        <link href="https://paragchapre.com/how-to-use-d365-fo-number-sequence-in-power-platform/"/>
+        <updated>2023-02-02T01:31:35.000Z</updated>
+        <summary type="html"><![CDATA[Using continuous number sequences from Dynamics 365 Finance and operations in Power Platform can be cumbersome sometimes but in today’s article we will see how to use it. What is number sequence Number sequences are used to generate readable, unique identifiers for master data records and transaction records that require identifiers. A master data record […]]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use D365 F&O number sequence in Power Platform]]></title>
         <id>http://paragchapre.com/?p=2673</id>
         <link href="https://paragchapre.com/2023/02/02/how-to-use-d365-fo-number-sequence-in-power-platform/"/>
         <updated>2023-02-02T01:31:35.000Z</updated>
@@ -7523,6 +7635,16 @@ The post Use the Customer Service workspace app for omnichannel interactions app
 Continue reading →]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Key Vault in X++]]></title>
+        <id>https://paragchapre.com/?p=2657</id>
+        <link href="https://paragchapre.com/how-to-use-key-vault-in-x/"/>
+        <updated>2023-02-01T02:20:32.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see what Key Vault is, why to use and how to use Key Vault using X++ code. What is Key Vault Azure Key Vault is one of several key management solutions in Azure, and helps to solve problems such as secret, key and certificate management. Why use Azure Key Vault There […]]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>

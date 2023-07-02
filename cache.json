@@ -5707,6 +5707,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/?p=186085",
+          "author": "Mike Borg Cardona, Ievgenii Korovin and Sam van Lieshout",
+          "description": "An answer to the question: How do I get started with AI in AL and Visual Studio Code? \nThe post Get started with developing generative AI features for Dynamics 365 Business Central  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/29/developing-generative-ai-features-for-business-central/",
+          "publishedOn": "2023-06-29T13:53:00.000Z",
+          "wordCount": 2658,
+          "title": "Get started with developing generative AI features for Dynamics 365 Business Central",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/06/CLO17_casualOffice_018.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/?p=186078",
+          "author": "Darshan Desai",
+          "description": "Microsoft is delighted to announce that the new Dynamics 365 Community is now live, marking a significant milestone in our journey of empowering users, fostering collaboration, and driving innovation. \nThe post Introducing the New Dynamics 365 Community – A Catalyst for Collaboration and Innovation  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/28/new-dynamics-365-community-site/",
+          "publishedOn": "2023-06-28T19:09:13.000Z",
+          "wordCount": 2281,
+          "title": "Introducing the New Dynamics 365 Community – A Catalyst for Collaboration and Innovation",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/06/CLO20_Tegan_CasualMeeting_004-scaled.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/06/23/take-customer-service-to-new-heights-with-cross-geo-support-for-copilot/",
           "author": "Prashanth Venkataramu",
           "description": "We are excited to introduce support for Copilot in Dynamics 365 Customer Service across multiple geographic regions, or cross-geo support.\nThe post Take Customer Service to new heights with cross-geo support for Copilot appeared first on Microsoft Dynamics 365 Blog.",
@@ -9037,10 +9057,20 @@
       "articles": []
     },
     {
-      "title": "PARAG CHAPRE BLOG",
+      "title": "My WordPress",
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "https://paragchapre.com/?p=2929",
+          "author": "paragchapre@gmail.com",
+          "description": "Developers in Microsoft Dynamics 365 Finance and Operations (F&O) often ask how to learn X++ from the basics to advanced levels. In this article, I will share some resources, certifications, blogs and YouTube link which can be useful for the developers. Learning catalog for Dynamics 365 Finance developers from Microsoft Learning catalog for Dynamics 365 […]",
+          "link": "https://paragchapre.com/your-one-stop-resources-for-microsoft-dynamics-365-finance-operation-developers/",
+          "publishedOn": "2023-04-20T02:01:26.000Z",
+          "wordCount": 2136,
+          "title": "Your one-stop resources for Microsoft Dynamics 365 Finance & Operation developers",
+          "imageUrl": null
+        },
         {
           "id": "http://paragchapre.com/?p=2929",
           "author": "Parag Chapre",
@@ -9050,6 +9080,16 @@
           "wordCount": 4319,
           "title": "Your one-stop resources for Microsoft Dynamics 365 Finance & Operation developers",
           "imageUrl": "https://paragchapre.files.wordpress.com/2023/04/d365-fo-learning-resources.png?w=1200"
+        },
+        {
+          "id": "https://paragchapre.com/?p=2865",
+          "author": "paragchapre@gmail.com",
+          "description": "Learn Power Platform in 30 days",
+          "link": "https://paragchapre.com/learn-power-platform-in-30-days/",
+          "publishedOn": "2023-03-17T03:41:40.000Z",
+          "wordCount": 1942,
+          "title": "Learn Power Platform in 30 days",
+          "imageUrl": null
         },
         {
           "id": "http://paragchapre.com/?p=2865",
@@ -9062,6 +9102,16 @@
           "imageUrl": "https://paragchapre.files.wordpress.com/2023/03/add-a-heading.png?w=1200"
         },
         {
+          "id": "https://paragchapre.com/?p=2812",
+          "author": "paragchapre@gmail.com",
+          "description": "In today’s article, we will see how to create a worker using X++. Step 1: Create a class and define the global variable. Step 2: Create new method to insert Title in the master table. Step 3: Create a new method to enter first name, middle name and last name in the Dir party table. […]",
+          "link": "https://paragchapre.com/how-to-create-a-worker-in-x/",
+          "publishedOn": "2023-02-14T08:01:10.000Z",
+          "wordCount": 1949,
+          "title": "How to create a worker in x++",
+          "imageUrl": null
+        },
+        {
           "id": "http://paragchapre.com/?p=2812",
           "author": "Parag Chapre",
           "description": "In today’s article, we will see how to create a worker using X++. Step 1: Create a class and define the global variable. Step 2: Create new method to insert Title in the master table. Step 3: Create a new method to enter first name, middle name and last name in the Dir party table.... Continue Reading →",
@@ -9070,6 +9120,16 @@
           "wordCount": 4205,
           "title": "How to create a worker in x++",
           "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/worker.jpg?w=1200"
+        },
+        {
+          "id": "https://paragchapre.com/?p=2794",
+          "author": "paragchapre@gmail.com",
+          "description": "In today’s article, we will see how to add filter in Dual write when syncing data from FinOps to Dataverse and vice versa. For Dataverse, we can use Odata filter expression using Dual-write but for FinOps, we have to use different techniques which can be later in this article. Step 1: Go Data management > […]",
+          "link": "https://paragchapre.com/how-to-add-filter-in-dual-write/",
+          "publishedOn": "2023-02-13T04:36:20.000Z",
+          "wordCount": 1857,
+          "title": "How to add filter in Dual-write",
+          "imageUrl": null
         },
         {
           "id": "http://paragchapre.com/?p=2794",
@@ -9082,6 +9142,16 @@
           "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/how-to-get-current-user-worker-in-x-2.jpg?w=1200"
         },
         {
+          "id": "https://paragchapre.com/?p=2785",
+          "author": "paragchapre@gmail.com",
+          "description": "In Dynamics 365 F&O, we have HcmWorkerHelper class which gives much information about worker such as department, primary position, current legal entity and so on. The code to get worker’s current position. This gives current worker record. The code to get current worker manager. The code to get current worker department. The code to get […]",
+          "link": "https://paragchapre.com/how-to-get-workers-current-position-department-and-manger-in-x/",
+          "publishedOn": "2023-02-13T03:38:54.000Z",
+          "wordCount": 1669,
+          "title": "How to get workers current position, department and manger in X++",
+          "imageUrl": null
+        },
+        {
           "id": "http://paragchapre.com/?p=2785",
           "author": "Parag Chapre",
           "description": "In Dynamics 365 F&O, we have HcmWorkerHelper class which gives much information about worker such as department, primary position, current legal entity and so on. The code to get worker’s current position. This gives current worker record. The code to get current worker manager. The code to get current worker department. The code to get... Continue Reading →",
@@ -9090,6 +9160,16 @@
           "wordCount": 3792,
           "title": "How to get workers current position, department and manger in X++",
           "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/how-to-get-current-user-worker-in-x-1.jpg?w=1200"
+        },
+        {
+          "id": "https://paragchapre.com/?p=2777",
+          "author": "paragchapre@gmail.com",
+          "description": "The code to get current user. The code to get current user worker. Option 1: Option 2: The code to get current worker name",
+          "link": "https://paragchapre.com/how-to-get-current-user-worker-in-x/",
+          "publishedOn": "2023-02-13T03:23:59.000Z",
+          "wordCount": 1618,
+          "title": "How to get current user worker in X++",
+          "imageUrl": null
         },
         {
           "id": "http://paragchapre.com/?p=2777",
@@ -9102,6 +9182,16 @@
           "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/how-to-get-current-user-worker-in-x.jpg?w=1200"
         },
         {
+          "id": "https://paragchapre.com/?p=2647",
+          "author": "paragchapre@gmail.com",
+          "description": "Building an app requires capabilities to perform relational modeling between entities that are being used in the app. In the context of virtual entities, there will be scenarios where virtual entities and native entities in Dataverse must work together to enable the desired user experience. In this article, we will see the concept of relational […]",
+          "link": "https://paragchapre.com/how-to-create-lookup-with-virtual-entity-to-native-entity/",
+          "publishedOn": "2023-02-10T06:14:05.000Z",
+          "wordCount": 2899,
+          "title": "How to create lookup with Virtual entity to native entity",
+          "imageUrl": null
+        },
+        {
           "id": "http://paragchapre.com/?p=2647",
           "author": "Parag Chapre",
           "description": "Building an app requires capabilities to perform relational modeling between entities that are being used in the app. In the context of virtual entities, there will be scenarios where virtual entities and native entities in Dataverse must work together to enable the desired user experience. In this article, we will see the concept of relational... Continue Reading →",
@@ -9110,6 +9200,16 @@
           "wordCount": 5033,
           "title": "How to create lookup with Virtual entity to native entity",
           "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/lookup.jpg?w=1200"
+        },
+        {
+          "id": "https://paragchapre.com/?p=2711",
+          "author": "paragchapre@gmail.com",
+          "description": "In today’s article, we will see how to create a customer in Dynamics 365 F&O using Power Platform. Pre-requisites: Canvas app Check below video for more details. If you like this article, feel free to share it with others who might find it helpful! If you have any questions, feel free to reach out to […]",
+          "link": "https://paragchapre.com/create-a-customer-in-dynamics-365-fo-using-power-platform/",
+          "publishedOn": "2023-02-08T22:27:35.000Z",
+          "wordCount": 1741,
+          "title": "Create a customer in Dynamics 365 F&O using Power Platform",
+          "imageUrl": null
         },
         {
           "id": "http://paragchapre.com/?p=2711",
@@ -9122,6 +9222,16 @@
           "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/create-customer-in-power-platform.jpg?w=1200"
         },
         {
+          "id": "https://paragchapre.com/?p=2673",
+          "author": "paragchapre@gmail.com",
+          "description": "Using continuous number sequences from Dynamics 365 Finance and operations in Power Platform can be cumbersome sometimes but in today’s article we will see how to use it. What is number sequence Number sequences are used to generate readable, unique identifiers for master data records and transaction records that require identifiers. A master data record […]",
+          "link": "https://paragchapre.com/how-to-use-d365-fo-number-sequence-in-power-platform/",
+          "publishedOn": "2023-02-02T01:31:35.000Z",
+          "wordCount": 2031,
+          "title": "How to use D365 F&O number sequence in Power Platform",
+          "imageUrl": null
+        },
+        {
           "id": "http://paragchapre.com/?p=2673",
           "author": "Parag Chapre",
           "description": "Using continuous number sequences from Dynamics 365 Finance and operations in Power Platform can be cumbersome sometimes but in today’s article we will see how to use it. What is number sequence Number sequences are used to generate readable, unique identifiers for master data records and transaction records that require identifiers. A master data record... Continue Reading →",
@@ -9130,6 +9240,16 @@
           "wordCount": 4150,
           "title": "How to use D365 F&O number sequence in Power Platform",
           "imageUrl": "https://paragchapre.files.wordpress.com/2023/02/number-sequence-in-power-platform.jpg?w=1200"
+        },
+        {
+          "id": "https://paragchapre.com/?p=2657",
+          "author": "paragchapre@gmail.com",
+          "description": "In today’s article, we will see what Key Vault is, why to use and how to use Key Vault using X++ code. What is Key Vault Azure Key Vault is one of several key management solutions in Azure, and helps to solve problems such as secret, key and certificate management. Why use Azure Key Vault There […]",
+          "link": "https://paragchapre.com/how-to-use-key-vault-in-x/",
+          "publishedOn": "2023-02-01T02:20:32.000Z",
+          "wordCount": 1827,
+          "title": "How to use Key Vault in X++",
+          "imageUrl": null
         },
         {
           "id": "http://paragchapre.com/?p=2657",
