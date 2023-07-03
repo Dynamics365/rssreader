@@ -8907,16 +8907,6 @@
           "wordCount": 2053,
           "title": "Setup Business Event Endpoint with MuleSoft",
           "imageUrl": "https://lh3.googleusercontent.com/-FSn6CMQSYyQ/YO2d0RTT74I/AAAAAAADlP0/z1zLqiORpu03mAKbl0T498D8lO5v2OO4QCLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2021/07/isvcustom-label-files-when-migrated.html",
-          "author": null,
-          "description": "After migration from AX 2012 to D365FO I noticed a strange thing with one ISV module labels.\nSome of them are perfectly resolved by their old notation with @ in the reference; but none in a new style.\n\n\nAs suggested by Muthusamy V in this old thread https://community.dynamics.com/365/financeandoperations/f/dynamics-365-for-finance-and-operations-forum/312828/label-issues-in-sdp-deployment?pifragment-109037=2#responses\n\nand explained by one of my colleagues, I simply need to delete these files from K:\\AosService\\PackagesLocalDirectory\\ApplicationSuite\\ folder. (All D365FO service must be stopped)\n\n\n\n\nThen it works well.",
-          "link": "https://alexvoy.blogspot.com/2021/07/isvcustom-label-files-when-migrated.html",
-          "publishedOn": "2021-07-02T14:30:00.003Z",
-          "wordCount": 2063,
-          "title": "Some ISV/Custom labels not resolved when migrated from AX 2012 to D365FO",
-          "imageUrl": "https://lh3.googleusercontent.com/-eVE9iMgcs4o/YN8hWNqC2jI/AAAAAAADjfs/3SqK9Peje6UeMh2Ss0E75nzACBPsoOnrwCLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png"
         }
       ]
     },
@@ -9057,7 +9047,7 @@
       "articles": []
     },
     {
-      "title": "My WordPress",
+      "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [

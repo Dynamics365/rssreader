@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-02T01:49:50.209Z</updated>
+    <updated>2023-07-03T01:44:26.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -21363,27 +21363,6 @@ controller.showBatchTab(false);
 This posting is provided "AS IS" with no warranties, and confers no rights.]]></summary>
         <author>
             <name>Dominic Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some ISV/Custom labels not resolved when migrated from AX 2012 to D365FO]]></title>
-        <id>https://alexvoy.blogspot.com/2021/07/isvcustom-label-files-when-migrated.html</id>
-        <link href="https://alexvoy.blogspot.com/2021/07/isvcustom-label-files-when-migrated.html"/>
-        <updated>2021-07-02T14:30:00.003Z</updated>
-        <summary type="html"><![CDATA[After migration from AX 2012 to D365FO I noticed a strange thing with one ISV module labels.
-Some of them are perfectly resolved by their old notation with @ in the reference; but none in a new style.
-
-
-As suggested by Muthusamy V in this old thread https://community.dynamics.com/365/financeandoperations/f/dynamics-365-for-finance-and-operations-forum/312828/label-issues-in-sdp-deployment?pifragment-109037=2#responses
-
-and explained by one of my colleagues, I simply need to delete these files from K:\AosService\PackagesLocalDirectory\ApplicationSuite\ folder. (All D365FO service must be stopped)
-
-
-
-
-Then it works well.]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
