@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-03T01:44:26.202Z</updated>
+    <updated>2023-07-04T01:44:40.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing General Availability for Shared Device Mode for Power Apps on Android]]></title>
+        <id>announcing-general-availability-for-shared-device-mode-for-power-apps-on-android</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-shared-device-mode-for-power-apps-on-android/"/>
+        <updated>2023-07-03T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shared Device Mode (SDM) is now supported in General Availability for Power Apps Mobile App on Android devices.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Navigate Through the Dynamics 365 Finance & Operations Interface]]></title>
         <id>https://www.encorebusiness.com/?p=57314</id>
@@ -3042,6 +3052,17 @@ public final class mgcFinanceFunction
     <entry>
         <title type="html"><![CDATA[Your one-stop resources for Microsoft Dynamics 365 Finance & Operation developers]]></title>
         <id>https://paragchapre.com/?p=2929</id>
+        <link href="https://paragchapre.com/your-one-stop-resources-for-microsoft-dynamics-365-finance-operation-developers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=your-one-stop-resources-for-microsoft-dynamics-365-finance-operation-developers"/>
+        <updated>2023-04-20T02:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Developers in Microsoft Dynamics 365 Finance and Operations (F&O) often ask how to learn X++ from the basics to advanced levels. In this article, I will share some resources, certifications, blogs and YouTube link which can be useful for the developers. Learning catalog for Dynamics 365 Finance developers from Microsoft Learning catalog for Dynamics 365 […]
+The post Your one-stop resources for Microsoft Dynamics 365 Finance & Operation developers appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your one-stop resources for Microsoft Dynamics 365 Finance & Operation developers]]></title>
+        <id>https://paragchapre.com/?p=2929</id>
         <link href="https://paragchapre.com/your-one-stop-resources-for-microsoft-dynamics-365-finance-operation-developers/"/>
         <updated>2023-04-20T02:01:26.000Z</updated>
         <summary type="html"><![CDATA[Developers in Microsoft Dynamics 365 Finance and Operations (F&O) often ask how to learn X++ from the basics to advanced levels. In this article, I will share some resources, certifications, blogs and YouTube link which can be useful for the developers. Learning catalog for Dynamics 365 Finance developers from Microsoft Learning catalog for Dynamics 365 […]]]></summary>
@@ -4875,6 +4896,17 @@ The post Introducing New Asset Management Mobile App for Dynamics 365 Supply Cha
     <entry>
         <title type="html"><![CDATA[Learn Power Platform in 30 days]]></title>
         <id>https://paragchapre.com/?p=2865</id>
+        <link href="https://paragchapre.com/learn-power-platform-in-30-days/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=learn-power-platform-in-30-days"/>
+        <updated>2023-03-17T03:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Learn Power Platform in 30 days
+The post Learn Power Platform in 30 days appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Power Platform in 30 days]]></title>
+        <id>https://paragchapre.com/?p=2865</id>
         <link href="https://paragchapre.com/learn-power-platform-in-30-days/"/>
         <updated>2023-03-17T03:41:40.000Z</updated>
         <summary type="html"><![CDATA[Learn Power Platform in 30 days]]></summary>
@@ -6323,6 +6355,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
     <entry>
         <title type="html"><![CDATA[How to create a worker in x++]]></title>
         <id>https://paragchapre.com/?p=2812</id>
+        <link href="https://paragchapre.com/how-to-create-a-worker-in-x/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-create-a-worker-in-x"/>
+        <updated>2023-02-14T08:01:10.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to create a worker using X++. Step 1: Create a class and define the global variable. Step 2: Create new method to insert Title in the master table. Step 3: Create a new method to enter first name, middle name and last name in the Dir party table. […]
+The post How to create a worker in x++ appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create a worker in x++]]></title>
+        <id>https://paragchapre.com/?p=2812</id>
         <link href="https://paragchapre.com/how-to-create-a-worker-in-x/"/>
         <updated>2023-02-14T08:01:10.000Z</updated>
         <summary type="html"><![CDATA[In today’s article, we will see how to create a worker using X++. Step 1: Create a class and define the global variable. Step 2: Create new method to insert Title in the master table. Step 3: Create a new method to enter first name, middle name and last name in the Dir party table. […]]]></summary>
@@ -6411,6 +6454,17 @@ The post A restyled user experience for F&O apps in April 2023 release appeared 
     <entry>
         <title type="html"><![CDATA[How to add filter in Dual-write]]></title>
         <id>https://paragchapre.com/?p=2794</id>
+        <link href="https://paragchapre.com/how-to-add-filter-in-dual-write/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-add-filter-in-dual-write"/>
+        <updated>2023-02-13T04:36:20.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to add filter in Dual write when syncing data from FinOps to Dataverse and vice versa. For Dataverse, we can use Odata filter expression using Dual-write but for FinOps, we have to use different techniques which can be later in this article. Step 1: Go Data management > […]
+The post How to add filter in Dual-write appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add filter in Dual-write]]></title>
+        <id>https://paragchapre.com/?p=2794</id>
         <link href="https://paragchapre.com/how-to-add-filter-in-dual-write/"/>
         <updated>2023-02-13T04:36:20.000Z</updated>
         <summary type="html"><![CDATA[In today’s article, we will see how to add filter in Dual write when syncing data from FinOps to Dataverse and vice versa. For Dataverse, we can use Odata filter expression using Dual-write but for FinOps, we have to use different techniques which can be later in this article. Step 1: Go Data management > […]]]></summary>
@@ -6431,6 +6485,17 @@ The post A restyled user experience for F&O apps in April 2023 release appeared 
     <entry>
         <title type="html"><![CDATA[How to get workers current position, department and manger in X++]]></title>
         <id>https://paragchapre.com/?p=2785</id>
+        <link href="https://paragchapre.com/how-to-get-workers-current-position-department-and-manger-in-x/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-get-workers-current-position-department-and-manger-in-x"/>
+        <updated>2023-02-13T03:38:54.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 F&O, we have HcmWorkerHelper class which gives much information about worker such as department, primary position, current legal entity and so on. The code to get worker’s current position. This gives current worker record. The code to get current worker manager. The code to get current worker department. The code to get […]
+The post How to get workers current position, department and manger in X++ appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get workers current position, department and manger in X++]]></title>
+        <id>https://paragchapre.com/?p=2785</id>
         <link href="https://paragchapre.com/how-to-get-workers-current-position-department-and-manger-in-x/"/>
         <updated>2023-02-13T03:38:54.000Z</updated>
         <summary type="html"><![CDATA[In Dynamics 365 F&O, we have HcmWorkerHelper class which gives much information about worker such as department, primary position, current legal entity and so on. The code to get worker’s current position. This gives current worker record. The code to get current worker manager. The code to get current worker department. The code to get […]]]></summary>
@@ -6446,6 +6511,17 @@ The post A restyled user experience for F&O apps in April 2023 release appeared 
         <summary type="html"><![CDATA[In Dynamics 365 F&O, we have HcmWorkerHelper class which gives much information about worker such as department, primary position, current legal entity and so on. The code to get worker’s current position. This gives current worker record. The code to get current worker manager. The code to get current worker department. The code to get... Continue Reading →]]></summary>
         <author>
             <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get current user worker in X++]]></title>
+        <id>https://paragchapre.com/?p=2777</id>
+        <link href="https://paragchapre.com/how-to-get-current-user-worker-in-x/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-get-current-user-worker-in-x"/>
+        <updated>2023-02-13T03:23:59.000Z</updated>
+        <summary type="html"><![CDATA[The code to get current user. The code to get current user worker. Option 1: Option 2: The code to get current worker name
+The post How to get current user worker in X++ appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>
@@ -6490,6 +6566,17 @@ Inventory protection (ring fencing): Protecting the allocated inventory from oth
 The post Inventory allocation ensures limited stock goes where it’s most needed appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Yufei Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create lookup with Virtual entity to native entity]]></title>
+        <id>https://paragchapre.com/?p=2647</id>
+        <link href="https://paragchapre.com/how-to-create-lookup-with-virtual-entity-to-native-entity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-create-lookup-with-virtual-entity-to-native-entity"/>
+        <updated>2023-02-10T06:14:05.000Z</updated>
+        <summary type="html"><![CDATA[Building an app requires capabilities to perform relational modeling between entities that are being used in the app. In the context of virtual entities, there will be scenarios where virtual entities and native entities in Dataverse must work together to enable the desired user experience. In this article, we will see the concept of relational […]
+The post How to create lookup with Virtual entity to native entity appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>
@@ -6583,6 +6670,17 @@ ariste.info Dynamics 365 F&O y firewalls: monitoreo de IPs de Azure]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a customer in Dynamics 365 F&O using Power Platform]]></title>
+        <id>https://paragchapre.com/?p=2711</id>
+        <link href="https://paragchapre.com/create-a-customer-in-dynamics-365-fo-using-power-platform/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=create-a-customer-in-dynamics-365-fo-using-power-platform"/>
+        <updated>2023-02-08T22:27:35.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see how to create a customer in Dynamics 365 F&O using Power Platform. Pre-requisites: Canvas app Check below video for more details. If you like this article, feel free to share it with others who might find it helpful! If you have any questions, feel free to reach out to […]
+The post Create a customer in Dynamics 365 F&O using Power Platform appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>
@@ -7485,6 +7583,17 @@ Depreciation profiles for Fixed assets in Microsoft Dynamics 365 Finance]]></sum
     <entry>
         <title type="html"><![CDATA[How to use D365 F&O number sequence in Power Platform]]></title>
         <id>https://paragchapre.com/?p=2673</id>
+        <link href="https://paragchapre.com/how-to-use-d365-fo-number-sequence-in-power-platform/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-use-d365-fo-number-sequence-in-power-platform"/>
+        <updated>2023-02-02T01:31:35.000Z</updated>
+        <summary type="html"><![CDATA[Using continuous number sequences from Dynamics 365 Finance and operations in Power Platform can be cumbersome sometimes but in today’s article we will see how to use it. What is number sequence Number sequences are used to generate readable, unique identifiers for master data records and transaction records that require identifiers. A master data record […]
+The post How to use D365 F&O number sequence in Power Platform appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use D365 F&O number sequence in Power Platform]]></title>
+        <id>https://paragchapre.com/?p=2673</id>
         <link href="https://paragchapre.com/how-to-use-d365-fo-number-sequence-in-power-platform/"/>
         <updated>2023-02-02T01:31:35.000Z</updated>
         <summary type="html"><![CDATA[Using continuous number sequences from Dynamics 365 Finance and operations in Power Platform can be cumbersome sometimes but in today’s article we will see how to use it. What is number sequence Number sequences are used to generate readable, unique identifiers for master data records and transaction records that require identifiers. A master data record […]]]></summary>
@@ -7635,6 +7744,17 @@ The post Use the Customer Service workspace app for omnichannel interactions app
 Continue reading →]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Key Vault in X++]]></title>
+        <id>https://paragchapre.com/?p=2657</id>
+        <link href="https://paragchapre.com/how-to-use-key-vault-in-x/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-use-key-vault-in-x"/>
+        <updated>2023-02-01T02:20:32.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, we will see what Key Vault is, why to use and how to use Key Vault using X++ code. What is Key Vault Azure Key Vault is one of several key management solutions in Azure, and helps to solve problems such as secret, key and certificate management. Why use Azure Key Vault There […]
+The post How to use Key Vault in X++ appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>
