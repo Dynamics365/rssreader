@@ -6,6 +6,16 @@
       "siteUrl": "https://nuxulu.com/posts/",
       "articles": [
         {
+          "id": "https://nuxulu.com/2023-07-04-microsoft-dynamics-365-commerce-component-overview/",
+          "author": "Max Nguyen",
+          "description": "Microsoft Dynamics 365 Commerce - Component Overview\n\">\n        \n    Microsoft Dynamics 365 Commerce - Component Overview",
+          "link": "https://nuxulu.com/2023-07-04-microsoft-dynamics-365-commerce-component-overview/",
+          "publishedOn": "2023-07-04T00:00:00.000Z",
+          "wordCount": 118,
+          "title": "Microsoft Dynamics 365 Commerce - Component Overview",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2023-02-14-comparation-finops-business-central-copy/",
           "author": "Max Nguyen",
           "description": "Microsoft ecosystem supporting Dynamics 365 Finance\n\">\n        \n    Microsoft ecosystem supporting Dynamics 365 Finance",
@@ -103,6 +113,16 @@
           "publishedOn": "2023-01-20T00:00:00.000Z",
           "wordCount": 99,
           "title": "Microsoft Dynamics 365 Ecosystem map",
+          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://nuxulu.com/2023-01-01-advanced-query-syntax/",
+          "author": "Max Nguyen",
+          "description": "https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/get-started/advanced-filtering-query-options\nAdvanced query syntax\nSyntax\nCharacter description\nDescription\nExample\n\n\n\n\nvalue\nEqual to the value that is entered\nType the value to find.\nSmith finds \"Smith\".\n\n\n!value (exclamation point)\nNot equal to the value that is entered\nType an exclamation point and then the value to exclude.\n!Smith finds all values except \"Smith\".\n\n\nfrom-value..to-value (double period)\nBetween the two values that are separated by double periods\nType the from-value, then two periods, and then the to-value.\n1..10 finds all values from 1 through 10. However, in a string field, A..C finds all values that start with \"A\" and \"B\", and values that are exactly equal to \"C\". For example, this query won't find \"Ca…",
+          "link": "https://nuxulu.com/2023-01-01-advanced-query-syntax/",
+          "publishedOn": "2023-01-01T00:00:00.000Z",
+          "wordCount": 891,
+          "title": "Advanced filtering and query syntax",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
         {
@@ -5707,6 +5727,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/07/03/boosting-productivity-unleashing-the-power-of-dynamics-365-for-prospect-to-cash-efficiency/",
+          "author": "Henrik Andersen",
+          "description": "We are excited to announce the general availability of a set of new features and capabilities that will enhance the efficiency of the prospect-to-cash integration between Dynamics 365 Sales and Dynamics 365 Supply Chain Management. These additions to the prospect-to-cash integration aim to improve efficiency and cover several new features in Dynamics 365 Supply Chain Management 10.0.34, as well as a new Dual-write Supply Chain solution version 2.3.4.203.\nThe post Boosting Productivity: Unleashing the Power of Dynamics 365 for Prospect-to-Cash Efficiency appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/07/03/boosting-productivity-unleashing-the-power-of-dynamics-365-for-prospect-to-cash-efficiency/",
+          "publishedOn": "2023-07-03T11:45:02.000Z",
+          "wordCount": 3021,
+          "title": "Boosting Productivity: Unleashing the Power of Dynamics 365 for Prospect-to-Cash Efficiency",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/06/MSC22_Getty_UK_Finance_1312551627-scaled.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/?p=186085",
           "author": "Mike Borg Cardona, Ievgenii Korovin and Sam van Lieshout",
           "description": "An answer to the question: How do I get started with AI in AL and Visual Studio Code? \nThe post Get started with developing generative AI features for Dynamics 365 Business Central  appeared first on Microsoft Dynamics 365 Blog.",
@@ -9929,6 +9959,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5194",
+          "author": "Ludwig Reinhard",
+          "description": "[German language podcast] Im neuesten Microsoft BizApps Podcast sprechen wir mit Steffen Behnke, dem Head of IT bei der Firma …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2023/07/04/microsoft-bizapps-deutschland-podcast-16/",
+          "publishedOn": "2023-07-04T04:28:04.000Z",
+          "wordCount": 2837,
+          "title": "Microsoft BizApps Deutschland Podcast #16",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/06/collectionfinal.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5175",
           "author": "Ludwig Reinhard",

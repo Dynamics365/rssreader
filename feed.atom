@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-04T01:44:40.859Z</updated>
+    <updated>2023-07-05T01:43:01.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #16]]></title>
+        <id>http://dynamicsax-fico.com/?p=5194</id>
+        <link href="https://dynamicsax-fico.com/2023/07/04/microsoft-bizapps-deutschland-podcast-16/"/>
+        <updated>2023-07-04T04:28:04.000Z</updated>
+        <summary type="html"><![CDATA[[German language podcast] Im neuesten Microsoft BizApps Podcast sprechen wir mit Steffen Behnke, dem Head of IT bei der Firma …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Commerce - Component Overview]]></title>
+        <id>https://nuxulu.com/2023-07-04-microsoft-dynamics-365-commerce-component-overview/</id>
+        <link href="https://nuxulu.com/2023-07-04-microsoft-dynamics-365-commerce-component-overview/"/>
+        <updated>2023-07-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Commerce - Component Overview
+">
+        
+    Microsoft Dynamics 365 Commerce - Component Overview]]></summary>
+        <author>
+            <name>Max Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Productivity: Unleashing the Power of Dynamics 365 for Prospect-to-Cash Efficiency]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/07/03/boosting-productivity-unleashing-the-power-of-dynamics-365-for-prospect-to-cash-efficiency/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/07/03/boosting-productivity-unleashing-the-power-of-dynamics-365-for-prospect-to-cash-efficiency/"/>
+        <updated>2023-07-03T11:45:02.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the general availability of a set of new features and capabilities that will enhance the efficiency of the prospect-to-cash integration between Dynamics 365 Sales and Dynamics 365 Supply Chain Management. These additions to the prospect-to-cash integration aim to improve efficiency and cover several new features in Dynamics 365 Supply Chain Management 10.0.34, as well as a new Dual-write Supply Chain solution version 2.3.4.203.
+The post Boosting Productivity: Unleashing the Power of Dynamics 365 for Prospect-to-Cash Efficiency appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Henrik Andersen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing General Availability for Shared Device Mode for Power Apps on Android]]></title>
         <id>announcing-general-availability-for-shared-device-mode-for-power-apps-on-android</id>
@@ -9173,6 +9208,41 @@ Read]]></summary>
 Continue reading →]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced filtering and query syntax]]></title>
+        <id>https://nuxulu.com/2023-01-01-advanced-query-syntax/</id>
+        <link href="https://nuxulu.com/2023-01-01-advanced-query-syntax/"/>
+        <updated>2023-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/get-started/advanced-filtering-query-options
+Advanced query syntax
+Syntax
+Character description
+Description
+Example
+
+
+
+
+value
+Equal to the value that is entered
+Type the value to find.
+Smith finds "Smith".
+
+
+!value (exclamation point)
+Not equal to the value that is entered
+Type an exclamation point and then the value to exclude.
+!Smith finds all values except "Smith".
+
+
+from-value..to-value (double period)
+Between the two values that are separated by double periods
+Type the from-value, then two periods, and then the to-value.
+1..10 finds all values from 1 through 10. However, in a string field, A..C finds all values that start with "A" and "B", and values that are exactly equal to "C". For example, this query won't find "Ca…]]></summary>
+        <author>
+            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>
