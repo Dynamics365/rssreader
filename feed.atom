@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-05T01:43:01.553Z</updated>
+    <updated>2023-07-06T01:45:39.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s new: Power Apps June 2023 Feature Update]]></title>
+        <id>whats-new-power-apps-june-2023-feature-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-june-2023-feature-update/"/>
+        <updated>2023-07-05T16:03:21.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share for…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step by Step Guide to Deploy a Local VHD of D365FO]]></title>
+        <id>https://alexdmeyer.com/?p=2714</id>
+        <link href="https://alexdmeyer.com/2023/07/05/step-by-step-guide-to-deploy-a-local-vhd-of-d365fo/"/>
+        <updated>2023-07-05T14:01:34.000Z</updated>
+        <summary type="html"><![CDATA[There are two main ways to deploy D365FO for development and testing purposes, the more streamlined way is to deploy a preconfigured environment via LCS. While this is extremely straightforward it does incur Azure costs as the resources (virtual machine, networking, storage, etc) are deployed within your Azure instance. The other option is to deploy […]
+The post Step by Step Guide to Deploy a Local VHD of D365FO appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missing timesheets in D365ProjectOperations – Part 2]]></title>
+        <id>http://dynamicsax-fico.com/?p=5043</id>
+        <link href="https://dynamicsax-fico.com/2023/07/05/missing-timesheets-in-d365projectoperations-part-2/"/>
+        <updated>2023-07-05T04:56:44.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #16]]></title>
         <id>http://dynamicsax-fico.com/?p=5194</id>

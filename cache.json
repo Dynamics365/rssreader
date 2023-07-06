@@ -3424,6 +3424,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2714",
+          "author": "Alex",
+          "description": "There are two main ways to deploy D365FO for development and testing purposes, the more streamlined way is to deploy a preconfigured environment via LCS. While this is extremely straightforward it does incur Azure costs as the resources (virtual machine, networking, storage, etc) are deployed within your Azure instance. The other option is to deploy […]\nThe post Step by Step Guide to Deploy a Local VHD of D365FO appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/07/05/step-by-step-guide-to-deploy-a-local-vhd-of-d365fo/",
+          "publishedOn": "2023-07-05T14:01:34.000Z",
+          "wordCount": 5017,
+          "title": "Step by Step Guide to Deploy a Local VHD of D365FO",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/06/lcs_1.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2690",
           "author": "Alex",
           "description": "I have written in the past about using field level security to help secure sensitive information within your D365FO environment, but what if the field you want to secure doesn’t correlate directly to a SQL table field and instead is populated by a data method? Let’s see how you can still secure this!   Scenario […]\nThe post How to Secure Form Fields Populated By Data Methods in D365FO appeared first on Alex Meyer.",
@@ -9960,6 +9970,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5043",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/07/05/missing-timesheets-in-d365projectoperations-part-2/",
+          "publishedOn": "2023-07-05T04:56:44.000Z",
+          "wordCount": 2714,
+          "title": "Missing timesheets in D365ProjectOperations – Part 2",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/03/englishtextpictureblogpost.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5194",
           "author": "Ludwig Reinhard",
           "description": "[German language podcast] Im neuesten Microsoft BizApps Podcast sprechen wir mit Steffen Behnke, dem Head of IT bei der Firma …\nContinue reading →",
@@ -13683,6 +13703,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "whats-new-power-apps-june-2023-feature-update",
+          "author": null,
+          "description": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. A variety of new and highly anticipated features are now available which we are very excited to share for…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-june-2023-feature-update/",
+          "publishedOn": "2023-07-05T16:03:21.000Z",
+          "wordCount": 3403,
+          "title": "What’s new: Power Apps June 2023 Feature Update",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/07/Coauth.png"
+        },
         {
           "id": "announcing-general-availability-for-shared-device-mode-for-power-apps-on-android",
           "author": null,
