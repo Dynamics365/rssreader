@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-06T01:45:39.835Z</updated>
+    <updated>2023-07-07T01:44:31.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 ways accounts payable automation drives digital transformation]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/06/5-ways-accounts-payable-automation-drives-digital-transformation/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/06/5-ways-accounts-payable-automation-drives-digital-transformation/"/>
+        <updated>2023-07-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Finance teams’ roles have evolved—and expanded—into new realms. As economic pressures demand everyone deliver more with fewer resources, finance professionals’ plates are increasingly crowded with analysis, strategy, even supplier relationships—plus all the traditional finance processes they’ve long been responsible for. 
+The post 5 ways accounts payable automation drives digital transformation appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Andrew Haller</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s new: Power Apps June 2023 Feature Update]]></title>
         <id>whats-new-power-apps-june-2023-feature-update</id>
