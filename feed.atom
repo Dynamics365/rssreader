@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-07T01:44:31.777Z</updated>
+    <updated>2023-07-08T01:43:11.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Landed cost financial and inventory valuation impact in Microsoft dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2728</id>
+        <link href="https://exploredynamics365.home.blog/2023/07/07/landed-cost-financial-and-inventory-valuation-impact-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-07-07T14:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Recently I had chance to speak at  #D365UGIndia Community! on Landed cost impact on financial and inventory valuation. I am thank full to the organizers and all the attendees who attended the session Live. If you have missed than ,here is the recording of the same: Landed Cost Accounting: Landed cost accounting allows you to accurately […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Landed cost financial and inventory valuation impact in Microsoft dynamics 365 finance and operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2728</id>
+        <link href="https://exploredynamics365.home.blog/2023/07/07/landed-cost-financial-and-inventory-valuation-impact-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-07-07T14:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Recently I had chance to speak at  #D365UGIndia Community! on Landed cost impact on financial and inventory valuation. I am thank full to the organizers and all the attendees who attended the session Live. If you have missed than ,here is the recording of the same: Landed Cost Accounting: Landed cost accounting allows you to accurately […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform with Dynamics 365 Finance & Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=47853</id>
+        <link href="https://www.encorebusiness.com/blog/power-platform-with-dynamics-365-finance-operations/"/>
+        <updated>2023-07-07T10:11:29.000Z</updated>
+        <summary type="html"><![CDATA[Power Platform with Dynamics 365 Finance & Operations
+The Microsoft Power Platform can be integrated with Dynamics 365 Finance & Operations to allow you to automate processes, build solutions, and analyze data. This blog will show you how to create, share and manage your apps, dashboards, flows and more while understanding the building blocks and how you can best use the Power Platform...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Ziad Paracha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Public preview of IP Firewall in Dataverse]]></title>
+        <id>announcing-public-preview-of-ip-internet-protocol-firewall-for-dataverse</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-ip-internet-protocol-firewall-for-dataverse/"/>
+        <updated>2023-07-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[During the BUILD’23, we announced IP Firewall Public preview for Dataverse. We are pleased to announce that the Global rollout of IP Firewall public preview is completed and is available to all our customers across all the Geos starting July 7th, 2023. By using the IP firewall feature, you can apply the right access controls…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 ways accounts payable automation drives digital transformation]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/06/5-ways-accounts-payable-automation-drives-digital-transformation/</id>

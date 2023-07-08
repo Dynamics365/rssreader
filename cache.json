@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=47853",
+          "author": "Ziad Paracha",
+          "description": "Power Platform with Dynamics 365 Finance & Operations\nThe Microsoft Power Platform can be integrated with Dynamics 365 Finance & Operations to allow you to automate processes, build solutions, and analyze data. This blog will show you how to create, share and manage your apps, dashboards, flows and more while understanding the building blocks and how you can best use the Power Platform...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/power-platform-with-dynamics-365-finance-operations/",
+          "publishedOn": "2023-07-07T10:11:29.000Z",
+          "wordCount": 4304,
+          "title": "Power Platform with Dynamics 365 Finance & Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/07/Power-Platform-FO-Blog-Img.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=57314",
           "author": "Kailey Acuña",
           "description": "How to Navigate Through the Dynamics 365 Finance & Operations Interface\nThis blog will help you navigate through the Dynamics 365 Finance and Operations (D365 F&O) interface while providing some tips and tricks to ease your initial training when using the system. Note: Even though most customers, commentators, and consultants still call it Dynamics 365 Finance & Operations or D365FO, Microsoft now technically licenses it as Dynamics...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -7271,6 +7281,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2728",
+          "author": "Saurabh Bharti",
+          "description": "Recently I had chance to speak at  #D365UGIndia Community! on Landed cost impact on financial and inventory valuation. I am thank full to the organizers and all the attendees who attended the session Live. If you have missed than ,here is the recording of the same: Landed Cost Accounting: Landed cost accounting allows you to accurately […]",
+          "link": "https://exploredynamics365.home.blog/2023/07/07/landed-cost-financial-and-inventory-valuation-impact-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-07-07T14:08:25.000Z",
+          "wordCount": 2801,
+          "title": "Landed cost financial and inventory valuation impact in Microsoft dynamics 365 finance and operations",
+          "imageUrl": "http://img.youtube.com/vi/KVYMjfePJZA/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2721",
           "author": "Saurabh Bharti",
           "description": "This is the next part of data template series, you can find Part-1 Here. In the previous video, I discussed default templates and the approach for exporting and importing data from one environment to another using data management. In this video, I will delve into the topic of creating custom templates and provide insights on […]",
@@ -7737,6 +7757,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2728",
+          "author": "Saurabh Bharti",
+          "description": "Recently I had chance to speak at  #D365UGIndia Community! on Landed cost impact on financial and inventory valuation. I am thank full to the organizers and all the attendees who attended the session Live. If you have missed than ,here is the recording of the same: Landed Cost Accounting: Landed cost accounting allows you to accurately […]",
+          "link": "https://exploredynamics365.home.blog/2023/07/07/landed-cost-financial-and-inventory-valuation-impact-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-07-07T14:08:25.000Z",
+          "wordCount": 2801,
+          "title": "Landed cost financial and inventory valuation impact in Microsoft dynamics 365 finance and operations",
+          "imageUrl": "http://img.youtube.com/vi/KVYMjfePJZA/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2721",
           "author": "Saurabh Bharti",
@@ -13713,6 +13743,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-public-preview-of-ip-internet-protocol-firewall-for-dataverse",
+          "author": null,
+          "description": "During the BUILD’23, we announced IP Firewall Public preview for Dataverse. We are pleased to announce that the Global rollout of IP Firewall public preview is completed and is available to all our customers across all the Geos starting July 7th, 2023. By using the IP firewall feature, you can apply the right access controls…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-ip-internet-protocol-firewall-for-dataverse/",
+          "publishedOn": "2023-07-07T01:00:00.000Z",
+          "wordCount": 2001,
+          "title": "Announcing Public preview of IP Firewall in Dataverse",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "whats-new-power-apps-june-2023-feature-update",
           "author": null,
