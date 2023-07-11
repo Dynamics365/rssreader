@@ -3886,6 +3886,16 @@
       "siteUrl": "https://ariste.info",
       "articles": [
         {
+          "id": "https://ariste.info/?p=7247",
+          "author": "Adrià Ariste Santacreu",
+          "description": "Hay una característica interesante en Dynamics 365 F&O que nos permite mandar notificaciones cuando se cambian, crean o eliminan datos: el framework de alertas. En este post, veremos cómo enviar las alertas como Business events, y enviar emails notificando a los usuarios usando un flujo de Power Automate. Cuando casi había terminado de escribir el… Continue Reading Alerta de F&O en Power Automate",
+          "link": "https://ariste.info/2023/07/alerta-dynamics365-power-automate/",
+          "publishedOn": "2023-07-10T06:02:36.000Z",
+          "wordCount": 4638,
+          "title": "Alerta de F&O en Power Automate",
+          "imageUrl": "https://static.ariste.info/wp-content/uploads/2023/07/IMG_2458-1024x1024.jpeg"
+        },
+        {
           "id": "https://ariste.info/?p=7037",
           "author": "Adrià Ariste Santacreu",
           "description": "Ayer lancé una nueva versión de ISV License Generator con soporte completo para la función hash SHA-256 después de solucionar un problema con ella. Qué novedad hay en ISV License Generator? En esta nueva versión se ha eliminado el soporte para generar licencias de Dynamics 365 Finance and Operations utilizando la función hash SHA-1, y… Continue Reading Publicado ISV License Generator v0.6\nariste.info Publicado ISV License Generator v0.6",

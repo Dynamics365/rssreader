@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-10T01:44:16.299Z</updated>
+    <updated>2023-07-11T01:35:52.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alerta de F&O en Power Automate]]></title>
+        <id>https://ariste.info/?p=7247</id>
+        <link href="https://ariste.info/2023/07/alerta-dynamics365-power-automate/"/>
+        <updated>2023-07-10T06:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Hay una característica interesante en Dynamics 365 F&O que nos permite mandar notificaciones cuando se cambian, crean o eliminan datos: el framework de alertas. En este post, veremos cómo enviar las alertas como Business events, y enviar emails notificando a los usuarios usando un flujo de Power Automate. Cuando casi había terminado de escribir el… Continue Reading Alerta de F&O en Power Automate]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Landed cost financial and inventory valuation impact in Microsoft dynamics 365 finance and operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2728</id>
