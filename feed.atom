@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-11T01:35:52.862Z</updated>
+    <updated>2023-07-12T01:44:44.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Purpose built Collaboration spaces in Viva Sales]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/07/11/purpose-built-collaboration-spaces-in-viva-sales/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/07/11/purpose-built-collaboration-spaces-in-viva-sales/"/>
+        <updated>2023-07-11T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We are thrilled to announce the general availability of Collaboration spaces in Viva Sales, transforming the way sales teams collaborate
+The post Purpose built Collaboration spaces in Viva Sales appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Darshini Jois</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apply Environment Update to D365FO via Command Line]]></title>
+        <id>https://alexdmeyer.com/?p=2753</id>
+        <link href="https://alexdmeyer.com/2023/07/11/apply-environment-update-to-d365fo-via-command-line/"/>
+        <updated>2023-07-11T14:52:46.000Z</updated>
+        <summary type="html"><![CDATA[Following up on my previous post about deploying a local VHD of D365FO, I wanted to show how you can then update your environment when Microsoft releases newer versions. The first step is to download the update deployable package from LCS by navigating to the Shared Asset Library: Then navigating to the ‘Software Deployable Package’: […]
+The post Apply Environment Update to D365FO via Command Line appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The power of AI in Viva Sales: Insights from Lori Lamkin and Nathalie D’Hers]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/10/the-power-of-ai-in-viva-sales-insights-from-lori-lamkin-and-nathalie-dhers/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/10/the-power-of-ai-in-viva-sales-insights-from-lori-lamkin-and-nathalie-dhers/"/>
+        <updated>2023-07-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Join Lori Lamkin and Nathalie D'Hers as they take you on an extraordinary journey through the development, deployment, and continuous improvement of Microsoft Viva Sales. In this exclusive Q&A session, they will share insights, experiences, and the remarkable story of Microsoft's journey in unlocking the full potential of Viva Sales.
+The post The power of AI in Viva Sales: Insights from Lori Lamkin and Nathalie D’Hers appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Lori Lamkin and Nathalie D’Hers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alerta de F&O en Power Automate]]></title>
         <id>https://ariste.info/?p=7247</id>

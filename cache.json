@@ -3434,6 +3434,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2753",
+          "author": "Alex",
+          "description": "Following up on my previous post about deploying a local VHD of D365FO, I wanted to show how you can then update your environment when Microsoft releases newer versions. The first step is to download the update deployable package from LCS by navigating to the Shared Asset Library: Then navigating to the ‘Software Deployable Package’: […]\nThe post Apply Environment Update to D365FO via Command Line appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/07/11/apply-environment-update-to-d365fo-via-command-line/",
+          "publishedOn": "2023-07-11T14:52:46.000Z",
+          "wordCount": 4225,
+          "title": "Apply Environment Update to D365FO via Command Line",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/06/lcs_1.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2714",
           "author": "Alex",
           "description": "There are two main ways to deploy D365FO for development and testing purposes, the more streamlined way is to deploy a preconfigured environment via LCS. While this is extremely straightforward it does incur Azure costs as the resources (virtual machine, networking, storage, etc) are deployed within your Azure instance. The other option is to deploy […]\nThe post Step by Step Guide to Deploy a Local VHD of D365FO appeared first on Alex Meyer.",
@@ -5756,6 +5766,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/07/11/purpose-built-collaboration-spaces-in-viva-sales/",
+          "author": "Darshini Jois",
+          "description": "We are thrilled to announce the general availability of Collaboration spaces in Viva Sales, transforming the way sales teams collaborate\nThe post Purpose built Collaboration spaces in Viva Sales appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/07/11/purpose-built-collaboration-spaces-in-viva-sales/",
+          "publishedOn": "2023-07-11T17:30:00.000Z",
+          "wordCount": 2208,
+          "title": "Purpose built Collaboration spaces in Viva Sales",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/07/CLO22_TechOffice_023-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/10/the-power-of-ai-in-viva-sales-insights-from-lori-lamkin-and-nathalie-dhers/",
+          "author": "Lori Lamkin and Nathalie D’Hers",
+          "description": "Join Lori Lamkin and Nathalie D'Hers as they take you on an extraordinary journey through the development, deployment, and continuous improvement of Microsoft Viva Sales. In this exclusive Q&A session, they will share insights, experiences, and the remarkable story of Microsoft's journey in unlocking the full potential of Viva Sales.\nThe post The power of AI in Viva Sales: Insights from Lori Lamkin and Nathalie D’Hers appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/10/the-power-of-ai-in-viva-sales-insights-from-lori-lamkin-and-nathalie-dhers/",
+          "publishedOn": "2023-07-10T15:00:00.000Z",
+          "wordCount": 3385,
+          "title": "The power of AI in Viva Sales: Insights from Lori Lamkin and Nathalie D’Hers",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/07/BizApps_Still13_4K_Cropped_sl_v2.png"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/06/5-ways-accounts-payable-automation-drives-digital-transformation/",
           "author": "Andrew Haller",
