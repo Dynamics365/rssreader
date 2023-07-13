@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-12T01:44:44.102Z</updated>
+    <updated>2023-07-13T01:46:53.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central for the Manufacturing Industry]]></title>
+        <id>https://www.encorebusiness.com/?p=57541</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-365-business-central-for-the-manufacturing-industry/"/>
+        <updated>2023-07-12T14:05:07.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Business Central for the Manufacturing Industry
+Manufacturing companies can take advantage of the advanced planning and scheduling functionality within Microsoft Dynamics 365 Business Central to run their businesses better. These features include up to 50 level deep Bill of Materials (BOM) per part, Routings that can be scheduled serial or parallel, and versioning in both the Bill of Materials and the...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Fred Holst</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Purpose built Collaboration spaces in Viva Sales]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/07/11/purpose-built-collaboration-spaces-in-viva-sales/</id>
