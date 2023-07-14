@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-13T01:46:53.779Z</updated>
+    <updated>2023-07-14T01:46:35.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Document management – Using AI builder – Power Automate]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2796</id>
+        <link href="https://anithasantosh.wordpress.com/2023/07/13/document-management-using-ai-builder-power-automate/"/>
+        <updated>2023-07-13T18:14:09.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post , the document upload was done by reading the file name and proceeding with upload. Here, I will give a walkthrough of uploading the attachment by scanning the contents in the file through AI builder and … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 2023 modern controls update]]></title>
+        <id>june-2023-updates-for-modernization-in-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/june-2023-updates-for-modernization-in-power-apps/"/>
+        <updated>2023-07-13T12:15:10.000Z</updated>
+        <summary type="html"><![CDATA[Note: This blog is in continuation of the announcement of modern controls coming to canvas apps & new look for model driven apps. You can find the May 2023 updates here. We thank our community and users for the active engagement on the journey to modernize Power Apps. This blog outlines the modernization updates we…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run a Trial Balance and Aged Reports in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=44595</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-365-business-central-how-to-run-a-trial-balance-and-aging-reports/"/>
+        <updated>2023-07-13T11:13:39.000Z</updated>
+        <summary type="html"><![CDATA[How to Run a Trial Balance and Aged Reports in Dynamics 365 Business Central
+In Dynamics 365 Business Central, we can check the AR and AP subledger accounts by using a report called Aged Accounts Receivable/Payable. This report shows the open transactions that currently have not been paid within the system. Similarly, we can also print the Trial Balance, which helps us to get the total for each GL...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Abhishek Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waste search with drones & Microsoft Sustainability Manager – Part 1]]></title>
+        <id>http://dynamicsax-fico.com/?p=5233</id>
+        <link href="https://dynamicsax-fico.com/2023/07/13/waste-search-with-drones-microsoft-sustainability-manager-part-1/"/>
+        <updated>2023-07-13T03:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 Business Central for the Manufacturing Industry]]></title>
         <id>https://www.encorebusiness.com/?p=57541</id>
@@ -21647,36 +21690,6 @@ Some suggestion here in this link.
 https://community.dynamics.com/ax/f/microsoft-dynamics-ax-forum/194803/run-ssrs-report-from-report-manager-url]]></summary>
         <author>
             <name>SANTOSH KUMAR SINGH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setup Business Event Endpoint with MuleSoft]]></title>
-        <id>https://alexvoy.blogspot.com/2021/07/setup-business-event-endpoint-with.html</id>
-        <link href="https://alexvoy.blogspot.com/2021/07/setup-business-event-endpoint-with.html"/>
-        <updated>2021-07-13T14:08:00.009Z</updated>
-        <summary type="html"><![CDATA[When it comes to setting up a Business Event BE endpoint: D365FO just sends a basic data contract (“payload”) via POST method.
-So, in fact we can use Microsoft Power Automate endpoint type to interact with your eventual MuleSoft  HTTP listener.
-
-A simple app (a flow) in MuleSoft Design Center consisting of two steps: HTTP listener and Logger.
-
-
-
-
-
-This basic BE data contract info to add a new type:
-{"TestField":"","BusinessEventId":"","ControlNumber":0,"EventId":"","EventTime":"/Date(-2208988800000)/","MajorVersion":0,"MinorVersion":0}
-
-
-
-
-
-
-For you particular case you can use pre-generated scheme for your new Business Event.
-
-
-After that you can add other steps to your MuleSoft app.]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>

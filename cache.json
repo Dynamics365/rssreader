@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=44595",
+          "author": "Abhishek Jain",
+          "description": "How to Run a Trial Balance and Aged Reports in Dynamics 365 Business Central\nIn Dynamics 365 Business Central, we can check the AR and AP subledger accounts by using a report called Aged Accounts Receivable/Payable. This report shows the open transactions that currently have not been paid within the system. Similarly, we can also print the Trial Balance, which helps us to get the total for each GL...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-365-business-central-how-to-run-a-trial-balance-and-aging-reports/",
+          "publishedOn": "2023-07-13T11:13:39.000Z",
+          "wordCount": 1629,
+          "title": "How to Run a Trial Balance and Aged Reports in Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=57541",
           "author": "Fred Holst",
           "description": "Dynamics 365 Business Central for the Manufacturing Industry\nManufacturing companies can take advantage of the advanced planning and scheduling functionality within Microsoft Dynamics 365 Business Central to run their businesses better. These features include up to 50 level deep Bill of Materials (BOM) per part, Routings that can be scheduled serial or parallel, and versioning in both the Bill of Materials and the...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -4052,6 +4062,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2796",
+          "author": "AnithaEswaran",
+          "description": "In my previous post , the document upload was done by reading the file name and proceeding with upload. Here, I will give a walkthrough of uploading the attachment by scanning the contents in the file through AI builder and … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/07/13/document-management-using-ai-builder-power-automate/",
+          "publishedOn": "2023-07-13T18:14:09.000Z",
+          "wordCount": 3921,
+          "title": "Document management – Using AI builder – Power Automate",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/07/image-10.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=2761",
           "author": "AnithaEswaran",
@@ -9027,16 +9047,6 @@
           "wordCount": 1997,
           "title": "If cloud-hosted deployment is stuck at preparation",
           "imageUrl": "https://1.bp.blogspot.com/-bxGeNOkRxN8/YRGz_HT31vI/AAAAAAADnag/pgjGeLpzFkUpPLVGhBciZl86anEfQowYACLcBGAsYHQ/w1200-h630-p-k-no-nu/Deployment%2Bfailed.jpg"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2021/07/setup-business-event-endpoint-with.html",
-          "author": null,
-          "description": "When it comes to setting up a Business Event BE endpoint: D365FO just sends a basic data contract (“payload”) via POST method.\nSo, in fact we can use Microsoft Power Automate endpoint type to interact with your eventual MuleSoft  HTTP listener.\n\nA simple app (a flow) in MuleSoft Design Center consisting of two steps: HTTP listener and Logger.\n\n\n\n\n\nThis basic BE data contract info to add a new type:\n{\"TestField\":\"\",\"BusinessEventId\":\"\",\"ControlNumber\":0,\"EventId\":\"\",\"EventTime\":\"/Date(-2208988800000)/\",\"MajorVersion\":0,\"MinorVersion\":0}\n\n\n\n\n\n\nFor you particular case you can use pre-generated scheme for your new Business Event.\n\n\nAfter that you can add other steps to your MuleSoft app.",
-          "link": "https://alexvoy.blogspot.com/2021/07/setup-business-event-endpoint-with.html",
-          "publishedOn": "2021-07-13T14:08:00.009Z",
-          "wordCount": 2053,
-          "title": "Setup Business Event Endpoint with MuleSoft",
-          "imageUrl": "https://lh3.googleusercontent.com/-FSn6CMQSYyQ/YO2d0RTT74I/AAAAAAADlP0/z1zLqiORpu03mAKbl0T498D8lO5v2OO4QCLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png"
         }
       ]
     },
@@ -10059,6 +10069,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5233",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/07/13/waste-search-with-drones-microsoft-sustainability-manager-part-1/",
+          "publishedOn": "2023-07-13T03:58:09.000Z",
+          "wordCount": 2719,
+          "title": "Waste search with drones & Microsoft Sustainability Manager – Part 1",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/07/introen.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5043",
           "author": "Ludwig Reinhard",
@@ -13793,6 +13813,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "june-2023-updates-for-modernization-in-power-apps",
+          "author": null,
+          "description": "Note: This blog is in continuation of the announcement of modern controls coming to canvas apps & new look for model driven apps. You can find the May 2023 updates here. We thank our community and users for the active engagement on the journey to modernize Power Apps. This blog outlines the modernization updates we…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/june-2023-updates-for-modernization-in-power-apps/",
+          "publishedOn": "2023-07-13T12:15:10.000Z",
+          "wordCount": 1995,
+          "title": "June 2023 modern controls update",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "announcing-public-preview-of-ip-internet-protocol-firewall-for-dataverse",
           "author": null,
