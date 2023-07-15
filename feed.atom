@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-14T01:46:35.857Z</updated>
+    <updated>2023-07-15T01:45:12.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -47,6 +47,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 “dos and don’ts” when you implement Dynamics 365 Field Service Mobile]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/07/12/top-5-dos-and-donts-when-you-implement-dynamics-365-field-service-mobile/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/07/12/top-5-dos-and-donts-when-you-implement-dynamics-365-field-service-mobile/"/>
+        <updated>2023-07-12T21:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Field Service Mobile is a robust and scalable mobile application created for your frontline workers. With the capabilities of Microsoft Power Platform and Dataverse, you can customize and configure the mobile application to meet your unique business needs. In this post, we'll explore the most important things you can do—and not do—to create the best possible experience for your frontline workers when you implement Field Service Mobile.
+The post Top 5 “dos and don’ts” when you implement Dynamics 365 Field Service Mobile appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jonathan Baker</name>
         </author>
     </entry>
     <entry>
