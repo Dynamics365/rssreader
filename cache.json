@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=57702",
+          "author": "Jorge Rodriguez-Torres",
+          "description": "Resource Requirements in Dynamics 365 Project Operations\nThe Resource Requirement functionality in Dynamics 365 Project Operations is great for streamlining your organization’s resource management process. It lets a Project Manager define what kind of team member they need for a project without having to decide exactly who will fill that need. In the early stages of planning a project, Project Managers often...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/resource-requirements-d365-crm/",
+          "publishedOn": "2023-07-17T11:13:05.000Z",
+          "wordCount": 1509,
+          "title": "Resource Requirements in Dynamics 365 Project Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/CRM-blog-image.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=44595",
           "author": "Abhishek Jain",
           "description": "How to Run a Trial Balance and Aged Reports in Dynamics 365 Business Central\nIn Dynamics 365 Business Central, we can check the AR and AP subledger accounts by using a report called Aged Accounts Receivable/Payable. This report shows the open transactions that currently have not been paid within the system. Similarly, we can also print the Trial Balance, which helps us to get the total for each GL...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -4063,6 +4073,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2823",
+          "author": "AnithaEswaran",
+          "description": "In this post, I will give a quick walkthrough of accessing free dev environment with Visual Studio, SSMS and URL. This can be used for training/development purpose. Click this link using Microsoft Learn account. If the browser is already signed … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/07/17/free-access-to-a-d365fo-environmentwith-dev-box/",
+          "publishedOn": "2023-07-17T15:16:57.000Z",
+          "wordCount": 3752,
+          "title": "Free access to a D365FO environment(with dev box)",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/07/image-17.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2796",
           "author": "AnithaEswaran",
           "description": "In my previous post , the document upload was done by reading the file name and proceeding with upload. Here, I will give a walkthrough of uploading the attachment by scanning the contents in the file through AI builder and … Continue reading →",
@@ -5539,6 +5559,16 @@
       "feedUrl": "https://daxonline.org/rss.xml",
       "siteUrl": "http://daxonline.org/",
       "articles": [
+        {
+          "id": "1900",
+          "author": "Vasiliy Kovalenko",
+          "description": "There is a resolution to Advance Production order via handheld - Production Parameters issue, where Starting the production order from hand held device does not consider latest parameters. This is due to the cache and after AOS restart it will pick up new parameters, however, if you need to change those parameters frequently then obviously AOS restart will not suite you.\nFlush the cache:\n[ExtensionOf(classStr(WHSPostProdJournal))]\nfinal class NXRWHSPostProdJournal_Extension\n{\n    public static void prodStartUp(\n        ProdId                _prodId,\n        Qty                    _qty,\n        WHSUserId            _whsUserId,\n        BOMAutoConsump        _bomAutoConsump,\n        WHSWorkExecuteMode  _workExecuteMode)\n    {\n        xSysLastValue::FlushCaches();\n\n        next prodStartUp(_pr…",
+          "link": "http://daxonline.org/1900-advance-production-order-via-hand-held---production-parameters-issue-resolution.html",
+          "publishedOn": "2023-07-17T12:18:34.000Z",
+          "wordCount": 510,
+          "title": "Advance Production order via hand held - Production Parameters issue resolution",
+          "imageUrl": null
+        },
         {
           "id": "1891",
           "author": "Vasiliy Kovalenko",
@@ -7361,6 +7391,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2732",
+          "author": "Saurabh Bharti",
+          "description": "Consignment inventory is inventory that’s owned by a vendor but stored at your site. When you’re ready to consume or use the inventory, you take over the ownership of the inventory. This topic includes information about how to physically receive vendor-owned inventory on-hand without creating general ledger transactions, how to start a production process where […]",
+          "link": "https://exploredynamics365.home.blog/2023/07/17/managing-and-monitoring-consignment-inventory-process-using-vendor-collaboration-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-07-17T07:14:31.000Z",
+          "wordCount": 2620,
+          "title": "Managing and Monitoring consignment inventory Process using Vendor Collaboration in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/oQ8AfVOwHjc/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2728",
           "author": "Saurabh Bharti",
           "description": "Recently I had chance to speak at  #D365UGIndia Community! on Landed cost impact on financial and inventory valuation. I am thank full to the organizers and all the attendees who attended the session Live. If you have missed than ,here is the recording of the same: Landed Cost Accounting: Landed cost accounting allows you to accurately […]",
@@ -7837,6 +7877,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2732",
+          "author": "Saurabh Bharti",
+          "description": "Consignment inventory is inventory that’s owned by a vendor but stored at your site. When you’re ready to consume or use the inventory, you take over the ownership of the inventory. This topic includes information about how to physically receive vendor-owned inventory on-hand without creating general ledger transactions, how to start a production process where […]",
+          "link": "https://exploredynamics365.home.blog/2023/07/17/managing-and-monitoring-consignment-inventory-process-using-vendor-collaboration-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-07-17T07:14:31.000Z",
+          "wordCount": 2620,
+          "title": "Managing and Monitoring consignment inventory Process using Vendor Collaboration in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/oQ8AfVOwHjc/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2728",
           "author": "Saurabh Bharti",

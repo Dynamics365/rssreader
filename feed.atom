@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-17T01:49:12.564Z</updated>
+    <updated>2023-07-18T01:56:00.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Free access to a D365FO environment(with dev box)]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2823</id>
+        <link href="https://anithasantosh.wordpress.com/2023/07/17/free-access-to-a-d365fo-environmentwith-dev-box/"/>
+        <updated>2023-07-17T15:16:57.000Z</updated>
+        <summary type="html"><![CDATA[In this post, I will give a quick walkthrough of accessing free dev environment with Visual Studio, SSMS and URL. This can be used for training/development purpose. Click this link using Microsoft Learn account. If the browser is already signed … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advance Production order via hand held - Production Parameters issue resolution]]></title>
+        <id>1900</id>
+        <link href="http://daxonline.org/1900-advance-production-order-via-hand-held---production-parameters-issue-resolution.html"/>
+        <updated>2023-07-17T12:18:34.000Z</updated>
+        <summary type="html"><![CDATA[There is a resolution to Advance Production order via handheld - Production Parameters issue, where Starting the production order from hand held device does not consider latest parameters. This is due to the cache and after AOS restart it will pick up new parameters, however, if you need to change those parameters frequently then obviously AOS restart will not suite you.
+Flush the cache:
+[ExtensionOf(classStr(WHSPostProdJournal))]
+final class NXRWHSPostProdJournal_Extension
+{
+    public static void prodStartUp(
+        ProdId                _prodId,
+        Qty                    _qty,
+        WHSUserId            _whsUserId,
+        BOMAutoConsump        _bomAutoConsump,
+        WHSWorkExecuteMode  _workExecuteMode)
+    {
+        xSysLastValue::FlushCaches();
+
+        next prodStartUp(_pr…]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resource Requirements in Dynamics 365 Project Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=57702</id>
+        <link href="https://www.encorebusiness.com/blog/resource-requirements-d365-crm/"/>
+        <updated>2023-07-17T11:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Resource Requirements in Dynamics 365 Project Operations
+The Resource Requirement functionality in Dynamics 365 Project Operations is great for streamlining your organization’s resource management process. It lets a Project Manager define what kind of team member they need for a project without having to decide exactly who will fill that need. In the early stages of planning a project, Project Managers often...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Jorge Rodriguez-Torres</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing and Monitoring consignment inventory Process using Vendor Collaboration in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2732</id>
+        <link href="https://exploredynamics365.home.blog/2023/07/17/managing-and-monitoring-consignment-inventory-process-using-vendor-collaboration-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-07-17T07:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Consignment inventory is inventory that’s owned by a vendor but stored at your site. When you’re ready to consume or use the inventory, you take over the ownership of the inventory. This topic includes information about how to physically receive vendor-owned inventory on-hand without creating general ledger transactions, how to start a production process where […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing and Monitoring consignment inventory Process using Vendor Collaboration in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2732</id>
+        <link href="https://exploredynamics365.home.blog/2023/07/17/managing-and-monitoring-consignment-inventory-process-using-vendor-collaboration-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-07-17T07:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Consignment inventory is inventory that’s owned by a vendor but stored at your site. When you’re ready to consume or use the inventory, you take over the ownership of the inventory. This topic includes information about how to physically receive vendor-owned inventory on-hand without creating general ledger transactions, how to start a production process where […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Document management – Using AI builder – Power Automate]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2796</id>
