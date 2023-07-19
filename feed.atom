@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-18T01:56:00.877Z</updated>
+    <updated>2023-07-19T02:44:26.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data migration with KingwaySoft & Dynamics 365 Finance & Operations]]></title>
+        <id>https://paragchapre.com/?p=11939</id>
+        <link href="https://paragchapre.com/data-migration-with-kingwaysoft-dynamics-365-finance-operations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=data-migration-with-kingwaysoft-dynamics-365-finance-operations"/>
+        <updated>2023-07-18T10:49:03.000Z</updated>
+        <summary type="html"><![CDATA[What is KingswaySoft KingswaySoft is a well-known integration solution provider that specializes in data integration and migration tools for Microsoft Dynamics 365 and other platforms. When it comes to Dynamics 365 Finance and Operations (formerly known as Dynamics AX), KingswaySoft offers a set of connectors and tools to facilitate data integration and data management tasks. […]
+The post Data migration with KingwaySoft & Dynamics 365 Finance & Operations appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free access to a D365FO environment(with dev box)]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2823</id>
@@ -14,6 +25,17 @@
         <summary type="html"><![CDATA[In this post, I will give a quick walkthrough of accessing free dev environment with Visual Studio, SSMS and URL. This can be used for training/development purpose. Click this link using Microsoft Learn account. If the browser is already signed … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 & Power Platform – 2023 release wave 1 plans]]></title>
+        <id>https://dynamicspedia.com/?p=18664</id>
+        <link href="https://dynamicspedia.com/2023/07/dynamics-365-power-platform-2023-release-wave-1-plans-2/"/>
+        <updated>2023-07-17T13:08:16.000Z</updated>
+        <summary type="html"><![CDATA[Today, Microsoft released the new plans for 2023 release wave 2. These plans will tell you about the short-term investments to be released by Microsoft for Dynamics 365 and the Power Platform. Microsoft is releasing these plans twice a year to indicate what they are working on. In this post, you will find the links […]
+The post Dynamics 365 & Power Platform – 2023 release wave 1 plans appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
         </author>
     </entry>
     <entry>
