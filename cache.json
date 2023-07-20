@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=57559",
+          "author": "Henry Villanueva",
+          "description": "D365 Finance & Operations: Build Automation Using Azure Pipeline and Microsoft Hosted Agent\nThis blog will help guide you in automating the build release using Azure Pipeline and Microsoft-hosted agents. Normally, to create a build release, you would setup a cloud-hosted Build environment in Lifecycle Services (LCS). This is a Virtual Machine in Azure that costs money depending on the size of the machine and time usage. There...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/build-automation-using-azure-pipeline-microsoft-hosted-agent/",
+          "publishedOn": "2023-07-19T16:06:42.000Z",
+          "wordCount": 2589,
+          "title": "D365 Finance & Operations: Build Automation Using Azure Pipeline and Microsoft Hosted Agent",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=57702",
           "author": "Jorge Rodriguez-Torres",
           "description": "Resource Requirements in Dynamics 365 Project Operations\nThe Resource Requirement functionality in Dynamics 365 Project Operations is great for streamlining your organization’s resource management process. It lets a Project Manager define what kind of team member they need for a project without having to decide exactly who will fill that need. In the early stages of planning a project, Project Managers often...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -3925,6 +3935,16 @@
       "feedUrl": "https://ariste.info/feed/",
       "siteUrl": "https://ariste.info",
       "articles": [
+        {
+          "id": "https://ariste.info/?p=7357",
+          "author": "Adrià Ariste Santacreu",
+          "description": "Hoy vengo con un post sobre Dynamics 365 F&O, pero con el foco principal en la seguridad, concretamente en Microsoft Sentinel. Hace unos días se anunció que se había publicado una solución de Microsoft Sentinel para F&O que actualmente está en preview. ¡Vamos a aprender un poco sobre ella! A veces pasamos por alto los… Continue Reading Microsoft Sentinel para Dynamics 365 F&O",
+          "link": "https://ariste.info/2023/07/microsoft-sentinel-dynamics-365-fo/",
+          "publishedOn": "2023-07-19T05:50:58.000Z",
+          "wordCount": 5468,
+          "title": "Microsoft Sentinel para Dynamics 365 F&O",
+          "imageUrl": "https://static.ariste.info/wp-content/uploads/2023/07/IMG_2463-1024x1024.jpeg"
+        },
         {
           "id": "https://ariste.info/?p=7247",
           "author": "Adrià Ariste Santacreu",
@@ -7371,16 +7391,6 @@
           "publishedOn": "2022-09-22T08:06:50.000Z",
           "wordCount": 1275,
           "title": "Fixed-width text files in data management (F&O)",
-          "imageUrl": null
-        },
-        {
-          "id": "http://dev.goshoom.net/?p=9689",
-          "author": "Martin Dráb",
-          "description": "This blog post isn’t about Dynamics AX / Dynamics 365, although it may occasionally be useful for some AX/D365 developers as well. Let’s say I have a 30 minutes long movie that I want to share on a website and I want to give people an idea about the content of the video. Therefore I ...\nContinue reading ‘Animated GIF thumbnails from a video’ »",
-          "link": "https://dev.goshoom.net/2021/07/animated-gif-thumbnails-from-a-video/",
-          "publishedOn": "2021-07-20T11:56:52.000Z",
-          "wordCount": 1546,
-          "title": "Animated GIF thumbnails from a video",
           "imageUrl": null
         }
       ]

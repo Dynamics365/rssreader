@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-19T02:44:26.928Z</updated>
+    <updated>2023-07-20T01:20:50.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365 Finance & Operations: Build Automation Using Azure Pipeline and Microsoft Hosted Agent]]></title>
+        <id>https://www.encorebusiness.com/?p=57559</id>
+        <link href="https://www.encorebusiness.com/blog/build-automation-using-azure-pipeline-microsoft-hosted-agent/"/>
+        <updated>2023-07-19T16:06:42.000Z</updated>
+        <summary type="html"><![CDATA[D365 Finance & Operations: Build Automation Using Azure Pipeline and Microsoft Hosted Agent
+This blog will help guide you in automating the build release using Azure Pipeline and Microsoft-hosted agents. Normally, to create a build release, you would setup a cloud-hosted Build environment in Lifecycle Services (LCS). This is a Virtual Machine in Azure that costs money depending on the size of the machine and time usage. There...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Henry Villanueva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Sentinel para Dynamics 365 F&O]]></title>
+        <id>https://ariste.info/?p=7357</id>
+        <link href="https://ariste.info/2023/07/microsoft-sentinel-dynamics-365-fo/"/>
+        <updated>2023-07-19T05:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Hoy vengo con un post sobre Dynamics 365 F&O, pero con el foco principal en la seguridad, concretamente en Microsoft Sentinel. Hace unos días se anunció que se había publicado una solución de Microsoft Sentinel para F&O que actualmente está en preview. ¡Vamos a aprender un poco sobre ella! A veces pasamos por alto los… Continue Reading Microsoft Sentinel para Dynamics 365 F&O]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data migration with KingwaySoft & Dynamics 365 Finance & Operations]]></title>
         <id>https://paragchapre.com/?p=11939</id>
@@ -21711,17 +21734,6 @@ str dateFrom, dateTo;
 if(createdDateFrom...(read more)]]></summary>
         <author>
             <name>Daniele Ferraretto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animated GIF thumbnails from a video]]></title>
-        <id>http://dev.goshoom.net/?p=9689</id>
-        <link href="https://dev.goshoom.net/2021/07/animated-gif-thumbnails-from-a-video/"/>
-        <updated>2021-07-20T11:56:52.000Z</updated>
-        <summary type="html"><![CDATA[This blog post isn’t about Dynamics AX / Dynamics 365, although it may occasionally be useful for some AX/D365 developers as well. Let’s say I have a 30 minutes long movie that I want to share on a website and I want to give people an idea about the content of the video. Therefore I ...
-Continue reading ‘Animated GIF thumbnails from a video’ »]]></summary>
-        <author>
-            <name>Martin Dráb</name>
         </author>
     </entry>
     <entry>
