@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-20T01:20:50.874Z</updated>
+    <updated>2023-07-21T01:22:36.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Waste search with drones & Microsoft Sustainability Manager – Part 2]]></title>
+        <id>http://dynamicsax-fico.com/?p=5244</id>
+        <link href="https://dynamicsax-fico.com/2023/07/20/waste-search-with-drones-microsoft-sustainability-manager-part-2/"/>
+        <updated>2023-07-20T03:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D365 Finance & Operations: Build Automation Using Azure Pipeline and Microsoft Hosted Agent]]></title>
         <id>https://www.encorebusiness.com/?p=57559</id>
@@ -27,6 +37,61 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[Hoy vengo con un post sobre Dynamics 365 F&O, pero con el foco principal en la seguridad, concretamente en Microsoft Sentinel. Hace unos días se anunció que se había publicado una solución de Microsoft Sentinel para F&O que actualmente está en preview. ¡Vamos a aprender un poco sobre ella! A veces pasamos por alto los… Continue Reading Microsoft Sentinel para Dynamics 365 F&O]]></summary>
         <author>
             <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIM for the future with Microsoft: Future-proof your business in the cloud]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/introducing-aim-from-microsoft-future-proof-your-business-in-the-cloud/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/introducing-aim-from-microsoft-future-proof-your-business-in-the-cloud/"/>
+        <updated>2023-07-18T15:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft recently introduced Dynamics 365 Copilot, the world's first AI copilot integrated into customer relationship management (CRM) and enterprise resource planning (ERP) applications in the cloud, that is designed to augment workflows, uncover insights, identify the next best actions, and reduce time spent on administrative tasks. 
+The post AIM for the future with Microsoft: Future-proof your business in the cloud appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Giovanni Mezgec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reshaping the future of business with Microsoft Sales Copilot, Dynamics 365 Customer Insights, and a new cloud migration program]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/reshaping-the-future-of-business-with-microsoft-sales-copilot-dynamics-365-customer-insights-and-a-new-cloud-migration-program/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/reshaping-the-future-of-business-with-microsoft-sales-copilot-dynamics-365-customer-insights-and-a-new-cloud-migration-program/"/>
+        <updated>2023-07-18T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Copilot assists employees wherever they are working, surfacing valuable business data and delivering business insights so they can focus on the most meaningful parts of their jobs. And with this momentum in AI, there has never been a better time for our customers to move to the cloud.
+The post Reshaping the future of business with Microsoft Sales Copilot, Dynamics 365 Customer Insights, and a new cloud migration program appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Emily He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 release wave 2 plans for Microsoft Dynamics 365 and Power Platform now available]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/2023-release-wave-2-plans-for-microsoft-dynamics-365-and-power-platform-now-available/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/2023-release-wave-2-plans-for-microsoft-dynamics-365-and-power-platform-now-available/"/>
+        <updated>2023-07-18T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[On July 18, 2023, we published the 2023 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform, a compilation of new capabilities planned to be released between October 2023 and March 2024. 
+The post 2023 release wave 2 plans for Microsoft Dynamics 365 and Power Platform now available appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mo Osborne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transition to real-time marketing and transform your Customer Experience]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/07/18/transition-to-real-time-marketing-and-transform-your-customer-experience/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/07/18/transition-to-real-time-marketing-and-transform-your-customer-experience/"/>
+        <updated>2023-07-18T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Adapting to evolving customer expectations: staying ahead in the new marketing landscape Customer experience has significantly transformed in recent years, moving away from linear buying journeys and one-size-fits-all approaches. Nowadays, customers expect digitally enabled, hyper-personalized experiences. To stay competitive, organizations must embrace a customer-first approach, bridging departmental gaps to deliver cohesive experiences. By harnessing the
+The post Transition to real-time marketing and transform your Customer Experience appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jim Nakashima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve sales productivity and close more deals with Microsoft Sales Copilot]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/07/18/improve-sales-productivity-and-close-more-deals-with-microsoft-sales-copilot/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/07/18/improve-sales-productivity-and-close-more-deals-with-microsoft-sales-copilot/"/>
+        <updated>2023-07-18T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As a seller, you know you need to focus on building relationships with your customers and getting the details you need to close the deal. The challenge is that like most sellers, you spend less than 30% of your time selling.
+The post Improve sales productivity and close more deals with Microsoft Sales Copilot appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Lori Lamkin</name>
         </author>
     </entry>
     <entry>

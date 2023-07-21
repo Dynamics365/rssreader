@@ -5847,6 +5847,56 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/introducing-aim-from-microsoft-future-proof-your-business-in-the-cloud/",
+          "author": "Giovanni Mezgec",
+          "description": "Microsoft recently introduced Dynamics 365 Copilot, the world's first AI copilot integrated into customer relationship management (CRM) and enterprise resource planning (ERP) applications in the cloud, that is designed to augment workflows, uncover insights, identify the next best actions, and reduce time spent on administrative tasks. \nThe post AIM for the future with Microsoft: Future-proof your business in the cloud appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/introducing-aim-from-microsoft-future-proof-your-business-in-the-cloud/",
+          "publishedOn": "2023-07-18T15:31:00.000Z",
+          "wordCount": 2705,
+          "title": "AIM for the future with Microsoft: Future-proof your business in the cloud",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/07/CLO22_TechOffice_022-1_v2.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/reshaping-the-future-of-business-with-microsoft-sales-copilot-dynamics-365-customer-insights-and-a-new-cloud-migration-program/",
+          "author": "Emily He",
+          "description": "Copilot assists employees wherever they are working, surfacing valuable business data and delivering business insights so they can focus on the most meaningful parts of their jobs. And with this momentum in AI, there has never been a better time for our customers to move to the cloud.\nThe post Reshaping the future of business with Microsoft Sales Copilot, Dynamics 365 Customer Insights, and a new cloud migration program appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/reshaping-the-future-of-business-with-microsoft-sales-copilot-dynamics-365-customer-insights-and-a-new-cloud-migration-program/",
+          "publishedOn": "2023-07-18T15:30:00.000Z",
+          "wordCount": 3489,
+          "title": "Reshaping the future of business with Microsoft Sales Copilot, Dynamics 365 Customer Insights, and a new cloud migration program",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/07/267060_MS_BizApps_Inspire_2023_BlogHeader_1200x_SEO.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/2023-release-wave-2-plans-for-microsoft-dynamics-365-and-power-platform-now-available/",
+          "author": "Mo Osborne",
+          "description": "On July 18, 2023, we published the 2023 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform, a compilation of new capabilities planned to be released between October 2023 and March 2024. \nThe post 2023 release wave 2 plans for Microsoft Dynamics 365 and Power Platform now available appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/2023-release-wave-2-plans-for-microsoft-dynamics-365-and-power-platform-now-available/",
+          "publishedOn": "2023-07-18T15:30:00.000Z",
+          "wordCount": 3175,
+          "title": "2023 release wave 2 plans for Microsoft Dynamics 365 and Power Platform now available",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/07/CLO17_casualOffice_002.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/07/18/transition-to-real-time-marketing-and-transform-your-customer-experience/",
+          "author": "Jim Nakashima",
+          "description": "Adapting to evolving customer expectations: staying ahead in the new marketing landscape Customer experience has significantly transformed in recent years, moving away from linear buying journeys and one-size-fits-all approaches. Nowadays, customers expect digitally enabled, hyper-personalized experiences. To stay competitive, organizations must embrace a customer-first approach, bridging departmental gaps to deliver cohesive experiences. By harnessing the\nThe post Transition to real-time marketing and transform your Customer Experience appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/07/18/transition-to-real-time-marketing-and-transform-your-customer-experience/",
+          "publishedOn": "2023-07-18T15:30:00.000Z",
+          "wordCount": 2960,
+          "title": "Transition to real-time marketing and transform your Customer Experience",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/07/Win19a_SMC_CollabB_181.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/07/18/improve-sales-productivity-and-close-more-deals-with-microsoft-sales-copilot/",
+          "author": "Lori Lamkin",
+          "description": "As a seller, you know you need to focus on building relationships with your customers and getting the details you need to close the deal. The challenge is that like most sellers, you spend less than 30% of your time selling.\nThe post Improve sales productivity and close more deals with Microsoft Sales Copilot appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/07/18/improve-sales-productivity-and-close-more-deals-with-microsoft-sales-copilot/",
+          "publishedOn": "2023-07-18T15:30:00.000Z",
+          "wordCount": 3255,
+          "title": "Improve sales productivity and close more deals with Microsoft Sales Copilot",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/07/CLO20_Agnes_CasualMeeting_003-scaled.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/07/12/top-5-dos-and-donts-when-you-implement-dynamics-365-field-service-mobile/",
           "author": "Jonathan Baker",
           "description": "Dynamics 365 Field Service Mobile is a robust and scalable mobile application created for your frontline workers. With the capabilities of Microsoft Power Platform and Dataverse, you can customize and configure the mobile application to meet your unique business needs. In this post, we'll explore the most important things you can do—and not do—to create the best possible experience for your frontline workers when you implement Field Service Mobile.\nThe post Top 5 “dos and don’ts” when you implement Dynamics 365 Field Service Mobile appeared first on Microsoft Dynamics 365 Blog.",
@@ -10149,6 +10199,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5244",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/07/20/waste-search-with-drones-microsoft-sustainability-manager-part-2/",
+          "publishedOn": "2023-07-20T03:20:32.000Z",
+          "wordCount": 2738,
+          "title": "Waste search with drones & Microsoft Sustainability Manager – Part 2",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/07/introen.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5233",
           "author": "Ludwig Reinhard",
