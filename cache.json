@@ -5844,8 +5844,18 @@
     {
       "title": "Microsoft Dynamics 365 Blog",
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
-      "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
+      "siteUrl": "https://www.microsoft.com/en-us/industry/blog/consumer-goods/2023/07/24/deciphering-consumer-desires-elevating-customer-journeys-in-retail-cpg/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/industry/blog/consumer-goods/2023/07/24/deciphering-consumer-desires-elevating-customer-journeys-in-retail-cpg/",
+          "author": "Chandra Stevens",
+          "description": "According to Gartner®, the top consumer goods technology trends in 2023 focus on customers, technology, and sustainability. Learn more.\nThe post Deciphering consumer desires: Elevating customer journeys in retail CPG appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/industry/blog/consumer-goods/2023/07/24/deciphering-consumer-desires-elevating-customer-journeys-in-retail-cpg/",
+          "publishedOn": "2023-07-24T16:00:00.000Z",
+          "wordCount": 2789,
+          "title": "Deciphering consumer desires: Elevating customer journeys in retail CPG",
+          "imageUrl": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/07/Retail-Updated-social.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/introducing-aim-from-microsoft-future-proof-your-business-in-the-cloud/",
           "author": "Giovanni Mezgec",
@@ -7451,6 +7461,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2736",
+          "author": "Saurabh Bharti",
+          "description": "Many times, during multi legal entity implementation we come across requirement where customer would like to maintain the cross company shared data which will help them to maintain the integrity and consistency across all the legal entities. In Microsoft dynamics 365 cross company data sharing helps us to achieve this requirement, it allows us: -Create […]",
+          "link": "https://exploredynamics365.home.blog/2023/07/24/cross-company-data-sharing-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-07-24T07:05:04.000Z",
+          "wordCount": 2594,
+          "title": "Cross company data sharing in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/ejUq1GFP7Fw/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2732",
           "author": "Saurabh Bharti",
           "description": "Consignment inventory is inventory that’s owned by a vendor but stored at your site. When you’re ready to consume or use the inventory, you take over the ownership of the inventory. This topic includes information about how to physically receive vendor-owned inventory on-hand without creating general ledger transactions, how to start a production process where […]",
@@ -7937,6 +7957,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2736",
+          "author": "Saurabh Bharti",
+          "description": "Many times, during multi legal entity implementation we come across requirement where customer would like to maintain the cross company shared data which will help them to maintain the integrity and consistency across all the legal entities. In Microsoft dynamics 365 cross company data sharing helps us to achieve this requirement, it allows us: -Create […]",
+          "link": "https://exploredynamics365.home.blog/2023/07/24/cross-company-data-sharing-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-07-24T07:05:04.000Z",
+          "wordCount": 2594,
+          "title": "Cross company data sharing in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/ejUq1GFP7Fw/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2732",
           "author": "Saurabh Bharti",
@@ -13963,6 +13993,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "microsoft-power-apps-and-generative-ai-helps-citizen-maker-upskill-and-transform-career",
+          "author": null,
+          "description": "Miyu Takai from Tokyo, Japan, began her career with zero IT experience and is now in a technical specialist role that she never imagined possible for herself, thanks to the Power Platform and the power of AI. Miyu leveraged her existing Excel skills and used the GPT-powered Power Apps Ideas capabilities to easily generate Power Fx formulas and wire together logic for her Power Apps solutions.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/microsoft-power-apps-and-generative-ai-helps-citizen-maker-upskill-and-transform-career/",
+          "publishedOn": "2023-07-24T08:29:33.000Z",
+          "wordCount": 2857,
+          "title": "Microsoft Power Apps and generative AI helps citizen maker upskill and transform career",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/07/image-12.png"
+        },
         {
           "id": "june-2023-updates-for-modernization-in-power-apps",
           "author": null,

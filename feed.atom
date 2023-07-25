@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-24T01:21:47.409Z</updated>
+    <updated>2023-07-25T01:36:12.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deciphering consumer desires: Elevating customer journeys in retail CPG]]></title>
+        <id>https://www.microsoft.com/en-us/industry/blog/consumer-goods/2023/07/24/deciphering-consumer-desires-elevating-customer-journeys-in-retail-cpg/</id>
+        <link href="https://www.microsoft.com/en-us/industry/blog/consumer-goods/2023/07/24/deciphering-consumer-desires-elevating-customer-journeys-in-retail-cpg/"/>
+        <updated>2023-07-24T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[According to Gartner®, the top consumer goods technology trends in 2023 focus on customers, technology, and sustainability. Learn more.
+The post Deciphering consumer desires: Elevating customer journeys in retail CPG appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Chandra Stevens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Apps and generative AI helps citizen maker upskill and transform career]]></title>
+        <id>microsoft-power-apps-and-generative-ai-helps-citizen-maker-upskill-and-transform-career</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/microsoft-power-apps-and-generative-ai-helps-citizen-maker-upskill-and-transform-career/"/>
+        <updated>2023-07-24T08:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Miyu Takai from Tokyo, Japan, began her career with zero IT experience and is now in a technical specialist role that she never imagined possible for herself, thanks to the Power Platform and the power of AI. Miyu leveraged her existing Excel skills and used the GPT-powered Power Apps Ideas capabilities to easily generate Power Fx formulas and wire together logic for her Power Apps solutions.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross company data sharing in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2736</id>
+        <link href="https://exploredynamics365.home.blog/2023/07/24/cross-company-data-sharing-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-07-24T07:05:04.000Z</updated>
+        <summary type="html"><![CDATA[Many times, during multi legal entity implementation we come across requirement where customer would like to maintain the cross company shared data which will help them to maintain the integrity and consistency across all the legal entities. In Microsoft dynamics 365 cross company data sharing helps us to achieve this requirement, it allows us: -Create […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross company data sharing in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2736</id>
+        <link href="https://exploredynamics365.home.blog/2023/07/24/cross-company-data-sharing-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-07-24T07:05:04.000Z</updated>
+        <summary type="html"><![CDATA[Many times, during multi legal entity implementation we come across requirement where customer would like to maintain the cross company shared data which will help them to maintain the integrity and consistency across all the legal entities. In Microsoft dynamics 365 cross company data sharing helps us to achieve this requirement, it allows us: -Create […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waste search with drones & Microsoft Sustainability Manager – Part 2]]></title>
         <id>http://dynamicsax-fico.com/?p=5244</id>
