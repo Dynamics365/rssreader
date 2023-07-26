@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-25T01:36:12.933Z</updated>
+    <updated>2023-07-26T01:22:49.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introduction to the New Up Next Widget in Dynamics 365 Sales]]></title>
+        <id>https://www.encorebusiness.com/?p=57413</id>
+        <link href="https://www.encorebusiness.com/blog/introduction-to-the-new-up-next-widget-in-dynamics-365-sales/"/>
+        <updated>2023-07-25T16:06:13.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to the New Up Next Widget in Dynamics 365 Sales
+In the 2022 release wave 2 of Dynamics 365 Sales, Microsoft added a new feature, the Up Next Widget. The Up Next Widget can help sales professionals perform guided actions and suggest the next steps based on sales sequences. Sequences are sets of steps that outline your sales process, like sending emails, making calls, or...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Hamza Idlepi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deciphering consumer desires: Elevating customer journeys in retail CPG]]></title>
         <id>https://www.microsoft.com/en-us/industry/blog/consumer-goods/2023/07/24/deciphering-consumer-desires-elevating-customer-journeys-in-retail-cpg/</id>
@@ -15,6 +28,17 @@
 The post Deciphering consumer desires: Elevating customer journeys in retail CPG appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Chandra Stevens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Export Data To Excel In D365]]></title>
+        <id>https://dynamics365musings.com/?p=3023</id>
+        <link href="https://dynamics365musings.com/export-data-to-excel-in-d365/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=export-data-to-excel-in-d365"/>
+        <updated>2023-07-24T15:01:29.000Z</updated>
+        <summary type="html"><![CDATA[There is a joke I’ve heard that goes something like this. What is the most widely used ERP (Enterprise Resource Planning) System? The answer: Microsoft Excel. By and large, the many forms in Microsoft Dynamics 365 for Finance and Operations allow the system to work with data in many ways. However, there are some scenarios,... Continue Reading →
+The post Export Data To Excel In D365 appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
         </author>
     </entry>
     <entry>

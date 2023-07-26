@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=57413",
+          "author": "Hamza Idlepi",
+          "description": "Introduction to the New Up Next Widget in Dynamics 365 Sales\nIn the 2022 release wave 2 of Dynamics 365 Sales, Microsoft added a new feature, the Up Next Widget. The Up Next Widget can help sales professionals perform guided actions and suggest the next steps based on sales sequences. Sequences are sets of steps that outline your sales process, like sending emails, making calls, or...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/introduction-to-the-new-up-next-widget-in-dynamics-365-sales/",
+          "publishedOn": "2023-07-25T16:06:13.000Z",
+          "wordCount": 1449,
+          "title": "Introduction to the New Up Next Widget in Dynamics 365 Sales",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/09/D365CE-Sales-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=57559",
           "author": "Henry Villanueva",
           "description": "D365 Finance & Operations: Build Automation Using Azure Pipeline and Microsoft Hosted Agent\nThis blog will help guide you in automating the build release using Azure Pipeline and Microsoft-hosted agents. Normally, to create a build release, you would setup a cloud-hosted Build environment in Lifecycle Services (LCS). This is a Virtual Machine in Azure that costs money depending on the size of the machine and time usage. There...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -4560,6 +4570,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=3023",
+          "author": "peter.ramer",
+          "description": "There is a joke I’ve heard that goes something like this. What is the most widely used ERP (Enterprise Resource Planning) System? The answer: Microsoft Excel. By and large, the many forms in Microsoft Dynamics 365 for Finance and Operations allow the system to work with data in many ways. However, there are some scenarios,... Continue Reading →\nThe post Export Data To Excel In D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/export-data-to-excel-in-d365/?utm_source=rss&utm_medium=rss&utm_campaign=export-data-to-excel-in-d365",
+          "publishedOn": "2023-07-24T15:01:29.000Z",
+          "wordCount": 3251,
+          "title": "Export Data To Excel In D365",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/07/Export-Data-To-Excel-In-D365.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=2953",
           "author": "peter.ramer",
           "description": "Instead of manually typing in data, users can upload a file, then read a file in D365. I will show you how to use helper classes to do both of these things. This is especially helpful when you have many records to bring in. There are several other ways that data can be brought into... Continue Reading →\nThe post How To Read A File In D365 appeared first on Dynamics 365 Musings.",
@@ -5844,7 +5864,7 @@
     {
       "title": "Microsoft Dynamics 365 Blog",
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
-      "siteUrl": "https://www.microsoft.com/en-us/industry/blog/consumer-goods/2023/07/24/deciphering-consumer-desires-elevating-customer-journeys-in-retail-cpg/",
+      "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
           "id": "https://www.microsoft.com/en-us/industry/blog/consumer-goods/2023/07/24/deciphering-consumer-desires-elevating-customer-journeys-in-retail-cpg/",
