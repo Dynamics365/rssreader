@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=57997",
+          "author": "Debra Huntly",
+          "description": "How to Set Up First Nation Exemptions in Dynamics GP Canadian Payroll\nFor anyone using the latest version of Dynamics GP (currently GP 18.5) you might be interested to know how to set up First Nation exemptions in Canadian payroll. Follow these steps below to properly set this up for your organization. Update the TD1 Values on the Employee Card: 1. From the HR & Payroll page,...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-set-up-first-nation-exemptions-in-dynamics-gp-canadian-payroll/",
+          "publishedOn": "2023-07-27T15:51:42.000Z",
+          "wordCount": 1434,
+          "title": "How to Set Up First Nation Exemptions in Dynamics GP Canadian Payroll",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=57413",
           "author": "Hamza Idlepi",
           "description": "Introduction to the New Up Next Widget in Dynamics 365 Sales\nIn the 2022 release wave 2 of Dynamics 365 Sales, Microsoft added a new feature, the Up Next Widget. The Up Next Widget can help sales professionals perform guided actions and suggest the next steps based on sales sequences. Sequences are sets of steps that outline your sales process, like sending emails, making calls, or...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -5864,7 +5874,7 @@
     {
       "title": "Microsoft Dynamics 365 Blog",
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
-      "siteUrl": "https://www.microsoft.com/en-us/industry/blog/consumer-goods/2023/07/24/deciphering-consumer-desires-elevating-customer-journeys-in-retail-cpg/",
+      "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
           "id": "https://www.microsoft.com/en-us/industry/blog/consumer-goods/2023/07/24/deciphering-consumer-desires-elevating-customer-journeys-in-retail-cpg/",
@@ -9359,7 +9369,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "https://paragchapre.com/",
+      "siteUrl": "http://paragchapre.com/",
       "articles": [
         {
           "id": "https://paragchapre.com/?p=11939",
