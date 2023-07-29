@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-29T01:14:24.311Z</updated>
+    <updated>2023-07-29T06:18:40.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -63,6 +63,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Debra Huntly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate Process Mining empowers warehouses to boost their efficiency significantly]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/07/26/power-automate-process-mining-empowers-warehouses-to-boost-their-efficiency-significantly/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/07/26/power-automate-process-mining-empowers-warehouses-to-boost-their-efficiency-significantly/"/>
+        <updated>2023-07-26T13:13:01.000Z</updated>
+        <summary type="html"><![CDATA[Every warehouse manager is keen on improving the processes on the warehouse floor. But where to start? What to optimize? It is far from easy to discover the bottlenecks. This is where the Power Automate Process Mining comes really handy. In the 10.0.35 release we ship the integration of Supply Chain Management Warehouse module with Power Automate Process Mining. This integration gives some really valuable insight into the material movement in the warehouse. 
+The post Power Automate Process Mining empowers warehouses to boost their efficiency significantly appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Galyna Fedorova</name>
         </author>
     </entry>
     <entry>
@@ -288,6 +299,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Multiple Projects on D365FO Onebox Using Git]]></title>
+        <id>https://ax.docentric.com/?p=26390</id>
+        <link href="https://ax.docentric.com/multiple-projects-on-d365fo-onebox-using-git/"/>
+        <updated>2023-07-17T10:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right version control for D365FO customizations and development makes the life of any team easier. In this session, our expert Klemen Novak, CTO at Docentric, discusses how Git compares to TFVC, branching capabilities and strategies, and demonstrates in action how to use Git […]
+The post Multiple Projects on D365FO Onebox Using Git appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Klemen Novak</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Managing and Monitoring consignment inventory Process using Vendor Collaboration in Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2732</id>
         <link href="https://exploredynamics365.home.blog/2023/07/17/managing-and-monitoring-consignment-inventory-process-using-vendor-collaboration-in-microsoft-dynamics-365-finance-and-operations/"/>
@@ -415,6 +437,17 @@ The post The power of AI in Viva Sales: Insights from Lori Lamkin and Nathalie D
         <summary type="html"><![CDATA[Hay una característica interesante en Dynamics 365 F&O que nos permite mandar notificaciones cuando se cambian, crean o eliminan datos: el framework de alertas. En este post, veremos cómo enviar las alertas como Business events, y enviar emails notificando a los usuarios usando un flujo de Power Automate. Cuando casi había terminado de escribir el… Continue Reading Alerta de F&O en Power Automate]]></summary>
         <author>
             <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Print Management for the Curious]]></title>
+        <id>https://ax.docentric.com/?p=26536</id>
+        <link href="https://ax.docentric.com/print-management-for-the-curious/"/>
+        <updated>2023-07-07T16:39:15.000Z</updated>
+        <summary type="html"><![CDATA[COMING SOON…
+The post Print Management for the Curious appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Albin Lotric</name>
         </author>
     </entry>
     <entry>
@@ -548,6 +581,17 @@ The post Boosting Productivity: Unleashing the Power of Dynamics 365 for Prospec
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Docentric story in Finance magazine: “Uspeli kot partnerji Microsofta”]]></title>
+        <id>https://ax.docentric.com/?p=26516</id>
+        <link href="https://ax.docentric.com/uspeli-kot-partnerji-microsofta/"/>
+        <updated>2023-06-30T07:43:51.000Z</updated>
+        <summary type="html"><![CDATA[For DOCENTRIC, it’s a great privilege 🙏 to appear in TOP Slovenian magazine Finance. This is a big recognition for us as a company who’s started growing from a really small piece of software, while today we see it more as a valuable opportunity for […]
+The post Docentric story in Finance magazine: “Uspeli kot partnerji Microsofta” appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Kristina Radomirovic Macek</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Navigate Through the Dynamics 365 Finance & Operations Interface]]></title>
         <id>https://www.encorebusiness.com/?p=57314</id>
         <link href="https://www.encorebusiness.com/blog/how-to-navigate-through-the-dynamics-365-finance-operations-interface/"/>
@@ -613,6 +657,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[Today we are launching Release Channels for model-driven apps in public and sovereign clouds. Release channels provide more choice for adopting new features in model driven apps and Dynamics 365 apps.  Rather than only being able to receive updates twice a year during the wave releases, you can choose some or all users to receive more frequent updates through monthly channel.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Print Management in Simple Words]]></title>
+        <id>https://ax.docentric.com/?p=26423</id>
+        <link href="https://ax.docentric.com/print-management-in-simple-words/"/>
+        <updated>2023-06-28T10:39:54.000Z</updated>
+        <summary type="html"><![CDATA[If you are looking for a concise and simple explanation of Print management, this article may be just what you need. This is the first of two articles explaining some of the most common and some useful print management features. Those of you who want […]
+The post Print Management in Simple Words appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Albin Lotric</name>
         </author>
     </entry>
     <entry>
@@ -1240,6 +1295,17 @@ The post Customize the conversation table for your business needs  appeared fir
         <summary type="html"><![CDATA[We are excited to announce the public preview of an easier than ever import from Excel experience. You can now upload your Excel files and turn them into full functional Dataverse tables as well as responsive canvas apps in a one-stop experience. Moreover, when Copilot is enabled, it will assist with your table creation by…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved D365FO Table Browser]]></title>
+        <id>https://ax.docentric.com/?p=26279</id>
+        <link href="https://ax.docentric.com/improved-d365fo-table-browser/"/>
+        <updated>2023-06-08T07:58:18.000Z</updated>
+        <summary type="html"><![CDATA[D365FO Table Browser is a utility form that shows the records from a D365FO table or view specified as the URL parameter. Since this form contains a regular grid showing the opened table records, users can search, filter and sort the data, export to Excel, […]
+The post Improved D365FO Table Browser appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Blaž Jensterle</name>
         </author>
     </entry>
     <entry>
@@ -3246,6 +3312,28 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Docentric AX 3.4.6 Released]]></title>
+        <id>https://ax.docentric.com/?p=26267</id>
+        <link href="https://ax.docentric.com/docentric-ax-3-4-6-released/"/>
+        <updated>2023-04-25T22:06:02.000Z</updated>
+        <summary type="html"><![CDATA[The new Docentric version 3.4.6 is out, with the cool new features you asked for! PDF/A Compliance is the central feature of this release, and we are excited that we manage to support it for all reports regardless of whether they are generated with Docentric […]
+The post Docentric AX 3.4.6 Released appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Irena Vujcic Pavlovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 3.x Change Log]]></title>
+        <id>http://ax.docentric.com/?p=7347</id>
+        <link href="https://ax.docentric.com/version-3-x-change-log/"/>
+        <updated>2023-04-25T19:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Version 3.4.6 Change Log Release date: 2023-04-25 NEW FEATURES PDF/A Compliance – Full Edition: – Generating PDF documents as PDF/A-compliant is supported by both Docentric Generator and SSRS Reporting Services. – Supported PDF/A standard versions: PDF/A-1, PDF/A-2 and PDF/A-3. – Supported PDF/A conformance levels: a, […]
+The post Version 3.x Change Log appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Ana Gligorijevic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Strategies for Maximizing Subscription Revenue with Dynamics 365 F&O]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:6957ca15-66b9-4bea-bf31-5f45b24a0c42</id>
         <link href="https://community.dynamics.com/ax/b/axmsdwnews/posts/strategies-for-maximizing-subscription-revenue-with-dynamics-365-f-o"/>
@@ -3854,6 +3942,17 @@ The post Securing a menu item is not enough – table permissions appeared first
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DynamicsCon 2023: What do D365FO Electronic Reporting and Warehouse Labels have in common?]]></title>
+        <id>https://ax.docentric.com/?p=26056</id>
+        <link href="https://ax.docentric.com/dynamicscon-2023-what-do-d365fo-electronic-reporting-and-warehouse-labels-have-in-common/"/>
+        <updated>2023-04-15T23:51:26.000Z</updated>
+        <summary type="html"><![CDATA[What do D365FO Electronic Reporting and Warehouse Labels have in common? Answer: Docentric transforms both of these complex frameworks into a user-friendly experience! Our experts Sanja Kolundžija & Albin Lotrič first show how anyone who knows how to use MS Word can design Docentric templates too. Then, they will present […]
+The post DynamicsCon 2023: What do D365FO Electronic Reporting and Warehouse Labels have in common? appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Sanja Kolundzija</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dynamics 365 Commerce Batch Tracked Products Errors When Posting Statements]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:179729a5-f2d6-4422-ac73-6ab350746057</id>
         <link href="https://community.dynamics.com/365/financeandoperations/b/axsupport/posts/dynamics-365-commerce-batch-tracked-products-errors-when-posting-statements"/>
@@ -4224,6 +4323,28 @@ On the heels of our Business Application…]]></summary>
 The post Release wave 1: Transforming customer experiences with generative AI and Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Lori Lamkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figure out your D365FO Print management setup]]></title>
+        <id>https://ax.docentric.com/?p=26022</id>
+        <link href="https://ax.docentric.com/figure-out-your-d365fo-print-management-setup/"/>
+        <updated>2023-04-11T10:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Do you have a complex D365FO Print management setup with heavily used Account or Document overrides? When your reports get printed with unexpected results, are you wondering what the heck is going on? In that case, welcome to the club 😊. That is why we […]
+The post Figure out your D365FO Print management setup appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Semir Teskeredžić</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDF/A Standard Versions and Conformance Levels]]></title>
+        <id>https://ax.docentric.com/?p=26159</id>
+        <link href="https://ax.docentric.com/pdf-a-standard-versions-and-conformance-levels/"/>
+        <updated>2023-04-10T23:10:12.000Z</updated>
+        <summary type="html"><![CDATA[The PDF/A standard defines specific requirements and constraints on the PDF file format to ensure that PDF/A-compliant documents are self-contained, device-independent and suitable for long-term archiving (the “A” stands for archive). These requirements include guidelines for fonts, color, metadata, transparency and other aspects of PDF […]
+The post PDF/A Standard Versions and Conformance Levels appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Ana Gligorijevic</name>
         </author>
     </entry>
     <entry>
