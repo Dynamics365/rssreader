@@ -8959,6 +8959,16 @@
       "siteUrl": "https://alexvoy.blogspot.com/",
       "articles": [
         {
+          "id": "https://alexvoy.blogspot.com/2023/07/xds-in-action-how-to-restraint-access.html",
+          "author": null,
+          "description": "Extensible Data Security (XDS) policies allow restraint access to D365FO data in a very flexible way.\nBusiness case: a user can see those purchase orders and their related confirmations only if he or she is Requester. The whole project can basically contain three objects: role, query, and policy.\n\n\n\n\nAfter creating a specific security role, we need to create a query with HCMWorker table so that it is filtered for the current user.\n\n\n\n\n\n\nAll constrained tables should be added to the policy by referencing a particular relation (PurchTable, for example, has two relations with HCMWorker table; thus, we need to pick up the required one related to Requester field)\n\n\n\n\n\n\n\n\nNote: we can create a join expression if a required relation does not exist for a given table.\n\n\nOnce the project built and synchronized, we can assign this new role along with some standard ones to a user. For example sake, I added Ada to my user.",
+          "link": "https://alexvoy.blogspot.com/2023/07/xds-in-action-how-to-restraint-access.html",
+          "publishedOn": "2023-07-28T22:19:00.003Z",
+          "wordCount": 2167,
+          "title": "XDS in action: How to restraint access to data based on the current user employee",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhzxeHspGQJWYfdM6oXqkW6D13t31GTVdny_MxnRqDCRs2BGGuI96B9hGMcAWqfg4TbPQVP82KISKf71sVjThd9w0r5wdqzel7j8n5GX4wtFhHemfcgdEE9t5voaFxWNmdHyruJUrvMV7vNowRPTS0Un6ylbE6Exks5revN78ReLrwlJuMNsl5XYQ6Fsjw=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://alexvoy.blogspot.com/2023/06/complete-packunpack-pack-for.html",
           "author": null,
           "description": "Usage\nWe can use pack-unpack methods in RunBaseBatch classes and all its descendants to save and/or store the state of an object, and then later re-instantiate the same object.\nWe need it, for example, to use the user's input for any batch job: some parameters can be used when a batch job is executed on the server. \nDocumentation\nMicrosoft doc article is here.\nQuote: \"A reinstantiated object is not the same object as the one that was saved. It is just an object of the same class whose members contain the same information.\" \nYou need to teleport your objects without a fly or other bugs.\nCase examples\nBasics\nBasic example of such a class is Tutorial_RunbaseBatch.\n\n\n    TransDate       transDate;\n    CustAccount     custAccount;\n\n    #define.CurrentVersion(1)\n    #localmacro.CurrentList\n     …",
@@ -9369,8 +9379,18 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "http://paragchapre.com/",
+      "siteUrl": "https://paragchapre.com/",
       "articles": [
+        {
+          "id": "https://paragchapre.com/?p=11966",
+          "author": "paragchapre@gmail.com",
+          "description": "Leveraging Power Platform in Dynamics 365 Finance and Operations for Customer Success\nThe post Power Platform for Dynamics 365 FinOps Functionals and developers appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/powerplatform-developers-functionals-d365fo/?utm_source=rss&utm_medium=rss&utm_campaign=powerplatform-developers-functionals-d365fo",
+          "publishedOn": "2023-07-28T01:25:10.000Z",
+          "wordCount": 2689,
+          "title": "Power Platform for Dynamics 365 FinOps Functionals and developers",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/07/Power-Platform-for-developers-and-functionals.png"
+        },
         {
           "id": "https://paragchapre.com/?p=11939",
           "author": "paragchapre@gmail.com",

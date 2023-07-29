@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-28T01:14:08.212Z</updated>
+    <updated>2023-07-29T01:14:24.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XDS in action: How to restraint access to data based on the current user employee]]></title>
+        <id>https://alexvoy.blogspot.com/2023/07/xds-in-action-how-to-restraint-access.html</id>
+        <link href="https://alexvoy.blogspot.com/2023/07/xds-in-action-how-to-restraint-access.html"/>
+        <updated>2023-07-28T22:19:00.003Z</updated>
+        <summary type="html"><![CDATA[Extensible Data Security (XDS) policies allow restraint access to D365FO data in a very flexible way.
+Business case: a user can see those purchase orders and their related confirmations only if he or she is Requester. The whole project can basically contain three objects: role, query, and policy.
+
+
+
+
+After creating a specific security role, we need to create a query with HCMWorker table so that it is filtered for the current user.
+
+
+
+
+
+
+All constrained tables should be added to the policy by referencing a particular relation (PurchTable, for example, has two relations with HCMWorker table; thus, we need to pick up the required one related to Requester field)
+
+
+
+
+
+
+
+
+Note: we can create a join expression if a required relation does not exist for a given table.
+
+
+Once the project built and synchronized, we can assign this new role along with some standard ones to a user. For example sake, I added Ada to my user.]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform for Dynamics 365 FinOps Functionals and developers]]></title>
+        <id>https://paragchapre.com/?p=11966</id>
+        <link href="https://paragchapre.com/powerplatform-developers-functionals-d365fo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=powerplatform-developers-functionals-d365fo"/>
+        <updated>2023-07-28T01:25:10.000Z</updated>
+        <summary type="html"><![CDATA[Leveraging Power Platform in Dynamics 365 Finance and Operations for Customer Success
+The post Power Platform for Dynamics 365 FinOps Functionals and developers appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up First Nation Exemptions in Dynamics GP Canadian Payroll]]></title>
         <id>https://www.encorebusiness.com/?p=57997</id>
