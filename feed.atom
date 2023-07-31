@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-07-30T01:18:03.479Z</updated>
+    <updated>2023-07-31T01:17:31.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Archive data in D365FO – Part 2 -Inventory Transactions]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2853</id>
+        <link href="https://anithasantosh.wordpress.com/2023/07/30/archive-data-in-d365fo-part-2-inventory-transactions/"/>
+        <updated>2023-07-30T19:12:47.000Z</updated>
+        <summary type="html"><![CDATA[In my earlier post , I detailed about archiving Sales order with the latest feature management. This post is on archiving ‘Inventory transactions‘ data . As we are aware, InventTrans table keeps increasing and consume maximum database space . System … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XDS in action: How to restraint access to data based on the current user employee]]></title>
         <id>https://alexvoy.blogspot.com/2023/07/xds-in-action-how-to-restraint-access.html</id>
@@ -21826,16 +21836,6 @@ It makes sense to]]></summary>
  Every Microsoft Dynamics AX customer who has migrated to the newest version of Microsoft Dynamics 365 Finance and Supply Chain Management must perform 8 Microsoft updates per...(read more)]]></summary>
         <author>
             <name>1ClickFactory Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Purchase Agreements Explained: Dynamics 365 Finance and Operations]]></title>
-        <id>https://dynamics-tips.com/?p=1989</id>
-        <link href="https://dynamics-tips.com/purchase-agreements/"/>
-        <updated>2021-07-30T13:49:18.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations a purchase agreement is the promise to buy a given quantity or value of a specific product or category from a specific vendor. Purchase]]></summary>
-        <author>
-            <name>Tim Woods</name>
         </author>
     </entry>
     <entry>

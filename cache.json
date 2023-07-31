@@ -4113,6 +4113,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2853",
+          "author": "AnithaEswaran",
+          "description": "In my earlier post , I detailed about archiving Sales order with the latest feature management. This post is on archiving ‘Inventory transactions‘ data . As we are aware, InventTrans table keeps increasing and consume maximum database space . System … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/07/30/archive-data-in-d365fo-part-2-inventory-transactions/",
+          "publishedOn": "2023-07-30T19:12:47.000Z",
+          "wordCount": 4030,
+          "title": "Archive data in D365FO – Part 2 -Inventory Transactions",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/07/image-31.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2823",
           "author": "AnithaEswaran",
           "description": "In this post, I will give a quick walkthrough of accessing free dev environment with Visual Studio, SSMS and URL. This can be used for training/development purpose. Click this link using Microsoft Learn account. If the browser is already signed … Continue reading →",
@@ -13897,16 +13907,6 @@
           "wordCount": 1108,
           "title": "Create and Use Product Templates: Dynamics 365 Finance and Operations",
           "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/08/Product-Template.jpg"
-        },
-        {
-          "id": "https://dynamics-tips.com/?p=1989",
-          "author": "Tim Woods",
-          "description": "In Dynamics 365 Finance and Operations a purchase agreement is the promise to buy a given quantity or value of a specific product or category from a specific vendor. Purchase",
-          "link": "https://dynamics-tips.com/purchase-agreements/",
-          "publishedOn": "2021-07-30T13:49:18.000Z",
-          "wordCount": 1844,
-          "title": "Purchase Agreements Explained: Dynamics 365 Finance and Operations",
-          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/07/Purchase-agreements.jpg"
         }
       ]
     },
