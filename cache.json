@@ -4590,6 +4590,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=3049",
+          "author": "peter.ramer",
+          "description": "In the last tutorial you learned how to export data to excel. Now, learn how to update data from Excel in D365. There are some changes that can be made much faster in Excel compared to within D365. For instance, you can do a ‘find and replace‘ within Microsoft Excel. Specifically, push ctrl-H for the... Continue Reading →\nThe post Update Data From Excel In D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/update-data-from-excel-in-d365/?utm_source=rss&utm_medium=rss&utm_campaign=update-data-from-excel-in-d365",
+          "publishedOn": "2023-07-31T13:00:00.000Z",
+          "wordCount": 3243,
+          "title": "Update Data From Excel In D365",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/07/Update-Data-From-Excel-In-D365.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=3023",
           "author": "peter.ramer",
           "description": "There is a joke I’ve heard that goes something like this. What is the most widely used ERP (Enterprise Resource Planning) System? The answer: Microsoft Excel. By and large, the many forms in Microsoft Dynamics 365 for Finance and Operations allow the system to work with data in many ways. However, there are some scenarios,... Continue Reading →\nThe post Export Data To Excel In D365 appeared first on Dynamics 365 Musings.",
@@ -7516,6 +7526,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2743",
+          "author": "Saurabh Bharti",
+          "description": "Intercompany trade serves as a valuable tool in a multi legal entity trading setup. It not only handles basic intercompany transactions effectively but also demonstrates its capability in managing complex multi-leg intercompany orders. In this video, I attempted to explore a more intricate scenario related to this feature Scenario I covered in this video from […]",
+          "link": "https://exploredynamics365.home.blog/2023/08/01/multi-leg-intercompany-order-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-07-31T21:42:08.000Z",
+          "wordCount": 2633,
+          "title": "Multi Leg intercompany order in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/1ceR_GNaI1c/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2736",
           "author": "Saurabh Bharti",
           "description": "Many times, during multi legal entity implementation we come across requirement where customer would like to maintain the cross company shared data which will help them to maintain the integrity and consistency across all the legal entities. In Microsoft dynamics 365 cross company data sharing helps us to achieve this requirement, it allows us: -Create […]",
@@ -8012,6 +8032,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2743",
+          "author": "Saurabh Bharti",
+          "description": "Intercompany trade serves as a valuable tool in a multi legal entity trading setup. It not only handles basic intercompany transactions effectively but also demonstrates its capability in managing complex multi-leg intercompany orders. In this video, I attempted to explore a more intricate scenario related to this feature Scenario I covered in this video from […]",
+          "link": "https://exploredynamics365.home.blog/2023/08/01/multi-leg-intercompany-order-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-07-31T21:42:08.000Z",
+          "wordCount": 2633,
+          "title": "Multi Leg intercompany order in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/1ceR_GNaI1c/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2736",
           "author": "Saurabh Bharti",
@@ -9511,7 +9541,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "https://paragchapre.com/",
+      "siteUrl": "http://paragchapre.com/",
       "articles": [
         {
           "id": "https://paragchapre.com/?p=11966",
