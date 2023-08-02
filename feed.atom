@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-01T01:24:30.279Z</updated>
+    <updated>2023-08-02T01:13:20.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Schedule Board in Dynamics 365 Project Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=58047</id>
+        <link href="https://www.encorebusiness.com/blog/schedule-board-in-dynamics-365-project-operations/"/>
+        <updated>2023-08-01T16:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Schedule Board in Dynamics 365 Project Operations
+The Schedule Board in Dynamics 365 Project Operations is great for managing resource availability and forecast utilization. Project Managers and Schedulers can look for team members that have the skills and availability to fulfill the resource requirements and accurately understand the team’s future workload. Once you’ve submitted a Resource Requirement request, the Schedule Board will...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Jorge Rodriguez-Torres</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot now powers deployment notes for pipelines in Power Platform]]></title>
+        <id>copilot-now-powers-deployment-notes-for-pipelines-in-power-platform</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/copilot-now-powers-deployment-notes-for-pipelines-in-power-platform/"/>
+        <updated>2023-08-01T08:07:58.000Z</updated>
+        <summary type="html"><![CDATA[Now announcing the Public Preview of Copilot-generated deployment notes for pipelines in Power Platform. Copilot comes to the pipelines deployment experience to help makers generate useful solution descriptions with AI, saving valuable time and providing accurate information in seconds.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multi Leg intercompany order in Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2743</id>
@@ -24,6 +47,16 @@
         <summary type="html"><![CDATA[Intercompany trade serves as a valuable tool in a multi legal entity trading setup. It not only handles basic intercompany transactions effectively but also demonstrates its capability in managing complex multi-leg intercompany orders. In this video, I attempted to explore a more intricate scenario related to this feature Scenario I covered in this video from […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new: Power Apps July 2023 Feature Update]]></title>
+        <id>whats-new-power-apps-july-2023-feature-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-july-2023-feature-update/"/>
+        <updated>2023-07-31T18:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. We’ve got a great set of updates across security, Power Fx, Collaboration and modernization of the end user experience.…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>

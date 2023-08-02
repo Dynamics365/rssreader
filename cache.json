@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=58047",
+          "author": "Jorge Rodriguez-Torres",
+          "description": "Schedule Board in Dynamics 365 Project Operations\nThe Schedule Board in Dynamics 365 Project Operations is great for managing resource availability and forecast utilization. Project Managers and Schedulers can look for team members that have the skills and availability to fulfill the resource requirements and accurately understand the team’s future workload. Once you’ve submitted a Resource Requirement request, the Schedule Board will...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/schedule-board-in-dynamics-365-project-operations/",
+          "publishedOn": "2023-08-01T16:05:10.000Z",
+          "wordCount": 1434,
+          "title": "Schedule Board in Dynamics 365 Project Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/CRM-blog-image.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=57997",
           "author": "Debra Huntly",
           "description": "How to Set Up First Nation Exemptions in Dynamics GP Canadian Payroll\nFor anyone using the latest version of Dynamics GP (currently GP 18.5) you might be interested to know how to set up First Nation exemptions in Canadian payroll. Follow these steps below to properly set this up for your organization. Update the TD1 Values on the Employee Card: 1. From the HR & Payroll page,...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -10437,7 +10447,7 @@
       ]
     },
     {
-      "title": "Dynamics 365FO/AX Finance & Controlling",
+      "title": "Microsoft BizApps Finance & Controlling",
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
@@ -14195,6 +14205,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "copilot-now-powers-deployment-notes-for-pipelines-in-power-platform",
+          "author": null,
+          "description": "Now announcing the Public Preview of Copilot-generated deployment notes for pipelines in Power Platform. Copilot comes to the pipelines deployment experience to help makers generate useful solution descriptions with AI, saving valuable time and providing accurate information in seconds.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/copilot-now-powers-deployment-notes-for-pipelines-in-power-platform/",
+          "publishedOn": "2023-08-01T08:07:58.000Z",
+          "wordCount": 1858,
+          "title": "Copilot now powers deployment notes for pipelines in Power Platform",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "whats-new-power-apps-july-2023-feature-update",
+          "author": null,
+          "description": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. We’ve got a great set of updates across security, Power Fx, Collaboration and modernization of the end user experience.…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-july-2023-feature-update/",
+          "publishedOn": "2023-07-31T18:29:21.000Z",
+          "wordCount": 3384,
+          "title": "What’s new: Power Apps July 2023 Feature Update",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/07/Copresence.png"
+        },
         {
           "id": "microsoft-power-apps-and-generative-ai-helps-citizen-maker-upskill-and-transform-career",
           "author": null,
