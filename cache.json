@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=58116",
+          "author": "Anthonia Okon",
+          "description": "Overview of Workflow in Microsoft Dynamics 365 Business Central\nApproval workflows is an advanced tool in Dynamics 365 Business Central that helps automate business processes, improve collaboration, and enhance overall user productivity. This blog will explore Business Central’s built-in workflow capabilities, from how it can be created and set up to what happens after it is enabled and utilized. Creation of Approval Workflows Before...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/overview-of-workflow-in-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2023-08-02T16:05:22.000Z",
+          "wordCount": 2090,
+          "title": "Overview of Workflow in Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=58047",
           "author": "Jorge Rodriguez-Torres",
           "description": "Schedule Board in Dynamics 365 Project Operations\nThe Schedule Board in Dynamics 365 Project Operations is great for managing resource availability and forecast utilization. Project Managers and Schedulers can look for team members that have the skills and availability to fulfill the resource requirements and accurately understand the team’s future workload. Once you’ve submitted a Resource Requirement request, the Schedule Board will...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -5907,6 +5917,36 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/01/use-copilot-with-sharepoint-knowledge-to-serve-your-customers/",
+          "author": "Mohit Shukla",
+          "description": "Customer Service administrators can easily configure Copilot settings to include an internal knowledge base or SharePoint.\nThe post Use Copilot with SharePoint knowledge to serve your customers  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/01/use-copilot-with-sharepoint-knowledge-to-serve-your-customers/",
+          "publishedOn": "2023-08-01T18:39:21.000Z",
+          "wordCount": 2425,
+          "title": "Use Copilot with SharePoint knowledge to serve your customers",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2014/07/7245.knowledgemanagement.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/07/31/customer-service-is-a-microsoft-teams-sport/",
+          "author": "Pratichi Dash",
+          "description": "With the enhancements in this release wave, Teams collaboration features (embedded chat, swarming, and Teams meeting integration) are even more robust.\nThe post Customer service is a (Microsoft) Teams sport  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/07/31/customer-service-is-a-microsoft-teams-sport/",
+          "publishedOn": "2023-07-31T15:30:55.000Z",
+          "wordCount": 2776,
+          "title": "Customer service is a (Microsoft) Teams sport",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/03/COllaborations.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/31/how-to-improve-business-kpis-with-connected-field-service/",
+          "author": "Safiyyah O’Quinn",
+          "description": "How does connected field service improve your key performance indicators (KPIs), you ask? Let’s discuss seven KPIs that will improve with a connected field service.\nThe post How to improve business KPIs with Connected Field Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/31/how-to-improve-business-kpis-with-connected-field-service/",
+          "publishedOn": "2023-07-31T15:00:00.000Z",
+          "wordCount": 2676,
+          "title": "How to improve business KPIs with Connected Field Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/07/CLO22_Factory_005.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/07/26/power-automate-process-mining-empowers-warehouses-to-boost-their-efficiency-significantly/",
           "author": "Galyna Fedorova",
           "description": "Every warehouse manager is keen on improving the processes on the warehouse floor. But where to start? What to optimize? It is far from easy to discover the bottlenecks. This is where the Power Automate Process Mining comes really handy. In the 10.0.35 release we ship the integration of Supply Chain Management Warehouse module with Power Automate Process Mining. This integration gives some really valuable insight into the material movement in the warehouse. \nThe post Power Automate Process Mining empowers warehouses to boost their efficiency significantly appeared first on Microsoft Dynamics 365 Blog.",
@@ -9553,6 +9593,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "http://paragchapre.com/",
       "articles": [
+        {
+          "id": "http://paragchapre.com/?p=11984",
+          "author": "paragchapre@gmail.com",
+          "description": "In 2021, Microsoft made an announcement stating that they would be migrating to the Dynamics 365 Human Resources (HR) module with Dynamics 365 Finance & Operations (F&O). As a result, customers currently using the D365 Human Resources application were instructed to transfer their standalone HR application to the Finance & Operations infrastructure by the end […]\nThe post Dynamics 365 Human Resources migration appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/dynamics-365-human-resources-migration/?utm_source=rss&utm_medium=rss&utm_campaign=dynamics-365-human-resources-migration",
+          "publishedOn": "2023-08-02T11:00:31.000Z",
+          "wordCount": 2341,
+          "title": "Dynamics 365 Human Resources migration",
+          "imageUrl": "http://paragchapre.com/wp-content/uploads/2023/08/HR-merge.png"
+        },
         {
           "id": "https://paragchapre.com/?p=11966",
           "author": "paragchapre@gmail.com",

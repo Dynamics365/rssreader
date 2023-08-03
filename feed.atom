@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-02T01:13:20.721Z</updated>
+    <updated>2023-08-03T01:14:43.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Overview of Workflow in Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=58116</id>
+        <link href="https://www.encorebusiness.com/blog/overview-of-workflow-in-microsoft-dynamics-365-business-central/"/>
+        <updated>2023-08-02T16:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Overview of Workflow in Microsoft Dynamics 365 Business Central
+Approval workflows is an advanced tool in Dynamics 365 Business Central that helps automate business processes, improve collaboration, and enhance overall user productivity. This blog will explore Business Central’s built-in workflow capabilities, from how it can be created and set up to what happens after it is enabled and utilized. Creation of Approval Workflows Before...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Anthonia Okon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Human Resources migration]]></title>
+        <id>http://paragchapre.com/?p=11984</id>
+        <link href="https://paragchapre.com/dynamics-365-human-resources-migration/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dynamics-365-human-resources-migration"/>
+        <updated>2023-08-02T11:00:31.000Z</updated>
+        <summary type="html"><![CDATA[In 2021, Microsoft made an announcement stating that they would be migrating to the Dynamics 365 Human Resources (HR) module with Dynamics 365 Finance & Operations (F&O). As a result, customers currently using the D365 Human Resources application were instructed to transfer their standalone HR application to the Finance & Operations infrastructure by the end […]
+The post Dynamics 365 Human Resources migration appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Copilot with SharePoint knowledge to serve your customers]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/08/01/use-copilot-with-sharepoint-knowledge-to-serve-your-customers/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/08/01/use-copilot-with-sharepoint-knowledge-to-serve-your-customers/"/>
+        <updated>2023-08-01T18:39:21.000Z</updated>
+        <summary type="html"><![CDATA[Customer Service administrators can easily configure Copilot settings to include an internal knowledge base or SharePoint.
+The post Use Copilot with SharePoint knowledge to serve your customers  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mohit Shukla</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Schedule Board in Dynamics 365 Project Operations]]></title>
         <id>https://www.encorebusiness.com/?p=58047</id>
@@ -57,6 +92,28 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. We’ve got a great set of updates across security, Power Fx, Collaboration and modernization of the end user experience.…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customer service is a (Microsoft) Teams sport]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/07/31/customer-service-is-a-microsoft-teams-sport/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/07/31/customer-service-is-a-microsoft-teams-sport/"/>
+        <updated>2023-07-31T15:30:55.000Z</updated>
+        <summary type="html"><![CDATA[With the enhancements in this release wave, Teams collaboration features (embedded chat, swarming, and Teams meeting integration) are even more robust.
+The post Customer service is a (Microsoft) Teams sport  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Pratichi Dash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to improve business KPIs with Connected Field Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/31/how-to-improve-business-kpis-with-connected-field-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/31/how-to-improve-business-kpis-with-connected-field-service/"/>
+        <updated>2023-07-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How does connected field service improve your key performance indicators (KPIs), you ask? Let’s discuss seven KPIs that will improve with a connected field service.
+The post How to improve business KPIs with Connected Field Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Safiyyah O’Quinn</name>
         </author>
     </entry>
     <entry>
