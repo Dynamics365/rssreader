@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=58062",
+          "author": "Jorge Rodriguez-Torres",
+          "description": "Resource Utilization Board in Dynamics 365 Project Operations\nThe Resource Utilization Board in Dynamics 365 Project Operations helps Practice Leads and Team Leads visualize and keep track of the actual utilization rate of the resources in your organization. The Resource Utilization Board shows you all bookable resources’ time entries compared to their capacity and expected utilization rate. Once you have defined the expected...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/resource-utilization-board-in-d365-project-operations/",
+          "publishedOn": "2023-08-03T16:52:06.000Z",
+          "wordCount": 1533,
+          "title": "Resource Utilization Board in Dynamics 365 Project Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/CRM-blog-image.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=58116",
           "author": "Anthonia Okon",
           "description": "Overview of Workflow in Microsoft Dynamics 365 Business Central\nApproval workflows is an advanced tool in Dynamics 365 Business Central that helps automate business processes, improve collaboration, and enhance overall user productivity. This blog will explore Business Central’s built-in workflow capabilities, from how it can be created and set up to what happens after it is enabled and utilized. Creation of Approval Workflows Before...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -9594,6 +9604,16 @@
       "siteUrl": "http://paragchapre.com/",
       "articles": [
         {
+          "id": "http://paragchapre.com/?p=12013",
+          "author": "paragchapre@gmail.com",
+          "description": "Introduction In 2021, Microsoft made an announcement stating that they would be combining the Dynamics 365 Human Resources (HR) module with Dynamics 365 Finance & Operations (F&O). As a result, customers currently using the D365 Human Resources application were instructed to transfer their standalone HR application to the Finance & Operations infrastructure by the end […]\nThe post Get started with Dynamics 365 Human Resources migration appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/dynamics365-hr-migration/?utm_source=rss&utm_medium=rss&utm_campaign=dynamics365-hr-migration",
+          "publishedOn": "2023-08-03T03:16:54.000Z",
+          "wordCount": 2965,
+          "title": "Get started with Dynamics 365 Human Resources migration",
+          "imageUrl": "http://paragchapre.com/wp-content/uploads/2023/08/HR-migration.png"
+        },
+        {
           "id": "http://paragchapre.com/?p=11984",
           "author": "paragchapre@gmail.com",
           "description": "In 2021, Microsoft made an announcement stating that they would be migrating to the Dynamics 365 Human Resources (HR) module with Dynamics 365 Finance & Operations (F&O). As a result, customers currently using the D365 Human Resources application were instructed to transfer their standalone HR application to the Finance & Operations infrastructure by the end […]\nThe post Dynamics 365 Human Resources migration appeared first on Parag Chapre.",
@@ -10501,6 +10521,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5258",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/08/03/financial-planning-with-the-powerplatform/",
+          "publishedOn": "2023-08-03T05:18:19.000Z",
+          "wordCount": 2831,
+          "title": "Financial planning with the PowerPlatform",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/07/englishintroen.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5244",
           "author": "Ludwig Reinhard",
@@ -14255,6 +14285,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "new-power-apps-home-page-now-generally-available-with-expanded-copilot-access",
+          "author": null,
+          "description": "We are excited to announce that the new Power Apps home page is now generally available for all users. The new home page features a modern design that offers an intuitive and user-friendly experience. The new layout showcases the latest AI Copilot app creation flow, plus simplified “Start from” options, making it easier than ever…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/new-power-apps-home-page-now-generally-available-with-expanded-copilot-access/",
+          "publishedOn": "2023-08-03T08:00:00.000Z",
+          "wordCount": 1879,
+          "title": "New Power Apps home page now generally available with expanded Copilot access",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/07/New_NL2table_e2e.gif"
+        },
         {
           "id": "copilot-now-powers-deployment-notes-for-pipelines-in-power-platform",
           "author": null,
