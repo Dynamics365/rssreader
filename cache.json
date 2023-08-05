@@ -5927,6 +5927,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/02/conversation-intelligence-unleashes-the-potential-of-your-sales-organization/",
+          "author": "Asaf Tzuk",
+          "description": "Effective communication is vital in building strong customer relationships and closing deals.\nThe post Conversation intelligence unleashes the potential of your sales organization appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/02/conversation-intelligence-unleashes-the-potential-of-your-sales-organization/",
+          "publishedOn": "2023-08-02T17:15:00.000Z",
+          "wordCount": 2440,
+          "title": "Conversation intelligence unleashes the potential of your sales organization",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/08/CLO17_callCenter_009.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/02/the-early-reviews-are-in-dynamics-365-copilot-helps-to-reclaim-time-drive-innovation-and-engage-customers/",
+          "author": "Emily He",
+          "description": "Only months after announcing copilot capabilities in Microsoft Dynamics 365 and Power Platform, employees at more than 63,000 organizations—including brands like 3M, Prada Group, Campari, and Kraft Heinz—have had the opportunity to experience some of the AI-assisted features firsthand—and the reviews are pouring in. A common theme in the feedback we’ve received is a boost in efficiency and productivity, with employees able to reduce the time and effort spent completing common tasks.\nThe post The early reviews are in: Dynamics 365 Copilot helps to reclaim time, drive innovation, and engage customers    appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/02/the-early-reviews-are-in-dynamics-365-copilot-helps-to-reclaim-time-drive-innovation-and-engage-customers/",
+          "publishedOn": "2023-08-02T16:00:00.000Z",
+          "wordCount": 3180,
+          "title": "The early reviews are in: Dynamics 365 Copilot helps to reclaim time, drive innovation, and engage customers",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/07/CLO20_Demi_008_yoast.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/01/use-copilot-with-sharepoint-knowledge-to-serve-your-customers/",
           "author": "Mohit Shukla",
           "description": "Customer Service administrators can easily configure Copilot settings to include an internal knowledge base or SharePoint.\nThe post Use Copilot with SharePoint knowledge to serve your customers  appeared first on Microsoft Dynamics 365 Blog.",
@@ -9073,6 +9093,26 @@
       "feedUrl": "https://alexvoy.blogspot.com/feeds/posts/default",
       "siteUrl": "https://alexvoy.blogspot.com/",
       "articles": [
+        {
+          "id": "https://alexvoy.blogspot.com/2023/08/how-to-selectunselect-all-records-in.html",
+          "author": null,
+          "description": "While adding standard command button you can opt for SelectAll to mark all records in a form grid. However, there is no such a command for the opposite - unselect all records.\n\n\nYou can easily achieve it by using the following method and two usual button form controls.\n\n  \n\n[Form]\npublic class mgcDeleteForm extends FormRun\n{\n    public void selectAll(boolean _select)\n    {\n        VendPaymFormat_DS.markAllLoadedRecords(_select);\n    }\n\n    [Control(\"Button\")]\n    class FormButtonControlSelectAll\n    {\n        public void clicked()\n        {\n            element.selectAll(true);\n            super();\n        }\n    }\n\n    [Control(\"Button\")]\n    class FormButtonControlUnSelectAll\n    {\n        public void clicked()\n        {\n            element.selectAll(false);\n            super();\n        }\n    }\n}",
+          "link": "https://alexvoy.blogspot.com/2023/08/how-to-selectunselect-all-records-in.html",
+          "publishedOn": "2023-08-04T21:36:00.005Z",
+          "wordCount": 2091,
+          "title": "How to select\\unselect all records in a form grid",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUrc4B6q5LNiz6HbyJUBNzyhqdxIThggSQQedgI0N96sH3oQGnLmwFS1izKrp9vuwWUrWjNYRXtrivzLBDDZ4M5OxweL3-o8DKNo27v6C8d3KS6WD2ViL3L_JTp8hEFmvR2piEfvovTno-udryhEONJT_Kca8S_Q_wFqiQd0EUV2HKBxPyh2xAZkc0rvQ/w1200-h630-p-k-no-nu/commandButton.jpg"
+        },
+        {
+          "id": "https://alexvoy.blogspot.com/2023/08/how-to-get-rid-of-stuck-report-design.html",
+          "author": null,
+          "description": "It is difficult to say if your recent changes to an SSRS report design are really deployed. I suggest that any textbox be colored to visualize it (you can revert it in the end).\nHowever, sometimes previous design is stuck on the server, and you still see no changes deployed, nevertheless, you already restarted Reporting services. Fortunately, there is a direct way to delete such a stubborn report from the server.\nOpen Report Server configuration manager as administrator and apply Portal URL setting if it is not done yet.\n\n\nThen go for your report and delete it.\n\n\nNext deployment should be OK.",
+          "link": "https://alexvoy.blogspot.com/2023/08/how-to-get-rid-of-stuck-report-design.html",
+          "publishedOn": "2023-08-04T20:13:00.005Z",
+          "wordCount": 2110,
+          "title": "How to get rid of a stuck report design in SSRS",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHhRRFjBwMw9ZZKIyHUl02BwBauXWCX9nXBfT322fnwgrKjtIGcpvhiuCl6sSEdC6yBcnxW7A-N94ZOwuacF1lY1wFdaZEi75vowh0XThQP1U0QeFgzny8HZLRxuL1QP-ZloqUN4dMTjonUmqvcdV9JKDc3Y-eRxPgQLawmlcsgYAinY9XQmKGWO1ylDM/w1200-h630-p-k-no-nu/browse%20reports.jpg"
+        },
         {
           "id": "https://alexvoy.blogspot.com/2023/07/xds-in-action-how-to-restraint-access.html",
           "author": null,
@@ -14017,16 +14057,6 @@
           "wordCount": 1904,
           "title": "Location Profiles Explained: D365 Finance and Operations",
           "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/10/LocationProfile.jpg"
-        },
-        {
-          "id": "https://dynamics-tips.com/?p=2011",
-          "author": "Tim Woods",
-          "description": "In Dynamics 365 Finance and Operations creating a product can be a tedious time consuming process simply because there are so many options for configuring the product. However, there is",
-          "link": "https://dynamics-tips.com/create-and-use-product-templates/",
-          "publishedOn": "2021-08-05T02:01:36.000Z",
-          "wordCount": 1108,
-          "title": "Create and Use Product Templates: Dynamics 365 Finance and Operations",
-          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/08/Product-Template.jpg"
         }
       ]
     },

@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-04T01:17:13.273Z</updated>
+    <updated>2023-08-05T01:13:13.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to select\unselect all records in a form grid]]></title>
+        <id>https://alexvoy.blogspot.com/2023/08/how-to-selectunselect-all-records-in.html</id>
+        <link href="https://alexvoy.blogspot.com/2023/08/how-to-selectunselect-all-records-in.html"/>
+        <updated>2023-08-04T21:36:00.005Z</updated>
+        <summary type="html"><![CDATA[While adding standard command button you can opt for SelectAll to mark all records in a form grid. However, there is no such a command for the opposite - unselect all records.
+
+
+You can easily achieve it by using the following method and two usual button form controls.
+
+  
+
+[Form]
+public class mgcDeleteForm extends FormRun
+{
+    public void selectAll(boolean _select)
+    {
+        VendPaymFormat_DS.markAllLoadedRecords(_select);
+    }
+
+    [Control("Button")]
+    class FormButtonControlSelectAll
+    {
+        public void clicked()
+        {
+            element.selectAll(true);
+            super();
+        }
+    }
+
+    [Control("Button")]
+    class FormButtonControlUnSelectAll
+    {
+        public void clicked()
+        {
+            element.selectAll(false);
+            super();
+        }
+    }
+}]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get rid of a stuck report design in SSRS]]></title>
+        <id>https://alexvoy.blogspot.com/2023/08/how-to-get-rid-of-stuck-report-design.html</id>
+        <link href="https://alexvoy.blogspot.com/2023/08/how-to-get-rid-of-stuck-report-design.html"/>
+        <updated>2023-08-04T20:13:00.005Z</updated>
+        <summary type="html"><![CDATA[It is difficult to say if your recent changes to an SSRS report design are really deployed. I suggest that any textbox be colored to visualize it (you can revert it in the end).
+However, sometimes previous design is stuck on the server, and you still see no changes deployed, nevertheless, you already restarted Reporting services. Fortunately, there is a direct way to delete such a stubborn report from the server.
+Open Report Server configuration manager as administrator and apply Portal URL setting if it is not done yet.
+
+
+Then go for your report and delete it.
+
+
+Next deployment should be OK.]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resource Utilization Board in Dynamics 365 Project Operations]]></title>
         <id>https://www.encorebusiness.com/?p=58062</id>
@@ -51,6 +113,17 @@ The post Get started with Dynamics 365 Human Resources migration appeared first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Conversation intelligence unleashes the potential of your sales organization]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/08/02/conversation-intelligence-unleashes-the-potential-of-your-sales-organization/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/08/02/conversation-intelligence-unleashes-the-potential-of-your-sales-organization/"/>
+        <updated>2023-08-02T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Effective communication is vital in building strong customer relationships and closing deals.
+The post Conversation intelligence unleashes the potential of your sales organization appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Asaf Tzuk</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Overview of Workflow in Microsoft Dynamics 365 Business Central]]></title>
         <id>https://www.encorebusiness.com/?p=58116</id>
         <link href="https://www.encorebusiness.com/blog/overview-of-workflow-in-microsoft-dynamics-365-business-central/"/>
@@ -61,6 +134,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Anthonia Okon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The early reviews are in: Dynamics 365 Copilot helps to reclaim time, drive innovation, and engage customers]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/02/the-early-reviews-are-in-dynamics-365-copilot-helps-to-reclaim-time-drive-innovation-and-engage-customers/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/02/the-early-reviews-are-in-dynamics-365-copilot-helps-to-reclaim-time-drive-innovation-and-engage-customers/"/>
+        <updated>2023-08-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Only months after announcing copilot capabilities in Microsoft Dynamics 365 and Power Platform, employees at more than 63,000 organizations—including brands like 3M, Prada Group, Campari, and Kraft Heinz—have had the opportunity to experience some of the AI-assisted features firsthand—and the reviews are pouring in. A common theme in the feedback we’ve received is a boost in efficiency and productivity, with employees able to reduce the time and effort spent completing common tasks.
+The post The early reviews are in: Dynamics 365 Copilot helps to reclaim time, drive innovation, and engage customers    appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Emily He</name>
         </author>
     </entry>
     <entry>
@@ -21980,16 +22064,6 @@ It makes sense to]]></summary>
 (read more)]]></summary>
         <author>
             <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create and Use Product Templates: Dynamics 365 Finance and Operations]]></title>
-        <id>https://dynamics-tips.com/?p=2011</id>
-        <link href="https://dynamics-tips.com/create-and-use-product-templates/"/>
-        <updated>2021-08-05T02:01:36.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations creating a product can be a tedious time consuming process simply because there are so many options for configuring the product. However, there is]]></summary>
-        <author>
-            <name>Tim Woods</name>
         </author>
     </entry>
     <entry>
