@@ -5927,6 +5927,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/03/create-cases-contacts-and-accounts-faster-from-notes-on-the-timeline/",
+          "author": "Shruti Chaurasia",
+          "description": "Dynamics 365 Customer Service enables agents to create a new case or associate an existing case with notes they write on the customer timeline.\nThe post Create cases, contacts, and accounts faster from notes on the timeline  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/03/create-cases-contacts-and-accounts-faster-from-notes-on-the-timeline/",
+          "publishedOn": "2023-08-03T16:00:00.000Z",
+          "wordCount": 2526,
+          "title": "Create cases, contacts, and accounts faster from notes on the timeline",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2020/06/CLO18_headset_003-1024x683.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/02/conversation-intelligence-unleashes-the-potential-of-your-sales-organization/",
           "author": "Asaf Tzuk",
           "description": "Effective communication is vital in building strong customer relationships and closing deals.\nThe post Conversation intelligence unleashes the potential of your sales organization appeared first on Microsoft Dynamics 365 Blog.",
@@ -7518,6 +7528,16 @@
       "feedUrl": "https://dev.goshoom.net/feed/",
       "siteUrl": "https://dev.goshoom.net",
       "articles": [
+        {
+          "id": "https://dev.goshoom.net/?p=9875",
+          "author": "Martin Dráb",
+          "description": "The usual setup (documented by Microsoft) of version control for F&O is using Team Foundation Version Control and configuring the workspace mapping like this: $/MyProject/Trunk/Main/Metadata k:\\AosService\\PackagesLocalDirectory $/MyProject/Trunk/Main/Projects c:\\Users\\Admin123456789\\Documents\\Visual Studio 2019\\Projects This means that PackagesLocalDirectory contains both standard packages (such as ApplicationSuite) and custom packages, i.e. your development and ISV solutions you’ve installed. This works fine ...\nContinue reading ‘F&O development with multiple version control workspaces’ »",
+          "link": "https://dev.goshoom.net/2023/08/fo-development-with-multiple-version-control-workspaces/",
+          "publishedOn": "2023-08-06T07:16:50.000Z",
+          "wordCount": 1923,
+          "title": "F&O development with multiple version control workspaces",
+          "imageUrl": null
+        },
         {
           "id": "https://dev.goshoom.net/?p=9853",
           "author": "Martin Dráb",
@@ -9537,6 +9557,16 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=26726",
+          "author": "Albin Lotric",
+          "description": "In this presentation, our expert, Albin Lotrič, first explains the basics of Electronic Reporting and Configurable Business Documents (ER/CBD). Then, the process of customizing existing ER configurations by deriving them from the original Microsoft configurations is presented. The customization includes the changes in the configurations […]\nThe post Electronic Reporting & Configurable Business Documents with Docentric Enhancements appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/electronic-reporting-configurable-business-documents-with-docentric-enhancements/",
+          "publishedOn": "2023-08-06T19:37:37.000Z",
+          "wordCount": 11378,
+          "title": "Electronic Reporting & Configurable Business Documents with Docentric Enhancements",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/08/Albin-Deutschland-UG-Presentation.jpg"
+        },
+        {
           "id": "https://ax.docentric.com/?p=26525",
           "author": "Nenad Krantic",
           "description": "Security is a big part of D365FO and in this article we will go over some particulars of checking user privileges/duties, which might not be immediately obvious. Usually security is taken care of, for the most part, by the security framework, which is utilized by […]\nThe post X++ Tips and Tricks: Checking Security Privileges or Duties of a User in X++ appeared first on Docentric AX.",
@@ -9545,6 +9575,36 @@
           "wordCount": 12306,
           "title": "X++ Tips and Tricks: Checking Security Privileges or Duties of a User in X++",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/07/D365Blog_CheckingSecurityInCode_Title.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=26680",
+          "author": "Miha Vuk",
+          "description": "How to use images in outgoing emails In general, there are 3 ways to embed images in your emails: Inline embedded CID images Embed an image using CID (Content-ID) in the HTML of the body, while attaching it to mail message (as Linked Resource). Cons: […]\nThe post Support Images in Outgoing Emails in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/support-images-in-outgoing-emails-in-d365fo/",
+          "publishedOn": "2023-07-25T10:58:54.000Z",
+          "wordCount": 12430,
+          "title": "Support Images in Outgoing Emails in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/08/02-03-Support-images-in-outgoing-emails-in-D365FO.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=26672",
+          "author": "Jovica Zivkovic",
+          "description": "Hey guys! Did you know that there is a hack how to skip next in an extended X++ method, wrapped using CoC (Chain of Command), which is NOT decorated with the Replaceable attribute? This hack works also inside a transaction (ttslevel > 0) 😀 WARNING: […]\nThe post How to skip next in CoC of a method in X++ appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/how-to-skip-next-in-coc-of-a-method-in-xpp/",
+          "publishedOn": "2023-07-22T10:46:13.000Z",
+          "wordCount": 11719,
+          "title": "How to skip next in CoC of a method in X++",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/08/02-02-How-to-skip-next-in-CoC-of-a-method-in-X.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=26641",
+          "author": "Vilko Jenko",
+          "description": "How String.Split() works in C# Check the Microsoft documentation on String.Split() >> The optional parameter of type StringSplitOptions allows you to specify options such as whether to omit empty substrings from the returned array or trim whitespace from substrings. This enumeration supports a bitwise combination […]\nThe post Improved strSplit() method in X++ appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/improved-strsplit-method-in-xpp/",
+          "publishedOn": "2023-07-20T10:44:56.000Z",
+          "wordCount": 13281,
+          "title": "Improved strSplit() method in X++",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/08/02-01-Improved-strSplit-method-in-X.jpg"
         },
         {
           "id": "https://ax.docentric.com/?p=26390",

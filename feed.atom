@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-06T01:10:13.217Z</updated>
+    <updated>2023-08-07T01:15:50.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Electronic Reporting & Configurable Business Documents with Docentric Enhancements]]></title>
+        <id>https://ax.docentric.com/?p=26726</id>
+        <link href="https://ax.docentric.com/electronic-reporting-configurable-business-documents-with-docentric-enhancements/"/>
+        <updated>2023-08-06T19:37:37.000Z</updated>
+        <summary type="html"><![CDATA[In this presentation, our expert, Albin Lotrič, first explains the basics of Electronic Reporting and Configurable Business Documents (ER/CBD). Then, the process of customizing existing ER configurations by deriving them from the original Microsoft configurations is presented. The customization includes the changes in the configurations […]
+The post Electronic Reporting & Configurable Business Documents with Docentric Enhancements appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Albin Lotric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F&O development with multiple version control workspaces]]></title>
+        <id>https://dev.goshoom.net/?p=9875</id>
+        <link href="https://dev.goshoom.net/2023/08/fo-development-with-multiple-version-control-workspaces/"/>
+        <updated>2023-08-06T07:16:50.000Z</updated>
+        <summary type="html"><![CDATA[The usual setup (documented by Microsoft) of version control for F&O is using Team Foundation Version Control and configuring the workspace mapping like this: $/MyProject/Trunk/Main/Metadata k:\AosService\PackagesLocalDirectory $/MyProject/Trunk/Main/Projects c:\Users\Admin123456789\Documents\Visual Studio 2019\Projects This means that PackagesLocalDirectory contains both standard packages (such as ApplicationSuite) and custom packages, i.e. your development and ISV solutions you’ve installed. This works fine ...
+Continue reading ‘F&O development with multiple version control workspaces’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X++ Tips and Tricks: Checking Security Privileges or Duties of a User in X++]]></title>
         <id>https://ax.docentric.com/?p=26525</id>
@@ -90,6 +112,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Jorge Rodriguez-Torres</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create cases, contacts, and accounts faster from notes on the timeline]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/08/03/create-cases-contacts-and-accounts-faster-from-notes-on-the-timeline/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/08/03/create-cases-contacts-and-accounts-faster-from-notes-on-the-timeline/"/>
+        <updated>2023-08-03T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Customer Service enables agents to create a new case or associate an existing case with notes they write on the customer timeline.
+The post Create cases, contacts, and accounts faster from notes on the timeline  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Shruti Chaurasia</name>
         </author>
     </entry>
     <entry>
@@ -360,6 +393,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Support Images in Outgoing Emails in D365FO]]></title>
+        <id>https://ax.docentric.com/?p=26680</id>
+        <link href="https://ax.docentric.com/support-images-in-outgoing-emails-in-d365fo/"/>
+        <updated>2023-07-25T10:58:54.000Z</updated>
+        <summary type="html"><![CDATA[How to use images in outgoing emails In general, there are 3 ways to embed images in your emails: Inline embedded CID images Embed an image using CID (Content-ID) in the HTML of the body, while attaching it to mail message (as Linked Resource). Cons: […]
+The post Support Images in Outgoing Emails in D365FO appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Miha Vuk</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deciphering consumer desires: Elevating customer journeys in retail CPG]]></title>
         <id>https://www.microsoft.com/en-us/industry/blog/consumer-goods/2023/07/24/deciphering-consumer-desires-elevating-customer-journeys-in-retail-cpg/</id>
         <link href="https://www.microsoft.com/en-us/industry/blog/consumer-goods/2023/07/24/deciphering-consumer-desires-elevating-customer-journeys-in-retail-cpg/"/>
@@ -409,6 +453,28 @@ The post Export Data To Excel In D365 appeared first on Dynamics 365 Musings.]]>
         <summary type="html"><![CDATA[Many times, during multi legal entity implementation we come across requirement where customer would like to maintain the cross company shared data which will help them to maintain the integrity and consistency across all the legal entities. In Microsoft dynamics 365 cross company data sharing helps us to achieve this requirement, it allows us: -Create […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to skip next in CoC of a method in X++]]></title>
+        <id>https://ax.docentric.com/?p=26672</id>
+        <link href="https://ax.docentric.com/how-to-skip-next-in-coc-of-a-method-in-xpp/"/>
+        <updated>2023-07-22T10:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys! Did you know that there is a hack how to skip next in an extended X++ method, wrapped using CoC (Chain of Command), which is NOT decorated with the Replaceable attribute? This hack works also inside a transaction (ttslevel > 0) 😀 WARNING: […]
+The post How to skip next in CoC of a method in X++ appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Jovica Zivkovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved strSplit() method in X++]]></title>
+        <id>https://ax.docentric.com/?p=26641</id>
+        <link href="https://ax.docentric.com/improved-strsplit-method-in-xpp/"/>
+        <updated>2023-07-20T10:44:56.000Z</updated>
+        <summary type="html"><![CDATA[How String.Split() works in C# Check the Microsoft documentation on String.Split() >> The optional parameter of type StringSplitOptions allows you to specify options such as whether to omit empty substrings from the returned array or trim whitespace from substrings. This enumeration supports a bitwise combination […]
+The post Improved strSplit() method in X++ appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Vilko Jenko</name>
         </author>
     </entry>
     <entry>
