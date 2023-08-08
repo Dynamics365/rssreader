@@ -3524,6 +3524,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2788",
+          "author": "Alex",
+          "description": "The warehouse mobile app is a way for end users to have external devices (such as RF guns) to interact with D365FO to improve efficiency with warehouse tasks. I recently had the opportunity to do a deep dive into how this functionality was secured and wanted to give an overview and then a set of […]\nThe post Warehouse Mobile Device Security Overview appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/08/07/warehouse-mobile-device-security-overview/",
+          "publishedOn": "2023-08-07T15:28:10.000Z",
+          "wordCount": 4692,
+          "title": "Warehouse Mobile Device Security Overview",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/08/1.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2753",
           "author": "Alex",
           "description": "Following up on my previous post about deploying a local VHD of D365FO, I wanted to show how you can then update your environment when Microsoft releases newer versions. The first step is to download the update deployable package from LCS by navigating to the Shared Asset Library: Then navigating to the ‘Software Deployable Package’: […]\nThe post Apply Environment Update to D365FO via Command Line appeared first on Alex Meyer.",
@@ -9714,6 +9724,16 @@
       "siteUrl": "http://paragchapre.com/",
       "articles": [
         {
+          "id": "https://paragchapre.com/?p=12051",
+          "author": "paragchapre@gmail.com",
+          "description": "In Dynamics 365 Finance and Operations, the reporting options for human resources are integrated with the Human Resources (HR) module, which is part of the core application. \nThe post Human Resources Reporting in Dynamics 365 Finance and Operations appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/human-resources-reporting-in-dynamics-365-finance-and-operations/?utm_source=rss&utm_medium=rss&utm_campaign=human-resources-reporting-in-dynamics-365-finance-and-operations",
+          "publishedOn": "2023-08-07T10:51:03.000Z",
+          "wordCount": 2998,
+          "title": "Human Resources Reporting in Dynamics 365 Finance and Operations",
+          "imageUrl": "http://paragchapre.com/wp-content/uploads/2023/08/HR-reporting.png"
+        },
+        {
           "id": "http://paragchapre.com/?p=12013",
           "author": "paragchapre@gmail.com",
           "description": "Introduction In 2021, Microsoft made an announcement stating that they would be combining the Dynamics 365 Human Resources (HR) module with Dynamics 365 Finance & Operations (F&O). As a result, customers currently using the D365 Human Resources application were instructed to transfer their standalone HR application to the Finance & Operations infrastructure by the end […]\nThe post Get started with Dynamics 365 Human Resources migration appeared first on Parag Chapre.",
@@ -10631,6 +10651,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5272",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/08/07/powervirtualagent-d365-document-handling/",
+          "publishedOn": "2023-08-07T07:17:01.000Z",
+          "wordCount": 2840,
+          "title": "PowerVirtualAgent & D365 Document Handling",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/08/orig-en.jpeg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5258",
           "author": "Ludwig Reinhard",

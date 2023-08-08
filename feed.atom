@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-07T01:15:50.857Z</updated>
+    <updated>2023-08-08T01:13:30.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Warehouse Mobile Device Security Overview]]></title>
+        <id>https://alexdmeyer.com/?p=2788</id>
+        <link href="https://alexdmeyer.com/2023/08/07/warehouse-mobile-device-security-overview/"/>
+        <updated>2023-08-07T15:28:10.000Z</updated>
+        <summary type="html"><![CDATA[The warehouse mobile app is a way for end users to have external devices (such as RF guns) to interact with D365FO to improve efficiency with warehouse tasks. I recently had the opportunity to do a deep dive into how this functionality was secured and wanted to give an overview and then a set of […]
+The post Warehouse Mobile Device Security Overview appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human Resources Reporting in Dynamics 365 Finance and Operations]]></title>
+        <id>https://paragchapre.com/?p=12051</id>
+        <link href="https://paragchapre.com/human-resources-reporting-in-dynamics-365-finance-and-operations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=human-resources-reporting-in-dynamics-365-finance-and-operations"/>
+        <updated>2023-08-07T10:51:03.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations, the reporting options for human resources are integrated with the Human Resources (HR) module, which is part of the core application. 
+The post Human Resources Reporting in Dynamics 365 Finance and Operations appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerVirtualAgent & D365 Document Handling]]></title>
+        <id>http://dynamicsax-fico.com/?p=5272</id>
+        <link href="https://dynamicsax-fico.com/2023/08/07/powervirtualagent-d365-document-handling/"/>
+        <updated>2023-08-07T07:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Electronic Reporting & Configurable Business Documents with Docentric Enhancements]]></title>
         <id>https://ax.docentric.com/?p=26726</id>
