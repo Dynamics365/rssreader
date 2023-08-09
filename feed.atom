@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-08T01:13:30.317Z</updated>
+    <updated>2023-08-09T01:16:53.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Create a New Number Series in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=58019</id>
+        <link href="https://www.encorebusiness.com/blog/how-to-create-a-new-number-series-in-d365-business-central/"/>
+        <updated>2023-08-08T15:28:40.000Z</updated>
+        <summary type="html"><![CDATA[How To Create a New Number Series in Dynamics 365 Business Central
+This blog will cover the set up for No. Series in Dynamics 365 Business Central including the number series used for EFT, Sales & Purchase Transactions, General Journal etc. Number series is used for numbering any Master Records and data transactions. No. Series can be used for a particular Master Record or transaction, and Business...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Abhishek Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSDyn365FO: Filter planned orders by pegging details]]></title>
+        <id>http://cleverax.wordpress.com/?p=591</id>
+        <link href="https://cleverax.wordpress.com/2023/08/08/msdynfo-filter-planned-orders-by-pegging-details/"/>
+        <updated>2023-08-08T06:47:42.000Z</updated>
+        <summary type="html"><![CDATA[I have been asked many times whether its possible to filter planned orders by pegging details, typical example is there is a large order coming for make-to-order items and planners would like to group and process them together. Another common ask is to be able to process separately orders that are pegged to open sales … Continue reading MSDyn365FO: Filter planned orders by pegging details →]]></summary>
+        <author>
+            <name>cleverax</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warehouse Mobile Device Security Overview]]></title>
         <id>https://alexdmeyer.com/?p=2788</id>
@@ -131,6 +154,17 @@ Then go for your report and delete it.
 Next deployment should be OK.]]></summary>
         <author>
             <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make more effective procurement decisions with Dynamics 365 Copilot in Supply Chain Management]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/08/04/make-more-effective-procurement-decisions-with-dynamics-365-copilot-in-supply-chain-management/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/08/04/make-more-effective-procurement-decisions-with-dynamics-365-copilot-in-supply-chain-management/"/>
+        <updated>2023-08-04T11:56:01.000Z</updated>
+        <summary type="html"><![CDATA[The Procurement Copilot is an advanced tool that empowers users to efficiently manage and assess changes to purchase orders on a large scale. By providing insights into the impact and risk associated with these changes, it greatly enhances procurement decision-making. With this tool, users can swiftly identify high-impact or low-impact alterations, enabling prompt actions to mitigate potential risks.
+The post Make more effective procurement decisions with Dynamics 365 Copilot in Supply Chain Management appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Christian Abeln and Denis Conway</name>
         </author>
     </entry>
     <entry>
