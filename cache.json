@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=57066",
+          "author": "To-Increase",
+          "description": "Engineering Change Management in D365 – Why You Need it for PLM-ERP Integration?\nThis blog originally appeared here on To-Increase’s blog page.  Integrating your PLM and ERP systems is a guaranteed recipe to enhance the productivity and efficiency of your manufacturing operations. At To-Increase, we help manufacturing companies gain this very benefit with a PLM-ERP integration solution that utilizes the Engineering Change Management module within Dynamics 365 Finance &...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/engineering-change-management-in-d365-why-you-need-it-for-plm-erp-integration/",
+          "publishedOn": "2023-08-09T15:20:09.000Z",
+          "wordCount": 2424,
+          "title": "Engineering Change Management in D365 – Why You Need it for PLM-ERP Integration?",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/08/ECM-in-D365-for-PLM-ERP-integration.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=58019",
           "author": "Abhishek Jain",
           "description": "How To Create a New Number Series in Dynamics 365 Business Central\nThis blog will cover the set up for No. Series in Dynamics 365 Business Central including the number series used for EFT, Sales & Purchase Transactions, General Journal etc. Number series is used for numbering any Master Records and data transactions. No. Series can be used for a particular Master Record or transaction, and Business...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -9432,16 +9442,6 @@
           "wordCount": 2293,
           "title": "DMF import records for multiple companies",
           "imageUrl": null
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2021/08/if-cloud-hosted-deployment-is-stuck-at.html",
-          "author": null,
-          "description": "If you see that your deployment process to a cloud-hosted environment hangs up at Preparation step with no failed steps and empty logs; it may be required to rotate the secrets.",
-          "link": "https://alexvoy.blogspot.com/2021/08/if-cloud-hosted-deployment-is-stuck-at.html",
-          "publishedOn": "2021-08-09T23:09:00.003Z",
-          "wordCount": 1997,
-          "title": "If cloud-hosted deployment is stuck at preparation",
-          "imageUrl": "https://1.bp.blogspot.com/-bxGeNOkRxN8/YRGz_HT31vI/AAAAAAADnag/pgjGeLpzFkUpPLVGhBciZl86anEfQowYACLcBGAsYHQ/w1200-h630-p-k-no-nu/Deployment%2Bfailed.jpg"
         }
       ]
     },
@@ -14445,6 +14445,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "the-biggest-power-platform-event-of-the-year-is-here-please-join-us-for-the-second-annual-power-platform-conference-sponsored-by-microsoft-this-october-in-las-vegas-discover-connect-and-explore",
+          "author": null,
+          "description": "The biggest Power Platform event of the year is here! Please join us for the second annual Power Platform Conference, sponsored by Microsoft, this October in Las Vegas! Discover, connect, and explore across keynotes, sessions, breakouts, and more – dedicated to all the goodness of Microsoft Power Platform. The conference will kick off October 1-2…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/the-biggest-power-platform-event-of-the-year-is-here-please-join-us-for-the-second-annual-power-platform-conference-sponsored-by-microsoft-this-october-in-las-vegas-discover-connect-and-explore/",
+          "publishedOn": "2023-08-09T09:00:50.000Z",
+          "wordCount": 1824,
+          "title": "Join us at the second Power Platform Conference this October in Las Vegas",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "july-2023-updates-for-modernization-in-power-apps-theming-and-more",
+          "author": null,
+          "description": "Note: This blog is in continuation of the announcement of modern controls coming to canvas apps & new look for model driven apps. You can find the June 2023 updates here. Modern controls updates in canvas apps In the month of July, there is critical progress made with exciting updates on theming, releasing new controls…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/july-2023-updates-for-modernization-in-power-apps-theming-and-more/",
+          "publishedOn": "2023-08-07T19:09:00.000Z",
+          "wordCount": 2325,
+          "title": "July 2023 updates for modernization in Power Apps – theming and more",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "new-power-apps-home-page-now-generally-available-with-expanded-copilot-access",
           "author": null,
