@@ -5957,6 +5957,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/07/productivity-across-borders-localized-content-now-on-microsoft-release-planner/",
+          "author": "Rohit Raj D",
+          "description": "Microsoft Release Planner will support the content in 11 new languages. \nThe post Productivity Across Borders: Localized Content now on Microsoft Release Planner  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/07/productivity-across-borders-localized-content-now-on-microsoft-release-planner/",
+          "publishedOn": "2023-08-07T15:49:00.000Z",
+          "wordCount": 2206,
+          "title": "Productivity Across Borders: Localized Content now on Microsoft Release Planner",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/08/M365CO20_MTR_Yearlink_onAndroid_004-scaled.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/04/make-more-effective-procurement-decisions-with-dynamics-365-copilot-in-supply-chain-management/",
           "author": "Christian Abeln and Denis Conway",
           "description": "The Procurement Copilot is an advanced tool that empowers users to efficiently manage and assess changes to purchase orders on a large scale. By providing insights into the impact and risk associated with these changes, it greatly enhances procurement decision-making. With this tool, users can swiftly identify high-impact or low-impact alterations, enabling prompt actions to mitigate potential risks.\nThe post Make more effective procurement decisions with Dynamics 365 Copilot in Supply Chain Management appeared first on Microsoft Dynamics 365 Blog.",
@@ -9518,16 +9528,6 @@
           "publishedOn": "2021-10-27T08:41:44.000Z",
           "wordCount": 759,
           "title": "[D365] Check Version without client (files)",
-          "imageUrl": "https://robscode.onl/content/images/2015/02/Black-Pattern-1680x1050.jpg"
-        },
-        {
-          "id": "62c06aea4cecce22d735c4d4",
-          "author": "Robin Kretzschmar",
-          "description": "Often one or more ISV solution can be found in larger projects.\nEither if they are bought to solve a specific problem in shorter time or to introduce industry specific functionality, they receive frequent updates and the project team or customer needs to deal with them.\nIt makes sense to",
-          "link": "https://robscode.onl/d365-how-to-update-isv-solutions-with-version-control/",
-          "publishedOn": "2021-08-10T13:32:30.000Z",
-          "wordCount": 983,
-          "title": "[D365] How to update ISV solutions with version control",
           "imageUrl": "https://robscode.onl/content/images/2015/02/Black-Pattern-1680x1050.jpg"
         }
       ]
