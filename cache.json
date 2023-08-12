@@ -5957,6 +5957,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/09/introducing-copilot-in-dynamics-365-field-service-helping-your-frontline-deliver-exceptional-service-with-next-generation-ai/",
+          "author": "Lili Cheng",
+          "description": "Delivering exceptional service is key for building customer preference and loyalty. But timely resolution can get challenging when fragmented tools make it hard to find the right information and service delivery gets delayed with lengthy data-entry processes. Today, we’re introducing Copilot in Microsoft Dynamics 365 Field Service, bringing the power of next-generation AI to service professionals on the frontline to speed time to resolution. \nThe post Introducing Copilot in Dynamics 365 Field Service, helping your frontline deliver exceptional service with next-generation AI appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/09/introducing-copilot-in-dynamics-365-field-service-helping-your-frontline-deliver-exceptional-service-with-next-generation-ai/",
+          "publishedOn": "2023-08-09T15:00:00.000Z",
+          "wordCount": 3543,
+          "title": "Introducing Copilot in Dynamics 365 Field Service, helping your frontline deliver exceptional service with next-generation AI",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/08/D365_Blog_Product-13_v2b_2500x1407_seo.png"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/07/productivity-across-borders-localized-content-now-on-microsoft-release-planner/",
           "author": "Rohit Raj D",
           "description": "Microsoft Release Planner will support the content in 11 new languages. \nThe post Productivity Across Borders: Localized Content now on Microsoft Release Planner  appeared first on Microsoft Dynamics 365 Blog.",
@@ -14020,16 +14030,6 @@
           "wordCount": 602,
           "title": "D365FO Infolog call stack",
           "imageUrl": "https://denistrunin.com/static/25614e3c5e6e493125c4886321e62398/a3b2d/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/xpptools-fileintegdmf/",
-          "author": null,
-          "description": "The blog post describes a sample approach to implement recurring file-based integration in D365FO using X++ and DMF",
-          "link": "https://denistrunin.com/xpptools-fileintegdmf/",
-          "publishedOn": "2021-08-11T22:12:03.000Z",
-          "wordCount": 1485,
-          "title": "Multicompany DMF integration in Dynamics 365 FinOps using X++",
-          "imageUrl": "https://denistrunin.com/static/8d61ca34e2f424ee443485f15c4ea8bb/5ca18/logo.png"
         }
       ]
     },

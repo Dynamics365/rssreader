@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-11T01:02:25.379Z</updated>
+    <updated>2023-08-12T01:01:22.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -17,6 +17,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>To-Increase</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Copilot in Dynamics 365 Field Service, helping your frontline deliver exceptional service with next-generation AI]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/09/introducing-copilot-in-dynamics-365-field-service-helping-your-frontline-deliver-exceptional-service-with-next-generation-ai/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/09/introducing-copilot-in-dynamics-365-field-service-helping-your-frontline-deliver-exceptional-service-with-next-generation-ai/"/>
+        <updated>2023-08-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Delivering exceptional service is key for building customer preference and loyalty. But timely resolution can get challenging when fragmented tools make it hard to find the right information and service delivery gets delayed with lengthy data-entry processes. Today, we’re introducing Copilot in Microsoft Dynamics 365 Field Service, bringing the power of next-generation AI to service professionals on the frontline to speed time to resolution. 
+The post Introducing Copilot in Dynamics 365 Field Service, helping your frontline deliver exceptional service with next-generation AI appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Lili Cheng</name>
         </author>
     </entry>
     <entry>
@@ -22208,16 +22219,6 @@ However, we can easily customize Data Entity copyCustomStagingToTarget method t
         <summary type="html"><![CDATA[Sometimes we have a situation where we need to restore data from tier 1 environments to tier 2 environments. Example of such a scenario is stored configuration data in Tier 1 instance which we want to load in tier 2 instance. You can follow below approach to export tier 1 DB to bacpac file. First […]]]></summary>
         <author>
             <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multicompany DMF integration in Dynamics 365 FinOps using X++]]></title>
-        <id>https://denistrunin.com/xpptools-fileintegdmf/</id>
-        <link href="https://denistrunin.com/xpptools-fileintegdmf/"/>
-        <updated>2021-08-11T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The blog post describes a sample approach to implement recurring file-based integration in D365FO using X++ and DMF]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
         </author>
     </entry>
     <entry>
