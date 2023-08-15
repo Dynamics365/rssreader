@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=45784",
+          "author": "Abhishek Jain",
+          "description": "How to Easily Import Data into Dynamics 365 Business Central\nLearn how to import data into Dynamics 365 Business Central, or modify existing records, using the Configuration Package. This blog discusses the areas in Dynamics 365 Business Central that you can use this import functionality, outlines step-by-step instructions on how to import data, and includes a video with instructions at the end of the article....\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-easily-import-data-into-dynamics-365-business-central/",
+          "publishedOn": "2023-08-14T14:25:14.000Z",
+          "wordCount": 2761,
+          "title": "How to Easily Import Data into Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=57066",
           "author": "To-Increase",
           "description": "Engineering Change Management in D365 – Why You Need it for PLM-ERP Integration?\nThis blog originally appeared here on To-Increase’s blog page.  Integrating your PLM and ERP systems is a guaranteed recipe to enhance the productivity and efficiency of your manufacturing operations. At To-Increase, we help manufacturing companies gain this very benefit with a PLM-ERP integration solution that utilizes the Engineering Change Management module within Dynamics 365 Finance &...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -14196,6 +14206,16 @@
       "siteUrl": "https://erconsult.eu/",
       "articles": [
         {
+          "id": "https://erconsult.eu/?p=7799",
+          "author": "Eugen Glasow",
+          "description": "One – if not the – notorious error in Dynamics 365 related to production and warehouse management manifests itself at the “Production floor execution” terminal during reporting as finished (RaF). On the screen, the error message “An error occurred while processing the job…” is displayed. In the activity center, you receive […]\nThe post Picking list journal: Inventory dimension Location must be specified appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/picking-list-journal-inventory-dimension-location-must-be-specified/",
+          "publishedOn": "2023-08-14T15:54:45.000Z",
+          "wordCount": 2538,
+          "title": "Picking list journal: Inventory dimension Location must be specified",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2023/08/LocationMustBeSpecified.png"
+        },
+        {
           "id": "https://erconsult.eu/?p=7709",
           "author": "Eugen Glasow",
           "description": "Low value parts such as bolts, screws, gaskets, clamps, and other fasteners, as well as small electric parts, are rarely retrieved from the main warehouse in the precise quantities by production order. Instead, they are stored in surplus at the workbenches, typically organized in boxes of various sizes. The usage of […]\nThe post Consumable “Kanban” parts in D365 Warehouse management appeared first on ER-Consult.",
@@ -14445,6 +14465,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-general-availability-of-custom-connectors-in-solutions-as-well-as-environment-variable-secrets",
+          "author": null,
+          "description": "We are thrilled to announce General Availability (GA) of a few connector related features within the Power Platform ecosystem including custom connectors in solutions, environment variable secrets using Azure Key Vault secrets, as well as connector activity logs.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-custom-connectors-in-solutions-as-well-as-environment-variable-secrets/",
+          "publishedOn": "2023-08-14T07:30:00.000Z",
+          "wordCount": 1811,
+          "title": "Announcing General Availability of Custom Connectors in Solutions as well as Environment Variable Secrets",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "the-biggest-power-platform-event-of-the-year-is-here-please-join-us-for-the-second-annual-power-platform-conference-sponsored-by-microsoft-this-october-in-las-vegas-discover-connect-and-explore",
           "author": null,

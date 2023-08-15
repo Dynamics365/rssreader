@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-14T01:03:46.578Z</updated>
+    <updated>2023-08-15T01:03:23.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Picking list journal: Inventory dimension Location must be specified]]></title>
+        <id>https://erconsult.eu/?p=7799</id>
+        <link href="https://erconsult.eu/blog/picking-list-journal-inventory-dimension-location-must-be-specified/"/>
+        <updated>2023-08-14T15:54:45.000Z</updated>
+        <summary type="html"><![CDATA[One – if not the – notorious error in Dynamics 365 related to production and warehouse management manifests itself at the “Production floor execution” terminal during reporting as finished (RaF). On the screen, the error message “An error occurred while processing the job…” is displayed. In the activity center, you receive […]
+The post Picking list journal: Inventory dimension Location must be specified appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Easily Import Data into Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=45784</id>
+        <link href="https://www.encorebusiness.com/blog/how-to-easily-import-data-into-dynamics-365-business-central/"/>
+        <updated>2023-08-14T14:25:14.000Z</updated>
+        <summary type="html"><![CDATA[How to Easily Import Data into Dynamics 365 Business Central
+Learn how to import data into Dynamics 365 Business Central, or modify existing records, using the Configuration Package. This blog discusses the areas in Dynamics 365 Business Central that you can use this import functionality, outlines step-by-step instructions on how to import data, and includes a video with instructions at the end of the article....
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Abhishek Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing General Availability of Custom Connectors in Solutions as well as Environment Variable Secrets]]></title>
+        <id>announcing-general-availability-of-custom-connectors-in-solutions-as-well-as-environment-variable-secrets</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-custom-connectors-in-solutions-as-well-as-environment-variable-secrets/"/>
+        <updated>2023-08-14T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We are thrilled to announce General Availability (GA) of a few connector related features within the Power Platform ecosystem including custom connectors in solutions, environment variable secrets using Azure Key Vault secrets, as well as connector activity logs.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Engineering Change Management in D365 – Why You Need it for PLM-ERP Integration?]]></title>
         <id>https://www.encorebusiness.com/?p=57066</id>
