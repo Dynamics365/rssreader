@@ -14466,6 +14466,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "secure-implicitly-shared-connections-in-preview",
+          "author": null,
+          "description": "We are excited to announce that secure implicitly shared connections are in full preview (default on for new apps.) This preview feature defaults to on for all new apps in Power Apps. Many customers have asked for this feature, and it is now available in all commercial regions as Preview. Power Apps’ implicitly shared connections…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/secure-implicitly-shared-connections-in-preview/",
+          "publishedOn": "2023-08-15T12:31:48.000Z",
+          "wordCount": 1645,
+          "title": "Secure implicitly shared connections in preview",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "announcing-general-availability-of-custom-connectors-in-solutions-as-well-as-environment-variable-secrets",
           "author": null,
           "description": "We are thrilled to announce General Availability (GA) of a few connector related features within the Power Platform ecosystem including custom connectors in solutions, environment variable secrets using Azure Key Vault secrets, as well as connector activity logs.",

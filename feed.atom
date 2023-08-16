@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-15T01:03:23.419Z</updated>
+    <updated>2023-08-16T01:02:44.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Secure implicitly shared connections in preview]]></title>
+        <id>secure-implicitly-shared-connections-in-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/secure-implicitly-shared-connections-in-preview/"/>
+        <updated>2023-08-15T12:31:48.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce that secure implicitly shared connections are in full preview (default on for new apps.) This preview feature defaults to on for all new apps in Power Apps. Many customers have asked for this feature, and it is now available in all commercial regions as Preview. Power Apps’ implicitly shared connections…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Picking list journal: Inventory dimension Location must be specified]]></title>
         <id>https://erconsult.eu/?p=7799</id>
