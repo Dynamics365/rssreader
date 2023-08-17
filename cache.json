@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "http://blog.encorebusiness.com/?p=7655",
+          "author": "Joann Bash",
+          "description": "Document Attachment Feature in Microsoft Dynamics GP\nThe Document Attachment feature in Microsoft Dynamics GP allows users to attach documents to various records within the Dynamics GP system. These documents can include invoices, receipts, contracts, images, and any other relevant files. This feature enhances the visibility and accessibility of documents associated with specific transactions or records, making it easier to retrieve supporting...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-gp-document-attach-feature/",
+          "publishedOn": "2023-08-16T14:24:19.000Z",
+          "wordCount": 2336,
+          "title": "Document Attachment Feature in Microsoft Dynamics GP",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=45784",
           "author": "Abhishek Jain",
           "description": "How to Easily Import Data into Dynamics 365 Business Central\nLearn how to import data into Dynamics 365 Business Central, or modify existing records, using the Configuration Package. This blog discusses the areas in Dynamics 365 Business Central that you can use this import functionality, outlines step-by-step instructions on how to import data, and includes a video with instructions at the end of the article....\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -9761,7 +9771,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "https://paragchapre.com/",
+      "siteUrl": "http://paragchapre.com/",
       "articles": [
         {
           "id": "https://paragchapre.com/?p=12051",

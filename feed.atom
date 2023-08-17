@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-16T01:02:44.755Z</updated>
+    <updated>2023-08-17T01:01:53.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Document Attachment Feature in Microsoft Dynamics GP]]></title>
+        <id>http://blog.encorebusiness.com/?p=7655</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-gp-document-attach-feature/"/>
+        <updated>2023-08-16T14:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Document Attachment Feature in Microsoft Dynamics GP
+The Document Attachment feature in Microsoft Dynamics GP allows users to attach documents to various records within the Dynamics GP system. These documents can include invoices, receipts, contracts, images, and any other relevant files. This feature enhances the visibility and accessibility of documents associated with specific transactions or records, making it easier to retrieve supporting...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Joann Bash</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secure implicitly shared connections in preview]]></title>
         <id>secure-implicitly-shared-connections-in-preview</id>
