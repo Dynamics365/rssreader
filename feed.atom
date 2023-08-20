@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-19T01:01:04.315Z</updated>
+    <updated>2023-08-20T01:05:38.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -47,6 +47,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[We are excited to announce that secure implicitly shared connections are in full preview (default on for new apps.) This preview feature defaults to on for all new apps in Power Apps. Many customers have asked for this feature, and it is now available in all commercial regions as Preview. Power Apps’ implicitly shared connections…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Print D365FO Reports Merged with Attachments to Network Printers]]></title>
+        <id>https://ax.docentric.com/?p=26718</id>
+        <link href="https://ax.docentric.com/print-d365fo-reports-merged-with-attachments-to-network-printers/"/>
+        <updated>2023-08-15T11:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Some time ago, we wrote an article on how to merge PDF product specifications to printed Purchase orders. Read the article >> The solution presented in the above article is based on capability to merge PDF documents using Docentric Free Edition utilities. It enables you […]
+The post Print D365FO Reports Merged with Attachments to Network Printers appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Jovica Zivkovic</name>
         </author>
     </entry>
     <entry>
@@ -22284,16 +22295,6 @@ However, we can easily customize Data Entity copyCustomStagingToTarget method t
         <link href="https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/posts/exporting-database-from-d365-fo-tier-1-environments-as-a-bacpac-file-using-ssms"/>
         <updated>2021-08-20T05:30:00.000Z</updated>
         <summary type="html"><![CDATA[Read complete post here(read more)]]></summary>
-        <author>
-            <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exporting database from D365 FO tier 1 environments as a bacpac file using SSMS.]]></title>
-        <id>http://elearnd365.com/?p=435</id>
-        <link href="https://elearnd365.com/2021/08/19/exporting-database-from-d365-fo-tier-1-environments-as-a-bacpac-file/"/>
-        <updated>2021-08-20T00:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes we have a situation where we need to restore data from tier 1 environments to tier 2 environments. Example of such a scenario is stored configuration data in Tier 1 instance which we want to load in tier 2 instance. You can follow below approach to export tier 1 DB to bacpac file. First […]]]></summary>
         <author>
             <name>Sukrut Parab</name>
         </author>

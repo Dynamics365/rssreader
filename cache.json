@@ -9637,6 +9637,16 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=26718",
+          "author": "Jovica Zivkovic",
+          "description": "Some time ago, we wrote an article on how to merge PDF product specifications to printed Purchase orders. Read the article >> The solution presented in the above article is based on capability to merge PDF documents using Docentric Free Edition utilities. It enables you […]\nThe post Print D365FO Reports Merged with Attachments to Network Printers appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/print-d365fo-reports-merged-with-attachments-to-network-printers/",
+          "publishedOn": "2023-08-15T11:20:18.000Z",
+          "wordCount": 12575,
+          "title": "Print D365FO Reports Merged with Attachments to Network Printers",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/08/D365Blog-Print-D365FO-Reports-Merged-with-Attachments-to-Network-Printers.jpg"
+        },
+        {
           "id": "https://ax.docentric.com/?p=26726",
           "author": "Albin Lotric",
           "description": "In this presentation, our expert, Albin Lotrič, first explains the basics of Electronic Reporting and Configurable Business Documents (ER/CBD). Then, the process of customizing existing ER configurations by deriving them from the original Microsoft configurations is presented. The customization includes the changes in the configurations […]\nThe post Electronic Reporting & Configurable Business Documents with Docentric Enhancements appeared first on Docentric AX.",
@@ -13963,16 +13973,6 @@
           "wordCount": 3323,
           "title": "Installing dual write components and deployment of Projects operations for Dataverse- Step by step",
           "imageUrl": "https://elearnd365.files.wordpress.com/2021/12/image1-1.jpg"
-        },
-        {
-          "id": "http://elearnd365.com/?p=435",
-          "author": "Sukrut Parab",
-          "description": "Sometimes we have a situation where we need to restore data from tier 1 environments to tier 2 environments. Example of such a scenario is stored configuration data in Tier 1 instance which we want to load in tier 2 instance. You can follow below approach to export tier 1 DB to bacpac file. First […]",
-          "link": "https://elearnd365.com/2021/08/19/exporting-database-from-d365-fo-tier-1-environments-as-a-bacpac-file/",
-          "publishedOn": "2021-08-20T00:39:00.000Z",
-          "wordCount": 3071,
-          "title": "Exporting database from D365 FO tier 1 environments as a bacpac file using SSMS.",
-          "imageUrl": "https://elearnd365.files.wordpress.com/2021/12/image1.jpg"
         }
       ]
     },
