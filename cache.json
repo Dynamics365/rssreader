@@ -4193,6 +4193,26 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2926",
+          "author": "AnithaEswaran",
+          "description": "In part 1, I explained about creating and training the model for document processsing. In this post, let us learn on using OCR(Optical Character Recognition) capabilities using AI model. AI Builder Text recognition is a prebuilt AI model that extracts … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/08/20/microsoft-ai-builder-challenge-recognize-text-with-ai-builder-learning-sharing-part-2/",
+          "publishedOn": "2023-08-20T21:03:48.000Z",
+          "wordCount": 4287,
+          "title": "Microsoft AI Builder Challenge – Recognize Text with AI builder – Learning & Sharing – Part 2",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/08/image-32.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2891",
+          "author": "AnithaEswaran",
+          "description": "As I have completed Microsoft AI builder challenge, it is time to share the knowledge with our community from the topics which I learnt as a part of this challenge. I am starting with Processing Custom Documents using AI Builder. … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/08/20/microsoft-ai-builder-challenge-process-custom-documents-learning-sharing-part-1/",
+          "publishedOn": "2023-08-20T18:21:54.000Z",
+          "wordCount": 3996,
+          "title": "Microsoft AI Builder Challenge – Process Custom Documents – Learning & Sharing – Part 1",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/08/image-1.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2853",
           "author": "AnithaEswaran",
           "description": "In my earlier post , I detailed about archiving Sales order with the latest feature management. This post is on archiving ‘Inventory transactions‘ data . As we are aware, InventTrans table keeps increasing and consume maximum database space . System … Continue reading →",

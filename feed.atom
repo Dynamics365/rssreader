@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-20T01:05:38.243Z</updated>
+    <updated>2023-08-21T01:03:22.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft AI Builder Challenge – Recognize Text with AI builder – Learning & Sharing – Part 2]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2926</id>
+        <link href="https://anithasantosh.wordpress.com/2023/08/20/microsoft-ai-builder-challenge-recognize-text-with-ai-builder-learning-sharing-part-2/"/>
+        <updated>2023-08-20T21:03:48.000Z</updated>
+        <summary type="html"><![CDATA[In part 1, I explained about creating and training the model for document processsing. In this post, let us learn on using OCR(Optical Character Recognition) capabilities using AI model. AI Builder Text recognition is a prebuilt AI model that extracts … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft AI Builder Challenge – Process Custom Documents – Learning & Sharing – Part 1]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2891</id>
+        <link href="https://anithasantosh.wordpress.com/2023/08/20/microsoft-ai-builder-challenge-process-custom-documents-learning-sharing-part-1/"/>
+        <updated>2023-08-20T18:21:54.000Z</updated>
+        <summary type="html"><![CDATA[As I have completed Microsoft AI builder challenge, it is time to share the knowledge with our community from the topics which I learnt as a part of this challenge. I am starting with Processing Custom Documents using AI Builder. … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learning Path to Become Microsoft Dynamics 365 Finance and Operations Functional Consultant]]></title>
         <id>http://exploredynamics365.home.blog/?p=2752</id>
