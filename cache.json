@@ -3564,6 +3564,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2798",
+          "author": "Alex",
+          "description": "Overview Number sequences are used to generate readable, unique identifiers for master data records and transaction records. These sequences are normally one of the first things set up after a legal entity is deployed. When either implementing or migrating these number sequences between environments you can utilize either the ‘SequenceTables’ or ‘SequenceV2Tables’ data entities to […]\nThe post Import Number Sequences via Data Entity appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/08/21/import-number-sequences-via-data-entity/",
+          "publishedOn": "2023-08-21T15:04:04.000Z",
+          "wordCount": 4340,
+          "title": "Import Number Sequences via Data Entity",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/08/1-1.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2788",
           "author": "Alex",
           "description": "The warehouse mobile app is a way for end users to have external devices (such as RF guns) to interact with D365FO to improve efficiency with warehouse tasks. I recently had the opportunity to do a deep dive into how this functionality was secured and wanted to give an overview and then a set of […]\nThe post Warehouse Mobile Device Security Overview appeared first on Alex Meyer.",
@@ -10752,6 +10762,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5058",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/08/21/hyper-automation-but-not-hyper-pollution/",
+          "publishedOn": "2023-08-21T05:10:04.000Z",
+          "wordCount": 2827,
+          "title": "Hyper-Automation but not Hyper-Pollution",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/04/englishtext.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5272",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -14515,6 +14535,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "copilot-brings-the-power-of-intelligence-to-your-favorite-power-apps",
+          "author": null,
+          "description": "Today, we are announcing the availability of Copilot for users of model-driven apps and a major expansion of Copilot control’s capabilities in canvas apps. Now, all Power Apps can be intelligent apps.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/copilot-brings-the-power-of-intelligence-to-your-favorite-power-apps/",
+          "publishedOn": "2023-08-21T10:31:00.000Z",
+          "wordCount": 2012,
+          "title": "Copilot brings the power of intelligence to your favorite Power Apps",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/08/Model-driven-Copilot-1.png"
+        },
         {
           "id": "secure-implicitly-shared-connections-in-preview",
           "author": null,
