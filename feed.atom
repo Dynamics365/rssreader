@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-22T01:04:19.005Z</updated>
+    <updated>2023-08-23T01:03:10.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vendor Evaluation in Dynamics 365 Finance & Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=58729</id>
+        <link href="https://www.encorebusiness.com/blog/vendor-evaluation-in-d365-finance-operations/"/>
+        <updated>2023-08-22T16:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Vendor Evaluation in Dynamics 365 Finance & Operations
+Vendor evaluation in Dynamics 365 Finance & Operations is a basic tool for comparing vendor performance. The Vendor evaluation tool provides users with data they need to make informed decisions about which vendor is the best choice for the procurement of goods. For instance, it can be used by the procurement team when entering and...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Kailey Acuña</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Active Directory applications to Microsoft Entra ID applications – D365FO 10.0.36]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2955</id>
+        <link href="https://anithasantosh.wordpress.com/2023/08/22/azure-active-directory-applications-to-microsoft-entra-id-applications-d365fo-10-0-36/"/>
+        <updated>2023-08-22T14:33:05.000Z</updated>
+        <summary type="html"><![CDATA[With the version 10.0.36, Azure Active Directory applications have been changed to Microsoft Entra ID applications]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add licenses to deployable package (pipeline)]]></title>
+        <id>1912</id>
+        <link href="http://daxonline.org/1912-add-licenses-to-deployable-package-pipeline.html"/>
+        <updated>2023-08-22T05:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Add licenses to deployable package
+
+- In the relevant branch create the 
+Licenses folder
+- add all required license files to that folder (txt files). If you have a deployable package with licenses you can get txt files from that deployable zip package (AosService\Scripts\License)
+- find the existing "
+Add Licenses to Deployable Package" step in the pipeline or add it
+
+- step should be placed just before Publish Artifact: Packages step
+- modify "
+Add Licenses to Deployable Package" step
+Check workspace mappings (
+Get sources step), in this case, it is getting sources directly to 
+$(Build.SourcesDirectory):
+Therefore
+ Search pattern should be: 
+$(Build.SourcesDirectory)\Licenses\*.txt
+More about 
+file matching options.
+Check 
+Copy Files to: Staging Directory to identify the location:
+Go to a…]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Import Number Sequences via Data Entity]]></title>
         <id>https://alexdmeyer.com/?p=2798</id>
@@ -75,6 +129,28 @@ The post Import Number Sequences via Data Entity appeared first on Alex Meyer.]]
         <summary type="html"><![CDATA[If you’re interested in embarking on the path of becoming a functional consultant for MS Dynamics 365 Finance and Operations but are uncertain about the specifics of this role, this video has been created with you in mind. Whether you’re a seasoned professional seeking to shift into consulting or a recent graduate, this video aims […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 ways mixed reality empowers frontline workers]]></title>
+        <id>https://www.microsoft.com/en-us/industry/blog/industrial-metaverse/2023/08/17/3-ways-mixed-reality-empowers-frontline-workers/</id>
+        <link href="https://www.microsoft.com/en-us/industry/blog/industrial-metaverse/2023/08/17/3-ways-mixed-reality-empowers-frontline-workers/"/>
+        <updated>2023-08-17T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By integrating the physical and digital worlds, mixed reality brings a modern approach to role-based training, support and service, as well as knowledge transfer. Microsoft Dynamics 365 Guides cultivates collaborative environments where people put knowledge into action. 
+The post 3 ways mixed reality empowers frontline workers appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Lili Cheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI at your service with Copilot in Microsoft Dynamics 365 Field Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/17/ai-at-your-service-with-copilot-in-microsoft-dynamics-365-field-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/17/ai-at-your-service-with-copilot-in-microsoft-dynamics-365-field-service/"/>
+        <updated>2023-08-17T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The era of AI is here, and it’s transforming how companies service customers in the field.
+The post AI at your service with Copilot in Microsoft Dynamics 365 Field Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Safiyyah O’Quinn</name>
         </author>
     </entry>
     <entry>
@@ -22328,16 +22404,6 @@ However, we can easily customize Data Entity copyCustomStagingToTarget method t
     /// run. In order to get full defaulting, row-by-row proce…]]></summary>
         <author>
             <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 – Building a business value review]]></title>
-        <id>http://kurthatlevik.com/?p=4245</id>
-        <link href="https://kurthatlevik.com/2021/08/23/d365-building-a-business-value-review/"/>
-        <updated>2021-08-23T11:47:59.000Z</updated>
-        <summary type="html"><![CDATA[Latest & greatest tech, faster, better and new possibilities, are from a consultancy perspective fun and rewarding. But it is very seldom that these aspects are the deciding factors when it come to implementing Dynamics 365. Any organization have a finite set of resources in terms of people, knowledge, money, and time. How to best … Continue reading D365 – Building a business value review]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
         </author>
     </entry>
     <entry>

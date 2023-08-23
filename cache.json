@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=58729",
+          "author": "Kailey Acuña",
+          "description": "Vendor Evaluation in Dynamics 365 Finance & Operations\nVendor evaluation in Dynamics 365 Finance & Operations is a basic tool for comparing vendor performance. The Vendor evaluation tool provides users with data they need to make informed decisions about which vendor is the best choice for the procurement of goods. For instance, it can be used by the procurement team when entering and...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/vendor-evaluation-in-d365-finance-operations/",
+          "publishedOn": "2023-08-22T16:12:31.000Z",
+          "wordCount": 2371,
+          "title": "Vendor Evaluation in Dynamics 365 Finance & Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
+        },
+        {
           "id": "http://blog.encorebusiness.com/?p=7655",
           "author": "Joann Bash",
           "description": "Document Attachment Feature in Microsoft Dynamics GP\nThe Document Attachment feature in Microsoft Dynamics GP allows users to attach documents to various records within the Dynamics GP system. These documents can include invoices, receipts, contracts, images, and any other relevant files. This feature enhances the visibility and accessibility of documents associated with specific transactions or records, making it easier to retrieve supporting...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -4203,6 +4213,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2955",
+          "author": "AnithaEswaran",
+          "description": "With the version 10.0.36, Azure Active Directory applications have been changed to Microsoft Entra ID applications",
+          "link": "https://anithasantosh.wordpress.com/2023/08/22/azure-active-directory-applications-to-microsoft-entra-id-applications-d365fo-10-0-36/",
+          "publishedOn": "2023-08-22T14:33:05.000Z",
+          "wordCount": 3666,
+          "title": "Azure Active Directory applications to Microsoft Entra ID applications – D365FO 10.0.36",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/08/image-34.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2926",
           "author": "AnithaEswaran",
           "description": "In part 1, I explained about creating and training the model for document processsing. In this post, let us learn on using OCR(Optical Character Recognition) capabilities using AI model. AI Builder Text recognition is a prebuilt AI model that extracts … Continue reading →",
@@ -5547,16 +5567,6 @@
           "wordCount": 2371,
           "title": "D365 : Use your data",
           "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/09/092721_1218_d365useyour1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4245",
-          "author": "Kurt Hatlevik",
-          "description": "Latest & greatest tech, faster, better and new possibilities, are from a consultancy perspective fun and rewarding. But it is very seldom that these aspects are the deciding factors when it come to implementing Dynamics 365. Any organization have a finite set of resources in terms of people, knowledge, money, and time. How to best … Continue reading D365 – Building a business value review",
-          "link": "https://kurthatlevik.com/2021/08/23/d365-building-a-business-value-review/",
-          "publishedOn": "2021-08-23T11:47:59.000Z",
-          "wordCount": 5719,
-          "title": "D365 – Building a business value review",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/08/082321_1130_d365buildin1.png?w=1200"
         }
       ]
     },
@@ -5739,6 +5749,16 @@
       "feedUrl": "https://daxonline.org/rss.xml",
       "siteUrl": "http://daxonline.org/",
       "articles": [
+        {
+          "id": "1912",
+          "author": "Vasiliy Kovalenko",
+          "description": "Add licenses to deployable package\n\n- In the relevant branch create the \nLicenses folder\n- add all required license files to that folder (txt files). If you have a deployable package with licenses you can get txt files from that deployable zip package (AosService\\Scripts\\License)\n- find the existing \"\nAdd Licenses to Deployable Package\" step in the pipeline or add it\n\n- step should be placed just before Publish Artifact: Packages step\n- modify \"\nAdd Licenses to Deployable Package\" step\nCheck workspace mappings (\nGet sources step), in this case, it is getting sources directly to \n$(Build.SourcesDirectory):\nTherefore\n Search pattern should be: \n$(Build.SourcesDirectory)\\Licenses\\*.txt\nMore about \nfile matching options.\nCheck \nCopy Files to: Staging Directory to identify the location:\nGo to a…",
+          "link": "http://daxonline.org/1912-add-licenses-to-deployable-package-pipeline.html",
+          "publishedOn": "2023-08-22T05:26:47.000Z",
+          "wordCount": 480,
+          "title": "Add licenses to deployable package (pipeline)",
+          "imageUrl": null
+        },
         {
           "id": "1900",
           "author": "Vasiliy Kovalenko",
@@ -6004,8 +6024,28 @@
     {
       "title": "Microsoft Dynamics 365 Blog",
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
-      "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
+      "siteUrl": "https://www.microsoft.com/en-us/industry/blog/industrial-metaverse/2023/08/17/3-ways-mixed-reality-empowers-frontline-workers/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/industry/blog/industrial-metaverse/2023/08/17/3-ways-mixed-reality-empowers-frontline-workers/",
+          "author": "Lili Cheng",
+          "description": "By integrating the physical and digital worlds, mixed reality brings a modern approach to role-based training, support and service, as well as knowledge transfer. Microsoft Dynamics 365 Guides cultivates collaborative environments where people put knowledge into action. \nThe post 3 ways mixed reality empowers frontline workers appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/industry/blog/industrial-metaverse/2023/08/17/3-ways-mixed-reality-empowers-frontline-workers/",
+          "publishedOn": "2023-08-17T19:00:00.000Z",
+          "wordCount": 2620,
+          "title": "3 ways mixed reality empowers frontline workers",
+          "imageUrl": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/08/D36523_semiconductor_009-1.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/17/ai-at-your-service-with-copilot-in-microsoft-dynamics-365-field-service/",
+          "author": "Safiyyah O’Quinn",
+          "description": "The era of AI is here, and it’s transforming how companies service customers in the field.\nThe post AI at your service with Copilot in Microsoft Dynamics 365 Field Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/17/ai-at-your-service-with-copilot-in-microsoft-dynamics-365-field-service/",
+          "publishedOn": "2023-08-17T17:00:00.000Z",
+          "wordCount": 2918,
+          "title": "AI at your service with Copilot in Microsoft Dynamics 365 Field Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/08/Field-service-employee.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/08/09/introducing-copilot-in-dynamics-365-field-service-helping-your-frontline-deliver-exceptional-service-with-next-generation-ai/",
           "author": "Lili Cheng",
