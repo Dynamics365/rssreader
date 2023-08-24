@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-23T01:03:10.675Z</updated>
+    <updated>2023-08-24T01:03:04.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The new D365 OCR invoice scanning functionality – an environmental perspective]]></title>
+        <id>http://dynamicsax-fico.com/?p=5065</id>
+        <link href="https://dynamicsax-fico.com/2023/08/24/the-new-d365-ocr-invoice-scanning-functionality-an-environmental-perspective/"/>
+        <updated>2023-08-24T00:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vendor Evaluation in Dynamics 365 Finance & Operations]]></title>
         <id>https://www.encorebusiness.com/?p=58729</id>
