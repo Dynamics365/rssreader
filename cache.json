@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=38690",
+          "author": "Ryan Fiorini",
+          "description": "Stuck Batches & Posting Interruptions in Dynamics GP\nHave you ever attempted to post a batch in Dynamics GP, only to receive one of the following error messages? “A batch is held in the Posting, Receiving, Busy, Marked, Locked or Edited status.” “Batch Failed to Complete Posting. Use the Batch Recovery Window to complete the posting process.” “Your previous transaction-level posting session has...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/stuck-batches-posting-interruptions-dynamics-gp/",
+          "publishedOn": "2023-08-24T14:12:02.000Z",
+          "wordCount": 2569,
+          "title": "Stuck Batches & Posting Interruptions in Dynamics GP",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=58729",
           "author": "Kailey Acuña",
           "description": "Vendor Evaluation in Dynamics 365 Finance & Operations\nVendor evaluation in Dynamics 365 Finance & Operations is a basic tool for comparing vendor performance. The Vendor evaluation tool provides users with data they need to make informed decisions about which vendor is the best choice for the procurement of goods. For instance, it can be used by the procurement team when entering and...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -5749,6 +5759,26 @@
       "feedUrl": "https://daxonline.org/rss.xml",
       "siteUrl": "http://daxonline.org/",
       "articles": [
+        {
+          "id": "1914",
+          "author": "Vasiliy Kovalenko",
+          "description": "Install the license file to a DEV/could hosted box:\nCMD\n\nBefore using CMD\n- replace **axdbadmin_from_lcs** value in the command \n- Make sure paths are correct\n- Correct the path/filename of the license file\nK:\\AosService\\PackagesLocalDirectory\\Bin\\Microsoft.Dynamics.AX.Deployment.Setup.exe --setupmode importlicensefile --metadatadir K:\\AosService\\PackagesLocalDirectory --bindir K:\\AosService\\PackagesLocalDirectory --sqlserver . --sqldatabase AxDB --sqluser axdbadmin --sqlpwd **axdbadmin_from_lcs** --licensefilename \"K:\\Licenses\\1_license.txt\" \nD365FO.Tools\n\n\nOpen PowerShell as Administrator \nInstallation of d365fo tools:\n\n\n\n\n\nInstall-Module -Name d365fo.tools\nInstall license\n\n\nInvoke-D365InstallLicense -Path c:\\Licenses\\license.txt\nhttps://github.com/d365collaborative/d365fo.tools/tree/master/docs",
+          "link": "http://daxonline.org/1914-install-license-file-to-a-dev-box.html",
+          "publishedOn": "2023-08-24T06:19:03.000Z",
+          "wordCount": 260,
+          "title": "Install license file to a DEV box",
+          "imageUrl": null
+        },
+        {
+          "id": "1913",
+          "author": "Vasiliy Kovalenko",
+          "description": "Tier 2: Enable/disable D365 maintenance mode can be done from LCS:\n\n\nThere are the following ways to enable/disable maintenance mode on DEV/could hosted boxes:\nSQL\n\nQuery status:\nuse AXDB;\nselect * from dbo.SQLSYSTEMVARIABLES where PARM = 'CONFIGURATIONMODE';\nuse AXDB;\nupdate SQLSYSTEMVARIABLES SET VALUE = 1 where PARM = 'CONFIGURATIONMODE';\nExecute DB sync\n\n\nDisable maintenance mode:\nuse AXDB;\nupdate SQLSYSTEMVARIABLES SET VALUE = 0 where PARM = 'CONFIGURATIONMODE';\nCMD\nOpen command prompt as administrator.\n\nEnable maintenance mode (replace **axdbadmin_from_lcs** value):\nK:\\AosService\\PackagesLocalDirectory\\Bin\\Microsoft.Dynamics.AX.Deployment.Setup.exe --metadatadir J:\\AosService\\PackagesLocalDirectory --bindir J:\\AosService\\PackagesLocalDirectory\\Bin --sqlserver . --sqldatabase axdb --sqluser axdbadmin --sqlpwd **axdbadmin_from_lcs** --setupmode maintenancemode --isinmaintenancemode true\n\nDisable maintenance mode  (replace **axdbadmin_from_lcs** value):\nK:\\AosService\\PackagesLocalDirectory\\Bin\\Microsoft.Dynamics.AX.Deployment.Setup.exe --metadatadir J:\\AosService\\PackagesLocalDirectory --bindir J:\\AosService\\PackagesLocalDirectory\\Bin --sqlserver . --sqldatabase axdb --sqluser axdbadmin --sqlpwd **axdbadmin_from_lcs** --setupmode maintenancemode --isinmaintenancemode false\n\nD365FO.Tools\nOpen PowerShell as Administrator \nInstallation of d365fo tools:\nInstall-Module -Name d365fo.tools\n\nQuery status:\nGet-D365MaintenanceMode\nEnable-D365MaintenanceMode\nDisable-D365MaintenanceMode\nhttps://github.com/d365collaborative/d365fo.tools/tree/master/docs",
+          "link": "http://daxonline.org/1913-enable-disable-d365-maintenance-mode.html",
+          "publishedOn": "2023-08-24T05:38:52.000Z",
+          "wordCount": 346,
+          "title": "Enable/disable D365 maintenance mode",
+          "imageUrl": null
+        },
         {
           "id": "1912",
           "author": "Vasiliy Kovalenko",
@@ -9871,7 +9901,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "http://paragchapre.com/",
+      "siteUrl": "https://paragchapre.com/",
       "articles": [
         {
           "id": "https://paragchapre.com/?p=12051",

@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-24T01:03:04.123Z</updated>
+    <updated>2023-08-25T01:05:09.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stuck Batches & Posting Interruptions in Dynamics GP]]></title>
+        <id>https://www.encorebusiness.com/?p=38690</id>
+        <link href="https://www.encorebusiness.com/blog/stuck-batches-posting-interruptions-dynamics-gp/"/>
+        <updated>2023-08-24T14:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Stuck Batches & Posting Interruptions in Dynamics GP
+Have you ever attempted to post a batch in Dynamics GP, only to receive one of the following error messages? “A batch is held in the Posting, Receiving, Busy, Marked, Locked or Edited status.” “Batch Failed to Complete Posting. Use the Batch Recovery Window to complete the posting process.” “Your previous transaction-level posting session has...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Ryan Fiorini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install license file to a DEV box]]></title>
+        <id>1914</id>
+        <link href="http://daxonline.org/1914-install-license-file-to-a-dev-box.html"/>
+        <updated>2023-08-24T06:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Install the license file to a DEV/could hosted box:
+CMD
+
+Before using CMD
+- replace **axdbadmin_from_lcs** value in the command 
+- Make sure paths are correct
+- Correct the path/filename of the license file
+K:\AosService\PackagesLocalDirectory\Bin\Microsoft.Dynamics.AX.Deployment.Setup.exe --setupmode importlicensefile --metadatadir K:\AosService\PackagesLocalDirectory --bindir K:\AosService\PackagesLocalDirectory --sqlserver . --sqldatabase AxDB --sqluser axdbadmin --sqlpwd **axdbadmin_from_lcs** --licensefilename "K:\Licenses\1_license.txt" 
+D365FO.Tools
+
+
+Open PowerShell as Administrator 
+Installation of d365fo tools:
+
+
+
+
+
+Install-Module -Name d365fo.tools
+Install license
+
+
+Invoke-D365InstallLicense -Path c:\Licenses\license.txt
+https://github.com/d365collaborative/d365fo.tools/tree/master/docs]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable/disable D365 maintenance mode]]></title>
+        <id>1913</id>
+        <link href="http://daxonline.org/1913-enable-disable-d365-maintenance-mode.html"/>
+        <updated>2023-08-24T05:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Tier 2: Enable/disable D365 maintenance mode can be done from LCS:
+
+
+There are the following ways to enable/disable maintenance mode on DEV/could hosted boxes:
+SQL
+
+Query status:
+use AXDB;
+select * from dbo.SQLSYSTEMVARIABLES where PARM = 'CONFIGURATIONMODE';
+use AXDB;
+update SQLSYSTEMVARIABLES SET VALUE = 1 where PARM = 'CONFIGURATIONMODE';
+Execute DB sync
+
+
+Disable maintenance mode:
+use AXDB;
+update SQLSYSTEMVARIABLES SET VALUE = 0 where PARM = 'CONFIGURATIONMODE';
+CMD
+Open command prompt as administrator.
+
+Enable maintenance mode (replace **axdbadmin_from_lcs** value):
+K:\AosService\PackagesLocalDirectory\Bin\Microsoft.Dynamics.AX.Deployment.Setup.exe --metadatadir J:\AosService\PackagesLocalDirectory --bindir J:\AosService\PackagesLocalDirectory\Bin --sqlserver . --sqldatabase axdb --sqluser axdbadmin --sqlpwd **axdbadmin_from_lcs** --setupmode maintenancemode --isinmaintenancemode true
+
+Disable maintenance mode  (replace **axdbadmin_from_lcs** value):
+K:\AosService\PackagesLocalDirectory\Bin\Microsoft.Dynamics.AX.Deployment.Setup.exe --metadatadir J:\AosService\PackagesLocalDirectory --bindir J:\AosService\PackagesLocalDirectory\Bin --sqlserver . --sqldatabase axdb --sqluser axdbadmin --sqlpwd **axdbadmin_from_lcs** --setupmode maintenancemode --isinmaintenancemode false
+
+D365FO.Tools
+Open PowerShell as Administrator 
+Installation of d365fo tools:
+Install-Module -Name d365fo.tools
+
+Query status:
+Get-D365MaintenanceMode
+Enable-D365MaintenanceMode
+Disable-D365MaintenanceMode
+https://github.com/d365collaborative/d365fo.tools/tree/master/docs]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The new D365 OCR invoice scanning functionality – an environmental perspective]]></title>
         <id>http://dynamicsax-fico.com/?p=5065</id>
