@@ -9592,16 +9592,6 @@
           "wordCount": 2358,
           "title": "Supporting functions to work with multiple selection of Enum values",
           "imageUrl": "https://lh3.googleusercontent.com/-iJYbfnjpqUQ/YbTyQn1UAfI/AAAAAAADxYk/Fc60EDB5gqkoXuK7Ceogq6gLr0WqV1MFACNcBGAsYHQ/w1200-h630-p-k-no-nu/image.png"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2021/08/dmf-import-records-for-multiple.html",
-          "author": null,
-          "description": "Say, we need to import Bank reconciliation records from an Excel file for many target companies at once.\nThe standard DMF approach does not allow to do so via DMF data entities out of the box.\nHowever, we can easily customize Data Entity copyCustomStagingToTarget method to loop through all companies encountered in an imported file lines.\n  \n\n/// <summary>\n    /// Performs a custom copy from the staging table to the target environment.\n    /// </summary>\n    /// <param name = \"_dmfDefinitionGroupExecution\">The definition group.</param>\n    /// <returns>A container of counts of [new records, updated records].</returns>\n    /// <remarks>\n    /// When doing set-based inserts, the full defaulting logic from LedgerJournalTrans is not\n    /// run. In order to get full defaulting, row-by-row proce…",
-          "link": "https://alexvoy.blogspot.com/2021/08/dmf-import-records-for-multiple.html",
-          "publishedOn": "2021-08-27T18:45:00.006Z",
-          "wordCount": 2293,
-          "title": "DMF import records for multiple companies",
-          "imageUrl": null
         }
       ]
     },
@@ -14611,6 +14601,53 @@
       "articles": []
     },
     {
+      "title": "D365 F&O",
+      "feedUrl": "https://axraja.blogspot.com/feeds/posts/default",
+      "siteUrl": "https://axraja.blogspot.com/",
+      "articles": [
+        {
+          "id": "https://axraja.blogspot.com/2023/05/postman-d365.html",
+          "author": null,
+          "description": "Postman is useful to test the behavior of different OData class from/to D365FO. In this post we will see the steps to setup Postman with D365FO.\nStep 1: Register D365FO in Azure Platform. Please refer to previous post to view the steps for App registration.\n Application registration of D365FO with Azure \nStep 2: Launch Postman and create a new collection and give a name (say) Devbox.\nStep 3: Click on the three dots and click on Add request of type POST and name the request as Authorization.\nStep 4: Capture the TenantId from the Azure portal and POST command would be\nhttps://login.microsoftonline.com/tenantId/oauth2/token\nStep 5: Select tab Body and click on form-data radio button.\nStep 6: Provide below details in the Body tab\n\n\nKeyValue\nclient_Id                          ClientID value from Azure portal after App registration.\ngrant_typeclient_credentials\nresourceD365FO URL\nclient_secretClient secret value from Azure portal after App registration\n\n\nStep 7: Click on Send button to receive the access token with status as 200.\nThis completes the Postman setup with D365FO.\nReference: https://dynamics365musings.com/setup-postman-to-call-d365-data-entities/",
+          "link": "https://axraja.blogspot.com/2023/05/postman-d365.html",
+          "publishedOn": "2023-05-03T09:51:00.001Z",
+          "wordCount": 2001,
+          "title": "POSTMAN D365",
+          "imageUrl": null
+        },
+        {
+          "id": "https://axraja.blogspot.com/2022/07/debug-sandboxtest-environment-in-d365fo.html",
+          "author": null,
+          "description": "Above mentioned steps can be reduced to only one step i.e refresh of production DB to sandbox via LCS and later we can connect to sandbox environment directly from the development environment for debugging using below guide\n\nTime required 20 minutes.\nSteps\n\nEnable access for your IP address\nGo to lcs ->sandbox environment page. To connect to test environment RDP, you need to create Whitelist rule for your IP address \n\nConnect RDP and open SSMS\n\nConnect to SQL server using Server name from LCS and add the prefix to SQL server name – servername.database.windows.net\n\nCreate a new query to test DB\nBelow query will create a new user that will be used for debugging\nCREATE USER devtempuser WITH PASSWORD = ‘pass@word1’\nEXEC sp_addrolemember ‘db_owner’, ‘devtempuser’\n\n\nWhitelist your IP address\nSelect new query against Master DB\nexec sp_set_firewall_rule N’DEVNAME’, ‘IP’, ‘IP’ \n\nStop IIS, WWW service and Batch Service\nOpen IIS and stop the service. Open run and enter services.msc and stop WWW and Microsoft D365 batch service\n\nEdit Web config\nGo to C:\\AosService\\webroot\\web.config and save the original file somewhere else as backup. Modify 4 Keys as per the below screenshot.\nYou can either comment original configuration or delete it and add new configuration of the sandbox environment\n\nStart IIS and WWW services\nStart IIS and WWW service stopped in step 5. Don’t start batch service.\n\nOpen the development environment AX URL\nIf you get 503 unavailable error, go to CMD(as admin) and type IISRESET\n\nDebug\nNow sandbox environment is connected to your development environment. You can simply open Visual studio to add breakpoints to X++ object and attach w3wp.exe service to debug.\n\nThanks Pawan Deep SinghI \n\nReference: https://axparadise.com/how-to-debug-the-sandbox-test-environment-in-d365fo/",
+          "link": "https://axraja.blogspot.com/2022/07/debug-sandboxtest-environment-in-d365fo.html",
+          "publishedOn": "2022-07-13T12:07:00.005Z",
+          "wordCount": 2129,
+          "title": "Debug the Sandbox/Test environment in D365FO",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MxExT77BUlXMNdwKuqylB6AgkiFFdd3aLGqALCVMTB4LRXYH0Xmcs0THtmHnHHJl9ZXeOjP_-ZzX5D5_cjxkPbcumCm0uhypXjXtFGYHHv9N_VJqWmzt8r-Km573CaE6BGkbiFTQE0=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://axraja.blogspot.com/2021/10/cannot-create-record-in-customers.html",
+          "author": null,
+          "description": "Go to SQL as Admin, AXDB database: \n\n\npass your table(Custable) and run below query: \n\n\nDECLARE @MaxRecID BIGINT\n \tDECLARE @NextVal BIGINT\n \nSELECT @MaxRecID = MAX(RECID)\nFROM custtable \n \nSELECT @NextVal = NEXTVAL\n\tFROM SYSTEMSEQUENCES\n\tINNER JOIN SQLDICTIONARY\n\tON SQLDICTIONARY.FIELDID = 0\n\tAND SQLDICTIONARY.name = 'custtable'\n\tAND SQLDICTIONARY.TABLEID = SYSTEMSEQUENCES.TABID\n \n\tIF (@NextVal > @MaxRecID) \n\tBEGIN\n\t\tPRINT 'custtable did not need to be updated.'\n\tEND\n\tELSE \n\tBEGIN\nPRINT 'Updated custtable from ' + CONVERT(VARCHAR(MAX), @NextVal) + '' to '' + CONVERT(VARCHAR(MAX), @MaxRecID + 1)\n\t\t\t\n\t\tUPDATE SYSTEMSEQUENCES\n\t\tSET NEXTVAL = @MaxRecID + 1\n\t\tFROM SYSTEMSEQUENCES\n\t\tINNER JOIN SQLDICTIONARY\n\t\tON SQLDICTIONARY.FIELDID = 0\n\t\tAND SQLDICTIONARY.name = 'custtable'\n\t\tAND SQLDICTIONARY.TABLEID = SYSTEMSEQUENCES.TABID\nEND",
+          "link": "https://axraja.blogspot.com/2021/10/cannot-create-record-in-customers.html",
+          "publishedOn": "2021-10-11T08:16:00.005Z",
+          "wordCount": 2009,
+          "title": "cannot create a record in customers (custtable the record already exists)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://axraja.blogspot.com/2021/10/creating-new-d365fo-business-event-for.html",
+          "author": null,
+          "description": "Main contract class: \n// This is a BusinessEventContract class for Customer\n/// </summary>\n[DataContract]\nclass VKCustTableBusinessEventContract extends BusinessEventsContract\n{\n    SysAppCRUDOperation                action;\n    CustAccount                        custAccount;\n    DataAreaId                        dataAreaId;\n \n    private void initialize(CustTable _custTable, SysAppCRUDOperation _action)\n    {\n        custAccount    = _custTable.AccountNum;\n        dataAreaId    = _custTable.DataAreaId;\n        action        = _action;\n    }\n \n    /// <summary>\n    /// Create new VKCustTableBusinessEventContract from CustTable and action\n    /// </summary>\n    /// <param name = \"_custTable\">CustTable table</param>\n    /// <param name = \"_action\">Action</param>\n    /// <returns>a new VKCust…",
+          "link": "https://axraja.blogspot.com/2021/10/creating-new-d365fo-business-event-for.html",
+          "publishedOn": "2021-10-10T20:00:00.006Z",
+          "wordCount": 2517,
+          "title": "Creating new D365FO Business Event for Customer & CRUD notifications using Power Automate.",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MxXCh_6nBcMVKyZBhN4475vLvNhQg5_ouLUBMd5JCOYPQoFY4Pq334JlqYjJRneq_mKyEI5VGzVdGDcO3TIe6_vH6wqgbS9svczxqEo=w1200-h630-p-k-no-nu"
+        }
+      ]
+    },
+    {
       "title": "Microsoft Power Apps - Blog",
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
@@ -16711,6 +16748,113 @@
           "publishedOn": "2022-06-05T11:32:00.001Z",
           "wordCount": 6250,
           "title": "Vendor payment journal should inherit dimension from vendor master data while offset is expected to have dimension drill down from bank or any other offset account type",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": null,
+      "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
+      "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
+      "articles": [
+        {
+          "id": "announcing-the-integration-of-power-automate-telemetry-data-with-azure-application-insights",
+          "author": null,
+          "description": "Public preview of Power Automate integration with Azure Application Insights to enable customers to diagnose and monitor their cloud flow telemetry with the best-in-class APM offering from Azure",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/announcing-the-integration-of-power-automate-telemetry-data-with-azure-application-insights/",
+          "publishedOn": "2023-08-24T08:00:00.000Z",
+          "wordCount": 2627,
+          "title": "Announcing the integration of Power Automate telemetry data with Azure Application Insights",
+          "imageUrl": null
+        },
+        {
+          "id": "august-2023-update-of-power-automate-for-desktop",
+          "author": null,
+          "description": "Power Automate for desktop comes with new additions in 2023 August’s release, including the introduction of a new logging action, a new setting to disable uploading error screenshots, and the ability to edit certain variable values during debugging.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/august-2023-update-of-power-automate-for-desktop/",
+          "publishedOn": "2023-08-24T03:14:00.000Z",
+          "wordCount": 2595,
+          "title": "August 2023 update of Power Automate for desktop",
+          "imageUrl": null
+        },
+        {
+          "id": "certified-public-accountant-transforms-accounting-processes-using-power-automate",
+          "author": null,
+          "description": "Ashley Francis is a Certified Public Accountant (CPA) with The Francis Group practice in Seattle. This story explores Ashley’s passion for Power Platform and how Power Automate with generative AI capabilities helped her quickly create sophisticated automations that significantly . She also is giving back to her accounting community by teaching others how AI and automation can help transform their practices.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/certified-public-accountant-transforms-accounting-processes-using-power-automate/",
+          "publishedOn": "2023-08-10T08:00:00.000Z",
+          "wordCount": 3865,
+          "title": "Certified Public Accountant transforms accounting processes using Power Automate",
+          "imageUrl": null
+        },
+        {
+          "id": "microsoft-named-a-leader-and-positioned-furthest-for-completeness-of-vision-in-the-2023-gartner-magic-quadrant-for-robotic-process-automation",
+          "author": null,
+          "description": "For the third consecutive year, Microsoft has been named a Leader in the Gartner® Magic Quadrant™ for Robotic Process Automation. This year Microsoft is positioned furthest in Completeness of Vision.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/microsoft-named-a-leader-and-positioned-furthest-for-completeness-of-vision-in-the-2023-gartner-magic-quadrant-for-robotic-process-automation/",
+          "publishedOn": "2023-08-08T03:00:19.000Z",
+          "wordCount": 2627,
+          "title": "Microsoft named a Leader and Positioned Furthest for Completeness of Vision in the 2023 Gartner® Magic Quadrant™ for Robotic Process Automation",
+          "imageUrl": null
+        },
+        {
+          "id": "join-us-at-the-second-power-platform-conference-this-october-in-las-vegas-sponsored-by-microsoft",
+          "author": null,
+          "description": "Join us at the second Power Platform Conference this October in Las Vegas – sponsored by Microsoft",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/join-us-at-the-second-power-platform-conference-this-october-in-las-vegas-sponsored-by-microsoft/",
+          "publishedOn": "2023-08-04T06:23:31.000Z",
+          "wordCount": 2724,
+          "title": "Join us at the second Power Platform Conference this October in Las Vegas &#8211; sponsored by Microsoft",
+          "imageUrl": null
+        },
+        {
+          "id": "microsoft-power-automate-process-mining-is-generally-available",
+          "author": null,
+          "description": "We are pleased to announce the general availability of Power Automate Process Mining, a new capability that helps you understand business processes in your organization, uncover inefficiencies and bottlenecks, and achieve process optimization.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/microsoft-power-automate-process-mining-is-generally-available/",
+          "publishedOn": "2023-08-01T03:00:54.000Z",
+          "wordCount": 2937,
+          "title": "Microsoft Power Automate Process Mining is generally available",
+          "imageUrl": null
+        },
+        {
+          "id": "july-2023-updates-for-ai-builder",
+          "author": null,
+          "description": "New updates for AI Builder available in July 2023, including availability of the GPT action and activity monitoring.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/july-2023-updates-for-ai-builder/",
+          "publishedOn": "2023-07-31T09:00:00.000Z",
+          "wordCount": 3005,
+          "title": "July 2023 updates for AI Builder",
+          "imageUrl": null
+        },
+        {
+          "id": "july-2023-update-of-power-automate-for-desktop",
+          "author": null,
+          "description": "Power Automate for desktop comes with new additions in 2023 July’s release, including the introduction of Office 365 Outlook actions, new actions for the scripting and work queues modules, a new tool to inspect and handle UI elements and a troubleshooter with certain diagnostics.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/july-2023-update-of-power-automate-for-desktop/",
+          "publishedOn": "2023-07-25T06:22:00.000Z",
+          "wordCount": 2735,
+          "title": "July 2023 update of Power Automate for desktop",
+          "imageUrl": null
+        },
+        {
+          "id": "june-2023-update-of-power-automate-for-desktop",
+          "author": null,
+          "description": "Power Automate for desktop comes with new additions in 2023 June’s release, including the introduction of work queue actions in preview and OneDrive for Business actions.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/june-2023-update-of-power-automate-for-desktop/",
+          "publishedOn": "2023-06-21T09:24:00.000Z",
+          "wordCount": 2498,
+          "title": "June 2023 update of Power Automate for desktop",
+          "imageUrl": null
+        },
+        {
+          "id": "experience-the-refreshed-power-automate-mobile-app-for-ios-now-generally-available",
+          "author": null,
+          "description": "Introducing the newest version of the Power Automate iOS mobile app.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/experience-the-refreshed-power-automate-mobile-app-for-ios-now-generally-available/",
+          "publishedOn": "2023-06-15T19:42:11.000Z",
+          "wordCount": 2539,
+          "title": "Experience the refreshed Power Automate mobile app for iOS &#8211; now generally available!",
           "imageUrl": null
         }
       ]

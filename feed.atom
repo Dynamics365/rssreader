@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-27T01:07:45.133Z</updated>
+    <updated>2023-08-27T07:17:11.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -17,6 +17,16 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Ryan Fiorini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing the integration of Power Automate telemetry data with Azure Application Insights]]></title>
+        <id>announcing-the-integration-of-power-automate-telemetry-data-with-azure-application-insights</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/announcing-the-integration-of-power-automate-telemetry-data-with-azure-application-insights/"/>
+        <updated>2023-08-24T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Public preview of Power Automate integration with Azure Application Insights to enable customers to diagnose and monitor their cloud flow telemetry with the best-in-class APM offering from Azure]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
         </author>
     </entry>
     <entry>
@@ -95,6 +105,16 @@ Disable-D365MaintenanceMode
 https://github.com/d365collaborative/d365fo.tools/tree/master/docs]]></summary>
         <author>
             <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 2023 update of Power Automate for desktop]]></title>
+        <id>august-2023-update-of-power-automate-for-desktop</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/august-2023-update-of-power-automate-for-desktop/"/>
+        <updated>2023-08-24T03:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2023 August’s release, including the introduction of a new logging action, a new setting to disable uploading error screenshots, and the ability to edit certain variable values during debugging.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
         </author>
     </entry>
     <entry>
@@ -323,6 +343,16 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Certified Public Accountant transforms accounting processes using Power Automate]]></title>
+        <id>certified-public-accountant-transforms-accounting-processes-using-power-automate</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/certified-public-accountant-transforms-accounting-processes-using-power-automate/"/>
+        <updated>2023-08-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ashley Francis is a Certified Public Accountant (CPA) with The Francis Group practice in Seattle. This story explores Ashley’s passion for Power Platform and how Power Automate with generative AI capabilities helped her quickly create sophisticated automations that significantly . She also is giving back to her accounting community by teaching others how AI and automation can help transform their practices.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Engineering Change Management in D365 – Why You Need it for PLM-ERP Integration?]]></title>
         <id>https://www.encorebusiness.com/?p=57066</id>
         <link href="https://www.encorebusiness.com/blog/engineering-change-management-in-d365-why-you-need-it-for-plm-erp-integration/"/>
@@ -377,6 +407,16 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[I have been asked many times whether its possible to filter planned orders by pegging details, typical example is there is a large order coming for make-to-order items and planners would like to group and process them together. Another common ask is to be able to process separately orders that are pegged to open sales … Continue reading MSDyn365FO: Filter planned orders by pegging details →]]></summary>
         <author>
             <name>cleverax</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft named a Leader and Positioned Furthest for Completeness of Vision in the 2023 Gartner® Magic Quadrant™ for Robotic Process Automation]]></title>
+        <id>microsoft-named-a-leader-and-positioned-furthest-for-completeness-of-vision-in-the-2023-gartner-magic-quadrant-for-robotic-process-automation</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/microsoft-named-a-leader-and-positioned-furthest-for-completeness-of-vision-in-the-2023-gartner-magic-quadrant-for-robotic-process-automation/"/>
+        <updated>2023-08-08T03:00:19.000Z</updated>
+        <summary type="html"><![CDATA[For the third consecutive year, Microsoft has been named a Leader in the Gartner® Magic Quadrant™ for Robotic Process Automation. This year Microsoft is positioned furthest in Completeness of Vision.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
         </author>
     </entry>
     <entry>
@@ -539,6 +579,16 @@ The post Make more effective procurement decisions with Dynamics 365 Copilot in 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Join us at the second Power Platform Conference this October in Las Vegas &#8211; sponsored by Microsoft]]></title>
+        <id>join-us-at-the-second-power-platform-conference-this-october-in-las-vegas-sponsored-by-microsoft</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/join-us-at-the-second-power-platform-conference-this-october-in-las-vegas-sponsored-by-microsoft/"/>
+        <updated>2023-08-04T06:23:31.000Z</updated>
+        <summary type="html"><![CDATA[Join us at the second Power Platform Conference this October in Las Vegas – sponsored by Microsoft]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Resource Utilization Board in Dynamics 365 Project Operations]]></title>
         <id>https://www.encorebusiness.com/?p=58062</id>
         <link href="https://www.encorebusiness.com/blog/resource-utilization-board-in-d365-project-operations/"/>
@@ -674,6 +724,16 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microsoft Power Automate Process Mining is generally available]]></title>
+        <id>microsoft-power-automate-process-mining-is-generally-available</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/microsoft-power-automate-process-mining-is-generally-available/"/>
+        <updated>2023-08-01T03:00:54.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the general availability of Power Automate Process Mining, a new capability that helps you understand business processes in your organization, uncover inefficiencies and bottlenecks, and achieve process optimization.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Multi Leg intercompany order in Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2743</id>
         <link href="https://exploredynamics365.home.blog/2023/08/01/multi-leg-intercompany-order-in-microsoft-dynamics-365-finance-and-operations/"/>
@@ -734,6 +794,16 @@ The post How to improve business KPIs with Connected Field Service appeared firs
 The post Update Data From Excel In D365 appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 2023 updates for AI Builder]]></title>
+        <id>july-2023-updates-for-ai-builder</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/july-2023-updates-for-ai-builder/"/>
+        <updated>2023-07-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New updates for AI Builder available in July 2023, including availability of the GPT action and activity monitoring.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
         </author>
     </entry>
     <entry>
@@ -838,6 +908,16 @@ This post first appeared first on Encore Business Solutions.]]></summary>
 The post Support Images in Outgoing Emails in D365FO appeared first on Docentric AX.]]></summary>
         <author>
             <name>Miha Vuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 2023 update of Power Automate for desktop]]></title>
+        <id>july-2023-update-of-power-automate-for-desktop</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/july-2023-update-of-power-automate-for-desktop/"/>
+        <updated>2023-07-25T06:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2023 July’s release, including the introduction of Office 365 Outlook actions, new actions for the scripting and work queues modules, a new tool to inspect and handle UI elements and a troubleshooter with certain diagnostics.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
         </author>
     </entry>
     <entry>
@@ -1617,6 +1697,16 @@ The post Copilot in Dynamics 365 Marketing revolutionizes marketing with query a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[June 2023 update of Power Automate for desktop]]></title>
+        <id>june-2023-update-of-power-automate-for-desktop</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/june-2023-update-of-power-automate-for-desktop/"/>
+        <updated>2023-06-21T09:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2023 June’s release, including the introduction of work queue actions in preview and OneDrive for Business actions.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Customize the Profile Page in Microsoft Power Pages]]></title>
         <id>https://www.encorebusiness.com/?p=57113</id>
         <link href="https://www.encorebusiness.com/blog/customize-the-profile-page-in-microsoft-power-pages/"/>
@@ -1772,6 +1862,16 @@ It has been great for me to share what I know about Dynamics 365 Finance and Ope
         <summary type="html"><![CDATA[Dear Readers, After 10 years, this blog has finally reached the end of the line. It has been great for me to share what I know about Dynamics 365 Finance and Operations and see how the audience and community around the product has grown. I would like to send a BIG thank you to you, […]]]></summary>
         <author>
             <name>Henrik Marx Larsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experience the refreshed Power Automate mobile app for iOS &#8211; now generally available!]]></title>
+        <id>experience-the-refreshed-power-automate-mobile-app-for-ios-now-generally-available</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/experience-the-refreshed-power-automate-mobile-app-for-ios-now-generally-available/"/>
+        <updated>2023-06-15T19:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Introducing the newest version of the Power Automate iOS mobile app.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
         </author>
     </entry>
     <entry>
@@ -3787,6 +3887,36 @@ The post Intraday insights are deprecated and replaced by real-time analytics re
 The post Intraday insights are deprecated and replaced by real-time analytics reports appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Sukesh Kaul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POSTMAN D365]]></title>
+        <id>https://axraja.blogspot.com/2023/05/postman-d365.html</id>
+        <link href="https://axraja.blogspot.com/2023/05/postman-d365.html"/>
+        <updated>2023-05-03T09:51:00.001Z</updated>
+        <summary type="html"><![CDATA[Postman is useful to test the behavior of different OData class from/to D365FO. In this post we will see the steps to setup Postman with D365FO.
+Step 1: Register D365FO in Azure Platform. Please refer to previous post to view the steps for App registration.
+ Application registration of D365FO with Azure 
+Step 2: Launch Postman and create a new collection and give a name (say) Devbox.
+Step 3: Click on the three dots and click on Add request of type POST and name the request as Authorization.
+Step 4: Capture the TenantId from the Azure portal and POST command would be
+https://login.microsoftonline.com/tenantId/oauth2/token
+Step 5: Select tab Body and click on form-data radio button.
+Step 6: Provide below details in the Body tab
+
+
+KeyValue
+client_Id                          ClientID value from Azure portal after App registration.
+grant_typeclient_credentials
+resourceD365FO URL
+client_secretClient secret value from Azure portal after App registration
+
+
+Step 7: Click on Send button to receive the access token with status as 200.
+This completes the Postman setup with D365FO.
+Reference: https://dynamics365musings.com/setup-postman-to-call-d365-data-entities/]]></summary>
+        <author>
+            <name>D365 F&amp;O</name>
         </author>
     </entry>
     <entry>
@@ -15789,6 +15919,56 @@ This posting is provided "AS IS" with no warranties, and confers no rights.]]></
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Debug the Sandbox/Test environment in D365FO]]></title>
+        <id>https://axraja.blogspot.com/2022/07/debug-sandboxtest-environment-in-d365fo.html</id>
+        <link href="https://axraja.blogspot.com/2022/07/debug-sandboxtest-environment-in-d365fo.html"/>
+        <updated>2022-07-13T12:07:00.005Z</updated>
+        <summary type="html"><![CDATA[Above mentioned steps can be reduced to only one step i.e refresh of production DB to sandbox via LCS and later we can connect to sandbox environment directly from the development environment for debugging using below guide
+
+Time required 20 minutes.
+Steps
+
+Enable access for your IP address
+Go to lcs ->sandbox environment page. To connect to test environment RDP, you need to create Whitelist rule for your IP address 
+
+Connect RDP and open SSMS
+
+Connect to SQL server using Server name from LCS and add the prefix to SQL server name – servername.database.windows.net
+
+Create a new query to test DB
+Below query will create a new user that will be used for debugging
+CREATE USER devtempuser WITH PASSWORD = ‘pass@word1’
+EXEC sp_addrolemember ‘db_owner’, ‘devtempuser’
+
+
+Whitelist your IP address
+Select new query against Master DB
+exec sp_set_firewall_rule N’DEVNAME’, ‘IP’, ‘IP’ 
+
+Stop IIS, WWW service and Batch Service
+Open IIS and stop the service. Open run and enter services.msc and stop WWW and Microsoft D365 batch service
+
+Edit Web config
+Go to C:\AosService\webroot\web.config and save the original file somewhere else as backup. Modify 4 Keys as per the below screenshot.
+You can either comment original configuration or delete it and add new configuration of the sandbox environment
+
+Start IIS and WWW services
+Start IIS and WWW service stopped in step 5. Don’t start batch service.
+
+Open the development environment AX URL
+If you get 503 unavailable error, go to CMD(as admin) and type IISRESET
+
+Debug
+Now sandbox environment is connected to your development environment. You can simply open Visual studio to add breakpoints to X++ object and attach w3wp.exe service to debug.
+
+Thanks Pawan Deep SinghI 
+
+Reference: https://axparadise.com/how-to-debug-the-sandbox-test-environment-in-d365fo/]]></summary>
+        <author>
+            <name>D365 F&amp;O</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Improve monitoring of Dataverse plugins using Application insights]]></title>
         <id>improve-monitoring-of-dataverse-plugins-using-application-insights</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/improve-monitoring-of-dataverse-plugins-using-application-insights/"/>
@@ -21814,6 +21994,82 @@ For Destination based tax to be taken into consideration, "Use Destination based
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[cannot create a record in customers (custtable the record already exists)]]></title>
+        <id>https://axraja.blogspot.com/2021/10/cannot-create-record-in-customers.html</id>
+        <link href="https://axraja.blogspot.com/2021/10/cannot-create-record-in-customers.html"/>
+        <updated>2021-10-11T08:16:00.005Z</updated>
+        <summary type="html"><![CDATA[Go to SQL as Admin, AXDB database: 
+
+
+pass your table(Custable) and run below query: 
+
+
+DECLARE @MaxRecID BIGINT
+ 	DECLARE @NextVal BIGINT
+ 
+SELECT @MaxRecID = MAX(RECID)
+FROM custtable 
+ 
+SELECT @NextVal = NEXTVAL
+	FROM SYSTEMSEQUENCES
+	INNER JOIN SQLDICTIONARY
+	ON SQLDICTIONARY.FIELDID = 0
+	AND SQLDICTIONARY.name = 'custtable'
+	AND SQLDICTIONARY.TABLEID = SYSTEMSEQUENCES.TABID
+ 
+	IF (@NextVal > @MaxRecID) 
+	BEGIN
+		PRINT 'custtable did not need to be updated.'
+	END
+	ELSE 
+	BEGIN
+PRINT 'Updated custtable from ' + CONVERT(VARCHAR(MAX), @NextVal) + '' to '' + CONVERT(VARCHAR(MAX), @MaxRecID + 1)
+			
+		UPDATE SYSTEMSEQUENCES
+		SET NEXTVAL = @MaxRecID + 1
+		FROM SYSTEMSEQUENCES
+		INNER JOIN SQLDICTIONARY
+		ON SQLDICTIONARY.FIELDID = 0
+		AND SQLDICTIONARY.name = 'custtable'
+		AND SQLDICTIONARY.TABLEID = SYSTEMSEQUENCES.TABID
+END]]></summary>
+        <author>
+            <name>D365 F&amp;O</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating new D365FO Business Event for Customer & CRUD notifications using Power Automate.]]></title>
+        <id>https://axraja.blogspot.com/2021/10/creating-new-d365fo-business-event-for.html</id>
+        <link href="https://axraja.blogspot.com/2021/10/creating-new-d365fo-business-event-for.html"/>
+        <updated>2021-10-10T20:00:00.006Z</updated>
+        <summary type="html"><![CDATA[Main contract class: 
+// This is a BusinessEventContract class for Customer
+/// </summary>
+[DataContract]
+class VKCustTableBusinessEventContract extends BusinessEventsContract
+{
+    SysAppCRUDOperation                action;
+    CustAccount                        custAccount;
+    DataAreaId                        dataAreaId;
+ 
+    private void initialize(CustTable _custTable, SysAppCRUDOperation _action)
+    {
+        custAccount    = _custTable.AccountNum;
+        dataAreaId    = _custTable.DataAreaId;
+        action        = _action;
+    }
+ 
+    /// <summary>
+    /// Create new VKCustTableBusinessEventContract from CustTable and action
+    /// </summary>
+    /// <param name = "_custTable">CustTable table</param>
+    /// <param name = "_action">Action</param>
+    /// <returns>a new VKCust…]]></summary>
+        <author>
+            <name>D365 F&amp;O</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Theme Documentation - Basics]]></title>
         <id>https://nuxulu.com/theme-documentation-basics/</id>
         <link href="https://nuxulu.com/theme-documentation-basics/"/>
@@ -22483,28 +22739,6 @@ The post Find and merge a DimensionAttributeValue appeared first on ER-Consult.]
 3) Order events]]></summary>
         <author>
             <name>Rahul Mohta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DMF import records for multiple companies]]></title>
-        <id>https://alexvoy.blogspot.com/2021/08/dmf-import-records-for-multiple.html</id>
-        <link href="https://alexvoy.blogspot.com/2021/08/dmf-import-records-for-multiple.html"/>
-        <updated>2021-08-27T18:45:00.006Z</updated>
-        <summary type="html"><![CDATA[Say, we need to import Bank reconciliation records from an Excel file for many target companies at once.
-The standard DMF approach does not allow to do so via DMF data entities out of the box.
-However, we can easily customize Data Entity copyCustomStagingToTarget method to loop through all companies encountered in an imported file lines.
-  
-
-/// <summary>
-    /// Performs a custom copy from the staging table to the target environment.
-    /// </summary>
-    /// <param name = "_dmfDefinitionGroupExecution">The definition group.</param>
-    /// <returns>A container of counts of [new records, updated records].</returns>
-    /// <remarks>
-    /// When doing set-based inserts, the full defaulting logic from LedgerJournalTrans is not
-    /// run. In order to get full defaulting, row-by-row proce…]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
