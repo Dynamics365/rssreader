@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-28T01:05:04.881Z</updated>
+    <updated>2023-08-29T01:05:09.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automatic import of Bank statement – D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2963</id>
+        <link href="https://anithasantosh.wordpress.com/2023/08/28/automatic-import-of-bank-statement-d365fo/"/>
+        <updated>2023-08-28T21:10:53.000Z</updated>
+        <summary type="html"><![CDATA[With the version 10.0.36, it is not possible to automate the import of Bank statement to Sharepoint folder. More details soon.]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring and telemetry in F&O]]></title>
+        <id>https://dev.goshoom.net/?p=9903</id>
+        <link href="https://dev.goshoom.net/2023/08/monitoring-and-telemetry-feature/"/>
+        <updated>2023-08-28T06:12:17.000Z</updated>
+        <summary type="html"><![CDATA[Applications Insights in an Azure service for monitoring of applications. Many Azure Services support it out of the box – you just connect, say, an Azure Function to Application Insights and it’ll automatically start collecting information about performance, failed requests and so on. Using Application Insights API from D365FO is possible and several people in ...
+Continue reading ‘Monitoring and telemetry in F&O’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you add your own features to Feature Management?]]></title>
+        <id>https://dynamicspedia.com/?p=18722</id>
+        <link href="https://dynamicspedia.com/2023/08/can-you-add-your-own-features-to-feature-management/"/>
+        <updated>2023-08-28T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When Microsoft releases new versions of Microsoft Dynamics 365 Finance and Operations, a lot of enhancements are listed on a workspace called Feature Management, where you can review the new features and decide which one would need to be enabled for your organization. The features can be a new module, new additions, enhancement of an […]
+The post Can you add your own features to Feature Management? appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stuck Batches & Posting Interruptions in Dynamics GP]]></title>
         <id>https://www.encorebusiness.com/?p=38690</id>
