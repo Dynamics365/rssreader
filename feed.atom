@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-29T01:05:09.602Z</updated>
+    <updated>2023-08-30T01:04:45.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing new ways of creating tables]]></title>
+        <id>introducing-new-ways-of-creating-tables</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/introducing-new-ways-of-creating-tables/"/>
+        <updated>2023-08-29T08:30:34.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to share with you the updated tables page experience, which is now generally available for all makers. With the new tables page experience, you will be able to create tables with the versatile options we recently introduced to the new home page, including conversation-based table creation and one-click table upload from your…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collections Coordinator Workspace in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2759</id>
+        <link href="https://exploredynamics365.home.blog/2023/08/29/collections-coordinator-workspace-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-08-29T07:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft’s ongoing dedication to automation and enhancing the user experience for Dynamics users is truly commendable. Following the automation of the collection process, the Collection Coordinator Workplace stands as a noteworthy addition. This new inclusion is poised to greatly assist collection agents in effectively managing their daily collection tasks, significantly reducing the time spent on […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collections Coordinator Workspace in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2759</id>
+        <link href="https://exploredynamics365.home.blog/2023/08/29/collections-coordinator-workspace-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-08-29T07:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft’s ongoing dedication to automation and enhancing the user experience for Dynamics users is truly commendable. Following the automation of the collection process, the Collection Coordinator Workplace stands as a noteworthy addition. This new inclusion is poised to greatly assist collection agents in effectively managing their daily collection tasks, significantly reducing the time spent on […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Choose Learning Path for Microsoft Dynamics 365 Finance and Operations Functional Consultant]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2755</id>
+        <link href="https://exploredynamics365.home.blog/2023/08/29/how-to-choose-learning-path-for-microsoft-dynamics-365-finance-and-operations-functional-consultant/"/>
+        <updated>2023-08-29T07:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Which Path to Pursue: Finance or SCM for Your Role as a Functional Consultant? This Video is Designed to Assist You in Making That Decision! After receiving a positive reception to the previous video outlining the learning path for becoming a Microsoft Dynamics 365 Functional Consultant, I was motivated to produce the subsequent video in […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Choose Learning Path for Microsoft Dynamics 365 Finance and Operations Functional Consultant]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2755</id>
+        <link href="https://exploredynamics365.home.blog/2023/08/29/how-to-choose-learning-path-for-microsoft-dynamics-365-finance-and-operations-functional-consultant/"/>
+        <updated>2023-08-29T07:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Which Path to Pursue: Finance or SCM for Your Role as a Functional Consultant? This Video is Designed to Assist You in Making That Decision! After receiving a positive reception to the previous video outlining the learning path for becoming a Microsoft Dynamics 365 Functional Consultant, I was motivated to produce the subsequent video in […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Installation of SSIS Integration Toolkit for Dynamics 365 F&O]]></title>
+        <id>http://paragchapre.com/?p=12083</id>
+        <link href="https://paragchapre.com/installation-of-ssis-integration-toolkit-for-dynamics-365-fo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=installation-of-ssis-integration-toolkit-for-dynamics-365-fo"/>
+        <updated>2023-08-29T03:14:40.000Z</updated>
+        <summary type="html"><![CDATA[What is SSIS Integration Toolkit? SSIS Integration Toolkit for Dynamics 365 is a powerful tool that allows you to integrate and synchronize data between your Microsoft Dynamics 365 system and other applications or databases using SQL Server Integration Services (SSIS). It simplifies the data integration process by providing a user-friendly interface and a range of […]
+The post Installation of SSIS Integration Toolkit for Dynamics 365 F&O appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automatic import of Bank statement – D365FO]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2963</id>
