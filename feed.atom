@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-08-30T01:04:45.655Z</updated>
+    <updated>2023-08-31T01:05:02.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One Dynamics One Platform : Analytics - Delta Lake Synapse Link]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:64eef8401256773ea561da04</id>
+        <link href="https://www.powerazure365.com/blog-1/one-dynamics-one-platform-analytics-delta-lake-synapse-link"/>
+        <updated>2023-08-30T12:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello the Community !
+
+Hope you had good summer holidays, starting next season articles, it was 
+time for me to write this new article to explain again the convergence of 
+the whole Dynamics Platform : on the Analytics part now !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft announces preview of new Copilot capabilities in Power Automate Process Mining]]></title>
+        <id>microsoft-announces-preview-of-new-copilot-capabilities-in-power-automate-process-mining</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/microsoft-announces-preview-of-new-copilot-capabilities-in-power-automate-process-mining/"/>
+        <updated>2023-08-30T06:55:18.000Z</updated>
+        <summary type="html"><![CDATA[On August 1, we announced the general availability of Microsoft Power Automate Process Mining. Today, we’re excited to announce the availability of new Copilot capabilities in Power Automate Process Mining (in limited preview—US only). You can try it for free with a Power Automate trial license.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing new ways of creating tables]]></title>
         <id>introducing-new-ways-of-creating-tables</id>

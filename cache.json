@@ -3841,6 +3841,17 @@
       "siteUrl": "https://www.powerazure365.com/",
       "articles": [
         {
+          "id": "5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:64eef8401256773ea561da04",
+          "author": "Aurélien Clere",
+          "description": "Hello the Community !\r\n\r\nHope you had good summer holidays, starting next season articles, it was \r\ntime for me to write this new article to explain again the convergence of \r\nthe whole Dynamics Platform : on the Analytics part now !",
+          "link": "https://www.powerazure365.com/blog-1/one-dynamics-one-platform-analytics-delta-lake-synapse-link",
+          "publishedOn": "2023-08-30T12:34:00.000Z",
+          "wordCount": null,
+          "title": "One Dynamics One Platform : Analytics - Delta Lake Synapse Link",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:6410362c7270a04f3c1ff7ae",
           "author": "Aurélien Clere",
           "description": "An article part of the One Dynamics One Platform convergence : on the Dev \r\nside : How to deploy a Dataverse C# Plugin for a Virtual Table of Dynamics \r\n365 Finance Operations.",
@@ -6064,7 +6075,7 @@
     {
       "title": "Microsoft Dynamics 365 Blog",
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
-      "siteUrl": "https://www.microsoft.com/en-us/industry/blog/industrial-metaverse/2023/08/17/3-ways-mixed-reality-empowers-frontline-workers/",
+      "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
           "id": "https://www.microsoft.com/en-us/industry/blog/industrial-metaverse/2023/08/17/3-ways-mixed-reality-empowers-frontline-workers/",
@@ -9951,7 +9962,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "http://paragchapre.com/",
+      "siteUrl": "https://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12083",
@@ -16847,6 +16858,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "microsoft-announces-preview-of-new-copilot-capabilities-in-power-automate-process-mining",
+          "author": null,
+          "description": "On August 1, we announced the general availability of Microsoft Power Automate Process Mining. Today, we’re excited to announce the availability of new Copilot capabilities in Power Automate Process Mining (in limited preview—US only). You can try it for free with a Power Automate trial license.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/microsoft-announces-preview-of-new-copilot-capabilities-in-power-automate-process-mining/",
+          "publishedOn": "2023-08-30T06:55:18.000Z",
+          "wordCount": 3134,
+          "title": "Microsoft announces preview of new Copilot capabilities in Power Automate Process Mining",
+          "imageUrl": null
+        },
         {
           "id": "announcing-the-integration-of-power-automate-telemetry-data-with-azure-application-insights",
           "author": null,
