@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-01T01:08:25.257Z</updated>
+    <updated>2023-09-02T01:02:32.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sustainability & Environmental Protection in Asia – A Field Report (Part 1)]]></title>
+        <id>http://dynamicsax-fico.com/?p=5281</id>
+        <link href="https://dynamicsax-fico.com/2023/09/01/sustainability-environmental-protection-in-asia-a-field-report-part-1/"/>
+        <updated>2023-09-01T13:27:26.000Z</updated>
+        <summary type="html"><![CDATA[This year we visited our relatives in Asia (Indonesia) for the first time after the Covid period. Having searched for …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Dynamics One Platform : Analytics - Delta Lake Synapse Link]]></title>
         <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:64eef8401256773ea561da04</id>
