@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-02T01:02:32.079Z</updated>
+    <updated>2023-09-03T01:08:12.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ledger dimension vs Default dimension]]></title>
+        <id>https://alexvoy.blogspot.com/2023/09/ledger-dimension-vs-default-dimension.html</id>
+        <link href="https://alexvoy.blogspot.com/2023/09/ledger-dimension-vs-default-dimension.html"/>
+        <updated>2023-09-02T22:53:00.001Z</updated>
+        <summary type="html"><![CDATA[In short Ledger dimension it is Main account + default dimension.
+
+So, if you need to replace any attribute value in a given Ledger dimension, do not forget to get a Default dimension first.
+
+
+LedgerDimensionFacade::getDefaultDimensionFromLedgerDimension(ledgerjournalTrans.LedgerDimension);
+
+
+Then you can use this old good way.
+
+
+DimensionDefault newDim = DimensionHelper::setValueToDefaultDimension(hcmEmployment.DefaultDimension, DimensionAttribute::findByName(_dimensionName).RecId, _dimensionValue);
+        
+
+BTW, the opposite thing works like that:
+
+
+LedgerDimensionFacade::serviceCreateLedgerDimension(ledgerDimensionMainAccount, inventTrans.defaultDimension);
+
+Supporting method
+
+public static DimensionDefault setValueToDefaultDimension(DimensionDefault _dimensionDefault, RefRecId _dimens…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sustainability & Environmental Protection in Asia – A Field Report (Part 1)]]></title>
         <id>http://dynamicsax-fico.com/?p=5281</id>

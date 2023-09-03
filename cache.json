@@ -9385,6 +9385,16 @@
       "siteUrl": "https://alexvoy.blogspot.com/",
       "articles": [
         {
+          "id": "https://alexvoy.blogspot.com/2023/09/ledger-dimension-vs-default-dimension.html",
+          "author": null,
+          "description": "In short Ledger dimension it is Main account + default dimension.\n\nSo, if you need to replace any attribute value in a given Ledger dimension, do not forget to get a Default dimension first.\n\n\nLedgerDimensionFacade::getDefaultDimensionFromLedgerDimension(ledgerjournalTrans.LedgerDimension);\n\n\nThen you can use this old good way.\n\n\nDimensionDefault newDim = DimensionHelper::setValueToDefaultDimension(hcmEmployment.DefaultDimension, DimensionAttribute::findByName(_dimensionName).RecId, _dimensionValue);\n        \n\nBTW, the opposite thing works like that:\n\n\nLedgerDimensionFacade::serviceCreateLedgerDimension(ledgerDimensionMainAccount, inventTrans.defaultDimension);\n\nSupporting method\n\npublic static DimensionDefault setValueToDefaultDimension(DimensionDefault _dimensionDefault, RefRecId _dimens…",
+          "link": "https://alexvoy.blogspot.com/2023/09/ledger-dimension-vs-default-dimension.html",
+          "publishedOn": "2023-09-02T22:53:00.001Z",
+          "wordCount": 2147,
+          "title": "Ledger dimension vs Default dimension",
+          "imageUrl": null
+        },
+        {
           "id": "https://alexvoy.blogspot.com/2023/08/how-to-selectunselect-all-records-in.html",
           "author": null,
           "description": "While adding standard command button you can opt for SelectAll to mark all records in a form grid. However, there is no such a command for the opposite - unselect all records.\n\n\nYou can easily achieve it by using the following method and two usual button form controls.\n\n  \n\n[Form]\npublic class mgcDeleteForm extends FormRun\n{\n    public void selectAll(boolean _select)\n    {\n        VendPaymFormat_DS.markAllLoadedRecords(_select);\n    }\n\n    [Control(\"Button\")]\n    class FormButtonControlSelectAll\n    {\n        public void clicked()\n        {\n            element.selectAll(true);\n            super();\n        }\n    }\n\n    [Control(\"Button\")]\n    class FormButtonControlUnSelectAll\n    {\n        public void clicked()\n        {\n            element.selectAll(false);\n            super();\n        }\n    }\n}",
