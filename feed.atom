@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-03T01:08:12.253Z</updated>
+    <updated>2023-09-04T01:05:26.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inventory Visibility Add-in – Supply Chain Management – Part 1]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2878</id>
+        <link href="https://anithasantosh.wordpress.com/2023/09/03/inventory-visibility-add-in-supply-chain-management-part-1/"/>
+        <updated>2023-09-03T20:44:43.000Z</updated>
+        <summary type="html"><![CDATA[With more demand on integrating systems, it is time-consuming to get a clear picture of the inventory status . With the Microsoft`s Inventory visibility add-in for SCM, above issue is no more a challenge to get the real-time , accurate … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sustainability & Environmental Protection in Asia – A Field Report (Part 2)]]></title>
+        <id>http://dynamicsax-fico.com/?p=5293</id>
+        <link href="https://dynamicsax-fico.com/2023/09/03/sustainability-environmental-protection-in-asia-a-field-report-part-2/"/>
+        <updated>2023-09-03T06:17:08.000Z</updated>
+        <summary type="html"><![CDATA[After we dealt with the waste problem in Asia (Indonesia) and Germany in part one, I would like to talk …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ledger dimension vs Default dimension]]></title>
         <id>https://alexvoy.blogspot.com/2023/09/ledger-dimension-vs-default-dimension.html</id>
@@ -35,6 +56,28 @@ Supporting method
 public static DimensionDefault setValueToDefaultDimension(DimensionDefault _dimensionDefault, RefRecId _dimens…]]></summary>
         <author>
             <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now generally available: The new Microsoft Dynamics 365 Customer Insights]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/01/now-generally-available-the-new-microsoft-dynamics-365-customer-insights/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/01/now-generally-available-the-new-microsoft-dynamics-365-customer-insights/"/>
+        <updated>2023-09-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At Microsoft Inspire 2023, we announced that we are bringing together Microsoft Dynamics 365 Marketing and Microsoft Dynamics 365 Customer Insights into one offer, enabling organizations to unify and enrich their customer data to deliver personalized, connected, end-to-end customer journeys across sales, marketing, and service. Today, we’re excited to share that the new Dynamics 365 Customer Insights is now generally available for purchase.
+The post Now generally available: The new Microsoft Dynamics 365 Customer Insights appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jayme Mesecher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep track of your trade policies with advanced export control]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/09/01/keep-track-of-your-trade-policies-with-advanced-export-control/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/09/01/keep-track-of-your-trade-policies-with-advanced-export-control/"/>
+        <updated>2023-09-01T13:49:26.000Z</updated>
+        <summary type="html"><![CDATA[Supply Chain Management lets you manage, track, and verify compliance with export control restrictions prior to confirming, picking, packing, shipping, and invoicing sales orders. The new advanced export control functionality allows you to manage your export control policies using a native Microsoft Dataverse solution that interfaces directly with your Supply Chain Management instance. Supply Chain Management then enforces compliance with international trade regulations by consulting your export-control policies in real time.
+The post Keep track of your trade policies with advanced export control appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Beatriz Nebot Gracia</name>
         </author>
     </entry>
     <entry>
@@ -70,6 +113,17 @@ the whole Dynamics Platform : on the Analytics part now !]]></summary>
         <summary type="html"><![CDATA[On August 1, we announced the general availability of Microsoft Power Automate Process Mining. Today, we’re excited to announce the availability of new Copilot capabilities in Power Automate Process Mining (in limited preview—US only). You can try it for free with a Power Automate trial license.]]></summary>
         <author>
             <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analyze the impact of AI-enhanced customer service with Copilot analytics]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/08/29/analyze-the-impact-of-ai-enhanced-customer-service-with-copilot-analytics/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/08/29/analyze-the-impact-of-ai-enhanced-customer-service-with-copilot-analytics/"/>
+        <updated>2023-08-29T19:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Copilot analytics in Dynamics 365 Customer Service offers deep insights into the operational impact of an organization’s investment in AI-enhanced customer service.
+The post Analyze the impact of AI-enhanced customer service with Copilot analytics  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Hardik Sanghavi</name>
         </author>
     </entry>
     <entry>

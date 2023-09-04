@@ -4234,6 +4234,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=2878",
+          "author": "AnithaEswaran",
+          "description": "With more demand on integrating systems, it is time-consuming to get a clear picture of the inventory status . With the Microsoft`s Inventory visibility add-in for SCM, above issue is no more a challenge to get the real-time , accurate … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/09/03/inventory-visibility-add-in-supply-chain-management-part-1/",
+          "publishedOn": "2023-09-03T20:44:43.000Z",
+          "wordCount": 3901,
+          "title": "Inventory Visibility Add-in – Supply Chain Management – Part 1",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/09/image-9.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2963",
           "author": "AnithaEswaran",
           "description": "With the version 10.0.36, it is not possible to automate the import of Bank statement to Sharepoint folder. More details soon.",
@@ -6075,8 +6085,38 @@
     {
       "title": "Microsoft Dynamics 365 Blog",
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
-      "siteUrl": "https://www.microsoft.com/en-us/industry/blog/industrial-metaverse/2023/08/17/3-ways-mixed-reality-empowers-frontline-workers/",
+      "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/01/now-generally-available-the-new-microsoft-dynamics-365-customer-insights/",
+          "author": "Jayme Mesecher",
+          "description": "At Microsoft Inspire 2023, we announced that we are bringing together Microsoft Dynamics 365 Marketing and Microsoft Dynamics 365 Customer Insights into one offer, enabling organizations to unify and enrich their customer data to deliver personalized, connected, end-to-end customer journeys across sales, marketing, and service. Today, we’re excited to share that the new Dynamics 365 Customer Insights is now generally available for purchase.\nThe post Now generally available: The new Microsoft Dynamics 365 Customer Insights appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/01/now-generally-available-the-new-microsoft-dynamics-365-customer-insights/",
+          "publishedOn": "2023-09-01T15:00:00.000Z",
+          "wordCount": 2897,
+          "title": "Now generally available: The new Microsoft Dynamics 365 Customer Insights",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/SEC20_Security_015_seo.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/01/keep-track-of-your-trade-policies-with-advanced-export-control/",
+          "author": "Beatriz Nebot Gracia",
+          "description": "Supply Chain Management lets you manage, track, and verify compliance with export control restrictions prior to confirming, picking, packing, shipping, and invoicing sales orders. The new advanced export control functionality allows you to manage your export control policies using a native Microsoft Dataverse solution that interfaces directly with your Supply Chain Management instance. Supply Chain Management then enforces compliance with international trade regulations by consulting your export-control policies in real time.\nThe post Keep track of your trade policies with advanced export control appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/01/keep-track-of-your-trade-policies-with-advanced-export-control/",
+          "publishedOn": "2023-09-01T13:49:26.000Z",
+          "wordCount": 2434,
+          "title": "Keep track of your trade policies with advanced export control",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2021/11/MSD_KV_01-1024x576.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/29/analyze-the-impact-of-ai-enhanced-customer-service-with-copilot-analytics/",
+          "author": "Hardik Sanghavi",
+          "description": "Copilot analytics in Dynamics 365 Customer Service offers deep insights into the operational impact of an organization’s investment in AI-enhanced customer service.\nThe post Analyze the impact of AI-enhanced customer service with Copilot analytics  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/08/29/analyze-the-impact-of-ai-enhanced-customer-service-with-copilot-analytics/",
+          "publishedOn": "2023-08-29T19:06:47.000Z",
+          "wordCount": 2609,
+          "title": "Analyze the impact of AI-enhanced customer service with Copilot analytics",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2019/11/customer-data.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/industry/blog/industrial-metaverse/2023/08/17/3-ways-mixed-reality-empowers-frontline-workers/",
           "author": "Lili Cheng",
@@ -10912,6 +10952,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5293",
+          "author": "Ludwig Reinhard",
+          "description": "After we dealt with the waste problem in Asia (Indonesia) and Germany in part one, I would like to talk …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2023/09/03/sustainability-environmental-protection-in-asia-a-field-report-part-2/",
+          "publishedOn": "2023-09-03T06:17:08.000Z",
+          "wordCount": 3403,
+          "title": "Sustainability & Environmental Protection in Asia – A Field Report (Part 2)",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/08/picheri3.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5281",
           "author": "Ludwig Reinhard",
