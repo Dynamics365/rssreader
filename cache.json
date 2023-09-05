@@ -5355,6 +5355,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4489",
+          "author": "Kurt Hatlevik",
+          "description": "At the inspirit365 Vision Summit in Paris, I got to present details from the latest Gartner report, Hype Cycle for Retail Technologies, 2023. There are 4 areas I would like to relate to the Dynamics 365 Commerce offerings, where I think Microsoft have a very strong offering. I cannot share the Gartner report, but I … Continue reading 4 Commerce hypes from Gartner",
+          "link": "https://kurthatlevik.com/2023/09/04/4-commerce-hypes-from-gartner/",
+          "publishedOn": "2023-09-04T10:41:39.000Z",
+          "wordCount": 3827,
+          "title": "4 Commerce hypes from Gartner",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/09/090423_1041_4commercehy1.png"
+        },
+        {
           "id": "http://kurthatlevik.com/2023/05/31/its-time-to-increment-dynamics-365-to-version-11-a-focus-on-dataverse-and-copilot-innovations/",
           "author": "Kurt Hatlevik",
           "description": "In the evolving world of business applications, Microsoft Dynamics 365 has consistently played a pivotal role in empowering organizations to drive digital transformation. With a rich history of releases, each version of Dynamics 365 has brought about significant enhancements and introduced innovative features to streamline operations, improve customer engagements, and accelerate business growth. As we … Continue reading It’s Time to Increment Dynamics 365 to Version 11: A Focus on Dataverse and CoPilot Innovations",
@@ -6085,7 +6095,7 @@
     {
       "title": "Microsoft Dynamics 365 Blog",
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
-      "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
+      "siteUrl": "https://www.microsoft.com/en-us/industry/blog/industrial-metaverse/2023/08/17/3-ways-mixed-reality-empowers-frontline-workers/",
       "articles": [
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/01/now-generally-available-the-new-microsoft-dynamics-365-customer-insights/",
@@ -11424,6 +11434,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=18745",
+          "author": "André Arnaud de Calavon",
+          "description": "Feature recommendation notifications under the hood For several years, Microsoft does have a dashboard with new and enhanced features that can be enabled by administrators to first evaluate the added value or impact on the current implementation. This will give organizations some time to choose when to enable new features. Features can also be turned […]\nThe post How to reverse engineer feature management features appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2023/09/how-to-reverse-engineer-feature-management-features/",
+          "publishedOn": "2023-09-04T17:29:00.000Z",
+          "wordCount": 4577,
+          "title": "How to reverse engineer feature management features",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/09/FeatureManagementReverseEngineer.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=18722",
           "author": "André Arnaud de Calavon",

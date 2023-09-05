@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-04T01:05:26.137Z</updated>
+    <updated>2023-09-05T01:03:40.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to reverse engineer feature management features]]></title>
+        <id>https://dynamicspedia.com/?p=18745</id>
+        <link href="https://dynamicspedia.com/2023/09/how-to-reverse-engineer-feature-management-features/"/>
+        <updated>2023-09-04T17:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Feature recommendation notifications under the hood For several years, Microsoft does have a dashboard with new and enhanced features that can be enabled by administrators to first evaluate the added value or impact on the current implementation. This will give organizations some time to choose when to enable new features. Features can also be turned […]
+The post How to reverse engineer feature management features appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Commerce hypes from Gartner]]></title>
+        <id>http://kurthatlevik.com/?p=4489</id>
+        <link href="https://kurthatlevik.com/2023/09/04/4-commerce-hypes-from-gartner/"/>
+        <updated>2023-09-04T10:41:39.000Z</updated>
+        <summary type="html"><![CDATA[At the inspirit365 Vision Summit in Paris, I got to present details from the latest Gartner report, Hype Cycle for Retail Technologies, 2023. There are 4 areas I would like to relate to the Dynamics 365 Commerce offerings, where I think Microsoft have a very strong offering. I cannot share the Gartner report, but I … Continue reading 4 Commerce hypes from Gartner]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inventory Visibility Add-in – Supply Chain Management – Part 1]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2878</id>
