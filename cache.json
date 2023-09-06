@@ -4761,6 +4761,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=3004",
+          "author": "peter.ramer",
+          "description": "In the last article, you learned how to read a file, and process the data in D365. Now, learn how to write a file in D365. There are several different ways you can get data out of Microsoft Dynamics 365 for Finance and Operations. You can use the data management framework, data entities, Odata, Excel,... Continue Reading →\nThe post Write A File In D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/write-a-file-in-d365/?utm_source=rss&utm_medium=rss&utm_campaign=write-a-file-in-d365",
+          "publishedOn": "2023-09-05T13:30:00.000Z",
+          "wordCount": 4001,
+          "title": "Write A File In D365",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2023/09/Write-A-File-In-D365.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=3049",
           "author": "peter.ramer",
           "description": "In the last tutorial you learned how to export data to excel. Now, learn how to update data from Excel in D365. There are some changes that can be made much faster in Excel compared to within D365. For instance, you can do a ‘find and replace‘ within Microsoft Excel. Specifically, push ctrl-H for the... Continue Reading →\nThe post Update Data From Excel In D365 appeared first on Dynamics 365 Musings.",
@@ -14833,6 +14843,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "whats-new-power-apps-august-2023-feature-update",
+          "author": null,
+          "description": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. We’ve got a great set of updates across for our makers, security and monitor improvements, and updates to model driven apps for end users.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-august-2023-feature-update/",
+          "publishedOn": "2023-09-05T07:02:49.000Z",
+          "wordCount": 3109,
+          "title": "What’s new: Power Apps August 2023 Feature Update",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/09/image-3.png"
+        },
         {
           "id": "introducing-new-ways-of-creating-tables",
           "author": null,

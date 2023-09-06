@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-05T01:03:40.547Z</updated>
+    <updated>2023-09-06T01:04:24.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Write A File In D365]]></title>
+        <id>https://dynamics365musings.com/?p=3004</id>
+        <link href="https://dynamics365musings.com/write-a-file-in-d365/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=write-a-file-in-d365"/>
+        <updated>2023-09-05T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In the last article, you learned how to read a file, and process the data in D365. Now, learn how to write a file in D365. There are several different ways you can get data out of Microsoft Dynamics 365 for Finance and Operations. You can use the data management framework, data entities, Odata, Excel,... Continue Reading →
+The post Write A File In D365 appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new: Power Apps August 2023 Feature Update]]></title>
+        <id>whats-new-power-apps-august-2023-feature-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-august-2023-feature-update/"/>
+        <updated>2023-09-05T07:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. We’ve got a great set of updates across for our makers, security and monitor improvements, and updates to model driven apps for end users.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to reverse engineer feature management features]]></title>
         <id>https://dynamicspedia.com/?p=18745</id>
