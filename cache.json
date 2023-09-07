@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=59206",
+          "author": "Debra Huntly",
+          "description": "Changes to Canadian Payroll for Dynamics GP\nCanada Revenue Agency will be announcing some required changes to Canadian Payroll for Dynamics GP users. There is not a lot of concrete information out yet, but we will update this blog as more information becomes available. What we do know is that the changes will involve the T4, T4A and possibly R1 and R1A....\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/changes-to-canadian-payroll-for-dynamics-gp/",
+          "publishedOn": "2023-09-06T15:25:26.000Z",
+          "wordCount": 1537,
+          "title": "Changes to Canadian Payroll for Dynamics GP",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=38690",
           "author": "Ryan Fiorini",
           "description": "Stuck Batches & Posting Interruptions in Dynamics GP\nHave you ever attempted to post a batch in Dynamics GP, only to receive one of the following error messages? “A batch is held in the Posting, Receiving, Busy, Marked, Locked or Edited status.” “Batch Failed to Complete Posting. Use the Batch Recovery Window to complete the posting process.” “Your previous transaction-level posting session has...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -9742,6 +9752,16 @@
       "siteUrl": "https://shashidotnet.wordpress.com",
       "articles": [
         {
+          "id": "http://shashidotnet.wordpress.com/?p=1019",
+          "author": "Shashi Sadasivan",
+          "description": "Each time you build your code, iisexpress will reset AND then the wait begins for the page to load.Now some machines may be better than others, but windows defender seems to interfere and scan files which can cause considerable delays.So lets make this run faster! Windows Defender runs in the background and any files being … Continue reading Make your VM run faster →",
+          "link": "https://shashidotnet.wordpress.com/2023/09/06/make-your-vm-run-faster/",
+          "publishedOn": "2023-09-06T04:13:56.000Z",
+          "wordCount": 3403,
+          "title": "Make your VM run faster",
+          "imageUrl": "https://shashidotnet.files.wordpress.com/2020/09/lowpolypotrait_zia.png?w=200"
+        },
+        {
           "id": "http://shashidotnet.wordpress.com/?p=988",
           "author": "Shashi Sadasivan",
           "description": "can-i-copy-multiple-rows-from-the-visual-studio-find-symbol-results-window https://stackoverflow.com/questions/1173808/can-i-copy-multiple-rows-from-the-visual-studio-find-symbol-results-window Sometimes it is probably useful to copy all the data from the Symbol results window in Visual studio. Either to process it manually or to run some analysis on it (Or whatever reason you fancy). Unfortunately Visual studio only allows you to copy one result at a time from that window which doesnt … Continue reading Visual studio – Copy all from Find Symbol Results →",
@@ -14843,6 +14863,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "leverage-power-fx-1-0",
+          "author": null,
+          "description": "We are pleased to announce the general availability of open-source Power Fx 1.0.  “1.0” means that the language definition is now stable and breaking changes will be managed and communicated.  It is now ready for you to integrate in your production work loads.  It will be coming to Power Apps later this year.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/leverage-power-fx-1-0/",
+          "publishedOn": "2023-09-06T09:46:49.000Z",
+          "wordCount": 2561,
+          "title": "Leverage Power Fx 1.0",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "whats-new-power-apps-august-2023-feature-update",
           "author": null,

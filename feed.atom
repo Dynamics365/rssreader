@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-06T01:04:24.508Z</updated>
+    <updated>2023-09-07T01:05:25.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Changes to Canadian Payroll for Dynamics GP]]></title>
+        <id>https://www.encorebusiness.com/?p=59206</id>
+        <link href="https://www.encorebusiness.com/blog/changes-to-canadian-payroll-for-dynamics-gp/"/>
+        <updated>2023-09-06T15:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Changes to Canadian Payroll for Dynamics GP
+Canada Revenue Agency will be announcing some required changes to Canadian Payroll for Dynamics GP users. There is not a lot of concrete information out yet, but we will update this blog as more information becomes available. What we do know is that the changes will involve the T4, T4A and possibly R1 and R1A....
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Debra Huntly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leverage Power Fx 1.0]]></title>
+        <id>leverage-power-fx-1-0</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/leverage-power-fx-1-0/"/>
+        <updated>2023-09-06T09:46:49.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the general availability of open-source Power Fx 1.0.  “1.0” means that the language definition is now stable and breaking changes will be managed and communicated.  It is now ready for you to integrate in your production work loads.  It will be coming to Power Apps later this year.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make your VM run faster]]></title>
+        <id>http://shashidotnet.wordpress.com/?p=1019</id>
+        <link href="https://shashidotnet.wordpress.com/2023/09/06/make-your-vm-run-faster/"/>
+        <updated>2023-09-06T04:13:56.000Z</updated>
+        <summary type="html"><![CDATA[Each time you build your code, iisexpress will reset AND then the wait begins for the page to load.Now some machines may be better than others, but windows defender seems to interfere and scan files which can cause considerable delays.So lets make this run faster! Windows Defender runs in the background and any files being … Continue reading Make your VM run faster →]]></summary>
+        <author>
+            <name>Shashi Sadasivan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Write A File In D365]]></title>
         <id>https://dynamics365musings.com/?p=3004</id>
