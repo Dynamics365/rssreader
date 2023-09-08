@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=59123",
+          "author": "The Encore Team",
+          "description": "How to Assign Default Dimensions to GL Accounts in Dynamics 365 Business Central\nDefault dimensions in Dynamics 365 Business Central can help you categorize and track your G/L accounts. Assigning default dimensions to your G/L accounts will save time on entries, as well as maintain consistency. With default dimensions, your dimensions will be automatically assigned when transactions are entered, or you will be thrown an error message as...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-assign-default-dimensions-to-gl-accounts-in-d365-bc/",
+          "publishedOn": "2023-09-07T16:45:57.000Z",
+          "wordCount": 1692,
+          "title": "How to Assign Default Dimensions to GL Accounts in Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=59206",
           "author": "Debra Huntly",
           "description": "Changes to Canadian Payroll for Dynamics GP\nCanada Revenue Agency will be announcing some required changes to Canadian Payroll for Dynamics GP users. There is not a lot of concrete information out yet, but we will update this blog as more information becomes available. What we do know is that the changes will involve the T4, T4A and possibly R1 and R1A....\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -3593,6 +3603,16 @@
       "feedUrl": "https://alexdmeyer.com/feed/",
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
+        {
+          "id": "https://alexdmeyer.com/?p=2830",
+          "author": "Alex",
+          "description": "I’ve written about D365FO data entities in the past and have had the opportunity to use them extensively from a ISV and consulting perspective. While working with them I have found myself at different times wanting to have a centralized source of information surrounding their metadata, the data sources used (both root data source and […]\nThe post D365FO Data Entity Metadata appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/09/07/d365fo-data-entity-metadata/",
+          "publishedOn": "2023-09-07T14:27:29.000Z",
+          "wordCount": 4678,
+          "title": "D365FO Data Entity Metadata",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/09/1.png"
+        },
         {
           "id": "https://alexdmeyer.com/?p=2798",
           "author": "Alex",
@@ -6115,8 +6135,28 @@
     {
       "title": "Microsoft Dynamics 365 Blog",
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
-      "siteUrl": "https://www.microsoft.com/en-us/industry/blog/industrial-metaverse/2023/08/17/3-ways-mixed-reality-empowers-frontline-workers/",
+      "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/06/4-benefits-of-modern-warehouse-management-solutions/",
+          "author": "Alexis Goodrich",
+          "description": "As we gear up for the holiday season, businesses that are agile and responsive will be poised to capture market demand and deliver an exceptional end-to-end customer experience. Adopting modern technology solutions can introduce agility to key processes overnight, and leaders should look across their supply chain functions to identify levers for maximum impact.\nThe post 4 benefits of modern warehouse management solutions appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/06/4-benefits-of-modern-warehouse-management-solutions/",
+          "publishedOn": "2023-09-06T17:30:00.000Z",
+          "wordCount": 3265,
+          "title": "4 benefits of modern warehouse management solutions",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/08/CLO17_warehouse_001.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/05/idc-shares-how-generative-ai-transforms-business-processes-within-marketing-sales-and-service/",
+          "author": "Carlena Neely",
+          "description": "This post is authored by Gerry Murray, Marketing and Sales Technology Research Director, IDC; and coauthored by Carlena Neely, Product Marketing Manager, Business Applications, Microsoft. Delving into the realm of customer-centric strategies, IDC analyst Gerry Murray casts a visionary light on the transformative influence of generative AI (Gen AI) on sales and service. Murray’s perspective\nThe post IDC shares how generative AI transforms business processes within marketing, sales, and service  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/05/idc-shares-how-generative-ai-transforms-business-processes-within-marketing-sales-and-service/",
+          "publishedOn": "2023-09-05T17:00:00.000Z",
+          "wordCount": 2956,
+          "title": "IDC shares how generative AI transforms business processes within marketing, sales, and service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/CLO20_Vanessa_001_seo.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/01/now-generally-available-the-new-microsoft-dynamics-365-customer-insights/",
           "author": "Jayme Mesecher",
@@ -10052,7 +10092,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "https://paragchapre.com/",
+      "siteUrl": "http://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12083",

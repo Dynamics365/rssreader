@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-07T01:05:25.604Z</updated>
+    <updated>2023-09-08T01:05:06.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Assign Default Dimensions to GL Accounts in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=59123</id>
+        <link href="https://www.encorebusiness.com/blog/how-to-assign-default-dimensions-to-gl-accounts-in-d365-bc/"/>
+        <updated>2023-09-07T16:45:57.000Z</updated>
+        <summary type="html"><![CDATA[How to Assign Default Dimensions to GL Accounts in Dynamics 365 Business Central
+Default dimensions in Dynamics 365 Business Central can help you categorize and track your G/L accounts. Assigning default dimensions to your G/L accounts will save time on entries, as well as maintain consistency. With default dimensions, your dimensions will be automatically assigned when transactions are entered, or you will be thrown an error message as...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>The Encore Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365FO Data Entity Metadata]]></title>
+        <id>https://alexdmeyer.com/?p=2830</id>
+        <link href="https://alexdmeyer.com/2023/09/07/d365fo-data-entity-metadata/"/>
+        <updated>2023-09-07T14:27:29.000Z</updated>
+        <summary type="html"><![CDATA[I’ve written about D365FO data entities in the past and have had the opportunity to use them extensively from a ISV and consulting perspective. While working with them I have found myself at different times wanting to have a centralized source of information surrounding their metadata, the data sources used (both root data source and […]
+The post D365FO Data Entity Metadata appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 benefits of modern warehouse management solutions]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/06/4-benefits-of-modern-warehouse-management-solutions/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/06/4-benefits-of-modern-warehouse-management-solutions/"/>
+        <updated>2023-09-06T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As we gear up for the holiday season, businesses that are agile and responsive will be poised to capture market demand and deliver an exceptional end-to-end customer experience. Adopting modern technology solutions can introduce agility to key processes overnight, and leaders should look across their supply chain functions to identify levers for maximum impact.
+The post 4 benefits of modern warehouse management solutions appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Alexis Goodrich</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changes to Canadian Payroll for Dynamics GP]]></title>
         <id>https://www.encorebusiness.com/?p=59206</id>
@@ -37,6 +72,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[Each time you build your code, iisexpress will reset AND then the wait begins for the page to load.Now some machines may be better than others, but windows defender seems to interfere and scan files which can cause considerable delays.So lets make this run faster! Windows Defender runs in the background and any files being … Continue reading Make your VM run faster →]]></summary>
         <author>
             <name>Shashi Sadasivan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDC shares how generative AI transforms business processes within marketing, sales, and service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/05/idc-shares-how-generative-ai-transforms-business-processes-within-marketing-sales-and-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/05/idc-shares-how-generative-ai-transforms-business-processes-within-marketing-sales-and-service/"/>
+        <updated>2023-09-05T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is authored by Gerry Murray, Marketing and Sales Technology Research Director, IDC; and coauthored by Carlena Neely, Product Marketing Manager, Business Applications, Microsoft. Delving into the realm of customer-centric strategies, IDC analyst Gerry Murray casts a visionary light on the transformative influence of generative AI (Gen AI) on sales and service. Murray’s perspective
+The post IDC shares how generative AI transforms business processes within marketing, sales, and service  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Carlena Neely</name>
         </author>
     </entry>
     <entry>
