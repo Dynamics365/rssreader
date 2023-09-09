@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-08T01:05:06.757Z</updated>
+    <updated>2023-09-09T01:02:59.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Step-by-Step Guide: Creating D365FO Build and Deploy Pipelines]]></title>
+        <id>https://denistrunin.com/d365fo-buildrelease/</id>
+        <link href="https://denistrunin.com/d365fo-buildrelease/"/>
+        <updated>2023-09-08T22:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to set up DevOps-hosted Build and Deploy pipelines for Dynamics 365 for Finance and Operations in this detailed guide]]></summary>
+        <author>
+            <name>Gatsby RSS Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Assign Default Dimensions to GL Accounts in Dynamics 365 Business Central]]></title>
         <id>https://www.encorebusiness.com/?p=59123</id>
@@ -17,6 +27,16 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>The Encore Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 2023 updates for modernization and theming in Power Apps]]></title>
+        <id>august-2023-updates-for-modernization-and-theming-in-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/august-2023-updates-for-modernization-and-theming-in-power-apps/"/>
+        <updated>2023-09-07T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Note: This blog is in continuation of the announcement of modern controls coming to canvas apps & new look for model driven apps. You can find the July 2023 updates here. Modern controls updates in canvas apps In the month of August, there was critical progress made on the journey to modernize Power Apps with…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>

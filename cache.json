@@ -14343,6 +14343,16 @@
       "siteUrl": "https://denistrunin.com",
       "articles": [
         {
+          "id": "https://denistrunin.com/d365fo-buildrelease/",
+          "author": null,
+          "description": "Learn how to set up DevOps-hosted Build and Deploy pipelines for Dynamics 365 for Finance and Operations in this detailed guide",
+          "link": "https://denistrunin.com/d365fo-buildrelease/",
+          "publishedOn": "2023-09-08T22:12:03.000Z",
+          "wordCount": 866,
+          "title": "Step-by-Step Guide: Creating D365FO Build and Deploy Pipelines",
+          "imageUrl": "https://denistrunin.com/static/26b330b19634713b17db08c20bb0154b/39351/logo.png"
+        },
+        {
           "id": "https://denistrunin.com/performance-d365batch/",
           "author": null,
           "description": "The blog post describes how D365FO batch framework handle errors and what kind of problems it may cause",
@@ -14903,6 +14913,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "august-2023-updates-for-modernization-and-theming-in-power-apps",
+          "author": null,
+          "description": "Note: This blog is in continuation of the announcement of modern controls coming to canvas apps & new look for model driven apps. You can find the July 2023 updates here. Modern controls updates in canvas apps In the month of August, there was critical progress made on the journey to modernize Power Apps with…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/august-2023-updates-for-modernization-and-theming-in-power-apps/",
+          "publishedOn": "2023-09-07T15:33:00.000Z",
+          "wordCount": 2042,
+          "title": "August 2023 updates for modernization and theming in Power Apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "leverage-power-fx-1-0",
           "author": null,
