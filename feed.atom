@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-11T01:06:04.367Z</updated>
+    <updated>2023-09-12T01:03:18.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canvas built-in offline is now just one click away!]]></title>
+        <id>canvas-built-in-offline-is-now-just-one-click-away</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/canvas-built-in-offline-is-now-just-one-click-away/"/>
+        <updated>2023-09-11T06:58:30.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the Public preview of mobile offline for canvas apps on iOS, Android and Windows devices. Mobile offline has been available in Experimental Preview since May 2023. We’ve been listening to your feedback and we’re excited to make this feature available by default for Power Apps makers. With this preview, you…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Step-by-Step Guide: Creating D365FO Build and Deploy Pipelines]]></title>
         <id>https://denistrunin.com/d365fo-buildrelease/</id>
@@ -14,6 +24,17 @@
         <summary type="html"><![CDATA[Learn how to set up DevOps-hosted Build and Deploy pipelines for Dynamics 365 for Finance and Operations in this detailed guide]]></summary>
         <author>
             <name>Gatsby RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline your sales workflow: How AI-powered Opportunity summaries transform collaboration]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/09/07/streamline-your-sales-workflow-how-ai-powered-opportunity-summaries-transform-collaboration/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/09/07/streamline-your-sales-workflow-how-ai-powered-opportunity-summaries-transform-collaboration/"/>
+        <updated>2023-09-07T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's fast-paced sales landscape, staying ahead of the game is more crucial than ever.
+The post Streamline your sales workflow: How AI-powered Opportunity summaries transform collaboration appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Darshini Jois</name>
         </author>
     </entry>
     <entry>
@@ -37,6 +58,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[Note: This blog is in continuation of the announcement of modern controls coming to canvas apps & new look for model driven apps. You can find the July 2023 updates here. Modern controls updates in canvas apps In the month of August, there was critical progress made on the journey to modernize Power Apps with…]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Microsoft to global brands, Dynamics 365 Copilot is helping transform customer experiences across service, sales, and marketing]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/07/from-microsoft-to-global-brands-dynamics-365-copilot-is-helping-transform-customer-experiences-across-service-sales-and-marketing/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/07/from-microsoft-to-global-brands-dynamics-365-copilot-is-helping-transform-customer-experiences-across-service-sales-and-marketing/"/>
+        <updated>2023-09-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Six months ago, we introduced Microsoft Dynamics 365 Copilot, the world’s first AI Copilot natively built for customer relationship management (CRM) and enterprise resource planning (ERP) applications. Since then, more than 63,000 organizations have experienced Copilot features in Microsoft Dynamics 365 and Microsoft Power Platform first-hand, empowering marketing, sales, and customer service teams in new ways to improve experiences across the customer journey.
+The post From Microsoft to global brands, Dynamics 365 Copilot is helping transform customer experiences across service, sales, and marketing appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Emily He</name>
         </author>
     </entry>
     <entry>

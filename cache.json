@@ -6138,6 +6138,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/07/streamline-your-sales-workflow-how-ai-powered-opportunity-summaries-transform-collaboration/",
+          "author": "Darshini Jois",
+          "description": "In today's fast-paced sales landscape, staying ahead of the game is more crucial than ever.\nThe post Streamline your sales workflow: How AI-powered Opportunity summaries transform collaboration appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/07/streamline-your-sales-workflow-how-ai-powered-opportunity-summaries-transform-collaboration/",
+          "publishedOn": "2023-09-07T17:30:00.000Z",
+          "wordCount": 2382,
+          "title": "Streamline your sales workflow: How AI-powered Opportunity summaries transform collaboration",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/CLO17_casualOffice_017.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/07/from-microsoft-to-global-brands-dynamics-365-copilot-is-helping-transform-customer-experiences-across-service-sales-and-marketing/",
+          "author": "Emily He",
+          "description": "Six months ago, we introduced Microsoft Dynamics 365 Copilot, the world’s first AI Copilot natively built for customer relationship management (CRM) and enterprise resource planning (ERP) applications. Since then, more than 63,000 organizations have experienced Copilot features in Microsoft Dynamics 365 and Microsoft Power Platform first-hand, empowering marketing, sales, and customer service teams in new ways to improve experiences across the customer journey.\nThe post From Microsoft to global brands, Dynamics 365 Copilot is helping transform customer experiences across service, sales, and marketing appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/07/from-microsoft-to-global-brands-dynamics-365-copilot-is-helping-transform-customer-experiences-across-service-sales-and-marketing/",
+          "publishedOn": "2023-09-07T15:00:00.000Z",
+          "wordCount": 3618,
+          "title": "From Microsoft to global brands, Dynamics 365 Copilot is helping transform customer experiences across service, sales, and marketing",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/CLO23_Portraits_031_seo.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/06/4-benefits-of-modern-warehouse-management-solutions/",
           "author": "Alexis Goodrich",
           "description": "As we gear up for the holiday season, businesses that are agile and responsive will be poised to capture market demand and deliver an exceptional end-to-end customer experience. Adopting modern technology solutions can introduce agility to key processes overnight, and leaders should look across their supply chain functions to identify levers for maximum impact.\nThe post 4 benefits of modern warehouse management solutions appeared first on Microsoft Dynamics 365 Blog.",
@@ -10092,7 +10112,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "http://paragchapre.com/",
+      "siteUrl": "https://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12083",
@@ -14913,6 +14933,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "canvas-built-in-offline-is-now-just-one-click-away",
+          "author": null,
+          "description": "We are pleased to announce the Public preview of mobile offline for canvas apps on iOS, Android and Windows devices. Mobile offline has been available in Experimental Preview since May 2023. We’ve been listening to your feedback and we’re excited to make this feature available by default for Power Apps makers. With this preview, you…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/canvas-built-in-offline-is-now-just-one-click-away/",
+          "publishedOn": "2023-09-11T06:58:30.000Z",
+          "wordCount": 2006,
+          "title": "Canvas built-in offline is now just one click away!",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/09/Offline-First-3.png"
+        },
         {
           "id": "august-2023-updates-for-modernization-and-theming-in-power-apps",
           "author": null,
