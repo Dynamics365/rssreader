@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=58878",
+          "author": "Amanda Eklund",
+          "description": "How To Return Items with Directed Put-away and Pick in Dynamics 365 Business Central\nUsing the directed put-away and pick process for creating a new sales return order in Dynamics 365 Business Central can be manually complex. This article will help users working in accounting, sales, customer service, etc. who use directed put-away and pick to better manage their customer returns and deal with errors. I will be discussing...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/return-items-with-directed-put-away-and-pick-in-d365-bc/",
+          "publishedOn": "2023-09-12T16:28:22.000Z",
+          "wordCount": 1652,
+          "title": "How To Return Items with Directed Put-away and Pick in Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=59123",
           "author": "The Encore Team",
           "description": "How to Assign Default Dimensions to GL Accounts in Dynamics 365 Business Central\nDefault dimensions in Dynamics 365 Business Central can help you categorize and track your G/L accounts. Assigning default dimensions to your G/L accounts will save time on entries, as well as maintain consistency. With default dimensions, your dimensions will be automatically assigned when transactions are entered, or you will be thrown an error message as...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -6137,6 +6147,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/12/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-sales-force-automation-platforms/",
+          "author": "Lori Lamkin",
+          "description": "Sellers are fundamental to any organization’s success—and despite economic headwinds, business leaders are concerned about keeping the talent they have happy and productive at their jobs. Today, we’re excited to share that Microsoft has been recognized again as a Leader within the 2023 Gartner Magic Quadrant for Sales Force Automation Platforms* for the thirteenth consecutive year. In this year’s report, Microsoft is positioned highest in Completeness of Vision.\nThe post Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for Sales Force Automation Platforms appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/12/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-sales-force-automation-platforms/",
+          "publishedOn": "2023-09-12T16:00:00.000Z",
+          "wordCount": 3147,
+          "title": "Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for Sales Force Automation Platforms",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/CLO20_Jessie_013_seo.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/12/extend-your-dynamics-365-skills-at-the-second-power-platform-conference-this-october-in-las-vegas/",
+          "author": "Erin Friedman",
+          "description": "Join us at the second annual Power Platform Conference, sponsored by Microsoft, October 1-6 in Las Vegas!\nThe post Extend your Dynamics 365 skills at the second Power Platform Conference this October in Las Vegas appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/12/extend-your-dynamics-365-skills-at-the-second-power-platform-conference-this-october-in-las-vegas/",
+          "publishedOn": "2023-09-12T15:00:00.000Z",
+          "wordCount": 2411,
+          "title": "Extend your Dynamics 365 skills at the second Power Platform Conference this October in Las Vegas",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/Ofc17_Group_002.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/07/streamline-your-sales-workflow-how-ai-powered-opportunity-summaries-transform-collaboration/",
           "author": "Darshini Jois",
@@ -14775,16 +14805,6 @@
           "wordCount": 2595,
           "title": "Canvas sections in D365 Configurable Business Documents",
           "imageUrl": "https://erconsult.eu/wp-content/uploads/2021/10/Bill_of_Exchange_Title.png"
-        },
-        {
-          "id": "https://erconsult.eu/?p=2373",
-          "author": "Eugen Glasow",
-          "description": "Recently I was given an opportunity by an American partner to develop something around dimensions in Dynamics 365 for Finance. A few years ago, my blog Get a cost center in D365FO resonated quite a bit, this time it goes deeper.The task is generally to enrich a source document with a […]\nThe post Find and merge a DimensionAttributeValue appeared first on ER-Consult.",
-          "link": "https://erconsult.eu/blog/find-and-merge-a-dimensionattributevalue/",
-          "publishedOn": "2021-09-12T21:48:04.000Z",
-          "wordCount": 2571,
-          "title": "Find and merge a DimensionAttributeValue",
-          "imageUrl": "https://erconsult.eu/wp-content/uploads/2021/09/ICDimensionTitle.png"
         }
       ]
     },
@@ -14933,6 +14953,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "simplifying-license-management-with-auto-claim-for-power-apps-and-licensing-insights-for-power-automate",
+          "author": null,
+          "description": "It is with great pleasure that we introduce the public preview of Auto-claim for Power Apps licenses, a feature that empowers administrators to effortlessly set up policies within the Microsoft 365 admin center. These policies enable automatic license assignments to unlicensed users when they engage with Power Apps that require licensing.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/simplifying-license-management-with-auto-claim-for-power-apps-and-licensing-insights-for-power-automate/",
+          "publishedOn": "2023-09-12T07:00:00.000Z",
+          "wordCount": 2396,
+          "title": "Simplifying license management with auto-claim for Power Apps and licensing insights for Power Automate",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/09/Ofc17_small_business_female.jpg"
+        },
         {
           "id": "canvas-built-in-offline-is-now-just-one-click-away",
           "author": null,

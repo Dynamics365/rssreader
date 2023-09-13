@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-12T01:03:18.257Z</updated>
+    <updated>2023-09-13T01:06:05.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Return Items with Directed Put-away and Pick in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=58878</id>
+        <link href="https://www.encorebusiness.com/blog/return-items-with-directed-put-away-and-pick-in-d365-bc/"/>
+        <updated>2023-09-12T16:28:22.000Z</updated>
+        <summary type="html"><![CDATA[How To Return Items with Directed Put-away and Pick in Dynamics 365 Business Central
+Using the directed put-away and pick process for creating a new sales return order in Dynamics 365 Business Central can be manually complex. This article will help users working in accounting, sales, customer service, etc. who use directed put-away and pick to better manage their customer returns and deal with errors. I will be discussing...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Amanda Eklund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for Sales Force Automation Platforms]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/12/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-sales-force-automation-platforms/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/12/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-sales-force-automation-platforms/"/>
+        <updated>2023-09-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sellers are fundamental to any organization’s success—and despite economic headwinds, business leaders are concerned about keeping the talent they have happy and productive at their jobs. Today, we’re excited to share that Microsoft has been recognized again as a Leader within the 2023 Gartner Magic Quadrant for Sales Force Automation Platforms* for the thirteenth consecutive year. In this year’s report, Microsoft is positioned highest in Completeness of Vision.
+The post Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for Sales Force Automation Platforms appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Lori Lamkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extend your Dynamics 365 skills at the second Power Platform Conference this October in Las Vegas]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/09/12/extend-your-dynamics-365-skills-at-the-second-power-platform-conference-this-october-in-las-vegas/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/09/12/extend-your-dynamics-365-skills-at-the-second-power-platform-conference-this-october-in-las-vegas/"/>
+        <updated>2023-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Join us at the second annual Power Platform Conference, sponsored by Microsoft, October 1-6 in Las Vegas!
+The post Extend your Dynamics 365 skills at the second Power Platform Conference this October in Las Vegas appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Erin Friedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplifying license management with auto-claim for Power Apps and licensing insights for Power Automate]]></title>
+        <id>simplifying-license-management-with-auto-claim-for-power-apps-and-licensing-insights-for-power-automate</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/simplifying-license-management-with-auto-claim-for-power-apps-and-licensing-insights-for-power-automate/"/>
+        <updated>2023-09-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is with great pleasure that we introduce the public preview of Auto-claim for Power Apps licenses, a feature that empowers administrators to effortlessly set up policies within the Microsoft 365 admin center. These policies enable automatic license assignments to unlicensed users when they engage with Power Apps that require licensing.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canvas built-in offline is now just one click away!]]></title>
         <id>canvas-built-in-offline-is-now-just-one-click-away</id>
@@ -23074,17 +23119,6 @@ CompanyInfo companyInfo = CompanyInfo::find();
         <updated>2021-09-12T21:48:04.000Z</updated>
         <summary type="html"><![CDATA[Recently I was given an opportunity by an American partner to develop something around dimensions in Dynamics 365 for Finance. A few years ago, my blog Get a cost center in D365FO resonated quite a bit...
 (read more)]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find and merge a DimensionAttributeValue]]></title>
-        <id>https://erconsult.eu/?p=2373</id>
-        <link href="https://erconsult.eu/blog/find-and-merge-a-dimensionattributevalue/"/>
-        <updated>2021-09-12T21:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Recently I was given an opportunity by an American partner to develop something around dimensions in Dynamics 365 for Finance. A few years ago, my blog Get a cost center in D365FO resonated quite a bit, this time it goes deeper.The task is generally to enrich a source document with a […]
-The post Find and merge a DimensionAttributeValue appeared first on ER-Consult.]]></summary>
         <author>
             <name>Eugen Glasow</name>
         </author>
