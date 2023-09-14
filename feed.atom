@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-13T01:06:05.917Z</updated>
+    <updated>2023-09-14T01:04:16.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Import bacpac error: File contains damaged data]]></title>
+        <id>http://paragchapre.com/?p=12095</id>
+        <link href="https://paragchapre.com/import-bacpac-error-file-contains-damaged-data/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=import-bacpac-error-file-contains-damaged-data"/>
+        <updated>2023-09-13T07:01:15.000Z</updated>
+        <summary type="html"><![CDATA[This week, I attempted to import a bacpac file on my development machine using SQLPackage for Windows, but I encountered an error while reading the bacpac file. The error message stated: “File contains damaged data. Resolution: Download SQLPackage .NET Core software in your Development Machine. To extract the file by right-clicking on the file in Windows […]
+The post Import bacpac error: File contains damaged data appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Return Items with Directed Put-away and Pick in Dynamics 365 Business Central]]></title>
         <id>https://www.encorebusiness.com/?p=58878</id>
@@ -23078,16 +23089,6 @@ CompanyInfo companyInfo = CompanyInfo::find();
         <summary type="html"><![CDATA[Read complete post here(read more)]]></summary>
         <author>
             <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Automate Flow to fetch LCS environment metadata]]></title>
-        <id>http://d365fostuff.wordpress.com/?p=262</id>
-        <link href="https://d365fostuff.wordpress.com/2021/09/13/power-automate-flow-to-fetch-lcs-environment-metadata/"/>
-        <updated>2021-09-13T18:11:59.000Z</updated>
-        <summary type="html"><![CDATA[In my first post we utilized the LCS API to start and stop cloud hosted environments via power automate. Since the API has evolved and we can now get environment metadata, environment history or the environment RSAT certificate, I decided to make another one. This time it’ll cover fetching the environment metadata through a power […]]]></summary>
-        <author>
-            <name>Marijan</name>
         </author>
     </entry>
     <entry>

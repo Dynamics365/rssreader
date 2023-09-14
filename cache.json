@@ -3981,16 +3981,6 @@
           "wordCount": 1009,
           "title": "Automated Release Notes for your (D365) Azure DevOps – project",
           "imageUrl": "https://d365fostuff.files.wordpress.com/2021/12/headerreleasenotes.png?w=1200"
-        },
-        {
-          "id": "http://d365fostuff.wordpress.com/?p=262",
-          "author": "Marijan",
-          "description": "In my first post we utilized the LCS API to start and stop cloud hosted environments via power automate. Since the API has evolved and we can now get environment metadata, environment history or the environment RSAT certificate, I decided to make another one. This time it’ll cover fetching the environment metadata through a power […]",
-          "link": "https://d365fostuff.wordpress.com/2021/09/13/power-automate-flow-to-fetch-lcs-environment-metadata/",
-          "publishedOn": "2021-09-13T18:11:59.000Z",
-          "wordCount": 1230,
-          "title": "Power Automate Flow to fetch LCS environment metadata",
-          "imageUrl": "https://d365fostuff.files.wordpress.com/2021/09/parallel-excel-actions-1.png?w=1200"
         }
       ]
     },
@@ -10144,6 +10134,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com/",
       "articles": [
+        {
+          "id": "http://paragchapre.com/?p=12095",
+          "author": "paragchapre@gmail.com",
+          "description": "This week, I attempted to import a bacpac file on my development machine using SQLPackage for Windows, but I encountered an error while reading the bacpac file. The error message stated: “File contains damaged data. Resolution: Download SQLPackage .NET Core software in your Development Machine. To extract the file by right-clicking on the file in Windows […]\nThe post Import bacpac error: File contains damaged data appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/import-bacpac-error-file-contains-damaged-data/?utm_source=rss&utm_medium=rss&utm_campaign=import-bacpac-error-file-contains-damaged-data",
+          "publishedOn": "2023-09-13T07:01:15.000Z",
+          "wordCount": 2390,
+          "title": "Import bacpac error: File contains damaged data",
+          "imageUrl": "http://paragchapre.com/wp-content/uploads/2023/09/Corrupt-file.png"
+        },
         {
           "id": "http://paragchapre.com/?p=12083",
           "author": "paragchapre@gmail.com",
