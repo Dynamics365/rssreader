@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-14T01:04:16.891Z</updated>
+    <updated>2023-09-15T01:05:52.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #17]]></title>
+        <id>http://dynamicsax-fico.com/?p=5261</id>
+        <link href="https://dynamicsax-fico.com/2023/09/14/microsoft-bizapps-deutschland-podcast-17/"/>
+        <updated>2023-09-14T07:53:59.000Z</updated>
+        <summary type="html"><![CDATA[[German language podcast] In unserem neuesten BizApps Podcast haben wir Tobias Menzel und Kathrin Gunawardena von HSO zu Gast. Neben …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Import bacpac error: File contains damaged data]]></title>
         <id>http://paragchapre.com/?p=12095</id>
