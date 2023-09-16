@@ -7880,6 +7880,16 @@
       "siteUrl": "https://dev.goshoom.net",
       "articles": [
         {
+          "id": "https://dev.goshoom.net/?p=9924",
+          "author": "Martin Dráb",
+          "description": "Something that was talked about for a long time is getting closer to reality. F&O development will no longer require those huge VMs with SQL Server and everything. Instead, you’ll just install some VS extensions, connect to Dataverse, download F&O code and metadata and start developing. The runtime (web server, database) will be in cloud, ...\nContinue reading ‘Public preview of the new F&O dev experience’ »",
+          "link": "https://dev.goshoom.net/2023/09/public-preview-of-the-new-fo-dev-experience/",
+          "publishedOn": "2023-09-15T07:27:40.000Z",
+          "wordCount": 1282,
+          "title": "Public preview of the new F&O dev experience",
+          "imageUrl": null
+        },
+        {
           "id": "https://dev.goshoom.net/?p=9903",
           "author": "Martin Dráb",
           "description": "Applications Insights in an Azure service for monitoring of applications. Many Azure Services support it out of the box – you just connect, say, an Azure Function to Application Insights and it’ll automatically start collecting information about performance, failed requests and so on. Using Application Insights API from D365FO is possible and several people in ...\nContinue reading ‘Monitoring and telemetry in F&O’ »",
@@ -10132,7 +10142,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "https://paragchapre.com/",
+      "siteUrl": "http://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12095",
