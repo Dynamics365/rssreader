@@ -9978,6 +9978,26 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=27020",
+          "author": "Ana Gligorijevic",
+          "description": "Alerts are a very popular functionality in D365FO, do you agree? However, let's be honest, D365FO could offer more alert-related features out of the box 😀. But here we are, stepping up the game again with your favorite free library 😎 Docentric Free Edition 🚀. […]\nThe post Create Alert in a ⚡Single Click in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/create-alert-in-a-single-click-in-d365fo/",
+          "publishedOn": "2023-09-10T22:45:19.000Z",
+          "wordCount": 12200,
+          "title": "Create Alert in a ⚡Single Click in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/D365Blog-Create-Alert-in-a-Single-Click-in-D365FO.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=26982",
+          "author": "Vilko Jenko",
+          "description": "The Released Products -> Released Product Details form is bound to the InventTableModule table (Inventory module parameters) in 3 different roles: Purch (Purchase), Sales (Sell) and Invent (Manage costs) – this table acts as 3 different data sources. The field InventTableModule.Price appears in the fast […]\nThe post D365FO Released Product Details: How we fixed two bugs and find a workaround for creating alert rules appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/d365fo-released-product-details-how-we-fixed-two-bugs-and-find-a-workaround-for-creating-alert-rules/",
+          "publishedOn": "2023-09-03T22:08:25.000Z",
+          "wordCount": 12308,
+          "title": "D365FO Released Product Details: How we fixed two bugs and find a workaround for creating alert rules",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/D365Blog-D365FO-Released-Product-Details-how-we-fixed-two-bugs-and-find-a-workaround-for-creating-alert-rules.jpg"
+        },
+        {
           "id": "https://ax.docentric.com/?p=26718",
           "author": "Jovica Zivkovic",
           "description": "Some time ago, we wrote an article on how to merge PDF product specifications to printed Purchase orders. Read the article >> The solution presented in the above article is based on capability to merge PDF documents using Docentric Free Edition utilities. It enables you […]\nThe post Print D365FO Reports Merged with Attachments to Network Printers appeared first on Docentric AX.",
@@ -14399,16 +14419,6 @@
           "wordCount": 3281,
           "title": "Link newly created F&O environment with existing Dataverse environment",
           "imageUrl": "https://elearnd365.files.wordpress.com/2022/01/image.png"
-        },
-        {
-          "id": "http://elearnd365.com/?p=452",
-          "author": "Sukrut Parab",
-          "description": "In this blog post we will see step by step process for installing and configuring dual write solutions Dual write provides native near real time integration between dataverse and Finance and operations. You can integrate data for customers , products ,workers ,vendors etc. between customer engagements apps and F&O. More information about dual write you […]",
-          "link": "https://elearnd365.com/2021/09/16/installing-dual-write-components-and-deployment-of-projects-operations-for-dataverse-step-by-step/",
-          "publishedOn": "2021-09-17T04:06:00.000Z",
-          "wordCount": 3323,
-          "title": "Installing dual write components and deployment of Projects operations for Dataverse- Step by step",
-          "imageUrl": "https://elearnd365.files.wordpress.com/2021/12/image1-1.jpg"
         }
       ]
     },
