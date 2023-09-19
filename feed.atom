@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-18T01:05:08.792Z</updated>
+    <updated>2023-09-19T01:05:38.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Announcement] Tech Talks for Microsoft Cloud for Sustainability]]></title>
+        <id>http://kashperuk.blogspot.com/2023/09/announcement-tech-talks-for-microsoft.html</id>
+        <link href="http://kashperuk.blogspot.com/2023/09/announcement-tech-talks-for-microsoft.html"/>
+        <updated>2023-09-18T04:48:00.005Z</updated>
+        <summary type="html"><![CDATA[Sustainability in businessSustainability is not a new topic, but for a lot of companies this has been overlooked or not prioritized in previous years. With all the impact from climate change in recent years however, it is coming more and more into focus, with shareholders demanding to see companies making tangible progress on reducing their overall impact on the environment through reduction of]]></summary>
+        <author>
+            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The “S” in ESG, IT & occupational health]]></title>
         <id>http://dynamicsax-fico.com/?p=5249</id>
