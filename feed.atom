@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-19T01:05:38.448Z</updated>
+    <updated>2023-09-20T01:05:06.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to create a new custom financial dimension value with description and other parameters via X++]]></title>
+        <id>https://alexvoy.blogspot.com/2023/09/how-to-create-new-custom-financial.html</id>
+        <link href="https://alexvoy.blogspot.com/2023/09/how-to-create-new-custom-financial.html"/>
+        <updated>2023-09-19T16:49:00.001Z</updated>
+        <summary type="html"><![CDATA[User can add values manually to Custom dimension attribute type only. For all other backing entities it should go via standard table creation, say, new CustTable record, etc.
+
+
+
+
+The easiest way to create a new Custom list dimension value is to use the standard service DimensionValueService as follows. Say, you need to create a new value by using _newProjCategory record fields.
+
+
+
+DimensionValueService dimensionValueService = new DimensionValueService();
+DimensionValueContract dimensionValueContract = new DimensionValueContract();
+dimensionValueContract.parmValue(_newProjCategory.Id);
+dimensionValueContract.parmDimensionAttribute(mgcDimHelper::getProjCategoryAttribute);
+dimensionValueContract.parmDescription(_newProjCategory.Name);
+
+dimensionValueService.createDimensionValue(dimensionValueContract);
+
+
+It creates the display value as its description.]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline your governance and environment strategy using Default Environment Routing  (preview)]]></title>
+        <id>default-environment-routing-public-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/default-environment-routing-public-preview/"/>
+        <updated>2023-09-19T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the public preview of Default Environment Routing, a new Managed Environments feature that allows Power Platform admins to automatically direct new makers into their own personal developer environment when they visit make.powerapps.com for the first time. Default environment routing offers new makers a personal, safe space to build with Microsoft Dataverse,…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Announcement] Tech Talks for Microsoft Cloud for Sustainability]]></title>
         <id>http://kashperuk.blogspot.com/2023/09/announcement-tech-talks-for-microsoft.html</id>
@@ -14,6 +52,21 @@
         <summary type="html"><![CDATA[Sustainability in businessSustainability is not a new topic, but for a lot of companies this has been overlooked or not prioritized in previous years. With all the impact from climate change in recent years however, it is coming more and more into focus, with shareholders demanding to see companies making tangible progress on reducing their overall impact on the environment through reduction of]]></summary>
         <author>
             <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 FinOps Unified developer experience]]></title>
+        <id>5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:6506fc20da41d77b570c8ee5</id>
+        <link href="https://www.powerazure365.com/blog-1/dynamics-365-finops-unified-developer-experience"/>
+        <updated>2023-09-17T13:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello the Community ! This is for me the most important feature for 
+Dynamics 365 F&O for several years ! Discover the big change on the DEV & 
+Admin part. Unified developer experience is now there to unify the way we 
+work every day with the convergence on Power Platform, Dataverse, and the 
+journey of One Dynamics One Platform: ODOP. Discover how you can develop 
+now locally !]]></summary>
+        <author>
+            <name>Aurélien Clere</name>
         </author>
     </entry>
     <entry>

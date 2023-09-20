@@ -3881,6 +3881,17 @@
       "siteUrl": "https://www.powerazure365.com/",
       "articles": [
         {
+          "id": "5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:6506fc20da41d77b570c8ee5",
+          "author": "Aurélien Clere",
+          "description": "Hello the Community ! This is for me the most important feature for \r\nDynamics 365 F&O for several years ! Discover the big change on the DEV & \r\nAdmin part. Unified developer experience is now there to unify the way we \r\nwork every day with the convergence on Power Platform, Dataverse, and the \r\njourney of One Dynamics One Platform: ODOP. Discover how you can develop \r\nnow locally !",
+          "link": "https://www.powerazure365.com/blog-1/dynamics-365-finops-unified-developer-experience",
+          "publishedOn": "2023-09-17T13:16:10.000Z",
+          "wordCount": null,
+          "title": "Dynamics 365 FinOps Unified developer experience",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5dee13c4b2178b0eae4710df:5dee1a3fe46e2d0693d0c4ce:64eef8401256773ea561da04",
           "author": "Aurélien Clere",
           "description": "Hello the Community !\r\n\r\nHope you had good summer holidays, starting next season articles, it was \r\ntime for me to write this new article to explain again the convergence of \r\nthe whole Dynamics Platform : on the Analytics part now !",
@@ -9545,6 +9556,16 @@
       "siteUrl": "https://alexvoy.blogspot.com/",
       "articles": [
         {
+          "id": "https://alexvoy.blogspot.com/2023/09/how-to-create-new-custom-financial.html",
+          "author": null,
+          "description": "User can add values manually to Custom dimension attribute type only. For all other backing entities it should go via standard table creation, say, new CustTable record, etc.\n\n\n\n\nThe easiest way to create a new Custom list dimension value is to use the standard service DimensionValueService as follows. Say, you need to create a new value by using _newProjCategory record fields.\n\n\n\nDimensionValueService dimensionValueService = new DimensionValueService();\nDimensionValueContract dimensionValueContract = new DimensionValueContract();\ndimensionValueContract.parmValue(_newProjCategory.Id);\ndimensionValueContract.parmDimensionAttribute(mgcDimHelper::getProjCategoryAttribute);\ndimensionValueContract.parmDescription(_newProjCategory.Name);\n\ndimensionValueService.createDimensionValue(dimensionValueContract);\n\n\nIt creates the display value as its description.",
+          "link": "https://alexvoy.blogspot.com/2023/09/how-to-create-new-custom-financial.html",
+          "publishedOn": "2023-09-19T16:49:00.001Z",
+          "wordCount": 2109,
+          "title": "How to create a new custom financial dimension value with description and other parameters via X++",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhr59imdEi2aLEKJwdVGCsNuI7jiEy-sxlbA8GTqZCErQQl3LiX_MekQa2_wRQqZq2IiU8OLxlAK4ItheYF07_GACrfDnz2SMfP7jOkEMT2ozLLscbUTCd2N0yFneCkrV2uHhuxIzKZlraa01fjUsrAMFnOprnkD2ATe_9KmaAAecVhAeoE1B3f0FcZ8vA=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://alexvoy.blogspot.com/2023/09/ledger-dimension-vs-default-dimension.html",
           "author": null,
           "description": "In short Ledger dimension it is Main account + default dimension.\n\nSo, if you need to replace any attribute value in a given Ledger dimension, do not forget to get a Default dimension first.\n\n\nLedgerDimensionFacade::getDefaultDimensionFromLedgerDimension(ledgerjournalTrans.LedgerDimension);\n\n\nThen you can use this old good way.\n\n\nDimensionDefault newDim = DimensionHelper::setValueToDefaultDimension(hcmEmployment.DefaultDimension, DimensionAttribute::findByName(_dimensionName).RecId, _dimensionValue);\n        \n\nBTW, the opposite thing works like that:\n\n\nLedgerDimensionFacade::serviceCreateLedgerDimension(ledgerDimensionMainAccount, inventTrans.defaultDimension);\n\nSupporting method\n\npublic static DimensionDefault setValueToDefaultDimension(DimensionDefault _dimensionDefault, RefRecId _dimens…",
@@ -15008,6 +15029,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "default-environment-routing-public-preview",
+          "author": null,
+          "description": "We are excited to announce the public preview of Default Environment Routing, a new Managed Environments feature that allows Power Platform admins to automatically direct new makers into their own personal developer environment when they visit make.powerapps.com for the first time. Default environment routing offers new makers a personal, safe space to build with Microsoft Dataverse,…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/default-environment-routing-public-preview/",
+          "publishedOn": "2023-09-19T08:00:00.000Z",
+          "wordCount": 2241,
+          "title": "Streamline your governance and environment strategy using Default Environment Routing  (preview)",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "simplifying-license-management-with-auto-claim-for-power-apps-and-licensing-insights-for-power-automate",
           "author": null,
