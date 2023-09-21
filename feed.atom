@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-20T01:05:06.214Z</updated>
+    <updated>2023-09-21T01:05:02.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Decrypt PGP Files Seamlessly with Azure Function and Azure Logic Apps]]></title>
+        <id>http://dynvision365.com/?p=1237</id>
+        <link href="https://dynvision365.com/2023/09/21/decrypt-pgp-files-seamlessly-with-azure-function-and-azure-logic-apps/"/>
+        <updated>2023-09-20T23:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Pretty Good Privacy (PGP) encryption is widely used to secure sensitive information and maintain data privacy. If you’re looking to decrypt PGP files using an Azure Function App, you’re in the right place. Objective of this article : We will explore how to decrypt PGP files using an Azure Function App. Azure Function App allows … Lire la suite Decrypt PGP Files Seamlessly with Azure Function and Azure Logic Apps →]]></summary>
+        <author>
+            <name>adalhix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overcome Barriers in Your Transition Planning to Dynamics 365]]></title>
+        <id>https://www.encorebusiness.com/?p=56154</id>
+        <link href="https://www.encorebusiness.com/blog/overcome-barriers-in-your-transition-planning-to-d365/"/>
+        <updated>2023-09-20T13:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Overcome Barriers in Your Transition Planning to Dynamics 365
+Many Dynamics GP, NAV, and AX customers want to transition their businesses to a cloud solution like Dynamics 365 Business Central or Dynamics 365 Finance & Operations, but a few common barriers hold them back. This article will address how clients can overcome these challenges in their transition planning. Encore’s priority is to provide guidance...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Tracey Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easier navigation across Power Platform and Environments]]></title>
+        <id>easier-navigation-across-power-platform-and-environments</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/easier-navigation-across-power-platform-and-environments/"/>
+        <updated>2023-09-20T07:25:57.000Z</updated>
+        <summary type="html"><![CDATA[As Power Platform has grown in functionality, customers frequently navigate between capabilities across the Platform for building automations, applications, chatbots, pages, and more. We are also seeing customers benefit from the Environments within Power Platform, that gives them roles-based isolation to scale with confidence. Based on your feedback, we’ve made it easier than ever to navigate with a simplified left navigation pane and a more informative environment selection experience.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to create a new custom financial dimension value with description and other parameters via X++]]></title>
         <id>https://alexvoy.blogspot.com/2023/09/how-to-create-new-custom-financial.html</id>
@@ -80,6 +113,29 @@ now locally !]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Announcing Unified Trial and Developer Environments for Dynamics 365 Finance and Operations apps]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/09/15/announcing-unified-trial-and-developer-environments-for-dynamics-365-finance-and-operations-apps/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/09/15/announcing-unified-trial-and-developer-environments-for-dynamics-365-finance-and-operations-apps/"/>
+        <updated>2023-09-15T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the last couple of years, customers have been increasingly seeking faster and low-code extensibility options to complement their core Dynamics 365 business software.  The answer is here.
+The post Announcing Unified Trial and Developer Environments for Dynamics 365 Finance and Operations apps  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Lane Swenka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leverage Warehouse management only mode to optimize your business]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/09/15/leverage-warehouse-management-only-mode-to-optimize-your-business/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/09/15/leverage-warehouse-management-only-mode-to-optimize-your-business/"/>
+        <updated>2023-09-15T09:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Warehouse management only mode is a great way to enhance your warehouse management capabilities without having to overhaul your existing systems. It offers flexibility, efficiency, and scalability for your warehouse operations. Don’t miss this opportunity to try out this feature and see how it can transform your business. Try out the preview release today and get ready to experience the power of Warehouse management only mode. 
+You can use lightweight source documents that are dedicated to inbound and outbound shipment orders to communicate between the systems. These documents focus exclusively on warehouse management, so they can replace multiple types of general-purpose documents (such as sales orders, purchase orders, and transfer orders) from a pure warehouse management perspective.
+The post Leverage Warehouse management only mode to optimize your business  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Per Lykke Lynnerup and Mirza Abdic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Public preview of the new F&O dev experience]]></title>
         <id>https://dev.goshoom.net/?p=9924</id>
         <link href="https://dev.goshoom.net/2023/09/public-preview-of-the-new-fo-dev-experience/"/>
@@ -88,6 +144,17 @@ now locally !]]></summary>
 Continue reading ‘Public preview of the new F&O dev experience’ »]]></summary>
         <author>
             <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Regional Formats to Reports in Business Central]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/09/14/adding-regional-formats-to-reports-in-business-central/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/09/14/adding-regional-formats-to-reports-in-business-central/"/>
+        <updated>2023-09-14T16:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Business Central 2023 release wave 2 introduces regional formats for reports, which adds a new dimension of customization for reports. This feature gives you more flexibility to tailor how reports print, according to your unique needs. Addressing inherent limitations, such as the inability to customize region formats for specific reports, the absence of support for
+The post Adding Regional Formats to Reports in Business Central appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Aleksandar Totovic, Predrag Maricic and Magnus Hartvig Grønbech</name>
         </author>
     </entry>
     <entry>

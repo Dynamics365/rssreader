@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56154",
+          "author": "Tracey Santos",
+          "description": "Overcome Barriers in Your Transition Planning to Dynamics 365\nMany Dynamics GP, NAV, and AX customers want to transition their businesses to a cloud solution like Dynamics 365 Business Central or Dynamics 365 Finance & Operations, but a few common barriers hold them back. This article will address how clients can overcome these challenges in their transition planning. Encore’s priority is to provide guidance...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/overcome-barriers-in-your-transition-planning-to-d365/",
+          "publishedOn": "2023-09-20T13:50:06.000Z",
+          "wordCount": 2993,
+          "title": "Overcome Barriers in Your Transition Planning to Dynamics 365",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/09/Overcome-Barriers.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=58878",
           "author": "Amanda Eklund",
           "description": "How To Return Items with Directed Put-away and Pick in Dynamics 365 Business Central\nUsing the directed put-away and pick process for creating a new sales return order in Dynamics 365 Business Central can be manually complex. This article will help users working in accounting, sales, customer service, etc. who use directed put-away and pick to better manage their customer returns and deal with errors. I will be discussing...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -5678,6 +5688,16 @@
       "siteUrl": "https://dynvision365.com",
       "articles": [
         {
+          "id": "http://dynvision365.com/?p=1237",
+          "author": "adalhix",
+          "description": "Pretty Good Privacy (PGP) encryption is widely used to secure sensitive information and maintain data privacy. If you’re looking to decrypt PGP files using an Azure Function App, you’re in the right place. Objective of this article : We will explore how to decrypt PGP files using an Azure Function App. Azure Function App allows … Lire la suite Decrypt PGP Files Seamlessly with Azure Function and Azure Logic Apps →",
+          "link": "https://dynvision365.com/2023/09/21/decrypt-pgp-files-seamlessly-with-azure-function-and-azure-logic-apps/",
+          "publishedOn": "2023-09-20T23:52:08.000Z",
+          "wordCount": 5289,
+          "title": "Decrypt PGP Files Seamlessly with Azure Function and Azure Logic Apps",
+          "imageUrl": "https://adalhix.files.wordpress.com/2023/09/image-32.png?w=1200"
+        },
+        {
           "id": "http://dynvision365.com/?p=1097",
           "author": "adalhix",
           "description": "Back again with another article in the Azure Logic Apps and D365 FinOps integration serie, this time we will continue exploring the data integration scenarios within D365 FinOps, to see how to create and use Azure Logic Apps as an intermediate connector or data bridge between different systems in a data import scenario with D365FinOps. … Lire la suite Import data in D365 FinOps via Azure Logic Apps →",
@@ -6148,6 +6168,36 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/15/announcing-unified-trial-and-developer-environments-for-dynamics-365-finance-and-operations-apps/",
+          "author": "Lane Swenka",
+          "description": "Over the last couple of years, customers have been increasingly seeking faster and low-code extensibility options to complement their core Dynamics 365 business software.  The answer is here.\nThe post Announcing Unified Trial and Developer Environments for Dynamics 365 Finance and Operations apps  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/15/announcing-unified-trial-and-developer-environments-for-dynamics-365-finance-and-operations-apps/",
+          "publishedOn": "2023-09-15T18:00:00.000Z",
+          "wordCount": 2605,
+          "title": "Announcing Unified Trial and Developer Environments for Dynamics 365 Finance and Operations apps",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/CLO22_HybridWork_073-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/15/leverage-warehouse-management-only-mode-to-optimize-your-business/",
+          "author": "Per Lykke Lynnerup and Mirza Abdic",
+          "description": "Warehouse management only mode is a great way to enhance your warehouse management capabilities without having to overhaul your existing systems. It offers flexibility, efficiency, and scalability for your warehouse operations. Don’t miss this opportunity to try out this feature and see how it can transform your business. Try out the preview release today and get ready to experience the power of Warehouse management only mode. \nYou can use lightweight source documents that are dedicated to inbound and outbound shipment orders to communicate between the systems. These documents focus exclusively on warehouse management, so they can replace multiple types of general-purpose documents (such as sales orders, purchase orders, and transfer orders) from a pure warehouse management perspective.\nThe post Leverage Warehouse management only mode to optimize your business  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/15/leverage-warehouse-management-only-mode-to-optimize-your-business/",
+          "publishedOn": "2023-09-15T09:11:33.000Z",
+          "wordCount": 2491,
+          "title": "Leverage Warehouse management only mode to optimize your business",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/M365CO20_BusinessVoice_010-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/14/adding-regional-formats-to-reports-in-business-central/",
+          "author": "Aleksandar Totovic, Predrag Maricic and Magnus Hartvig Grønbech",
+          "description": "Business Central 2023 release wave 2 introduces regional formats for reports, which adds a new dimension of customization for reports. This feature gives you more flexibility to tailor how reports print, according to your unique needs. Addressing inherent limitations, such as the inability to customize region formats for specific reports, the absence of support for\nThe post Adding Regional Formats to Reports in Business Central appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/14/adding-regional-formats-to-reports-in-business-central/",
+          "publishedOn": "2023-09-14T16:04:00.000Z",
+          "wordCount": 2368,
+          "title": "Adding Regional Formats to Reports in Business Central",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/M365CO20_MTR_POLY_onAndroid_003-scaled.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/12/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-sales-force-automation-platforms/",
           "author": "Lori Lamkin",
@@ -17204,6 +17254,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "easier-navigation-across-power-platform-and-environments",
+          "author": null,
+          "description": "As Power Platform has grown in functionality, customers frequently navigate between capabilities across the Platform for building automations, applications, chatbots, pages, and more. We are also seeing customers benefit from the Environments within Power Platform, that gives them roles-based isolation to scale with confidence. Based on your feedback, we’ve made it easier than ever to navigate with a simplified left navigation pane and a more informative environment selection experience.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/easier-navigation-across-power-platform-and-environments/",
+          "publishedOn": "2023-09-20T07:25:57.000Z",
+          "wordCount": 2775,
+          "title": "Easier navigation across Power Platform and Environments",
+          "imageUrl": null
+        },
         {
           "id": "microsoft-announces-preview-of-new-copilot-capabilities-in-power-automate-process-mining",
           "author": null,
