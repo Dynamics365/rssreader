@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=50719",
+          "author": "Don McNulty",
+          "description": "Multicurrency in Dynamics GP\nThere are a lot of things to think about when doing Multicurrency in Dynamics GP.  During these recorded webinars, find out how to setup multicurrency in GP, how to setup revaluations, currency, and rates, and about balancing at month end. Multicurrency Usage and Advanced Revaluations In this recorded webinar below, find out how to use...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/multicurrency-in-dynamics-gp/",
+          "publishedOn": "2023-09-21T16:30:47.000Z",
+          "wordCount": 1337,
+          "title": "Multicurrency in Dynamics GP",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=56154",
           "author": "Tracey Santos",
           "description": "Overcome Barriers in Your Transition Planning to Dynamics 365\nMany Dynamics GP, NAV, and AX customers want to transition their businesses to a cloud solution like Dynamics 365 Business Central or Dynamics 365 Finance & Operations, but a few common barriers hold them back. This article will address how clients can overcome these challenges in their transition planning. Encore’s priority is to provide guidance...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -8058,6 +8068,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2762",
+          "author": "Saurabh Bharti",
+          "description": "Have you seen the business document workspace/feature in Microsoft dynamics 365? If yes then how frequently you use this now? Business documents are based on electronic reporting frameworks which allows business users to take the control of all the outbound documents e.g. Sales invoice, purchase order, collection letter etc… In this video I have explained […]",
+          "link": "https://exploredynamics365.home.blog/2023/09/21/business-documents-in-microsoft-dynamics-365-finance-and-operations-part-1/",
+          "publishedOn": "2023-09-21T07:22:28.000Z",
+          "wordCount": 2646,
+          "title": "Business Documents in Microsoft Dynamics 365 Finance and Operations: Part-1",
+          "imageUrl": "http://img.youtube.com/vi/aZBV1gg4OEs/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2759",
           "author": "Saurabh Bharti",
           "description": "Microsoft’s ongoing dedication to automation and enhancing the user experience for Dynamics users is truly commendable. Following the automation of the collection process, the Collection Coordinator Workplace stands as a noteworthy addition. This new inclusion is poised to greatly assist collection agents in effectively managing their daily collection tasks, significantly reducing the time spent on […]",
@@ -8594,6 +8614,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2762",
+          "author": "Saurabh Bharti",
+          "description": "Have you seen the business document workspace/feature in Microsoft dynamics 365? If yes then how frequently you use this now? Business documents are based on electronic reporting frameworks which allows business users to take the control of all the outbound documents e.g. Sales invoice, purchase order, collection letter etc… In this video I have explained […]",
+          "link": "https://exploredynamics365.home.blog/2023/09/21/business-documents-in-microsoft-dynamics-365-finance-and-operations-part-1/",
+          "publishedOn": "2023-09-21T07:22:28.000Z",
+          "wordCount": 2646,
+          "title": "Business Documents in Microsoft Dynamics 365 Finance and Operations: Part-1",
+          "imageUrl": "http://img.youtube.com/vi/aZBV1gg4OEs/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2759",
           "author": "Saurabh Bharti",
@@ -10049,6 +10079,26 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=27097",
+          "author": "Helena Treska",
+          "description": "Are you passionate about Dynamics365 and PowerPlatform? Want to be up to date with the latest news on these technologies? When faced with a challenge, you love to discuss the possible solution with fellow professionals and experts? Or you just enjoy exchanging ideas, knowledge, and […]\nThe post NT Conference 2023: Let’s grow Dynamics 365 and Power Platform Community at Home! ❤ appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/nt-conference-2023-lets-grow-dynamics-365-and-power-platform-community-at-home/",
+          "publishedOn": "2023-09-21T13:25:57.000Z",
+          "wordCount": 11463,
+          "title": "NT Conference 2023: Let’s grow Dynamics 365 and Power Platform Community at Home! ❤",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/D365Blog-Roundtable-1.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=27093",
+          "author": "Helena Treska",
+          "description": "We are proud to support the NT Conference, the largest tech-business event in Slovenia and the whole region, as sponsors, speakers, and attendees. NT Conference provides a great opportunity for learning, networking and the exchange of innovative ideas. And we'll be there in person and […]\nThe post Meet Us at NT Conference 2023 in Portorož appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/meet-us-at-nt-conference-2023/",
+          "publishedOn": "2023-09-21T13:21:54.000Z",
+          "wordCount": 11275,
+          "title": "Meet Us at NT Conference 2023 in Portorož",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/D365Blog-Meet-us-at-NTK-1.jpg"
+        },
+        {
           "id": "https://ax.docentric.com/?p=27020",
           "author": "Ana Gligorijevic",
           "description": "Alerts are a very popular functionality in D365FO, do you agree? However, let's be honest, D365FO could offer more alert-related features out of the box 😀. But here we are, stepping up the game again with your favorite free library 😎 Docentric Free Edition 🚀. […]\nThe post Create Alert in a ⚡Single Click in D365FO appeared first on Docentric AX.",
@@ -10235,6 +10285,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com/",
       "articles": [
+        {
+          "id": "http://paragchapre.com/?p=12107",
+          "author": "paragchapre@gmail.com",
+          "description": "\"Enable simplified dimension entry\" in Dynamics 365 Finance and Operations refers to a feature or setting that allows users to streamline the process of entering financial dimensions when recording transactions or posting entries in the system. \nThe post Enable simplified dimension entry in Dynamics 365 Finance and Operations appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/enable-simplified-dimension-entry-in-dynamics-365-finance-and-operations/?utm_source=rss&utm_medium=rss&utm_campaign=enable-simplified-dimension-entry-in-dynamics-365-finance-and-operations",
+          "publishedOn": "2023-09-21T04:37:10.000Z",
+          "wordCount": 2545,
+          "title": "Enable simplified dimension entry in Dynamics 365 Finance and Operations",
+          "imageUrl": "http://paragchapre.com/wp-content/uploads/2023/09/Enable-simplified-dimension-entry-.png"
+        },
         {
           "id": "http://paragchapre.com/?p=12095",
           "author": "paragchapre@gmail.com",
@@ -17254,6 +17314,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "introducing-the-power-automate-plugin-for-chatgpt-2",
+          "author": null,
+          "description": "The Power Automate Plugin for ChatGPT allows you to create and run flows directly from within ChatGPT. Use the new Skills connector and Run from copilot connector to author flows that can be called from ChatGPT that leverage the over 1000+ connectors in Power Automate.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/introducing-the-power-automate-plugin-for-chatgpt-2/",
+          "publishedOn": "2023-09-21T09:07:14.000Z",
+          "wordCount": 3015,
+          "title": "Introducing the Power Automate plugin for ChatGPT",
+          "imageUrl": null
+        },
         {
           "id": "easier-navigation-across-power-platform-and-environments",
           "author": null,

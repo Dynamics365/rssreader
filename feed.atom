@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-21T01:05:02.800Z</updated>
+    <updated>2023-09-22T01:05:24.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multicurrency in Dynamics GP]]></title>
+        <id>https://www.encorebusiness.com/?p=50719</id>
+        <link href="https://www.encorebusiness.com/blog/multicurrency-in-dynamics-gp/"/>
+        <updated>2023-09-21T16:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Multicurrency in Dynamics GP
+There are a lot of things to think about when doing Multicurrency in Dynamics GP.  During these recorded webinars, find out how to setup multicurrency in GP, how to setup revaluations, currency, and rates, and about balancing at month end. Multicurrency Usage and Advanced Revaluations In this recorded webinar below, find out how to use...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Don McNulty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NT Conference 2023: Let’s grow Dynamics 365 and Power Platform Community at Home! ❤]]></title>
+        <id>https://ax.docentric.com/?p=27097</id>
+        <link href="https://ax.docentric.com/nt-conference-2023-lets-grow-dynamics-365-and-power-platform-community-at-home/"/>
+        <updated>2023-09-21T13:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Are you passionate about Dynamics365 and PowerPlatform? Want to be up to date with the latest news on these technologies? When faced with a challenge, you love to discuss the possible solution with fellow professionals and experts? Or you just enjoy exchanging ideas, knowledge, and […]
+The post NT Conference 2023: Let’s grow Dynamics 365 and Power Platform Community at Home! ❤ appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Helena Treska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Us at NT Conference 2023 in Portorož]]></title>
+        <id>https://ax.docentric.com/?p=27093</id>
+        <link href="https://ax.docentric.com/meet-us-at-nt-conference-2023/"/>
+        <updated>2023-09-21T13:21:54.000Z</updated>
+        <summary type="html"><![CDATA[We are proud to support the NT Conference, the largest tech-business event in Slovenia and the whole region, as sponsors, speakers, and attendees. NT Conference provides a great opportunity for learning, networking and the exchange of innovative ideas. And we'll be there in person and […]
+The post Meet Us at NT Conference 2023 in Portorož appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Helena Treska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Power Automate plugin for ChatGPT]]></title>
+        <id>introducing-the-power-automate-plugin-for-chatgpt-2</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/introducing-the-power-automate-plugin-for-chatgpt-2/"/>
+        <updated>2023-09-21T09:07:14.000Z</updated>
+        <summary type="html"><![CDATA[The Power Automate Plugin for ChatGPT allows you to create and run flows directly from within ChatGPT. Use the new Skills connector and Run from copilot connector to author flows that can be called from ChatGPT that leverage the over 1000+ connectors in Power Automate.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Documents in Microsoft Dynamics 365 Finance and Operations: Part-1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2762</id>
+        <link href="https://exploredynamics365.home.blog/2023/09/21/business-documents-in-microsoft-dynamics-365-finance-and-operations-part-1/"/>
+        <updated>2023-09-21T07:22:28.000Z</updated>
+        <summary type="html"><![CDATA[Have you seen the business document workspace/feature in Microsoft dynamics 365? If yes then how frequently you use this now? Business documents are based on electronic reporting frameworks which allows business users to take the control of all the outbound documents e.g. Sales invoice, purchase order, collection letter etc… In this video I have explained […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Documents in Microsoft Dynamics 365 Finance and Operations: Part-1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2762</id>
+        <link href="https://exploredynamics365.home.blog/2023/09/21/business-documents-in-microsoft-dynamics-365-finance-and-operations-part-1/"/>
+        <updated>2023-09-21T07:22:28.000Z</updated>
+        <summary type="html"><![CDATA[Have you seen the business document workspace/feature in Microsoft dynamics 365? If yes then how frequently you use this now? Business documents are based on electronic reporting frameworks which allows business users to take the control of all the outbound documents e.g. Sales invoice, purchase order, collection letter etc… In this video I have explained […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable simplified dimension entry in Dynamics 365 Finance and Operations]]></title>
+        <id>http://paragchapre.com/?p=12107</id>
+        <link href="https://paragchapre.com/enable-simplified-dimension-entry-in-dynamics-365-finance-and-operations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=enable-simplified-dimension-entry-in-dynamics-365-finance-and-operations"/>
+        <updated>2023-09-21T04:37:10.000Z</updated>
+        <summary type="html"><![CDATA["Enable simplified dimension entry" in Dynamics 365 Finance and Operations refers to a feature or setting that allows users to streamline the process of entering financial dimensions when recording transactions or posting entries in the system. 
+The post Enable simplified dimension entry in Dynamics 365 Finance and Operations appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Decrypt PGP Files Seamlessly with Azure Function and Azure Logic Apps]]></title>
         <id>http://dynvision365.com/?p=1237</id>
