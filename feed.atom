@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-24T01:08:43.988Z</updated>
+    <updated>2023-09-25T01:06:08.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -23096,16 +23096,6 @@ Combines the specified branch’s histo…]]></summary>
         <summary type="html"><![CDATA[When I observe the use of Dynamics 365, I often see that most often there are well-established processes and routines for getting data into the Dynamics 365 system. But using this data is often limited to retrieving financial reports that show everything in dollars and cents. However, the information contained in the system is often … Continue reading D365 : Use your data]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365FO Infolog call stack]]></title>
-        <id>https://denistrunin.com/xpptools-devinfocallstack/</id>
-        <link href="https://denistrunin.com/xpptools-devinfocallstack/"/>
-        <updated>2021-09-24T20:12:03.000Z</updated>
-        <summary type="html"><![CDATA[This post describes an extension for the standard D365FO system that allows saving stack trace data for infolog messages.]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
         </author>
     </entry>
     <entry>
