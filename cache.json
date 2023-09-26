@@ -7951,6 +7951,16 @@
       "siteUrl": "https://dev.goshoom.net",
       "articles": [
         {
+          "id": "https://dev.goshoom.net/?p=9928",
+          "author": "Martin Dráb",
+          "description": "I noticed that some developers believe that Query* classes can’t be used to query temporary tables. It is possible; it just requires an extra step that isn’t needed with regular tables. When working with temporary tables, each buffer (variable) of the same table can refer to a different set of temporary data. Therefore using the ...\nContinue reading ‘Query/QueryRun with temporary tables (AX/F&O)’ »",
+          "link": "https://dev.goshoom.net/2023/09/query-queryrun-with-temporary-tables-ax-fo/",
+          "publishedOn": "2023-09-25T07:54:17.000Z",
+          "wordCount": 1503,
+          "title": "Query/QueryRun with temporary tables (AX/F&O)",
+          "imageUrl": null
+        },
+        {
           "id": "https://dev.goshoom.net/?p=9924",
           "author": "Martin Dráb",
           "description": "Something that was talked about for a long time is getting closer to reality. F&O development will no longer require those huge VMs with SQL Server and everything. Instead, you’ll just install some VS extensions, connect to Dataverse, download F&O code and metadata and start developing. The runtime (web server, database) will be in cloud, ...\nContinue reading ‘Public preview of the new F&O dev experience’ »",
@@ -11751,6 +11761,16 @@
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
         {
+          "id": "https://dynamicspedia.com/?p=18770",
+          "author": "André Arnaud de Calavon",
+          "description": "For a while now, Microsoft has been offering a service for process mining and task mining. In Power Automate there is a Process Mining tool embedded. Process mining can help with e.g. finding bottlenecks or errors in processes or making measured decisions on what tasks could be automated. While I have my main focus on […]\nThe post The F&O Twist on Power Automate Process Mining – Getting Started appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2023/09/the-fo-twist-on-power-automate-process-mining-getting-started/",
+          "publishedOn": "2023-09-25T06:53:08.000Z",
+          "wordCount": 4406,
+          "title": "The F&O Twist on Power Automate Process Mining – Getting Started",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/09/ProcessMiningGettingStarted.jpg"
+        },
+        {
           "id": "https://dynamicspedia.com/?p=18745",
           "author": "André Arnaud de Calavon",
           "description": "Feature recommendation notifications under the hood For several years, Microsoft does have a dashboard with new and enhanced features that can be enabled by administrators to first evaluate the added value or impact on the current implementation. This will give organizations some time to choose when to enable new features. Features can also be turned […]\nThe post How to reverse engineer feature management features appeared first on Dynamicspedia.",
@@ -15129,6 +15149,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "public-preview-of-new-custom-connector-enhancements",
+          "author": null,
+          "description": "We are announcing the public preview of two new custom connector enhancements including service principal authentication support as well as the ability to use environment variables in policies.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/public-preview-of-new-custom-connector-enhancements/",
+          "publishedOn": "2023-09-25T09:28:52.000Z",
+          "wordCount": 1875,
+          "title": "Public preview of new custom connector enhancements",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/09/EnableServicePrincipalAuth.png"
+        },
         {
           "id": "default-environment-routing-public-preview",
           "author": null,

@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-25T01:06:08.196Z</updated>
+    <updated>2023-09-26T01:06:02.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Public preview of new custom connector enhancements]]></title>
+        <id>public-preview-of-new-custom-connector-enhancements</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/public-preview-of-new-custom-connector-enhancements/"/>
+        <updated>2023-09-25T09:28:52.000Z</updated>
+        <summary type="html"><![CDATA[We are announcing the public preview of two new custom connector enhancements including service principal authentication support as well as the ability to use environment variables in policies.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Query/QueryRun with temporary tables (AX/F&O)]]></title>
+        <id>https://dev.goshoom.net/?p=9928</id>
+        <link href="https://dev.goshoom.net/2023/09/query-queryrun-with-temporary-tables-ax-fo/"/>
+        <updated>2023-09-25T07:54:17.000Z</updated>
+        <summary type="html"><![CDATA[I noticed that some developers believe that Query* classes can’t be used to query temporary tables. It is possible; it just requires an extra step that isn’t needed with regular tables. When working with temporary tables, each buffer (variable) of the same table can refer to a different set of temporary data. Therefore using the ...
+Continue reading ‘Query/QueryRun with temporary tables (AX/F&O)’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The F&O Twist on Power Automate Process Mining – Getting Started]]></title>
+        <id>https://dynamicspedia.com/?p=18770</id>
+        <link href="https://dynamicspedia.com/2023/09/the-fo-twist-on-power-automate-process-mining-getting-started/"/>
+        <updated>2023-09-25T06:53:08.000Z</updated>
+        <summary type="html"><![CDATA[For a while now, Microsoft has been offering a service for process mining and task mining. In Power Automate there is a Process Mining tool embedded. Process mining can help with e.g. finding bottlenecks or errors in processes or making measured decisions on what tasks could be automated. While I have my main focus on […]
+The post The F&O Twist on Power Automate Process Mining – Getting Started appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multicurrency in Dynamics GP]]></title>
         <id>https://www.encorebusiness.com/?p=50719</id>
