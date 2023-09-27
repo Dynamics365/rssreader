@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=59295",
+          "author": "Raymond Wong",
+          "description": "How to Create Vendors in Dynamics 365 Business Central\nVendor cards in Dynamics 365 Business Central hold all the unique characteristics of the vendor. You can set up new vendors using the vendor card and streamline your process by creating vendor templates. The vendor card is commonly known as the vendor master in other systems. The vendor card home page stores the vendor’s detailed...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-create-vendors-in-d365-bc/",
+          "publishedOn": "2023-09-26T15:21:21.000Z",
+          "wordCount": 1851,
+          "title": "How to Create Vendors in Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=50719",
           "author": "Don McNulty",
           "description": "Multicurrency in Dynamics GP\nThere are a lot of things to think about when doing Multicurrency in Dynamics GP.  During these recorded webinars, find out how to setup multicurrency in GP, how to setup revaluations, currency, and rates, and about balancing at month end. Multicurrency Usage and Advanced Revaluations In this recorded webinar below, find out how to use...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -5679,16 +5689,6 @@
           "wordCount": 968,
           "title": "How to learn and try out Dynamics 365 Commerce?",
           "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/10/100821_0736_howtolearna1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4263",
-          "author": "Kurt Hatlevik",
-          "description": "When I observe the use of Dynamics 365, I often see that most often there are well-established processes and routines for getting data into the Dynamics 365 system. But using this data is often limited to retrieving financial reports that show everything in dollars and cents. However, the information contained in the system is often … Continue reading D365 : Use your data",
-          "link": "https://kurthatlevik.com/2021/09/27/d365-use-your-data/",
-          "publishedOn": "2021-09-27T12:18:32.000Z",
-          "wordCount": 2371,
-          "title": "D365 : Use your data",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/09/092721_1218_d365useyour1.png"
         }
       ]
     },
@@ -6178,6 +6178,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/25/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-b2b-marketing-automation-platform/",
+          "author": "Lori Lamkin",
+          "description": "In today's turbulent economic times, companies are facing critical business challenges such as customer acquisition, increasing customer loyalty, and maximizing lifetime value. Often, to save time, they follow a one-size-fits-all approach—resulting in impersonal marketing strategies with low customer engagement.\nThe post Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for B2B Marketing Automation Platform appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/25/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-b2b-marketing-automation-platform/",
+          "publishedOn": "2023-09-25T16:00:00.000Z",
+          "wordCount": 3201,
+          "title": "Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for B2B Marketing Automation Platform",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/MSC17_kendallClawson_007_1200.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/15/announcing-unified-trial-and-developer-environments-for-dynamics-365-finance-and-operations-apps/",
           "author": "Lane Swenka",

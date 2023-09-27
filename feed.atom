@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-26T01:06:02.785Z</updated>
+    <updated>2023-09-27T01:05:46.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create Vendors in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=59295</id>
+        <link href="https://www.encorebusiness.com/blog/how-to-create-vendors-in-d365-bc/"/>
+        <updated>2023-09-26T15:21:21.000Z</updated>
+        <summary type="html"><![CDATA[How to Create Vendors in Dynamics 365 Business Central
+Vendor cards in Dynamics 365 Business Central hold all the unique characteristics of the vendor. You can set up new vendors using the vendor card and streamline your process by creating vendor templates. The vendor card is commonly known as the vendor master in other systems. The vendor card home page stores the vendor’s detailed...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Raymond Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for B2B Marketing Automation Platform]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/25/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-b2b-marketing-automation-platform/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/25/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-b2b-marketing-automation-platform/"/>
+        <updated>2023-09-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's turbulent economic times, companies are facing critical business challenges such as customer acquisition, increasing customer loyalty, and maximizing lifetime value. Often, to save time, they follow a one-size-fits-all approach—resulting in impersonal marketing strategies with low customer engagement.
+The post Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for B2B Marketing Automation Platform appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Lori Lamkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public preview of new custom connector enhancements]]></title>
         <id>public-preview-of-new-custom-connector-enhancements</id>
@@ -23118,16 +23142,6 @@ Combines the specified branch’s histo…]]></summary>
         <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations Location profiles control the behavior of locations in an advanced warehouse management enabled warehouse. Location profiles can also enforce certain warehouse rules like allowing]]></summary>
         <author>
             <name>Tim Woods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 : Use your data]]></title>
-        <id>http://kurthatlevik.com/?p=4263</id>
-        <link href="https://kurthatlevik.com/2021/09/27/d365-use-your-data/"/>
-        <updated>2021-09-27T12:18:32.000Z</updated>
-        <summary type="html"><![CDATA[When I observe the use of Dynamics 365, I often see that most often there are well-established processes and routines for getting data into the Dynamics 365 system. But using this data is often limited to retrieving financial reports that show everything in dollars and cents. However, the information contained in the system is often … Continue reading D365 : Use your data]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
         </author>
     </entry>
     <entry>
