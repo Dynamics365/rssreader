@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-27T01:05:46.553Z</updated>
+    <updated>2023-09-28T01:05:27.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #18]]></title>
+        <id>http://dynamicsax-fico.com/?p=5310</id>
+        <link href="https://dynamicsax-fico.com/2023/09/27/microsoft-bizapps-deutschland-podcast-18/"/>
+        <updated>2023-09-27T05:15:32.000Z</updated>
+        <summary type="html"><![CDATA[[German lanugage podcast] Nach der Sommerpause haben wir gleich zwei großartige Leute von thyssen krupp material services zu Gast, nämlich …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Vendors in Dynamics 365 Business Central]]></title>
         <id>https://www.encorebusiness.com/?p=59295</id>
