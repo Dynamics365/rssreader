@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-28T01:05:27.456Z</updated>
+    <updated>2023-09-29T01:06:04.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP October 2023 Release]]></title>
+        <id>https://www.encorebusiness.com/?p=59482</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-gp-october-2023-release/"/>
+        <updated>2023-09-28T15:59:42.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics GP October 2023 Release
+The release of Dynamics GP version 18.6 is just around the corner. Here is a sneak peak of some exciting new features to watch out for. This release is especially exciting because all of the usability improvements came from customers. Customers have the ability to share ideas and vote for future ideas in the suggestion...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Patti Schreiber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September 2023 update of Power Automate for desktop]]></title>
+        <id>september-2023-update-of-power-automate-for-desktop</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/september-2023-update-of-power-automate-for-desktop/"/>
+        <updated>2023-09-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2023 September’s release, including the introduction of new SharePoint actions, a new action on work queues, as well as three brand new connectors.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #18]]></title>
         <id>http://dynamicsax-fico.com/?p=5310</id>
@@ -28,6 +51,16 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Raymond Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximize your productivity in Excel with Power Automate]]></title>
+        <id>maxime-your-productivity-in-excel-with-power-automate</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/maxime-your-productivity-in-excel-with-power-automate/"/>
+        <updated>2023-09-26T09:09:00.000Z</updated>
+        <summary type="html"><![CDATA[The new “Automate work” button in Excel Online, powered by Power Automate, has made it easier than ever to automate tasks and run processes efficiently from anywhere. This feature extends the capabilities of Power Automate by providing access to pre-built templates and allowing users to build workflows quickly and easily within Excel Online. This button replaces the “Automate a Task” button in Excel Online. Previously, the “Automate a Task” button only allowed users to select templates for Office Scripts, which would then take them to the Power Automate portal to build a flow. But now, with just a few clicks, you can automate repetitive tasks, reduce errors, and boost productivity, all without ever leaving Excel!]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
         </author>
     </entry>
     <entry>

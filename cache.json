@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=59482",
+          "author": "Patti Schreiber",
+          "description": "Dynamics GP October 2023 Release\nThe release of Dynamics GP version 18.6 is just around the corner. Here is a sneak peak of some exciting new features to watch out for. This release is especially exciting because all of the usability improvements came from customers. Customers have the ability to share ideas and vote for future ideas in the suggestion...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-gp-october-2023-release/",
+          "publishedOn": "2023-09-28T15:59:42.000Z",
+          "wordCount": 1459,
+          "title": "Dynamics GP October 2023 Release",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=59295",
           "author": "Raymond Wong",
           "description": "How to Create Vendors in Dynamics 365 Business Central\nVendor cards in Dynamics 365 Business Central hold all the unique characteristics of the vendor. You can set up new vendors using the vendor card and streamline your process by creating vendor templates. The vendor card is commonly known as the vendor master in other systems. The vendor card home page stores the vendor’s detailed...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -17359,6 +17369,26 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "september-2023-update-of-power-automate-for-desktop",
+          "author": null,
+          "description": "Power Automate for desktop comes with new additions in 2023 September’s release, including the introduction of new SharePoint actions, a new action on work queues, as well as three brand new connectors.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/september-2023-update-of-power-automate-for-desktop/",
+          "publishedOn": "2023-09-28T07:00:00.000Z",
+          "wordCount": 2523,
+          "title": "September 2023 update of Power Automate for desktop",
+          "imageUrl": null
+        },
+        {
+          "id": "maxime-your-productivity-in-excel-with-power-automate",
+          "author": null,
+          "description": "The new “Automate work” button in Excel Online, powered by Power Automate, has made it easier than ever to automate tasks and run processes efficiently from anywhere. This feature extends the capabilities of Power Automate by providing access to pre-built templates and allowing users to build workflows quickly and easily within Excel Online. This button replaces the “Automate a Task” button in Excel Online. Previously, the “Automate a Task” button only allowed users to select templates for Office Scripts, which would then take them to the Power Automate portal to build a flow. But now, with just a few clicks, you can automate repetitive tasks, reduce errors, and boost productivity, all without ever leaving Excel!",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/maxime-your-productivity-in-excel-with-power-automate/",
+          "publishedOn": "2023-09-26T09:09:00.000Z",
+          "wordCount": 2635,
+          "title": "Maximize your productivity in Excel with Power Automate",
+          "imageUrl": null
+        },
         {
           "id": "introducing-the-power-automate-plugin-for-chatgpt-2",
           "author": null,
