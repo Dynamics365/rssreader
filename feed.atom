@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-09-30T01:04:26.730Z</updated>
+    <updated>2023-10-01T01:14:09.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Latest update on Preview release of D365F&O]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2989</id>
+        <link href="https://anithasantosh.wordpress.com/2023/09/30/latest-update-on-preview-release-of-d365fo/"/>
+        <updated>2023-09-30T15:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Customers can take up to four service updates per year and are required to take a minimum of two service updates per year. Customers can choose to pause one update at a time. Pausing a service update can apply to … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics GP October 2023 Release]]></title>
         <id>https://www.encorebusiness.com/?p=59482</id>
