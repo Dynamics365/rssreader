@@ -5456,6 +5456,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4493",
+          "author": "Kurt Hatlevik",
+          "description": "In the Dynamics 365 eCommerce project we where implementing a pricing logic that was quite complex and required many steps to calculate a price. The prices are unique for each customer, product, and other aspects, and the prices had to be calculated each time and in real-time. But calculating prices are a time- and compute … Continue reading Dynamics 365 CSU – Cache is king",
+          "link": "https://kurthatlevik.com/2023/10/01/dynamics-365-csu-cache-is-king/",
+          "publishedOn": "2023-10-01T19:49:28.000Z",
+          "wordCount": 3424,
+          "title": "Dynamics 365 CSU – Cache is king",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/10/100123_1949_dynamics3651.png"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4489",
           "author": "Kurt Hatlevik",
           "description": "At the inspirit365 Vision Summit in Paris, I got to present details from the latest Gartner report, Hype Cycle for Retail Technologies, 2023. There are 4 areas I would like to relate to the Dynamics 365 Commerce offerings, where I think Microsoft have a very strong offering. I cannot share the Gartner report, but I … Continue reading 4 Commerce hypes from Gartner",
@@ -6198,6 +6208,36 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/28/unlocking-customer-value-with-microsoft-dynamics-365-field-service-through-connected-services/",
+          "author": "Safiyyah O’Quinn",
+          "description": "In an age defined by single-click purchases, instant deliveries, and personalized experiences, customer expectations continue to rise, and frontline technicians are expected to meet these ever-changing demands. When a customer has a problem, they want it fixed fast and right the first time. \nThe post Unlocking customer value with Microsoft Dynamics 365 Field Service through connected services appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/28/unlocking-customer-value-with-microsoft-dynamics-365-field-service-through-connected-services/",
+          "publishedOn": "2023-09-28T19:30:00.000Z",
+          "wordCount": 2769,
+          "title": "Unlocking customer value with Microsoft Dynamics 365 Field Service through connected services",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/CLO22_GreenEnergyFarm_047_1200.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/27/working-with-field-service-mobile-customizations/",
+          "author": "Jonathan Baker",
+          "description": "The Power Platform also offers significant customization opportunities in Field Service Mobile.\nThe post Working With Field Service Mobile Customizations  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/27/working-with-field-service-mobile-customizations/",
+          "publishedOn": "2023-09-27T23:01:29.000Z",
+          "wordCount": 2876,
+          "title": "Working With Field Service Mobile Customizations",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/CLO17_waterworks_012.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/26/try-the-new-outbound-dialing-experience-in-dynamics-365-customer-service/",
+          "author": "Pulkita Dua",
+          "description": "The October release of Dynamics 365 Customer Service features a more intuitive, streamlined, and efficient outbound dialing experience.\nThe post Try the new outbound dialing experience in Dynamics 365 Customer Service  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/09/26/try-the-new-outbound-dialing-experience-in-dynamics-365-customer-service/",
+          "publishedOn": "2023-09-26T17:00:00.000Z",
+          "wordCount": 2421,
+          "title": "Try the new outbound dialing experience in Dynamics 365 Customer Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/CLO22_TechOffice_026.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/25/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-b2b-marketing-automation-platform/",
           "author": "Lori Lamkin",
@@ -11293,6 +11333,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5316",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/10/01/rpa-machine-automation-with-scratch-and-lego/",
+          "publishedOn": "2023-10-01T05:01:18.000Z",
+          "wordCount": 2787,
+          "title": "RPA & machine automation with scratch and LEGO",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/09/titleslideen-1.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5310",
           "author": "Ludwig Reinhard",

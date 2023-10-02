@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-01T01:14:09.335Z</updated>
+    <updated>2023-10-02T01:06:27.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 CSU – Cache is king]]></title>
+        <id>http://kurthatlevik.com/?p=4493</id>
+        <link href="https://kurthatlevik.com/2023/10/01/dynamics-365-csu-cache-is-king/"/>
+        <updated>2023-10-01T19:49:28.000Z</updated>
+        <summary type="html"><![CDATA[In the Dynamics 365 eCommerce project we where implementing a pricing logic that was quite complex and required many steps to calculate a price. The prices are unique for each customer, product, and other aspects, and the prices had to be calculated each time and in real-time. But calculating prices are a time- and compute … Continue reading Dynamics 365 CSU – Cache is king]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RPA & machine automation with scratch and LEGO]]></title>
+        <id>http://dynamicsax-fico.com/?p=5316</id>
+        <link href="https://dynamicsax-fico.com/2023/10/01/rpa-machine-automation-with-scratch-and-lego/"/>
+        <updated>2023-10-01T05:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest update on Preview release of D365F&O]]></title>
         <id>http://anithasantosh.wordpress.com/?p=2989</id>
@@ -14,6 +34,17 @@
         <summary type="html"><![CDATA[Customers can take up to four service updates per year and are required to take a minimum of two service updates per year. Customers can choose to pause one update at a time. Pausing a service update can apply to … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking customer value with Microsoft Dynamics 365 Field Service through connected services]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/28/unlocking-customer-value-with-microsoft-dynamics-365-field-service-through-connected-services/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/09/28/unlocking-customer-value-with-microsoft-dynamics-365-field-service-through-connected-services/"/>
+        <updated>2023-09-28T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In an age defined by single-click purchases, instant deliveries, and personalized experiences, customer expectations continue to rise, and frontline technicians are expected to meet these ever-changing demands. When a customer has a problem, they want it fixed fast and right the first time. 
+The post Unlocking customer value with Microsoft Dynamics 365 Field Service through connected services appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Safiyyah O’Quinn</name>
         </author>
     </entry>
     <entry>
@@ -40,6 +71,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Working With Field Service Mobile Customizations]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/09/27/working-with-field-service-mobile-customizations/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/09/27/working-with-field-service-mobile-customizations/"/>
+        <updated>2023-09-27T23:01:29.000Z</updated>
+        <summary type="html"><![CDATA[The Power Platform also offers significant customization opportunities in Field Service Mobile.
+The post Working With Field Service Mobile Customizations  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jonathan Baker</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #18]]></title>
         <id>http://dynamicsax-fico.com/?p=5310</id>
         <link href="https://dynamicsax-fico.com/2023/09/27/microsoft-bizapps-deutschland-podcast-18/"/>
@@ -48,6 +90,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
 Continue reading →]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try the new outbound dialing experience in Dynamics 365 Customer Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/09/26/try-the-new-outbound-dialing-experience-in-dynamics-365-customer-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/09/26/try-the-new-outbound-dialing-experience-in-dynamics-365-customer-service/"/>
+        <updated>2023-09-26T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The October release of Dynamics 365 Customer Service features a more intuitive, streamlined, and efficient outbound dialing experience.
+The post Try the new outbound dialing experience in Dynamics 365 Customer Service  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Pulkita Dua</name>
         </author>
     </entry>
     <entry>
