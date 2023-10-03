@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-02T01:06:27.676Z</updated>
+    <updated>2023-10-03T01:06:35.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing pipelines delegated deployments (SPN)]]></title>
+        <id>announcing-pipelines-delegated-deployments-spn</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-pipelines-delegated-deployments-spn/"/>
+        <updated>2023-10-02T06:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Delegated deployments (preview) for pipelines in Power Platform empowers makers to deploy their business solutions without needing elevated permissions in target environments (like production).  Admins can rest assure their production data and application assets are protected and compliant with organizational least privileged access policies.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 CSU – Cache is king]]></title>
         <id>http://kurthatlevik.com/?p=4493</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[Customers can take up to four service updates per year and are required to take a minimum of two service updates per year. Customers can choose to pause one update at a time. Pausing a service update can apply to … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vendor invoice automation for the invoices imported using custom services]]></title>
+        <id>http://elearnd365.com/?p=683</id>
+        <link href="https://elearnd365.com/2023/09/28/vendor-invoice-automation-for-the-invoices-imported-using-custom-services/"/>
+        <updated>2023-09-28T22:23:15.000Z</updated>
+        <summary type="html"><![CDATA[As we know, as part of a touchless Accounts payable invoicing process, an imported invoice can automatically be submitted to the workflow system.Once it is submitted to workflow you can configure series of process automation jobs to match product receipts to the invoice and Post the invoice. As part of this process, you can specify […]]]></summary>
+        <author>
+            <name>Sukrut Parab</name>
         </author>
     </entry>
     <entry>
@@ -79,6 +99,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
 The post Working With Field Service Mobile Customizations  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Jonathan Baker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docentric AX 3.4.7 Released]]></title>
+        <id>https://ax.docentric.com/?p=27141</id>
+        <link href="https://ax.docentric.com/docentric-ax-3-4-7-released/"/>
+        <updated>2023-09-27T12:28:35.000Z</updated>
+        <summary type="html"><![CDATA[We are exciting to announce 📢 Docentric version 3.4.7 is out! With the cool new features you asked for, most of them being part of Free Edition ❤. Feature No. 1 in this release is 🔥 Print management utilities that will improve, we believe, user […]
+The post Docentric AX 3.4.7 Released appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Irena Vujcic Pavlovic</name>
         </author>
     </entry>
     <entry>

@@ -10159,6 +10159,16 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=27141",
+          "author": "Irena Vujcic Pavlovic",
+          "description": "We are exciting to announce 📢 Docentric version 3.4.7 is out! With the cool new features you asked for, most of them being part of Free Edition ❤. Feature No. 1 in this release is 🔥 Print management utilities that will improve, we believe, user […]\nThe post Docentric AX 3.4.7 Released appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/docentric-ax-3-4-7-released/",
+          "publishedOn": "2023-09-27T12:28:35.000Z",
+          "wordCount": 11462,
+          "title": "Docentric AX 3.4.7 Released",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/D365Blog-DocentricNewVersion_3-4-7.png"
+        },
+        {
           "id": "https://ax.docentric.com/?p=27097",
           "author": "Helena Treska",
           "description": "Are you passionate about Dynamics365 and PowerPlatform? Want to be up to date with the latest news on these technologies? When faced with a challenge, you love to discuss the possible solution with fellow professionals and experts? Or you just enjoy exchanging ideas, knowledge, and […]\nThe post NT Conference 2023: Let’s grow Dynamics 365 and Power Platform Community at Home! ❤ appeared first on Docentric AX.",
@@ -14547,6 +14557,16 @@
       "siteUrl": "https://elearnd365.com",
       "articles": [
         {
+          "id": "http://elearnd365.com/?p=683",
+          "author": "Sukrut Parab",
+          "description": "As we know, as part of a touchless Accounts payable invoicing process, an imported invoice can automatically be submitted to the workflow system.Once it is submitted to workflow you can configure series of process automation jobs to match product receipts to the invoice and Post the invoice. As part of this process, you can specify […]",
+          "link": "https://elearnd365.com/2023/09/28/vendor-invoice-automation-for-the-invoices-imported-using-custom-services/",
+          "publishedOn": "2023-09-28T22:23:15.000Z",
+          "wordCount": 3375,
+          "title": "Vendor invoice automation for the invoices imported using custom services",
+          "imageUrl": "https://elearnd365.files.wordpress.com/2023/09/invoice-automation.png"
+        },
+        {
           "id": "http://elearnd365.com/?p=655",
           "author": "Sukrut Parab",
           "description": "Exporting trial balance from Dynamics 365 for Finance and Operations is a common ask for consolidation purpose by third party software’s like blackline ,Hyperion etc. I have uploaded a code sample for generating report in csv format on my github page. The following steps would help you to configure this project and a successful test. […]",
@@ -15244,6 +15264,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-pipelines-delegated-deployments-spn",
+          "author": null,
+          "description": "Delegated deployments (preview) for pipelines in Power Platform empowers makers to deploy their business solutions without needing elevated permissions in target environments (like production).  Admins can rest assure their production data and application assets are protected and compliant with organizational least privileged access policies.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-pipelines-delegated-deployments-spn/",
+          "publishedOn": "2023-10-02T06:37:00.000Z",
+          "wordCount": 1761,
+          "title": "Announcing pipelines delegated deployments (SPN)",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "public-preview-of-new-custom-connector-enhancements",
           "author": null,
