@@ -3654,6 +3654,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2843",
+          "author": "Alex",
+          "description": "One question I get quite often in D365FO revolves around the ability to capture when a record is read or viewed within D365FO. The ‘read auditing’ feature is standard in other Dynamics 365 offerings but does not exist natively in D365FO, so what can we use to achieve this outcome? One possible solution is to […]\nThe post Using Telemetry Data for Read Auditing in D365FO appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/10/03/using-telemetry-data-for-read-auditing-in-d365fo/",
+          "publishedOn": "2023-10-03T14:08:16.000Z",
+          "wordCount": 4429,
+          "title": "Using Telemetry Data for Read Auditing in D365FO",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/10/0.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2830",
           "author": "Alex",
           "description": "I’ve written about D365FO data entities in the past and have had the opportunity to use them extensively from a ISV and consulting perspective. While working with them I have found myself at different times wanting to have a centralized source of information surrounding their metadata, the data sources used (both root data source and […]\nThe post D365FO Data Entity Metadata appeared first on Alex Meyer.",
@@ -15264,6 +15274,36 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "unlocking-your-ecosystem-across-low-code-solutions-and-microsoft-365-copilot",
+          "author": null,
+          "description": "Earlier this year we announced the exciting milestone of 1000 certified connectors that serve as building blocks for low-code development enabling developers to build richer apps and workflows. A huge note of thanks goes to our community of developers, partners, and publishers for this accomplishment. Today’s announcement is how we take this story forward.…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/unlocking-your-ecosystem-across-low-code-solutions-and-microsoft-365-copilot/",
+          "publishedOn": "2023-10-03T09:00:00.000Z",
+          "wordCount": 2306,
+          "title": "Unlocking Your Ecosystem Across Low-code Solutions and Microsoft 365 Copilot",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "power-apps-announces-new-copilot-abilities-modern-controls-and-governance-tools-at-the-power-platform-conference",
+          "author": null,
+          "description": "As we kick off the second edition of the Microsoft Power Platform Conference (MPPC), we’re excited to share a raft of Microsoft Power Apps advancements across AI, governance, and modern UX.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-apps-announces-new-copilot-abilities-modern-controls-and-governance-tools-at-the-power-platform-conference/",
+          "publishedOn": "2023-10-03T08:00:00.000Z",
+          "wordCount": 2790,
+          "title": "Power Apps announces new Copilot abilities, modern controls, and governance tools at the Power Platform Conference",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/10/CLO20_Demi_008.jpg"
+        },
+        {
+          "id": "as-a-tenant-level-admin-enable-your-makers-with-developer-environments",
+          "author": null,
+          "description": "We are excited to share that tenant-level Global and Power Platform Administrators can now enable their app makers by creating Developer environments on makers’ behalf. This new capability gives your admin the right balance between control and maker empowerment. These developer environments enable your makers to build using premium capabilities like Dataverse, premium connectors and…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/as-a-tenant-level-admin-enable-your-makers-with-developer-environments/",
+          "publishedOn": "2023-10-02T20:06:21.000Z",
+          "wordCount": 1815,
+          "title": "As a tenant-level admin, enable your makers with Developer Environments",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "announcing-pipelines-delegated-deployments-spn",
           "author": null,

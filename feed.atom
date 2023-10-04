@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-03T01:06:35.666Z</updated>
+    <updated>2023-10-04T01:07:41.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Telemetry Data for Read Auditing in D365FO]]></title>
+        <id>https://alexdmeyer.com/?p=2843</id>
+        <link href="https://alexdmeyer.com/2023/10/03/using-telemetry-data-for-read-auditing-in-d365fo/"/>
+        <updated>2023-10-03T14:08:16.000Z</updated>
+        <summary type="html"><![CDATA[One question I get quite often in D365FO revolves around the ability to capture when a record is read or viewed within D365FO. The ‘read auditing’ feature is standard in other Dynamics 365 offerings but does not exist natively in D365FO, so what can we use to achieve this outcome? One possible solution is to […]
+The post Using Telemetry Data for Read Auditing in D365FO appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Your Ecosystem Across Low-code Solutions and Microsoft 365 Copilot]]></title>
+        <id>unlocking-your-ecosystem-across-low-code-solutions-and-microsoft-365-copilot</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/unlocking-your-ecosystem-across-low-code-solutions-and-microsoft-365-copilot/"/>
+        <updated>2023-10-03T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year we announced the exciting milestone of 1000 certified connectors that serve as building blocks for low-code development enabling developers to build richer apps and workflows. A huge note of thanks goes to our community of developers, partners, and publishers for this accomplishment. Today’s announcement is how we take this story forward.…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Apps announces new Copilot abilities, modern controls, and governance tools at the Power Platform Conference]]></title>
+        <id>power-apps-announces-new-copilot-abilities-modern-controls-and-governance-tools-at-the-power-platform-conference</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-announces-new-copilot-abilities-modern-controls-and-governance-tools-at-the-power-platform-conference/"/>
+        <updated>2023-10-03T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As we kick off the second edition of the Microsoft Power Platform Conference (MPPC), we’re excited to share a raft of Microsoft Power Apps advancements across AI, governance, and modern UX.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As a tenant-level admin, enable your makers with Developer Environments]]></title>
+        <id>as-a-tenant-level-admin-enable-your-makers-with-developer-environments</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/as-a-tenant-level-admin-enable-your-makers-with-developer-environments/"/>
+        <updated>2023-10-02T20:06:21.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to share that tenant-level Global and Power Platform Administrators can now enable their app makers by creating Developer environments on makers’ behalf. This new capability gives your admin the right balance between control and maker empowerment. These developer environments enable your makers to build using premium capabilities like Dataverse, premium connectors and…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing pipelines delegated deployments (SPN)]]></title>
         <id>announcing-pipelines-delegated-deployments-spn</id>
