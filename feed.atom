@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-04T01:07:41.125Z</updated>
+    <updated>2023-10-05T01:06:07.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Analysis View for Detailed Reports in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=59521</id>
+        <link href="https://www.encorebusiness.com/blog/analysis-view-for-dimensions-in-d365-business-central/"/>
+        <updated>2023-10-04T16:02:03.000Z</updated>
+        <summary type="html"><![CDATA[How to Set Up Analysis View for Detailed Reports in Dynamics 365 Business Central
+The Analysis View tool in Dynamics 365 Business Central can help users get detailed reports on dimensions. Typically, in reports such as trial balance and aged reports, we only have the option to filter based on a single dimension value, and it will not show the numbers based on all the dimension values. This article...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Abhishek Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Select address, phone, email, contact information purposes (roles)]]></title>
+        <id>1924</id>
+        <link href="http://daxonline.org/1924-select-address-phone-email-contact-information-purposes-roles.html"/>
+        <updated>2023-10-04T11:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Here is the code to select contac information or addresses purposes (roles):
+
+
+
+        CustTable custTable = CustTable::find('12345');
+
+        LogisticsPostalAddress logisticsPostalAddress = custTable.postalAddress();
+
+
+        DirPartyLocationRole entityLocationRole;
+
+        container                   roleRecIds, roleNames, roleTranslationRecIds;
+        LogisticsLocationRole       locationRole;
+        LogisticsLocationRoleTranslation locationRoleTransl;
+        DirPartyLocation            dirPartyLocation;
+
+        // Addresses
+        info(strFmt("Address: %1", logisticsPostalAddress.Address));
+
+        select dirPartyLocation
+            where dirPartyLocation.Location == logisticsPostalAddress.Location
+            && dirPartyLocation.Party == custTable.Party;
+
+        info('Addre…]]></summary>
+        <author>
+            <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Telemetry Data for Read Auditing in D365FO]]></title>
         <id>https://alexdmeyer.com/?p=2843</id>

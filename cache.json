@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=59521",
+          "author": "Abhishek Jain",
+          "description": "How to Set Up Analysis View for Detailed Reports in Dynamics 365 Business Central\nThe Analysis View tool in Dynamics 365 Business Central can help users get detailed reports on dimensions. Typically, in reports such as trial balance and aged reports, we only have the option to filter based on a single dimension value, and it will not show the numbers based on all the dimension values. This article...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/analysis-view-for-dimensions-in-d365-business-central/",
+          "publishedOn": "2023-10-04T16:02:03.000Z",
+          "wordCount": 1521,
+          "title": "How to Set Up Analysis View for Detailed Reports in Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=59482",
           "author": "Patti Schreiber",
           "description": "Dynamics GP October 2023 Release\nThe release of Dynamics GP version 18.6 is just around the corner. Here is a sneak peak of some exciting new features to watch out for. This release is especially exciting because all of the usability improvements came from customers. Customers have the ability to share ideas and vote for future ideas in the suggestion...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -5921,6 +5931,16 @@
       "feedUrl": "https://daxonline.org/rss.xml",
       "siteUrl": "http://daxonline.org/",
       "articles": [
+        {
+          "id": "1924",
+          "author": "Vasiliy Kovalenko",
+          "description": "Here is the code to select contac information or addresses purposes (roles):\n\n\n\n        CustTable custTable = CustTable::find('12345');\n\n        LogisticsPostalAddress logisticsPostalAddress = custTable.postalAddress();\n\n\n        DirPartyLocationRole entityLocationRole;\n\n        container                   roleRecIds, roleNames, roleTranslationRecIds;\n        LogisticsLocationRole       locationRole;\n        LogisticsLocationRoleTranslation locationRoleTransl;\n        DirPartyLocation            dirPartyLocation;\n\n        // Addresses\n        info(strFmt(\"Address: %1\", logisticsPostalAddress.Address));\n\n        select dirPartyLocation\n            where dirPartyLocation.Location == logisticsPostalAddress.Location\n            && dirPartyLocation.Party == custTable.Party;\n\n        info('Addre…",
+          "link": "http://daxonline.org/1924-select-address-phone-email-contact-information-purposes-roles.html",
+          "publishedOn": "2023-10-04T11:20:06.000Z",
+          "wordCount": 361,
+          "title": "Select address, phone, email, contact information purposes (roles)",
+          "imageUrl": null
+        },
         {
           "id": "1914",
           "author": "Vasiliy Kovalenko",
@@ -10383,7 +10403,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "https://paragchapre.com/",
+      "siteUrl": "http://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12107",
