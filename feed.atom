@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-05T01:06:07.864Z</updated>
+    <updated>2023-10-06T01:06:16.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 New Features for Sales Teams in Dynamics 365 CRM Wave 2 Release 2023]]></title>
+        <id>https://www.encorebusiness.com/?p=59612</id>
+        <link href="https://www.encorebusiness.com/blog/new-features-in-d365-crm-wave-2-release/"/>
+        <updated>2023-10-05T14:28:56.000Z</updated>
+        <summary type="html"><![CDATA[3 New Features for Sales Teams in Dynamics 365 CRM Wave 2 Release 2023
+Microsoft has just released new updates to Dynamics 365 CRM in the 2023 Release Wave 2 and has new capabilities featuring Microsoft’s newest AI tool: Microsoft Copilot. In this blog I will be sharing 3 new features about lead assignment capabilities, AI-driven sales insights, and collaboration features in Microsoft Teams. With this release, sales teams...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Hamza Idlepi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory valuation(Weighted Average) in Microsoft Dynamics 365 Finance and Operations: Part-2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2768</id>
+        <link href="https://exploredynamics365.home.blog/2023/10/05/inventory-valuationweighted-average-in-microsoft-dynamics-365-finance-and-operations-part-2/"/>
+        <updated>2023-10-05T06:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Lets start the week with next part of inventory valuation in MS Dynamics 365 finance and operations Welcome to part 2 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the weighted average valuation method in D365, delving into the following key concepts: […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory valuation(Weighted Average) in Microsoft Dynamics 365 Finance and Operations: Part-2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2768</id>
+        <link href="https://exploredynamics365.home.blog/2023/10/05/inventory-valuationweighted-average-in-microsoft-dynamics-365-finance-and-operations-part-2/"/>
+        <updated>2023-10-05T06:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Lets start the week with next part of inventory valuation in MS Dynamics 365 finance and operations Welcome to part 2 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the weighted average valuation method in D365, delving into the following key concepts: […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory valuation in Microsoft Dynamics 365 Finance and Operations: Part-1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2765</id>
+        <link href="https://exploredynamics365.home.blog/2023/10/05/inventory-valuation-in-microsoft-dynamics-365-finance-and-operations-part-1/"/>
+        <updated>2023-10-05T06:44:32.000Z</updated>
+        <summary type="html"><![CDATA[Inventory management and valuation represent the most pivotal aspect of any implementation, and it encompasses numerous facets. These include Inventory transactions, Financial posting, Reconciliation, comprehending postings, and configuring the correct attributes for inventory. Many consultants, including myself, have encountered challenges in this area. Therefore, I’ve decided to share my experiences through this video series. To […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory valuation in Microsoft Dynamics 365 Finance and Operations: Part-1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2765</id>
+        <link href="https://exploredynamics365.home.blog/2023/10/05/inventory-valuation-in-microsoft-dynamics-365-finance-and-operations-part-1/"/>
+        <updated>2023-10-05T06:44:32.000Z</updated>
+        <summary type="html"><![CDATA[Inventory management and valuation represent the most pivotal aspect of any implementation, and it encompasses numerous facets. These include Inventory transactions, Financial posting, Reconciliation, comprehending postings, and configuring the correct attributes for inventory. Many consultants, including myself, have encountered challenges in this area. Therefore, I’ve decided to share my experiences through this video series. To […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up Analysis View for Detailed Reports in Dynamics 365 Business Central]]></title>
         <id>https://www.encorebusiness.com/?p=59521</id>

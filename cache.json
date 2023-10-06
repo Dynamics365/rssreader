@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=59612",
+          "author": "Hamza Idlepi",
+          "description": "3 New Features for Sales Teams in Dynamics 365 CRM Wave 2 Release 2023\nMicrosoft has just released new updates to Dynamics 365 CRM in the 2023 Release Wave 2 and has new capabilities featuring Microsoft’s newest AI tool: Microsoft Copilot. In this blog I will be sharing 3 new features about lead assignment capabilities, AI-driven sales insights, and collaboration features in Microsoft Teams. With this release, sales teams...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/new-features-in-d365-crm-wave-2-release/",
+          "publishedOn": "2023-10-05T14:28:56.000Z",
+          "wordCount": 1520,
+          "title": "3 New Features for Sales Teams in Dynamics 365 CRM Wave 2 Release 2023",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/CRM-blog-image.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=59521",
           "author": "Abhishek Jain",
           "description": "How to Set Up Analysis View for Detailed Reports in Dynamics 365 Business Central\nThe Analysis View tool in Dynamics 365 Business Central can help users get detailed reports on dimensions. Typically, in reports such as trial balance and aged reports, we only have the option to filter based on a single dimension value, and it will not show the numbers based on all the dimension values. This article...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -8178,6 +8188,26 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2768",
+          "author": "Saurabh Bharti",
+          "description": "Lets start the week with next part of inventory valuation in MS Dynamics 365 finance and operations Welcome to part 2 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the weighted average valuation method in D365, delving into the following key concepts: […]",
+          "link": "https://exploredynamics365.home.blog/2023/10/05/inventory-valuationweighted-average-in-microsoft-dynamics-365-finance-and-operations-part-2/",
+          "publishedOn": "2023-10-05T06:57:01.000Z",
+          "wordCount": 2675,
+          "title": "Inventory valuation(Weighted Average) in Microsoft Dynamics 365 Finance and Operations: Part-2",
+          "imageUrl": "http://img.youtube.com/vi/pynTucydA7s/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2765",
+          "author": "Saurabh Bharti",
+          "description": "Inventory management and valuation represent the most pivotal aspect of any implementation, and it encompasses numerous facets. These include Inventory transactions, Financial posting, Reconciliation, comprehending postings, and configuring the correct attributes for inventory. Many consultants, including myself, have encountered challenges in this area. Therefore, I’ve decided to share my experiences through this video series. To […]",
+          "link": "https://exploredynamics365.home.blog/2023/10/05/inventory-valuation-in-microsoft-dynamics-365-finance-and-operations-part-1/",
+          "publishedOn": "2023-10-05T06:44:32.000Z",
+          "wordCount": 2608,
+          "title": "Inventory valuation in Microsoft Dynamics 365 Finance and Operations: Part-1",
+          "imageUrl": "http://img.youtube.com/vi/7aF8fye1sIQ/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2762",
           "author": "Saurabh Bharti",
           "description": "Have you seen the business document workspace/feature in Microsoft dynamics 365? If yes then how frequently you use this now? Business documents are based on electronic reporting frameworks which allows business users to take the control of all the outbound documents e.g. Sales invoice, purchase order, collection letter etc… In this video I have explained […]",
@@ -8724,6 +8754,26 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2768",
+          "author": "Saurabh Bharti",
+          "description": "Lets start the week with next part of inventory valuation in MS Dynamics 365 finance and operations Welcome to part 2 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the weighted average valuation method in D365, delving into the following key concepts: […]",
+          "link": "https://exploredynamics365.home.blog/2023/10/05/inventory-valuationweighted-average-in-microsoft-dynamics-365-finance-and-operations-part-2/",
+          "publishedOn": "2023-10-05T06:57:01.000Z",
+          "wordCount": 2675,
+          "title": "Inventory valuation(Weighted Average) in Microsoft Dynamics 365 Finance and Operations: Part-2",
+          "imageUrl": "http://img.youtube.com/vi/pynTucydA7s/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2765",
+          "author": "Saurabh Bharti",
+          "description": "Inventory management and valuation represent the most pivotal aspect of any implementation, and it encompasses numerous facets. These include Inventory transactions, Financial posting, Reconciliation, comprehending postings, and configuring the correct attributes for inventory. Many consultants, including myself, have encountered challenges in this area. Therefore, I’ve decided to share my experiences through this video series. To […]",
+          "link": "https://exploredynamics365.home.blog/2023/10/05/inventory-valuation-in-microsoft-dynamics-365-finance-and-operations-part-1/",
+          "publishedOn": "2023-10-05T06:44:32.000Z",
+          "wordCount": 2608,
+          "title": "Inventory valuation in Microsoft Dynamics 365 Finance and Operations: Part-1",
+          "imageUrl": "http://img.youtube.com/vi/7aF8fye1sIQ/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2762",
           "author": "Saurabh Bharti",
@@ -10403,7 +10453,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "http://paragchapre.com/",
+      "siteUrl": "https://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12107",
