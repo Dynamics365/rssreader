@@ -4345,6 +4345,26 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=3002",
+          "author": "AnithaEswaran",
+          "description": "While working on multiple projects or environments, we will always have various windows left open . Rather than checking the Address bar every time , if we have some extension which highlights the environment name in the active window, that … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/10/06/easy-identification-of-d365fo-environments-chrome-extension/",
+          "publishedOn": "2023-10-06T08:57:14.000Z",
+          "wordCount": 3708,
+          "title": "Easy identification of D365FO Environments – Chrome extension",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/10/image-6.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=2993",
+          "author": "AnithaEswaran",
+          "description": "Being a technical, my SSMS window will have multiple active connections , thus at times it will be perplexful to identify the correct environment. I found the below solution long back , but thought of sharing to the community which … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/10/06/ssms-color-pattern-to-differentiate-various-environments/",
+          "publishedOn": "2023-10-06T08:12:18.000Z",
+          "wordCount": 3748,
+          "title": "SSMS – Color pattern to differentiate various environments",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/10/image-2.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=2989",
           "author": "AnithaEswaran",
           "description": "Customers can take up to four service updates per year and are required to take a minimum of two service updates per year. Customers can choose to pause one update at a time. Pausing a service update can apply to … Continue reading →",
@@ -15029,16 +15049,6 @@
           "wordCount": 2765,
           "title": "Trade Agreements Explained: Dynamics 365 Finance and Operations",
           "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/10/Trade-Agreements.jpg"
-        },
-        {
-          "id": "https://dynamics-tips.com/?p=2025",
-          "author": "Tim Woods",
-          "description": "In Dynamics 365 Finance and Operations Location profiles control the behavior of locations in an advanced warehouse management enabled warehouse. Location profiles can also enforce certain warehouse rules like allowing",
-          "link": "https://dynamics-tips.com/location-profiles/",
-          "publishedOn": "2021-10-06T18:38:35.000Z",
-          "wordCount": 1904,
-          "title": "Location Profiles Explained: D365 Finance and Operations",
-          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/10/LocationProfile.jpg"
         }
       ]
     },

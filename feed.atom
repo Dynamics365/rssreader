@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-06T01:06:16.600Z</updated>
+    <updated>2023-10-07T01:05:00.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Easy identification of D365FO Environments – Chrome extension]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3002</id>
+        <link href="https://anithasantosh.wordpress.com/2023/10/06/easy-identification-of-d365fo-environments-chrome-extension/"/>
+        <updated>2023-10-06T08:57:14.000Z</updated>
+        <summary type="html"><![CDATA[While working on multiple projects or environments, we will always have various windows left open . Rather than checking the Address bar every time , if we have some extension which highlights the environment name in the active window, that … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSMS – Color pattern to differentiate various environments]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=2993</id>
+        <link href="https://anithasantosh.wordpress.com/2023/10/06/ssms-color-pattern-to-differentiate-various-environments/"/>
+        <updated>2023-10-06T08:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Being a technical, my SSMS window will have multiple active connections , thus at times it will be perplexful to identify the correct environment. I found the below solution long back , but thought of sharing to the community which … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 New Features for Sales Teams in Dynamics 365 CRM Wave 2 Release 2023]]></title>
         <id>https://www.encorebusiness.com/?p=59612</id>
@@ -23410,16 +23430,6 @@ $ git merge [branch]
 Combines the specified branch’s histo…]]></summary>
         <author>
             <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Location Profiles Explained: D365 Finance and Operations]]></title>
-        <id>https://dynamics-tips.com/?p=2025</id>
-        <link href="https://dynamics-tips.com/location-profiles/"/>
-        <updated>2021-10-06T18:38:35.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations Location profiles control the behavior of locations in an advanced warehouse management enabled warehouse. Location profiles can also enforce certain warehouse rules like allowing]]></summary>
-        <author>
-            <name>Tim Woods</name>
         </author>
     </entry>
     <entry>
