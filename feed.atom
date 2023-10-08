@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-07T01:05:00.244Z</updated>
+    <updated>2023-10-08T01:10:11.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -123,6 +123,16 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         info('Addre…]]></summary>
         <author>
             <name>Vasiliy Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deeper control over HTTP invocation of flows]]></title>
+        <id>deeper-control-over-http-invocation-of-flows</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/deeper-control-over-http-invocation-of-flows/"/>
+        <updated>2023-10-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HTTP request trigger is a frequently used functionality that helps customers integrate Power Automate with other systems. This allows a flow to be started based on an HTTP call. Today, we are introducing OAuth support for HTTP request triggers for deeper control on what applications and users can invoke such automations.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
         </author>
     </entry>
     <entry>
@@ -23371,65 +23381,6 @@ Let’s face it: Writing content for the Web is tiresome. WYSIWYG editors help a
 Markd…]]></summary>
         <author>
             <name>false</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to learn and try out Dynamics 365 Commerce?]]></title>
-        <id>http://kurthatlevik.com/?p=4266</id>
-        <link href="https://kurthatlevik.com/2021/10/08/how-to-learn-and-try-out-dynamics-365-commerce/"/>
-        <updated>2021-10-08T07:36:48.000Z</updated>
-        <summary type="html"><![CDATA[The Dynamics 365 Commerce team at Microsoft have created a great trial site where you can try out all their good stuff and get some guided walk through of their capabilities. Please check it out: https://manage.commerce.dynamics.com/welcome/index.html Here is your to-do list of what you should explore: B2C experience Product discovery and cloud powered search Curb-side … Continue reading How to learn and try out Dynamics 365 Commerce?]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extend Microsoft 365 with office add-ins]]></title>
-        <id>https://nuxulu.com/2021-10-07-extend-microsoft-365/</id>
-        <link href="https://nuxulu.com/2021-10-07-extend-microsoft-365/"/>
-        <updated>2021-10-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to Office client customization with add-ins
-Explain how Office add-ins extend and customize Office applications
-Describe the development tooling, APIs, and deployment of Office add-ins
-Understand how to incorporate data with Microsoft Graph and extend Office applications with add-ins using the Office UI Fabric
-1. Understand Office add-ins fundamentals
-1.1. Understand task pane and content add-ins
-1.1.1. Task pane add-ins
-Task pane add-ins allow user interaction through a panel displayed within an Office application. Through the task pane interface, you can enable the user to modify documents or emails, view data from a data source, and more. In the following image, the task pane is the panel that’s displayed to the right of the document.
-
-In newer versions of Word, Excel, and …]]></summary>
-        <author>
-            <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git & Github cheatsheet]]></title>
-        <id>https://nuxulu.com/2021-10-08-git-cheatsheet/</id>
-        <link href="https://nuxulu.com/2021-10-08-git-cheatsheet/"/>
-        <updated>2021-10-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1. Install
-Configure user information for all local repositories
-$ git config --global user.name "[name]"
-Sets the name you want attached to your commit transactions
-$ git config --global user.email "[email address]"
-Sets the email you want attached to your commit transactions
-$ git config --global color.ui auto
-Enables helpful colorization of command line output
-2. Branches
-braching
-">
-        
-    Branching
-    
-Branches are an important part of working with Git. Any commits you make will be made on the branch you’re currently “checked out” to. Use git status to see which branch that is.
-$ git branch [branch-name]
-Creates a new branch
-$ git switch -c [branch-name]
-Switches to the specified branch and updates the working directory
-$ git merge [branch]
-Combines the specified branch’s histo…]]></summary>
-        <author>
-            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>

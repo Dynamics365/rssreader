@@ -334,26 +334,6 @@
           "wordCount": 2734,
           "title": "Basic Markdown Syntax",
           "imageUrl": "https://nuxulu.com/basic-markdown-syntax/featured-image.png"
-        },
-        {
-          "id": "https://nuxulu.com/2021-10-07-extend-microsoft-365/",
-          "author": "Max Nguyen",
-          "description": "Introduction to Office client customization with add-ins\nExplain how Office add-ins extend and customize Office applications\nDescribe the development tooling, APIs, and deployment of Office add-ins\nUnderstand how to incorporate data with Microsoft Graph and extend Office applications with add-ins using the Office UI Fabric\n1. Understand Office add-ins fundamentals\n1.1. Understand task pane and content add-ins\n1.1.1. Task pane add-ins\nTask pane add-ins allow user interaction through a panel displayed within an Office application. Through the task pane interface, you can enable the user to modify documents or emails, view data from a data source, and more. In the following image, the task pane is the panel that’s displayed to the right of the document.\n\nIn newer versions of Word, Excel, and …",
-          "link": "https://nuxulu.com/2021-10-07-extend-microsoft-365/",
-          "publishedOn": "2021-10-08T00:00:00.000Z",
-          "wordCount": 6582,
-          "title": "Extend Microsoft 365 with office add-ins",
-          "imageUrl": "https://nuxulu.com/2021-10-07-extend-microsoft-365/featured-image.png"
-        },
-        {
-          "id": "https://nuxulu.com/2021-10-08-git-cheatsheet/",
-          "author": "Max Nguyen",
-          "description": "1. Install\nConfigure user information for all local repositories\n$ git config --global user.name \"[name]\"\nSets the name you want attached to your commit transactions\n$ git config --global user.email \"[email address]\"\nSets the email you want attached to your commit transactions\n$ git config --global color.ui auto\nEnables helpful colorization of command line output\n2. Branches\nbraching\n\">\n        \n    Branching\n    \nBranches are an important part of working with Git. Any commits you make will be made on the branch you’re currently “checked out” to. Use git status to see which branch that is.\n$ git branch [branch-name]\nCreates a new branch\n$ git switch -c [branch-name]\nSwitches to the specified branch and updates the working directory\n$ git merge [branch]\nCombines the specified branch’s histo…",
-          "link": "https://nuxulu.com/2021-10-08-git-cheatsheet/",
-          "publishedOn": "2021-10-08T00:00:00.000Z",
-          "wordCount": 1007,
-          "title": "Git & Github cheatsheet",
-          "imageUrl": "https://nuxulu.com/2021-10-08-git-cheatsheet/git-basic-design.png"
         }
       ]
     },
@@ -5759,16 +5739,6 @@
           "wordCount": 1210,
           "title": "D365 Recurring Integrations Scheduler(RIS)",
           "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/11/110221_1018_d365recurri1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4266",
-          "author": "Kurt Hatlevik",
-          "description": "The Dynamics 365 Commerce team at Microsoft have created a great trial site where you can try out all their good stuff and get some guided walk through of their capabilities. Please check it out: https://manage.commerce.dynamics.com/welcome/index.html Here is your to-do list of what you should explore: B2C experience Product discovery and cloud powered search Curb-side … Continue reading How to learn and try out Dynamics 365 Commerce?",
-          "link": "https://kurthatlevik.com/2021/10/08/how-to-learn-and-try-out-dynamics-365-commerce/",
-          "publishedOn": "2021-10-08T07:36:48.000Z",
-          "wordCount": 968,
-          "title": "How to learn and try out Dynamics 365 Commerce?",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/10/100821_0736_howtolearna1.png"
         }
       ]
     },
@@ -17579,6 +17549,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "deeper-control-over-http-invocation-of-flows",
+          "author": null,
+          "description": "HTTP request trigger is a frequently used functionality that helps customers integrate Power Automate with other systems. This allows a flow to be started based on an HTTP call. Today, we are introducing OAuth support for HTTP request triggers for deeper control on what applications and users can invoke such automations.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/deeper-control-over-http-invocation-of-flows/",
+          "publishedOn": "2023-10-04T08:00:00.000Z",
+          "wordCount": 2540,
+          "title": "Deeper control over HTTP invocation of flows",
+          "imageUrl": null
+        },
         {
           "id": "september-2023-update-of-power-automate-for-desktop",
           "author": null,
