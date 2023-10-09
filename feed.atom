@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-08T01:10:11.487Z</updated>
+    <updated>2023-10-09T01:06:04.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -80,6 +80,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Announcing Commerce Copilot in Site Builder]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/?p=187286</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/10/04/dynamics-365-commerce-copilot/"/>
+        <updated>2023-10-04T16:32:21.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Commerce is thrilled to announce the preview of ‘Commerce Copilot’.
+The post Announcing Commerce Copilot in Site Builder  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ashish Harchwani</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Set Up Analysis View for Detailed Reports in Dynamics 365 Business Central]]></title>
         <id>https://www.encorebusiness.com/?p=59521</id>
         <link href="https://www.encorebusiness.com/blog/analysis-view-for-dimensions-in-d365-business-central/"/>
@@ -90,6 +101,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Abhishek Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover new AI for Microsoft Dynamics 365 at our tenth Business Applications Launch Event]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/?p=187239</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/04/discover-new-ai-for-microsoft-dynamics-365-at-our-tenth-business-applications-launch-event/"/>
+        <updated>2023-10-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI is ready for work—the question is: What will your business do with it? Join us at the Microsoft Business Applications Launch Event on October 25 and explore how to create an AI-powered business that helps people and teams be more productive, solve problems faster than ever, and focus more energy on building revenue.
+The post Discover new AI for Microsoft Dynamics 365 at our tenth Business Applications Launch Event appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Keith Barnett</name>
         </author>
     </entry>
     <entry>
