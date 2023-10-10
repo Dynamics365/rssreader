@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-09T01:06:04.869Z</updated>
+    <updated>2023-10-10T01:05:25.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Setting the correct time zone for service accounts in Microsoft Dynamics 365]]></title>
+        <id>http://kurthatlevik.com/?p=4503</id>
+        <link href="https://kurthatlevik.com/2023/10/09/setting-the-correct-time-zone-for-service-accounts-in-microsoft-dynamics-365/"/>
+        <updated>2023-10-09T19:12:49.000Z</updated>
+        <summary type="html"><![CDATA[The setting of the correct time zone for service accounts in Microsoft Dynamics 365 is crucial for accurate business logic execution, particularly when dealing with time-sensitive functionalities like order deadlines. Given your interest in Dynamics 365, eCommerce, and Supply Chain, this topic is indeed pertinent. Hidden within the user accounts in Dynamics 365, you’ll find … Continue reading Setting the correct time zone for service accounts in Microsoft Dynamics 365]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics Communities Summit North America 2023 Speaking Activities]]></title>
+        <id>https://alexdmeyer.com/?p=2857</id>
+        <link href="https://alexdmeyer.com/2023/10/09/dynamic-communities-summit-north-america-2023-speaking-activities/"/>
+        <updated>2023-10-09T16:54:02.000Z</updated>
+        <summary type="html"><![CDATA[We are officially one week out from Dynamics Communities Summit North America 2023 conference and looking forward to a great event, here is a listing of my speaking engagements during the conference. Security Overview of D365FO – Academy Monday Oct 16th 8:00 AM – 5:00 PM Location: E212CD D365FO Telemetry Data Overview Tuesday Oct 17th […]
+The post Dynamics Communities Summit North America 2023 Speaking Activities appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is recognized as a Leader in the 2023 Gartner® Magic Quadrant™ for Cloud ERP for Product-Centric Enterprises]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/09/microsoft-is-recognized-as-a-leader-in-the-2023-gartner-magic-quadrant-for-cloud-erp-for-product-centric-enterprises/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/09/microsoft-is-recognized-as-a-leader-in-the-2023-gartner-magic-quadrant-for-cloud-erp-for-product-centric-enterprises/"/>
+        <updated>2023-10-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited and honored that Gartner has recognized Microsoft as a Leader in their 2023 Magic Quadrant™ for Cloud ERP for Product-Centric Enterprises. This evaluation of Microsoft was based on specific criteria that analyzed our overall Completeness of Vision and Ability to Execute.
+The post Microsoft is recognized as a Leader in the 2023 Gartner® Magic Quadrant™ for Cloud ERP for Product-Centric Enterprises appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Sameer Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September 2023 updates for modernization and theming in Power Apps]]></title>
+        <id>september-2023-updates-for-modernization-and-theming-in-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/september-2023-updates-for-modernization-and-theming-in-power-apps/"/>
+        <updated>2023-10-09T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Note: This blog is in continuation of the announcement of modern controls coming to canvas apps & new look for model driven apps. You can find the August 2023 updates here. Modern controls updates in canvas apps We made additional progress in the month of September on the journey to modernize Power Apps with the…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Easy identification of D365FO Environments – Chrome extension]]></title>
         <id>http://anithasantosh.wordpress.com/?p=3002</id>
@@ -23174,233 +23216,6 @@ Hugo extended version is recommended
 Since some features of this theme need to processes  SCSS to  CSS, it is recommended to use Hugo extended version for better experience.
 2 Installation
 The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you learn more about it by following this …]]></summary>
-        <author>
-            <name>false</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emoji Support]]></title>
-        <id>https://nuxulu.com/emoji-support/</id>
-        <link href="https://nuxulu.com/emoji-support/"/>
-        <updated>2021-10-10T09:55:28.000Z</updated>
-        <summary type="html"><![CDATA[Emoji can be enabled in a Hugo project in a number of ways.
-The emojify function can be called directly in templates or Inline Shortcodes.
-To enable emoji globally, set enableEmoji to true in your site configuration and then you can type emoji shorthand codes directly in content files.
-These begin and end with a colon and include the code of an emoji:
-
-
-
-1
-2
-3
-
-
-
-Gone camping! :tent: Be back soon.
-
-That is so funny! :joy:
-
-
-
-
-
-The rendered output looks like this:
-Gone camping! ⛺ Be back soon.
-That is so funny! 😂
-The following cheat sheet is a useful reference for emoji shorthand codes.
-Smileys & Emotion
-Face Smiling
-icon
-code
-icon
-code
-
-
-
-
-😀
-grinning
-😃
-smiley
-
-
-😄
-smile
-😁
-grin
-
-
-😆
-laughing 
- satisfied
-😅
-sweat_smile
-
-
-🤣
-rofl
-😂
-joy
-
-
-🙂
-slightly_smiling_face
-🙃
-upside_down_face
-
-
-😉
-…]]></summary>
-        <author>
-            <name>false</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theme Documentation - Built-in Shortcodes]]></title>
-        <id>https://nuxulu.com/theme-documentation-built-in-shortcodes/</id>
-        <link href="https://nuxulu.com/theme-documentation-built-in-shortcodes/"/>
-        <updated>2021-10-10T08:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Hugo provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.
-Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.
-But this happens to be a bad idea. Everyone uses Markdown because it’s pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.
-To avoid this limitations, Hugo created shortcodes.
-A shortcode is a simple snippet that can generate reasonable HTML code and conforms to Markdown’s design philosophy.
-Hugo ships with a set of predefined shortcodes that represent very common usage. These shortcodes are provided for author convenience and to keep your markdown content clean.
-1 figure
-…]]></summary>
-        <author>
-            <name>false</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theme Documentation - Extended Shortcodes]]></title>
-        <id>https://nuxulu.com/theme-documentation-extended-shortcodes/</id>
-        <link href="https://nuxulu.com/theme-documentation-extended-shortcodes/"/>
-        <updated>2021-10-10T08:29:41.000Z</updated>
-        <summary type="html"><![CDATA[LoveIt theme provides multiple shortcodes on top of built-in ones in Hugo.
-1 style
-
-
-        
-Note
-        
-Hugo extended version is necessary for style shortcode.
-style is a shortcode to insert custom style in your post.
-The style shortcode has two positional parameters.
-The first one is the custom style content,
-which supports nesting syntax in  SASS
-and & referring to this parent HTML element.
-And the second one is the tag name of the HTML element wrapping the content you want to change style, and whose default value is div.
-Example style input:
-
-
-
-1
-2
-3
-
-
-
-{{< style "text-align:right; strong{color:#00b1ff;}" >}}
-This is a **right-aligned** paragraph.
-{{< /style >}}
-
-
-
-
-
-The rendered output looks like this:
-This is a right-aligned paragraph.
-2 link
-
-link shortcode is an alternative to M…]]></summary>
-        <author>
-            <name>false</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Batch rename files to lowercase?]]></title>
-        <id>https://nuxulu.com/2021-10-10-batch-rename-files-to-lowercase/</id>
-        <link href="https://nuxulu.com/2021-10-10-batch-rename-files-to-lowercase/"/>
-        <updated>2021-10-10T08:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Go to the directory and run the following command:
-for /f "Tokens=*" %f in ('dir /l/b/a-d') do (rename "%f" "%f")
-for /f “Tokens=*” %%f in (‘dir /l/b/a-d’) do (rename “%%f” “%%f”)
-rename folders
-for /f "Tokens=*" %f in ('dir /l/b') do (rename "%f" "%f")
-Recursive version (added /r to dir)
-for /f "Tokens=*" %f in ('dir /l/b/a-d/s') do (rename "%f" "%f")]]></summary>
-        <author>
-            <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theme Documentation - Content]]></title>
-        <id>https://nuxulu.com/theme-documentation-content/</id>
-        <link href="https://nuxulu.com/theme-documentation-content/"/>
-        <updated>2021-10-10T07:58:26.000Z</updated>
-        <summary type="html"><![CDATA[Find out how to create and organize your content quickly and intuitively in LoveIt theme.
-1 Contents Organization
-A few suggestions to help you get a good looking site quickly:
-Keep post pages in the content/posts directory, for example: content/posts/my-first-post.md
-Keep other pages in the content directory, for example: content/about.md
-Local resources organization
-Local Resource Reference
-        
-
-There are three ways to reference local resources such as images and music:
-Using page resources in page bundles.
-You can reference page resources by the value for Resources.GetMatch or the filepath of the resource relative to the page directory directly.
-Store resources in the assets directory, which is /assets by default.
-The filepath of the resource to reference in the post is relative to…]]></summary>
-        <author>
-            <name>false</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basic Markdown Syntax]]></title>
-        <id>https://nuxulu.com/basic-markdown-syntax/</id>
-        <link href="https://nuxulu.com/basic-markdown-syntax/"/>
-        <updated>2021-10-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1 Headings
-2 Comments
-3 Horizontal Rules
-___
-4 Body Copy
-5 Inline HTML
-6 Emphasis
-
-Bold
-Italics
-Strikethrough
-Combination
-7 Blockquotes
-8 Lists
-
-Unordered
-Ordered
-Task Lists
-9 Code
-
-Inline Code
-Indented Code
-Block Fenced Code
-Syntax Highlighting
-10 Tables
-11 Links {#links}
-
-Basic Link
-Add a Title
-Named Anchors
-12 Footnotes
-13 Images
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files.
-Note
-        
-This article is a shameful copy of the great Grav original page.
-If you want to know about the extended Markdown syntax of LoveIt theme, please read extended Markdown syntax page.
-Let’s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
-Markd…]]></summary>
         <author>
             <name>false</name>
         </author>

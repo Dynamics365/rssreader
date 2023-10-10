@@ -274,66 +274,6 @@
           "wordCount": 4570,
           "title": "Theme Documentation - Basics",
           "imageUrl": "https://nuxulu.com/theme-documentation-basics/featured-image.jpg"
-        },
-        {
-          "id": "https://nuxulu.com/emoji-support/",
-          "author": "false",
-          "description": "Emoji can be enabled in a Hugo project in a number of ways.\nThe emojify function can be called directly in templates or Inline Shortcodes.\nTo enable emoji globally, set enableEmoji to true in your site configuration and then you can type emoji shorthand codes directly in content files.\nThese begin and end with a colon and include the code of an emoji:\n\n\n\n1\n2\n3\n\n\n\nGone camping! :tent: Be back soon.\n\nThat is so funny! :joy:\n\n\n\n\n\nThe rendered output looks like this:\nGone camping! ⛺ Be back soon.\nThat is so funny! 😂\nThe following cheat sheet is a useful reference for emoji shorthand codes.\nSmileys & Emotion\nFace Smiling\nicon\ncode\nicon\ncode\n\n\n\n\n😀\ngrinning\n😃\nsmiley\n\n\n😄\nsmile\n😁\ngrin\n\n\n😆\nlaughing \n satisfied\n😅\nsweat_smile\n\n\n🤣\nrofl\n😂\njoy\n\n\n🙂\nslightly_smiling_face\n🙃\nupside_down_face\n\n\n😉\n…",
-          "link": "https://nuxulu.com/emoji-support/",
-          "publishedOn": "2021-10-10T09:55:28.000Z",
-          "wordCount": 355,
-          "title": "Emoji Support",
-          "imageUrl": "https://nuxulu.com/emoji-support/featured-image.jpg"
-        },
-        {
-          "id": "https://nuxulu.com/theme-documentation-built-in-shortcodes/",
-          "author": "false",
-          "description": "Hugo provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.\nHugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.\nBut this happens to be a bad idea. Everyone uses Markdown because it’s pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.\nTo avoid this limitations, Hugo created shortcodes.\nA shortcode is a simple snippet that can generate reasonable HTML code and conforms to Markdown’s design philosophy.\nHugo ships with a set of predefined shortcodes that represent very common usage. These shortcodes are provided for author convenience and to keep your markdown content clean.\n1 figure\n…",
-          "link": "https://nuxulu.com/theme-documentation-built-in-shortcodes/",
-          "publishedOn": "2021-10-10T08:29:41.000Z",
-          "wordCount": 515,
-          "title": "Theme Documentation - Built-in Shortcodes",
-          "imageUrl": "https://nuxulu.com/theme-documentation-built-in-shortcodes/featured-image.png"
-        },
-        {
-          "id": "https://nuxulu.com/theme-documentation-extended-shortcodes/",
-          "author": "false",
-          "description": "LoveIt theme provides multiple shortcodes on top of built-in ones in Hugo.\n1 style\n\n\n        \nNote\n        \nHugo extended version is necessary for style shortcode.\nstyle is a shortcode to insert custom style in your post.\nThe style shortcode has two positional parameters.\nThe first one is the custom style content,\nwhich supports nesting syntax in  SASS\nand & referring to this parent HTML element.\nAnd the second one is the tag name of the HTML element wrapping the content you want to change style, and whose default value is div.\nExample style input:\n\n\n\n1\n2\n3\n\n\n\n{{< style \"text-align:right; strong{color:#00b1ff;}\" >}}\nThis is a **right-aligned** paragraph.\n{{< /style >}}\n\n\n\n\n\nThe rendered output looks like this:\nThis is a right-aligned paragraph.\n2 link\n\nlink shortcode is an alternative to M…",
-          "link": "https://nuxulu.com/theme-documentation-extended-shortcodes/",
-          "publishedOn": "2021-10-10T08:29:41.000Z",
-          "wordCount": 1028,
-          "title": "Theme Documentation - Extended Shortcodes",
-          "imageUrl": "https://nuxulu.com/theme-documentation-extended-shortcodes/featured-image.jpg"
-        },
-        {
-          "id": "https://nuxulu.com/2021-10-10-batch-rename-files-to-lowercase/",
-          "author": "Max Nguyen",
-          "description": "Go to the directory and run the following command:\nfor /f \"Tokens=*\" %f in ('dir /l/b/a-d') do (rename \"%f\" \"%f\")\nfor /f “Tokens=*” %%f in (‘dir /l/b/a-d’) do (rename “%%f” “%%f”)\nrename folders\nfor /f \"Tokens=*\" %f in ('dir /l/b') do (rename \"%f\" \"%f\")\nRecursive version (added /r to dir)\nfor /f \"Tokens=*\" %f in ('dir /l/b/a-d/s') do (rename \"%f\" \"%f\")",
-          "link": "https://nuxulu.com/2021-10-10-batch-rename-files-to-lowercase/",
-          "publishedOn": "2021-10-10T08:29:41.000Z",
-          "wordCount": 159,
-          "title": "Batch rename files to lowercase?",
-          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://nuxulu.com/theme-documentation-content/",
-          "author": "false",
-          "description": "Find out how to create and organize your content quickly and intuitively in LoveIt theme.\n1 Contents Organization\nA few suggestions to help you get a good looking site quickly:\nKeep post pages in the content/posts directory, for example: content/posts/my-first-post.md\nKeep other pages in the content directory, for example: content/about.md\nLocal resources organization\nLocal Resource Reference\n        \n\nThere are three ways to reference local resources such as images and music:\nUsing page resources in page bundles.\nYou can reference page resources by the value for Resources.GetMatch or the filepath of the resource relative to the page directory directly.\nStore resources in the assets directory, which is /assets by default.\nThe filepath of the resource to reference in the post is relative to…",
-          "link": "https://nuxulu.com/theme-documentation-content/",
-          "publishedOn": "2021-10-10T07:58:26.000Z",
-          "wordCount": 2039,
-          "title": "Theme Documentation - Content",
-          "imageUrl": "https://nuxulu.com/theme-documentation-content/featured-image.jpg"
-        },
-        {
-          "id": "https://nuxulu.com/basic-markdown-syntax/",
-          "author": "false",
-          "description": "1 Headings\n2 Comments\n3 Horizontal Rules\n___\n4 Body Copy\n5 Inline HTML\n6 Emphasis\n\nBold\nItalics\nStrikethrough\nCombination\n7 Blockquotes\n8 Lists\n\nUnordered\nOrdered\nTask Lists\n9 Code\n\nInline Code\nIndented Code\nBlock Fenced Code\nSyntax Highlighting\n10 Tables\n11 Links {#links}\n\nBasic Link\nAdd a Title\nNamed Anchors\n12 Footnotes\n13 Images\nThis article offers a sample of basic Markdown syntax that can be used in Hugo content files.\nNote\n        \nThis article is a shameful copy of the great Grav original page.\nIf you want to know about the extended Markdown syntax of LoveIt theme, please read extended Markdown syntax page.\nLet’s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.\nMarkd…",
-          "link": "https://nuxulu.com/basic-markdown-syntax/",
-          "publishedOn": "2021-10-10T00:00:00.000Z",
-          "wordCount": 2734,
-          "title": "Basic Markdown Syntax",
-          "imageUrl": "https://nuxulu.com/basic-markdown-syntax/featured-image.png"
         }
       ]
     },
@@ -3654,6 +3594,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=2857",
+          "author": "Alex",
+          "description": "We are officially one week out from Dynamics Communities Summit North America 2023 conference and looking forward to a great event, here is a listing of my speaking engagements during the conference. Security Overview of D365FO – Academy Monday Oct 16th 8:00 AM – 5:00 PM Location: E212CD D365FO Telemetry Data Overview Tuesday Oct 17th […]\nThe post Dynamics Communities Summit North America 2023 Speaking Activities appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2023/10/09/dynamic-communities-summit-north-america-2023-speaking-activities/",
+          "publishedOn": "2023-10-09T16:54:02.000Z",
+          "wordCount": 3977,
+          "title": "Dynamics Communities Summit North America 2023 Speaking Activities",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2023/10/Summit-23-Alex.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2843",
           "author": "Alex",
           "description": "One question I get quite often in D365FO revolves around the ability to capture when a record is read or viewed within D365FO. The ‘read auditing’ feature is standard in other Dynamics 365 offerings but does not exist natively in D365FO, so what can we use to achieve this outcome? One possible solution is to […]\nThe post Using Telemetry Data for Read Auditing in D365FO appeared first on Alex Meyer.",
@@ -5486,6 +5436,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4503",
+          "author": "Kurt Hatlevik",
+          "description": "The setting of the correct time zone for service accounts in Microsoft Dynamics 365 is crucial for accurate business logic execution, particularly when dealing with time-sensitive functionalities like order deadlines. Given your interest in Dynamics 365, eCommerce, and Supply Chain, this topic is indeed pertinent. Hidden within the user accounts in Dynamics 365, you’ll find … Continue reading Setting the correct time zone for service accounts in Microsoft Dynamics 365",
+          "link": "https://kurthatlevik.com/2023/10/09/setting-the-correct-time-zone-for-service-accounts-in-microsoft-dynamics-365/",
+          "publishedOn": "2023-10-09T19:12:49.000Z",
+          "wordCount": 3247,
+          "title": "Setting the correct time zone for service accounts in Microsoft Dynamics 365",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/10/100923_1912_settingthec1.png?w=1200"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4493",
           "author": "Kurt Hatlevik",
           "description": "In the Dynamics 365 eCommerce project we where implementing a pricing logic that was quite complex and required many steps to calculate a price. The prices are unique for each customer, product, and other aspects, and the prices had to be calculated each time and in real-time. But calculating prices are a time- and compute … Continue reading Dynamics 365 CSU – Cache is king",
@@ -6238,6 +6198,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/09/microsoft-is-recognized-as-a-leader-in-the-2023-gartner-magic-quadrant-for-cloud-erp-for-product-centric-enterprises/",
+          "author": "Sameer Verma",
+          "description": "We are excited and honored that Gartner has recognized Microsoft as a Leader in their 2023 Magic Quadrant™ for Cloud ERP for Product-Centric Enterprises. This evaluation of Microsoft was based on specific criteria that analyzed our overall Completeness of Vision and Ability to Execute.\nThe post Microsoft is recognized as a Leader in the 2023 Gartner® Magic Quadrant™ for Cloud ERP for Product-Centric Enterprises appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/09/microsoft-is-recognized-as-a-leader-in-the-2023-gartner-magic-quadrant-for-cloud-erp-for-product-centric-enterprises/",
+          "publishedOn": "2023-10-09T15:00:00.000Z",
+          "wordCount": 2901,
+          "title": "Microsoft is recognized as a Leader in the 2023 Gartner® Magic Quadrant™ for Cloud ERP for Product-Centric Enterprises",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/09/WCO18_SMB_OneNote_029_1200.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/?p=187286",
           "author": "Ashish Harchwani",
@@ -15344,6 +15314,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "september-2023-updates-for-modernization-and-theming-in-power-apps",
+          "author": null,
+          "description": "Note: This blog is in continuation of the announcement of modern controls coming to canvas apps & new look for model driven apps. You can find the August 2023 updates here. Modern controls updates in canvas apps We made additional progress in the month of September on the journey to modernize Power Apps with the…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/september-2023-updates-for-modernization-and-theming-in-power-apps/",
+          "publishedOn": "2023-10-09T13:03:00.000Z",
+          "wordCount": 2116,
+          "title": "September 2023 updates for modernization and theming in Power Apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "unlocking-your-ecosystem-across-low-code-solutions-and-microsoft-365-copilot",
           "author": null,
