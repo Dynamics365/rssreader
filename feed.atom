@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-10T01:05:25.673Z</updated>
+    <updated>2023-10-11T01:05:36.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Number sequence set up for SmmContactPersonId – D365F&O]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3014</id>
+        <link href="https://anithasantosh.wordpress.com/2023/10/10/number-sequence-set-up-for-smmcontactpersonid-d365fo/"/>
+        <updated>2023-10-10T18:13:14.000Z</updated>
+        <summary type="html"><![CDATA[There are many changes occuring with the latest updates in D365F&O. Few of them, though minor takes our time during troubleshooting. One such challenge was finding Number sequence set up for SmmContactPersonId. Earlier it was present in ‘Sales and Marketing … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powerplatform & The Attack of the Clones]]></title>
+        <id>http://dynamicsax-fico.com/?p=5357</id>
+        <link href="https://dynamicsax-fico.com/2023/10/10/powerplatform-the-attack-of-the-clones/"/>
+        <updated>2023-10-10T04:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X++ Tips & Tricks: Avoid Non-Searchable Grid Columns in D365FO]]></title>
+        <id>https://ax.docentric.com/?p=27408</id>
+        <link href="https://ax.docentric.com/avoid-non-searchable-grid-columns-in-d365fo/"/>
+        <updated>2023-10-10T04:47:33.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 for Finance and Operations (D365FO) you may have encountered filtering data within certain form grid columns is not possible. This limitation often occurs when a column relies on a display method, which calculates data dynamically as the grid is populated. Additionally, because […]
+The post X++ Tips & Tricks: Avoid Non-Searchable Grid Columns in D365FO appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Slobodan Vucicevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X++ Tips and tricks: Show Mixed Editable and Non-Editable Outer Join Fields on a Form in D365FO]]></title>
+        <id>https://ax.docentric.com/?p=27116</id>
+        <link href="https://ax.docentric.com/show-mixed-editable-and-non-editable-outer-join-fields-on-a-form-in-d365fo/"/>
+        <updated>2023-10-10T04:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The core of D365FO was always about adding additional data and displaying it to the user in a clear way. The data that is presented on a form can be from a table that is not related to the table that is used as the […]
+The post X++ Tips and tricks: Show Mixed Editable and Non-Editable Outer Join Fields on a Form in D365FO appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Nenad Krantic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Setting the correct time zone for service accounts in Microsoft Dynamics 365]]></title>
         <id>http://kurthatlevik.com/?p=4503</id>
@@ -23121,103 +23163,6 @@ MPOS/CPOS tax determination
 For Destination based tax to be taken into consideration, "Use Destination based tax" on the Store form should be enabled and the order should be a shipping order with the add…]]></summary>
         <author>
             <name>RandyHiggins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cannot create a record in customers (custtable the record already exists)]]></title>
-        <id>https://axraja.blogspot.com/2021/10/cannot-create-record-in-customers.html</id>
-        <link href="https://axraja.blogspot.com/2021/10/cannot-create-record-in-customers.html"/>
-        <updated>2021-10-11T08:16:00.005Z</updated>
-        <summary type="html"><![CDATA[Go to SQL as Admin, AXDB database: 
-
-
-pass your table(Custable) and run below query: 
-
-
-DECLARE @MaxRecID BIGINT
- 	DECLARE @NextVal BIGINT
- 
-SELECT @MaxRecID = MAX(RECID)
-FROM custtable 
- 
-SELECT @NextVal = NEXTVAL
-	FROM SYSTEMSEQUENCES
-	INNER JOIN SQLDICTIONARY
-	ON SQLDICTIONARY.FIELDID = 0
-	AND SQLDICTIONARY.name = 'custtable'
-	AND SQLDICTIONARY.TABLEID = SYSTEMSEQUENCES.TABID
- 
-	IF (@NextVal > @MaxRecID) 
-	BEGIN
-		PRINT 'custtable did not need to be updated.'
-	END
-	ELSE 
-	BEGIN
-PRINT 'Updated custtable from ' + CONVERT(VARCHAR(MAX), @NextVal) + '' to '' + CONVERT(VARCHAR(MAX), @MaxRecID + 1)
-			
-		UPDATE SYSTEMSEQUENCES
-		SET NEXTVAL = @MaxRecID + 1
-		FROM SYSTEMSEQUENCES
-		INNER JOIN SQLDICTIONARY
-		ON SQLDICTIONARY.FIELDID = 0
-		AND SQLDICTIONARY.name = 'custtable'
-		AND SQLDICTIONARY.TABLEID = SYSTEMSEQUENCES.TABID
-END]]></summary>
-        <author>
-            <name>D365 F&amp;O</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating new D365FO Business Event for Customer & CRUD notifications using Power Automate.]]></title>
-        <id>https://axraja.blogspot.com/2021/10/creating-new-d365fo-business-event-for.html</id>
-        <link href="https://axraja.blogspot.com/2021/10/creating-new-d365fo-business-event-for.html"/>
-        <updated>2021-10-10T20:00:00.006Z</updated>
-        <summary type="html"><![CDATA[Main contract class: 
-// This is a BusinessEventContract class for Customer
-/// </summary>
-[DataContract]
-class VKCustTableBusinessEventContract extends BusinessEventsContract
-{
-    SysAppCRUDOperation                action;
-    CustAccount                        custAccount;
-    DataAreaId                        dataAreaId;
- 
-    private void initialize(CustTable _custTable, SysAppCRUDOperation _action)
-    {
-        custAccount    = _custTable.AccountNum;
-        dataAreaId    = _custTable.DataAreaId;
-        action        = _action;
-    }
- 
-    /// <summary>
-    /// Create new VKCustTableBusinessEventContract from CustTable and action
-    /// </summary>
-    /// <param name = "_custTable">CustTable table</param>
-    /// <param name = "_action">Action</param>
-    /// <returns>a new VKCust…]]></summary>
-        <author>
-            <name>D365 F&amp;O</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theme Documentation - Basics]]></title>
-        <id>https://nuxulu.com/theme-documentation-basics/</id>
-        <link href="https://nuxulu.com/theme-documentation-basics/"/>
-        <updated>2021-10-10T13:29:01.000Z</updated>
-        <summary type="html"><![CDATA[Discover what the Hugo - LoveIt theme is all about and the core-concepts behind it.
-1 Requirements
-Thanks to the simplicity of Hugo, Hugo is the only dependency of this theme.
-Just install latest version of  Hugo (> 0.62.0) for your OS (Windows, Linux, macOS).
-Why not support earlier versions of Hugo?
-        
-Since Markdown Render Hooks was introduced in the Hugo Christmas Edition, this theme only supports Hugo versions above 0.62.0.
-Hugo extended version is recommended
-        
-Since some features of this theme need to processes  SCSS to  CSS, it is recommended to use Hugo extended version for better experience.
-2 Installation
-The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you learn more about it by following this …]]></summary>
-        <author>
-            <name>false</name>
         </author>
     </entry>
     <entry>

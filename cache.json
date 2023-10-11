@@ -264,16 +264,6 @@
           "wordCount": 280,
           "title": "Naming Conventions - Common Prefixes Dyanmics AX",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://nuxulu.com/theme-documentation-basics/",
-          "author": "false",
-          "description": "Discover what the Hugo - LoveIt theme is all about and the core-concepts behind it.\n1 Requirements\nThanks to the simplicity of Hugo, Hugo is the only dependency of this theme.\nJust install latest version of  Hugo (> 0.62.0) for your OS (Windows, Linux, macOS).\nWhy not support earlier versions of Hugo?\n        \nSince Markdown Render Hooks was introduced in the Hugo Christmas Edition, this theme only supports Hugo versions above 0.62.0.\nHugo extended version is recommended\n        \nSince some features of this theme need to processes  SCSS to  CSS, it is recommended to use Hugo extended version for better experience.\n2 Installation\nThe following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you learn more about it by following this …",
-          "link": "https://nuxulu.com/theme-documentation-basics/",
-          "publishedOn": "2021-10-10T13:29:01.000Z",
-          "wordCount": 4570,
-          "title": "Theme Documentation - Basics",
-          "imageUrl": "https://nuxulu.com/theme-documentation-basics/featured-image.jpg"
         }
       ]
     },
@@ -4274,6 +4264,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3014",
+          "author": "AnithaEswaran",
+          "description": "There are many changes occuring with the latest updates in D365F&O. Few of them, though minor takes our time during troubleshooting. One such challenge was finding Number sequence set up for SmmContactPersonId. Earlier it was present in ‘Sales and Marketing … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/10/10/number-sequence-set-up-for-smmcontactpersonid-d365fo/",
+          "publishedOn": "2023-10-10T18:13:14.000Z",
+          "wordCount": 3733,
+          "title": "Number sequence set up for SmmContactPersonId – D365F&O",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/10/image-8.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3002",
           "author": "AnithaEswaran",
@@ -10219,6 +10219,26 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=27408",
+          "author": "Slobodan Vucicevic",
+          "description": "In Dynamics 365 for Finance and Operations (D365FO) you may have encountered filtering data within certain form grid columns is not possible. This limitation often occurs when a column relies on a display method, which calculates data dynamically as the grid is populated. Additionally, because […]\nThe post X++ Tips & Tricks: Avoid Non-Searchable Grid Columns in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/avoid-non-searchable-grid-columns-in-d365fo/",
+          "publishedOn": "2023-10-10T04:47:33.000Z",
+          "wordCount": 11922,
+          "title": "X++ Tips & Tricks: Avoid Non-Searchable Grid Columns in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/D365Blog_AvoidNonSearchableGridColumns_Title.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=27116",
+          "author": "Nenad Krantic",
+          "description": "The core of D365FO was always about adding additional data and displaying it to the user in a clear way. The data that is presented on a form can be from a table that is not related to the table that is used as the […]\nThe post X++ Tips and tricks: Show Mixed Editable and Non-Editable Outer Join Fields on a Form in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/show-mixed-editable-and-non-editable-outer-join-fields-on-a-form-in-d365fo/",
+          "publishedOn": "2023-10-10T04:43:00.000Z",
+          "wordCount": 12651,
+          "title": "X++ Tips and tricks: Show Mixed Editable and Non-Editable Outer Join Fields on a Form in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/D365Blog_AddingFieldsToFormViaOuterJoin_title.jpg"
+        },
+        {
           "id": "https://ax.docentric.com/?p=27141",
           "author": "Irena Vujcic Pavlovic",
           "description": "We are exciting to announce 📢 Docentric version 3.4.7 is out! With the cool new features you asked for, most of them being part of Free Edition ❤. Feature No. 1 in this release is 🔥 Print management utilities that will improve, we believe, user […]\nThe post Docentric AX 3.4.7 Released appeared first on Docentric AX.",
@@ -10433,7 +10453,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "https://paragchapre.com/",
+      "siteUrl": "http://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12107",
@@ -11403,6 +11423,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5357",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/10/10/powerplatform-the-attack-of-the-clones/",
+          "publishedOn": "2023-10-10T04:47:40.000Z",
+          "wordCount": 2823,
+          "title": "Powerplatform & The Attack of the Clones",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/09/titleen-1.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5316",
           "author": "Ludwig Reinhard",
@@ -15286,26 +15316,6 @@
           "wordCount": 2129,
           "title": "Debug the Sandbox/Test environment in D365FO",
           "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MxExT77BUlXMNdwKuqylB6AgkiFFdd3aLGqALCVMTB4LRXYH0Xmcs0THtmHnHHJl9ZXeOjP_-ZzX5D5_cjxkPbcumCm0uhypXjXtFGYHHv9N_VJqWmzt8r-Km573CaE6BGkbiFTQE0=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://axraja.blogspot.com/2021/10/cannot-create-record-in-customers.html",
-          "author": null,
-          "description": "Go to SQL as Admin, AXDB database: \n\n\npass your table(Custable) and run below query: \n\n\nDECLARE @MaxRecID BIGINT\n \tDECLARE @NextVal BIGINT\n \nSELECT @MaxRecID = MAX(RECID)\nFROM custtable \n \nSELECT @NextVal = NEXTVAL\n\tFROM SYSTEMSEQUENCES\n\tINNER JOIN SQLDICTIONARY\n\tON SQLDICTIONARY.FIELDID = 0\n\tAND SQLDICTIONARY.name = 'custtable'\n\tAND SQLDICTIONARY.TABLEID = SYSTEMSEQUENCES.TABID\n \n\tIF (@NextVal > @MaxRecID) \n\tBEGIN\n\t\tPRINT 'custtable did not need to be updated.'\n\tEND\n\tELSE \n\tBEGIN\nPRINT 'Updated custtable from ' + CONVERT(VARCHAR(MAX), @NextVal) + '' to '' + CONVERT(VARCHAR(MAX), @MaxRecID + 1)\n\t\t\t\n\t\tUPDATE SYSTEMSEQUENCES\n\t\tSET NEXTVAL = @MaxRecID + 1\n\t\tFROM SYSTEMSEQUENCES\n\t\tINNER JOIN SQLDICTIONARY\n\t\tON SQLDICTIONARY.FIELDID = 0\n\t\tAND SQLDICTIONARY.name = 'custtable'\n\t\tAND SQLDICTIONARY.TABLEID = SYSTEMSEQUENCES.TABID\nEND",
-          "link": "https://axraja.blogspot.com/2021/10/cannot-create-record-in-customers.html",
-          "publishedOn": "2021-10-11T08:16:00.005Z",
-          "wordCount": 2009,
-          "title": "cannot create a record in customers (custtable the record already exists)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://axraja.blogspot.com/2021/10/creating-new-d365fo-business-event-for.html",
-          "author": null,
-          "description": "Main contract class: \n// This is a BusinessEventContract class for Customer\n/// </summary>\n[DataContract]\nclass VKCustTableBusinessEventContract extends BusinessEventsContract\n{\n    SysAppCRUDOperation                action;\n    CustAccount                        custAccount;\n    DataAreaId                        dataAreaId;\n \n    private void initialize(CustTable _custTable, SysAppCRUDOperation _action)\n    {\n        custAccount    = _custTable.AccountNum;\n        dataAreaId    = _custTable.DataAreaId;\n        action        = _action;\n    }\n \n    /// <summary>\n    /// Create new VKCustTableBusinessEventContract from CustTable and action\n    /// </summary>\n    /// <param name = \"_custTable\">CustTable table</param>\n    /// <param name = \"_action\">Action</param>\n    /// <returns>a new VKCust…",
-          "link": "https://axraja.blogspot.com/2021/10/creating-new-d365fo-business-event-for.html",
-          "publishedOn": "2021-10-10T20:00:00.006Z",
-          "wordCount": 2517,
-          "title": "Creating new D365FO Business Event for Customer & CRUD notifications using Power Automate.",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MxXCh_6nBcMVKyZBhN4475vLvNhQg5_ouLUBMd5JCOYPQoFY4Pq334JlqYjJRneq_mKyEI5VGzVdGDcO3TIe6_vH6wqgbS9svczxqEo=w1200-h630-p-k-no-nu"
         }
       ]
     },
