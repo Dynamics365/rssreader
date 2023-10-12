@@ -1627,6 +1627,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=59577",
+          "author": "The Encore Team",
+          "description": "How to Set Up Asset Leasing in Dynamics 365 Finance & Operations\nIf you’re a system administrator setting up asset leasing in Dynamics 365 Finance & Operations for the first time, you may be looking for some guidance. Below are step-by-step instructions to help you avoid any misconfigurations. It’s important to set up asset leasing correctly in order for the system to work properly. The following steps...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-set-up-asset-leasing-in-dynamics-365-finance-operations/",
+          "publishedOn": "2023-10-11T15:00:33.000Z",
+          "wordCount": 1775,
+          "title": "How to Set Up Asset Leasing in Dynamics 365 Finance & Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=59612",
           "author": "Hamza Idlepi",
           "description": "3 New Features for Sales Teams in Dynamics 365 CRM Wave 2 Release 2023\nMicrosoft has just released new updates to Dynamics 365 CRM in the 2023 Release Wave 2 and has new capabilities featuring Microsoft’s newest AI tool: Microsoft Copilot. In this blog I will be sharing 3 new features about lead assignment capabilities, AI-driven sales insights, and collaboration features in Microsoft Teams. With this release, sales teams...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -10453,7 +10463,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "http://paragchapre.com/",
+      "siteUrl": "https://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12107",

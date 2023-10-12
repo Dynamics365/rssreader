@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-11T01:05:36.213Z</updated>
+    <updated>2023-10-12T01:04:05.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Asset Leasing in Dynamics 365 Finance & Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=59577</id>
+        <link href="https://www.encorebusiness.com/blog/how-to-set-up-asset-leasing-in-dynamics-365-finance-operations/"/>
+        <updated>2023-10-11T15:00:33.000Z</updated>
+        <summary type="html"><![CDATA[How to Set Up Asset Leasing in Dynamics 365 Finance & Operations
+If you’re a system administrator setting up asset leasing in Dynamics 365 Finance & Operations for the first time, you may be looking for some guidance. Below are step-by-step instructions to help you avoid any misconfigurations. It’s important to set up asset leasing correctly in order for the system to work properly. The following steps...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>The Encore Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Number sequence set up for SmmContactPersonId – D365F&O]]></title>
         <id>http://anithasantosh.wordpress.com/?p=3014</id>
