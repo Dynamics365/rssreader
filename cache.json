@@ -1627,6 +1627,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=59555",
+          "author": "The Encore Team",
+          "description": "How to Enter a Journal Entry in Dynamics 365 Business Central\nIn this article we’ll look at the process of how to enter journal entries in Dynamics 365 Business Central. The purpose of entering journal entries is to post transactions directly to the general ledger. Setup To access general journals, navigate to the General Journals window from the drop-down Finance menu. Alternatively, you can enter “general...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-enter-a-journal-entry-in-d365-business-central/",
+          "publishedOn": "2023-10-12T16:20:23.000Z",
+          "wordCount": 1486,
+          "title": "How to Enter a Journal Entry in Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=59577",
           "author": "The Encore Team",
           "description": "How to Set Up Asset Leasing in Dynamics 365 Finance & Operations\nIf you’re a system administrator setting up asset leasing in Dynamics 365 Finance & Operations for the first time, you may be looking for some guidance. Below are step-by-step instructions to help you avoid any misconfigurations. It’s important to set up asset leasing correctly in order for the system to work properly. The following steps...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -6208,6 +6218,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/10/11/urs-multiple-recurrence-support-for-the-work-hour-calendar/",
+          "author": "Ryan Chen",
+          "description": "With the latest feature in D365 Field Service, you can easily accommodate different work schedules, holidays, and special events in your organization.\nThe post Introducing multiple recurrence support for the work hour calendar in Universal Resource Scheduling (URS) appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/10/11/urs-multiple-recurrence-support-for-the-work-hour-calendar/",
+          "publishedOn": "2023-10-11T18:11:13.000Z",
+          "wordCount": 3054,
+          "title": "Introducing multiple recurrence support for the work hour calendar in Universal Resource Scheduling (URS)",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/10/MSC17_greenCoastEnterprises_021.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/09/microsoft-is-recognized-as-a-leader-in-the-2023-gartner-magic-quadrant-for-cloud-erp-for-product-centric-enterprises/",
           "author": "Sameer Verma",
@@ -17569,6 +17589,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "updated-sap-connector-for-net-support-in-on-premises-data-gateway",
+          "author": null,
+          "description": "We are happy to announce that as part of the October 2023 release of the on-premises data gateway, we are adding support for NCo 3.1. This means that you can now use the latest version of the SAP Connector for Microsoft .NET to connect to your SAP systems from Power Automate, Power Apps, Power BI, and Azure Logic Apps.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/updated-sap-connector-for-net-support-in-on-premises-data-gateway/",
+          "publishedOn": "2023-10-12T12:04:09.000Z",
+          "wordCount": 3011,
+          "title": "Updated SAP Connector for .Net support in on-premises data gateway",
+          "imageUrl": null
+        },
         {
           "id": "deeper-control-over-http-invocation-of-flows",
           "author": null,
