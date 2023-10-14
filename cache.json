@@ -1627,6 +1627,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=59697",
+          "author": "Jorge Rodriguez-Torres",
+          "description": "End-to-End Resource Scheduling in Dynamics 365 Project Operations (Video)\nThis recorded webinar provides an end-to-end overview of how you can schedule resources in Dynamics 365 Project Operations. This overview is useful to project managers, schedulers, team and practice leads, and Dynamics 365 system admins who want to learn to use their Dynamics 365 Project Operations system more efficiently. ﻿﻿﻿﻿﻿﻿﻿ We show you all the...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/end-to-end-resource-scheduling-in-dynamics-365-project-operations/",
+          "publishedOn": "2023-10-13T15:36:22.000Z",
+          "wordCount": 5658,
+          "title": "End-to-End Resource Scheduling in Dynamics 365 Project Operations (Video)",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/10/Resource-Sched-img.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=59555",
           "author": "The Encore Team",
           "description": "How to Enter a Journal Entry in Dynamics 365 Business Central\nIn this article we’ll look at the process of how to enter journal entries in Dynamics 365 Business Central. The purpose of entering journal entries is to post transactions directly to the general ledger. Setup To access general journals, navigate to the General Journals window from the drop-down Finance menu. Alternatively, you can enter “general...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -10483,7 +10493,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "https://paragchapre.com/",
+      "siteUrl": "http://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12107",
