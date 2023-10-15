@@ -10493,7 +10493,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "http://paragchapre.com/",
+      "siteUrl": "https://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12107",
@@ -14922,16 +14922,6 @@
           "wordCount": 2294,
           "title": "XppInteg - Azure Service Bus integration solution for Dynamics 365 FinOps",
           "imageUrl": "https://denistrunin.com/static/31d05b65544c16f12af06b3c0d1f7dab/1ec58/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/xpptutorial-postedledgerdim/",
-          "author": null,
-          "description": "This post describes a case to consider while working with LedgerDimension values from posted transactions.",
-          "link": "https://denistrunin.com/xpptutorial-postedledgerdim/",
-          "publishedOn": "2021-10-14T22:12:03.000Z",
-          "wordCount": 526,
-          "title": "Working with LedgerDimension values from posted transactions in D365FO",
-          "imageUrl": "https://denistrunin.com/static/9812543478e30dfc8491081c01a99028/2b011/logo.png"
         }
       ]
     },

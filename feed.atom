@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-14T01:04:42.695Z</updated>
+    <updated>2023-10-15T01:10:34.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -23155,16 +23155,6 @@ WMS Warehouse management]]></summary>
         <summary type="html"><![CDATA[GA Support for File and Image in Power App Canvas]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with LedgerDimension values from posted transactions in D365FO]]></title>
-        <id>https://denistrunin.com/xpptutorial-postedledgerdim/</id>
-        <link href="https://denistrunin.com/xpptutorial-postedledgerdim/"/>
-        <updated>2021-10-14T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[This post describes a case to consider while working with LedgerDimension values from posted transactions.]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
         </author>
     </entry>
     <entry>
