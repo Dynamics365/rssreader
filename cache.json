@@ -10259,6 +10259,46 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=27391",
+          "author": "Irena Vujcic Pavlovic",
+          "description": "Docentric expert and huge community enthusiast Sanja Kolundžija will demonstrate bridging the gaps in D365FO document generation and distribution with Docentric Free Edition, a product built on community feedback with heart ❤. You will see in action: ✅ Print destinations as you expect them to […]\nThe post #MySummitNA 2023: Docentric Free Edition – What Can It Do for Your D365FO Projects? appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/docentric-free-edition-what-can-it-do-for-your-d365fo-projects/",
+          "publishedOn": "2023-10-15T20:26:13.000Z",
+          "wordCount": 11322,
+          "title": "#MySummitNA 2023: Docentric Free Edition - What Can It Do for Your D365FO Projects?",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/sponsorship-session.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=27394",
+          "author": "Irena Vujcic Pavlovic",
+          "description": "Our expert, Albin Lotrič, has gathered the top practical tips and tricks for customizing ER configurations that cannot only help you survive but also thrive in Electronic reporting 🤩. Here's a sneak peek into Albin's survival kit, and what he'll be tackling during his session: […]\nThe post #MySummitNA 2023: Survival Guide for Customizing Electronic Reporting Configurations appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/survival-guide-for-customizing-electronic-reporting-configurations/",
+          "publishedOn": "2023-10-15T12:59:42.000Z",
+          "wordCount": 11330,
+          "title": "#MySummitNA 2023: Survival Guide for Customizing Electronic Reporting Configurations",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/community-session.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=27387",
+          "author": "Helena Treska",
+          "description": "We are thrilled to return to Community Summit NA, the biggest D365 community event in the world 🌎 . We have the privilege of sharing our commitment to the community through the Docentric Free Edition, and our support to the world-class D365 and Power Platform Community […]\nThe post Meet Us at Community Summit NA 2023 in Charlotte appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/meet-us-at-community-summit-na-2023-in-charlotte/",
+          "publishedOn": "2023-10-14T23:05:26.000Z",
+          "wordCount": 11352,
+          "title": "Meet Us at Community Summit NA 2023 in Charlotte",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/Charlotte-Community-Summit-2023.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=27408",
+          "author": "Slobodan Vucicevic",
+          "description": "In Dynamics 365 for Finance and Operations you may have encountered filtering data within certain form grid columns is not possible. This limitation often occurs when a column is bound to a display method, which calculates data dynamically as the grid is populated. Additionally, because […]\nThe post Get rid of display methods to make your grids in D365FO forms fully searchable! appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/get-rid-of-display-methods-to-make-your-grids-in-d365fo-forms-fully-searchable/",
+          "publishedOn": "2023-10-10T04:47:33.000Z",
+          "wordCount": 11943,
+          "title": "Get rid of display methods to make your grids in D365FO forms fully searchable!",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/D365Blog_AvoidNonSearchableGridColumns_Title.jpg"
+        },
+        {
           "id": "https://ax.docentric.com/?p=27408",
           "author": "Slobodan Vucicevic",
           "description": "In Dynamics 365 for Finance and Operations (D365FO) you may have encountered filtering data within certain form grid columns is not possible. This limitation often occurs when a column relies on a display method, which calculates data dynamically as the grid is populated. Additionally, because […]\nThe post X++ Tips & Tricks: Avoid Non-Searchable Grid Columns in D365FO appeared first on Docentric AX.",
