@@ -10536,6 +10536,16 @@
       "siteUrl": "https://paragchapre.com/",
       "articles": [
         {
+          "id": "http://paragchapre.com/?p=12129",
+          "author": "paragchapre@gmail.com",
+          "description": "Elevate HR operations with the seamless fusion of ChatGPT and Power Apps for greater efficiency and intelligence.\nThe post Empowering HR: ChatGPT and Power Apps in Harmony appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/chatgpt-powerapps/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-powerapps",
+          "publishedOn": "2023-10-16T06:36:09.000Z",
+          "wordCount": 3363,
+          "title": "Empowering HR: ChatGPT and Power Apps in Harmony",
+          "imageUrl": "http://paragchapre.com/wp-content/uploads/2023/10/programming-background-collage.png"
+        },
+        {
           "id": "http://paragchapre.com/?p=12107",
           "author": "paragchapre@gmail.com",
           "description": "\"Enable simplified dimension entry\" in Dynamics 365 Finance and Operations refers to a feature or setting that allows users to streamline the process of entering financial dimensions when recording transactions or posting entries in the system. \nThe post Enable simplified dimension entry in Dynamics 365 Finance and Operations appeared first on Parag Chapre.",
@@ -15394,6 +15404,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "unblocking-your-path-to-build-apps-with-dataverse",
+          "author": null,
+          "description": "We are happy to announce public preview of Just-in-Time (JIT) Developer Environments, a smart routing that will be a game-changer for building premium apps with Dataverse. It will assess whether the app you want to build demands more permissions than what your current environment provides. In cases of insufficient permissions, JIT Developer Environments steps in…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/unblocking-your-path-to-build-apps-with-dataverse/",
+          "publishedOn": "2023-10-16T09:00:00.000Z",
+          "wordCount": 1813,
+          "title": "Unblocking your path to build apps with Dataverse",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "september-2023-updates-for-modernization-and-theming-in-power-apps",
           "author": null,
