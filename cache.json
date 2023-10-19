@@ -2598,6 +2598,16 @@
       "siteUrl": "https://impulztech.com/category/dynamics-365/",
       "articles": [
         {
+          "id": "https://impulztech.com/?p=3156",
+          "author": "Wajahat Wasti",
+          "description": "Microsoft has changed how the admin user is setup in Dynamics 365 Finance and Supply Chain development virtual machine in order to access the Dynamics 365 development environment after the release of the VHD for version 10.0.24 in LCS. Prior to this version, user just needed to provide a valid domain email in Admin User […]\nThe post Dynamics 365 Finance and Supply Chain: Access development environment appeared first on Impulz Technologies LLC.",
+          "link": "https://impulztech.com/dynamics-365-finance-and-supply-chain-access-development-environment/",
+          "publishedOn": "2023-10-18T13:35:12.000Z",
+          "wordCount": 1458,
+          "title": "Dynamics 365 Finance and Supply Chain: Access development environment",
+          "imageUrl": "https://impulztech.com/wp-content/uploads/2023/10/Dynamics-365-logo-500x281-1-300x169.png"
+        },
+        {
           "id": "https://impulztech.com/?p=3111",
           "author": "Ahmad Hussain",
           "description": "Dynamics 365 integration projects can be diffcult. In this multipart series of blog posts, we are going to discuss on how to connect the NodeJS application to Microsoft Dynamics 365 application. Problem Statement IMPULZ team was doing a master data and sales integration between the third-party cloud POS solution and the Microsoft Dynamics 365 Finance […]\nThe post NodeJS + Dynamics 365 Finance and Supply Chain – A great combo? appeared first on Impulz Technologies LLC.",
@@ -2710,6 +2720,26 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=100903",
+          "author": "Insight Works",
+          "description": "As manufacturers grapple with the complexities of modern production processes, the need for efficient scheduling tools becomes paramount. Insight Works is poised to shed light on how the Graphical Scheduler app seamlessly complements Dynamics 365 Business Central in an insightful upcoming webinar.\nThe post Upcoming Webinar: \"Business Central and the Power of Visual Scheduling\" appeared first on ERP Software Blog.\nEnhancing Business Central with the free Visual Scheduling App\nInsight Works Launches Quality Inspector App for Business Central Users\nUnlocking Seamless Order Fulfillment in Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2023/10/webinar-business-central-and-the-power-of-visual-scheduling/",
+          "publishedOn": "2023-10-18T15:09:17.000Z",
+          "wordCount": 7246,
+          "title": "Upcoming Webinar: \"Business Central and the Power of Visual Scheduling\"",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Graphical-Scheduler.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101280",
+          "author": "ACE Micro, LLC",
+          "description": "One of the most important areas of operations for distribution companies is the warehouse and how it is setup and tweaked as the business grows.  Proper planning is critical to …  Best Practices for setting up a Warehouse for the Distribution Industry? Read More »\nThe post Best Practices for setting up a Warehouse for the Distribution Industry? appeared first on ERP Software Blog.\nNew Guide: Microsoft Dynamics 365 Business Central 2020 Release Wave 1 Overview\nEverything you need to know about Warehouse Order Picking Methods\nFour Newly Released Business Central Features To Improve Your Team’s Efficiency",
+          "link": "https://erpsoftwareblog.com/2023/10/setting-up-a-warehouse-for-the-distribution-industry/",
+          "publishedOn": "2023-10-18T13:59:02.000Z",
+          "wordCount": 7580,
+          "title": "Best Practices for setting up a Warehouse for the Distribution Industry?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AdobeStock_217323256-1-625x293.jpeg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=101322",
           "author": "MetaOption LLC",
@@ -4534,6 +4564,111 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/find-email-templates-faster-with-the-new-insert-template-dialog-dynamics-365-dataverse",
+          "author": "Nishant Rana",
+          "description": "The new insert template dialog box adds features to quickly find and insert the appropriate email template. For the below email record, we have a contact, account, and user type […]",
+          "link": "https://365community.online/find-email-templates-faster-with-the-new-insert-template-dialog-dynamics-365-dataverse",
+          "publishedOn": "2023-10-18T19:00:00.000Z",
+          "wordCount": 3215,
+          "title": "Find email templates faster with the new Insert Template dialog  – Dynamics 365 / Dataverse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Find-email-templates-faster-with-the-new-Insert-Template-dialog.jpeg?fit=1200%2C899&ssl=1"
+        },
+        {
+          "id": "https://365community.online/adios-export-to-data-lake",
+          "author": "Juan Bravo Vargas",
+          "description": "Bienvienido “Synapse Link para Dataverse” El Gran Cambio:Si has estado utilizando la funcionalidad de “exportar a Data Lake” dentro de las aplicaciones de Finance and Operations, hay una emocionante transición. […]",
+          "link": "https://365community.online/adios-export-to-data-lake",
+          "publishedOn": "2023-10-18T18:26:34.000Z",
+          "wordCount": 3164,
+          "title": "Adiós “Export to Data Lake”",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-ai-could-kill-us-all-part-6",
+          "author": "Steve Mordue",
+          "description": "In this post, I continue my Series on How AI Could Kill Us All. If you missed the first one, click here. January 2024 The White House bunker was buzzing. […]",
+          "link": "https://365community.online/how-ai-could-kill-us-all-part-6",
+          "publishedOn": "2023-10-18T15:02:44.000Z",
+          "wordCount": 3106,
+          "title": "How AI Could Kill Us All – Part 6",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/How-AI-Could-Kill-Us-All-–-Part-6.jpeg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-create-power-automate-flows-that-dynamically-support-different-companies",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-create-power-automate-flows-that-dynamically-support-different-companies",
+          "publishedOn": "2023-10-18T14:00:24.000Z",
+          "wordCount": 3287,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Create Power Automate Flows that Dynamically Support Different Companies",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/1697652561_New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2023-Wave.png?fit=617%2C357&ssl=1"
+        },
+        {
+          "id": "https://365community.online/update-a-record-action-using-finops-connector-in-logic-apps",
+          "author": "Anitha Santosh",
+          "description": "If you want to updates a single record in an entity using Logic apps, we have two options Use Odata URL directly in the POST method like below PATCH URL/data/SalesOrderPools(PoolId='04',dataAreaId='usmf') […]",
+          "link": "https://365community.online/update-a-record-action-using-finops-connector-in-logic-apps",
+          "publishedOn": "2023-10-18T13:17:03.000Z",
+          "wordCount": 3204,
+          "title": "‘Update a record’ action using FinOps connector in Logic apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/1697649306_‘Update-a-record-action-using-FinOps-connector-in-Logic-apps.png?fit=450%2C255&ssl=1"
+        },
+        {
+          "id": "https://365community.online/accelerating-from-accountancy-to-tech-steven-chinskys-inspiring-path-with-dynamics-365-bc",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/492 Ever wondered how an accountant would transition into a tech guru? Meet Steven Chinsky, the director of Dynamics Practice at Accelerant. From his thrilling escapades like […]",
+          "link": "https://365community.online/accelerating-from-accountancy-to-tech-steven-chinskys-inspiring-path-with-dynamics-365-bc",
+          "publishedOn": "2023-10-18T13:00:00.000Z",
+          "wordCount": 3221,
+          "title": "Accelerating From Accountancy to Tech: Steven Chinsky's Inspiring Path with Dynamics 365 BC",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/13637765-accelerating-from-accountancy-to-tech-steven-chinsky-s-inspiring-path-with-dynamics-365-bc.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-simplified-power-automate-approval-flow-experience",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-simplified-power-automate-approval-flow-experience",
+          "publishedOn": "2023-10-18T12:00:24.000Z",
+          "wordCount": 3269,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Simplified Power Automate Approval Flow Experience",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/easy-linking-of-notes-to-the-table-from-the-timeline-with-power-apps",
+          "author": "Inogic",
+          "description": "In this blog post, we will explore a new feature introduced by Microsoft, which allows us to seamlessly link Notes records directly to Account, Contact, or Case table records from […]",
+          "link": "https://365community.online/easy-linking-of-notes-to-the-table-from-the-timeline-with-power-apps",
+          "publishedOn": "2023-10-18T10:29:54.000Z",
+          "wordCount": 3492,
+          "title": "Easy linking of Notes to the Table from the Timeline with Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/1Power-Apps.jpeg?fit=1200%2C585&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-process-an-inventory-pick-in-two-steps-by-releasing-the-source-document",
+          "author": "Ian Grieve",
+          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-process-an-inventory-pick-in-two-steps-by-releasing-the-source-document",
+          "publishedOn": "2023-10-18T10:00:45.000Z",
+          "wordCount": 3265,
+          "title": "In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Process an Inventory Pick in Two Steps by Releasing the Source Document",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/d365ppug-birmingham-speaker-announcement-23rd-november-2023",
+          "author": "Neil Parkhurst",
+          "description": "Registrations are open for our next Dynamics 365 / Power Platform event in Birmingham. And this time I am very pleased to announce a very special guest speaker. You can […]",
+          "link": "https://365community.online/d365ppug-birmingham-speaker-announcement-23rd-november-2023",
+          "publishedOn": "2023-10-18T09:08:06.000Z",
+          "wordCount": 3123,
+          "title": "D365PPUG Birmingham – Speaker Announcement 23rd November 2023",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/09/Birmingham-D365-and-Power-Platform-User-Group-–-September-2023.jpg?fit=679%2C381&ssl=1"
+        },
         {
           "id": "https://365community.online/how-to-enable-the-enhanced-email-template-editor-in-model-driven-appsdynamics-365-dataverse",
           "author": "Nishant Rana",
@@ -6446,6 +6581,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3024",
+          "author": "AnithaEswaran",
+          "description": "If you want to updates a single record in an entity using Logic apps, we have two options Use Odata URL directly in the POST method like below Second option is via logic apps connector. It is tricky to understand … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/10/18/update-a-record-action-using-finops-connector-in-logic-apps/",
+          "publishedOn": "2023-10-18T13:17:03.000Z",
+          "wordCount": 3852,
+          "title": "‘Update a record’ action using FinOps connector in Logic apps",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/10/image-10.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3014",
           "author": "AnithaEswaran",
@@ -16770,6 +16915,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "build-better-apps-faster-copilot-in-power-apps-is-now-generally-available",
+          "author": null,
+          "description": "Create apps from your data in minutes, with no code required\nWe are excited announce that Copilot for Power Apps is now Generally Available for app makers. Since its initial release earlier this year, more than 126,000 organizations have already started using Copilot across the Power Platform.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/build-better-apps-faster-copilot-in-power-apps-is-now-generally-available/",
+          "publishedOn": "2023-10-18T06:29:11.000Z",
+          "wordCount": 2041,
+          "title": "Build better apps, faster: Copilot in Power Apps is now generally available",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/10/NewNL2table.gif"
+        },
         {
           "id": "unblocking-your-path-to-build-apps-with-dataverse",
           "author": null,

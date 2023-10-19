@@ -2,10 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-18T01:06:22.768Z</updated>
+    <updated>2023-10-19T01:06:26.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Find email templates faster with the new Insert Template dialog  – Dynamics 365 / Dataverse]]></title>
+        <id>https://365community.online/find-email-templates-faster-with-the-new-insert-template-dialog-dynamics-365-dataverse</id>
+        <link href="https://365community.online/find-email-templates-faster-with-the-new-insert-template-dialog-dynamics-365-dataverse"/>
+        <updated>2023-10-18T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new insert template dialog box adds features to quickly find and insert the appropriate email template. For the below email record, we have a contact, account, and user type […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adiós “Export to Data Lake”]]></title>
+        <id>https://365community.online/adios-export-to-data-lake</id>
+        <link href="https://365community.online/adios-export-to-data-lake"/>
+        <updated>2023-10-18T18:26:34.000Z</updated>
+        <summary type="html"><![CDATA[Bienvienido “Synapse Link para Dataverse” El Gran Cambio:Si has estado utilizando la funcionalidad de “exportar a Data Lake” dentro de las aplicaciones de Finance and Operations, hay una emocionante transición. […]]]></summary>
+        <author>
+            <name>Juan Bravo Vargas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Webinar: "Business Central and the Power of Visual Scheduling"]]></title>
+        <id>https://erpsoftwareblog.com/?p=100903</id>
+        <link href="https://erpsoftwareblog.com/2023/10/webinar-business-central-and-the-power-of-visual-scheduling/"/>
+        <updated>2023-10-18T15:09:17.000Z</updated>
+        <summary type="html"><![CDATA[As manufacturers grapple with the complexities of modern production processes, the need for efficient scheduling tools becomes paramount. Insight Works is poised to shed light on how the Graphical Scheduler app seamlessly complements Dynamics 365 Business Central in an insightful upcoming webinar.
+The post Upcoming Webinar: "Business Central and the Power of Visual Scheduling" appeared first on ERP Software Blog.
+Enhancing Business Central with the free Visual Scheduling App
+Insight Works Launches Quality Inspector App for Business Central Users
+Unlocking Seamless Order Fulfillment in Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Could Kill Us All – Part 6]]></title>
+        <id>https://365community.online/how-ai-could-kill-us-all-part-6</id>
+        <link href="https://365community.online/how-ai-could-kill-us-all-part-6"/>
+        <updated>2023-10-18T15:02:44.000Z</updated>
+        <summary type="html"><![CDATA[In this post, I continue my Series on How AI Could Kill Us All. If you missed the first one, click here. January 2024 The White House bunker was buzzing. […]]]></summary>
+        <author>
+            <name>Steve Mordue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Create Power Automate Flows that Dynamically Support Different Companies]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-create-power-automate-flows-that-dynamically-support-different-companies</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-create-power-automate-flows-that-dynamically-support-different-companies"/>
+        <updated>2023-10-18T14:00:24.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Practices for setting up a Warehouse for the Distribution Industry?]]></title>
+        <id>https://erpsoftwareblog.com/?p=101280</id>
+        <link href="https://erpsoftwareblog.com/2023/10/setting-up-a-warehouse-for-the-distribution-industry/"/>
+        <updated>2023-10-18T13:59:02.000Z</updated>
+        <summary type="html"><![CDATA[One of the most important areas of operations for distribution companies is the warehouse and how it is setup and tweaked as the business grows.  Proper planning is critical to …  Best Practices for setting up a Warehouse for the Distribution Industry? Read More »
+The post Best Practices for setting up a Warehouse for the Distribution Industry? appeared first on ERP Software Blog.
+New Guide: Microsoft Dynamics 365 Business Central 2020 Release Wave 1 Overview
+Everything you need to know about Warehouse Order Picking Methods
+Four Newly Released Business Central Features To Improve Your Team’s Efficiency]]></summary>
+        <author>
+            <name>ACE Micro, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Finance and Supply Chain: Access development environment]]></title>
+        <id>https://impulztech.com/?p=3156</id>
+        <link href="https://impulztech.com/dynamics-365-finance-and-supply-chain-access-development-environment/"/>
+        <updated>2023-10-18T13:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has changed how the admin user is setup in Dynamics 365 Finance and Supply Chain development virtual machine in order to access the Dynamics 365 development environment after the release of the VHD for version 10.0.24 in LCS. Prior to this version, user just needed to provide a valid domain email in Admin User […]
+The post Dynamics 365 Finance and Supply Chain: Access development environment appeared first on Impulz Technologies LLC.]]></summary>
+        <author>
+            <name>Wajahat Wasti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Update a record’ action using FinOps connector in Logic apps]]></title>
+        <id>https://365community.online/update-a-record-action-using-finops-connector-in-logic-apps</id>
+        <link href="https://365community.online/update-a-record-action-using-finops-connector-in-logic-apps"/>
+        <updated>2023-10-18T13:17:03.000Z</updated>
+        <summary type="html"><![CDATA[If you want to updates a single record in an entity using Logic apps, we have two options Use Odata URL directly in the POST method like below PATCH URL/data/SalesOrderPools(PoolId='04',dataAreaId='usmf') […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Update a record’ action using FinOps connector in Logic apps]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3024</id>
+        <link href="https://anithasantosh.wordpress.com/2023/10/18/update-a-record-action-using-finops-connector-in-logic-apps/"/>
+        <updated>2023-10-18T13:17:03.000Z</updated>
+        <summary type="html"><![CDATA[If you want to updates a single record in an entity using Logic apps, we have two options Use Odata URL directly in the POST method like below Second option is via logic apps connector. It is tricky to understand … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating From Accountancy to Tech: Steven Chinsky's Inspiring Path with Dynamics 365 BC]]></title>
+        <id>https://365community.online/accelerating-from-accountancy-to-tech-steven-chinskys-inspiring-path-with-dynamics-365-bc</id>
+        <link href="https://365community.online/accelerating-from-accountancy-to-tech-steven-chinskys-inspiring-path-with-dynamics-365-bc"/>
+        <updated>2023-10-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/492 Ever wondered how an accountant would transition into a tech guru? Meet Steven Chinsky, the director of Dynamics Practice at Accelerant. From his thrilling escapades like […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Simplified Power Automate Approval Flow Experience]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-simplified-power-automate-approval-flow-experience</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-simplified-power-automate-approval-flow-experience"/>
+        <updated>2023-10-18T12:00:24.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy linking of Notes to the Table from the Timeline with Power Apps]]></title>
+        <id>https://365community.online/easy-linking-of-notes-to-the-table-from-the-timeline-with-power-apps</id>
+        <link href="https://365community.online/easy-linking-of-notes-to-the-table-from-the-timeline-with-power-apps"/>
+        <updated>2023-10-18T10:29:54.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, we will explore a new feature introduced by Microsoft, which allows us to seamlessly link Notes records directly to Account, Contact, or Case table records from […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Process an Inventory Pick in Two Steps by Releasing the Source Document]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-process-an-inventory-pick-in-two-steps-by-releasing-the-source-document</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-process-an-inventory-pick-in-two-steps-by-releasing-the-source-document"/>
+        <updated>2023-10-18T10:00:45.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365PPUG Birmingham – Speaker Announcement 23rd November 2023]]></title>
+        <id>https://365community.online/d365ppug-birmingham-speaker-announcement-23rd-november-2023</id>
+        <link href="https://365community.online/d365ppug-birmingham-speaker-announcement-23rd-november-2023"/>
+        <updated>2023-10-18T09:08:06.000Z</updated>
+        <summary type="html"><![CDATA[Registrations are open for our next Dynamics 365 / Power Platform event in Birmingham. And this time I am very pleased to announce a very special guest speaker. You can […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build better apps, faster: Copilot in Power Apps is now generally available]]></title>
+        <id>build-better-apps-faster-copilot-in-power-apps-is-now-generally-available</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/build-better-apps-faster-copilot-in-power-apps-is-now-generally-available/"/>
+        <updated>2023-10-18T06:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Create apps from your data in minutes, with no code required
+We are excited announce that Copilot for Power Apps is now Generally Available for app makers. Since its initial release earlier this year, more than 126,000 organizations have already started using Copilot across the Power Platform.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to – enable the enhanced email template editor in Model-driven Apps(Dynamics 365 / Dataverse)]]></title>
         <id>https://365community.online/how-to-enable-the-enhanced-email-template-editor-in-model-driven-appsdynamics-365-dataverse</id>
