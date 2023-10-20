@@ -254,16 +254,6 @@
           "wordCount": 2290,
           "title": "Windows keyboard shortcuts",
           "imageUrl": "https://nuxulu.com/2021-11-05-windows-key-shortcuts/featured-image.png"
-        },
-        {
-          "id": "https://nuxulu.com/2021-10-20-common-prefixes-dyanmics-ax/",
-          "author": "Max Nguyen",
-          "description": "Subject Area Object Prefix\nA subject area specific application object is prefixed with the name of the subject area the object belongs to, for example Cust*, Invent*, Ledger*, Proj*, Vend*.\nExample\n        \nWMSOrderSplit\nCustBankAccount\nCustBalanceCurrency\nInventAccountType\nApplication Area Object Prefix\nAn application area object is prefixed with the name of the application area the object belongs to.\nExample\n        \nAif*\nSys*\nWhen creating new elements, ensure that you follow the recommended naming conventions. Any future development and maintenance will be much easier.\nAx Microsoft Dynamics AX typed data source\nAxd Microsoft Dynamics AX business document\nAsset Asset management\nBOM Bill of material\nCOS Cost accounting\nCust Customer\nDir Directory, global address book\nEcoRes Economic resources\nHRM/HCM Human resources\nInvent Inventory management\nJMG Shop flor control\nKM Knowledge management\nLedger General ledger\nPBA Product builder\nProd Production\nProj Project\nPurch Purchase\nReq Requirements\nSales Sales\nSMA Service management\nSMM Sales and marketing management, also called customer relationship management (CRM)\nSys Application frameworks and development tools\nTax Tax engine\nVend Vendor\nWeb Web framework\nWMS Warehouse management",
-          "link": "https://nuxulu.com/2021-10-20-common-prefixes-dyanmics-ax/",
-          "publishedOn": "2021-10-20T00:00:00.000Z",
-          "wordCount": 280,
-          "title": "Naming Conventions - Common Prefixes Dyanmics AX",
-          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         }
       ]
     },
@@ -2721,6 +2711,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=101373",
+          "author": "Jason Ochipa, Tensoft Inc.",
+          "description": "During Tensoft’s most recent customer user conference, I covered a session on new features in Microsoft Dynamics 365 Business Central. Below are some highlights of the features related to multi-company, …  What’s New in Microsoft Dynamics 365 Business Central 2023 Wave 2 Read More »\nThe post What’s New in Microsoft Dynamics 365 Business Central 2023 Wave 2 appeared first on ERP Software Blog.\nHow to Create a Test Company Within the Production and Sandbox Environment\nWebinar: Business Central Add-on Spotlight Series – Nodus, a division of EVO\nCreate A New Item In Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2023/10/whats-new-in-microsoft-dynamics-365-business-central-2023-wave-2/",
+          "publishedOn": "2023-10-19T18:40:03.000Z",
+          "wordCount": 7378,
+          "title": "What’s New in Microsoft Dynamics 365 Business Central 2023 Wave 2",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101370",
+          "author": "MetaOption LLC",
+          "description": "Shipping is a crucial aspect of any e-commerce business. Whether you’re a small online store or a large enterprise, efficiently managing your shipping operations is key to customer satisfaction and …  Streamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip Read More »\nThe post Streamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip appeared first on ERP Software Blog.\nScalable Solutions: How Business Central Warehouse Management adapts to growing businesses\nEverything you need to know about Warehouse Order Picking Methods\nTop 5 ways to fix a failed ERP Implementation for your Organization",
+          "link": "https://erpsoftwareblog.com/2023/10/streamline-shipping-process-multi-carrier-shipping-with-metaship/",
+          "publishedOn": "2023-10-19T17:36:12.000Z",
+          "wordCount": 7493,
+          "title": "Streamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-106.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101364",
+          "author": "Velosio",
+          "description": "Selecting an ERP system is table stakes when it comes to ensuring your future success — and, if we’re being realistic, your future survival. It’s incredibly expensive. There are a …  What to Consider When Choosing an ERP System Read More »\nThe post What to Consider When Choosing an ERP System appeared first on ERP Software Blog.\nHow to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP\nThe World of Microsoft Dynamics GP Payroll, W-2s and 1099s\nWant predictive equipment maintenance? Combine IoT with historical data",
+          "link": "https://erpsoftwareblog.com/2023/10/what-to-consider-when-choosing-an-erp-system/",
+          "publishedOn": "2023-10-19T16:21:03.000Z",
+          "wordCount": 8911,
+          "title": "What to Consider When Choosing an ERP System",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AdobeStock_639589574-scaled.jpeg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101318",
+          "author": "Dynamics Square USA",
+          "description": "A Certified Microsoft Partner is a trusted advisor that can help businesses leverage Microsoft technologies to achieve their goals. Whether it's migrating to the cloud, deploying a new software solution, …  Why Your Business Needs a Certified Microsoft Partner Today Read More »\nThe post Why Your Business Needs a Certified Microsoft Partner Today appeared first on ERP Software Blog.\nThe Number One Decision Smart People Make When Choosing ERP Software (and It Isn’t What You Think)\nManufacturers Gain Vision From Breaking Down Silos\nUpgrade your business with Business Central 2022 Release Wave 1",
+          "link": "https://erpsoftwareblog.com/2023/10/why-certified-microsoft-partner/",
+          "publishedOn": "2023-10-19T14:23:40.000Z",
+          "wordCount": 7833,
+          "title": "Why Your Business Needs a Certified Microsoft Partner Today",
+          "imageUrl": "https://www.dynamicssquare.com/_next/image/?url=%2Fimg%2Fd360-banner.png&w=1920&q=75"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=100903",
           "author": "Insight Works",
           "description": "As manufacturers grapple with the complexities of modern production processes, the need for efficient scheduling tools becomes paramount. Insight Works is poised to shed light on how the Graphical Scheduler app seamlessly complements Dynamics 365 Business Central in an insightful upcoming webinar.\nThe post Upcoming Webinar: \"Business Central and the Power of Visual Scheduling\" appeared first on ERP Software Blog.\nEnhancing Business Central with the free Visual Scheduling App\nInsight Works Launches Quality Inspector App for Business Central Users\nUnlocking Seamless Order Fulfillment in Dynamics 365 Business Central",
@@ -4565,6 +4595,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/why-im-joining-microsoft-as-a-cloud-developer-advocate-%f0%9f%9a%80-youtube",
+          "author": "Scott Durow",
+          "description": "Why I’m joining Microsoft as a Cloud Developer Advocate 🚀 In this video, I explain why I’m joining Microsoft to work as a Cloud Developer Advocate and handing back my […]",
+          "link": "https://365community.online/why-im-joining-microsoft-as-a-cloud-developer-advocate-%f0%9f%9a%80-youtube",
+          "publishedOn": "2023-10-19T15:32:15.000Z",
+          "wordCount": 3102,
+          "title": "Why I’m joining Microsoft as a Cloud Developer Advocate 🚀 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/1697735369_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/welsh-azure-user-group-october-2023-meet-up",
+          "author": "John Lunn",
+          "description": "It was the day of our Welsh Azure User Group #WAUG October 2023 meet up and we had yet another two amazing speakers join us. We were joined by Samuel […]",
+          "link": "https://365community.online/welsh-azure-user-group-october-2023-meet-up",
+          "publishedOn": "2023-10-19T14:21:44.000Z",
+          "wordCount": 3132,
+          "title": "Welsh Azure User Group October 2023 Meet Up!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Welsh-Azure-User-Group-October-2023-Meet-Up.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/welsh-azure-user-group-october-2023-event-youtube",
+          "author": "John Lunn",
+          "description": "Welsh Azure User Group – October 2023 Event It was the day of our Welsh Azure User Group #WAUG October 2023 meet up and we had yet another two amazing […]",
+          "link": "https://365community.online/welsh-azure-user-group-october-2023-event-youtube",
+          "publishedOn": "2023-10-19T14:19:59.000Z",
+          "wordCount": 3229,
+          "title": "Welsh Azure User Group – October 2023 Event – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/1697738554_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-relate-native-and-virtual-tables-to-expose-more-business-central-data-in-dataverse",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-relate-native-and-virtual-tables-to-expose-more-business-central-data-in-dataverse",
+          "publishedOn": "2023-10-19T14:00:37.000Z",
+          "wordCount": 3276,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Relate Native and Virtual Tables to Expose More Business Central Data in Dataverse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-apps-ai-builder-and-cats",
+          "author": "Kylie Kiser",
+          "description": "Meet the stars of the Power Apps, AI Builder and Cats Demo! At Community Summit 2023, I presented a session with Mallory Lawhorn called Power Apps, AI Builder and Cats! […]",
+          "link": "https://365community.online/power-apps-ai-builder-and-cats",
+          "publishedOn": "2023-10-19T13:50:00.000Z",
+          "wordCount": 3167,
+          "title": "Power Apps, AI Builder, and Cats!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/1697730459_Power-Apps-AI-Builder-and-Cats.jpg?fit=1024%2C900&ssl=1"
+        },
+        {
+          "id": "https://365community.online/customer-insights-journeys-copilot-frenzy",
+          "author": "Malin Martnes",
+          "description": "Copilot is Microsoft’s AI-powered assistant, which spans across most of what Microsoft deliver today and in the future. Dynamics 365 Customer Insights – Journeys have had features from Copilot for […]",
+          "link": "https://365community.online/customer-insights-journeys-copilot-frenzy",
+          "publishedOn": "2023-10-19T13:33:05.000Z",
+          "wordCount": 3118,
+          "title": "Customer Insights -Journeys Copilot frenzy",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Customer-Insights-Journeys-Copilot-frenzy.png?fit=1200%2C1080&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-business-central-virtual-tables-fully-supported-on-microsoft-dataverse",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-business-central-virtual-tables-fully-supported-on-microsoft-dataverse",
+          "publishedOn": "2023-10-19T12:00:22.000Z",
+          "wordCount": 3250,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Business Central Virtual Tables Fully Supported on Microsoft Dataverse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-ai-could-kill-us-all-part-7",
+          "author": "Steve Mordue",
+          "description": "In this post, I continue my Series on How AI Could Kill Us All. If you missed the first one, click here. January 2024 “Good afternoon, Satyesh,” said Isabella, “How […]",
+          "link": "https://365community.online/how-ai-could-kill-us-all-part-7",
+          "publishedOn": "2023-10-19T10:27:30.000Z",
+          "wordCount": 3103,
+          "title": "How AI Could Kill Us All – Part 7",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/How-AI-Could-Kill-Us-All-–-Part-7.jpeg?fit=1200%2C801&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-install-microsoft-sql-server-2022-download-sql-server-reporting-services",
+          "author": "Ian Grieve",
+          "description": "This article is part of the series on How To Install Microsoft SQL Server 2022; I do not claim to be an expert on SQL Server and this series is […]",
+          "link": "https://365community.online/how-to-install-microsoft-sql-server-2022-download-sql-server-reporting-services",
+          "publishedOn": "2023-10-19T10:00:37.000Z",
+          "wordCount": 3204,
+          "title": "How To Install Microsoft SQL Server 2022: Download SQL Server Reporting Services",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/1697712914_How-To-Install-Microsoft-SQL-Server-2022-Download-SQL-Server.png?fit=1200%2C1043&ssl=1"
+        },
+        {
+          "id": "https://365community.online/plugins-4-dummies-introduction",
+          "author": "Thomas Sandsør",
+          "description": "Click here to view all Plugins 4 Dummies Videos There are many reasons why code is still very relevant. In this video, I share with you all of my thoughts […]",
+          "link": "https://365community.online/plugins-4-dummies-introduction",
+          "publishedOn": "2023-10-19T08:00:00.000Z",
+          "wordCount": 3049,
+          "title": "Plugins 4 Dummies – Introduction",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Plugins-4-Dummies-–-Introduction.png?fit=1199%2C377&ssl=1"
+        },
+        {
           "id": "https://365community.online/find-email-templates-faster-with-the-new-insert-template-dialog-dynamics-365-dataverse",
           "author": "Nishant Rana",
           "description": "The new insert template dialog box adds features to quickly find and insert the appropriate email template. For the below email record, we have a contact, account, and user type […]",
@@ -5098,6 +5228,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5342",
+          "author": "Ludwig Reinhard",
+          "description": "[German language podcast] In diesem Podcast geht sprechen wir mit Pascal und Marco Rey y Sander, die beide im Microsoft …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2023/10/19/microsoft-bizapps-deutschland-podcast-19/",
+          "publishedOn": "2023-10-19T04:57:40.000Z",
+          "wordCount": 2934,
+          "title": "Microsoft BizApps Deutschland Podcast #19",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/09/2023-09_collagev3.png"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5357",
           "author": "Ludwig Reinhard",
@@ -16915,6 +17055,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "modern-refreshed-look-for-model-driven-apps-is-generally-available-ga",
+          "author": null,
+          "description": "We are proud to announce that the modern, refreshed look for model-driven apps is now generally available as of 2023 Release Wave 2. Released as part of a preview in February 2023, we’ve made considerable updates and brought a new opt-in toggle for end users. Improvements since February Updated read-only style including re-introducing the lock…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/modern-refreshed-look-for-model-driven-apps-is-generally-available-ga/",
+          "publishedOn": "2023-10-19T12:07:13.000Z",
+          "wordCount": 1835,
+          "title": "Modern, refreshed look for model-driven apps is generally available (GA)",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/10/modern-form-page1.png"
+        },
         {
           "id": "build-better-apps-faster-copilot-in-power-apps-is-now-generally-available",
           "author": null,
