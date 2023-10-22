@@ -4625,6 +4625,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/are-you-straddling-outbound-and-real-time-marketing",
+          "author": "Steve Mordue",
+          "description": "Microsoft is in the midst of a major push to its Dynamics 365 Marketing customers. To move from Outbound Marketing to Real-Time Marketing in its updated offers. But there is […]",
+          "link": "https://365community.online/are-you-straddling-outbound-and-real-time-marketing",
+          "publishedOn": "2023-10-21T18:04:57.000Z",
+          "wordCount": 3089,
+          "title": "Are You Straddling Outbound and Real-Time Marketing?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Are-You-Straddling-Outbound-and-Real-Time-Marketing.jpeg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-allow-users-to-only-add-and-view-sharepoint-list-items-block-editing-deleting",
+          "author": "michelcarlo",
+          "description": "This blog post is based on a recent question that I got from a blog reader in a blog post related to List Formatting: Is there a way to disable […]",
+          "link": "https://365community.online/how-to-allow-users-to-only-add-and-view-sharepoint-list-items-block-editing-deleting",
+          "publishedOn": "2023-10-21T17:25:13.000Z",
+          "wordCount": 3347,
+          "title": "How to allow users to only Add and View SharePoint list items (block editing/deleting)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/BlockEdit.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-performance-benefits-of-omnichannel-media-management",
+          "author": "Kurt Hatlevik",
+          "description": "Scheduled for release on Monday, October 23, 2023, Microsoft’s Omnichannel Media Management feature promises significant performance gains, particularly in eCommerce and POS. Beyond merely optimizing digital asset performance, this feature […]",
+          "link": "https://365community.online/dynamics-365-performance-benefits-of-omnichannel-media-management",
+          "publishedOn": "2023-10-21T12:27:40.000Z",
+          "wordCount": 3151,
+          "title": "Dynamics 365 : Performance benefits of Omnichannel media management",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Dynamics-365-Performance-benefits-of-Omnichannel-media-management.png?fit=1200%2C457&ssl=1"
+        },
+        {
+          "id": "https://365community.online/simplifying-attachment-management-and-reducing-storage-costs-in-dynamics-365-crm-with-attach2dynamics-new-release",
+          "author": "Inogic",
+          "description": "Attach2Dynamics has been a game-changer for Dynamics 365 CRM users, providing seamless integration with popular cloud storage solutions like SharePoint, Azure Blob Storage, and Dropbox. We are delighted and honoured […]",
+          "link": "https://365community.online/simplifying-attachment-management-and-reducing-storage-costs-in-dynamics-365-crm-with-attach2dynamics-new-release",
+          "publishedOn": "2023-10-21T11:03:09.000Z",
+          "wordCount": 3494,
+          "title": "Simplifying Attachment Management and Reducing Storage Costs in Dynamics 365 CRM with Attach2Dynamics New Release!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Attach2Dynamics.png?fit=700%2C400&ssl=1"
+        },
+        {
           "id": "https://365community.online/d365fo-business-event-for-cloud-hosted-environments-error-response-status-code-does-not-indicate-success-400",
           "author": "Anitha Santosh",
           "description": "As we are aware Business events are used to send messages to third party applications when the active event is triggered. When you set up business events or virtual entities […]",
@@ -8042,6 +8082,16 @@
       "feedUrl": "https://kurthatlevik.com/feed/",
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
+        {
+          "id": "http://kurthatlevik.com/?p=4511",
+          "author": "Kurt Hatlevik",
+          "description": "Scheduled for release on Monday, October 23, 2023, Microsoft’s Omnichannel Media Management feature promises significant performance gains, particularly in eCommerce and POS. Beyond merely optimizing digital asset performance, this feature offers a range of functionalities: Key Features: Integrated Product Image Management: Dynamics 365 now includes an iframe that links directly to the site builder. This … Continue reading Dynamics 365 : Performance benefits of Omnichannel media management",
+          "link": "https://kurthatlevik.com/2023/10/21/dynamics-365-performance-benefits-of-omnichannel-media-management/",
+          "publishedOn": "2023-10-21T12:27:40.000Z",
+          "wordCount": 3225,
+          "title": "Dynamics 365 : Performance benefits of Omnichannel media management",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/10/102123_1227_dynamics3651.png"
+        },
         {
           "id": "http://kurthatlevik.com/?p=4503",
           "author": "Kurt Hatlevik",
