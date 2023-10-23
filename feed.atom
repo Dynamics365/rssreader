@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-22T01:10:35.250Z</updated>
+    <updated>2023-10-23T01:06:27.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Turn on the New modern, refreshed look for the Model-Driven apps?]]></title>
+        <id>https://365community.online/how-to-turn-on-the-new-modern-refreshed-look-for-the-model-driven-apps</id>
+        <link href="https://365community.online/how-to-turn-on-the-new-modern-refreshed-look-for-the-model-driven-apps"/>
+        <updated>2023-10-22T21:53:27.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released the Modern and Refreshed look for the Model-driven apps as part of 2023 Release Wave 2 and it is generally available for all the regions. This new […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontend Developer: Day5 – Frontend Developer Roadmap – YouTube]]></title>
+        <id>https://365community.online/frontend-developer-day5-frontend-developer-roadmap-youtube</id>
+        <link href="https://365community.online/frontend-developer-day5-frontend-developer-roadmap-youtube"/>
+        <updated>2023-10-22T14:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Frontend Developer: Day5 – Frontend Developer Roadmap Day 5: Frontend Developer Roadmap – What is Frontend Development? – Wo can become Frontend Developer? – Frontend Developer Salary and Scope – […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Apps – Apps filter feature]]></title>
+        <id>https://365community.online/microsoft-power-apps-apps-filter-feature</id>
+        <link href="https://365community.online/microsoft-power-apps-apps-filter-feature"/>
+        <updated>2023-10-22T07:11:22.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released a new feature to filter the Apps in the Dataverse. Follow the below steps to check this new feature. Step 1: Login to Power Apps Maker Portal and Click on Apps. […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnichannel for Customer Service – Complex Conversation Routing]]></title>
+        <id>https://365community.online/omnichannel-for-customer-service-complex-conversation-routing</id>
+        <link href="https://365community.online/omnichannel-for-customer-service-complex-conversation-routing"/>
+        <updated>2023-10-22T06:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft’s Omnichannel for Customer Service allows a single agent to handle conversations from multiple channels. Unified Routing is used to configure how those work items are distributed. This is a […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are You Straddling Outbound and Real-Time Marketing?]]></title>
         <id>https://365community.online/are-you-straddling-outbound-and-real-time-marketing</id>
