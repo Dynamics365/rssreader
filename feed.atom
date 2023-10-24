@@ -2,10 +2,187 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-23T01:06:27.682Z</updated>
+    <updated>2023-10-24T01:05:55.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fixed – Feature ‘Semantic classification, Document Highlights, etc. ’ is currently unavailable due to internal error  – Visual Studio]]></title>
+        <id>https://365community.online/fixed-feature-semantic-classification-document-highlights-etc-is-currently-unavailable-due-to-internal-error-visual-studio</id>
+        <link href="https://365community.online/fixed-feature-semantic-classification-document-highlights-etc-is-currently-unavailable-due-to-internal-error-visual-studio"/>
+        <updated>2023-10-23T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we were getting the below notifications in our Visual Studio 2019. The way we managed to fix it was by disabling the following option – “Use 64-bit process for […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 New Features in 2023 Release Wave 2 for Dynamics 365 Business Central (Video)]]></title>
+        <id>https://www.encorebusiness.com/?p=59812</id>
+        <link href="https://www.encorebusiness.com/blog/3-new-features-in-2023-release-wave-2-for-dynamics-365-business-central-video/"/>
+        <updated>2023-10-23T16:00:50.000Z</updated>
+        <summary type="html"><![CDATA[3 New Features in 2023 Release Wave 2 for Dynamics 365 Business Central (Video)
+In this recorded webinar we will discuss 3 new features planned to release in Dynamics 365 Business Central 2023 Release Wave 2. Learn about the new functionalities and how your business can plan and prepare to integrate these features. ﻿﻿﻿﻿﻿﻿﻿ Transcript below: – [Melissa] Hi there, everyone. Thanks for joining us today. My name is...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Sandra Roskin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Use Different General Ledger Accounts for Payables, Receivables]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-use-different-general-ledger-accounts-for-payables-receivables</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-use-different-general-ledger-accounts-for-payables-receivables"/>
+        <updated>2023-10-23T14:00:18.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximizing Efficiency: How MetaADCS Can Transform Your Dynamics NAV Warehouse]]></title>
+        <id>https://erpsoftwareblog.com/?p=101428</id>
+        <link href="https://erpsoftwareblog.com/2023/10/maximizing-efficiency-how-metaadcs-can-transform-your-dynamics-nav-warehouse/"/>
+        <updated>2023-10-23T13:46:07.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced business environment, efficiency is the key to success. For companies using Microsoft Dynamics NAV (formerly known as Navision) to manage their operations, optimizing warehouse processes is a …  Maximizing Efficiency: How MetaADCS Can Transform Your Dynamics NAV Warehouse Read More »
+The post Maximizing Efficiency: How MetaADCS Can Transform Your Dynamics NAV Warehouse appeared first on ERP Software Blog.
+Exploring Advanced Warehouse Management Features in Dynamics NAV
+Top 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management System (WMS)
+The Importance of Barcoding in Warehouse Management Systems]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binary Stream to attend Directions EMEA as silver sponsors]]></title>
+        <id>https://erpsoftwareblog.com/?p=100753</id>
+        <link href="https://erpsoftwareblog.com/2023/10/binary-stream-to-attend-directions-emea-as-silver-sponsors/"/>
+        <updated>2023-10-23T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Binary Stream is proud to announce its participation as a silver sponsor at Directions EMEA in Lyon, France, from November 1st to 3rd, 2023. We will showcase our powerful suite …  Binary Stream to attend Directions EMEA as silver sponsors Read More »
+The post Binary Stream to attend Directions EMEA as silver sponsors appeared first on ERP Software Blog.
+Binary Stream - Did You Know - Weekly Tips - Multi-Entity Management - PART 2
+Binary Stream - Did You Know - Property Management (Revenue Share)
+Revenue Recognition & the Need to Deliver Fair Value]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming Marketing through Trigger-Based Journeys: A Talk with Vinay Deo]]></title>
+        <id>https://365community.online/transforming-marketing-through-trigger-based-journeys-a-talk-with-vinay-deo</id>
+        <link href="https://365community.online/transforming-marketing-through-trigger-based-journeys-a-talk-with-vinay-deo"/>
+        <updated>2023-10-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/493  Join us for an enlightening conversation with our distinguished guest Vinay Deo, a principal group product manager at Microsoft. Step into his shoes as we traverse […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Setup A Connection Between Azure DevOps & LCS]]></title>
+        <id>https://impulztech.com/?p=3231</id>
+        <link href="https://impulztech.com/how-to-setup-a-connection-between-azure-devops-lcs/"/>
+        <updated>2023-10-23T12:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Transferring software deployable packages to the Asset Library is actively enabled by the connection between DevOps and LCS. Here I am describing each step in detail that how can you setup connection between Azure DevOps & LCS so it will be easy for you to deploy your dynamics packages easily in LCS Environment. 1-Workflow: After […]
+The post How To Setup A Connection Between Azure DevOps & LCS appeared first on Impulz Technologies LLC.]]></summary>
+        <author>
+            <name>Muhammad Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: More Control Over General Journal Approvals]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-more-control-over-general-journal-approvals</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-more-control-over-general-journal-approvals"/>
+        <updated>2023-10-23T12:00:57.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tosca Training | TRECENTIS Tosca Automation Course | Tosca Tutorial For Beginners | MindMajix – YouTube]]></title>
+        <id>https://365community.online/tosca-training-trecentis-tosca-automation-course-tosca-tutorial-for-beginners-mindmajix-youtube</id>
+        <link href="https://365community.online/tosca-training-trecentis-tosca-automation-course-tosca-tutorial-for-beginners-mindmajix-youtube"/>
+        <updated>2023-10-23T10:30:13.000Z</updated>
+        <summary type="html"><![CDATA[MindMajix video sessions on Tosca Training Video Covers all the key concepts of Tosca from basics to advanced level such as continuous integration & reporting using Tosca TestSuite. It also […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The F&O Twist on Process Mining – Create new process with event log]]></title>
+        <id>https://dynamicspedia.com/?p=18803</id>
+        <link href="https://dynamicspedia.com/2023/10/the-fo-twist-on-process-mining-create-new-process-with-event-log/"/>
+        <updated>2023-10-23T10:23:08.000Z</updated>
+        <summary type="html"><![CDATA[Just recently, I shared my first blog post about Process Mining. In my previous post, I shared the first step to get started with Process Mining. In this post, I will go one step further and present a walkthrough of how to create a new process using an event log data file. Create a new […]
+The post The F&O Twist on Process Mining – Create new process with event log appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error Posting Fixed Asset Write-Down In Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://365community.online/error-posting-fixed-asset-write-down-in-microsoft-dynamics-365-business-central</id>
+        <link href="https://365community.online/error-posting-fixed-asset-write-down-in-microsoft-dynamics-365-business-central"/>
+        <updated>2023-10-23T10:00:58.000Z</updated>
+        <summary type="html"><![CDATA[I was asked to deliver a training workshop to users at a client on the Fixed Assets module. Prior to the session, I logged on and gave te module a […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DDMRP calculation]]></title>
+        <id>https://365community.online/ddmrp-calculation</id>
+        <link href="https://365community.online/ddmrp-calculation"/>
+        <updated>2023-10-23T09:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Now it’s time ! After introducting DDMRP and Inventory positioning, followed by Buffer Level Definition and Calculation, it’s time to run the DDMRP after having understood and use the previous buffers […]]]></summary>
+        <author>
+            <name>yohann-D365Tour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Apps – ChatGPT Integration]]></title>
+        <id>https://365community.online/power-apps-chatgpt-integration</id>
+        <link href="https://365community.online/power-apps-chatgpt-integration"/>
+        <updated>2023-10-23T08:42:59.000Z</updated>
+        <summary type="html"><![CDATA[In this article, let’s see how we can integrate ChatGPT with our Canvas App to add AI functionality. ChatGPT is an artificial intelligence-based chatbot developed by OpenAI, specialized in conversing […]]]></summary>
+        <author>
+            <name>Angelo Gulisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plugins 4 Dummies – Visual Studio]]></title>
+        <id>https://365community.online/plugins-4-dummies-visual-studio</id>
+        <link href="https://365community.online/plugins-4-dummies-visual-studio"/>
+        <updated>2023-10-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Click here to view all Plugins 4 Dummies Videos In this video, we create the very first project in Visual Studio. If you are not a developer this might seem […]]]></summary>
+        <author>
+            <name>Thomas Sandsør</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer environments – new capabilities to create for users]]></title>
+        <id>https://365community.online/developer-environments-new-capabilities-to-create-for-users</id>
+        <link href="https://365community.online/developer-environments-new-capabilities-to-create-for-users"/>
+        <updated>2023-10-23T07:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Developer environments are awesome. There – I’ve said it for the record. Formerly known as the ‘Community Plan’, developer environments are there for users to be able to play with […]]]></summary>
+        <author>
+            <name>thecrmninja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Dynamics 365 Business Central and Vantree EDI Streamlined Operations for a Major Food Distributor]]></title>
+        <id>https://erpsoftwareblog.com/?p=100981</id>
+        <link href="https://erpsoftwareblog.com/2023/10/how-dynamics-365-business-central-and-vantree-edi-streamlined-operations-for-a-major-food-distributor/"/>
+        <updated>2023-10-23T03:47:07.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced world of retail, efficient communication and seamless operations are paramount, especially with high-volume trade with major store chains. CTS Foods, a prominent Canadian food distributor, found itself …  How Dynamics 365 Business Central and Vantree EDI Streamlined Operations for a Major Food Distributor Read More »
+The post How Dynamics 365 Business Central and Vantree EDI Streamlined Operations for a Major Food Distributor appeared first on ERP Software Blog.
+Streamline Purchase & Sales Orders with Free App for Business Central
+Product Configurators for Microsoft Dynamics 365 Business Central
+Best Practices for setting up a Warehouse for the Distribution Industry?]]></summary>
+        <author>
+            <name>Vantree Systems</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Turn on the New modern, refreshed look for the Model-Driven apps?]]></title>
         <id>https://365community.online/how-to-turn-on-the-new-modern-refreshed-look-for-the-model-driven-apps</id>
@@ -1195,6 +1372,16 @@ ERP for Plating, Heat Treating & Finishing Services
 Microsoft Dynamics GP and Magento Integration by x2x eCommerce]]></summary>
         <author>
             <name>EFOQUS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[­­Dataverse Low Code Plug-ins now in public preview]]></title>
+        <id>dataverse-low-code-plug-ins-now-in-public-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/dataverse-low-code-plug-ins-now-in-public-preview/"/>
+        <updated>2023-10-10T19:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year at Build, we launched the experimental preview of Microsoft Dataverse low code plug-ins, a new capability at forefront of the low code and extensibility story trend in modern business workflows. Today, we’re thrilled to announce that low code plug-ins are now available in public preview, with new features and improvements that make…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
