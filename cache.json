@@ -2721,6 +2721,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=101289",
+          "author": "Innovia Consulting",
+          "description": "Small and mid-sized manufacturers squeaking by with entry-level software such as QuickBooks or Excel spreadsheets have questions. For example, is our software slowing us down, and how do we know …  How to get a Manufacturing Business Ready for Dynamics 365 Read More »\nThe post How to get a Manufacturing Business Ready for Dynamics 365 appeared first on ERP Software Blog.\nCustom Backgrounds in Microsoft Teams and How to set up Your ERP Company Images\nThe Benefits and Limitations to Using Parse JSON  |  Power Automate and Dynamics 365 Business Central\nHow to move from Microsoft Dynamics GP to Business Central in a few easy steps",
+          "link": "https://erpsoftwareblog.com/2023/10/how-to-get-a-manufacturing-business-ready-for-dynamics-365/",
+          "publishedOn": "2023-10-24T16:51:55.000Z",
+          "wordCount": 7678,
+          "title": "How to get a Manufacturing Business Ready for Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-10-How-to-get-a-Manufacturing-Business-Ready-for-Dynamics-365_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=100914",
+          "author": "Vicinity Software",
+          "description": "It goes without saying that to accomplish a goal, you need a plan. For formula manufacturers, that plan includes strategic scheduling. Without a schedule, nothing will get done accurately and …  Dynamics ERP for Formula Manufacturers Improves Scheduling with Vicinity Software Read More »\nThe post Dynamics ERP for Formula Manufacturers Improves Scheduling with Vicinity Software appeared first on ERP Software Blog.\nThree ways food manufacturers can increase profits today\nThe Evolution of Scheduling for Process Manufacturers\nCustom Backgrounds in Microsoft Teams and How to set up Your ERP Company Images",
+          "link": "https://erpsoftwareblog.com/2023/10/dynamics-erp-for-formula-manufacturers-improves-scheduling-with-vicinity-software/",
+          "publishedOn": "2023-10-24T14:13:59.000Z",
+          "wordCount": 7614,
+          "title": "Dynamics ERP for Formula Manufacturers Improves Scheduling with Vicinity Software",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-10-Dynamics-ERP-for-Formula-Manufacturers-Improves-Scheduling-with-Vicinity-Software_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101439",
+          "author": "x2x eCommerce",
+          "description": "Technology is evolving at a rapid pace, enabling faster change and progress. However, it is not only technology trends and emerging technologies that are evolving, changing technologies impacting other industries …  Technology Trends in 2024 Read More »\nThe post Technology Trends in 2024 appeared first on ERP Software Blog.\neCommerce store features that makes it more valuable\nERP & eCommerce Integration Trends in 2023\nSignificance of Dynamics GP & Shopify Integration",
+          "link": "https://erpsoftwareblog.com/2023/10/technology-trends-in-2024/",
+          "publishedOn": "2023-10-24T12:56:46.000Z",
+          "wordCount": 7364,
+          "title": "Technology Trends in 2024",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-19-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101398",
+          "author": "Netstock",
+          "description": "Netstock, a leader in inventory management software, recently conducted a survey of small and mid-sized businesses. The survey was designed to illuminate inventory management challenges faced by wholesale, retail, and …  Inventory Management Software for Dynamics 365BC from Netstock Read More »\nThe post Inventory Management Software for Dynamics 365BC from Netstock appeared first on ERP Software Blog.\nProcuring Mobile Devices for Business Central\nChoosing the right Inventory Management WMS Supply Chain Platform\nRevolutionizing Production Scheduling: Unveiling MxAPS 4.7 for Business Central",
+          "link": "https://erpsoftwareblog.com/2023/10/inventory-management-software-for-dynamics-365bc-from-netstock/",
+          "publishedOn": "2023-10-24T06:56:43.000Z",
+          "wordCount": 7584,
+          "title": "Inventory Management Software for Dynamics 365BC from Netstock",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-10-Inventory-Management-Software-for-Dynamics-365BC-from-Netstock_1200-x-628.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=101428",
           "author": "MetaOption LLC",
           "description": "In today’s fast-paced business environment, efficiency is the key to success. For companies using Microsoft Dynamics NAV (formerly known as Navision) to manage their operations, optimizing warehouse processes is a …  Maximizing Efficiency: How MetaADCS Can Transform Your Dynamics NAV Warehouse Read More »\nThe post Maximizing Efficiency: How MetaADCS Can Transform Your Dynamics NAV Warehouse appeared first on ERP Software Blog.\nExploring Advanced Warehouse Management Features in Dynamics NAV\nTop 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management System (WMS)\nThe Importance of Barcoding in Warehouse Management Systems",
@@ -4674,6 +4714,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/how-to-convert-basic-queue-to-an-advanced-queue-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "We can convert our basic queue to an advanced queue by setting the field “Is Omnichannel Queue” or “Automatic work distribution” schema name “msdyn_isomnichannelqueue“- to Yes. We would usually do […]",
+          "link": "https://365community.online/how-to-convert-basic-queue-to-an-advanced-queue-dynamics-365",
+          "publishedOn": "2023-10-24T19:00:00.000Z",
+          "wordCount": 3208,
+          "title": "How to – convert basic queue to an advanced queue – Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/How-to-–-convert-basic-queue-to-an-advanced-queue.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-add-more-columns-to-pages-for-better-insight",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-add-more-columns-to-pages-for-better-insight",
+          "publishedOn": "2023-10-24T12:00:54.000Z",
+          "wordCount": 3236,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Add More Columns to Pages for Better Insight",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/workplacedudes-meetup-2",
+          "author": "Jeroen Burgerhout",
+          "description": "On 4 October 2023 we held our 2nd Meetup at the NN Group in The Hague. Man man, what a location this was. We were guests at the NN Group's […]",
+          "link": "https://365community.online/workplacedudes-meetup-2",
+          "publishedOn": "2023-10-24T10:36:38.000Z",
+          "wordCount": 3122,
+          "title": "WorkplaceDudes Meetup #2",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/WorkplaceDudes-Meetup-2.jpg?fit=1200%2C541&ssl=1"
+        },
+        {
+          "id": "https://365community.online/happy-dusshera-2023-powerapps-style-youtube",
+          "author": "Deepesh Somani",
+          "description": "Happy Dusshera 2023: PowerApps Style source",
+          "link": "https://365community.online/happy-dusshera-2023-powerapps-style-youtube",
+          "publishedOn": "2023-10-24T10:10:23.000Z",
+          "wordCount": 3006,
+          "title": "Happy Dusshera 2023: PowerApps Style – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/1698171924_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-install-microsoft-sql-server-2022-install-sql-server-reporting-services",
+          "author": "Ian Grieve",
+          "description": "This article is part of the series on How To Install Microsoft SQL Server 2022; I do not claim to be an expert on SQL Server and this series is […]",
+          "link": "https://365community.online/how-to-install-microsoft-sql-server-2022-install-sql-server-reporting-services",
+          "publishedOn": "2023-10-24T10:00:37.000Z",
+          "wordCount": 3198,
+          "title": "How To Install Microsoft SQL Server 2022: Install SQL Server Reporting Services",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/1698144632_How-To-Install-Microsoft-SQL-Server-2022-Install-SQL-Server.png?fit=1043%2C900&ssl=1"
+        },
+        {
+          "id": "https://365community.online/upload-documents-as-a-source-for-generative-answers-preview",
+          "author": "Dian Taylor",
+          "description": "If you attended Microsoft’s Power Platform Conference this month, then you probably heard about some of the new (preview) features that were announced for Power Virtual Agents! If you are […]",
+          "link": "https://365community.online/upload-documents-as-a-source-for-generative-answers-preview",
+          "publishedOn": "2023-10-24T08:33:00.000Z",
+          "wordCount": 3099,
+          "title": "Upload documents as a source for generative answers (preview)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/upload-documents-as-a-source-for-generative-answers-preview-youtube",
+          "author": "Dian Taylor",
+          "description": "Upload documents as a source for generative answers (preview) In this video I will discuss the ability to upload documents as a source for generative answers in Power Virtual Agents, […]",
+          "link": "https://365community.online/upload-documents-as-a-source-for-generative-answers-preview-youtube",
+          "publishedOn": "2023-10-24T08:31:01.000Z",
+          "wordCount": 3135,
+          "title": "Upload documents as a source for generative answers (preview) – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/1698153426_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/d365ppug-birmingham-2nd-speaker-announcement-november-2023",
+          "author": "Neil Parkhurst",
+          "description": "Registrations are open for our next Dynamics 365 / Power Platform event in Birmingham. And this time I am very pleased to announce another amazing guest speaker. You can find […]",
+          "link": "https://365community.online/d365ppug-birmingham-2nd-speaker-announcement-november-2023",
+          "publishedOn": "2023-10-24T08:06:36.000Z",
+          "wordCount": 3117,
+          "title": "D365PPUG Birmingham – 2nd Speaker Announcement November 2023",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/09/Birmingham-D365-and-Power-Platform-User-Group-–-September-2023.jpg?fit=679%2C381&ssl=1"
+        },
+        {
+          "id": "https://365community.online/plugins-4-dummies-solution-import",
+          "author": "Thomas Sandsør",
+          "description": "Click here to view all Plugins 4 Dummies Videos One of the most important things to succeed when developing is the development environment. Once you have control over this, you […]",
+          "link": "https://365community.online/plugins-4-dummies-solution-import",
+          "publishedOn": "2023-10-24T08:00:00.000Z",
+          "wordCount": 3101,
+          "title": "Plugins 4 Dummies – Solution Import",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Plugins-4-Dummies-–-Introduction.png?fit=1199%2C377&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sales-access-to-marketing-insights-and-timeline-interactions",
+          "author": "Megan V. Walker",
+          "description": "Often as consultants or administrators, we forget that we have higher levels of access than other users. The same can be said for users who have been given one of […]",
+          "link": "https://365community.online/sales-access-to-marketing-insights-and-timeline-interactions",
+          "publishedOn": "2023-10-24T07:30:00.000Z",
+          "wordCount": 3135,
+          "title": "Sales Access To Marketing Insights And Timeline Interactions",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Sales-Access-To-Marketing-Insights-And-Timeline-Interactions.jpg?fit=1200%2C800&ssl=1"
+        },
         {
           "id": "https://365community.online/fixed-feature-semantic-classification-document-highlights-etc-is-currently-unavailable-due-to-internal-error-visual-studio",
           "author": "Nishant Rana",
@@ -13368,6 +13508,16 @@
       "siteUrl": "http://paragchapre.com/",
       "articles": [
         {
+          "id": "http://paragchapre.com/?p=12196",
+          "author": "paragchapre@gmail.com",
+          "description": "You can submit requests for a leave of absence that is open-ended and view the status of your leave requests in Dynamics 365 Human Resources.\nThe post Managing Open-Ended Leave of Absence in Dynamics 365 HR appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/open-ended-leave/?utm_source=rss&utm_medium=rss&utm_campaign=open-ended-leave",
+          "publishedOn": "2023-10-24T06:02:32.000Z",
+          "wordCount": 2893,
+          "title": "Managing Open-Ended Leave of Absence in Dynamics 365 HR",
+          "imageUrl": "http://paragchapre.com/wp-content/uploads/2023/10/open-ended-leave-request.png"
+        },
+        {
           "id": "http://paragchapre.com/?p=12182",
           "author": "paragchapre@gmail.com",
           "description": "Introduction The Power Platform has revolutionized the way organizations handle data and streamline their workflows. One powerful feature of Power Platform is its ability to import work attachments, allowing users to seamlessly integrate various file types into their business processes. In this article, we will explore the benefits of importing work attachments, provide a step-by-step […]\nThe post How to import worker documents in Dynamics 365 F&O with Power Platform appeared first on Parag Chapre.",
@@ -17465,6 +17615,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "copilot-generated-deployment-notes-for-pipelines-are-generally-available-ga",
+          "author": null,
+          "description": "We are excited to announce the GA release of Copilot-generated deployment notes, with a few added improvements from the current version.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/copilot-generated-deployment-notes-for-pipelines-are-generally-available-ga/",
+          "publishedOn": "2023-10-24T13:19:37.000Z",
+          "wordCount": 1801,
+          "title": "Copilot-generated deployment notes for pipelines are Generally Available (GA)",
+          "imageUrl": "//powerappsblogscdn.azureedge.net/wp-content/uploads/2023/09/pipeline-AI-deployment-notes.png"
+        },
         {
           "id": "modern-refreshed-look-for-model-driven-apps-is-generally-available-ga",
           "author": null,

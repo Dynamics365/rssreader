@@ -2,10 +2,187 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-24T01:05:55.363Z</updated>
+    <updated>2023-10-25T01:05:37.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to – convert basic queue to an advanced queue – Dynamics 365]]></title>
+        <id>https://365community.online/how-to-convert-basic-queue-to-an-advanced-queue-dynamics-365</id>
+        <link href="https://365community.online/how-to-convert-basic-queue-to-an-advanced-queue-dynamics-365"/>
+        <updated>2023-10-24T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We can convert our basic queue to an advanced queue by setting the field “Is Omnichannel Queue” or “Automatic work distribution” schema name “msdyn_isomnichannelqueue“- to Yes. We would usually do […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get a Manufacturing Business Ready for Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=101289</id>
+        <link href="https://erpsoftwareblog.com/2023/10/how-to-get-a-manufacturing-business-ready-for-dynamics-365/"/>
+        <updated>2023-10-24T16:51:55.000Z</updated>
+        <summary type="html"><![CDATA[Small and mid-sized manufacturers squeaking by with entry-level software such as QuickBooks or Excel spreadsheets have questions. For example, is our software slowing us down, and how do we know …  How to get a Manufacturing Business Ready for Dynamics 365 Read More »
+The post How to get a Manufacturing Business Ready for Dynamics 365 appeared first on ERP Software Blog.
+Custom Backgrounds in Microsoft Teams and How to set up Your ERP Company Images
+The Benefits and Limitations to Using Parse JSON  |  Power Automate and Dynamics 365 Business Central
+How to move from Microsoft Dynamics GP to Business Central in a few easy steps]]></summary>
+        <author>
+            <name>Innovia Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics ERP for Formula Manufacturers Improves Scheduling with Vicinity Software]]></title>
+        <id>https://erpsoftwareblog.com/?p=100914</id>
+        <link href="https://erpsoftwareblog.com/2023/10/dynamics-erp-for-formula-manufacturers-improves-scheduling-with-vicinity-software/"/>
+        <updated>2023-10-24T14:13:59.000Z</updated>
+        <summary type="html"><![CDATA[It goes without saying that to accomplish a goal, you need a plan. For formula manufacturers, that plan includes strategic scheduling. Without a schedule, nothing will get done accurately and …  Dynamics ERP for Formula Manufacturers Improves Scheduling with Vicinity Software Read More »
+The post Dynamics ERP for Formula Manufacturers Improves Scheduling with Vicinity Software appeared first on ERP Software Blog.
+Three ways food manufacturers can increase profits today
+The Evolution of Scheduling for Process Manufacturers
+Custom Backgrounds in Microsoft Teams and How to set up Your ERP Company Images]]></summary>
+        <author>
+            <name>Vicinity Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot-generated deployment notes for pipelines are Generally Available (GA)]]></title>
+        <id>copilot-generated-deployment-notes-for-pipelines-are-generally-available-ga</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/copilot-generated-deployment-notes-for-pipelines-are-generally-available-ga/"/>
+        <updated>2023-10-24T13:19:37.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the GA release of Copilot-generated deployment notes, with a few added improvements from the current version.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technology Trends in 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=101439</id>
+        <link href="https://erpsoftwareblog.com/2023/10/technology-trends-in-2024/"/>
+        <updated>2023-10-24T12:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Technology is evolving at a rapid pace, enabling faster change and progress. However, it is not only technology trends and emerging technologies that are evolving, changing technologies impacting other industries …  Technology Trends in 2024 Read More »
+The post Technology Trends in 2024 appeared first on ERP Software Blog.
+eCommerce store features that makes it more valuable
+ERP & eCommerce Integration Trends in 2023
+Significance of Dynamics GP & Shopify Integration]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Add More Columns to Pages for Better Insight]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-add-more-columns-to-pages-for-better-insight</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-add-more-columns-to-pages-for-better-insight"/>
+        <updated>2023-10-24T12:00:54.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WorkplaceDudes Meetup #2]]></title>
+        <id>https://365community.online/workplacedudes-meetup-2</id>
+        <link href="https://365community.online/workplacedudes-meetup-2"/>
+        <updated>2023-10-24T10:36:38.000Z</updated>
+        <summary type="html"><![CDATA[On 4 October 2023 we held our 2nd Meetup at the NN Group in The Hague. Man man, what a location this was. We were guests at the NN Group's […]]]></summary>
+        <author>
+            <name>Jeroen Burgerhout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Dusshera 2023: PowerApps Style – YouTube]]></title>
+        <id>https://365community.online/happy-dusshera-2023-powerapps-style-youtube</id>
+        <link href="https://365community.online/happy-dusshera-2023-powerapps-style-youtube"/>
+        <updated>2023-10-24T10:10:23.000Z</updated>
+        <summary type="html"><![CDATA[Happy Dusshera 2023: PowerApps Style source]]></summary>
+        <author>
+            <name>Deepesh Somani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Install Microsoft SQL Server 2022: Install SQL Server Reporting Services]]></title>
+        <id>https://365community.online/how-to-install-microsoft-sql-server-2022-install-sql-server-reporting-services</id>
+        <link href="https://365community.online/how-to-install-microsoft-sql-server-2022-install-sql-server-reporting-services"/>
+        <updated>2023-10-24T10:00:37.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the series on How To Install Microsoft SQL Server 2022; I do not claim to be an expert on SQL Server and this series is […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upload documents as a source for generative answers (preview)]]></title>
+        <id>https://365community.online/upload-documents-as-a-source-for-generative-answers-preview</id>
+        <link href="https://365community.online/upload-documents-as-a-source-for-generative-answers-preview"/>
+        <updated>2023-10-24T08:33:00.000Z</updated>
+        <summary type="html"><![CDATA[If you attended Microsoft’s Power Platform Conference this month, then you probably heard about some of the new (preview) features that were announced for Power Virtual Agents! If you are […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upload documents as a source for generative answers (preview) – YouTube]]></title>
+        <id>https://365community.online/upload-documents-as-a-source-for-generative-answers-preview-youtube</id>
+        <link href="https://365community.online/upload-documents-as-a-source-for-generative-answers-preview-youtube"/>
+        <updated>2023-10-24T08:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Upload documents as a source for generative answers (preview) In this video I will discuss the ability to upload documents as a source for generative answers in Power Virtual Agents, […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365PPUG Birmingham – 2nd Speaker Announcement November 2023]]></title>
+        <id>https://365community.online/d365ppug-birmingham-2nd-speaker-announcement-november-2023</id>
+        <link href="https://365community.online/d365ppug-birmingham-2nd-speaker-announcement-november-2023"/>
+        <updated>2023-10-24T08:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Registrations are open for our next Dynamics 365 / Power Platform event in Birmingham. And this time I am very pleased to announce another amazing guest speaker. You can find […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plugins 4 Dummies – Solution Import]]></title>
+        <id>https://365community.online/plugins-4-dummies-solution-import</id>
+        <link href="https://365community.online/plugins-4-dummies-solution-import"/>
+        <updated>2023-10-24T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Click here to view all Plugins 4 Dummies Videos One of the most important things to succeed when developing is the development environment. Once you have control over this, you […]]]></summary>
+        <author>
+            <name>Thomas Sandsør</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sales Access To Marketing Insights And Timeline Interactions]]></title>
+        <id>https://365community.online/sales-access-to-marketing-insights-and-timeline-interactions</id>
+        <link href="https://365community.online/sales-access-to-marketing-insights-and-timeline-interactions"/>
+        <updated>2023-10-24T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Often as consultants or administrators, we forget that we have higher levels of access than other users. The same can be said for users who have been given one of […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory Management Software for Dynamics 365BC from Netstock]]></title>
+        <id>https://erpsoftwareblog.com/?p=101398</id>
+        <link href="https://erpsoftwareblog.com/2023/10/inventory-management-software-for-dynamics-365bc-from-netstock/"/>
+        <updated>2023-10-24T06:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Netstock, a leader in inventory management software, recently conducted a survey of small and mid-sized businesses. The survey was designed to illuminate inventory management challenges faced by wholesale, retail, and …  Inventory Management Software for Dynamics 365BC from Netstock Read More »
+The post Inventory Management Software for Dynamics 365BC from Netstock appeared first on ERP Software Blog.
+Procuring Mobile Devices for Business Central
+Choosing the right Inventory Management WMS Supply Chain Platform
+Revolutionizing Production Scheduling: Unveiling MxAPS 4.7 for Business Central]]></summary>
+        <author>
+            <name>Netstock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Open-Ended Leave of Absence in Dynamics 365 HR]]></title>
+        <id>http://paragchapre.com/?p=12196</id>
+        <link href="https://paragchapre.com/open-ended-leave/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=open-ended-leave"/>
+        <updated>2023-10-24T06:02:32.000Z</updated>
+        <summary type="html"><![CDATA[You can submit requests for a leave of absence that is open-ended and view the status of your leave requests in Dynamics 365 Human Resources.
+The post Managing Open-Ended Leave of Absence in Dynamics 365 HR appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fixed – Feature ‘Semantic classification, Document Highlights, etc. ’ is currently unavailable due to internal error  – Visual Studio]]></title>
         <id>https://365community.online/fixed-feature-semantic-classification-document-highlights-etc-is-currently-unavailable-due-to-internal-error-visual-studio</id>
