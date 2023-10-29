@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-28T01:03:30.135Z</updated>
+    <updated>2023-10-29T01:09:50.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Integration: Using Service Principal authentication on Custom connectors with Microsoft Graph Application Permissions]]></title>
+        <id>https://365community.online/streamlining-integration-using-service-principal-authentication-on-custom-connectors-with-microsoft-graph-application-permissions</id>
+        <link href="https://365community.online/streamlining-integration-using-service-principal-authentication-on-custom-connectors-with-microsoft-graph-application-permissions"/>
+        <updated>2023-10-28T10:50:49.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft recently announced a long awaited feature: support for Service Principals in Custom connectors which is currently in Public Preview. This empowers you to authenticate as a service principal instead […]]]></summary>
+        <author>
+            <name>Mohamed Ashiq Faleel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar: DeDupeD – Our New App to Detect, Prevent, and Merge Duplicate Dynamics 365 CRM Records!]]></title>
+        <id>https://365community.online/webinar-deduped-our-new-app-to-detect-prevent-and-merge-duplicate-dynamics-365-crm-records</id>
+        <link href="https://365community.online/webinar-deduped-our-new-app-to-detect-prevent-and-merge-duplicate-dynamics-365-crm-records"/>
+        <updated>2023-10-28T05:21:05.000Z</updated>
+        <summary type="html"><![CDATA[Are you tired of grappling with the challenges of managing duplicate records in your Microsoft Dynamics 365 CRM system? You’re not alone if you’re nodding your head in agreement. Many […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dropshipping Streamlined with Microsoft Dynamics 365 Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=100840</id>
@@ -32,6 +52,17 @@ Scalable Solutions: How Business Central Warehouse Management adapts to growing 
 Inventory Management (WMS) just got Smarter!]]></summary>
         <author>
             <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transform technician experience with the new Field Service Mobile UX]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/10/27/transform-technician-experience-with-the-new-field-service-mobile-ux/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/10/27/transform-technician-experience-with-the-new-field-service-mobile-ux/"/>
+        <updated>2023-10-27T15:27:57.000Z</updated>
+        <summary type="html"><![CDATA[This blog details the new capabilities on how technicians can benefit from this new streamlined experience, which cuts down the number of taps required to complete a booking in nearly half! 
+The post Transform technician experience with the new Field Service Mobile UX appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Dhruv Goel</name>
         </author>
     </entry>
     <entry>
@@ -243,6 +274,17 @@ How to monitor your open tasks easily in DynaRent
 Service agreements and service-level agreements in DynaRent]]></summary>
         <author>
             <name>Calsoft Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release wave 2: Transforming customer experiences with generative AI and Microsoft Dynamics 365]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/26/release-wave-2-transforming-customer-experiences-with-generative-ai-and-microsoft-dynamics-365/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/26/release-wave-2-transforming-customer-experiences-with-generative-ai-and-microsoft-dynamics-365/"/>
+        <updated>2023-10-26T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[In business applications, we’re using generative AI to break down silos and bridge gaps between data, insights, and people so sellers, marketers, and customer experience (CX) professionals can deliver exceptional experiences across the entire customer journey, seamlessly.
+The post Release wave 2: Transforming customer experiences with generative AI and Microsoft Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Lori Lamkin</name>
         </author>
     </entry>
     <entry>
@@ -26331,16 +26373,6 @@ Lets begin with the most common condit…]]></summary>
         <summary type="html"><![CDATA[Data integration is a key success factor in almost every implementation. A primary concern of my customers is the speed that data can be imported, especially if there are vast amounts of data and a sm...(read more)]]></summary>
         <author>
             <name>Said Nikjou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual studio – Copy all from Find Symbol Results]]></title>
-        <id>http://shashidotnet.wordpress.com/?p=988</id>
-        <link href="https://shashidotnet.wordpress.com/2021/10/29/visual-studio-copy-all-from-find-symbol-results/"/>
-        <updated>2021-10-29T03:37:19.000Z</updated>
-        <summary type="html"><![CDATA[can-i-copy-multiple-rows-from-the-visual-studio-find-symbol-results-window https://stackoverflow.com/questions/1173808/can-i-copy-multiple-rows-from-the-visual-studio-find-symbol-results-window Sometimes it is probably useful to copy all the data from the Symbol results window in Visual studio. Either to process it manually or to run some analysis on it (Or whatever reason you fancy). Unfortunately Visual studio only allows you to copy one result at a time from that window which doesnt … Continue reading Visual studio – Copy all from Find Symbol Results →]]></summary>
-        <author>
-            <name>Shashi Sadasivan</name>
         </author>
     </entry>
     <entry>

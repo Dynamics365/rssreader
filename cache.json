@@ -4885,6 +4885,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/streamlining-integration-using-service-principal-authentication-on-custom-connectors-with-microsoft-graph-application-permissions",
+          "author": "Mohamed Ashiq Faleel",
+          "description": "Microsoft recently announced a long awaited feature: support for Service Principals in Custom connectors which is currently in Public Preview. This empowers you to authenticate as a service principal instead […]",
+          "link": "https://365community.online/streamlining-integration-using-service-principal-authentication-on-custom-connectors-with-microsoft-graph-application-permissions",
+          "publishedOn": "2023-10-28T10:50:49.000Z",
+          "wordCount": 3202,
+          "title": "Streamlining Integration: Using Service Principal authentication on Custom connectors with Microsoft Graph Application Permissions",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Streamlining-Integration-Using-Service-Principal-authentication-on-Custom-connectors-with.jpg?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/webinar-deduped-our-new-app-to-detect-prevent-and-merge-duplicate-dynamics-365-crm-records",
+          "author": "Inogic",
+          "description": "Are you tired of grappling with the challenges of managing duplicate records in your Microsoft Dynamics 365 CRM system? You’re not alone if you’re nodding your head in agreement. Many […]",
+          "link": "https://365community.online/webinar-deduped-our-new-app-to-detect-prevent-and-merge-duplicate-dynamics-365-crm-records",
+          "publishedOn": "2023-10-28T05:21:05.000Z",
+          "wordCount": 3466,
+          "title": "Webinar: DeDupeD – Our New App to Detect, Prevent, and Merge Duplicate Dynamics 365 CRM Records!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Webinar-YT-Thumbnail-Format-6.png?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/dynamics-365-business-central-introducing-the-app-update-cadence-setting",
           "author": "Stefano Demiliani",
           "description": "With Dynamics 365 Business Central SaaS, until now AppSource apps are automatically updated to the latest available release when a mayor update is aplied to the tenant. Now things finally […]",
@@ -9696,6 +9716,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/10/27/transform-technician-experience-with-the-new-field-service-mobile-ux/",
+          "author": "Dhruv Goel",
+          "description": "This blog details the new capabilities on how technicians can benefit from this new streamlined experience, which cuts down the number of taps required to complete a booking in nearly half! \nThe post Transform technician experience with the new Field Service Mobile UX appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/10/27/transform-technician-experience-with-the-new-field-service-mobile-ux/",
+          "publishedOn": "2023-10-27T15:27:57.000Z",
+          "wordCount": 2741,
+          "title": "Transform technician experience with the new Field Service Mobile UX",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/02/M365CO20_BusinessVoice_008-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/26/release-wave-2-transforming-customer-experiences-with-generative-ai-and-microsoft-dynamics-365/",
+          "author": "Lori Lamkin",
+          "description": "In business applications, we’re using generative AI to break down silos and bridge gaps between data, insights, and people so sellers, marketers, and customer experience (CX) professionals can deliver exceptional experiences across the entire customer journey, seamlessly.\nThe post Release wave 2: Transforming customer experiences with generative AI and Microsoft Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/26/release-wave-2-transforming-customer-experiences-with-generative-ai-and-microsoft-dynamics-365/",
+          "publishedOn": "2023-10-26T16:15:00.000Z",
+          "wordCount": 2944,
+          "title": "Release wave 2: Transforming customer experiences with generative AI and Microsoft Dynamics 365",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/10/CLO22_HybridWork_056_1200.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/25/microsoft-business-applications-launch-event-introduces-wave-of-new-ai-powered-capabilities-for-dynamics-365-and-power-platform/",
           "author": "Charles Lamanna",
           "description": "Today, at the Microsoft Business Applications Launch Event, we kicked off the 2023 release wave 2 for Microsoft Dynamics 365 and Microsoft Power Platform, a six-month rollout of new and enhanced capabilities scheduled for release between October 2023 and March 2024.\nThe post Microsoft Business Applications Launch Event introduces wave of new AI-powered capabilities for Dynamics 365 and Power Platform appeared first on Microsoft Dynamics 365 Blog.",
@@ -13657,16 +13697,6 @@
           "publishedOn": "2023-09-06T04:13:56.000Z",
           "wordCount": 3403,
           "title": "Make your VM run faster",
-          "imageUrl": "https://shashidotnet.files.wordpress.com/2020/09/lowpolypotrait_zia.png?w=200"
-        },
-        {
-          "id": "http://shashidotnet.wordpress.com/?p=988",
-          "author": "Shashi Sadasivan",
-          "description": "can-i-copy-multiple-rows-from-the-visual-studio-find-symbol-results-window https://stackoverflow.com/questions/1173808/can-i-copy-multiple-rows-from-the-visual-studio-find-symbol-results-window Sometimes it is probably useful to copy all the data from the Symbol results window in Visual studio. Either to process it manually or to run some analysis on it (Or whatever reason you fancy). Unfortunately Visual studio only allows you to copy one result at a time from that window which doesnt … Continue reading Visual studio – Copy all from Find Symbol Results →",
-          "link": "https://shashidotnet.wordpress.com/2021/10/29/visual-studio-copy-all-from-find-symbol-results/",
-          "publishedOn": "2021-10-29T03:37:19.000Z",
-          "wordCount": 3078,
-          "title": "Visual studio – Copy all from Find Symbol Results",
           "imageUrl": "https://shashidotnet.files.wordpress.com/2020/09/lowpolypotrait_zia.png?w=200"
         }
       ]
