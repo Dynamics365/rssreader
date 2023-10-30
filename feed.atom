@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-10-29T01:09:50.400Z</updated>
+    <updated>2023-10-30T01:06:23.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[60 Tips in 60 Minutes App]]></title>
+        <id>https://365community.online/60-tips-in-60-minutes-app</id>
+        <link href="https://365community.online/60-tips-in-60-minutes-app"/>
+        <updated>2023-10-29T21:23:46.000Z</updated>
+        <summary type="html"><![CDATA[Heidi Neuhauser and I prepared our 60 Tips in 60 Minutes session recently for Community Summit and I presented with Mallory Lawhorne. This year we wanted to make it even […]]]></summary>
+        <author>
+            <name>Kylie Kiser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 HR Guru ⭐ PVA + GPT]]></title>
+        <id>https://365community.online/d365-hr-guru-%e2%ad%90-pva-gpt</id>
+        <link href="https://365community.online/d365-hr-guru-%e2%ad%90-pva-gpt"/>
+        <updated>2023-10-29T20:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Today, I’m refreshing some of my knowledge around Power Virtual Agents and GPT and I couldn’t think of anything better than a Dynamics 365 Human Resources to help users with […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Default Description for free text invoice transactions in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2776</id>
+        <link href="https://exploredynamics365.home.blog/2023/10/29/default-description-for-free-text-invoice-transactions-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-10-29T13:50:03.000Z</updated>
+        <summary type="html"><![CDATA[I recently had a discussion with a customer who plans to utilize a free text invoice for processing customer invoices. One specific requirement they have is the ability to input a description in the header and ensure that it is recorded in both customer and ledger transactions. In D365, the issue lies in the absence […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Default Description for free text invoice transactions in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2776</id>
+        <link href="https://exploredynamics365.home.blog/2023/10/29/default-description-for-free-text-invoice-transactions-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2023-10-29T13:50:03.000Z</updated>
+        <summary type="html"><![CDATA[I recently had a discussion with a customer who plans to utilize a free text invoice for processing customer invoices. One specific requirement they have is the ability to input a description in the header and ensure that it is recorded in both customer and ledger transactions. In D365, the issue lies in the absence […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory valuation(FIFO & LIFO) in Microsoft Dynamics 365 Finance and Operations: Part-3]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2773</id>
+        <link href="https://exploredynamics365.home.blog/2023/10/29/inventory-valuationfifo-lifo-in-microsoft-dynamics-365-finance-and-operations-part-3/"/>
+        <updated>2023-10-29T13:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to part 3 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the FIFO (Fist in First Out) and LIFO (Last in first out) valuation method in D365, delving into the following key concepts: -Part-1: https://youtu.be/7aF8fye1sIQ -Part-2: https://youtu.be/pynTucydA7s -Blog: https://exploredynamics365.home.blog/ -YouTube: https://youtube.com/@DynamicsClass […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory valuation(FIFO & LIFO) in Microsoft Dynamics 365 Finance and Operations: Part-3]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2773</id>
+        <link href="https://exploredynamics365.home.blog/2023/10/29/inventory-valuationfifo-lifo-in-microsoft-dynamics-365-finance-and-operations-part-3/"/>
+        <updated>2023-10-29T13:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to part 3 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the FIFO (Fist in First Out) and LIFO (Last in first out) valuation method in D365, delving into the following key concepts: -Part-1: https://youtu.be/7aF8fye1sIQ -Part-2: https://youtu.be/pynTucydA7s -Blog: https://exploredynamics365.home.blog/ -YouTube: https://youtube.com/@DynamicsClass […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you want to meet me @ Directions EMEA…]]></title>
+        <id>https://365community.online/if-you-want-to-meet-me-directions-emea</id>
+        <link href="https://365community.online/if-you-want-to-meet-me-directions-emea"/>
+        <updated>2023-10-29T12:14:34.000Z</updated>
+        <summary type="html"><![CDATA[… the best place is probably where there’s a beer Not sure if there’s a good beer in France but I’m sure that at Directions we’ll have it! Despite that, […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SysGlobalCache versus SysGlobalObjectCache in D365FO]]></title>
+        <id>https://ax.docentric.com/?p=27582</id>
+        <link href="https://ax.docentric.com/sysglobalcache-versus-sysglobalobjectcache-in-d365fo/"/>
+        <updated>2023-10-29T09:47:48.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever noticed how Dynamics 365 for Finance and Operations (D365FO) initially loads at a snail's pace 🐌 but then speeds up 🚀 when you revisit the same form? That's the magic of caching at work! Caching boosts your application's speed and performance by […]
+The post SysGlobalCache versus SysGlobalObjectCache in D365FO appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Jovica Zivkovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Directions EMEA 2023]]></title>
+        <id>https://365community.online/my-directions-emea-2023</id>
+        <link href="https://365community.online/my-directions-emea-2023"/>
+        <updated>2023-10-29T08:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Directions EMEA 2023 is just around the corner, and I’m looking very much forward to it!  And so should you! ;-). Since last year in Hamburg – which was clearly […]]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streamlining Integration: Using Service Principal authentication on Custom connectors with Microsoft Graph Application Permissions]]></title>
         <id>https://365community.online/streamlining-integration-using-service-principal-authentication-on-custom-connectors-with-microsoft-graph-application-permissions</id>

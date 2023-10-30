@@ -4885,6 +4885,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/60-tips-in-60-minutes-app",
+          "author": "Kylie Kiser",
+          "description": "Heidi Neuhauser and I prepared our 60 Tips in 60 Minutes session recently for Community Summit and I presented with Mallory Lawhorne. This year we wanted to make it even […]",
+          "link": "https://365community.online/60-tips-in-60-minutes-app",
+          "publishedOn": "2023-10-29T21:23:46.000Z",
+          "wordCount": 3104,
+          "title": "60 Tips in 60 Minutes App",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/60-Tips-in-60-Minutes-App.png?fit=1200%2C679&ssl=1"
+        },
+        {
+          "id": "https://365community.online/d365-hr-guru-%e2%ad%90-pva-gpt",
+          "author": "Ana Inés Urrutia",
+          "description": "Today, I’m refreshing some of my knowledge around Power Virtual Agents and GPT and I couldn’t think of anything better than a Dynamics 365 Human Resources to help users with […]",
+          "link": "https://365community.online/d365-hr-guru-%e2%ad%90-pva-gpt",
+          "publishedOn": "2023-10-29T20:04:20.000Z",
+          "wordCount": 3134,
+          "title": "D365 HR Guru ⭐ PVA + GPT",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/D365-HR-Guru-PVA-GPT.png?fit=1000%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/if-you-want-to-meet-me-directions-emea",
+          "author": "Stefano Demiliani",
+          "description": "… the best place is probably where there’s a beer Not sure if there’s a good beer in France but I’m sure that at Directions we’ll have it! Despite that, […]",
+          "link": "https://365community.online/if-you-want-to-meet-me-directions-emea",
+          "publishedOn": "2023-10-29T12:14:34.000Z",
+          "wordCount": 3186,
+          "title": "If you want to meet me @ Directions EMEA…",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/If-you-want-to-meet-me-@-Directions-EMEA….jpeg?fit=1200%2C627&ssl=1"
+        },
+        {
+          "id": "https://365community.online/my-directions-emea-2023",
+          "author": "Waldo",
+          "description": "Directions EMEA 2023 is just around the corner, and I’m looking very much forward to it!  And so should you! ;-). Since last year in Hamburg – which was clearly […]",
+          "link": "https://365community.online/my-directions-emea-2023",
+          "publishedOn": "2023-10-29T08:26:03.000Z",
+          "wordCount": 3123,
+          "title": "My Directions EMEA 2023",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/My-Directions-EMEA-2023.png?fit=1000%2C388&ssl=1"
+        },
+        {
           "id": "https://365community.online/streamlining-integration-using-service-principal-authentication-on-custom-connectors-with-microsoft-graph-application-permissions",
           "author": "Mohamed Ashiq Faleel",
           "description": "Microsoft recently announced a long awaited feature: support for Service Principals in Custom connectors which is currently in Public Preview. This empowers you to authenticate as a service principal instead […]",
@@ -11775,6 +11815,26 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2776",
+          "author": "Saurabh Bharti",
+          "description": "I recently had a discussion with a customer who plans to utilize a free text invoice for processing customer invoices. One specific requirement they have is the ability to input a description in the header and ensure that it is recorded in both customer and ledger transactions. In D365, the issue lies in the absence […]",
+          "link": "https://exploredynamics365.home.blog/2023/10/29/default-description-for-free-text-invoice-transactions-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-10-29T13:50:03.000Z",
+          "wordCount": 2675,
+          "title": "Default Description for free text invoice transactions in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/Hrx8P-XzHwE/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2773",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to part 3 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the FIFO (Fist in First Out) and LIFO (Last in first out) valuation method in D365, delving into the following key concepts: -Part-1: https://youtu.be/7aF8fye1sIQ -Part-2: https://youtu.be/pynTucydA7s -Blog: https://exploredynamics365.home.blog/ -YouTube: https://youtube.com/@DynamicsClass […]",
+          "link": "https://exploredynamics365.home.blog/2023/10/29/inventory-valuationfifo-lifo-in-microsoft-dynamics-365-finance-and-operations-part-3/",
+          "publishedOn": "2023-10-29T13:48:31.000Z",
+          "wordCount": 2660,
+          "title": "Inventory valuation(FIFO & LIFO) in Microsoft Dynamics 365 Finance and Operations: Part-3",
+          "imageUrl": "http://img.youtube.com/vi/ZUq0BfbDUYk/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2768",
           "author": "Saurabh Bharti",
           "description": "Lets start the week with next part of inventory valuation in MS Dynamics 365 finance and operations Welcome to part 2 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the weighted average valuation method in D365, delving into the following key concepts: […]",
@@ -12341,6 +12401,26 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2776",
+          "author": "Saurabh Bharti",
+          "description": "I recently had a discussion with a customer who plans to utilize a free text invoice for processing customer invoices. One specific requirement they have is the ability to input a description in the header and ensure that it is recorded in both customer and ledger transactions. In D365, the issue lies in the absence […]",
+          "link": "https://exploredynamics365.home.blog/2023/10/29/default-description-for-free-text-invoice-transactions-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2023-10-29T13:50:03.000Z",
+          "wordCount": 2675,
+          "title": "Default Description for free text invoice transactions in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/Hrx8P-XzHwE/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2773",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to part 3 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the FIFO (Fist in First Out) and LIFO (Last in first out) valuation method in D365, delving into the following key concepts: -Part-1: https://youtu.be/7aF8fye1sIQ -Part-2: https://youtu.be/pynTucydA7s -Blog: https://exploredynamics365.home.blog/ -YouTube: https://youtube.com/@DynamicsClass […]",
+          "link": "https://exploredynamics365.home.blog/2023/10/29/inventory-valuationfifo-lifo-in-microsoft-dynamics-365-finance-and-operations-part-3/",
+          "publishedOn": "2023-10-29T13:48:31.000Z",
+          "wordCount": 2660,
+          "title": "Inventory valuation(FIFO & LIFO) in Microsoft Dynamics 365 Finance and Operations: Part-3",
+          "imageUrl": "http://img.youtube.com/vi/ZUq0BfbDUYk/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2768",
           "author": "Saurabh Bharti",
@@ -13806,6 +13886,16 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=27582",
+          "author": "Jovica Zivkovic",
+          "description": "Have you ever noticed how Dynamics 365 for Finance and Operations (D365FO) initially loads at a snail's pace 🐌 but then speeds up 🚀 when you revisit the same form? That's the magic of caching at work! Caching boosts your application's speed and performance by […]\nThe post SysGlobalCache versus SysGlobalObjectCache in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/sysglobalcache-versus-sysglobalobjectcache-in-d365fo/",
+          "publishedOn": "2023-10-29T09:47:48.000Z",
+          "wordCount": 14108,
+          "title": "SysGlobalCache versus SysGlobalObjectCache in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/D365Blog_SysGlobalCache_Title.jpg"
+        },
+        {
           "id": "https://ax.docentric.com/?p=27547",
           "author": "Slobodan Vucicevic",
           "description": "Adding file attachments to a record in Microsoft Dynamics 365 Finance and Operations (D365FO) is a straightforward process from the user's perspective. The user only clicks on the paperclip icon, selects the file for the attachment, and the attachment is added to the record. When […]\nThe post Why Does DocuRef Have Two CompanyId Fields? appeared first on Docentric AX.",
@@ -14090,7 +14180,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "http://paragchapre.com/",
+      "siteUrl": "https://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12211",
