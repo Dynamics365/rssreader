@@ -2588,6 +2588,16 @@
       "siteUrl": "https://impulztech.com/category/dynamics-365/",
       "articles": [
         {
+          "id": "https://impulztech.com/?p=3255",
+          "author": "Muhammad Ali",
+          "description": "Azure DevOps Pipelines is a cloud service that you can use to automatically build, test and deploy your code to (m)any environments. Since Apr 2019 you can use new Azure DevOps tasks for Microsoft Dynamics 365 to upload and deploy your application deployable package to LCS environments. This blog describes how to create build and […]\nThe post Create Build & Development Server In D365 FO – Part 1 appeared first on Impulz Technologies LLC.",
+          "link": "https://impulztech.com/create-build-development-server-d365-finance-operations-part-1/",
+          "publishedOn": "2023-11-01T09:46:36.000Z",
+          "wordCount": 2139,
+          "title": "Create Build & Development Server In D365 FO – Part 1",
+          "imageUrl": "https://impulztech.com/wp-content/uploads/2023/10/main-1-300x235.png"
+        },
+        {
           "id": "https://impulztech.com/?p=3231",
           "author": "Muhammad Ali",
           "description": "Transferring software deployable packages to the Asset Library is actively enabled by the connection between DevOps and LCS. Here I am describing each step in detail that how can you setup connection between Azure DevOps & LCS so it will be easy for you to deploy your dynamics packages easily in LCS Environment. 1-Workflow: After […]\nThe post How To Setup A Connection Between Azure DevOps & LCS appeared first on Impulz Technologies LLC.",
@@ -2720,6 +2730,46 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=101685",
+          "author": "iCepts Technology Group, Inc.",
+          "description": "What is Microsoft Dynamics Business Central and Microsoft Dynamics Business Central Pricing questions are common with this popular business management solution offered by iCepts Technology Group, Inc.  We receive many …  Dynamics Business Central Pricing Explained Read More »\nThe post Dynamics Business Central Pricing Explained appeared first on ERP Software Blog.\nTransitioning to Microsoft Business Central FAQ\nWhat is Microsoft Dynamics 365 Business Central? What happened to NAV?\nHow to Buy Microsoft Business Central?",
+          "link": "https://erpsoftwareblog.com/2023/11/dynamics-business-central-pricing-explained/",
+          "publishedOn": "2023-11-01T19:04:06.000Z",
+          "wordCount": 7787,
+          "title": "Dynamics Business Central Pricing Explained",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101342",
+          "author": "Insight Works",
+          "description": "Learn how to streamline inventory management using the power of the Advanced Inventory Count app. Explore the benefits of real-time updates.\nThe post Cycle Counting vs. Full Physical Counts: A Comprehensive Inventory Insight appeared first on ERP Software Blog.\nRevolutionizing Production Scheduling: Unveiling MxAPS 4.7 for Business Central\nEnhanced Planning Pack for Dynamics 365 Business Central\nQuote Generation with Product Configurator for Business Central",
+          "link": "https://erpsoftwareblog.com/2023/11/optimize-inventory-advanced-inventory-count-app/",
+          "publishedOn": "2023-11-01T15:11:00.000Z",
+          "wordCount": 7475,
+          "title": "Cycle Counting vs. Full Physical Counts: A Comprehensive Inventory Insight",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Logo-CUBE.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101679",
+          "author": "Techcronus Inc.",
+          "description": "Microsoft Dynamics 365 CRM For Non-Profit is a name you’re likely to hear very frequently in the nonprofit tech space over the next several years. Adopt a smart CRM solution for your …  Microsoft Dynamics 365 CRM For Non-Profit Organizations Read More »\nThe post Microsoft Dynamics 365 CRM For Non-Profit Organizations appeared first on ERP Software Blog.\nCreate a Closed-Loop Analysis, Planning, and Reporting Process\nMicrosoft NAV 2016 Version Upgrade! Never Worry!!\nASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey",
+          "link": "https://erpsoftwareblog.com/2023/11/microsoft-dynamics-365-crm-for-non-profit-organizations/",
+          "publishedOn": "2023-11-01T05:32:22.000Z",
+          "wordCount": 8612,
+          "title": "Microsoft Dynamics 365 CRM For Non-Profit Organizations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Dynamics-365_-Accelerating-Non-Profit-Organization-with-CRM-Software-1024x576-1.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101676",
+          "author": "Techcronus Inc.",
+          "description": "NetSuite and Dynamics 365 Business Central are both popular cloud-based ERP (Enterprise Resource Planning) systems. Both solutions offer a suite of tools for financial management, customer relationship management, supply chain management, …  ERP Comparison: NetSuite vs. Dynamics 365 Business Central Read More »\nThe post ERP Comparison: NetSuite vs. Dynamics 365 Business Central appeared first on ERP Software Blog.\nCreate a Closed-Loop Analysis, Planning, and Reporting Process\nMicrosoft NAV 2016 Version Upgrade! Never Worry!!\nCustomize Your Microsoft Dynamics AX…?? Learn from Travel Industry",
+          "link": "https://erpsoftwareblog.com/2023/11/erp-comparison-netsuite-vs-dynamics-365-business-central/",
+          "publishedOn": "2023-11-01T04:58:10.000Z",
+          "wordCount": 7837,
+          "title": "ERP Comparison: NetSuite vs. Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Netsuite-vs-Dynamics-365-Business-Central-Comparing-Both-ERP-Systems-1-1024x576-1.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=101669",
           "author": "Fidesic AP",
@@ -4188,6 +4238,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=59677",
+          "author": "The Encore Team",
+          "description": "How To Use Asset Leasing in Dynamics 365 Finance & Operations\nThe asset leasing module in Dynamics 365 Finance & Operations allows finance team members to create lease contracts containing fair value, implicit rate, lease terms, and all the other pertinent info for assets. The system requires you to follow the steps in a specific order for the functionality to work. Below are the instructions, written...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-use-asset-leasing-in-dynamics-365-finance-operations/",
+          "publishedOn": "2023-11-01T15:00:56.000Z",
+          "wordCount": 1850,
+          "title": "How To Use Asset Leasing in Dynamics 365 Finance & Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=59852",
           "author": "Allen Shannon",
           "description": "Automating Warehouse Management in Dynamics 365 Finance & Operations (Video)\nThis recorded webinar shows you what you need to prepare to automate your warehouse management in Dynamics 365 Finance & Operations. This will be useful to production managers and warehouse managers, especially in companies currently using the “Inventory management” module and preparing or considering moving to the “Warehouse management” module inside F&O. ﻿﻿ We explain...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -5014,6 +5074,111 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/power-automate-blueprint-accessing-azure-portal-backend-apis-and-the-intricacies-of-main-iam-ad-ext-azure-com",
+          "author": "Richard Wilson",
+          "description": "In the realms of digital infrastructure management, automation emerges as a pivotal ally, especially when confronting repetitive and time-sensitive tasks. A recent endeavor led me to a scenario where automating […]",
+          "link": "https://365community.online/power-automate-blueprint-accessing-azure-portal-backend-apis-and-the-intricacies-of-main-iam-ad-ext-azure-com",
+          "publishedOn": "2023-11-01T19:36:00.000Z",
+          "wordCount": 3153,
+          "title": "Power Automate Blueprint Accessing Azure Portal Backend APIs and the Intricacies of main.iam.ad.ext.azure.com",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/use-suppressduplicatedetection-parameter-of-request-to-throw-an-exception-in-case-of-duplicates-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "We can make use SuppressDuplicateDetection optional parameter of the Request if we want the configured duplicate detection rules to run and throw an exception while creating or updating the record. […]",
+          "link": "https://365community.online/use-suppressduplicatedetection-parameter-of-request-to-throw-an-exception-in-case-of-duplicates-dataverse-dynamics-365",
+          "publishedOn": "2023-11-01T19:00:00.000Z",
+          "wordCount": 3215,
+          "title": "Use SuppressDuplicateDetection parameter of Request to throw an exception in case of duplicates – Dataverse / Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Use-SuppressDuplicateDetection-parameter-of-Request-to-throw-an-exception-in.jpeg?fit=900%2C1200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-logic-apps-and-azure-api-management-a-symphony-of-integration",
+          "author": "Adnane Dalhi",
+          "description": "Hello, integration maestros! welcome to another symphony of integration that will harmonize your understanding of Azure Logic Apps and Azure API Management (APIM). In this orchestration of data and API, […]",
+          "link": "https://365community.online/azure-logic-apps-and-azure-api-management-a-symphony-of-integration",
+          "publishedOn": "2023-11-01T17:09:41.000Z",
+          "wordCount": 3181,
+          "title": "Azure Logic Apps and Azure API Management: A Symphony of Integration",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Azure-Logic-Apps-and-Azure-API-Management-A-Symphony-of.png?fit=722%2C609&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-find-all-references-now-works-on-triggers-system-methods-and-trigger-events",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-find-all-references-now-works-on-triggers-system-methods-and-trigger-events",
+          "publishedOn": "2023-11-01T15:00:35.000Z",
+          "wordCount": 3275,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Find All References Now Works on Triggers, System Methods, and Trigger Events",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2023-Wave.png?fit=780%2C283&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-get-the-al-language-extension-in-prerelease-versions-on-visual-studio-code-marketplace",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-get-the-al-language-extension-in-prerelease-versions-on-visual-studio-code-marketplace",
+          "publishedOn": "2023-11-01T13:00:56.000Z",
+          "wordCount": 3279,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Get the AL Language Extension in Prerelease Versions on Visual Studio Code Marketplace",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/from-hairdresser-to-power-platform-senior-analyst-exploring-natalie-leenders-tech-and-life-journey",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/496  Meet Natalie Leenders, a Power Platform Senior Analyst who has taken an intriguing journey from hairdresser to tech expert. Take a peek beyond the screens into […]",
+          "link": "https://365community.online/from-hairdresser-to-power-platform-senior-analyst-exploring-natalie-leenders-tech-and-life-journey",
+          "publishedOn": "2023-11-01T13:00:00.000Z",
+          "wordCount": 3203,
+          "title": "From Hairdresser to Power Platform Senior Analyst: Exploring Natalie Leenders' Tech and Life Journey",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/13823752-from-hairdresser-to-power-platform-senior-analyst-exploring-natalie-leenders-tech-and-life-journey.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-dataverse-new-actions-connect-to-multiple-environments-youtube",
+          "author": "Matt Collins",
+          "description": "In this video, I go through the brand new actions for the Microsoft Dataverse Connector, how you can use them to connect to different environments. I show how you can […]",
+          "link": "https://365community.online/microsoft-dataverse-new-actions-connect-to-multiple-environments-youtube",
+          "publishedOn": "2023-11-01T11:33:18.000Z",
+          "wordCount": 3079,
+          "title": "Microsoft Dataverse – New Actions Connect to Multiple Environments – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/1698854482_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-configure-warehouse-receipts",
+          "author": "Ian Grieve",
+          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-configure-warehouse-receipts",
+          "publishedOn": "2023-11-01T11:00:38.000Z",
+          "wordCount": 3232,
+          "title": "In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Configure Warehouse Receipts",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/In-Microsoft-Dynamics-365-Business-Central-Inventory-and-Warehouse-Management.png?fit=1165%2C736&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-bookmark-activities-on-the-timeline-in-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "Introduction In this blog, we will learn about the new feature introduced by Microsoft in Dynamics 365 in the 2023 Release Wave 2. Bookmarks help the user easily and quickly […]",
+          "link": "https://365community.online/how-to-bookmark-activities-on-the-timeline-in-dynamics-365-crm",
+          "publishedOn": "2023-11-01T09:23:01.000Z",
+          "wordCount": 3444,
+          "title": "How to bookmark activities on the timeline in Dynamics 365 CRM",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/1bookmark-activities.jpeg?fit=1200%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/data-entity-export-import-for-feature-management",
+          "author": "Anitha Santosh",
+          "description": "A data entity that is named Feature management lets you export the Feature management settings from one environment and then import them into another environment. This entity updates only existing features. The […]",
+          "link": "https://365community.online/data-entity-export-import-for-feature-management",
+          "publishedOn": "2023-11-01T07:51:37.000Z",
+          "wordCount": 3168,
+          "title": "Data entity Export/Import for Feature Management",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Data-entity-ExportImport-for-Feature-Management.png?fit=1200%2C243&ssl=1"
+        },
         {
           "id": "https://365community.online/preferred-solution-preview-in-dataverse-dynamics-365",
           "author": "Nishant Rana",
@@ -6549,6 +6714,21 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5401",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/11/01/microsoft-bizapps-deutschland-podcast-20/",
+          "publishedOn": "2023-11-01T05:56:16.000Z",
+          "wordCount": 2814,
+          "title": "Microsoft BizApps Deutschland Podcast #20",
+          "enclosure": {
+            "url": "https://dynamicsaxfico.files.wordpress.com/2023/10/2023-10-14_marc_v1.mp3",
+            "length": "24254848",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/10/2023-10-14_collagemark.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5182",
           "author": "Ludwig Reinhard",
           "description": "stepsDownload",
@@ -8082,6 +8262,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=3049",
+          "author": "AnithaEswaran",
+          "description": "A data entity that is named Feature management lets you export the Feature management settings from one environment and then import them into another environment. This entity updates only existing features. The business logic in the entity also helps guarantee that the … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/11/01/data-entity-export-import-for-feature-management/",
+          "publishedOn": "2023-11-01T07:51:37.000Z",
+          "wordCount": 4052,
+          "title": "Data entity Export/Import for Feature Management",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/10/image-14.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=3046",
           "author": "AnithaEswaran",
           "description": "Mainstream support for Dynamics AX 2009 Service Pack 1 (SP1), Dynamics AX 2012, and Dynamics AX 2012 R2 ended on October 9, 2018. Security hotfixes were provided for those three versions through the extended support period, which ended on April … Continue reading →",
@@ -9556,16 +9746,6 @@
           "wordCount": 855,
           "title": "Diagrams.net",
           "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/12/121621_0914_diagramsnet1.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4277",
-          "author": "Kurt Hatlevik",
-          "description": "Today I would like to pay my respect to the free GitHub initiative Recurring Integrations Scheduler (RIS). RIS is a solution that transports files/messages between on-premises folders and D365FO. This is a way to perform good old file integrations, and even for automating import/export of data entities between environments. And without having to develop/program anything. … Continue reading D365 Recurring Integrations Scheduler(RIS)",
-          "link": "https://kurthatlevik.com/2021/11/02/d365-recurring-integrations-schedulerris/",
-          "publishedOn": "2021-11-02T10:18:47.000Z",
-          "wordCount": 1210,
-          "title": "D365 Recurring Integrations Scheduler(RIS)",
-          "imageUrl": "https://kurthatlevik.files.wordpress.com/2021/11/110221_1018_d365recurri1.png"
         }
       ]
     },
@@ -9574,6 +9754,16 @@
       "feedUrl": "https://dynvision365.com/feed/",
       "siteUrl": "https://dynvision365.com",
       "articles": [
+        {
+          "id": "http://dynvision365.com/?p=1393",
+          "author": "adalhix",
+          "description": "Hello, integration maestros! welcome to another symphony of integration that will harmonize your understanding of Azure Logic Apps and Azure API Management (APIM). In this orchestration of data and API, i invite you to take a front-row seat in the theater of API connectivity. Data flows like a cosmic symphony, and the harmony of information … Lire la suite Azure Logic Apps and Azure API Management: A Symphony of Integration →",
+          "link": "https://dynvision365.com/2023/11/01/azure-logic-apps-and-azure-api-management-a-symphony-of-integration/",
+          "publishedOn": "2023-11-01T17:09:41.000Z",
+          "wordCount": 4494,
+          "title": "Azure Logic Apps and Azure API Management: A Symphony of Integration",
+          "imageUrl": "https://adalhix.files.wordpress.com/2023/11/image-29.png"
+        },
         {
           "id": "http://dynvision365.com/?p=1237",
           "author": "adalhix",
@@ -10065,6 +10255,46 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/10/31/enhance-agent-efficiency-and-flexible-work-distribution-with-capacity-profiles/",
+          "author": "Payas Agrawal",
+          "description": "The ability to create agent-specific capacity profiles in Dynamics 365 Customer Service is revolutionizing the way businesses distribute workloads.\nThe post Enhance agent efficiency and flexible work distribution with capacity profiles appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/10/31/enhance-agent-efficiency-and-flexible-work-distribution-with-capacity-profiles/",
+          "publishedOn": "2023-10-31T18:24:23.000Z",
+          "wordCount": 2439,
+          "title": "Enhance agent efficiency and flexible work distribution with capacity profiles",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2019/05/virtual-agent-hero2-image.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/10/31/extend-your-existing-dynamics-365-supply-chain-management-application-to-unlock-a-new-ai-powered-b2b-digital-selling-experience-with-dynamics-365-commerce/",
+          "author": "Omar Choudhry",
+          "description": "Dynamics 365 gives us the cloud-based architecture we require to support the growth requirements of the business. The combination of Dynamics 365, Power Platform, and Azure cloud services provides Peet’s with a scalable and supportable technology foundation for the future.\nThe post Extend your existing Dynamics 365 Supply Chain Management application to unlock a new AI powered B2B digital selling experience with Dynamics 365 Commerce. appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/10/31/extend-your-existing-dynamics-365-supply-chain-management-application-to-unlock-a-new-ai-powered-b2b-digital-selling-experience-with-dynamics-365-commerce/",
+          "publishedOn": "2023-10-31T17:27:57.000Z",
+          "wordCount": 2911,
+          "title": "Extend your existing Dynamics 365 Supply Chain Management application to unlock a new AI powered B2B digital selling experience with Dynamics 365 Commerce.",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/10/CLO22_RemoteHome_046-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/31/microsoft-announces-new-copilot-and-demand-planning-capabilities-for-dynamics-365-supply-chain-management/",
+          "author": "Georg Glantschnig",
+          "description": "Supply chain complexities continue to fundamentally change the way business is done. Improving productivity and resiliency, and fostering innovation amidst rising cost and labor pressures remain key priorities for supply chain leaders.\nThe post Microsoft announces new copilot and demand planning capabilities for Dynamics 365 Supply Chain Management appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/31/microsoft-announces-new-copilot-and-demand-planning-capabilities-for-dynamics-365-supply-chain-management/",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3405,
+          "title": "Microsoft announces new copilot and demand planning capabilities for Dynamics 365 Supply Chain Management",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/10/Blog_D365-Supply-Chain-Management_v2_1200.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/30/ai-infused-personalized-customer-journeys-with-dynamics-365-customer-insights-2023-release-wave-2/",
+          "author": "Jim Nakashima",
+          "description": "As we continue to push the boundaries of what's possible with AI, we're delighted to give you a sneak preview of the new features releasing as part of 2023 release wave 2.\nThe post AI-infused personalized customer journeys with Dynamics 365 Customer Insights 2023 release wave 2 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/30/ai-infused-personalized-customer-journeys-with-dynamics-365-customer-insights-2023-release-wave-2/",
+          "publishedOn": "2023-10-30T15:00:00.000Z",
+          "wordCount": 3116,
+          "title": "AI-infused personalized customer journeys with Dynamics 365 Customer Insights 2023 release wave 2",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/10/D365_Blog_Customer_Insight_Option1_R1.png"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/10/27/transform-technician-experience-with-the-new-field-service-mobile-ux/",
           "author": "Dhruv Goel",
@@ -15497,16 +15727,6 @@
           "wordCount": 6000,
           "title": "Mistake #1 – The Problem with Poor Estimation and the Solution for Better Planning",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1653978077959%2FJl2tEXaQ4.jpg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://d365cliffsnotes.com/16-learning-experiences-stories-of-dynamics-365-finance-and-operations-apps-developer-for-diwali",
-          "author": "Rakesh Darge",
-          "description": "Hi everyone, so November is started, and Diwali, the festival of light, is just begun. It's a moment of bliss to put out this article on some of the victory of light over darkness that Microsoft Dynamics 365 Finance & Operations Apps developers/technical consultants may have experienced.\nIn this article, here are some stories that are shaped learning such as major obstacles to increasing continuous upgrade cost and written code that is not easy to understand, not easy to change by another person (developer) and not in line with best practices.\nPlease comment to share your experiences as a developer/technical consultant while working on Dynamics 365 Finance & Operations Apps implementation, upgrade or business as usual (BAU)\n1. Indicate unfinished code\nLets begin with the most common condit…",
-          "link": "https://d365cliffsnotes.com/16-learning-experiences-stories-of-dynamics-365-finance-and-operations-apps-developer-for-diwali",
-          "publishedOn": "2021-11-01T18:30:00.000Z",
-          "wordCount": 10351,
-          "title": "16 Learning Experiences Stories of Dynamics 365 Finance & Operations Apps Developer for Diwali",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1635786474752%2FQajOe3FYm.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         }
       ]
     },
