@@ -2,10 +2,196 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-11-02T01:05:49.312Z</updated>
+    <updated>2023-11-03T01:06:39.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power for HR: Transform your HR processes with Power Platform Enterprise Templates]]></title>
+        <id>http://paragchapre.com/?p=12220</id>
+        <link href="https://paragchapre.com/power-for-hr-power-platform-enterprise-templates/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=power-for-hr-power-platform-enterprise-templates"/>
+        <updated>2023-11-02T23:58:31.000Z</updated>
+        <summary type="html"><![CDATA["Power for HR: Transform your HR processes with Power Platform Enterprise Templates
+The post Power for HR: Transform your HR processes with Power Platform Enterprise Templates appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use a timer across screens!]]></title>
+        <id>https://365community.online/how-to-use-a-timer-across-screens</id>
+        <link href="https://365community.online/how-to-use-a-timer-across-screens"/>
+        <updated>2023-11-02T19:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to increase the performance of your app by repurposing controls especially the timer control which is very resource heavy! The post How to use a timer across screens! […]]]></summary>
+        <author>
+            <name>harditbhatia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP Examples: 8 Top-Tier Systems You Should Know About]]></title>
+        <id>https://erpsoftwareblog.com/?p=101697</id>
+        <link href="https://erpsoftwareblog.com/2023/11/erp-examples-8-top-tier-systems-you-should-know-about/"/>
+        <updated>2023-11-02T18:21:34.000Z</updated>
+        <summary type="html"><![CDATA[Across the board, ERPs act as a central database for the entire business — providing org-wide insights, internal controls, and the ability to automate and optimize core processes. Finance and …  ERP Examples: 8 Top-Tier Systems You Should Know About Read More »
+The post ERP Examples: 8 Top-Tier Systems You Should Know About appeared first on ERP Software Blog.
+How to monitor your open tasks easily in DynaRent
+Strategic Mindset for a Successful ERP implementation
+Register Now for JourneyTEAM’s 2021 Business Technology Summit]]></summary>
+        <author>
+            <name>Velosio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize User Experience in Dynamics 365 Business Central by Adding Fields to Pages]]></title>
+        <id>https://www.encorebusiness.com/?p=59930</id>
+        <link href="https://www.encorebusiness.com/blog/add-fields-to-pages-in-d365-business-central/"/>
+        <updated>2023-11-02T15:27:45.000Z</updated>
+        <summary type="html"><![CDATA[How to Optimize User Experience in Dynamics 365 Business Central by Adding Fields to Pages
+There’s a new capability in Dynamics 365 Business Central, and it will allow you to easily tailor the user experience to different roles. Users were already able to modify information on a page to hide, show, or move parts around, however not all fields from the underlying table were available, and if you wanted to...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Mike Harris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master the Art of Inventory Counts with Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=101379</id>
+        <link href="https://erpsoftwareblog.com/2023/11/master-the-art-of-inventory-counts-with-dynamics-365-business-central/"/>
+        <updated>2023-11-02T15:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Insight Works provides key knowledge to master inventory counts with Business Central, ensuring confidence in your year-end preparations.
+The post Master the Art of Inventory Counts with Dynamics 365 Business Central appeared first on ERP Software Blog.
+Cycle Counting vs. Full Physical Counts: A Comprehensive Inventory Insight
+Revolutionizing Production Scheduling: Unveiling MxAPS 4.7 for Business Central
+Enhanced Planning Pack for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Hover Over Label Variable to See Text String Value]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-hover-over-label-variable-to-see-text-string-value</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-hover-over-label-variable-to-see-text-string-value"/>
+        <updated>2023-11-02T15:00:27.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Users can extract the tables list from Data entity – D365F&O]]></title>
+        <id>https://365community.online/users-can-extract-the-tables-list-from-data-entity-d365fo</id>
+        <link href="https://365community.online/users-can-extract-the-tables-list-from-data-entity-d365fo"/>
+        <updated>2023-11-02T14:43:09.000Z</updated>
+        <summary type="html"><![CDATA[We are aware that Data Entities in D365F&O represent a specific data object, typically corresponding to a table or view in the underlying database. They define the structure and attributes […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Users can extract the tables list from Data entity – D365F&O]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3054</id>
+        <link href="https://anithasantosh.wordpress.com/2023/11/02/users-can-extract-the-tables-list-from-data-entity-d365fo/"/>
+        <updated>2023-11-02T14:43:09.000Z</updated>
+        <summary type="html"><![CDATA[We are aware that Data Entities in D365F&O represent a specific data object, typically corresponding to a table or view in the underlying database. They define the structure and attributes of the data they represent. From a technical background , … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Get Inlay Hints in Source Editor for AL Method Parameters and Return Types]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-get-inlay-hints-in-source-editor-for-al-method-parameters-and-return-types</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-get-inlay-hints-in-source-editor-for-al-method-parameters-and-return-types"/>
+        <updated>2023-11-02T13:00:47.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Install Microsoft SQL Server 2022: Install SQL Server Analysis Services]]></title>
+        <id>https://365community.online/how-to-install-microsoft-sql-server-2022-install-sql-server-analysis-services</id>
+        <link href="https://365community.online/how-to-install-microsoft-sql-server-2022-install-sql-server-analysis-services"/>
+        <updated>2023-11-02T11:00:46.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the series on How To Install Microsoft SQL Server 2022; I do not claim to be an expert on SQL Server and this series is […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Realtime Marketing Form Themes And CSS]]></title>
+        <id>https://365community.online/understanding-realtime-marketing-form-themes-and-css</id>
+        <link href="https://365community.online/understanding-realtime-marketing-form-themes-and-css"/>
+        <updated>2023-11-02T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Brand consistency is important, and getting your Realtime Marketing Forms to look good and fit in with your website look and feel is key for a seamless experience. The forms […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Select the Best Channels for your Multichannel eCommerce]]></title>
+        <id>https://erpsoftwareblog.com/?p=101682</id>
+        <link href="https://erpsoftwareblog.com/2023/11/select-the-best-channels-for-your-multichannel-ecommerce/"/>
+        <updated>2023-11-02T07:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Over the last few years, the eCommerce industry has evolved drastically. Rapid technological advancements and shifting consumer preferences have contributed to this change. Today, customers are not just on one …  How to Select the Best Channels for your Multichannel eCommerce Read More »
+The post How to Select the Best Channels for your Multichannel eCommerce appeared first on ERP Software Blog.
+Thinking About Attending Convergence?  Here are 7 More Great Reasons to Attend!
+Best Practices in Using Accounting Automation Technology that Integrates with ERP Solutions.
+What's New in Microsoft Dynamics GP 2015?]]></summary>
+        <author>
+            <name>i95Dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Installation – BC23 Dynamics 365 Business Central 2023 Wave 2.]]></title>
+        <id>https://365community.online/installation-bc23-dynamics-365-business-central-2023-wave-2</id>
+        <link href="https://365community.online/installation-bc23-dynamics-365-business-central-2023-wave-2"/>
+        <updated>2023-11-02T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi Reader, As Business Central 2023 Release Wave 2 (BC23) is released. In this video we will go through installation of Business Central. Hope you learned something. Please Share your […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cards for Power Apps are now solution-aware for easier application lifecycle management (ALM)]]></title>
+        <id>cards-for-power-apps-are-now-solution-aware-for-easier-application-lifecycle-management-alm</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/cards-for-power-apps-are-now-solution-aware-for-easier-application-lifecycle-management-alm/"/>
+        <updated>2023-11-02T06:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Cards for Power Apps are solution-aware for application lifecycle management (ALM).]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISV Packaged Solutions vs Power Automate: Which One is Better for Your Dynamics 365 CRM Needs?]]></title>
+        <id>https://365community.online/isv-packaged-solutions-vs-power-automate-which-one-is-better-for-your-dynamics-365-crm-needs</id>
+        <link href="https://365community.online/isv-packaged-solutions-vs-power-automate-which-one-is-better-for-your-dynamics-365-crm-needs"/>
+        <updated>2023-11-02T06:04:33.000Z</updated>
+        <summary type="html"><![CDATA[If you are a Microsoft Dynamics 365 CRM user, you might be wondering whether you should choose an ISV-packaged solution or a custom development for your business needs. Both options […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Hairdresser to Power Platform Senior Analyst: Exploring Nathalie Leenders’ Tech and Life Jo – YouTube]]></title>
+        <id>https://365community.online/from-hairdresser-to-power-platform-senior-analyst-exploring-nathalie-leenders-tech-and-life-jo-youtube</id>
+        <link href="https://365community.online/from-hairdresser-to-power-platform-senior-analyst-exploring-nathalie-leenders-tech-and-life-jo-youtube"/>
+        <updated>2023-11-02T04:08:06.000Z</updated>
+        <summary type="html"><![CDATA[From Hairdresser to Power Platform Senior Analyst: Exploring Nathalie Leenders’ Tech and Life Jo FULL SHOW NOTES https://podcast.nz365guy.com/496   • Meet Nathalie Leenders, a Power Platform Senior Analyst who has […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages – Survey Results – YouTube]]></title>
+        <id>https://365community.online/power-pages-survey-results-youtube</id>
+        <link href="https://365community.online/power-pages-survey-results-youtube"/>
+        <updated>2023-11-02T03:26:53.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Automate Blueprint Accessing Azure Portal Backend APIs and the Intricacies of main.iam.ad.ext.azure.com]]></title>
         <id>https://365community.online/power-automate-blueprint-accessing-azure-portal-backend-apis-and-the-intricacies-of-main-iam-ad-ext-azure-com</id>
