@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-11-03T01:06:39.242Z</updated>
+    <updated>2023-11-04T01:06:19.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Add the Back (Close) and Save Buttons to Print Management Setup]]></title>
+        <id>https://ax.docentric.com/?p=27667</id>
+        <link href="https://ax.docentric.com/add-the-back-and-save-buttons-to-print-management-setup/"/>
+        <updated>2023-11-04T00:45:32.000Z</updated>
+        <summary type="html"><![CDATA[As D365FO Reporting and Print management experts, we’ve frequently been asked - where is, for goodness’ sake, the Close button (which became the Back button in the meantime 😀) on the Print management setup form. We also saw the feature request on Dynamics 365 Application […]
+The post Add the Back (Close) and Save Buttons to Print Management Setup appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Vilko Jenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does Microsoft Dynamics deliver secure data to your team members?]]></title>
+        <id>https://erpsoftwareblog.com/?p=101750</id>
+        <link href="https://erpsoftwareblog.com/2023/11/how-does-microsoft-dynamics-deliver-secure-data-to-your-team-members-2/"/>
+        <updated>2023-11-03T20:41:28.000Z</updated>
+        <summary type="html"><![CDATA[Harnessing the Power of Intelligence- In an era where data permeates every facet of our lives, every business has evolved into a data-driven entity. The real question is: how can …  How does Microsoft Dynamics deliver secure data to your team members? Read More »
+The post How does Microsoft Dynamics deliver secure data to your team members? appeared first on ERP Software Blog.
+A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge
+3 ways to optimize your financial processes with Business Central
+Microsoft Dynamics 365 Business Central: The Future of Distribution Accounting]]></summary>
+        <author>
+            <name>Accountnet, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best ERP Systems Of 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=101746</id>
+        <link href="https://erpsoftwareblog.com/2023/11/best-erp-systems/"/>
+        <updated>2023-11-03T20:16:20.000Z</updated>
+        <summary type="html"><![CDATA[As we step into 2024, the ecosystem of ERP solutions is more dynamic than ever, with advancements in cloud computing, AI, and machine learning leading the charge. This guide to …  Best ERP Systems Of 2024 Read More »
+The post Best ERP Systems Of 2024 appeared first on ERP Software Blog.
+Infographic: The Key Factors For A Successful ERP Implementation
+Project-driven Companies Hit It Out of the Park with Microsoft Dynamics SL
+Build Your Own WMS Apps for Microsoft Dynamics]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insight Works Adds 18 Microsoft Partners to Reseller Network]]></title>
+        <id>https://erpsoftwareblog.com/?p=101741</id>
+        <link href="https://erpsoftwareblog.com/2023/11/insight-works-adds-18-microsoft-partners-to-reseller-network/"/>
+        <updated>2023-11-03T18:56:35.000Z</updated>
+        <summary type="html"><![CDATA[In a strategic move to enhance ERP solutions worldwide, Insight Works integrates 18 new Microsoft Partners into their reseller program.
+The post Insight Works Adds 18 Microsoft Partners to Reseller Network appeared first on ERP Software Blog.
+Achieving ROI with a Best-of-Breed Warehouse Management Solution (WMS)
+Free Business Central Apps to Fill the Gaps
+WithoutWire™ Partial Picking – Minimizing the Impact of Changing Sales Orders]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Your Financial Reporting on Dynamics Feel Like a House of Cards?]]></title>
+        <id>https://erpsoftwareblog.com/?p=101729</id>
+        <link href="https://erpsoftwareblog.com/2023/11/does-your-financial-reporting-on-dynamics-feel-like-a-house-of-cards/"/>
+        <updated>2023-11-03T15:49:10.000Z</updated>
+        <summary type="html"><![CDATA[If your organization has complex reporting needs – like multiple entities or frequently changing reporting demands – then you may relate to the feeling that accounting professionals get during the …  Does Your Financial Reporting on Dynamics Feel Like a House of Cards? Read More »
+The post Does Your Financial Reporting on Dynamics Feel Like a House of Cards? appeared first on ERP Software Blog.
+How is Microsoft Dynamics Financial Reporting so Important in 2018?
+How Can Microsoft Dynamics GP Enable Better Controls?
+How Can Microsoft Dynamics Point You in the Right Direction?]]></summary>
+        <author>
+            <name>FYIsoft, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Choose Between More Sampling Intervals for Snapshot and In-client Profiling]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-choose-between-more-sampling-intervals-for-snapshot-and-in-client-profiling</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-choose-between-more-sampling-intervals-for-snapshot-and-in-client-profiling"/>
+        <updated>2023-11-03T15:00:37.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Set New Output Folder Setting for Storing App Files at AL Project Build]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-set-new-output-folder-setting-for-storing-app-files-at-al-project-build</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-set-new-output-folder-setting-for-storing-app-files-at-al-project-build"/>
+        <updated>2023-11-03T13:00:05.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Features Not Implemented in On-premises Deployments of Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://365community.online/features-not-implemented-in-on-premises-deployments-of-microsoft-dynamics-365-business-central</id>
+        <link href="https://365community.online/features-not-implemented-in-on-premises-deployments-of-microsoft-dynamics-365-business-central"/>
+        <updated>2023-11-03T11:00:45.000Z</updated>
+        <summary type="html"><![CDATA[I stumbled across an article on Microsoft Learn the other day which lists the features of Microsoft Dynamics 365 Business Central which are not implemented in on-premises deployments. These are […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Tips for a Successful ERP Upgrade]]></title>
+        <id>https://erpsoftwareblog.com/?p=101717</id>
+        <link href="https://erpsoftwareblog.com/2023/11/5-tips-for-a-successful-erp-upgrade/"/>
+        <updated>2023-11-03T10:15:39.000Z</updated>
+        <summary type="html"><![CDATA[ERP systems have come a long way; from being just good-to-have systems, they have evolved to becoming must-haves, helping organizations uphold business performance and efficiency. While ERP implementation might seem …  5 Tips for a Successful ERP Upgrade Read More »
+The post 5 Tips for a Successful ERP Upgrade appeared first on ERP Software Blog.
+Video: Getting Started with Barcode Scanners in Business Central
+What is a Microsoft Cloud Services Provider and their Benefits?
+How ERP Software benefits Pharmaceutical Distributors?]]></summary>
+        <author>
+            <name>Synoptek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merging Customer Insights Journeys and Data within Dynamics 365]]></title>
+        <id>https://365community.online/merging-customer-insights-journeys-and-data-within-dynamics-365</id>
+        <link href="https://365community.online/merging-customer-insights-journeys-and-data-within-dynamics-365"/>
+        <updated>2023-11-03T09:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Recently when I had a client requirement for implementing segmentation within outbound marketing, I referred to our previous blog and started implementing the same but surprisingly came to know that […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#msdyn365bc Automatically update AppSource apps with minor updates.]]></title>
+        <id>https://365community.online/msdyn365bc-automatically-update-appsource-apps-with-minor-updates</id>
+        <link href="https://365community.online/msdyn365bc-automatically-update-appsource-apps-with-minor-updates"/>
+        <updated>2023-11-03T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[HI Readers, As Business Central 2023 Release Wave 2 Preview is announced.  In this series we will discuss all features in detail.  In this article we will discuss regarding – […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power for HR: Transform your HR processes with Power Platform Enterprise Templates]]></title>
         <id>http://paragchapre.com/?p=12220</id>
