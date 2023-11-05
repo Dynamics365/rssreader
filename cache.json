@@ -244,16 +244,6 @@
           "wordCount": 588,
           "title": "Troubleshooting DVT script for service model - Dynamics 365 Finance & Operations Tier 1 Upgrade",
           "imageUrl": "https://nuxulu.com/2021-12-21-troubleshooting-dvt-script-for-service-model/lcs-72-73.png"
-        },
-        {
-          "id": "https://nuxulu.com/2021-11-05-windows-key-shortcuts/",
-          "author": "Max Nguyen",
-          "description": "1. New Keyboard Shortcuts in Windows 11\nWindows 11 brings a few Keyboard Shortcuts for accessing its cool new features such as widgets, snap layouts, action center, and quick settings.\nFYI, Win key is the Windows Logo key on your keyboard.\nACTION\nSHORTCUTS KEYS\n\n\n\n\nOpen up the Widgets pane. It supplies you with the weather forecast, local traffic, news, and even your calendar.\nWin + W\n\n\nToggle up the Quick Settings. It controls the Volume, Wi-Fi, Bluetooth, Brightness sliders, Focus Assist, and other settings.\nWin + A\n\n\nBring up the Notification Center. It shows all your notifications in the OS.\nWin + N\n\n\nOpen the Snap Layouts flyout. It helps you organize apps and windows for multitasking.\nWin + Z\n\n\nOpen Teams Chat app from Taskbar. It helps you quickly select a chat thread directly from …",
-          "link": "https://nuxulu.com/2021-11-05-windows-key-shortcuts/",
-          "publishedOn": "2021-11-05T00:00:00.000Z",
-          "wordCount": 2290,
-          "title": "Windows keyboard shortcuts",
-          "imageUrl": "https://nuxulu.com/2021-11-05-windows-key-shortcuts/featured-image.png"
         }
       ]
     },
@@ -5165,6 +5155,36 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/getting-the-proper-sharepoint-list-columns-internal-names-to-use-in-list-formatting-json",
+          "author": "michelcarlo",
+          "description": "Question sent by a reader recently, on my Quick SharePoint Approvals using list formatting JSON to set field values formatting post: Will this not work if my column name has […]",
+          "link": "https://365community.online/getting-the-proper-sharepoint-list-columns-internal-names-to-use-in-list-formatting-json",
+          "publishedOn": "2023-11-04T19:35:28.000Z",
+          "wordCount": 3324,
+          "title": "Getting the proper SharePoint list columns internal names to use in List Formatting JSON",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/grabcolumn.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/connecting-microsoft-outlook-to-model-driven-power-apps",
+          "author": "Nick Doelman",
+          "description": "One of the great and long standing features of Dynamics 365 Customer Engagement (aka CRM) is the integration with Microsoft Outlook. Using the Dynamics 365 App for Outlook you can […]",
+          "link": "https://365community.online/connecting-microsoft-outlook-to-model-driven-power-apps",
+          "publishedOn": "2023-11-04T15:09:28.000Z",
+          "wordCount": 3121,
+          "title": "Connecting Microsoft Outlook to model-driven Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Connecting-Microsoft-Outlook-to-model-driven-Power-Apps.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/outsourcing-5-secrets-to-a-more-productive-and-balanced-life-in-2024-and-beyond",
+          "author": "Inogic",
+          "description": "Gerard had mastered the art of outsourcing since the raw age of 8 when he would pass on his English homework to his elder sister, Grace whilst he pulled in […]",
+          "link": "https://365community.online/outsourcing-5-secrets-to-a-more-productive-and-balanced-life-in-2024-and-beyond",
+          "publishedOn": "2023-11-04T09:32:23.000Z",
+          "wordCount": 3474,
+          "title": "Outsourcing: 5 Secrets to a More Productive and Balanced Life in 2024 and Beyond!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/dynamics-365-copy.png?fit=700%2C400&ssl=1"
+        },
+        {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-choose-between-more-sampling-intervals-for-snapshot-and-in-client-profiling",
           "author": "Ian Grieve",
           "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
@@ -5185,6 +5205,16 @@
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
         },
         {
+          "id": "https://365community.online/joe-leberte-talked-to-scottish-summit-about-ss23-youtube",
+          "author": "Scottish Summit",
+          "description": "Solgari’s Joe Leberte talked to the Scottish Summit team about all things Scottish Summit source",
+          "link": "https://365community.online/joe-leberte-talked-to-scottish-summit-about-ss23-youtube",
+          "publishedOn": "2023-11-03T11:07:21.000Z",
+          "wordCount": 3023,
+          "title": "Joe Leberte talked to Scottish Summit about SS23 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/1699089208_hqdefault.jpg?fit=480%2C360&ssl=1"
+        },
+        {
           "id": "https://365community.online/features-not-implemented-in-on-premises-deployments-of-microsoft-dynamics-365-business-central",
           "author": "Ian Grieve",
           "description": "I stumbled across an article on Microsoft Learn the other day which lists the features of Microsoft Dynamics 365 Business Central which are not implemented in on-premises deployments. These are […]",
@@ -5203,6 +5233,16 @@
           "wordCount": 3427,
           "title": "Merging Customer Insights Journeys and Data within Dynamics 365",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/1Customer-Insights-Journeys-and-Customer-Insights-Data.jpeg?fit=1200%2C658&ssl=1"
+        },
+        {
+          "id": "https://365community.online/senior-developer-%f0%9f%98%82-youtube",
+          "author": "Sourav Raj",
+          "description": "senior developer 😂 source",
+          "link": "https://365community.online/senior-developer-%f0%9f%98%82-youtube",
+          "publishedOn": "2023-11-03T06:08:00.000Z",
+          "wordCount": 2988,
+          "title": "senior developer 😂 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/1699089081_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/msdyn365bc-automatically-update-appsource-apps-with-minor-updates",
@@ -14608,18 +14648,7 @@
       "title": "robsCode",
       "feedUrl": "https://robscode.onl/rss/",
       "siteUrl": "https://robscode.onl/",
-      "articles": [
-        {
-          "id": "62c06aea4cecce22d735c4d6",
-          "author": "Robin Kretzschmar",
-          "description": "Sometimes it happens on a D365 DevBox that after a get latest or some copy operation in the PackagesLocalDirectory folder the following error occurs after using \"Refresh models\" in Visual Studio:\nModule Reference 'yyy' in model 'zzz' cannot be located. This is an indication",
-          "link": "https://robscode.onl/d365-module-reference-in-model-cannot-be-located/",
-          "publishedOn": "2021-11-04T14:41:07.000Z",
-          "wordCount": 821,
-          "title": "[D365] Module reference in model cannot be located",
-          "imageUrl": "https://robscode.onl/content/images/2015/02/Black-Pattern-1680x1050.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Microsoft Dynamics 365 Blog",

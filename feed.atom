@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-11-04T01:06:19.689Z</updated>
+    <updated>2023-11-05T01:10:59.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Getting the proper SharePoint list columns internal names to use in List Formatting JSON]]></title>
+        <id>https://365community.online/getting-the-proper-sharepoint-list-columns-internal-names-to-use-in-list-formatting-json</id>
+        <link href="https://365community.online/getting-the-proper-sharepoint-list-columns-internal-names-to-use-in-list-formatting-json"/>
+        <updated>2023-11-04T19:35:28.000Z</updated>
+        <summary type="html"><![CDATA[Question sent by a reader recently, on my Quick SharePoint Approvals using list formatting JSON to set field values formatting post: Will this not work if my column name has […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connecting Microsoft Outlook to model-driven Power Apps]]></title>
+        <id>https://365community.online/connecting-microsoft-outlook-to-model-driven-power-apps</id>
+        <link href="https://365community.online/connecting-microsoft-outlook-to-model-driven-power-apps"/>
+        <updated>2023-11-04T15:09:28.000Z</updated>
+        <summary type="html"><![CDATA[One of the great and long standing features of Dynamics 365 Customer Engagement (aka CRM) is the integration with Microsoft Outlook. Using the Dynamics 365 App for Outlook you can […]]]></summary>
+        <author>
+            <name>Nick Doelman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outsourcing: 5 Secrets to a More Productive and Balanced Life in 2024 and Beyond!]]></title>
+        <id>https://365community.online/outsourcing-5-secrets-to-a-more-productive-and-balanced-life-in-2024-and-beyond</id>
+        <link href="https://365community.online/outsourcing-5-secrets-to-a-more-productive-and-balanced-life-in-2024-and-beyond"/>
+        <updated>2023-11-04T09:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Gerard had mastered the art of outsourcing since the raw age of 8 when he would pass on his English homework to his elder sister, Grace whilst he pulled in […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Add the Back (Close) and Save Buttons to Print Management Setup]]></title>
         <id>https://ax.docentric.com/?p=27667</id>
@@ -94,6 +124,16 @@ How Can Microsoft Dynamics Point You in the Right Direction?]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Joe Leberte talked to Scottish Summit about SS23 – YouTube]]></title>
+        <id>https://365community.online/joe-leberte-talked-to-scottish-summit-about-ss23-youtube</id>
+        <link href="https://365community.online/joe-leberte-talked-to-scottish-summit-about-ss23-youtube"/>
+        <updated>2023-11-03T11:07:21.000Z</updated>
+        <summary type="html"><![CDATA[Solgari’s Joe Leberte talked to the Scottish Summit team about all things Scottish Summit source]]></summary>
+        <author>
+            <name>Scottish Summit</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Features Not Implemented in On-premises Deployments of Microsoft Dynamics 365 Business Central]]></title>
         <id>https://365community.online/features-not-implemented-in-on-premises-deployments-of-microsoft-dynamics-365-business-central</id>
         <link href="https://365community.online/features-not-implemented-in-on-premises-deployments-of-microsoft-dynamics-365-business-central"/>
@@ -125,6 +165,16 @@ How ERP Software benefits Pharmaceutical Distributors?]]></summary>
         <summary type="html"><![CDATA[Recently when I had a client requirement for implementing segmentation within outbound marketing, I referred to our previous blog and started implementing the same but surprisingly came to know that […]]]></summary>
         <author>
             <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[senior developer 😂 – YouTube]]></title>
+        <id>https://365community.online/senior-developer-%f0%9f%98%82-youtube</id>
+        <link href="https://365community.online/senior-developer-%f0%9f%98%82-youtube"/>
+        <updated>2023-11-03T06:08:00.000Z</updated>
+        <summary type="html"><![CDATA[senior developer 😂 source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
@@ -27361,41 +27411,6 @@ sharing some pointers to use as input for decision direct...(read more)]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows keyboard shortcuts]]></title>
-        <id>https://nuxulu.com/2021-11-05-windows-key-shortcuts/</id>
-        <link href="https://nuxulu.com/2021-11-05-windows-key-shortcuts/"/>
-        <updated>2021-11-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1. New Keyboard Shortcuts in Windows 11
-Windows 11 brings a few Keyboard Shortcuts for accessing its cool new features such as widgets, snap layouts, action center, and quick settings.
-FYI, Win key is the Windows Logo key on your keyboard.
-ACTION
-SHORTCUTS KEYS
-
-
-
-
-Open up the Widgets pane. It supplies you with the weather forecast, local traffic, news, and even your calendar.
-Win + W
-
-
-Toggle up the Quick Settings. It controls the Volume, Wi-Fi, Bluetooth, Brightness sliders, Focus Assist, and other settings.
-Win + A
-
-
-Bring up the Notification Center. It shows all your notifications in the OS.
-Win + N
-
-
-Open the Snap Layouts flyout. It helps you organize apps and windows for multitasking.
-Win + Z
-
-
-Open Teams Chat app from Taskbar. It helps you quickly select a chat thread directly from …]]></summary>
-        <author>
-            <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[D365 Commerce - Improve the performance on the Point of Sale (POS) with the Cloud powered customer search feature]]></title>
         <id>f7860544-fd88-4f76-8c0c-6920dd39f354:9a23d9fe-553f-42ab-bacb-ff8ec062b6df</id>
         <link href="https://community.dynamics.com/ax/b/axinthefield/posts/d365-commerce---improve-the-performance-on-the-point-of-sale-pos-with-the-cloud-powered-customer-search-feature"/>
@@ -27403,17 +27418,6 @@ Open Teams Chat app from Taskbar. It helps you quickly select a chat thread dire
         <summary type="html"><![CDATA[Performance in the Modern Point of Sale (MPOS) and Cloud Point of Sale (CPOS) is critical for a retail business. Recently I helped a customer increase performance of the search functionality for produ...(read more)]]></summary>
         <author>
             <name>Said Nikjou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[D365] Module reference in model cannot be located]]></title>
-        <id>62c06aea4cecce22d735c4d6</id>
-        <link href="https://robscode.onl/d365-module-reference-in-model-cannot-be-located/"/>
-        <updated>2021-11-04T14:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes it happens on a D365 DevBox that after a get latest or some copy operation in the PackagesLocalDirectory folder the following error occurs after using "Refresh models" in Visual Studio:
-Module Reference 'yyy' in model 'zzz' cannot be located. This is an indication]]></summary>
-        <author>
-            <name>Robin Kretzschmar</name>
         </author>
     </entry>
     <entry>
