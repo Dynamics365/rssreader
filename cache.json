@@ -5155,6 +5155,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/streamlining-integration-leveraging-service-principal-authentication-for-sql-connector-in-power-apps-and-power-automate",
+          "author": "Mohamed Ashiq Faleel",
+          "description": "In the ever-evolving landscape of business processes and data management, efficient integration is the key to success. Securing and managing connections in Power Apps and Power Automate is a critical […]",
+          "link": "https://365community.online/streamlining-integration-leveraging-service-principal-authentication-for-sql-connector-in-power-apps-and-power-automate",
+          "publishedOn": "2023-11-05T19:28:20.000Z",
+          "wordCount": 3214,
+          "title": "Streamlining Integration: Leveraging Service Principal Authentication for SQL Connector in Power Apps and Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Streamlining-Integration-Leveraging-Service-Principal-Authentication-for-SQL-Connector-in.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-sales-copilot-informacion-relevante-de-nuestro-crm-youtube",
+          "author": "jarmesto",
+          "description": "Microsoft Sales Copilot – Información relevante de nuestro CRM Hoy vamos a sumergirnos en el fascinante mundo de Microsoft Sales Copilot dentro de Dynamics 365. 🌐💼 Os mostraremos las flamantes […]",
+          "link": "https://365community.online/microsoft-sales-copilot-informacion-relevante-de-nuestro-crm-youtube",
+          "publishedOn": "2023-11-05T16:00:25.000Z",
+          "wordCount": 3305,
+          "title": "Microsoft Sales Copilot – Información relevante de nuestro CRM – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/1699213104_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/missing-xrmtoolbox-pluginsstore-read-and-fix-it-here",
+          "author": "Jonas Rapp ᴹᴠᴾ ??",
+          "description": "After some excellent updates to XrmToolBox, a few things have moved around in the backend code, which means some existing tools break down hard. If you get an error message […]",
+          "link": "https://365community.online/missing-xrmtoolbox-pluginsstore-read-and-fix-it-here",
+          "publishedOn": "2023-11-05T11:53:28.000Z",
+          "wordCount": 3167,
+          "title": "Missing XrmToolBox.PluginsStore – read and fix it here!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Missing-XrmToolBoxPluginsStore-–-read-and-fix-it-here.png?fit=456%2C238&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-dns-private-resolver-part-1",
+          "author": "Rex De Koning",
+          "description": "Azure DNS Private Resolver It’s always DNS! I’m sure you’ve heard this phrase before. DNS is 1 of the most underrated services on the internet, but probably also 1 the […]",
+          "link": "https://365community.online/azure-dns-private-resolver-part-1",
+          "publishedOn": "2023-11-05T00:00:00.000Z",
+          "wordCount": 3086,
+          "title": "Azure DNS Private Resolver – Part 1",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/03/Organising-an-event-Blog-Rex-de-Koning.png?fit=1000%2C1000&ssl=1"
+        },
+        {
           "id": "https://365community.online/getting-the-proper-sharepoint-list-columns-internal-names-to-use-in-list-formatting-json",
           "author": "michelcarlo",
           "description": "Question sent by a reader recently, on my Quick SharePoint Approvals using list formatting JSON to set field values formatting post: Will this not work if my column name has […]",
@@ -10545,6 +10585,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/02/new-sales-capabilities-in-2023-release-wave-2-helping-sellers-work-smarter/",
+          "author": "Aaron Bjork",
+          "description": "AI is revolutionizing the way sellers operate, enabling them to work smarter, not harder and achieve fantastic results. With AI-powered tools, sellers can access real-time insights, streamline their workflow, and make data-driven decisions, all while minimizing manual effort.\nThe post New sales capabilities in 2023 release wave 2—Helping sellers work smarter appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/02/new-sales-capabilities-in-2023-release-wave-2-helping-sellers-work-smarter/",
+          "publishedOn": "2023-11-02T15:00:00.000Z",
+          "wordCount": 2561,
+          "title": "New sales capabilities in 2023 release wave 2—Helping sellers work smarter",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/D365_Blog_Abstract-03_1200.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/10/31/enhance-agent-efficiency-and-flexible-work-distribution-with-capacity-profiles/",
           "author": "Payas Agrawal",

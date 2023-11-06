@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-11-05T01:10:59.960Z</updated>
+    <updated>2023-11-06T01:09:17.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Integration: Leveraging Service Principal Authentication for SQL Connector in Power Apps and Power Automate]]></title>
+        <id>https://365community.online/streamlining-integration-leveraging-service-principal-authentication-for-sql-connector-in-power-apps-and-power-automate</id>
+        <link href="https://365community.online/streamlining-integration-leveraging-service-principal-authentication-for-sql-connector-in-power-apps-and-power-automate"/>
+        <updated>2023-11-05T19:28:20.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of business processes and data management, efficient integration is the key to success. Securing and managing connections in Power Apps and Power Automate is a critical […]]]></summary>
+        <author>
+            <name>Mohamed Ashiq Faleel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Sales Copilot – Información relevante de nuestro CRM – YouTube]]></title>
+        <id>https://365community.online/microsoft-sales-copilot-informacion-relevante-de-nuestro-crm-youtube</id>
+        <link href="https://365community.online/microsoft-sales-copilot-informacion-relevante-de-nuestro-crm-youtube"/>
+        <updated>2023-11-05T16:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Sales Copilot – Información relevante de nuestro CRM Hoy vamos a sumergirnos en el fascinante mundo de Microsoft Sales Copilot dentro de Dynamics 365. 🌐💼 Os mostraremos las flamantes […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missing XrmToolBox.PluginsStore – read and fix it here!]]></title>
+        <id>https://365community.online/missing-xrmtoolbox-pluginsstore-read-and-fix-it-here</id>
+        <link href="https://365community.online/missing-xrmtoolbox-pluginsstore-read-and-fix-it-here"/>
+        <updated>2023-11-05T11:53:28.000Z</updated>
+        <summary type="html"><![CDATA[After some excellent updates to XrmToolBox, a few things have moved around in the backend code, which means some existing tools break down hard. If you get an error message […]]]></summary>
+        <author>
+            <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure DNS Private Resolver – Part 1]]></title>
+        <id>https://365community.online/azure-dns-private-resolver-part-1</id>
+        <link href="https://365community.online/azure-dns-private-resolver-part-1"/>
+        <updated>2023-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Azure DNS Private Resolver It’s always DNS! I’m sure you’ve heard this phrase before. DNS is 1 of the most underrated services on the internet, but probably also 1 the […]]]></summary>
+        <author>
+            <name>Rex De Koning</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting the proper SharePoint list columns internal names to use in List Formatting JSON]]></title>
         <id>https://365community.online/getting-the-proper-sharepoint-list-columns-internal-names-to-use-in-list-formatting-json</id>
@@ -257,6 +297,17 @@ Enhanced Planning Pack for Dynamics 365 Business Central]]></summary>
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New sales capabilities in 2023 release wave 2—Helping sellers work smarter]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/02/new-sales-capabilities-in-2023-release-wave-2-helping-sellers-work-smarter/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/02/new-sales-capabilities-in-2023-release-wave-2-helping-sellers-work-smarter/"/>
+        <updated>2023-11-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI is revolutionizing the way sellers operate, enabling them to work smarter, not harder and achieve fantastic results. With AI-powered tools, sellers can access real-time insights, streamline their workflow, and make data-driven decisions, all while minimizing manual effort.
+The post New sales capabilities in 2023 release wave 2—Helping sellers work smarter appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Aaron Bjork</name>
         </author>
     </entry>
     <entry>
