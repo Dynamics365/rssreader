@@ -2,10 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-11-06T01:09:17.136Z</updated>
+    <updated>2023-11-07T01:07:46.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Decrease Support Tickets of Your Dynamics 365 Business Central Environment]]></title>
+        <id>https://erpsoftwareblog.com/?p=101773</id>
+        <link href="https://erpsoftwareblog.com/2023/11/decrease-support-tickets-of-your-dynamics-365-business-central-environment/"/>
+        <updated>2023-11-06T23:26:55.000Z</updated>
+        <summary type="html"><![CDATA[Chances are that you've never heard of a Digital Adoption Platform (DAP) before. A DAP is an overlay system that is always available to your users when they need it …  Decrease Support Tickets of Your Dynamics 365 Business Central Environment Read More »
+The post Decrease Support Tickets of Your Dynamics 365 Business Central Environment appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central and Microsoft Dynamics 365 Finance and Operations: What’s the Difference?
+Manufacturing firm achieves efficiency through Microsoft Dynamics 365 Business Central
+Streamline Purchase & Sales Orders with Free App for Business Central]]></summary>
+        <author>
+            <name>VisualSP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use RetrieveDuplicates request to check for duplicates before creating/updating a record – Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/use-retrieveduplicates-request-to-check-for-duplicates-before-creating-updating-a-record-dataverse-dynamics-365</id>
+        <link href="https://365community.online/use-retrieveduplicates-request-to-check-for-duplicates-before-creating-updating-a-record-dataverse-dynamics-365"/>
+        <updated>2023-11-06T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the previous post, we saw how we can use the SuppressDuplicateDetection parameter to throw errors in case of duplicates when creating or updating a record. Here instead of relying […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Worldwide Supply Chain Disruptions During the Panama Canal Drought]]></title>
+        <id>https://erpsoftwareblog.com/?p=101753</id>
+        <link href="https://erpsoftwareblog.com/2023/11/managing-worldwide-supply-chain-disruptions-during-the-panama-canal-drought/"/>
+        <updated>2023-11-06T17:07:33.000Z</updated>
+        <summary type="html"><![CDATA[The Panama Canal has been in the spotlight for reasons beyond its engineering marvels, serving as a vivid example of how vital components of global supply chains can abruptly grind …  Managing Worldwide Supply Chain Disruptions During the Panama Canal Drought Read More »
+The post Managing Worldwide Supply Chain Disruptions During the Panama Canal Drought appeared first on ERP Software Blog.
+Digitizing Your Supply Chain in D365: Benefits, Challenges, Strategies, & Best Practices
+Choosing the right Inventory Management WMS Supply Chain Platform
+D365 Supply Chain Solutions for Resilience - eBook]]></summary>
+        <author>
+            <name>HSO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hidden Feature Flag Changing How User Licensing is Performed in D365FO]]></title>
+        <id>https://365community.online/hidden-feature-flag-changing-how-user-licensing-is-performed-in-d365fo</id>
+        <link href="https://365community.online/hidden-feature-flag-changing-how-user-licensing-is-performed-in-d365fo"/>
+        <updated>2023-11-06T16:51:15.000Z</updated>
+        <summary type="html"><![CDATA[In the past I written and presented on the topic of user licensing in D365FO, the methodology used has not really changed since October 2019 when Microsoft released their new […]]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hidden Feature Flag Changing How User Licensing is Performed in D365FO]]></title>
+        <id>https://alexdmeyer.com/?p=2912</id>
+        <link href="https://alexdmeyer.com/2023/11/06/hidden-feature-flag-changing-how-user-licensing-is-performed-in-d365fo/"/>
+        <updated>2023-11-06T16:51:15.000Z</updated>
+        <summary type="html"><![CDATA[In the past I written and presented on the topic of user licensing in D365FO, the methodology used has not really changed since October 2019 when Microsoft released their new ‘privilege based licensing’. Recently though I was contacted about some interesting behavior on how D365FO was reporting particular licenses. I did a deeper dive into […]
+The post Hidden Feature Flag Changing How User Licensing is Performed in D365FO appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataverse Low-Code Plugins | Dataverse Accelerator | [Preview]]]></title>
+        <id>https://365community.online/dataverse-low-code-plugins-dataverse-accelerator-preview</id>
+        <link href="https://365community.online/dataverse-low-code-plugins-dataverse-accelerator-preview"/>
+        <updated>2023-11-06T15:21:13.000Z</updated>
+        <summary type="html"><![CDATA[So by now, you must’ve come across Dataverse Low Code Plugins quite a lot if you’re following Dynamics 365 Wave Updates. Here’s a post that demystifies and summarizes what Low […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Get Smarter Method Signature Recommendations in IntelliSense]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-get-smarter-method-signature-recommendations-in-intellisense</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-get-smarter-method-signature-recommendations-in-intellisense"/>
+        <updated>2023-11-06T15:00:04.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Vantree for Dynamics NAV Streamlines the EDI Workflow]]></title>
+        <id>https://erpsoftwareblog.com/?p=101709</id>
+        <link href="https://erpsoftwareblog.com/2023/11/how-vantree-for-dynamics-nav-streamlines-the-edi-workflow/"/>
+        <updated>2023-11-06T14:07:37.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced business world, the efficient handling of Electronic Data Interchange (EDI) is crucial for businesses of all sizes. Vantree Systems offers a powerful EDI automation solution that seamlessly …  How Vantree for Dynamics NAV Streamlines the EDI Workflow Read More »
+The post How Vantree for Dynamics NAV Streamlines the EDI Workflow appeared first on ERP Software Blog.
+Agile v. Waterfall: Which is Best for Microsoft Dynamics NAV
+7 Reasons Microsoft Dynamics NAV Users Love Dimensions
+Not All ERP is One-Size-Fits-All]]></summary>
+        <author>
+            <name>Vantree Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Get IntelliSense for Adding Variables in Visual Studio Code AL Debugger Console]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-get-intellisense-for-adding-variables-in-visual-studio-code-al-debugger-console</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-get-intellisense-for-adding-variables-in-visual-studio-code-al-debugger-console"/>
+        <updated>2023-11-06T13:00:26.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing Data Accessibility: An Insight into Power Virtual Agents and Azure OpenAI]]></title>
+        <id>https://365community.online/revolutionizing-data-accessibility-an-insight-into-power-virtual-agents-and-azure-openai</id>
+        <link href="https://365community.online/revolutionizing-data-accessibility-an-insight-into-power-virtual-agents-and-azure-openai"/>
+        <updated>2023-11-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTEShttps://podcast.nz365guy.com/497  Ever wondered about the vast universe of Power Virtual Agents and AI? Brace yourselves for an enlightening conversation with our guest, Dewain Robinson, straight from Nashville, Tennessee, […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhanced Case Experience in Customer Service Workspace within Dynamics 365 CRM]]></title>
+        <id>https://365community.online/enhanced-case-experience-in-customer-service-workspace-within-dynamics-365-crm</id>
+        <link href="https://365community.online/enhanced-case-experience-in-customer-service-workspace-within-dynamics-365-crm"/>
+        <updated>2023-11-06T12:28:18.000Z</updated>
+        <summary type="html"><![CDATA[The new Enhanced case experience will help agents easily interact with customers regarding the case in the Customer Service Workspace app, and it is available in the Customer Service Workspace […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Post Receipt From a Warehouse Receipt Document]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-post-receipt-from-a-warehouse-receipt-document</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-post-receipt-from-a-warehouse-receipt-document"/>
+        <updated>2023-11-06T11:00:18.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27+3 Talks by TSD : Directions 2023 After Party – YouTube]]></title>
+        <id>https://365community.online/273-talks-by-tsd-directions-2023-after-party-youtube</id>
+        <link href="https://365community.online/273-talks-by-tsd-directions-2023-after-party-youtube"/>
+        <updated>2023-11-06T10:27:31.000Z</updated>
+        <summary type="html"><![CDATA[27+3 Talks by TSD : Directions 2023 After Party Aunque aun estamos digiriendo el pasado Directions EMEA 2023. Os esperamos el proximo miércoles a las 18.30 para contaros impresiones , […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataverse “When an action is performed” trigger doesn’t fire – what to do]]></title>
+        <id>https://365community.online/dataverse-when-an-action-is-performed-trigger-doesnt-fire-what-to-do</id>
+        <link href="https://365community.online/dataverse-when-an-action-is-performed-trigger-doesnt-fire-what-to-do"/>
+        <updated>2023-11-06T09:00:51.000Z</updated>
+        <summary type="html"><![CDATA[I always considered myself a pro-developer so I don’t work with Canvas Apps or Powerautomate Flows on a daily basis like all citizen developers but this week I had an […]]]></summary>
+        <author>
+            <name>Andrew Butenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can AI make you rich?]]></title>
+        <id>http://dynamicsax-fico.com/?p=5389</id>
+        <link href="https://dynamicsax-fico.com/2023/11/06/can-ai-make-you-rich/"/>
+        <updated>2023-11-06T05:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streamlining Integration: Leveraging Service Principal Authentication for SQL Connector in Power Apps and Power Automate]]></title>
         <id>https://365community.online/streamlining-integration-leveraging-service-principal-authentication-for-sql-connector-in-power-apps-and-power-automate</id>
