@@ -2578,6 +2578,16 @@
       "siteUrl": "https://impulztech.com/category/dynamics-365/",
       "articles": [
         {
+          "id": "https://impulztech.com/?p=3277",
+          "author": "Muhammad Ali",
+          "description": "In the previous section, we examined the Azure DevOps build pipeline and its role in creating a deployable software package (Part 1). In this section, We will delve into the Azure DevOps tasks designed for the release pipeline. These tasks enable you to both upload the deployable software package to a project’s asset library in […]\nThe post Setup A Release Pipeline In D365 FO – Part 2 appeared first on Impulz Technologies LLC.",
+          "link": "https://impulztech.com/setup-a-release-pipeline-in-d365-fo-part-2/",
+          "publishedOn": "2023-11-08T10:36:47.000Z",
+          "wordCount": 2077,
+          "title": "Setup A Release Pipeline In D365 FO – Part 2",
+          "imageUrl": "https://impulztech.com/wp-content/uploads/2023/10/main-1-300x235.png"
+        },
+        {
           "id": "https://impulztech.com/?p=3255",
           "author": "Muhammad Ali",
           "description": "Azure DevOps Pipelines is a cloud service that you can use to automatically build, test and deploy your code to (m)any environments. Since Apr 2019 you can use new Azure DevOps tasks for Microsoft Dynamics 365 to upload and deploy your application deployable package to LCS environments. This blog describes how to create build and […]\nThe post Create Build & Development Server In D365 FO – Part 1 appeared first on Impulz Technologies LLC.",
@@ -2720,6 +2730,66 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=101838",
+          "author": "KwikTag by Paymerang",
+          "description": "In today's fast-paced business environment, achieving efficiency and precision is paramount for seamless invoice automation. Many companies turn to data extraction tools to streamline the extraction of invoice data, but …  Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation? Read More »\nThe post Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation? appeared first on ERP Software Blog.\nAP Automation for Dynamics GP: Creative Solutions Case Study\nInvoice Automation for Microsoft Dynamics GP\nDynamics GP Case Study: American Software",
+          "link": "https://erpsoftwareblog.com/2023/11/is-your-data-extraction-tool-enhancing-or-hindering-invoice-automation/",
+          "publishedOn": "2023-11-08T19:20:02.000Z",
+          "wordCount": 7132,
+          "title": "Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/t1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101830",
+          "author": "DynamicPoint",
+          "description": "When it comes to creating an accounts payable (AP) automation solution, Office 365 offers a range of tools and applications that can be utilized. The alternative to using a Microsoft …  Creating An AP Automation Solution On Office 365 Versus Alternative Solutions Read More »\nThe post Creating An AP Automation Solution On Office 365 Versus Alternative Solutions appeared first on ERP Software Blog.\n4 Reasons to Safeguard Your Business with AP Automation and Sales Tax Compliance\nAP Automation Benefits Every Company Size\nBank Foreign Currency Revaluation Process in Dynamics 365 Finance",
+          "link": "https://erpsoftwareblog.com/2023/11/creating-an-ap-automation-solution-on-office-365-versus-alternative-solutions/",
+          "publishedOn": "2023-11-08T16:43:50.000Z",
+          "wordCount": 7026,
+          "title": "Creating An AP Automation Solution On Office 365 Versus Alternative Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DP-11823.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101831",
+          "author": "MetaOption LLC",
+          "description": "In today’s fast-paced business environment, efficiency and collaboration are key to success. For companies using Microsoft Dynamics NAV (formerly Navision) as their Enterprise Resource Planning (ERP) solution, implementing a vendor …  Best Practices for Implementing a Vendor Portal in Microsoft Dynamics NAV Read More »\nThe post Best Practices for Implementing a Vendor Portal in Microsoft Dynamics NAV appeared first on ERP Software Blog.\nStreamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip\nImportance of Dynamics NAV for Pharmaceutical Wholesale Distributors\nScalable Solutions: How Business Central Warehouse Management adapts to growing businesses",
+          "link": "https://erpsoftwareblog.com/2023/11/best-practices-for-implementing-a-vendor-portal-in-dynamics-nav/",
+          "publishedOn": "2023-11-08T16:07:20.000Z",
+          "wordCount": 7593,
+          "title": "Best Practices for Implementing a Vendor Portal in Microsoft Dynamics NAV",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-108.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=100868",
+          "author": "Unified A/R",
+          "description": "Are you frustrated by inefficiencies and delays in your accounts receivable processes? Do you understand the significant impact on your business caused by the longer DSO and operational costs associated …  Top 4 Reasons Your Business Needs Unified A/R for Dynamics 365 Business Central Read More »\nThe post Top 4 Reasons Your Business Needs Unified A/R for Dynamics 365 Business Central appeared first on ERP Software Blog.\nHow are AP and AR the 2 Sides of The Same Coin?\nOptimize Your B2B Credit Card Processing Spend in Dynamics 365 Business Central\n6 Myths About Digital Solutions",
+          "link": "https://erpsoftwareblog.com/2023/11/top-4-reasons-your-business-needs-unified-a-r-for-dynamics-365-business-central/",
+          "publishedOn": "2023-11-08T15:54:26.000Z",
+          "wordCount": 7682,
+          "title": "Top 4 Reasons Your Business Needs Unified A/R for Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-10-4-Reasons-to-Choose-Our-AR-Automation-and-Payments-Solution-for-Dynamics-365-Business-Central_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101824",
+          "author": "KwikTag by Paymerang",
+          "description": "Creative Solutions in Healthcare, the second-largest long term care provider in Texas, boasts and extensive network of 85 nursing and assisted living homes. These facilities are strategically situated in both …  AP Automation for Dynamics GP: Creative Solutions Case Study Read More »\nThe post AP Automation for Dynamics GP: Creative Solutions Case Study appeared first on ERP Software Blog.\nDynamics GP Case Study: American Software\nInvoice Automation for Microsoft Dynamics GP\nHow AP Invoice Automation Drives Cost Savings for Dynamics GP Customers",
+          "link": "https://erpsoftwareblog.com/2023/11/ap-automation-for-dynamics-gp-creative-solutions-case-study/",
+          "publishedOn": "2023-11-08T14:03:56.000Z",
+          "wordCount": 7178,
+          "title": "AP Automation for Dynamics GP: Creative Solutions Case Study",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/cs2.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101819",
+          "author": "KwikTag by Paymerang",
+          "description": "American Software develops, markets and supports a portfolio of demand driven supply chain management and enterprise software solutions backed by more than 45 years of industry experience. They are …  Dynamics GP Case Study: American Software Read More »\nThe post Dynamics GP Case Study: American Software appeared first on ERP Software Blog.\nInvoice Automation for Microsoft Dynamics GP\nHow AP Invoice Automation Drives Cost Savings for Dynamics GP Customers\nWebinar Coming Up! Reducing Accounting Overhead for Long Term Care",
+          "link": "https://erpsoftwareblog.com/2023/11/dynamics-gp-case-study-american-software/",
+          "publishedOn": "2023-11-08T13:42:14.000Z",
+          "wordCount": 7124,
+          "title": "Dynamics GP Case Study: American Software",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/amsoftware.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=101795",
           "author": "Dynamics Square UK",
@@ -5244,6 +5314,101 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/how-to-enable-microsoft-team-chats-in-dynamics-365-apps",
+          "author": "Nishant Rana",
+          "description": "Enabling Microsoft Team chats inside Dynamics 365 allows the agents/sellers to start a new chat from a record or connect an existing chat to a record from within the application […]",
+          "link": "https://365community.online/how-to-enable-microsoft-team-chats-in-dynamics-365-apps",
+          "publishedOn": "2023-11-08T19:00:00.000Z",
+          "wordCount": 3076,
+          "title": "How to- Enable Microsoft Team chats in Dynamics 365 Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/How-to-–-Connect-Dynamics-365-records-and-views-to.jpeg?fit=1200%2C801&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-document-your-extensions-with-the-aldoc-tool-for-partners",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-document-your-extensions-with-the-aldoc-tool-for-partners",
+          "publishedOn": "2023-11-08T15:00:24.000Z",
+          "wordCount": 3118,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Document Your Extensions With the ALDoc Tool for Partners",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/1699461684_New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2023-Wave.png?fit=780%2C438&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-use-secrettext-type-to-protect-credentials-and-sensitive-textual-values-from-being-revealed",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-use-secrettext-type-to-protect-credentials-and-sensitive-textual-values-from-being-revealed",
+          "publishedOn": "2023-11-08T13:00:31.000Z",
+          "wordCount": 3134,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Use SecretText Type to Protect Credentials and Sensitive Textual Values From Being Revealed",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/1699476729_New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2023-Wave.png?fit=713%2C321&ssl=1"
+        },
+        {
+          "id": "https://365community.online/blending-creativity-and-tech-keith-athertons-artistic-journey-through-coding-linkedin-learning-and-the-power-platform",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/498  Ever wondered how creativity and technology collide? Keith Atherton, a senior developer with a background in physics, unveils his unique journey into the tech world in […]",
+          "link": "https://365community.online/blending-creativity-and-tech-keith-athertons-artistic-journey-through-coding-linkedin-learning-and-the-power-platform",
+          "publishedOn": "2023-11-08T13:00:00.000Z",
+          "wordCount": 3102,
+          "title": "Blending Creativity and Tech – Keith Atherton's Artistic Journey through Coding, LinkedIn Learning and the Power Platform",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/13824367-blending-creativity-and-tech-keith-atherton-s-artistic-journey-through-coding-linkedin-learning-and-the-power-platform.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/warehouse-receipt-preview-posting-error-in-warehouse-receipt-in-microsoft-dynamics-365-business-central",
+          "author": "Ian Grieve",
+          "description": "When writing this post on warehouse receipts I came across an oddity when previewing the posting of the receipt. If I created a warehouse receipt for an order, I can […]",
+          "link": "https://365community.online/warehouse-receipt-preview-posting-error-in-warehouse-receipt-in-microsoft-dynamics-365-business-central",
+          "publishedOn": "2023-11-08T11:00:51.000Z",
+          "wordCount": 3097,
+          "title": "Warehouse Receipt Preview Posting Error in Warehouse Receipt in Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Warehouse-Receipt-Preview-Posting-Error-in-Warehouse-Receipt-in-Microsoft.png?fit=500%2C229&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-future-of-location-intelligence-and-ai-trends-and-predictions",
+          "author": "Inogic",
+          "description": "The Global Location Intelligence Market is Anticipated to grow with a CAGR of 15.5% during the period from 2023 to 2032, as per a report by Acumen Research and Consulting. […]",
+          "link": "https://365community.online/the-future-of-location-intelligence-and-ai-trends-and-predictions",
+          "publishedOn": "2023-11-08T09:21:48.000Z",
+          "wordCount": 3273,
+          "title": "The Future of Location Intelligence and AI: Trends and Predictions",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/The-Future-of-Location-Intelligence-and-AI.png?fit=700%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sending-emails-from-contact-and-lead-owners-in-realtime-marketing",
+          "author": "Megan V. Walker",
+          "description": "This isn’t a new thing but I am surprised by how often people aren’t sure how to do this, so this post is about how you can send your marketing […]",
+          "link": "https://365community.online/sending-emails-from-contact-and-lead-owners-in-realtime-marketing",
+          "publishedOn": "2023-11-08T08:30:00.000Z",
+          "wordCount": 3039,
+          "title": "Sending Emails From Contact And Lead Owners In Realtime Marketing",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Sending-Emails-From-Contact-And-Lead-Owners-In-Realtime-Marketing.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sharepoint-security-sync-no-more-security-jump-scares-for-your-dynamics-365-documents-stored-in-sharepoint",
+          "author": "Inogic",
+          "description": "Halloween is over, but some horrors still linger, especially when it comes to the security of your data. If you use Dynamics 365 CRM and SharePoint, you know how vital […]",
+          "link": "https://365community.online/sharepoint-security-sync-no-more-security-jump-scares-for-your-dynamics-365-documents-stored-in-sharepoint",
+          "publishedOn": "2023-11-08T06:14:12.000Z",
+          "wordCount": 3348,
+          "title": "SharePoint Security Sync: No more security jump scares for your Dynamics 365 documents stored in SharePoint",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/SSS-Halloween-Blog-banner.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/unpacking-user-stories-and-backlog-refinement-with-dani-kahil-youtube",
+          "author": "Neil Benson",
+          "description": "#152. Host Neil Benson is joined by the talented Dani Kahil for an insightful discussion on managing backlogs and enhancing user stories in Azure DevOps and Jira. Neil shares his […]",
+          "link": "https://365community.online/unpacking-user-stories-and-backlog-refinement-with-dani-kahil-youtube",
+          "publishedOn": "2023-11-07T23:06:14.000Z",
+          "wordCount": 3219,
+          "title": "Unpacking User Stories and Backlog Refinement with Dani Kahil – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/1699415966_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/use-tag-parameter-to-add-a-shared-variable-to-the-plugin-dataverse-dynamics-365",
           "author": "Nishant Rana",
@@ -19464,6 +19629,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "october-updates-for-modernization-in-canvas-apps-includes-ga-of-few-modern-controls",
+          "author": null,
+          "description": "Note: This blog is in continuation of the series of modern controls coming to canvas apps. You can find the September 2023 updates here. Recently, we also announced GA for modern, refreshed look in model apps. In October’23, we continued enhancing modern controls and theming and delivered some key enhancements as mentioned in this blog,…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/october-updates-for-modernization-in-canvas-apps-includes-ga-of-few-modern-controls/",
+          "publishedOn": "2023-11-08T13:21:00.000Z",
+          "wordCount": 2609,
+          "title": "October updates for modernization in canvas apps (includes GA of few modern controls)",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "expanded-monthly-channel-settings-for-model-driven-apps",
           "author": null,
