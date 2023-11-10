@@ -2,10 +2,142 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-11-09T01:07:47.457Z</updated>
+    <updated>2023-11-10T01:07:08.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How an Industry-Specific Solution Can Change Your Life]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=26515</id>
+        <link href="https://erpsoftwareblog.com/2023/11/simply-wont-believe-much-industry-specific-solutions-will-change-life/"/>
+        <updated>2023-11-09T17:40:28.000Z</updated>
+        <summary type="html"><![CDATA[I’ve run across enough blog posts alluding to the “dangers” of industry-specific solutions that I can’t help but think that there must be some misunderstanding about this topic.  At Tensoft, …  How an Industry-Specific Solution Can Change Your Life Read More »
+The post How an Industry-Specific Solution Can Change Your Life appeared first on ERP Software Blog.
+What's Missing in Traditional ERP Inventory Systems for Semiconductor Manufacturers?
+Why Fabless Semiconductor Companies Rely on Tensoft SemiOps: 3 Minute Video
+An Overview of Start-ups Life Cycle]]></summary>
+        <author>
+            <name>Caprice Murray, Tensoft, Inc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live vs Test Environments and Companies in Dynamics GP]]></title>
+        <id>https://www.encorebusiness.com/?p=59923</id>
+        <link href="https://www.encorebusiness.com/blog/live-vs-test-environments-and-companies-in-dynamics-gp/"/>
+        <updated>2023-11-09T15:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Live vs Test Environments and Companies in Dynamics GP
+If you’ve ever wondered about any of the following questions while configuring Dynamics GP companies in live or test environments, this blog will help identify the differences in managing your Dynamics GP systems effectively. Can I set up and use multiple LIVE/Main company databases in Dynamics GP? Can I set up and use multiple Test...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Patrick Ceaser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Show List of Keys While Working on AL Code]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-show-list-of-keys-while-working-on-al-code</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-show-list-of-keys-while-working-on-al-code"/>
+        <updated>2023-11-09T15:00:56.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot now powers all app descriptions]]></title>
+        <id>copilot-now-powers-all-app-descriptions</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/copilot-now-powers-all-app-descriptions/"/>
+        <updated>2023-11-09T14:10:34.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the Public Preview of Copilot-generated app descriptions in Power Apps. Copilot will now generate a description for every app that is missing a description within Managed Environments.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Segment AL Code and Reduce Naming Conflicts with Namespaces]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-segment-al-code-and-reduce-naming-conflicts-with-namespaces</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-segment-al-code-and-reduce-naming-conflicts-with-namespaces"/>
+        <updated>2023-11-09T13:00:18.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curso Microsoft completo e gratuito sobre IA Generativa – YouTube]]></title>
+        <id>https://365community.online/curso-microsoft-completo-e-gratuito-sobre-ia-generativa-youtube</id>
+        <link href="https://365community.online/curso-microsoft-completo-e-gratuito-sobre-ia-generativa-youtube"/>
+        <updated>2023-11-09T11:21:38.000Z</updated>
+        <summary type="html"><![CDATA[Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCUuAtzt0pMmnC54UpEVls8g/join 🚁 Participe da nossa comunidade no Discord https://discord.gg/PzuuN5N ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate […]]]></summary>
+        <author>
+            <name>Saulo Soares Oliveira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Install Microsoft SQL Server 2022: SSIS Configuration For Named Instances]]></title>
+        <id>https://365community.online/how-to-install-microsoft-sql-server-2022-ssis-configuration-for-named-instances</id>
+        <link href="https://365community.online/how-to-install-microsoft-sql-server-2022-ssis-configuration-for-named-instances"/>
+        <updated>2023-11-09T11:00:20.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the series on How To Install Microsoft SQL Server 2022; I do not claim to be an expert on SQL Server and this series is […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plugins 4 Dummies – RegEx]]></title>
+        <id>https://365community.online/plugins-4-dummies-regex</id>
+        <link href="https://365community.online/plugins-4-dummies-regex"/>
+        <updated>2023-11-09T10:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Click here to view all Plugins 4 Dummies Videos In this next video, we cover how to work with RegEx. RegEx let’s us manipulate text variables in a way that […]]]></summary>
+        <author>
+            <name>Thomas Sandsør</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Custom Dynamics 365 Documentation with ClickLearn]]></title>
+        <id>https://erpsoftwareblog.com/?p=101845</id>
+        <link href="https://erpsoftwareblog.com/2023/11/streamlining-custom-dynamics-365-documentation-with-clicklearn/"/>
+        <updated>2023-11-09T09:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Creating effective documentation for your Dynamics 365 implementation and unique business processes is essential for user adoption and productivity. However, the process of creating and maintaining documentation can be challenging. …  Streamlining Custom Dynamics 365 Documentation with ClickLearn Read More »
+The post Streamlining Custom Dynamics 365 Documentation with ClickLearn appeared first on ERP Software Blog.
+There ain't no thing as a free WMS? Think again.
+Get an Instant Budgetary Quote For Microsoft Dynamics ERP
+Upcoming Webinar: "Business Central and the Power of Visual Scheduling"]]></summary>
+        <author>
+            <name>ClickLearn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Segment Insights (Preview) feature using Differentiator and Overlap Analysis]]></title>
+        <id>https://365community.online/segment-insights-preview-feature-using-differentiator-and-overlap-analysis</id>
+        <link href="https://365community.online/segment-insights-preview-feature-using-differentiator-and-overlap-analysis"/>
+        <updated>2023-11-09T06:26:33.000Z</updated>
+        <summary type="html"><![CDATA[In today’s competitive world, targeting a specific type of audience for marketing based on filtered criteria like demographic, firmographic, behavioral data, and other considerations is the key to success. Segments […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Issue Resolved] ReferenceError: Web resource method does not exist in Dynamics 365 CE Javascript Error]]></title>
+        <id>https://365community.online/issue-resolved-referenceerror-web-resource-method-does-not-exist-in-dynamics-365-ce-javascript-error</id>
+        <link href="https://365community.online/issue-resolved-referenceerror-web-resource-method-does-not-exist-in-dynamics-365-ce-javascript-error"/>
+        <updated>2023-11-09T01:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Today, when I was Testing a feature in the Test Environment, found the below strange error in the Test environment and in the Dev environment there is no such issue […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Practices for Offline Mode in the Field Service mobile app – Part 2]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/administrator/2023/11/08/best-practices-for-offline-mode-in-the-field-service-mobile-app-part-2/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/administrator/2023/11/08/best-practices-for-offline-mode-in-the-field-service-mobile-app-part-2/"/>
+        <updated>2023-11-08T20:46:06.000Z</updated>
+        <summary type="html"><![CDATA[In Part 1 of this series, we discussed the end-user experience of the offline-first Field Service Mobile application. In this second part we will go through some of the configuration and best practices for a successful offline rollout.  Mobile Offline Configuration & Best Practices Leverage the out of the box mobile offline profile  The out
+The post Best Practices for Offline Mode in the Field Service mobile app – Part 2 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jonathan Baker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation?]]></title>
         <id>https://erpsoftwareblog.com/?p=101838</id>
@@ -59,6 +191,17 @@ Scalable Solutions: How Business Central Warehouse Management adapts to growing 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microsoft is a Leader in The Forrester Wave™: Sales Force Automation, Q3 2023]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/08/microsoft-is-a-leader-in-the-forrester-wave-sales-force-automation-q3-2023/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/08/microsoft-is-a-leader-in-the-forrester-wave-sales-force-automation-q3-2023/"/>
+        <updated>2023-11-08T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Selling is all about relationships. We hear a lot these days about the disconnect that our increasingly digital world can create. But at Microsoft, we believe that digital tools, especially those powered by generative AI and real-time insights, can help strengthen sellers’ relationships with their customers. 
+The post Microsoft is a Leader in The Forrester Wave™: Sales Force Automation, Q3 2023 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Lori Lamkin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top 4 Reasons Your Business Needs Unified A/R for Dynamics 365 Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=100868</id>
         <link href="https://erpsoftwareblog.com/2023/11/top-4-reasons-your-business-needs-unified-a-r-for-dynamics-365-business-central/"/>
@@ -80,6 +223,16 @@ Optimize Your B2B Credit Card Processing Spend in Dynamics 365 Business Central
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blending Creativity and Tech – Keith Atherton’s Artistic Journey through Coding, LinkedIn Learni – YouTube]]></title>
+        <id>https://365community.online/blending-creativity-and-tech-keith-athertons-artistic-journey-through-coding-linkedin-learni-youtube</id>
+        <link href="https://365community.online/blending-creativity-and-tech-keith-athertons-artistic-journey-through-coding-linkedin-learni-youtube"/>
+        <updated>2023-11-08T14:11:50.000Z</updated>
+        <summary type="html"><![CDATA[Blending Creativity and Tech – Keith Atherton’s Artistic Journey through Coding, LinkedIn Learni Join the conversation with Keith Atherton as he discusses the power of Power Platform, his journey into […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
         </author>
     </entry>
     <entry>
@@ -226,6 +379,17 @@ Don't Blow The Call - Implement Dynamics GP 2010]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Embrace agent availability to reduce customer wait times]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/11/07/embrace-agent-availability-to-reduce-customer-wait-times/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/11/07/embrace-agent-availability-to-reduce-customer-wait-times/"/>
+        <updated>2023-11-07T17:25:40.000Z</updated>
+        <summary type="html"><![CDATA[In the realm of customer service, one enduring pain point affects both customers and service providers: the uncertainty of agent availability. When customers engage in live chat for assistance, the last thing they want is to be left hanging in a seemingly endless queue, uncertain about when they’ll connect with a support agent.  The challenge
+The post Embrace agent availability to reduce customer wait times appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Vamsee Mullapudi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!]]></title>
         <id>https://erpsoftwareblog.com/?p=101788</id>
         <link href="https://erpsoftwareblog.com/2023/11/websan-solutions-inc-invites-you-to-our-third-annual-interactive-virtual-half-day-conference-dynamics-virtual-launchpad/"/>
@@ -250,6 +414,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Sandra Roskin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for the CRM Customer Engagement Center]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/07/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-the-crm-customer-engagement-center/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/07/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-the-crm-customer-engagement-center/"/>
+        <updated>2023-11-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is with great pride that Microsoft has been recognized as a Leader within the 2023 Gartner Magic Quadrant for CRM Customer Engagement Center. We believe this placement recognizes Microsoft’s continued rapid pace of innovation and our customers’ success using our service as well as our broader end-to-end CRM (customer relationship management) solutions and cloud functionality.  
+The post Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for the CRM Customer Engagement Center appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jeff Comstock</name>
         </author>
     </entry>
     <entry>
@@ -362,6 +537,17 @@ Considerations for ERP and POS Integration]]></summary>
         <summary type="html"><![CDATA[This article is part of the series on How To Install Microsoft SQL Server 2022; I do not claim to be an expert on SQL Server and this series is […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing Supply Chain Management with Dynamics 365 Demand Planning: Unleash the Power of AI-Driven Precision]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/11/07/revolutionizing-supply-chain-management-with-dynamics-365-demand-planning-unleash-the-power-of-ai-driven-precision/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/11/07/revolutionizing-supply-chain-management-with-dynamics-365-demand-planning-unleash-the-power-of-ai-driven-precision/"/>
+        <updated>2023-11-07T10:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Unveiled at the 2023 Microsoft BALE Event and set for Public Preview release on October 31st, 2023, the Demand Planning App for Dynamics 365 Supply Chain Management is poised to revolutionize supply chain management for the modern era. It represents a transformative force in supply chain management and a pivotal component of Microsoft's AI ERP offering. As businesses grapple with evolving challenges, harnessing intelligent demand planning is no longer a choice—it's an imperative for survival and triumph in today's fiercely competitive market. This app equips enterprises with the tools they need to confidently, flexibly, and profitably navigate the complexities of the contemporary supply chain landscape.
+The post Revolutionizing Supply Chain Management with Dynamics 365 Demand Planning: Unleash the Power of AI-Driven Precision appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Denis Conway</name>
         </author>
     </entry>
     <entry>
