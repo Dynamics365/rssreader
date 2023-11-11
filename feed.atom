@@ -2,10 +2,220 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-11-10T01:07:08.298Z</updated>
+    <updated>2023-11-11T02:10:21.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Operations with Shop Floor Insight: Dynamics GP to Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=101875</id>
+        <link href="https://erpsoftwareblog.com/2023/11/optimizing-the-shop-floor-from-dynamics-gp-to-business-central/"/>
+        <updated>2023-11-10T17:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Optimizing Operations with Shop Floor Insight: Elevate efficiency as you transition from Dynamics GP to Business Central.
+The post Optimizing Operations with Shop Floor Insight: Dynamics GP to Business Central appeared first on ERP Software Blog.
+Getting in Tune with the Shop Floor with Microsoft Dynamics 365 for Manufacturing
+How to move from Microsoft Dynamics GP to Business Central in a few easy steps
+Webinar Recap: Everyone's Turning on Dynamics GP - Here's What You Can Do]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Sales Copilot – Resúmenes de Oportunidades y emails – YouTube]]></title>
+        <id>https://365community.online/microsoft-sales-copilot-resumenes-de-oportunidades-y-emails-youtube</id>
+        <link href="https://365community.online/microsoft-sales-copilot-resumenes-de-oportunidades-y-emails-youtube"/>
+        <updated>2023-11-10T16:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Sales Copilot – Resúmenes de Oportunidades y emails En nuestro vídeo de hoy, vamos a explorar las más recientes funcionalidades que han aterrizado en la pestaña de Highlights de […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Migration in ERP Migration Process]]></title>
+        <id>https://erpsoftwareblog.com/?p=101872</id>
+        <link href="https://erpsoftwareblog.com/2023/11/data-migration-in-erp-migration-process/"/>
+        <updated>2023-11-10T15:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Data Migration in the ERP Migration Process is a critical aspect of successful digital transformation. ERP systems are comprehensive solutions that integrate and perform various business processes and functions across …  Data Migration in ERP Migration Process Read More »
+The post Data Migration in ERP Migration Process appeared first on ERP Software Blog.
+Improving SMB Planning, Budgeting & Forecasting
+Portals Improving Relationships: 3 Groups of Transparency with Dynamics GP
+Take Control of Your ERP Data]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Provide Queries for Users to do Ad Hoc Data Analysis Across Tables]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-provide-queries-for-users-to-do-ad-hoc-data-analysis-across-tables</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-provide-queries-for-users-to-do-ad-hoc-data-analysis-across-tables"/>
+        <updated>2023-11-10T15:00:42.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Use the AL Language Extension for Linux in Preview]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-use-the-al-language-extension-for-linux-in-preview</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-use-the-al-language-extension-for-linux-in-preview"/>
+        <updated>2023-11-10T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oData expand feature]]></title>
+        <id>1928</id>
+        <link href="http://daxonline.org/1928-odata-expand-feature.html"/>
+        <updated>2023-11-10T12:37:25.000Z</updated>
+        <summary type="html"><![CDATA[Data entities can be expand with additional child entities with 
+expand keyword. For example:
+
+
+https://{d365BaseURL}/data/ReleasedProductsV2?cross-company=true&$filter=dataAreaId eq 'VK'
+&$expand=VendorProductDescriptionsV2($select=ItemNumber),ProductAttributeValuesV3($select=ProductNumber)
+
+
+For this feature to work proper relation should be declared on the child data entity to parent data entity:
+
+
+
+ 
+  
+  
+
+RELATION PROPERTY
+    
+  
+
+VALUE 
+   
+ 
+  
+  
+Name
+    
+  
+EcoResReleasedProductV2Entity
+   
+ 
+  
+  
+Related Data Entity
+    
+  
+EcoResReleasedProductV2Entity
+   
+ 
+  
+  
+Cardinality
+    
+  
+ZeroMore
+   
+ 
+  
+  
+Related Data Entity Cardinality   
+    
+  
+ExactlyOne
+   
+ 
+  
+  
+Relationship Type
+    
+  
+Association
+   
+ 
+  
+  
+Relation
+    
+  
+EcoResReleasedProductV2Entity.ItemNumber  = PurchVendorProductDescriptionV2Entity.ItemNumber 
+   
+ 
+  
+  
+Validate
+    
+  
+No
+   
+ 
+  
+  
+RelatedDataEntityRole
+    
+  
+ReleasedProductV2
+   
+ 
+  
+  
+Role
+    
+  
+VendorProductDescriptionV2]]></summary>
+        <author>
+            <name>Vasyl Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Understand Warehouse Receipts and Put-aways in Advanced Warehousing]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-understand-warehouse-receipts-and-put-aways-in-advanced-warehousing</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-understand-warehouse-receipts-and-put-aways-in-advanced-warehousing"/>
+        <updated>2023-11-10T11:00:18.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insurance agency Nsure.com leverages Microsoft Power Platform and generative AI to reduce manual processes by 60%+]]></title>
+        <id>insurance-agency-nsure-com-leverages-microsoft-power-platform-and-generative-ai-to-reduce-manual-processes-by-60</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/insurance-agency-nsure-com-leverages-microsoft-power-platform-and-generative-ai-to-reduce-manual-processes-by-60/"/>
+        <updated>2023-11-10T08:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Nsure.com is a licensed digital insurance agency based in Florida, United States, that enables people to buy home and auto insurance on their smartphones, tablets, or computers. Recently, Nsure.com has been adopting and infusing Power Platform’s generative AI and copilot capabilities into some business processes to support sustainable growth of the business without increased operational costs. In this story, we’ll learn how Nsure’s business divisions have built automations with Power Platform and generative AI to increase efficiencies.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maplytics’ crackling Fireworks- Let’s boom geo-mapping!]]></title>
+        <id>https://365community.online/maplytics-crackling-fireworks-lets-boom-geo-mapping</id>
+        <link href="https://365community.online/maplytics-crackling-fireworks-lets-boom-geo-mapping"/>
+        <updated>2023-11-10T05:45:28.000Z</updated>
+        <summary type="html"><![CDATA[A nip in the air indicates not just the change in seasons but also the advent of celebrations. Happier times are on the way and what better way than to […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Cross-Environment Connectivity with the Microsoft Dataverse Connector]]></title>
+        <id>https://365community.online/exploring-cross-environment-connectivity-with-the-microsoft-dataverse-connector</id>
+        <link href="https://365community.online/exploring-cross-environment-connectivity-with-the-microsoft-dataverse-connector"/>
+        <updated>2023-11-10T05:43:37.000Z</updated>
+        <summary type="html"><![CDATA[We know that Power Automate allows us to execute a variety of tasks by connecting our present environment to the platform through the Microsoft Dataverse connector. This connector establishes a […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplified License Assignment for Power Apps]]></title>
+        <id>simplified-license-assignment-for-power-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/simplified-license-assignment-for-power-apps/"/>
+        <updated>2023-11-09T22:06:23.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Easier License Management for Power Apps Starting in December 2023 we are introducing a set of changes which will make it easier for admins to manage license assignments for Power Apps per-user licenses. We understand the complexities admins face when identifying users in need of Power Apps licenses, and we’re excited to introduce enhancements…]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How an Industry-Specific Solution Can Change Your Life]]></title>
         <id>https://www.erpsoftwareblog.com/?p=26515</id>
