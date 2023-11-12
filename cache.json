@@ -5365,6 +5365,36 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/omnichannel-for-customer-service-agent-specific-capacity-profiles",
+          "author": "Neil Parkhurst",
+          "description": "Microsoft have recently released a change to capacity profiles within Unified Routing. As we can how have agent specific capacities. Meaning in Omnichannel for Customer Service one agent might be […]",
+          "link": "https://365community.online/omnichannel-for-customer-service-agent-specific-capacity-profiles",
+          "publishedOn": "2023-11-11T07:06:55.000Z",
+          "wordCount": 3046,
+          "title": "Omnichannel for Customer Service – Agent Specific Capacity Profiles",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Omnichannel-for-Customer-Service-–-Agent-Specific-Capacity-Profiles.jpg?fit=1200%2C682&ssl=1"
+        },
+        {
+          "id": "https://365community.online/omnichannel-for-customer-service-identify-customers",
+          "author": "Neil Parkhurst",
+          "description": "Within Microsoft’s Omnichannel for customer service we can automatically identify customers based on their phone number. (Or email for web chat!) But what logic is used and how can we […]",
+          "link": "https://365community.online/omnichannel-for-customer-service-identify-customers",
+          "publishedOn": "2023-11-11T06:14:58.000Z",
+          "wordCount": 3031,
+          "title": "Omnichannel For Customer Service – Identify Customers",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Omnichannel-For-Customer-Service-–-Identify-Customers.jpg?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://365community.online/document-management-showdown-power-automate-vs-attach2dynamics",
+          "author": "Inogic",
+          "description": "Document management is a critical part of any business, but it can be a daunting task. There are so many different solutions in the market, and it can be difficult […]",
+          "link": "https://365community.online/document-management-showdown-power-automate-vs-attach2dynamics",
+          "publishedOn": "2023-11-11T05:43:43.000Z",
+          "wordCount": 3299,
+          "title": "Document Management Showdown: Power Automate vs. Attach2Dynamics",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/a2d.png?fit=700%2C400&ssl=1"
+        },
+        {
           "id": "https://365community.online/microsoft-sales-copilot-resumenes-de-oportunidades-y-emails-youtube",
           "author": "jarmesto",
           "description": "Microsoft Sales Copilot – Resúmenes de Oportunidades y emails En nuestro vídeo de hoy, vamos a explorar las más recientes funcionalidades que han aterrizado en la pestaña de Highlights de […]",
@@ -19467,16 +19497,6 @@
           "wordCount": 1093,
           "title": "Dynamics AX performance monitoring: missing indexes",
           "imageUrl": "https://denistrunin.com/static/ab8f0d0711f8124a7b03b51ac29f71fa/3965e/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/xpptools-integservbussalesjson/",
-          "author": null,
-          "description": "The blog post describes a sample approach to implement Azure Service Bus integration in D365FO using X++",
-          "link": "https://denistrunin.com/xpptools-integservbussalesjson/",
-          "publishedOn": "2021-11-11T22:12:04.000Z",
-          "wordCount": 2294,
-          "title": "XppInteg - Azure Service Bus integration solution for Dynamics 365 FinOps",
-          "imageUrl": "https://denistrunin.com/static/31d05b65544c16f12af06b3c0d1f7dab/1ec58/logo.png"
         }
       ]
     },

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-11-11T02:10:21.820Z</updated>
+    <updated>2023-11-12T01:12:08.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Omnichannel for Customer Service – Agent Specific Capacity Profiles]]></title>
+        <id>https://365community.online/omnichannel-for-customer-service-agent-specific-capacity-profiles</id>
+        <link href="https://365community.online/omnichannel-for-customer-service-agent-specific-capacity-profiles"/>
+        <updated>2023-11-11T07:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft have recently released a change to capacity profiles within Unified Routing. As we can how have agent specific capacities. Meaning in Omnichannel for Customer Service one agent might be […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnichannel For Customer Service – Identify Customers]]></title>
+        <id>https://365community.online/omnichannel-for-customer-service-identify-customers</id>
+        <link href="https://365community.online/omnichannel-for-customer-service-identify-customers"/>
+        <updated>2023-11-11T06:14:58.000Z</updated>
+        <summary type="html"><![CDATA[Within Microsoft’s Omnichannel for customer service we can automatically identify customers based on their phone number. (Or email for web chat!) But what logic is used and how can we […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Document Management Showdown: Power Automate vs. Attach2Dynamics]]></title>
+        <id>https://365community.online/document-management-showdown-power-automate-vs-attach2dynamics</id>
+        <link href="https://365community.online/document-management-showdown-power-automate-vs-attach2dynamics"/>
+        <updated>2023-11-11T05:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Document management is a critical part of any business, but it can be a daunting task. There are so many different solutions in the market, and it can be difficult […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimizing Operations with Shop Floor Insight: Dynamics GP to Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=101875</id>
@@ -28396,16 +28426,6 @@ the Microsoft Dynamics suite and beyond.
         <summary type="html"><![CDATA[Quality orders in Dynamics 365 Finance and Operations are the primary mechanism for recording and processing quality results for quality related tests during various inbound, outbound, and internal warehouse processes.]]></summary>
         <author>
             <name>Tim Woods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XppInteg - Azure Service Bus integration solution for Dynamics 365 FinOps]]></title>
-        <id>https://denistrunin.com/xpptools-integservbussalesjson/</id>
-        <link href="https://denistrunin.com/xpptools-integservbussalesjson/"/>
-        <updated>2021-11-11T22:12:04.000Z</updated>
-        <summary type="html"><![CDATA[The blog post describes a sample approach to implement Azure Service Bus integration in D365FO using X++]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
         </author>
     </entry>
     <entry>
