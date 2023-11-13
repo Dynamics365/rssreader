@@ -5365,6 +5365,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/database-inserts-and-performance",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 11/11/23. Last modified:  11/11/23 Tags:  performance Insert Preamble There are several different ways to create records using X++. First, the most common will be to use […]",
+          "link": "https://365community.online/database-inserts-and-performance",
+          "publishedOn": "2023-11-12T04:26:58.000Z",
+          "wordCount": 3036,
+          "title": "Database Inserts and Performance",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
           "id": "https://365community.online/omnichannel-for-customer-service-agent-specific-capacity-profiles",
           "author": "Neil Parkhurst",
           "description": "Microsoft have recently released a change to capacity profiles within Unified Routing. As we can how have agent specific capacities. Meaning in Omnichannel for Customer Service one agent might be […]",
@@ -10305,6 +10315,16 @@
       "feedUrl": "http://atomicax.com/rss.xml",
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
+        {
+          "id": "1675 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 11/11/23.\n\n\nLast modified: \n\n11/11/23\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nperformance      \nInsert      \n\nPreamble\nThere are several different ways to create records using X++. First, the most common will be to use a record buffer. By far and away the most common but we're in how we're inserting data in X++. I'd list the ways of inserting data in X++ as follows:\nSingle record insert - Most common use case, happens all the time. you open a transaction, set values on a buffer, tell it to insert(), close the transaction.\nMulti record insert - This is inserting multiple records at a time in a single transaction.\nInsert_RecordSet - This is using bypassing using a specific buffer and instead attempting to insert data more directly into the database. You can read more at https…",
+          "link": "https://www.atomicax.com/article/database-inserts-and-performance",
+          "publishedOn": "2023-11-12T04:26:58.000Z",
+          "wordCount": 2247,
+          "title": "Database Inserts and Performance",
+          "imageUrl": null
+        },
         {
           "id": "1660 at https://www.atomicax.com",
           "author": "Nathan Clouse",
@@ -19614,16 +19634,6 @@
           "wordCount": 2344,
           "title": "Process a Transfer Order: D365 Finance and Operations",
           "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2022/02/ProcessTransferOrder.jpg"
-        },
-        {
-          "id": "https://dynamics-tips.com/?p=2124",
-          "author": "Tim Woods",
-          "description": "Quality orders in Dynamics 365 Finance and Operations are the primary mechanism for recording and processing quality results for quality related tests during various inbound, outbound, and internal warehouse processes.",
-          "link": "https://dynamics-tips.com/process-quality-orders-with-wms/",
-          "publishedOn": "2021-11-12T22:58:12.000Z",
-          "wordCount": 3336,
-          "title": "Process Quality Orders with WMS: D365 Finance and Operations",
-          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/11/Quality-orders.jpg"
         }
       ]
     },

@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-11-12T01:12:08.124Z</updated>
+    <updated>2023-11-13T01:09:07.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Database Inserts and Performance]]></title>
+        <id>https://365community.online/database-inserts-and-performance</id>
+        <link href="https://365community.online/database-inserts-and-performance"/>
+        <updated>2023-11-12T04:26:58.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 11/11/23. Last modified:  11/11/23 Tags:  performance Insert Preamble There are several different ways to create records using X++. First, the most common will be to use […]]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Inserts and Performance]]></title>
+        <id>1675 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/database-inserts-and-performance"/>
+        <updated>2023-11-12T04:26:58.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 11/11/23.
+
+
+Last modified: 
+
+11/11/23
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+performance      
+Insert      
+
+Preamble
+There are several different ways to create records using X++. First, the most common will be to use a record buffer. By far and away the most common but we're in how we're inserting data in X++. I'd list the ways of inserting data in X++ as follows:
+Single record insert - Most common use case, happens all the time. you open a transaction, set values on a buffer, tell it to insert(), close the transaction.
+Multi record insert - This is inserting multiple records at a time in a single transaction.
+Insert_RecordSet - This is using bypassing using a specific buffer and instead attempting to insert data more directly into the database. You can read more at https…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Omnichannel for Customer Service – Agent Specific Capacity Profiles]]></title>
         <id>https://365community.online/omnichannel-for-customer-service-agent-specific-capacity-profiles</id>
@@ -28416,16 +28463,6 @@ the Microsoft Dynamics suite and beyond.
         <summary type="html"><![CDATA[When you deploy new F&O environment with power platform integration, automatically Dataverse environment is deployed which auto configure VE solutions and other dual write solutions which are required for bidirectional integration between Dataverse and F&O. However there are scenarios where you have to point it to existing Dataverse environment to newly deployed environment. Now this […]]]></summary>
         <author>
             <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Process Quality Orders with WMS: D365 Finance and Operations]]></title>
-        <id>https://dynamics-tips.com/?p=2124</id>
-        <link href="https://dynamics-tips.com/process-quality-orders-with-wms/"/>
-        <updated>2021-11-12T22:58:12.000Z</updated>
-        <summary type="html"><![CDATA[Quality orders in Dynamics 365 Finance and Operations are the primary mechanism for recording and processing quality results for quality related tests during various inbound, outbound, and internal warehouse processes.]]></summary>
-        <author>
-            <name>Tim Woods</name>
         </author>
     </entry>
     <entry>
