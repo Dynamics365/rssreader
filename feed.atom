@@ -2,10 +2,165 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-11-13T01:09:07.589Z</updated>
+    <updated>2023-11-14T01:07:21.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023 November DC Chapter Meeting]]></title>
+        <id>https://365community.online/2023-november-dc-chapter-meeting</id>
+        <link href="https://365community.online/2023-november-dc-chapter-meeting"/>
+        <updated>2023-11-13T22:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Quick snap of the 2023 November DC Chapter Meeting attendees! Recently, we had the 2023 November DC Chapter Meeting featuring a discussion about Dynamics 365 and the Power Platform! As […]]]></summary>
+        <author>
+            <name>Kylie Kiser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Licensing Overview]]></title>
+        <id>https://erpsoftwareblog.com/?p=100662</id>
+        <link href="https://erpsoftwareblog.com/2023/11/microsoft-dynamics-365-licensing-overview/"/>
+        <updated>2023-11-13T22:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365’s ERP/CRM applications drive efficiency, reduce costs, and connect processes across organizations to enable innovation. Perhaps the most popular business application within the Dynamics 365 suite of products …  Microsoft Dynamics 365 Licensing Overview Read More »
+The post Microsoft Dynamics 365 Licensing Overview appeared first on ERP Software Blog.
+Interested in Cloud Computing?: Get Your Answers at Explore Microsoft Business Cloud!
+Selecting the Best ERP Software -- How to Make a Big, Scary Decision Simply Easy.
+Mastering Financial Management with Microsoft Business Central]]></summary>
+        <author>
+            <name>EFOQUS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation?]]></title>
+        <id>https://erpsoftwareblog.com/?p=101892</id>
+        <link href="https://erpsoftwareblog.com/2023/11/is-your-data-extraction-tool-enhancing-or-hindering-invoice-automation-2/"/>
+        <updated>2023-11-13T19:38:09.000Z</updated>
+        <summary type="html"><![CDATA[In today's fast-paced business environment, achieving efficiency and precision is paramount for seamless invoice automation. Many companies turn to data extraction tools to streamline the extraction of invoice data, but …  Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation? Read More »
+The post Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation? appeared first on ERP Software Blog.
+AP Automation for Dynamics GP: Creative Solutions Case Study
+Invoice Automation for Microsoft Dynamics GP
+Dynamics GP Case Study: American Software]]></summary>
+        <author>
+            <name>KwikTag by Paymerang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Copilot in Customer Service and Custom Apps (Dynamics 365)]]></title>
+        <id>https://365community.online/enable-copilot-in-customer-service-and-custom-apps-dynamics-365</id>
+        <link href="https://365community.online/enable-copilot-in-customer-service-and-custom-apps-dynamics-365"/>
+        <updated>2023-11-13T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Copilot (preview) for Dynamics 365 Customer Service provides the following features – To enable it, navgiate to Customer Service Admin Center >> Agent Experience >> Productivity >> Manage (Copilot help […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reporting in Dynamics 365 Customer Engagement]]></title>
+        <id>https://www.encorebusiness.com/?p=60058</id>
+        <link href="https://www.encorebusiness.com/blog/reporting-in-d365-ce/"/>
+        <updated>2023-11-13T15:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Reporting in Dynamics 365 Customer Engagement
+The shift from on-premise to a cloud environment has altered data access and reporting dynamics, and there are various methods for extracting valuable insights from Dynamics 365 Customer Engagement (D365 CE). In this article, we will provide an in-depth exploration of the primary reporting methods within D365 CE. Table of Contents Charts, Views, and Dashboards...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Andrea Oklobdzija</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Add Teaching Tooltips on Queries and Report Request Pages]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-add-teaching-tooltips-on-queries-and-report-request-pages</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-add-teaching-tooltips-on-queries-and-report-request-pages"/>
+        <updated>2023-11-13T15:00:54.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The legal entity data aspect of Dual-writes]]></title>
+        <id>https://365community.online/the-legal-entity-data-aspect-of-dual-writes</id>
+        <link href="https://365community.online/the-legal-entity-data-aspect-of-dual-writes"/>
+        <updated>2023-11-13T14:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 has, for many years been sold by Microsoft as one system even if there are different platforms that are connected. To get F&O and Dataverse business flows to […]]]></summary>
+        <author>
+            <name>Kieran Holmes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Tips for Changing Your EDI Provider for Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=101882</id>
+        <link href="https://erpsoftwareblog.com/2023/11/5-tips-for-changing-your-edi-provider-for-dynamics-365/"/>
+        <updated>2023-11-13T14:31:19.000Z</updated>
+        <summary type="html"><![CDATA[Electronic Data Interchange (EDI) is a critical component for businesses, especially when integrated with your Dynamics 365 ERP. A switch in EDI providers can significantly impact your operations, so it’s …  5 Tips for Changing Your EDI Provider for Dynamics 365 Read More »
+The post 5 Tips for Changing Your EDI Provider for Dynamics 365 appeared first on ERP Software Blog.
+Streamline Purchase & Sales Orders with Free App for Business Central
+Insight Works: Supporting Nonprofits via Technology
+Supercharge Dynamics 365 Business Central for Supply Chain Excellence in September Demo Showcase]]></summary>
+        <author>
+            <name>Vantree Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read Excel File from SharePoint Online and create Records in Dataverse | Power Automate Flow]]></title>
+        <id>https://365community.online/read-excel-file-from-sharepoint-online-and-create-records-in-dataverse-power-automate-flow</id>
+        <link href="https://365community.online/read-excel-file-from-sharepoint-online-and-create-records-in-dataverse-power-automate-flow"/>
+        <updated>2023-11-13T13:26:51.000Z</updated>
+        <summary type="html"><![CDATA[One of the most common scenarios is to be able to pick an Excel spreadsheet from a SharePoint Document location and create records in Dataverse. There are several ways to […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enrique Lima award 2023]]></title>
+        <id>https://365community.online/enrique-lima-award-2023</id>
+        <link href="https://365community.online/enrique-lima-award-2023"/>
+        <updated>2023-11-13T13:14:43.000Z</updated>
+        <summary type="html"><![CDATA[Last week I was awarded the Enrique Lima award. Enrique was an MCT who was passionate about the MCT program and a great mentor and advocate for MCTs who sadly […]]]></summary>
+        <author>
+            <name>Julian Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where have my certifications gone?]]></title>
+        <id>https://365community.online/where-have-my-certifications-gone</id>
+        <link href="https://365community.online/where-have-my-certifications-gone"/>
+        <updated>2023-11-13T13:04:58.000Z</updated>
+        <summary type="html"><![CDATA[Looking at Microsoft Learn recently, I noticed a few changes which seems to have confused a lot of people. First, Certifications appeared to be missing from my profile https://learn.microsoft.com/users/me. In […]]]></summary>
+        <author>
+            <name>Julian Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Add a New FieldGroup to an Existing Table]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-add-a-new-fieldgroup-to-an-existing-table</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-add-a-new-fieldgroup-to-an-existing-table"/>
+        <updated>2023-11-13T13:00:47.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailblazing in Tech: Dipti Jaiswal's Journey from Bangalore to Microsoft and the Unveiling of Power Pages]]></title>
+        <id>https://365community.online/trailblazing-in-tech-dipti-jaiswals-journey-from-bangalore-to-microsoft-and-the-unveiling-of-power-pages</id>
+        <link href="https://365community.online/trailblazing-in-tech-dipti-jaiswals-journey-from-bangalore-to-microsoft-and-the-unveiling-of-power-pages"/>
+        <updated>2023-11-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/499  Ever wonder how tech leaders make their way to top companies like Microsoft? Join us on a fascinating journey with Dipti Jaiswal, principal group engineering manager […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Ignite]]></title>
+        <id>https://365community.online/microsoft-ignite</id>
+        <link href="https://365community.online/microsoft-ignite"/>
+        <updated>2023-11-13T12:47:25.000Z</updated>
+        <summary type="html"><![CDATA[Ignite starts on Wednesday for those attending virtually. Sign up at https://ignite.microsoft.com AI will be the focus this year. I’m not attending in person this year but will be moderating […]]]></summary>
+        <author>
+            <name>Julian Sharp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Database Inserts and Performance]]></title>
         <id>https://365community.online/database-inserts-and-performance</id>
@@ -28451,16 +28606,6 @@ the Microsoft Dynamics suite and beyond.
         <link href="https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/posts/link-newly-created-f-o-environment-with-existing-power-platform-dataverse-environment"/>
         <updated>2021-11-14T00:16:00.000Z</updated>
         <summary type="html"><![CDATA[Read Complete post here(read more)]]></summary>
-        <author>
-            <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Link newly created F&O environment with existing Dataverse environment]]></title>
-        <id>http://elearnd365.com/?p=484</id>
-        <link href="https://elearnd365.com/2021/11/13/link-newly-created-fo-environment-with-existing-dataverse-environment/"/>
-        <updated>2021-11-13T18:55:00.000Z</updated>
-        <summary type="html"><![CDATA[When you deploy new F&O environment with power platform integration, automatically Dataverse environment is deployed which auto configure VE solutions and other dual write solutions which are required for bidirectional integration between Dataverse and F&O. However there are scenarios where you have to point it to existing Dataverse environment to newly deployed environment. Now this […]]]></summary>
         <author>
             <name>Sukrut Parab</name>
         </author>
