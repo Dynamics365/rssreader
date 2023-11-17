@@ -2731,6 +2731,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=101983",
+          "author": "NMB Solutions",
+          "description": "The holiday season is knocking on the door, but the peak season has already started. It’s a demanding period marked by heightened customer expectations and urgent, last-minute shopping, which can …  Holiday Magic in the Supply Chain: Challenges and Solutions Read More »\nThe post Holiday Magic in the Supply Chain: Challenges and Solutions appeared first on ERP Software Blog.\nTime to Upgrade Your TMS or Maybe Move to a New Provider ?\nOffice of foreign Assets Control reinforcing Global Sanctions: Strengthening Measures Against Russia's War on Ukraine\nWebinar: How intuition & integration drive revenue & cost analysis with DynaRent in Dynamics 365 for Operations",
+          "link": "https://erpsoftwareblog.com/2023/11/holiday-magic-in-the-supply-chain-challenges-and-solutions/",
+          "publishedOn": "2023-11-16T17:53:55.000Z",
+          "wordCount": 7626,
+          "title": "Holiday Magic in the Supply Chain: Challenges and Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101762",
+          "author": "Insight Works",
+          "description": "Explore how Business Central's WMS, Warehouse Insight, adapts to existing warehouse processes, offering seamless mobile device integration and barcode scanning.\nThe post Business Central WMS: Where Adaptability Meets Efficiency appeared first on ERP Software Blog.\nBlockchain for Supply Chain – Breakthrough or Bust?\nQuality Control in Inventory and Manufacturing Using Dynamics 365 Business Central\nInsight Works Unveils Enhanced Order Fulfillment for Dynamics 365",
+          "link": "https://erpsoftwareblog.com/2023/11/business-central-wms-where-adaptability-meets-efficiency/",
+          "publishedOn": "2023-11-16T16:11:55.000Z",
+          "wordCount": 7636,
+          "title": "Business Central WMS: Where Adaptability Meets Efficiency",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Warehouse-Insight.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101980",
+          "author": "Dynamics Square USA",
+          "description": "Microsoft Dynamics 365 is a full-suite business solution that includes industry-standard ERP and CRM functionalities. However, for any firm to get the most out of any solution, it takes more …  Choosing Microsoft Dynamics 365 Support Partner: Key Considerations Read More »\nThe post Choosing Microsoft Dynamics 365 Support Partner: Key Considerations appeared first on ERP Software Blog.\nWhat's Missing in Traditional ERP Inventory Systems for Semiconductor Manufacturers?\nHow Much Does a Microsoft Dynamics GP Implementation Cost?\nHarnessing the Power of AI: 6 Strategies for Asset Management Firms",
+          "link": "https://erpsoftwareblog.com/2023/11/microsoft-dynamics-365-support-partner/",
+          "publishedOn": "2023-11-16T14:43:31.000Z",
+          "wordCount": 8343,
+          "title": "Choosing Microsoft Dynamics 365 Support Partner: Key Considerations",
+          "imageUrl": "https://www.dynamicssquare.com/_next/image/?url=%2Fimg%2Fsupport-service-banner.png&w=1920&q=75"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=101949",
+          "author": "Bluefort",
+          "description": "Bluefort, a leading Microsoft Global ISV based in Malta, with US operations based in Atlanta, is pleased to announce its teaming up with TeamCentral, an innovative integration platform as a …  Bluefort Teams Up with TeamCentral to Enhance B2B Automation and Integration Capabilities Read More »\nThe post Bluefort Teams Up with TeamCentral to Enhance B2B Automation and Integration Capabilities appeared first on ERP Software Blog.\nWant to provide equipment and its status directly to each depot manager and take proper action immediately?\nHow to improve efficiency with crane rental software\nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers",
+          "link": "https://erpsoftwareblog.com/2023/11/bluefort-teams-up-with-teamcentral-to-enhance-b2b-automation-and-integration-capabilities/",
+          "publishedOn": "2023-11-16T07:04:14.000Z",
+          "wordCount": 7353,
+          "title": "Bluefort Teams Up with TeamCentral to Enhance B2B Automation and Integration Capabilities",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=101948",
           "author": "Dynamics Square USA",
           "description": "Microsoft Dynamics 365 Business Central is a one of the best cloud ERP software designed for small to medium-sized businesses. It offers a range of capabilities that streamline business processes, …  Microsoft Dynamics 365 Business Central Features and Benefits Read More »\nThe post Microsoft Dynamics 365 Business Central Features and Benefits appeared first on ERP Software Blog.\n6 Myths About Digital Solutions\n3 key inputs to consider when selecting a new ERP (or staying)\nThe Rundown on Backups in Microsoft Dynamics 365 Business Central",
@@ -4628,6 +4668,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=49569",
+          "author": "Angela Nice",
+          "description": "EFT Tables Used in Dynamics GP\nIn Dynamics GP, it’s common to need a report on EFT transactions or other information, but you can’t use a built-in report or SmartList to get that info. Instead, business analysts, developers, or consultants often need to create customized SSRS or SmartList reports for this purpose. Below, you’ll find a list of all the SQL...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/eft-tables-used-in-dynamics-gp/",
+          "publishedOn": "2023-11-16T12:13:25.000Z",
+          "wordCount": 1341,
+          "title": "EFT Tables Used in Dynamics GP",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=60058",
           "author": "Andrea Oklobdzija",
           "description": "Reporting in Dynamics 365 Customer Engagement\nThe shift from on-premise to a cloud environment has altered data access and reporting dynamics, and there are various methods for extracting valuable insights from Dynamics 365 Customer Engagement (D365 CE). In this article, we will provide an in-depth exploration of the primary reporting methods within D365 CE. Table of Contents Charts, Views, and Dashboards...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -5505,6 +5555,76 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/byoc-microsoft-copilot-studio",
+          "author": "Ana Inés Urrutia",
+          "description": "There is someone who is SUPER hyped with all the Copilot stuff going on, and that person is ME. I won’t tell you what is going on with it, you […]",
+          "link": "https://365community.online/byoc-microsoft-copilot-studio",
+          "publishedOn": "2023-11-16T17:31:04.000Z",
+          "wordCount": 3031,
+          "title": "BYOC: Microsoft Copilot Studio",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/BYOC-Microsoft-Copilot-Studio.png?fit=1000%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-delete-data-from-uninstalled-extensions-as-an-admin",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-delete-data-from-uninstalled-extensions-as-an-admin",
+          "publishedOn": "2023-11-16T15:00:39.000Z",
+          "wordCount": 3107,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Delete Data from Uninstalled Extensions as an Admin",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-include-or-exclude-tables-from-cloud-migration",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-include-or-exclude-tables-from-cloud-migration",
+          "publishedOn": "2023-11-16T13:00:51.000Z",
+          "wordCount": 3102,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Include or Exclude Tables From Cloud Migration",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-define-multi-worksheet-datasets-for-excel-reports",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-define-multi-worksheet-datasets-for-excel-reports",
+          "publishedOn": "2023-11-16T11:00:46.000Z",
+          "wordCount": 3099,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Define multi-worksheet datasets for Excel reports",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/1700135918_New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2023-Wave.png?fit=780%2C440&ssl=1"
+        },
+        {
+          "id": "https://365community.online/back-to-school-or-whats-new-wave-2-2023",
+          "author": "CRMAudio",
+          "description": "In this episode, George and Nick dive into Wave 2 2023 and what it’s going to wash out for Power Pages. What’s in store?  The integration of DocuSign  Bootstrap 5 […]",
+          "link": "https://365community.online/back-to-school-or-whats-new-wave-2-2023",
+          "publishedOn": "2023-11-16T09:25:00.000Z",
+          "wordCount": 3016,
+          "title": "Back to School or What's New Wave 2 2023",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Back-to-School-or-What039s-New-Wave-2-2023.png?fit=250%2C250&ssl=1"
+        },
+        {
+          "id": "https://365community.online/create-realtime-marketing-dashboards-in-d365",
+          "author": "Megan V. Walker",
+          "description": "Want to know how to create Realtime Marketing Dashboards in D365? Before we begin, this isn’t new functionality… but it’s taking advantage of age old CRM views, charts and dashboards […]",
+          "link": "https://365community.online/create-realtime-marketing-dashboards-in-d365",
+          "publishedOn": "2023-11-16T08:30:00.000Z",
+          "wordCount": 3019,
+          "title": "Create Realtime Marketing Dashboards in D365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Create-Realtime-Marketing-Dashboards-in-D365.jpg?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://365community.online/choose-between-model-or-canvas-based-low-code-power-apps-which-one-fits-your-business-requirements",
+          "author": "Inogic",
+          "description": "Introduction Say goodbye to complex coding! Low-code development is a way of crafting software that demands minimal coding expertise. It uses templates and drag-and-drop tools to create applications quickly and […]",
+          "link": "https://365community.online/choose-between-model-or-canvas-based-low-code-power-apps-which-one-fits-your-business-requirements",
+          "publishedOn": "2023-11-16T06:31:59.000Z",
+          "wordCount": 3307,
+          "title": "Choose Between Model or Canvas-Based Low Code Power Apps: Which One Fits Your Business Requirements?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/Copilot-Integrated-Low-Code-Development-Platform.png?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/ask-a-question-copilot-in-dynamics-365-customer-service",
           "author": "Nishant Rana",
           "description": "Agents can use the “Ask a question” functionality from within the Copilot help pane, to ask questions for quick resolution of the case. To enable it navigate to Customer Service […]",
@@ -5523,6 +5643,16 @@
           "wordCount": 3106,
           "title": "New Functionality In Microsoft Dynamics 365 Business Central 2023 Wave 2: Extend General Ledger Posting Aggregations",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-power-of-ai-and-automation-sudeep-ghataks-stellar-journey-from-microsoft-mvp-to-principal-youtube",
+          "author": "NZ365Guy",
+          "description": "The Power of AI and Automation – Sudeep Ghatak’s Stellar Journey from Microsoft MVP to Principal Sudeep Ghatak shares his journey to becoming a Microsoft MVP, co-authoring a book on […]",
+          "link": "https://365community.online/the-power-of-ai-and-automation-sudeep-ghataks-stellar-journey-from-microsoft-mvp-to-principal-youtube",
+          "publishedOn": "2023-11-15T14:11:37.000Z",
+          "wordCount": 3917,
+          "title": "The Power of AI and Automation – Sudeep Ghatak’s Stellar Journey from Microsoft MVP to Principal – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/11/1700112977_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2023-wave-2-appsource-isv-publishers-can-preview-their-appsource-apps-with-select-customers",
@@ -11745,6 +11875,46 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/14/boost-customer-engagement-with-apple-messages-for-business/",
+          "author": "Yan Gao",
+          "description": "With Dynamics 365 Customer Service, you can use Apple Messages for Business to expand your consumer reach, reduce costs, and provide seamless interactions.\nThe post Boost customer engagement with Apple Messages for Business  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/14/boost-customer-engagement-with-apple-messages-for-business/",
+          "publishedOn": "2023-11-14T19:25:33.000Z",
+          "wordCount": 2898,
+          "title": "Boost customer engagement with Apple Messages for Business",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/MSC21_Getty_lifestyle_1151007843-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/13/refresh-the-sales-experience-with-dynamics-365-sales-modern-update/",
+          "author": "Swapnil Agarwwal",
+          "description": "Sellers need to navigate large amounts of information to better engage with customers and it's imperative that they can do that with ease. \nThe post Refresh the Sales experience with Dynamics 365 Sales modern update appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/13/refresh-the-sales-experience-with-dynamics-365-sales-modern-update/",
+          "publishedOn": "2023-11-13T18:30:00.000Z",
+          "wordCount": 2666,
+          "title": "Refresh the Sales experience with Dynamics 365 Sales modern update",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/CLO22_Retail_020-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/10/best-practices-for-offline-mode-in-the-field-service-mobile-app-part-3/",
+          "author": "Jonathan Baker",
+          "description": "In this final part of the Field Service Mobile offline blog series, we will discuss some of the more advanced configuration and recommendations for IT pros and partners to get the most out of their offline application. \nThe post Best Practices for Offline Mode in the Field Service mobile app – Part 3 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/10/best-practices-for-offline-mode-in-the-field-service-mobile-app-part-3/",
+          "publishedOn": "2023-11-10T19:09:00.000Z",
+          "wordCount": 3228,
+          "title": "Best Practices for Offline Mode in the Field Service mobile app – Part 3",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/CLO22_Retail_020-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/09/performance-and-storage-improvements-coming-to-financial-dimensions/",
+          "author": "Ryan Carlson",
+          "description": "A new feature is coming that is designed to improve performance when working with financial dimensions and reduce the overall storage cost of storing financial dimension values. \nThe post Performance and Storage Improvements Coming to Financial Dimensions appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/09/performance-and-storage-improvements-coming-to-financial-dimensions/",
+          "publishedOn": "2023-11-09T16:30:24.000Z",
+          "wordCount": 2586,
+          "title": "Performance and Storage Improvements Coming to Financial Dimensions",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/CLO22_GreenEnergyFarm_008-1024x683.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/administrator/2023/11/08/best-practices-for-offline-mode-in-the-field-service-mobile-app-part-2/",
           "author": "Jonathan Baker",
@@ -20350,6 +20520,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "direct-power-fx-dataverse-action-invocation-ga",
+          "author": null,
+          "description": "We are pleased to announce the general availability of the direct invocation of Dataverse actions in Power Fx Canvas apps. As a part of the Power Fx language, authors can now directly invoke a Dataverse action within a formula. A new Power Fx ‘Environment’ language object that authors can add to their app enables access…",
+          "link": "https://powerapps.microsoft.com/en-us/blog/direct-power-fx-dataverse-action-invocation-ga/",
+          "publishedOn": "2023-11-16T10:36:52.000Z",
+          "wordCount": 1730,
+          "title": "Direct Power Fx Dataverse action invocation GA",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "power-apps-accelerates-the-shift-toward-modern-ai-infused-apps-with-governance-at-scale",
           "author": null,
           "description": "In this era of AI, organizations are presented with both an opportunity and a challenge. They must quickly transform all their solutions to better meet business needs to remain relevant and competitive.",
@@ -22734,6 +22914,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "arcgis-meisterplan-and-microsoft-translator-among-60-new-connectors-50-connector-updates-launched-to-accelerate-value-from-low-code",
+          "author": null,
+          "description": "ArcGIS, Meisterplan and Microsoft Translator among 60+ New Connectors, 50+ Connector Updates launched to get more value out of the box with Power Platform.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/arcgis-meisterplan-and-microsoft-translator-among-60-new-connectors-50-connector-updates-launched-to-accelerate-value-from-low-code/",
+          "publishedOn": "2023-11-16T08:00:00.000Z",
+          "wordCount": 7400,
+          "title": "ArcGIS, Meisterplan and Microsoft Translator among 60+ new connectors, 50+ connector updates launched to accelerate value from low code",
+          "imageUrl": null
+        },
         {
           "id": "copilot-in-power-automate-new-time-saving-experiences-announced-at-microsoft-ignite-2023",
           "author": null,
