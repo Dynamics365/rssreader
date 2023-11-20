@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-11-19T01:14:07.306Z</updated>
+    <updated>2023-11-20T01:10:19.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ignite 2023: Curated blog posts with Microsoft 365 & Power Platform Updates]]></title>
+        <id>https://365community.online/ignite-2023-curated-blog-posts-with-microsoft-365-power-platform-updates</id>
+        <link href="https://365community.online/ignite-2023-curated-blog-posts-with-microsoft-365-power-platform-updates"/>
+        <updated>2023-11-19T13:21:11.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Ignite 2023 was a remarkable event that showcased many exciting announcements across the Microsoft cloud platform in the era of AI. At Ignite 2023, Microsoft focused on AI and […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bacha Lena Prabhu- INDvsAUS 🤞 – YouTube]]></title>
         <id>https://365community.online/bacha-lena-prabhu-indvsaus-%f0%9f%a4%9e-youtube</id>
