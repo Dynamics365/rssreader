@@ -4,11 +4,11 @@ sources:
   # Downloadable E-learning Courses
   # - href: https://community.dynamics.com/365/b/learningcurriculum/rss
   # AX Videos
-  - href: https://community.dynamics.com/ax/b/axvideos/rss
-  - href: https://community.dynamics.com/365/financeandoperations/b/howtovideos/rss
-  - href: https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/rss
+  # - href: https://community.dynamics.com/ax/b/axvideos/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/howtovideos/rss
+  # - href: https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/rss
   # AX News
-  - href: https://community.dynamics.com/ax/b/axmsdwnews/rss
+  # - href: https://community.dynamics.com/ax/b/axmsdwnews/rss
   # - href: https://community.dynamics.com/365/b/365teamblog/rss #builf failed
   
   #https://www.dynamicsduoacademy.com/blog/
@@ -70,33 +70,33 @@ sources:
   
 
   # Old ax
-  - href: https://community.dynamics.com/ax/b/happyd365fo/rss
-  - href: https://community.dynamics.com/ax/b/ftdynamicsax/rss
-  - href: https://community.dynamics.com/ax/b/simpleax/rss
-  - href: https://community.dynamics.com/ax/b/shashisaxblog/rss
-  - href: https://community.dynamics.com/ax/b/moredatamoresuccess/rss
-  - href: https://community.dynamics.com/ax/b/technicaltutorialsformsdynamicsax2012/rss
-  - href: https://community.dynamics.com/ax/b/galynafedorovaaxblog/rss
-  - href: https://community.dynamics.com/ax/b/guyterrysaxblog/rss
-  - href: https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/rss
-  - href: https://community.dynamics.com/ax/b/dynamicsaxconcoction/rss
-  - href: https://community.dynamics.com/ax/b/axrunbase/rss
-  - href: https://community.dynamics.com/ax/b/axstart/rss
-  - href: https://community.dynamics.com/ax/b/axology/rss
-  - href: https://community.dynamics.com/ax/b/1clickfactory365andax/rss
-  - href: https://community.dynamics.com/ax/b/axinthefield/rss
+  # - href: https://community.dynamics.com/ax/b/happyd365fo/rss
+  # - href: https://community.dynamics.com/ax/b/ftdynamicsax/rss
+  # - href: https://community.dynamics.com/ax/b/simpleax/rss
+  # - href: https://community.dynamics.com/ax/b/shashisaxblog/rss
+  # - href: https://community.dynamics.com/ax/b/moredatamoresuccess/rss
+  # - href: https://community.dynamics.com/ax/b/technicaltutorialsformsdynamicsax2012/rss
+  # - href: https://community.dynamics.com/ax/b/galynafedorovaaxblog/rss
+  # - href: https://community.dynamics.com/ax/b/guyterrysaxblog/rss
+  # - href: https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/rss
+  # - href: https://community.dynamics.com/ax/b/dynamicsaxconcoction/rss
+  # - href: https://community.dynamics.com/ax/b/axrunbase/rss
+  # - href: https://community.dynamics.com/ax/b/axstart/rss
+  # - href: https://community.dynamics.com/ax/b/axology/rss
+  # - href: https://community.dynamics.com/ax/b/1clickfactory365andax/rss
+  # - href: https://community.dynamics.com/ax/b/axinthefield/rss
 
   # New AX
-  - href: https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/rss
-  - href: https://community.dynamics.com/365/financeandoperations/b/mfp/rss
-  - href: https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/rss
-  - href: https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/rss
-  - href: https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/rss
-  - href: https://community.dynamics.com/365/financeandoperations/b/axsupport/rss
-  - href: https://community.dynamics.com/365/financeandoperations/b/msdynamics365-empowered-community/rss
-  - href: https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/rss
-  - href: https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/rss
-  - href: https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/mfp/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/axsupport/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/msdynamics365-empowered-community/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/rss
 
   - href: https://elearnd365.com/feed/
   - href: https://denistrunin.com/rss.xml
