@@ -3910,6 +3910,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/replace-edit-with-contribute-permissions-with-sharepoint-site-templates",
+          "author": "Pieter Veenstra",
+          "description": "How do we replace Edit with contribute permissions? When you create a new team site members will have Edit permissions, but often we only want members to have Contribute permissions. […]",
+          "link": "https://365community.online/replace-edit-with-contribute-permissions-with-sharepoint-site-templates",
+          "publishedOn": "2023-12-02T23:25:57.000Z",
+          "wordCount": 3028,
+          "title": "Replace Edit with Contribute permissions with SharePoint Site Templates",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/paginated-rest-api-calls-in-power-bi",
+          "author": "Pieter Veenstra",
+          "description": "Last week I was asked about handling paginated REST API calls in Power BI. The REST API end point would only return 200 records while a lot more records should […]",
+          "link": "https://365community.online/paginated-rest-api-calls-in-power-bi",
+          "publishedOn": "2023-12-02T18:55:24.000Z",
+          "wordCount": 3021,
+          "title": "Paginated REST API calls in Power BI",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
           "id": "https://365community.online/season-2-dynamics-365-crm-apps-webinar-marathon-boost-productivity-this-holiday-season",
           "author": "Inogic",
           "description": "As the winter embraces us and the magic of the Christmas season fills the air with joy, we recognize the importance of streamlining and automating your business processes, especially as […]",
@@ -10558,6 +10578,26 @@
           "wordCount": 2786,
           "title": "Introducing Project “Sophia”, a new generation AI-first business application",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/M365CS24_Environment_Security_Defender_Bella-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/15/introducing-new-copilot-experiences-to-boost-productivity-and-elevate-customer-experiences-across-the-organization/",
+          "author": "Emily He",
+          "description": "Microsoft Copilot presents an opportunity to reimagine the way we work—turning natural language into the most powerful productivity tool on the planet. With AI, organizations can unearth value in the mountain of data across productivity tools like Microsoft 365 and business applications.\nThe post Introducing new Copilot experiences to boost productivity and elevate customer experiences across the organization  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/15/introducing-new-copilot-experiences-to-boost-productivity-and-elevate-customer-experiences-across-the-organization/",
+          "publishedOn": "2023-11-15T16:00:00.000Z",
+          "wordCount": 4296,
+          "title": "Introducing new Copilot experiences to boost productivity and elevate customer experiences across the organization",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/11092023_Blog_Dynamics365_Copilot_Op_v3.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/15/announcing-microsoft-copilot-for-service/",
+          "author": "Jeff Comstock",
+          "description": "In this blog, we will discuss the opportunity for organizations to delight their customers with generative AI-powered service experiences and explain some of the new innovations we’re announcing to make it a reality. \nThe post Announcing Microsoft Copilot for Service  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/15/announcing-microsoft-copilot-for-service/",
+          "publishedOn": "2023-11-15T16:00:00.000Z",
+          "wordCount": 3245,
+          "title": "Announcing Microsoft Copilot for Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/MSC23_Getty_office_1146500472-scaled.jpg"
         },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/15/streamline-field-service-operations-with-new-copilot-capabilities/",

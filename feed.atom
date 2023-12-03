@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-02T18:25:44.776Z</updated>
+    <updated>2023-12-03T01:13:19.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Replace Edit with Contribute permissions with SharePoint Site Templates]]></title>
+        <id>https://365community.online/replace-edit-with-contribute-permissions-with-sharepoint-site-templates</id>
+        <link href="https://365community.online/replace-edit-with-contribute-permissions-with-sharepoint-site-templates"/>
+        <updated>2023-12-02T23:25:57.000Z</updated>
+        <summary type="html"><![CDATA[How do we replace Edit with contribute permissions? When you create a new team site members will have Edit permissions, but often we only want members to have Contribute permissions. […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paginated REST API calls in Power BI]]></title>
+        <id>https://365community.online/paginated-rest-api-calls-in-power-bi</id>
+        <link href="https://365community.online/paginated-rest-api-calls-in-power-bi"/>
+        <updated>2023-12-02T18:55:24.000Z</updated>
+        <summary type="html"><![CDATA[Last week I was asked about handling paginated REST API calls in Power BI. The REST API end point would only return 200 records while a lot more records should […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Season 2: Dynamics 365 CRM Apps Webinar Marathon – Boost Productivity this Holiday Season!]]></title>
         <id>https://365community.online/season-2-dynamics-365-crm-apps-webinar-marathon-boost-productivity-this-holiday-season</id>
@@ -1627,6 +1647,28 @@ The Product-as-a-Service advantage — a potential game-changer for equipment ma
         <summary type="html"><![CDATA[Agents can use the “Ask a question” functionality from within the Copilot help pane, to ask questions for quick resolution of the case. To enable it navigate to Customer Service […]]]></summary>
         <author>
             <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing new Copilot experiences to boost productivity and elevate customer experiences across the organization]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/15/introducing-new-copilot-experiences-to-boost-productivity-and-elevate-customer-experiences-across-the-organization/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/15/introducing-new-copilot-experiences-to-boost-productivity-and-elevate-customer-experiences-across-the-organization/"/>
+        <updated>2023-11-15T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot presents an opportunity to reimagine the way we work—turning natural language into the most powerful productivity tool on the planet. With AI, organizations can unearth value in the mountain of data across productivity tools like Microsoft 365 and business applications.
+The post Introducing new Copilot experiences to boost productivity and elevate customer experiences across the organization  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Emily He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Microsoft Copilot for Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/11/15/announcing-microsoft-copilot-for-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/11/15/announcing-microsoft-copilot-for-service/"/>
+        <updated>2023-11-15T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we will discuss the opportunity for organizations to delight their customers with generative AI-powered service experiences and explain some of the new innovations we’re announcing to make it a reality. 
+The post Announcing Microsoft Copilot for Service  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jeff Comstock</name>
         </author>
     </entry>
     <entry>
