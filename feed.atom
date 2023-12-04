@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-03T01:13:19.179Z</updated>
+    <updated>2023-12-04T01:09:57.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Builder for Image Description]]></title>
+        <id>https://365community.online/ai-builder-for-image-description</id>
+        <link href="https://365community.online/ai-builder-for-image-description"/>
+        <updated>2023-12-03T21:20:33.000Z</updated>
+        <summary type="html"><![CDATA[I’m a fanatic about AI Builder or AI Models, or however it is called these days. Sometimes I lack the imagination or creativity to create ALT descriptions for my images. […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect to Microsoft Graph using PowerShell with certificates]]></title>
+        <id>https://365community.online/connect-to-microsoft-graph-using-powershell-with-certificates</id>
+        <link href="https://365community.online/connect-to-microsoft-graph-using-powershell-with-certificates"/>
+        <updated>2023-12-03T16:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week I fixed some PowerShell scripts that connected into Microsoft Graph using the Thumbnail of a certificate installed on my local system. Some of the challenges in this […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 new undocumented functions to encode and decode Xml in Power Automate]]></title>
+        <id>https://365community.online/4-new-undocumented-functions-to-encode-and-decode-xml-in-power-automate</id>
+        <link href="https://365community.online/4-new-undocumented-functions-to-encode-and-decode-xml-in-power-automate"/>
+        <updated>2023-12-03T12:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Today, I found 4 new undocumented functions in Power Automate Why Encode Xml? First of all, why would we need to encode xml? Sometimes characters in the xml could cause […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A scheduled flow that locks an app]]></title>
+        <id>https://365community.online/a-scheduled-flow-that-locks-an-app</id>
+        <link href="https://365community.online/a-scheduled-flow-that-locks-an-app"/>
+        <updated>2023-12-03T08:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week I was asked on the chat how to handle scheduled flows that need to lock an app in Power Apps while the flow is running. Scheduled flows […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will AI pass my aviation exam?]]></title>
+        <id>https://365community.online/will-ai-pass-my-aviation-exam</id>
+        <link href="https://365community.online/will-ai-pass-my-aviation-exam"/>
+        <updated>2023-12-03T06:00:55.000Z</updated>
+        <summary type="html"><![CDATA[I’m both a technology geek and a pilot. Not surprisingly, when I got my hands on the Azure OpenAI service (in preview) and Azure AI Studio, I wanted to try […]]]></summary>
+        <author>
+            <name>Andrew Grischenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnichannel for Customer Service – New Dialer]]></title>
+        <id>https://365community.online/omnichannel-for-customer-service-new-dialer</id>
+        <link href="https://365community.online/omnichannel-for-customer-service-new-dialer"/>
+        <updated>2023-12-03T05:45:14.000Z</updated>
+        <summary type="html"><![CDATA[When we make outbound telephone calls used Microsoft’s Omnichannel for customer service a new dialer is now available. I will highlight its features and explain how to enable it in […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managed Identities in Logic Apps to access Microsoft Graph]]></title>
+        <id>https://365community.online/managed-identities-in-logic-apps-to-access-microsoft-graph</id>
+        <link href="https://365community.online/managed-identities-in-logic-apps-to-access-microsoft-graph"/>
+        <updated>2023-12-03T03:55:40.000Z</updated>
+        <summary type="html"><![CDATA[In this post I’m going through the steps to configure Logic apps to use Managed Identities to access SharePoint sites using Microsoft Graph. Managed Identities Within Logic Apps you will […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Replace Edit with Contribute permissions with SharePoint Site Templates]]></title>
         <id>https://365community.online/replace-edit-with-contribute-permissions-with-sharepoint-site-templates</id>
@@ -24,6 +94,16 @@
         <summary type="html"><![CDATA[Last week I was asked about handling paginated REST API calls in Power BI. The REST API end point would only return 200 records while a lot more records should […]]]></summary>
         <author>
             <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Copilot Studio#MCS #powerplatform #PVA #CopilotStudio #Copilot – YouTube]]></title>
+        <id>https://365community.online/navigating-copilot-studiomcs-powerplatform-pva-copilotstudio-copilot-youtube</id>
+        <link href="https://365community.online/navigating-copilot-studiomcs-powerplatform-pva-copilotstudio-copilot-youtube"/>
+        <updated>2023-12-02T13:00:50.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Matt Collins</name>
         </author>
     </entry>
     <entry>
