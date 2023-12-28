@@ -406,6 +406,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=102792",
+          "author": "DynaTech Systems",
+          "description": "The digital landscape is expanding at an unprecedented pace and organizations are constantly seeking ways to optimize their workflows and efficiency. Microsoft Power Automate is quite a dominant platform for …  Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate Read More »\nThe post Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate appeared first on ERP Software Blog.\nAutomate Repetitive Desktop Tasks with Power Automate Desktop\nA Power Platform Success Story: Western Computer Delivers New Automations and Insights\nUpgrade Your Business with the Intelligence of AI Builder and Microsoft Power Automate",
+          "link": "https://erpsoftwareblog.com/2023/12/unlock-the-future-of-automation-with-copilot-and-ai-builder-in-microsoft-power-automate/",
+          "publishedOn": "2023-12-27T10:44:30.000Z",
+          "wordCount": 7904,
+          "title": "Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Blog-663-scaled.jpg"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=99391",
+          "author": "Dynamics Square UK",
+          "description": "Are you on the hunt for the perfect CRM software? Deciding that your business could use a CRM solution is just the first step. The real challenge lies in navigating …  HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison) Read More »\nThe post HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison) appeared first on ERP Software Blog.\nNo Fooling - 3 Dynamics GP Users For $1!\nBusiness Intelligence in Microsoft Dynamics GP 2010\nVideo: Ramada Hotel and Hampton Inn Use Microsoft Dynamics GP for their Back Office Financials",
+          "link": "https://erpsoftwareblog.com/2023/12/hubspot-vs-microsoft-dynamics-365-crm/",
+          "publishedOn": "2023-12-27T09:04:55.000Z",
+          "wordCount": 8119,
+          "title": "HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=102777",
           "author": "x2x eCommerce",
           "description": "Enterprise Resource Planning (ERP) plays a vital role in transforming various business processes and addressing different challenges faced by companies. Manufacturing is one such domain where ERP plays a significant …  How ERP Solves Top Manufacturing Problems Read More »\nThe post How ERP Solves Top Manufacturing Problems appeared first on ERP Software Blog.\nEnd to End Optimization of Supply Chain Management for the Future\nMastering Quality Control: A Deep Dive into Dynamics 365 Business Central\nEnhanced Planning Pack for Dynamics 365 Business Central",
@@ -4529,6 +4549,81 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/using-javascript-and-cloud-flows-to-download-files-from-a-sharepoint-document-library-in-power-pages",
+          "author": "michelcarlo",
+          "description": "Even though we can now use Virtual Tables to expose SharePoint lists in a Power Pages site, the same does not apply to SharePoint Document libraries. You can use the […]",
+          "link": "https://365community.online/using-javascript-and-cloud-flows-to-download-files-from-a-sharepoint-document-library-in-power-pages",
+          "publishedOn": "2023-12-27T17:59:54.000Z",
+          "wordCount": 3215,
+          "title": "Using JavaScript and Cloud Flows to download files from a SharePoint document library in Power Pages",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/PowerPagesSharePoint.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-understand-for-what-power-automate-can-be-used",
+          "author": "Ian Grieve",
+          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-understand-for-what-power-automate-can-be-used",
+          "publishedOn": "2023-12-27T15:00:00.000Z",
+          "wordCount": 3101,
+          "title": "In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Understand For What Power Automate can be Used",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/shaping-the-future-of-technology-stuart-baxters-pioneering-work-in-microsoft-dynamics-and-power-platform",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/512 Ready to embark on a technological journey unlike any other? Sit down with us as we catch up with Stuart Baxter, a recognized MVP in Microsoft […]",
+          "link": "https://365community.online/shaping-the-future-of-technology-stuart-baxters-pioneering-work-in-microsoft-dynamics-and-power-platform",
+          "publishedOn": "2023-12-27T13:00:00.000Z",
+          "wordCount": 3112,
+          "title": "Shaping the Future of Technology: Stuart Baxter's Pioneering Work in Microsoft Dynamics and Power Platform",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/14036749-shaping-the-future-of-technology-stuart-baxter-s-pioneering-work-in-microsoft-dynamics-and-power-platform.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-series-index",
+          "author": "Ian Grieve",
+          "description": "I have recently started working with Microsoft Dynamics 365 Business Central and have decided to blog about it as I learn; I’ve started a In Microsoft Dynamics 365 Business Central, […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-series-index",
+          "publishedOn": "2023-12-27T11:00:29.000Z",
+          "wordCount": 3081,
+          "title": "In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Series Index",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-introduction-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
+          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-introduction-youtube",
+          "publishedOn": "2023-12-27T09:48:35.000Z",
+          "wordCount": 3046,
+          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Introduction – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703721369_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-new-additions-in-excel-layouts-reporting",
+          "author": "Stefano Demiliani",
+          "description": "One of the reporting features I like the most in Dynamics 365 Business Central is the possibility to create Excel Layout reports. Excel Layout reports are essentially reports based on […]",
+          "link": "https://365community.online/dynamics-365-business-central-new-additions-in-excel-layouts-reporting",
+          "publishedOn": "2023-12-27T09:29:50.000Z",
+          "wordCount": 3061,
+          "title": "Dynamics 365 Business Central: new additions in Excel Layouts reporting.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Dynamics-365-Business-Central-new-additions-in-Excel-Layouts-reporting.png?fit=1198%2C356&ssl=1"
+        },
+        {
+          "id": "https://365community.online/get-working-days-and-holidays-of-the-crm-service-calendar-in-power-automate-flow",
+          "author": "Inogic",
+          "description": "With Microsoft providing us more flexibility with Power Automate (MS Flow), we can now retrieve working days and holiday details of the CRM Service Calendar directly within Power Automate flows. […]",
+          "link": "https://365community.online/get-working-days-and-holidays-of-the-crm-service-calendar-in-power-automate-flow",
+          "publishedOn": "2023-12-27T07:58:50.000Z",
+          "wordCount": 3345,
+          "title": "Get working days and holidays of the CRM Service calendar in Power Automate Flow",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Power-Automate-Flow.jpeg?fit=946%2C628&ssl=1"
+        },
         {
           "id": "https://365community.online/the-webhook-call-failed-because-the-http-request-timed-out-at-client-side-please-check-your-webhook-request-handler-dataverse-dynamics-365",
           "author": "Nishant Rana",

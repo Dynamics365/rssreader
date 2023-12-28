@@ -2,10 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-27T01:07:18.822Z</updated>
+    <updated>2023-12-28T01:07:21.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using JavaScript and Cloud Flows to download files from a SharePoint document library in Power Pages]]></title>
+        <id>https://365community.online/using-javascript-and-cloud-flows-to-download-files-from-a-sharepoint-document-library-in-power-pages</id>
+        <link href="https://365community.online/using-javascript-and-cloud-flows-to-download-files-from-a-sharepoint-document-library-in-power-pages"/>
+        <updated>2023-12-27T17:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Even though we can now use Virtual Tables to expose SharePoint lists in a Power Pages site, the same does not apply to SharePoint Document libraries. You can use the […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Understand For What Power Automate can be Used]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-understand-for-what-power-automate-can-be-used</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-understand-for-what-power-automate-can-be-used"/>
+        <updated>2023-12-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaping the Future of Technology: Stuart Baxter's Pioneering Work in Microsoft Dynamics and Power Platform]]></title>
+        <id>https://365community.online/shaping-the-future-of-technology-stuart-baxters-pioneering-work-in-microsoft-dynamics-and-power-platform</id>
+        <link href="https://365community.online/shaping-the-future-of-technology-stuart-baxters-pioneering-work-in-microsoft-dynamics-and-power-platform"/>
+        <updated>2023-12-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/512 Ready to embark on a technological journey unlike any other? Sit down with us as we catch up with Stuart Baxter, a recognized MVP in Microsoft […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Series Index]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-series-index</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-series-index"/>
+        <updated>2023-12-27T11:00:29.000Z</updated>
+        <summary type="html"><![CDATA[I have recently started working with Microsoft Dynamics 365 Business Central and have decided to blog about it as I learn; I’ve started a In Microsoft Dynamics 365 Business Central, […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate]]></title>
+        <id>https://erpsoftwareblog.com/?p=102792</id>
+        <link href="https://erpsoftwareblog.com/2023/12/unlock-the-future-of-automation-with-copilot-and-ai-builder-in-microsoft-power-automate/"/>
+        <updated>2023-12-27T10:44:30.000Z</updated>
+        <summary type="html"><![CDATA[The digital landscape is expanding at an unprecedented pace and organizations are constantly seeking ways to optimize their workflows and efficiency. Microsoft Power Automate is quite a dominant platform for …  Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate Read More »
+The post Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate appeared first on ERP Software Blog.
+Automate Repetitive Desktop Tasks with Power Automate Desktop
+A Power Platform Success Story: Western Computer Delivers New Automations and Insights
+Upgrade Your Business with the Intelligence of AI Builder and Microsoft Power Automate]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Introduction – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-introduction-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-introduction-youtube"/>
+        <updated>2023-12-27T09:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: new additions in Excel Layouts reporting.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-new-additions-in-excel-layouts-reporting</id>
+        <link href="https://365community.online/dynamics-365-business-central-new-additions-in-excel-layouts-reporting"/>
+        <updated>2023-12-27T09:29:50.000Z</updated>
+        <summary type="html"><![CDATA[One of the reporting features I like the most in Dynamics 365 Business Central is the possibility to create Excel Layout reports. Excel Layout reports are essentially reports based on […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison)]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=99391</id>
+        <link href="https://erpsoftwareblog.com/2023/12/hubspot-vs-microsoft-dynamics-365-crm/"/>
+        <updated>2023-12-27T09:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Are you on the hunt for the perfect CRM software? Deciding that your business could use a CRM solution is just the first step. The real challenge lies in navigating …  HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison) Read More »
+The post HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison) appeared first on ERP Software Blog.
+No Fooling - 3 Dynamics GP Users For $1!
+Business Intelligence in Microsoft Dynamics GP 2010
+Video: Ramada Hotel and Hampton Inn Use Microsoft Dynamics GP for their Back Office Financials]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get working days and holidays of the CRM Service calendar in Power Automate Flow]]></title>
+        <id>https://365community.online/get-working-days-and-holidays-of-the-crm-service-calendar-in-power-automate-flow</id>
+        <link href="https://365community.online/get-working-days-and-holidays-of-the-crm-service-calendar-in-power-automate-flow"/>
+        <updated>2023-12-27T07:58:50.000Z</updated>
+        <summary type="html"><![CDATA[With Microsoft providing us more flexibility with Power Automate (MS Flow), we can now retrieve working days and holiday details of the CRM Service Calendar directly within Power Automate flows. […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The webhook call failed because the Http request timed out at client side. Please check your webhook request handler – Dataverse / Dynamics 365]]></title>
         <id>https://365community.online/the-webhook-call-failed-because-the-http-request-timed-out-at-client-side-please-check-your-webhook-request-handler-dataverse-dynamics-365</id>
