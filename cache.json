@@ -4845,6 +4845,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/transformando-la-conciliacion-bancaria-con-copilot-en-microsoft-business-central-breve-guia-paso-a-paso",
+          "author": "jarmesto",
+          "description": "Vamos a ver cómo en pocos pasos podemos estar probando y evaluando la funcionalidad de conciliación bancaria con Copilot. La conciliación bancaria es un proceso fundamental para cualquier empresa, ya […]",
+          "link": "https://365community.online/transformando-la-conciliacion-bancaria-con-copilot-en-microsoft-business-central-breve-guia-paso-a-paso",
+          "publishedOn": "2023-12-30T09:00:00.000Z",
+          "wordCount": 3083,
+          "title": "Transformando la Conciliación Bancaria con Copilot en Microsoft Business Central: Breve guía paso a paso",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703934768_Transformando-la-Conciliacion-Bancaria-con-Copilot-en-Microsoft-Business-Central.png?fit=1024%2C1024&ssl=1"
+        },
+        {
           "id": "https://365community.online/azure-functions-net-7-and-net-8-local-debugging-bug-on-visual-studio-code",
           "author": "Stefano Demiliani",
           "description": "This is a very quick post signaling a bug that makes me spending hours of troubleshooting. If you’re developing Azure Functions with Visual Studio Code and .NET 7 or .NET […]",
@@ -4865,6 +4875,56 @@
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Transformando-la-Conciliacion-Bancaria-con-Copilot-en-Microsoft-Business-Central.png?fit=1024%2C1024&ssl=1"
         },
         {
+          "id": "https://365community.online/weekly-update-122-12th-may-2023-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #122 – 12th May 2023 Join me as I talk about the latest public preview and generally available features released for Azure this week. Check out the Azure […]",
+          "link": "https://365community.online/weekly-update-122-12th-may-2023-youtube",
+          "publishedOn": "2023-12-29T11:01:26.000Z",
+          "wordCount": 3014,
+          "title": "Weekly Update #122 – 12th May 2023 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703952696_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/weekly-update-121-comeback-youtube-2",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #121 – Comeback! I’m back with a weekly news update! This week I am talking about Azure Hybrid Benefit management, new regions in Azure, Azure Virtual Desktop features […]",
+          "link": "https://365community.online/weekly-update-121-comeback-youtube-2",
+          "publishedOn": "2023-12-29T11:01:19.000Z",
+          "wordCount": 3044,
+          "title": "Weekly Update #121 – Comeback! – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703967282_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/weekly-update-125-2nd-june-2023-youtube-2",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #125 – 2nd June 2023 It’s been quiet this week after Microsoft Build last week, but let’s catch up on the news. Setting Up a CI/CD Pipeline with […]",
+          "link": "https://365community.online/weekly-update-125-2nd-june-2023-youtube-2",
+          "publishedOn": "2023-12-29T11:01:19.000Z",
+          "wordCount": 2978,
+          "title": "Weekly Update #125 – 2nd June 2023 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703908865_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/lenovo-mwc23-recap-youtube-2",
+          "author": "Sarah Lean ???????",
+          "description": "Lenovo MWC23 Recap Join me as I look back at the announcements from MWC23 and Lenovo. February 27 – March 2, 2023 Join me as I look back at the […]",
+          "link": "https://365community.online/lenovo-mwc23-recap-youtube-2",
+          "publishedOn": "2023-12-29T11:01:19.000Z",
+          "wordCount": 2940,
+          "title": "Lenovo MWC23 Recap – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703982038_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/weekly-update-123-19th-may-2023-youtube-2",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #123 – 19th May 2023 Join me this week as I run through some of the Azure news sharing information about generally available features as well as public […]",
+          "link": "https://365community.online/weekly-update-123-19th-may-2023-youtube-2",
+          "publishedOn": "2023-12-29T11:01:19.000Z",
+          "wordCount": 2992,
+          "title": "Weekly Update #123 – 19th May 2023 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703938062_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-actions-are-available-with-power-automate",
           "author": "Ian Grieve",
           "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]",
@@ -4873,6 +4933,16 @@
           "wordCount": 3110,
           "title": "In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Know What Actions Are Available with Power Automate",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-build-2023-news-highlight-reel-youtube-2",
+          "author": "Sarah Lean ???????",
+          "description": "Microsoft Build 2023 News Highlight Reel This week there is a ton of announcements thanks to Microsoft Build 2023! Microsoft Build Books of News 2023: https://news.microsoft.com/build-2023-book-of-news/ GitHub Copilot X waitlist: […]",
+          "link": "https://365community.online/microsoft-build-2023-news-highlight-reel-youtube-2",
+          "publishedOn": "2023-12-29T11:00:23.000Z",
+          "wordCount": 3028,
+          "title": "Microsoft Build 2023 News Highlight Reel – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703923585_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/how-to-push-code-to-github-2023-tutorial-youtube",
@@ -18043,7 +18113,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "https://paragchapre.com/",
+      "siteUrl": "http://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12318",
