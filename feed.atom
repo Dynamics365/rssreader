@@ -2,10 +2,211 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-25T01:12:26.353Z</updated>
+    <updated>2024-01-26T01:07:10.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Punchout – CXml – External Catalog – D365 F&O Configuration – Part 1]]></title>
+        <id>https://365community.online/punchout-cxml-external-catalog-d365-fo-configuration-part-1</id>
+        <link href="https://365community.online/punchout-cxml-external-catalog-d365-fo-configuration-part-1"/>
+        <updated>2024-01-25T21:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Finance and Operations supports integration with various procurement and e-procurement solutions. The integration process allows the users to “punch out” to external supplier catalogs, select items, and seamlessly […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Punchout – CXml – External Catalog – D365 F&O Configuration – Part 1]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3284</id>
+        <link href="https://anithasantosh.wordpress.com/2024/01/25/punchout-cxml-external-catalog-d365-fo-configuration-part-1/"/>
+        <updated>2024-01-25T21:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Finance and Operations supports integration with various procurement and e-procurement solutions. The integration process allows the users to “punch out” to external supplier catalogs, select items, and seamlessly bring them back into the procurement workflow. This means it … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating the Cloud Transition: Migrating AP from Microsoft Dynamics GP to D365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=103543</id>
+        <link href="https://erpsoftwareblog.com/2024/01/navigating-the-cloud-transition-migrating-ap-from-microsoft-dynamics-gp-to-d365-business-central/"/>
+        <updated>2024-01-25T21:18:29.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic landscape of business technology, migrating to cloud-based systems is more than a trend; it's a strategic move. This is especially true for financial operations. If your business […]
+The post Navigating the Cloud Transition: Migrating AP from Microsoft Dynamics GP to D365 Business Central appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central and Microsoft Dynamics 365 Finance and Operations: What’s the Difference?
+Essais ERP : Est-ce vraiment la meilleure façon de tester une nouvelle solution ERP?
+Pourquoi les petites firmes devraient considérer Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Warehouse Operations with MetaADCS for Dynamics NAV]]></title>
+        <id>https://erpsoftwareblog.com/?p=103546</id>
+        <link href="https://erpsoftwareblog.com/2024/01/optimizing-warehouse-operations-with-metaadcs-for-dynamics-nav/"/>
+        <updated>2024-01-25T19:30:21.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-paced world of modern business, efficient warehouse management is crucial for maintaining a competitive edge. Companies are continually seeking advanced solutions to streamline their warehouse operations and enhance […]
+The post Optimizing Warehouse Operations with MetaADCS for Dynamics NAV appeared first on ERP Software Blog.
+A Comprehensive Guide on How to Use the Warehouse Item Journal
+Scalable Solutions: How Business Central Warehouse Management adapts to growing businesses
+Best Practices for Implementing a Vendor Portal in Microsoft Dynamics NAV]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhanced Planning Pack v3.3: Elevating Strategic Business Planning]]></title>
+        <id>https://erpsoftwareblog.com/?p=103538</id>
+        <link href="https://erpsoftwareblog.com/2024/01/enhanced-planning-pack-v3-3-elevating-strategic-business-planning/"/>
+        <updated>2024-01-25T18:58:17.000Z</updated>
+        <summary type="html"><![CDATA[Explore Enhanced Planning Pack v3.3: The latest app upgrade enhances Microsoft Dynamics 365 Business Central with superior forecasting, streamlined inventory management, and advanced production planning capabilities. 
+The post Enhanced Planning Pack v3.3: Elevating Strategic Business Planning appeared first on ERP Software Blog.
+Insight Works Launches Quality Inspector App for Business Central Users
+Ditching Homegrown for Business Central's Shop Floor Edge
+Graphical Scheduler v1.8: Elevating Production Scheduling]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release wave 1 2024 Dynamics 365 Customer Insights – Data]]></title>
+        <id>https://365community.online/release-wave-1-2024-dynamics-365-customer-insights-data</id>
+        <link href="https://365community.online/release-wave-1-2024-dynamics-365-customer-insights-data"/>
+        <updated>2024-01-25T17:34:54.000Z</updated>
+        <summary type="html"><![CDATA[For the first time, I’m doing a post on the release wave for both Customer Insights – Journeys and Customer Insights – Data! Read the post about CI-J Let’s look […]]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 & Power Platform – 2024 release wave 1 plans]]></title>
+        <id>https://dynamicspedia.com/?p=18992</id>
+        <link href="https://dynamicspedia.com/2024/01/dynamics-365-power-platform-2024-release-wave-1-plans/"/>
+        <updated>2024-01-25T17:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Today, Microsoft released the new plans for 2024 release wave 1. These plans will tell you about the short-term investments to be released by Microsoft for Dynamics 365 and the Power Platform. Microsoft is releasing these plans twice a year to indicate what they are working on. In this post, you will find the links […]
+The post Dynamics 365 & Power Platform – 2024 release wave 1 plans appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release wave 1 2024 Dynamics 365 Customer Insights – Journeys]]></title>
+        <id>https://365community.online/release-wave-1-2024-dynamics-365-customer-insights-journeys</id>
+        <link href="https://365community.online/release-wave-1-2024-dynamics-365-customer-insights-journeys"/>
+        <updated>2024-01-25T15:49:25.000Z</updated>
+        <summary type="html"><![CDATA[Not too long ago I wrote a post on what’s to come from December to March ’24, now the plans until September are out! For the first time, I’m now […]]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Business Central Developer Associate Certification Now Available]]></title>
+        <id>https://365community.online/microsoft-dynamics-365-business-central-developer-associate-certification-now-available</id>
+        <link href="https://365community.online/microsoft-dynamics-365-business-central-developer-associate-certification-now-available"/>
+        <updated>2024-01-25T14:00:31.000Z</updated>
+        <summary type="html"><![CDATA[The Microsoft Certified: Dynamics 365 Business Central Developer Associate which Microsoft announced in September 2023 is now available through the Microsoft Dynamics 365 Business Central Developer MB-820 exam which is […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timestamp Frequency (Field Service Settings) in Dynamics 365 Field Service]]></title>
+        <id>https://365community.online/timestamp-frequency-field-service-settings-in-dynamics-365-field-service</id>
+        <link href="https://365community.online/timestamp-frequency-field-service-settings-in-dynamics-365-field-service"/>
+        <updated>2024-01-25T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Timestamp frequency defines when the Booking Timestamp record should be created from the Bookable Resource booking record. By default, it is Per Field Service Status Change, in this case, […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create an Organization Chart in Dynamics 365 Sales]]></title>
+        <id>https://www.encorebusiness.com/?p=61141</id>
+        <link href="https://www.encorebusiness.com/blog/create-an-organization-chart-in-dynamics-365-sales/"/>
+        <updated>2024-01-25T12:13:37.000Z</updated>
+        <summary type="html"><![CDATA[Create an Organization Chart in Dynamics 365 Sales
+The Org Chart feature in Dynamics 365 Sales is a helpful tool for sales and service team users who routinely interact with a variety of contacts within large organizations. The Org Chart provides the ability to organize Contacts within an Account into a visual hierarchy that represents the organization’s structure. These easy-to-create diagrams allow you...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Erika Colson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A oportunidade de conteúdos em Português para comunidade | EP#25 – Romão’s Cast #shorts #comunidade – YouTube]]></title>
+        <id>https://365community.online/a-oportunidade-de-conteudos-em-portugues-para-comunidade-ep25-romaos-cast-shorts-comunidade-youtube</id>
+        <link href="https://365community.online/a-oportunidade-de-conteudos-em-portugues-para-comunidade-ep25-romaos-cast-shorts-comunidade-youtube"/>
+        <updated>2024-01-25T12:00:02.000Z</updated>
+        <summary type="html"><![CDATA[[Vídeo completo no canal] source]]></summary>
+        <author>
+            <name>Renato Romao de Souza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maplytics Reviews – Add them on Microsoft AppSource or G2.com!]]></title>
+        <id>https://365community.online/maplytics-reviews-add-them-on-microsoft-appsource-or-g2-com</id>
+        <link href="https://365community.online/maplytics-reviews-add-them-on-microsoft-appsource-or-g2-com"/>
+        <updated>2024-01-25T11:45:05.000Z</updated>
+        <summary type="html"><![CDATA[The post Maplytics Reviews – Add them on Microsoft AppSource or G2.com! appeared first on Blog | Maplytics. Source link]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Power Automate Solutions: Exporting A Managed Solution]]></title>
+        <id>https://365community.online/working-with-power-automate-solutions-exporting-a-managed-solution</id>
+        <link href="https://365community.online/working-with-power-automate-solutions-exporting-a-managed-solution"/>
+        <updated>2024-01-25T11:00:32.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: how can I disable Copilot for everyone?]]></title>
+        <id>https://365community.online/dynamics-365-business-central-how-can-i-disable-copilot-for-everyone</id>
+        <link href="https://365community.online/dynamics-365-business-central-how-can-i-disable-copilot-for-everyone"/>
+        <updated>2024-01-25T09:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Business Central now has embedded generative AI features powered by Azure OpenAI and this is something cool that I encourage everyone to try. When individual Copilot capabilities are […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Default Values For Unmapped Fields When Using Realtime Form Capture]]></title>
+        <id>https://365community.online/setting-default-values-for-unmapped-fields-when-using-realtime-form-capture</id>
+        <link href="https://365community.online/setting-default-values-for-unmapped-fields-when-using-realtime-form-capture"/>
+        <updated>2024-01-25T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I wrote about using the new preview (as of time of writing this) feature on Realtime Marketing forms with form capture. This gives you the ability to map submissions from […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is It Time to Embrace Factory 4.0? Navigating the New Industrial Landscape]]></title>
+        <id>https://erpsoftwareblog.com/?p=103494</id>
+        <link href="https://erpsoftwareblog.com/2024/01/is-it-time-to-embrace-factory-4-0-navigating-the-new-industrial-landscape/"/>
+        <updated>2024-01-25T05:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Introduction The advent of Factory 4.0 has ushered in a new era in manufacturing, characterized by an unprecedented level of digital integration and technological sophistication. This transformation is not just […]
+The post Is It Time to Embrace Factory 4.0? Navigating the New Industrial Landscape appeared first on ERP Software Blog.
+Manufacturing Downtime Is NOT An Option
+3 Ways ERP Can Streamline Manufacturing for Small and Midsize Businesses
+Insight Works Announces MxAPS 4.7 for Dynamics 365 Business Central: Advanced Scheduling Solutions Reach New Heights]]></summary>
+        <author>
+            <name>HSO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Human Resources – 2024 release wave 1]]></title>
+        <id>http://paragchapre.com/?p=12363</id>
+        <link href="https://paragchapre.com/dynamics-365-human-resources-2024-release-wave-1/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dynamics-365-human-resources-2024-release-wave-1"/>
+        <updated>2024-01-25T02:09:11.000Z</updated>
+        <summary type="html"><![CDATA[Explore the latest enhancements in the Dynamics 365 Human Resources 2024 release wave 1. Elevate your workforce management with innovative features, improved user experiences, and cutting-edge capabilities. 
+The post Dynamics 365 Human Resources – 2024 release wave 1 appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 5 Manufacturing Add-Ons for Business Central in 2024]]></title>
         <id>https://erpsoftwareblog.com/?p=103518</id>
