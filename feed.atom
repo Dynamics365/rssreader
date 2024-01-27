@@ -2,10 +2,262 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-26T01:07:10.628Z</updated>
+    <updated>2024-01-27T01:04:52.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Logic apps – Key vaults for Encryption]]></title>
+        <id>https://365community.online/logic-apps-key-vaults-for-encryption</id>
+        <link href="https://365community.online/logic-apps-key-vaults-for-encryption"/>
+        <updated>2024-01-26T18:48:23.000Z</updated>
+        <summary type="html"><![CDATA[I had to work on a task where they data has to be encrypted during automation and logic apps came to my rescue to make the job simple and easy. […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic apps – Key vaults for Encryption]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3348</id>
+        <link href="https://anithasantosh.wordpress.com/2024/01/26/logic-apps-key-vaults-for-encryption/"/>
+        <updated>2024-01-26T18:48:23.000Z</updated>
+        <summary type="html"><![CDATA[I had to work on a task where they data has to be encrypted during automation and logic apps came to my rescue to make the job simple and easy. Logic apps has a Key Vault connector to do this … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP Sales Order Processing Lookups: Shorten From 12 Steps Down to 1]]></title>
+        <id>https://erpsoftwareblog.com/?p=103357</id>
+        <link href="https://erpsoftwareblog.com/2024/01/dynamics-gp-sales-order-processing-lookups-shorten-from-12-steps-down-to-1/"/>
+        <updated>2024-01-26T18:20:27.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics GP Sales Order Processing As many Dynamics GP users know, the process of looking up an existing sales document involves 12 steps. YES! 12 Steps …Here’s the 12-step process you follow […]
+The post Dynamics GP Sales Order Processing Lookups: Shorten From 12 Steps Down to 1 appeared first on ERP Software Blog.
+What’s New in Microsoft Dynamics GP 2015?
+Les 7 rapports essentiels à la gestion de votre entreprise de projets avec Microsoft Dynamics GP : #4 – Rentabilité de projet
+How Can Your Organization Benefit from a Timesheet Integrated to Microsoft Dynamics GP?]]></summary>
+        <author>
+            <name>Mark Rockwell, Rockton Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SFTP connector with Private key – Logic apps]]></title>
+        <id>https://365community.online/sftp-connector-with-private-key-logic-apps</id>
+        <link href="https://365community.online/sftp-connector-with-private-key-logic-apps"/>
+        <updated>2024-01-26T17:51:37.000Z</updated>
+        <summary type="html"><![CDATA[This article shows you how to connect SFTP gateway via logic apps using private key. In our instance, Standard logic apps is used. Create a new workflow. Let the trigger […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SFTP connector with Private key – Logic apps]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3323</id>
+        <link href="https://anithasantosh.wordpress.com/2024/01/26/sftp-connector-with-private-key-logic-apps/"/>
+        <updated>2024-01-26T17:51:37.000Z</updated>
+        <summary type="html"><![CDATA[This article shows you how to connect SFTP gateway via logic apps using private key. In our instance, Standard logic apps is used. Create a new workflow. Let the trigger be Recurrence. Add the next step and search for ‘SFTP-SSH’ … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Things AP Departments Must Know About Virtual Cards]]></title>
+        <id>https://erpsoftwareblog.com/?p=103607</id>
+        <link href="https://erpsoftwareblog.com/2024/01/6-things-ap-departments-must-know-about-virtual-cards/"/>
+        <updated>2024-01-26T16:49:08.000Z</updated>
+        <summary type="html"><![CDATA[Paying suppliers with virtual cards is a hot topic in accounts payable. Virtual cards are particularly prevalent in the financial services industry, with 81 percent of organizations adopting the payment […]
+The post 6 Things AP Departments Must Know About Virtual Cards appeared first on ERP Software Blog.
+Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation?
+ACH Payments or Virtual Cards: Which is the best option for your business?
+AP Automation: Inside or Outside the ERP? Weighing the pros and cons]]></summary>
+        <author>
+            <name>KwikTag by Paymerang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Hybrid Solution for Acumatica & POS Integration?]]></title>
+        <id>https://erpsoftwareblog.com/?p=103528</id>
+        <link href="https://erpsoftwareblog.com/2024/01/why-hybrid-solution-for-acumatica-pos-integration/"/>
+        <updated>2024-01-26T15:35:58.000Z</updated>
+        <summary type="html"><![CDATA[The dynamic nature of retail business often demands prompt, quick-witted performance of operations. Web-based ERP systems like Acumatica offer valuable comprehensive functionalities. However, their centralized architecture encounters performance limitations under […]
+The post Why Hybrid Solution for Acumatica & POS Integration? appeared first on ERP Software Blog.
+The Role of ERP & eCommerce Integration in Multi-channel eCommerce Management
+Dynamics GP & POS (RMH) Integration by x2x-eCommerce
+Don’t Let Your Product Catalog Be the Web’s Best Kept Secret]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Business Central Case Study: Stenger & Stenger]]></title>
+        <id>https://erpsoftwareblog.com/?p=103592</id>
+        <link href="https://erpsoftwareblog.com/2024/01/d365-business-central-case-study-stenger-stenger/"/>
+        <updated>2024-01-26T15:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Stenger & Stenger, P.C., a mid-size law firm located in Grand Rapids, Michigan, represents clients in federal and state trial and appellate courts throughout the United States and in the […]
+The post D365 Business Central Case Study: Stenger & Stenger appeared first on ERP Software Blog.
+2019 Summit - Business Central Sessions for New or Migrating Users
+Take Business Central to the Next Level with these ERP Apps
+SimplyAP - Cloud AP Automation for Business Central]]></summary>
+        <author>
+            <name>KwikTag by Paymerang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New in Microsoft Dynamics 365 Business Central 2024 Release Wave 1?]]></title>
+        <id>https://erpsoftwareblog.com/?p=103587</id>
+        <link href="https://erpsoftwareblog.com/2024/01/whats-new-in-microsoft-dynamics-365-business-central-2024-release-wave-1/"/>
+        <updated>2024-01-26T15:22:00.000Z</updated>
+        <summary type="html"><![CDATA[The Microsoft Dynamics 365 Business Central 2024 Release Wave 1 Plan is now available! Here's a brief overview of what's in store, but for more information, be sure to check […]
+The post What's New in Microsoft Dynamics 365 Business Central 2024 Release Wave 1? appeared first on ERP Software Blog.
+Join JourneyTEAM's Tech Insider Update Webinar on 8/6
+Mastering Quality Control: A Deep Dive into Dynamics 365 Business Central
+Enhanced Planning Pack for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>TrinSoft, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Receive Intelligent License Recommendations for Admins]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-receive-intelligent-license-recommendations-for-admins</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-receive-intelligent-license-recommendations-for-admins"/>
+        <updated>2024-01-26T15:00:22.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why CFOs Must Automate Accounts Payable in 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=103515</id>
+        <link href="https://erpsoftwareblog.com/2024/01/why-cfos-must-automate-accounts-payable-in-2024/"/>
+        <updated>2024-01-26T14:35:24.000Z</updated>
+        <summary type="html"><![CDATA[If your AP department is like most others, you spend countless hours on manual, repetitive tasks that are prone to errors, delay, and risk. On top of that, you must […]
+The post Why CFOs Must Automate Accounts Payable in 2024 appeared first on ERP Software Blog.
+Invoice Automation for Microsoft Dynamics GP
+AP Automation for Dynamics GP: Creative Solutions Case Study
+Is Your Data Extraction Tool Enhancing or Hindering Invoice Automation?]]></summary>
+        <author>
+            <name>KwikTag by Paymerang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GP Support North’s President to talk on MSDW webinar panel to discuss the future of GP]]></title>
+        <id>https://erpsoftwareblog.com/?p=103583</id>
+        <link href="https://erpsoftwareblog.com/2024/01/gp-support-norths-president-to-talk-on-msdw-webinar-panel-to-discuss-the-future-of-gp/"/>
+        <updated>2024-01-26T14:06:46.000Z</updated>
+        <summary type="html"><![CDATA[GP Support North MSDW Panel Discussion - Terry Sunderland - January 2024 for Microsoft Dynamics GP
+The post GP Support North’s President to talk on MSDW webinar panel to discuss the future of GP appeared first on ERP Software Blog.
+The Pros and Cons of Cloud Computing: Gather your Resources to Make an Informed Decision
+Cloud Computing for your Accounting Department: A More Secure Choice
+ERP in the Cloud:  A Picture is Worth a Thousand Words]]></summary>
+        <author>
+            <name>GP Support North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Retail Operations: LS Retail Integration with Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=103586</id>
+        <link href="https://erpsoftwareblog.com/2024/01/streamlining-retail-operations-ls-retail-integration-with-business-central/"/>
+        <updated>2024-01-26T14:03:32.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic landscape of retail, efficiency, and seamless operations are paramount for success. To meet the growing demands of modern consumers and stay ahead in the competitive market, retailers […]
+The post Streamlining Retail Operations: LS Retail Integration with Business Central appeared first on ERP Software Blog.
+How retailers can drive their business growth by moving their ERP to cloud?
+How LS Central for Retail can redefine your business process?
+Transform your retail business with point of sale software]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Series Index]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-series-index</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-series-index"/>
+        <updated>2024-01-26T13:00:31.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of a series on the new functionality announced for Wave 1 of Microsoft Power Automate 2024. There are two release waves for Power Automate each year, […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Power Automate Solutions: Importing A Managed Solution]]></title>
+        <id>https://365community.online/working-with-power-automate-solutions-importing-a-managed-solution</id>
+        <link href="https://365community.online/working-with-power-automate-solutions-importing-a-managed-solution"/>
+        <updated>2024-01-26T11:00:51.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 12 – Topic 5: Part 2 – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-12-topic-5-part-2-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-12-topic-5-part-2-youtube"/>
+        <updated>2024-01-26T10:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wave 1 2024 Customer Insights Journey Chat With Amey Holden]]></title>
+        <id>https://365community.online/wave-1-2024-customer-insights-journey-chat-with-amey-holden</id>
+        <link href="https://365community.online/wave-1-2024-customer-insights-journey-chat-with-amey-holden"/>
+        <updated>2024-01-26T09:52:57.000Z</updated>
+        <summary type="html"><![CDATA[The release notes for Dynamics 365 Wave 1 2024 have been published. My good friend Amey Holden and I got together to chat about each proposed change or new feature […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wave 1 2024 Customer Insights Journey Chat With Amey Holden – YouTube]]></title>
+        <id>https://365community.online/wave-1-2024-customer-insights-journey-chat-with-amey-holden-youtube</id>
+        <link href="https://365community.online/wave-1-2024-customer-insights-journey-chat-with-amey-holden-youtube"/>
+        <updated>2024-01-26T09:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Wave 1 2024 Customer Insights Journey Chat With Amey Holden The release notes for Dynamics 365 Wave 1 2024 have been published. My good friend Amey Holden and I got […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot for Low Code]]></title>
+        <id>https://365community.online/copilot-for-low-code</id>
+        <link href="https://365community.online/copilot-for-low-code"/>
+        <updated>2024-01-26T09:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Do you use Power Platform and want to level up the game? Join me in this session to review the basics of Copilot and AI components within Power Apps and […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Studio 101]]></title>
+        <id>https://365community.online/microsoft-copilot-studio-101</id>
+        <link href="https://365community.online/microsoft-copilot-studio-101"/>
+        <updated>2024-01-26T08:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to learn a bit more about Microsoft Copilot Studio? Maybe even create your own? In this session we will dive into Microsoft Copilot Studio, I’ll walk you […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure DevOps for Functional consultant: Part-2: Learning Path to Become Functional Consultant:FC-004]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2801</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/26/azure-devops-for-functional-consultant-part-2-learning-path-to-become-functional-consultantfc-004/"/>
+        <updated>2024-01-26T08:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. This is the next part on requirement gathering process (Preparation for requirement gathering step). Azure DevOps is a crucial tool that every functional consultant should acquaint themselves with and grasp its fundamental concepts. Its importance lies in streamlining collaboration, enhancing efficiency, and […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure DevOps for Functional consultant: Part-2: Learning Path to Become Functional Consultant:FC-004]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2801</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/26/azure-devops-for-functional-consultant-part-2-learning-path-to-become-functional-consultantfc-004/"/>
+        <updated>2024-01-26T08:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. This is the next part on requirement gathering process (Preparation for requirement gathering step). Azure DevOps is a crucial tool that every functional consultant should acquaint themselves with and grasp its fundamental concepts. Its importance lies in streamlining collaboration, enhancing efficiency, and […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Punchout – CXml – External Catalog – D365 F&O Configuration – Part 1]]></title>
         <id>https://365community.online/punchout-cxml-external-catalog-d365-fo-configuration-part-1</id>
@@ -87,6 +339,17 @@ Graphical Scheduler v1.8: Elevating Production Scheduling]]></summary>
 The post Dynamics 365 & Power Platform – 2024 release wave 1 plans appeared first on Dynamicspedia.]]></summary>
         <author>
             <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/25/2024-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/25/2024-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/"/>
+        <updated>2024-01-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On January 25, 2024, we published the 2024 release wave 1 plans for Microsoft Dynamics 365 and Microsoft Power Platform, a compilation of new capabilities planned to be released between April 2024 and September 2024. This first release wave of the year offers hundreds of new features and improvements.
+The post 2024 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mo Osborne</name>
         </author>
     </entry>
     <entry>
@@ -402,6 +665,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Don McNulty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embrace cloud migration with Microsoft Dynamics 365]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/23/embrace-cloud-migration-with-microsoft-dynamics-365/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/23/embrace-cloud-migration-with-microsoft-dynamics-365/"/>
+        <updated>2024-01-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we discuss how the shift to cloud solutions empowers organizations to tackle challenges and thrive in a demanding era. Learn more about Microsoft's “Accelerate, Innovate, Move” (AIM) program for a smooth cloud transition. 
+The post Embrace cloud migration with Microsoft Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Stephanie Dart</name>
         </author>
     </entry>
     <entry>
@@ -32040,28 +32314,6 @@ The post Cross-company data sharing vs. Duplication in Dynamics appeared first o
         <summary type="html"><![CDATA[If you are working with Microsoft dynamics 365 commerce you first have to initialize commerce scale unit.  You can perform this initialization only in tier 2 environments and with either the Project Owner or Environment manager role. While initializing   retail commerce scale unit (RCSU) you might face below issue on LCS where the error says […]]]></summary>
         <author>
             <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Up and Down lines form example]]></title>
-        <id>https://alexvoy.blogspot.com/2022/01/up-and-down-lines-form-example.html</id>
-        <link href="https://alexvoy.blogspot.com/2022/01/up-and-down-lines-form-example.html"/>
-        <updated>2022-01-27T00:28:00.000Z</updated>
-        <summary type="html"><![CDATA[It's useful to have existing forms and classes for common tasks to duplicate and customized them. 
-There is a good example of such a form with Up and Down buttons for the grid lines in standard D365.
-Check it by its display menu item ElectronicMessageProcessing]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365: 2022Wave1 – Unified pricing service]]></title>
-        <id>http://kurthatlevik.com/?p=4312</id>
-        <link href="https://kurthatlevik.com/2022/01/26/d365-2022wave1-unified-pricing-service/"/>
-        <updated>2022-01-26T14:43:41.000Z</updated>
-        <summary type="html"><![CDATA[I have had the chance to look deep into the 2022 release wave 1 plans. There are tons of goodies, and we again see the direction where things are going. There is a lot of investments in the microservices area, and we see the platform opening up like a blooming flower. There is one specific … Continue reading D365: 2022Wave1 – Unified pricing service]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
         </author>
     </entry>
     <entry>
