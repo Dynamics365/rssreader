@@ -2,10 +2,255 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-01T01:09:24.155Z</updated>
+    <updated>2024-02-02T01:05:49.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Reasons To Start Using A Payment Processing System]]></title>
+        <id>https://erpsoftwareblog.com/?p=103843</id>
+        <link href="https://erpsoftwareblog.com/2024/02/5-reasons-to-start-using-a-payment-processing-system/"/>
+        <updated>2024-02-01T23:06:52.000Z</updated>
+        <summary type="html"><![CDATA[Customers expect a seamless payment experience, whether they're buying online, in-store, or on the go. For businesses, offering a smooth and secure payment process is no longer just a perk, […]
+The post 5 Reasons To Start Using A Payment Processing System appeared first on ERP Software Blog.
+Unlocking Financial Agility: Demystifying Revenue and Expense Deferrals in Dynamic GP
+The Important Business Function Your ERP System CAN'T Do
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Dynamics eShop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Benefits of Portals for Microsoft Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=103823</id>
+        <link href="https://erpsoftwareblog.com/2024/02/7-benefits-of-portals-for-microsoft-business-central/"/>
+        <updated>2024-02-01T19:46:33.000Z</updated>
+        <summary type="html"><![CDATA[Efficient communication and collaboration with vendors and customers are crucial for success. Microsoft Business Central, an integrated business solution, offers powerful Vendor and Customer Portals that can transform the way […]
+The post 7 Benefits of Portals for Microsoft Business Central appeared first on ERP Software Blog.
+Top 5 Microsoft Business Central Features
+MS Business Central Versions Comparison
+Best Free Microsoft Business Central Apps]]></summary>
+        <author>
+            <name>iCepts Technology Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handling Graph API Pagination in Power Platform Dataflows]]></title>
+        <id>https://365community.online/handling-graph-api-pagination-in-power-platform-dataflows</id>
+        <link href="https://365community.online/handling-graph-api-pagination-in-power-platform-dataflows"/>
+        <updated>2024-02-01T19:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction When managing extensive user datasets from Microsoft Graph API, a common challenge is handling the pagination of data. This blog post explores a solution for effectively looping through multiple […]]]></summary>
+        <author>
+            <name>Richard Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing Business Intelligence with Jet Global (formerly Jet Reports)]]></title>
+        <id>https://erpsoftwareblog.com/?p=103831</id>
+        <link href="https://erpsoftwareblog.com/2024/02/unleashing-business-intelligence-with-jet-global/"/>
+        <updated>2024-02-01T18:56:05.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-paced world of business, staying ahead requires more than just keeping up with the competition—it demands insightful decision-making based on accurate and timely data. Jet Global, previously known […]
+The post Unleashing Business Intelligence with Jet Global (formerly Jet Reports) appeared first on ERP Software Blog.
+Exploring Jet Reports and Power BI Reporting Solutions
+Top 5 Microsoft Power BI benefits you should know in 2023
+Scalable Solutions: How Business Central Warehouse Management adapts to growing businesses]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Reasons to Work with StockIQ Technologies]]></title>
+        <id>https://erpsoftwareblog.com/?p=103825</id>
+        <link href="https://erpsoftwareblog.com/2024/02/five-reasons-to-work-with-stockiq-technologies/"/>
+        <updated>2024-02-01T17:45:12.000Z</updated>
+        <summary type="html"><![CDATA[If you are looking for supply chain planning software that can help you improve your inventory efficiency, forecast accuracy, and customer service, you might want to consider working with StockIQ […]
+The post Five Reasons to Work with StockIQ Technologies appeared first on ERP Software Blog.
+Key Lessons Learned from the COVID-19 Crisis and How to Strengthen Supply Chain Resilience
+Supply Chain Case Study: Chadwell Supply Increases Sales by 28% and Maintains Leading Fill Rates with Minimal Inventory Investment
+3 Steps of Forecastability Analysis]]></summary>
+        <author>
+            <name>StockIQ Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: transfer environments between Microsoft Entra tenants]]></title>
+        <id>https://365community.online/dynamics-365-business-central-transfer-environments-between-microsoft-entra-tenants</id>
+        <link href="https://365community.online/dynamics-365-business-central-transfer-environments-between-microsoft-entra-tenants"/>
+        <updated>2024-02-01T17:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Starting from today, it’s possible to transfer a Dynamics 365 Business Central SaaS tenant to a different tenant without opening a support request to Microsoft. If you check the Admin […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Process Vendor Payments in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=61203</id>
+        <link href="https://www.encorebusiness.com/blog/how-to-process-vendor-payments-in-d365-business-central/"/>
+        <updated>2024-02-01T15:34:38.000Z</updated>
+        <summary type="html"><![CDATA[How to Process Vendor Payments in Dynamics 365 Business Central
+Processing vendor payments in Dynamics 365 Business Central is a useful payments processing functionality for Accounting and Finance teams, but it does have some quirks and common challenges. In this article, I’ll show you how to process vendor payments and give you troubleshooting tips for issues I often see clients run into, like voiding the check...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Abhishek Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Series Index]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-series-index</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-series-index"/>
+        <updated>2024-02-01T15:00:30.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of a series on the new functionality available in Wave 1 of Microsoft Dynamics 365 Business Central 2024. There are two release waves for Business Central […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PTC Windchill Training | PTC Windchill Certification Course Demo | Windchill Tutorial | MindMajix – YouTube]]></title>
+        <id>https://365community.online/ptc-windchill-training-ptc-windchill-certification-course-demo-windchill-tutorial-mindmajix-youtube</id>
+        <link href="https://365community.online/ptc-windchill-training-ptc-windchill-certification-course-demo-windchill-tutorial-mindmajix-youtube"/>
+        <updated>2024-02-01T14:45:01.000Z</updated>
+        <summary type="html"><![CDATA[This MindMajix’s YouTube video on PTC Windchill training is designed to equip any learner to build a solid career in the software industry. MindMajix’s Windchill Course Content has been developed […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=103818</id>
+        <link href="https://erpsoftwareblog.com/2024/02/exploring-the-warehouse-structure-in-metawms-for-business-central/"/>
+        <updated>2024-02-01T13:49:16.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic supply chain management landscape, efficient warehouse operations play a crucial role in ensuring the seamless flow of goods from manufacturers to end consumers. Microsoft Dynamics 365 Business Central has […]
+The post Exploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central appeared first on ERP Software Blog.
+Everything you need to know about Warehouse Order Picking Methods
+Scalable Solutions: How Business Central Warehouse Management adapts to growing businesses
+Strategies to Improve Warehouse Management Productivity- MetaWMS]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analyzing PowerApps Canvas and Model-Driven Apps Performance]]></title>
+        <id>https://365community.online/analyzing-powerapps-canvas-and-model-driven-apps-performance</id>
+        <link href="https://365community.online/analyzing-powerapps-canvas-and-model-driven-apps-performance"/>
+        <updated>2024-02-01T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Analyzing PowerApps Canvas and Model-Driven Apps Performance Continue Reading Nishant Rana’s Article on their blog Analyzing PowerApps Canvas and Model-Driven Apps Performance Analyzing PowerApps Canvas and Model-Driven Apps Performance https://jamesyumnam.com/2021/07/22/analyzing-powerapps-canvas-and-model-driven-apps-performance/?page_id=557 Blog […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Credit Card Processing with Counter Sales v2.5]]></title>
+        <id>https://erpsoftwareblog.com/?p=103555</id>
+        <link href="https://erpsoftwareblog.com/2024/02/business-central-credit-card-processing-with-counter-sales-v2-5/"/>
+        <updated>2024-02-01T13:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Experience the capabilities of Counter Sales v2.5, designed to address specific needs in POS operations including the introduction of essential features like credit card processing. This latest update bridges the gap in Business Central's offerings, providing a streamlined and efficient solution making it an indispensable tool for businesses aiming to optimize their retail processes.
+The post Business Central Credit Card Processing with Counter Sales v2.5 appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Integrated Shipping Solution for Microsoft Dynamics NAV
+How to Send a Credit Card Request Link to Multiple Customers at Once Inside of Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Ingest Process Data from Customers’ Data Lake]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-ingest-process-data-from-customers-data-lake</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-ingest-process-data-from-customers-data-lake"/>
+        <updated>2024-02-01T13:00:40.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Microsoft é Líder em Automação e Low-Code | EP#26 Romão’s Cast #shorts #microsoft #lowcode – YouTube]]></title>
+        <id>https://365community.online/a-microsoft-e-lider-em-automacao-e-low-code-ep26-romaos-cast-shorts-microsoft-lowcode-youtube</id>
+        <link href="https://365community.online/a-microsoft-e-lider-em-automacao-e-low-code-ep26-romaos-cast-shorts-microsoft-lowcode-youtube"/>
+        <updated>2024-02-01T12:30:10.000Z</updated>
+        <summary type="html"><![CDATA[[Episódio completo no canal] source]]></summary>
+        <author>
+            <name>Renato Romao de Souza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowering Manufacturing Excellence with Dynamics NAV]]></title>
+        <id>https://erpsoftwareblog.com/?p=103813</id>
+        <link href="https://erpsoftwareblog.com/2024/02/empowering-manufacturing-excellence-with-dynamics-nav/"/>
+        <updated>2024-02-01T12:09:12.000Z</updated>
+        <summary type="html"><![CDATA[The manufacturing industry is characterized by complexity, precision, and constant innovation. In this dynamic landscape, manufacturers need sophisticated tools to streamline operations, enhance efficiency, and adapt to market demands. Microsoft […]
+The post Empowering Manufacturing Excellence with Dynamics NAV appeared first on ERP Software Blog.
+Quality Assurance and Compliance in Manufacturing with Business Central
+Best Practices for Implementing a Vendor Portal in Microsoft Dynamics NAV
+Role of Cloud ERP Solution for Small Businesses in 2023]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Power Automate: What Are Environment Variables and Why Should They be Used?]]></title>
+        <id>https://365community.online/working-with-power-automate-what-are-environment-variables-and-why-should-they-be-used</id>
+        <link href="https://365community.online/working-with-power-automate-what-are-environment-variables-and-why-should-they-be-used"/>
+        <updated>2024-02-01T11:00:53.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the Working with Power Automate series I am writing on my experiences working with the Power Automate, which is part of the Power Platform from […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General availability of Secure Implicit Connections]]></title>
+        <id>general-availability-of-secure-implicit-connections</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/general-availability-of-secure-implicit-connections/"/>
+        <updated>2024-02-01T09:22:19.000Z</updated>
+        <summary type="html"><![CDATA[Power Apps secure implicit connections now generally available.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot – Your Collaborative AI : Discover Its Use Cases, User Benefits, and Copilot Studio!]]></title>
+        <id>https://365community.online/microsoft-copilot-your-collaborative-ai-discover-its-use-cases-user-benefits-and-copilot-studio</id>
+        <link href="https://365community.online/microsoft-copilot-your-collaborative-ai-discover-its-use-cases-user-benefits-and-copilot-studio"/>
+        <updated>2024-02-01T09:20:03.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Power Platform is a widely recognized low-code platform that allows anyone to build apps, automate processes, analyze data, and create chatbots efficiently. The latest addition to Power Platform’s capabilities […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyboard Warriors [A to Z a11y]]]></title>
+        <id>https://365community.online/keyboard-warriors-a-to-z-a11y</id>
+        <link href="https://365community.online/keyboard-warriors-a-to-z-a11y"/>
+        <updated>2024-02-01T08:58:34.000Z</updated>
+        <summary type="html"><![CDATA[A long time ago… When I was a lad a mouse was something that went “squeak” and you definitely didn’t want on your desk. Keyboard Warriors were people who could […]]]></summary>
+        <author>
+            <name>Mike Hartley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Failed Dynamics 365 Implementation? Here’s How to Turn It Around]]></title>
+        <id>https://erpsoftwareblog.com/?p=103803</id>
+        <link href="https://erpsoftwareblog.com/2024/02/failed-dynamics-ax-implementation-and-how-to-turn-it-around/"/>
+        <updated>2024-02-01T06:56:50.000Z</updated>
+        <summary type="html"><![CDATA[The business benefits of a successful Dynamics 365 implementation are numerous: smarter operations, improved flexibility and agility, enhanced integration, increased revenue, and a stronger market position. However, implementing an ERP is never […]
+The post Failed Dynamics 365 Implementation? Here’s How to Turn It Around appeared first on ERP Software Blog.
+Why Agile Businesses Choose Dynamics 365 for Operations
+Meet SharePoint Syntex
+AP Automation Comparison Showcase for Dynamics 365 Finance (AX) Users February 20th, 2024]]></summary>
+        <author>
+            <name>Synoptek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI powered learning App]]></title>
+        <id>http://dynamicsax-fico.com/?p=5777</id>
+        <link href="https://dynamicsax-fico.com/2024/02/01/ai-powered-learning-app/"/>
+        <updated>2024-02-01T05:23:31.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automate the assignment of Capacity Add-ons in Power Platform Environment using Power Automate Flow]]></title>
         <id>https://365community.online/automate-the-assignment-of-capacity-add-ons-in-power-platform-environment-using-power-automate-flow</id>
@@ -14,6 +259,44 @@
         <summary type="html"><![CDATA[In Power Platform, capacity add-ons such as AI Builder Credits, Per-App plan, Power Pages Capacity, Power Automate Per Flow, Power Automate Process, Copilot Studio messages are allocated at an environment […]]]></summary>
         <author>
             <name>Mohamed Ashiq Faleel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Compliance: Lot & Serial Number Tracking in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=103749</id>
+        <link href="https://erpsoftwareblog.com/2024/01/streamlining-compliance-lot-serial-number-tracking-in-business-central/"/>
+        <updated>2024-01-31T19:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Explore lot and serial number tracking in Business Central using apps for regulatory compliance. For small and medium-sized businesses in the distribution and manufacturing sectors using Microsoft Dynamics 365 Business […]
+The post Streamlining Compliance: Lot & Serial Number Tracking in Business Central appeared first on ERP Software Blog.
+Free Business Central Apps to Fill the Gaps
+Unlocking Seamless Order Fulfillment in Dynamics 365 Business Central
+Unlock Enhanced Order Fulfillment Capabilities in Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new: Power Apps January 2024 Feature Update]]></title>
+        <id>whats-new-power-apps-january-2024-feature-update</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-january-2024-feature-update/"/>
+        <updated>2024-01-31T18:35:15.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Human Resources Should Ask Accounting About AP Clerks]]></title>
+        <id>https://erpsoftwareblog.com/?p=103744</id>
+        <link href="https://erpsoftwareblog.com/2024/01/why-human-resources-should-ask-accounting-about-ap-clerks/"/>
+        <updated>2024-01-31T18:22:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you thought about how you can change the way accounting hires staff? In this post we are going to discuss the high turnover rates for accounts payable clerking roles […]
+The post Why Human Resources Should Ask Accounting About AP Clerks appeared first on ERP Software Blog.
+AP Automation for Healthcare - Dynamics GP Success Story
+Join Us At Dynamic Communities Summit - Booth 800
+The Struggle to Hire an Accounts Payable Clerk]]></summary>
+        <author>
+            <name>Fidesic AP</name>
         </author>
     </entry>
     <entry>
@@ -155,6 +438,34 @@ The post New Release of D365FO Admin Toolkit v1.2 appeared first on Alex Meyer.]
         <summary type="html"><![CDATA[Welcome to part 5 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video I will be talking about weighted average by date method and difference between weighted average vs weighted by date.]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing Asset Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=103678</id>
+        <link href="https://erpsoftwareblog.com/2024/01/revolutionizing-asset-management/"/>
+        <updated>2024-01-31T07:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Press release for Dynaway CONNECT Conference for Microsoft Dynamics 365 Supply Chain Management Professionals Get ready for a game-changing event! We're thrilled to introduce the very first Dynaway CONNECT Conference, created […]
+The post Revolutionizing Asset Management appeared first on ERP Software Blog.
+Move with equipment-driven market trends easily with DynaRent for Microsoft Dynamics 365
+How sustainability can make equipment maintenance profitable
+E-Commerce Business Process Efficiency: Microsoft Dynamics 365 Supply Chain Management ERP and EDI Integration]]></summary>
+        <author>
+            <name>Dynaway</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronic Bill of Lading eBOL Solution for Microsoft Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=103735</id>
+        <link href="https://erpsoftwareblog.com/2024/01/electronic-bill-of-lading-ebol-solution-for-microsoft-dynamics-365/"/>
+        <updated>2024-01-31T01:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a shipping documentation, signing, digitization, and automation solution for Microsoft Dynamics 365? SmartBOL can help you, the way we have helped these customers. Here are three examples […]
+The post Electronic Bill of Lading eBOL Solution for Microsoft Dynamics 365 appeared first on ERP Software Blog.
+Customize Your Microsoft Dynamics AX…?? Learn from Travel Industry
+What do you need to gain complete control of how you manage equipment rental projects?
+Dynamics 365 and Power BI: Transforming insight for equipment-driven rental projects]]></summary>
+        <author>
+            <name>SmartBOL</name>
         </author>
     </entry>
     <entry>
@@ -32878,36 +33189,6 @@ The post How To Create A D365 Project In Visual Studio appeared first on Dynamic
 ariste.info Mi opinión sobre los custom scripts de X++]]></summary>
         <author>
             <name>Adrià Ariste Santacreu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Localizing content on a custom page]]></title>
-        <id>localizing-content-on-a-custom-page</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/localizing-content-on-a-custom-page/"/>
-        <updated>2022-02-02T10:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Add localized content to a Power Apps custom page.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic apps DIXF Export – Unique file name creation – D365FO]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=2040</id>
-        <link href="https://anithasantosh.wordpress.com/2022/02/02/logic-apps-dixf-export-unique-file-name-creation-d365fo/"/>
-        <updated>2022-02-02T03:56:35.000Z</updated>
-        <summary type="html"><![CDATA[Triggering ‘Export to package’ API from logic apps creates the output as a data package. The data package has Data file, Manifest and Package Header . In order to pass the data file for third party processing , the compressed … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AX2012 jobs are back in D365 (kind of)]]></title>
-        <id>http://d365fostuff.wordpress.com/?p=371</id>
-        <link href="https://d365fostuff.wordpress.com/2022/02/01/ax2012-jobs-are-back-in-d365-kind-of/"/>
-        <updated>2022-02-01T20:12:18.000Z</updated>
-        <summary type="html"><![CDATA[Disclaimer: I do not encourage anyone on using this feature. And if you use it, please be careful with manipulating data using this feature. With the release of the PEAP version for 10.0.25 Microsoft reintroduced the ability to execute jobs without having a downtime for the needed deployment: https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/run-custom-scriptsWhile I wouldn’t recommend anyone to use […]]]></summary>
-        <author>
-            <name>Marijan</name>
         </author>
     </entry>
     <entry>
