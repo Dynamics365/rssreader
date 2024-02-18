@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-17T01:04:31.956Z</updated>
+    <updated>2024-02-18T01:09:15.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Generic JavaScript Functions to Associate and Disassociate Dataverse records using the Power Pages Web API]]></title>
+        <id>https://365community.online/generic-javascript-functions-to-associate-and-disassociate-dataverse-records-using-the-power-pages-web-api</id>
+        <link href="https://365community.online/generic-javascript-functions-to-associate-and-disassociate-dataverse-records-using-the-power-pages-web-api"/>
+        <updated>2024-02-17T17:43:41.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post Creating and removing N:N relationship between Dataverse records using Javascript and Power Pages Web API I showed how we can leverage the Power Pages Web API […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Resolved] Web resource method does not exist in Dynamics 365 CE JavaScript Error]]></title>
+        <id>https://365community.online/resolved-web-resource-method-does-not-exist-in-dynamics-365-ce-javascript-error</id>
+        <link href="https://365community.online/resolved-web-resource-method-does-not-exist-in-dynamics-365-ce-javascript-error"/>
+        <updated>2024-02-17T02:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Recently, when I was opening a Case record and on onload, I got the below error message. One of the scripts for this record has caused an error. For more […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canadian Payroll 2023 T4s]]></title>
         <id>https://365community.online/canadian-payroll-2023-t4s</id>
@@ -28,6 +48,16 @@ Quote Generation with Product Configurator for Business Central
 Free Business Central Apps to Fill the Gaps]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Your Dataverse Solution Clean and Simple]]></title>
+        <id>https://365community.online/keep-your-dataverse-solution-clean-and-simple</id>
+        <link href="https://365community.online/keep-your-dataverse-solution-clean-and-simple"/>
+        <updated>2024-02-16T21:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Solutions are used to transport table metadata, apps, automations and other components from one environment to another in Dataverse or Power Platform projects. It is important to keep the solutions […]]]></summary>
+        <author>
+            <name>Linn Zaw Win</name>
         </author>
     </entry>
     <entry>
@@ -73,6 +103,16 @@ Evolving Role of ERP in Remote Work Environments]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NerdioCon 2024 – Day 4 Conference vlog – YouTube]]></title>
+        <id>https://365community.online/nerdiocon-2024-day-4-conference-vlog-youtube</id>
+        <link href="https://365community.online/nerdiocon-2024-day-4-conference-vlog-youtube"/>
+        <updated>2024-02-16T17:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to I Am IT Geeks day 4 vlog at the NerdioCon 2024 conference! This is a bonus video where I show some highlights from the closing party on the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Copilot(s) in Microsoft Learn]]></title>
         <id>https://365community.online/copilots-in-microsoft-learn</id>
         <link href="https://365community.online/copilots-in-microsoft-learn"/>
@@ -90,6 +130,17 @@ Evolving Role of ERP in Remote Work Environments]]></summary>
         <summary type="html"><![CDATA[A post dedicated to Copilots. When did we hear about it for the first time? Have you followed how the concept has evolved? What’s what? I recently had to delve […]]]></summary>
         <author>
             <name>Carina Claesson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Warehouse Management: Unveiling the Power of D365 Warehouse Mobile App Version 2.1.23]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/02/16/optimizing-warehouse-management-unveiling-the-power-of-d365-warehouse-mobile-app-version-2-1-23/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/02/16/optimizing-warehouse-management-unveiling-the-power-of-d365-warehouse-mobile-app-version-2-1-23/"/>
+        <updated>2024-02-16T14:18:58.000Z</updated>
+        <summary type="html"><![CDATA[The unveiling of the D365 Warehouse Mobile App's latest iteration, version 2.1.23, marks a notable advancement in warehouse management technology. It introduces a range of upgraded features aimed at enriching user interaction and optimizing processes. Notably, this update prioritizes authentication, stability, and user-friendliness, addressing the intricate challenges faced by businesses aiming to refine their warehouse management.
+The post Optimizing Warehouse Management: Unveiling the Power of D365 Warehouse Mobile App Version 2.1.23 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Michael Fruergaard Pontoppidan and Denis Conway</name>
         </author>
     </entry>
     <entry>
@@ -170,6 +221,28 @@ Evolving Role of ERP in Remote Work Environments]]></summary>
         <summary type="html"><![CDATA[This post is all about some issues that I ran into yesterday. Multiple developers worked on one flow in Power Automate and my app in Power Apps broke. When apps […]]]></summary>
         <author>
             <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Sales: Enhanced overview for tracking features & settings]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/02/15/dynamics-365-sales-enhanced-overview-for-tracking-features-settings/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/02/15/dynamics-365-sales-enhanced-overview-for-tracking-features-settings/"/>
+        <updated>2024-02-15T18:32:00.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-growing world of Microsoft Dynamics 365 Sales, there is always a host of capabilities that could be enabled to support sellers, complemented by monthly releases packed with innovations.
+The post Dynamics 365 Sales: Enhanced overview for tracking features & settings  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Aditya Naik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft named as a worldwide Leader in IDC MarketScape for Finance and Accounting Applications for Enterprise, Midmarket, and Small Business]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/15/microsoft-named-as-a-worldwide-leader-in-idc-marketscape-for-finance-and-accounting-applications-for-enterprise-midmarket-and-small-business/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/15/microsoft-named-as-a-worldwide-leader-in-idc-marketscape-for-finance-and-accounting-applications-for-enterprise-midmarket-and-small-business/"/>
+        <updated>2024-02-15T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To thrive in today’s highly complex global business environment, organizations are increasingly relying upon the technological and strategic prowess of their financial leaders. We’re continually investing in Microsoft Dynamics 365 to enable finance leaders to monitor financial operations in real time, predict outcomes, and drive strategic decision-making that hinges on insight.
+The post Microsoft named as a worldwide Leader in IDC MarketScape for Finance and Accounting Applications for Enterprise, Midmarket, and Small Business appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Andrea Ton</name>
         </author>
     </entry>
     <entry>
@@ -35160,16 +35233,6 @@ The post D365 Joins in X++ appeared first on Dynamics 365 Musings.]]></summary>
         <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations, default order settings are a core part of the product setup if you are using master planning in any capacity. The default order settings]]></summary>
         <author>
             <name>Tim Woods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Purchase trade agreements using custom service]]></title>
-        <id>http://elearnd365.com/?p=524</id>
-        <link href="https://elearnd365.com/2022/02/17/integrating-purchase-trade-agreements-using-custom-service/"/>
-        <updated>2022-02-18T00:14:02.000Z</updated>
-        <summary type="html"><![CDATA[This code project has a code which will guide you, if you want to integrate purchase cost from any other system in to D365 for finance and operations. This service creates trade agreement journal header and lines both. All lines are created by reading values coming from JSON payload. If the trade agreement already exist, […]]]></summary>
-        <author>
-            <name>Sukrut Parab</name>
         </author>
     </entry>
     <entry>
