@@ -26889,16 +26889,6 @@
           "wordCount": 2970,
           "title": "Dual write error – “Authentication failed with error Exception Message Failed to get token from AAD by certificate”",
           "imageUrl": "https://elearnd365.files.wordpress.com/2022/05/aad-auth.jpg"
-        },
-        {
-          "id": "http://elearnd365.com/?p=530",
-          "author": "Sukrut Parab",
-          "description": "Recently, I faced one requirement where customer does their invoice matching in external system where they want to have incremental vendor data extracted along with PO data from the F&O to feed it to that system. In this blog post we are going to look at how we can utilize recurring integrations API and business […]",
-          "link": "https://elearnd365.com/2022/03/04/using-business-events-and-recurring-integrations-api-to-extract-data-form-d365-fo/",
-          "publishedOn": "2022-03-05T00:24:14.000Z",
-          "wordCount": 3582,
-          "title": "Using Business  events and Recurring Integrations API to extract data form D365 F&O",
-          "imageUrl": "https://elearnd365.files.wordpress.com/2022/03/image11.jpg"
         }
       ]
     },

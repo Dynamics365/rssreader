@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-03T01:08:21.149Z</updated>
+    <updated>2024-03-04T01:05:56.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
@@ -37268,16 +37268,6 @@ Generally speaking there are two different ways how GL transactions created in D
 LedgerJournalCheckPost class creates one…]]></summary>
         <author>
             <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Business  events and Recurring Integrations API to extract data form D365 F&O]]></title>
-        <id>http://elearnd365.com/?p=530</id>
-        <link href="https://elearnd365.com/2022/03/04/using-business-events-and-recurring-integrations-api-to-extract-data-form-d365-fo/"/>
-        <updated>2022-03-05T00:24:14.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I faced one requirement where customer does their invoice matching in external system where they want to have incremental vendor data extracted along with PO data from the F&O to feed it to that system. In this blog post we are going to look at how we can utilize recurring integrations API and business […]]]></summary>
-        <author>
-            <name>Sukrut Parab</name>
         </author>
     </entry>
     <entry>
