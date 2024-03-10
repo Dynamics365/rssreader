@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-09T01:03:24.820Z</updated>
+    <updated>2024-03-10T01:09:45.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Full Stack Training | Full Stack Web Development Course | Full Stack Developer Training | MindMajix – YouTube]]></title>
+        <id>https://365community.online/full-stack-training-full-stack-web-development-course-full-stack-developer-training-mindmajix-youtube</id>
+        <link href="https://365community.online/full-stack-training-full-stack-web-development-course-full-stack-developer-training-mindmajix-youtube"/>
+        <updated>2024-03-09T14:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Full Stack Training | Full Stack Web Development Course | Full Stack Developer Training | MindMajix This MindMajix’s YouTube video on Full Stack training you will learn the skills in […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Syncing Azure DevOps Work Item Status to Microsoft Dataverse with Dataflows]]></title>
         <id>https://365community.online/syncing-azure-devops-work-item-status-to-microsoft-dataverse-with-dataflows</id>
@@ -94,6 +104,16 @@ Navigating the Transition: Dynamics SL to Business Central Migration Strategies
 Which Business Central Deployment Option you should choose?]]></summary>
         <author>
             <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 24 – Topic 10: Part 4 – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-24-topic-10-part-4-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-24-topic-10-part-4-youtube"/>
+        <updated>2024-03-08T10:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
@@ -38286,36 +38306,6 @@ This has been a lifesaver for people who have found themselves stuck in an endle
 The post D365 Development Tips And Tricks appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Automate to trigger the post alert in LinkedIn]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=2164</id>
-        <link href="https://anithasantosh.wordpress.com/2022/03/10/power-automate-to-trigger-the-post-alert-in-linkedin/"/>
-        <updated>2022-03-10T16:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Everytime when I add a new post to my blog, I manually update my LinkedIn Account about it. With PowerAutomate, this job is automated with two simple steps, If you have a Office365 account, login and then search for either … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Access D365FO pages from Microsoft Teams]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=2149</id>
-        <link href="https://anithasantosh.wordpress.com/2022/03/10/access-d365fo-pages-from-microsoft-teams/"/>
-        <updated>2022-03-10T15:37:34.000Z</updated>
-        <summary type="html"><![CDATA[It is now possible to access the FO pages from Microsoft teams. We can simultaneously chat and get the doubts cleared if any . Select the form which needs to be embedded in the teams. Copy the URL from address … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Limit the navigation in D365FO]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=2135</id>
-        <link href="https://anithasantosh.wordpress.com/2022/03/10/limit-the-navigation-in-d365fo/"/>
-        <updated>2022-03-10T13:34:28.000Z</updated>
-        <summary type="html"><![CDATA[How do we limit the navigation options to the users ? For instance, I am asked to share only the Vendor form to a particular user . If the complete URL is shared, then the user will be able to … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
         </author>
     </entry>
     <entry>

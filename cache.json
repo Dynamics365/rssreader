@@ -7380,6 +7380,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/full-stack-training-full-stack-web-development-course-full-stack-developer-training-mindmajix-youtube",
+          "author": "Jaya Sri",
+          "description": "Full Stack Training | Full Stack Web Development Course | Full Stack Developer Training | MindMajix This MindMajix’s YouTube video on Full Stack training you will learn the skills in […]",
+          "link": "https://365community.online/full-stack-training-full-stack-web-development-course-full-stack-developer-training-mindmajix-youtube",
+          "publishedOn": "2024-03-09T14:30:17.000Z",
+          "wordCount": 3252,
+          "title": "Full Stack Training | Full Stack Web Development Course | Full Stack Developer Training | MindMajix – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710020471_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/syncing-azure-devops-work-item-status-to-microsoft-dataverse-with-dataflows",
           "author": "Richard Wilson",
           "description": "In today’s fast-paced development environments, seamless integration between customer and development tracking systems can be crucial for maintaining transparency, efficiency, and alignment across teams. Our objective centers around a scenario […]",
@@ -7398,6 +7408,16 @@
           "wordCount": 3190,
           "title": "2024 March DC Chapter Meeting",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709923563_2024-March-DC-Chapter-Meeting.png?fit=1200%2C655&ssl=1"
+        },
+        {
+          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-24-topic-10-part-4-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
+          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-24-topic-10-part-4-youtube",
+          "publishedOn": "2024-03-08T10:00:16.000Z",
+          "wordCount": 3299,
+          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 24 – Topic 10: Part 4 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709961893_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/weekly-update-133-8th-march-2024-youtube",
@@ -19491,36 +19511,6 @@
           "wordCount": 912,
           "title": "Document Attachment as Notes in D365FO",
           "imageUrl": "https://anithasantosh.files.wordpress.com/2022/04/image.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=2164",
-          "author": "AnithaEswaran",
-          "description": "Everytime when I add a new post to my blog, I manually update my LinkedIn Account about it. With PowerAutomate, this job is automated with two simple steps, If you have a Office365 account, login and then search for either … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2022/03/10/power-automate-to-trigger-the-post-alert-in-linkedin/",
-          "publishedOn": "2022-03-10T16:04:54.000Z",
-          "wordCount": 780,
-          "title": "Power Automate to trigger the post alert in LinkedIn",
-          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/03/image-8.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=2149",
-          "author": "AnithaEswaran",
-          "description": "It is now possible to access the FO pages from Microsoft teams. We can simultaneously chat and get the doubts cleared if any . Select the form which needs to be embedded in the teams. Copy the URL from address … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2022/03/10/access-d365fo-pages-from-microsoft-teams/",
-          "publishedOn": "2022-03-10T15:37:34.000Z",
-          "wordCount": 713,
-          "title": "Access D365FO pages from Microsoft Teams",
-          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/03/image-4.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=2135",
-          "author": "AnithaEswaran",
-          "description": "How do we limit the navigation options to the users ? For instance, I am asked to share only the Vendor form to a particular user . If the complete URL is shared, then the user will be able to … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2022/03/10/limit-the-navigation-in-d365fo/",
-          "publishedOn": "2022-03-10T13:34:28.000Z",
-          "wordCount": 739,
-          "title": "Limit the navigation in D365FO",
-          "imageUrl": "https://anithasantosh.files.wordpress.com/2022/03/image-1.png"
         }
       ]
     },
