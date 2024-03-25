@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-24T01:12:02.788Z</updated>
+    <updated>2024-03-25T01:07:33.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MICROSOFT LEARN – Artificial Intelligence Skills Challenge​ 2024!!!]]></title>
+        <id>https://365community.online/microsoft-learn-artificial-intelligence-skills-challenge-2024</id>
+        <link href="https://365community.online/microsoft-learn-artificial-intelligence-skills-challenge-2024"/>
+        <updated>2024-03-25T00:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has started the AI Skills Challenge 2024 and provided 4 topics on AI (Microsoft Fabric, Azure OpenAI, Azure Machine Learning or Azure AI Fundamentals). Choosing any one of them […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365FO Service updates]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3432</id>
+        <link href="https://anithasantosh.wordpress.com/2024/03/24/d365fo-service-updates/"/>
+        <updated>2024-03-24T21:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is dedicated to providing consistent service updates. These updates are typically made accessible for self-deployment prior to Microsoft implementing automatic updates. The timing of self-update package release compared to production autoupdates may vary. Please refer to my earlier post … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 FO 10.0.39 revised release notes]]></title>
+        <id>https://365community.online/d365-fo-10-0-39-revised-release-notes</id>
+        <link href="https://365community.online/d365-fo-10-0-39-revised-release-notes"/>
+        <updated>2024-03-24T21:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Due to certain impediments, the release of version 10.0.39 has been postponed, and it is now slated to be released in April alongside a fresh array of features. General availability […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 FO 10.0.39 revised release notes]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3430</id>
+        <link href="https://anithasantosh.wordpress.com/2024/03/24/d365-fo-10-0-39-revised-release-notes/"/>
+        <updated>2024-03-24T21:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Due to certain impediments, the release of version 10.0.39 has been postponed, and it is now slated to be released in April alongside a fresh array of features.]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make a Power Apps screen accessible?]]></title>
+        <id>https://365community.online/how-to-make-a-power-apps-screen-accessible</id>
+        <link href="https://365community.online/how-to-make-a-power-apps-screen-accessible"/>
+        <updated>2024-03-24T08:14:27.000Z</updated>
+        <summary type="html"><![CDATA[Do you know which is the most frequently used control in Power Apps? The screen control! Learn a few simple steps to make it accessible! The post How to make […]]]></summary>
+        <author>
+            <name>harditbhatia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is accessibility and why is it important in Power Apps]]></title>
+        <id>https://365community.online/what-is-accessibility-and-why-is-it-important-in-power-apps</id>
+        <link href="https://365community.online/what-is-accessibility-and-why-is-it-important-in-power-apps"/>
+        <updated>2024-03-24T06:45:38.000Z</updated>
+        <summary type="html"><![CDATA[What is accessibility? Is it important? Is it relevant to Power Apps? Here’s an introduction to accessibility in general and in Power Apps! The post What is accessibility and why […]]]></summary>
+        <author>
+            <name>harditbhatia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Webinar: Take Control of Alerts & Notifications in Your Dynamics 365 CRM with Alerts4Dynamics!]]></title>
         <id>https://365community.online/webinar-take-control-of-alerts-notifications-in-your-dynamics-365-crm-with-alerts4dynamics</id>
@@ -40107,38 +40167,6 @@ Your team should also be aware of what it takes to be successful in order to mak
 The post D365 Electronic Reporting: JOIN records in pairs appeared first on ER-Consult.]]></summary>
         <author>
             <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Git with More than 1 Package]]></title>
-        <id>1655 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/article/using-git-more-1-package"/>
-        <updated>2022-03-26T03:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/25/22.
-
-
-
-
-
-
-
-
-
-
-
-
-      
-Tags: 
-Git      
-Source Control      
-
-Want to use Git with more than 1 Package? Let's review.
-The process to get Git working with F&O can be a little involved and it may not make sense the first time. The issue we're presented with is that Git assumes you are starting with nothing - a directory that doesn't exist. When you fetch source code - clone it - Git wants you to clone it into a directory that doesn't exist yet. Our PackagesLocalDirectory very much so already exists. So, we have to help Git by moving in pieces of the repo into the directory then get everything back in working order. There are a few different ways to do this: The Hard Way, the easier way, and the easiest way.
- 
-The Hard Way
-We'll be using https://github.com/…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
