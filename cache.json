@@ -8190,6 +8190,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/planes-trains-automobiles",
+          "author": "Jen Kuntz",
+          "description": "I'm home from a 3-week business trip, and I thought I'd share some of the travels as I legitimately had a \"Planes, Trains, and Automobiles\" experience, although not as chaotic […]",
+          "link": "https://365community.online/planes-trains-automobiles",
+          "publishedOn": "2024-03-30T20:34:49.000Z",
+          "wordCount": 3258,
+          "title": "Planes, Trains & Automobiles!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1711845767_Planes-Trains-amp-Automobiles.jpeg?fit=1200%2C1084&ssl=1"
+        },
+        {
           "id": "https://365community.online/mastering-the-art-of-client-engagement-with-maps-integrated-within-dynamics-365-crm",
           "author": "Inogic",
           "description": "The post Mastering the Art of Client Engagement with maps integrated within Dynamics 365 CRM appeared first on Blog | Maplytics. Source link",
@@ -22399,26 +22409,6 @@
           "publishedOn": "2022-04-03T18:37:59.000Z",
           "wordCount": 1372,
           "title": "Part 1 - Package Management",
-          "imageUrl": null
-        },
-        {
-          "id": "1654 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 04/01/22.\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Git with 1 Package\nWhen using Git for F&O, there are 2 basic flavors of using it; with 1 package or more than 1 package. This post will cover how to setup Git for use with 1 package.\nTo learn out to create a Git repo in Azure DevOps, please refer to MSFT documentation. To learn how to create a repo on Github, please refer to GitHub documentation.\nUsing Azure DevOps\nIn your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then Connect to a project. \n\nNext, select your repo and place it in your PackagesLocalDirectory. K drive on cloud hosted machines and C on VHDs. \n\nWait for it to clone and, that's it. Refresh your models like usual and you can develop against 1 package using Git in Azure DevOps. This is what the sync'd directory will look like. \n\nUsing GitHub\nIn your dev VM, open Visual Studio then open Team Explorer. Click on Manage Connections then click Clone \n\nLog into GitHub then select your repo making sure to change the local path to include your PackagesLocalDirectory path.\n\nClick clone and wait. That's it. Your repo folder will look like this:\n\nCallout: If using VHD, drive will be the C drive rather than K drive.\nConclusion\nVery straight forward process. However, when using this style of package manage, you will only ever be allowed 1 package. You can add as many models as you like but you'll only ever have 1 package. This includes ISV packages as well including binary or source packages. I recommend this style of management for personal projects or something you'll be sharing on GitHub. I wouldn't recommend this approach for use on an implementation project.\n \n\n\n\n\nView the discussion thread.\n\n\n\nReported:",
-          "link": "https://www.atomicax.com/article/using-git-1-package",
-          "publishedOn": "2022-04-01T12:40:45.000Z",
-          "wordCount": 1091,
-          "title": "Using Git with 1 Package",
-          "imageUrl": null
-        },
-        {
-          "id": "1639 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "Using Git rather than TFVC, a field guide.\nThis collection of works will help you with moving from using TFVC to using Git for your x++ development. This page will have several chapters linked as they are published. However, how do you know which is the best fit for you, your team, your organization or your project? Let's take an inventory.\nYou\nIf you're reading this, I assume you're interested in getting away from TFVC for some reason, you're a technically focused individual, and you understand the differences between using Git and TFVC. \nYour Team\nYour team should also be aware of what it takes to be successful in order to make a switch from TFVC to Git. They may need some additional training in order to get the the most out of Git. Developing and delivering with Git is a different exper…",
-          "link": "https://www.atomicax.com/content/git-alm-field-guide",
-          "publishedOn": "2022-04-01T12:29:21.000Z",
-          "wordCount": 1283,
-          "title": "GIT ALM Field Guide",
           "imageUrl": null
         }
       ]
