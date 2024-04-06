@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-05T01:06:51.389Z</updated>
+    <updated>2024-04-06T01:05:16.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One Dynamics One Platform – D365FO – LCS – PowerPlatform]]></title>
+        <id>https://365community.online/one-dynamics-one-platform-d365fo-lcs-powerplatform</id>
+        <link href="https://365community.online/one-dynamics-one-platform-d365fo-lcs-powerplatform"/>
+        <updated>2024-04-05T18:10:04.000Z</updated>
+        <summary type="html"><![CDATA[Nice to see that One Dynamics One Platform is making strides towards a more seamless experience for its users. It’s exciting to hear that LCS is slowly merging with Power […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Dynamics One Platform – D365FO – LCS – PowerPlatform]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3435</id>
+        <link href="https://anithasantosh.wordpress.com/2024/04/05/one-dynamics-one-platform-d365fo-lcs-powerplatform/"/>
+        <updated>2024-04-05T18:10:04.000Z</updated>
+        <summary type="html"><![CDATA[Nice to see that One Dynamics One Platform is making strides towards a more seamless experience for its users. It’s exciting to hear that LCS is slowly merging with Power Platform. In fact, I recently tried to raise a support … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Reasons To Choose Dynamics 365 Business Central Instead of SAP]]></title>
+        <id>https://erpsoftwareblog.com/?p=105632</id>
+        <link href="https://erpsoftwareblog.com/2024/04/7-reasons-to-choose-dynamics-365-business-central-instead-of-sap/"/>
+        <updated>2024-04-05T17:51:18.000Z</updated>
+        <summary type="html"><![CDATA[Forbes magazine rated Microsoft Dynamics 365 Business Central the number one overall ERP system for 2024. Read the report. However, we still see that some finance professionals who have used […]
+The post 7 Reasons To Choose Dynamics 365 Business Central Instead of SAP appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+3 key inputs to consider when selecting a new ERP (or staying)
+ERP Implementation: How to Control the Cost]]></summary>
+        <author>
+            <name>Dexpro Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Pharma Operations: Unveiling the Power of Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=105571</id>
+        <link href="https://erpsoftwareblog.com/2024/04/optimizing-pharma-operations-unveiling-the-power-of-business-central/"/>
+        <updated>2024-04-05T13:00:19.000Z</updated>
+        <summary type="html"><![CDATA[In today’s competitive landscape, the pharmaceutical industry thrives on efficiency and innovation. But with complex supply chains, stringent regulations, and ever-evolving research, streamlining pharma operations can feel like an uphill battle. This […]
+The post Optimizing Pharma Operations: Unveiling the Power of Business Central appeared first on ERP Software Blog.
+Exploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central
+Embrace Seamless Transition: Cloud Migration with Business Central
+Which Business Central Deployment Option you should choose?]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tackle Product Information through ERP-eCommerce Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=105619</id>
+        <link href="https://erpsoftwareblog.com/2024/04/tackle-product-information-through-erp-ecommerce-integration/"/>
+        <updated>2024-04-05T12:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Tackle Product Information through ERP-eCommerce Integration, this strategic move of a business streamlines operations and enhances customer experience. Handling product information through ERP-eCommerce integration involves various aspects, this article covers […]
+The post Tackle Product Information through ERP-eCommerce Integration appeared first on ERP Software Blog.
+Integrate Dynamics GP with leading Storefront Platforms
+Setting up the Integration Solution: Dynamics GP & Shopify
+Recording and Reconciling Shopify Payments in Dynamics GP for accurate Financial Reporting]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central 24 Wave1 – Copilot Chat & Analyze List]]></title>
+        <id>https://365community.online/business-central-24-wave1-copilot-chat-analyze-list</id>
+        <link href="https://365community.online/business-central-24-wave1-copilot-chat-analyze-list"/>
+        <updated>2024-04-05T12:25:28.000Z</updated>
+        <summary type="html"><![CDATA[Business Central 24 Wave1 – Copilot Chat & Analyze List Business Central 2024 wave 1 has been released, the new features as always are numerous, I highlight 2 features relating […]]]></summary>
+        <author>
+            <name>Roberto Stefanetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using ‘ready-to-use’ AI functions in the Canvas App]]></title>
+        <id>https://365community.online/using-ready-to-use-ai-functions-in-the-canvas-app</id>
+        <link href="https://365community.online/using-ready-to-use-ai-functions-in-the-canvas-app"/>
+        <updated>2024-04-05T10:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Recently, we were working on a customer’s requirement where they used a custom entity to store the feedback regarding their products using an integration. The customer used a canvas app […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Ways to Navigate the Maze: Choose the Right Appointment Scheduling System for Your Business]]></title>
+        <id>https://365community.online/6-ways-to-navigate-the-maze-choose-the-right-appointment-scheduling-system-for-your-business</id>
+        <link href="https://365community.online/6-ways-to-navigate-the-maze-choose-the-right-appointment-scheduling-system-for-your-business"/>
+        <updated>2024-04-05T07:16:31.000Z</updated>
+        <summary type="html"><![CDATA[The post 6 Ways to Navigate the Maze: Choose the Right Appointment Scheduling System for Your Business appeared first on Blog | Maplytics. Source link]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extending Power Pages using Power Automate – Lesson 2 – YouTube]]></title>
+        <id>https://365community.online/extending-power-pages-using-power-automate-lesson-2-youtube</id>
+        <link href="https://365community.online/extending-power-pages-using-power-automate-lesson-2-youtube"/>
+        <updated>2024-04-05T04:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Extending Power Pages using Power Automate – (Nick Doelman) Instagram zero to hero academy – https://www.instagram.com/fromzerotoh… Instagram thevictordantas – https://www.instagram.com/thevictorda… twitter thevictordantas – https://x.com/thevictordantas?s=20 source]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrate Copilot Studio with SoulMachines AI-powered digital people]]></title>
+        <id>http://dynamicsax-fico.com/?p=6025</id>
+        <link href="https://dynamicsax-fico.com/2024/04/05/integrate-copilot-studio-with-soulmachines-ai-powered-digital-people/"/>
+        <updated>2024-04-05T03:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Microsoft Dynamics 365 Reinforces Your Supply Chain]]></title>
         <id>https://erpsoftwareblog.com/?p=105615</id>
@@ -29,6 +141,16 @@ Data Lakes Challenges: How to Overcome Them?]]></summary>
 The post Building digital trust in Microsoft Copilot for Dynamics 365 and Power Platform appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Donald Kossman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything You Need To Know About Azure Stack!  Part 3 – YouTube]]></title>
+        <id>https://365community.online/everything-you-need-to-know-about-azure-stack-part-3-youtube</id>
+        <link href="https://365community.online/everything-you-need-to-know-about-azure-stack-part-3-youtube"/>
+        <updated>2024-04-04T20:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to part 3 of our series on unlocking the secrets of Azure Stack! In this video, we’ll introduce you to the world of Azure Stack and what it can […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
@@ -95,6 +217,20 @@ Why Not Use Dynamics GP for Another 10 Years or So?
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[28 ERP/CRM Software Blog Members to Visit in the Directions NA Expo]]></title>
+        <id>https://erpsoftwareblog.com/?p=105235</id>
+        <link href="https://erpsoftwareblog.com/2024/04/28-erp-crm-software-blog-members-to-visit-in-the-directions-na-expo/"/>
+        <updated>2024-04-04T16:14:12.000Z</updated>
+        <summary type="html"><![CDATA[Directions NA is a premier event—by partners, for partners. Directions NA (North America), as always, will deliver four days of deep technical insights into the Dynamics ecosystem and inform the community of […]
+The post 28 ERP/CRM Software Blog Members to Visit in the Directions NA Expo appeared first on ERP Software Blog.
+5 Ways Microsoft Dynamics Can Boost Your Company’s Financial Health
+The Importance of Test Environments for Optimizing ERP Solutions
+What fuels profitable field service?]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mastering Demand Planning: A Strategic Approach]]></title>
         <id>https://erpsoftwareblog.com/?p=105566</id>
         <link href="https://erpsoftwareblog.com/2024/04/mastering-demand-planning-a-strategic-approach/"/>
@@ -130,6 +266,16 @@ Why is self-checkout technology the best option for businesses?]]></summary>
         <summary type="html"><![CDATA[In the January release for Dynamics 365 Customer Insights – Journeys, we got the “Boost participation and simplify planning with session-based event registrations” feature. This can be a handy tool […]]]></summary>
         <author>
             <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Analytics Training | Adobe Analytics Course | Adobe Analytics Workspace Tutorial | MindMajix – YouTube]]></title>
+        <id>https://365community.online/adobe-analytics-training-adobe-analytics-course-adobe-analytics-workspace-tutorial-mindmajix-youtube</id>
+        <link href="https://365community.online/adobe-analytics-training-adobe-analytics-course-adobe-analytics-workspace-tutorial-mindmajix-youtube"/>
+        <updated>2024-04-04T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Adobe Analytics Training | Adobe Analytics Course | Adobe Analytics Workspace Tutorial | MindMajix This MindMajix’s YouTube video on Adobe Analytics training helps you learn and master the predictive intelligence […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
         </author>
     </entry>
     <entry>
@@ -41641,50 +41787,6 @@ Data contract mgcSalesBySegmentContract: we keep the user selection of companie
         <updated>2022-04-08T15:30:00.004Z</updated>
         <author>
             <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React (virtual) and Fluent UI code components using platform libraries]]></title>
-        <id>virtual-code-components-for-power-apps-using-react-and-fluent-ui-react-platform-libraries</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/virtual-code-components-for-power-apps-using-react-and-fluent-ui-react-platform-libraries/"/>
-        <updated>2022-04-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Virtual components and platform libraries support for code components]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 4 - GitHub]]></title>
-        <id>1651 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/content/part-4-github"/>
-        <updated>2022-04-07T01:22:40.000Z</updated>
-        <summary type="html"><![CDATA[Can you use Git Hub? yes.
-GitHub is also an option you could pursue when moving to Git. GitHub has a lot of new features and offerings that Azure DevOps does not have. However, there is basically no documentation from MSFT on how to configure builds and various other automation options in GitHub. I'm sure it's possible but there will be a fair amount of guess work. Getting your pipelines fully converted to YAML will be the first step in making the transition to GitHub.
-Community (Free)
-I use GitHub to host all of my community projects which is great for that. I can share the code and anyone can pick it up and use it as they see fit. Private repos are now also an option. However, these still below to a named person so you'd want a service account or centrally managed account to create all p…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 3 - Developing with VS 2019]]></title>
-        <id>1650 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/content/part-3-developing-vs-2019"/>
-        <updated>2022-04-07T00:59:06.000Z</updated>
-        <summary type="html"><![CDATA[What's it like developing using Git?
-Developing in VS with Git is easy but I wanted to call out a few changes. First, you don't need to manually add items to your repo. Your repo will have a .gitingore file that says what can be committed - and what can't. If your .gitIgnore file doesn't specifically ignore it, it will automatically be added. Also, your project folder will need to be in the package directory more than likely (or somewhere under source control in the same repo as your code). If you're using the more than 1 package approach, it can be shared if you like. Additionally, there is no source control explorer. You can compare your changes against the branch you're in but that's it. However, you don't really need source control explorer as a developer. If you're coding, you can do …]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 : A messy tips blogpost]]></title>
-        <id>http://kurthatlevik.com/?p=4320</id>
-        <link href="https://kurthatlevik.com/2022/04/06/d365-a-messy-tips-blogpost/"/>
-        <updated>2022-04-06T14:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Hi friends. We learn new things every day, and I wanted to share a new messy blogpost where you will find undocumented some tips. Enjoy. Azure Zone Pinning Sometimes I have experienced that Dynamics 365 performs slower than expected. I have in a few scenarios tracked this down the fact that the services are distributed … Continue reading D365 : A messy tips blogpost]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
         </author>
     </entry>
     <entry>
