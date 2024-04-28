@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-27T01:07:22.209Z</updated>
+    <updated>2024-04-28T01:13:28.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://Dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Pages: convert standard to enhanced data model]]></title>
+        <id>https://365community.online/power-pages-convert-standard-to-enhanced-data-model</id>
+        <link href="https://365community.online/power-pages-convert-standard-to-enhanced-data-model"/>
+        <updated>2024-04-27T20:47:04.000Z</updated>
+        <summary type="html"><![CDATA[The enhanced data model has now been GA for a while and I know for all my new projects, we are using by default the enhanced data model. However, there […]]]></summary>
+        <author>
+            <name>Nick Doelman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Apps – Work with JSON]]></title>
+        <id>https://365community.online/power-apps-work-with-json</id>
+        <link href="https://365community.online/power-apps-work-with-json"/>
+        <updated>2024-04-27T15:22:24.000Z</updated>
+        <summary type="html"><![CDATA[In this article, let’s see how we can work with JSON format in our Canvas App. What JSON is? JavaScript Object Notation (JSON) is a lightweight format for exchanging data. […]]]></summary>
+        <author>
+            <name>Angelo Gulisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secret weapon for HR! Dynamics 365, Copilot Studio & ServiceNow Hack!]]></title>
+        <id>https://365community.online/secret-weapon-for-hr-dynamics-365-copilot-studio-servicenow-hack</id>
+        <link href="https://365community.online/secret-weapon-for-hr-dynamics-365-copilot-studio-servicenow-hack"/>
+        <updated>2024-04-27T09:25:21.000Z</updated>
+        <summary type="html"><![CDATA[This video shows a smart self-service solution for Microsoft Dynamics 365 HR, featuring a super-powered AI chatbot built with the dream team of Microsoft solutions: Dynamics 365 HR: Your central […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #28]]></title>
+        <id>http://dynamicsax-fico.com/?p=5795</id>
+        <link href="https://dynamicsax-fico.com/2024/04/27/microsoft-bizapps-deutschland-podcast-28/"/>
+        <updated>2024-04-27T05:47:55.000Z</updated>
+        <summary type="html"><![CDATA[[German language podcast] In dieser Episode des Microsoft BizApps Deutschland Podcasts haben wir einen besonderen Gast, Lutz Jannausch, Head of …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Upgrading NAV Giving You a Headache? Business Central Might Be the Cure]]></title>
         <id>https://erpsoftwareblog.com/?p=106215</id>
@@ -88,6 +129,16 @@ See The Top Auto-Create Dimensions Tool for Microsoft Dynamics 365 Business Cent
 Join Us At Dynamic Communities Summit - Booth 800]]></summary>
         <author>
             <name>FYIsoft, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages Plus Spring Webinar – Last Call / Zero To Hero News – YouTube]]></title>
+        <id>https://365community.online/power-pages-plus-spring-webinar-last-call-zero-to-hero-news-youtube</id>
+        <link href="https://365community.online/power-pages-plus-spring-webinar-last-call-zero-to-hero-news-youtube"/>
+        <updated>2024-04-26T14:37:02.000Z</updated>
+        <summary type="html"><![CDATA[Friends, We’ve got some exciting news from Power Pages Plus! Introducing our latest release: the Customer Xperience template. This new addition is designed to amp up external user engagement with […]]]></summary>
+        <author>
+            <name>Victor Dantas</name>
         </author>
     </entry>
     <entry>
@@ -177,6 +228,16 @@ How Industry 4.0 and the Pandemic are Transforming ERP in Manufacturing]]></summ
         <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #138 – 26th April 2024 – YouTube]]></title>
+        <id>https://365community.online/weekly-update-138-26th-april-2024-youtube</id>
+        <link href="https://365community.online/weekly-update-138-26th-april-2024-youtube"/>
+        <updated>2024-04-26T07:39:17.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update #138 – 26th April 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
         </author>
     </entry>
     <entry>
@@ -618,6 +679,17 @@ Boost the Financial Health of Your Company With Microsoft Dynamics ERP]]></summa
         <summary type="html"><![CDATA[We have a new feature in Omnichannel for Customer Service, the ability to collect feedback from agents on call quality. In this post I will explain this new feature. Monitoring […]]]></summary>
         <author>
             <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Shipment Processes with Automatic re-allocation of non-allocated shipment lines.]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/04/23/streamlining-shipment-processes-with-automatic-re-allocation-of-non-allocated-shipment-lines/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/04/23/streamlining-shipment-processes-with-automatic-re-allocation-of-non-allocated-shipment-lines/"/>
+        <updated>2024-04-23T07:58:50.000Z</updated>
+        <summary type="html"><![CDATA[The introduction of the Automatic re-waving of shipment lines failed to be allocated is solving issue where failed lines needed to be handled manually in the “Maintain shipments” form. This feature empowers warehouse managers to schedule checks for incomplete shipments to be re-waved and completed. In the past, this would have been a manual task for a warehouse manager to manage, actively going through a list of incomplete shipment lines and manually reprocessing them for the shipments to be completed. This process was time-consuming every time an exception happened, and lines did not manage to allocate inventory.  
+The post Streamlining Shipment Processes with Automatic re-allocation of non-allocated shipment lines.    appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Julian De Bri (Business Guest) and Mirza Abdic</name>
         </author>
     </entry>
     <entry>
@@ -44673,17 +44745,6 @@ The post Segregation of Duties in D365FO appeared first on Alex Meyer.]]></summa
         <link href="https://powerapps.microsoft.com/en-us/blog/6-people-who-changed-careers-with-low-code-from-power-apps/"/>
         <updated>2022-05-03T07:55:19.000Z</updated>
         <summary type="html"><![CDATA[The tech sector is booming with jobs and opportunities. But for some people, the question is: how do I get in? Few people have degrees in computer science, IT, or engineering—so, coding jobs seem out of reach. However, with low-code app tools, some grit and curiosity, anyone can now realize a career in tech. This is one of the most exciting elements of Microsoft Power Platform.]]></summary>
-        <author>
-            <name>Microsoft Power Apps - Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the developers combining Power Platform and Azure to go faster]]></title>
-        <id>meet-the-developers-combining-power-platform-and-azure-to-go-faster</id>
-        <link href="https://powerapps.microsoft.com/en-us/blog/meet-the-developers-combining-power-platform-and-azure-to-go-faster/"/>
-        <updated>2022-04-29T08:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Software developers around the world are embracing low-code as a powerful part of their toolkit — they look at Power Platform as the next layer of abstraction that reduces repeated work, adds to their skill set, and lets them focus their coding energy on the problems that matter most. The increased level of productivity is also changing the way these developers work with their users — as fusion teams creating a much more active and rewarding environment for building impactful solutions faster than ever before.
-Let’s meet a few of these developers and look at examples of solutions built using Power Platform along with Azure services.]]></summary>
         <author>
             <name>Microsoft Power Apps - Blog</name>
         </author>
