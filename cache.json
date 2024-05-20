@@ -606,6 +606,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=106854",
+          "author": "Written by Steve Simon, PDG Consultants, Inc., www.prettydarngood.com.",
+          "description": "Using Application Language (AL) to speed up Bank Reconciliation Reconciling the Microsoft Dynamics 365 Business Central General Ledger with bank statements can be a time- consuming and challenging process, especially for large real estate management companies with multiple bank accounts and business entities. This article explores the key Bank Rec pain points encountered by one of our BC […]\nThe post Streamlining Bank Reconciliations in Business Central with Application Language (AL) appeared first on ERP Software Blog.\nProduct Configurators for Microsoft Dynamics 365 Business Central\nChance to Win a Mobile Device when you Attend Business Central Webinar\nHow you can secure your data with Document Management System (DMS)",
+          "link": "https://erpsoftwareblog.com/2024/05/streamlining-bank-reconciliations-in-business-central-with-application-language-al/",
+          "publishedOn": "2024-05-19T04:36:31.000Z",
+          "wordCount": 6083,
+          "title": "Streamlining Bank Reconciliations in Business Central with Application Language (AL)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Real-Estate-Newark-300x106.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=106851",
           "author": "Insight Works",
           "description": "Insight Works welcomes seven new Microsoft Partners into their reseller network to enhance global distribution and manufacturing solutions.\nThe post Insight Works Expands Global Reach with Seven New Microsoft Partners appeared first on ERP Software Blog.\nHow Important is Price when Choosing an ERP Solution?\nMicrosoft Dynamics GP for Nonprofits:  Internal Controls and System Security\nDynamics GP - Recording Vendor Refunds",
@@ -10044,6 +10054,26 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/new-and-retired-microsoft-dynamics-365-certifications",
+          "author": "Arun Potti",
+          "description": "I have posted an article related to the Microsoft Dynamics 365 Certifications long back and now Microsoft has shared the new update on these certifications. Below are the updates related […]",
+          "link": "https://365community.online/new-and-retired-microsoft-dynamics-365-certifications",
+          "publishedOn": "2024-05-19T08:29:09.000Z",
+          "wordCount": 3250,
+          "title": "New and Retired Microsoft Dynamics 365 Certifications",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Microsoft-Logo.png?fit=1200%2C1200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/2nd-bcopendiscussion-exploring-new-features-in-business-central-24",
+          "author": "Saurav Dhyani",
+          "description": "Hi All, We have restarted #bcopendiscussion. With 2024 Season we started with What’s new in Business Central 2024. You can join future meetings, following this link. Register for upcoming event, […]",
+          "link": "https://365community.online/2nd-bcopendiscussion-exploring-new-features-in-business-central-24",
+          "publishedOn": "2024-05-19T05:30:00.000Z",
+          "wordCount": 3191,
+          "title": "2’nd #bcopendiscussion – Exploring New Features in Business Central 24.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/2nd-bcopendiscussion-Exploring-New-Features-in-Business-Central-24.jpeg?fit=480%2C360&ssl=1"
+        },
         {
           "id": "https://365community.online/export-multiple-sheets-in-excel-from-msdyn365bc",
           "author": "Saurav Dhyani",
