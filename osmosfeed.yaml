@@ -125,7 +125,7 @@ sources:
   - href: https://d365fandom.com/feeds/posts/default
   - href: https://ievgensaxblog.wordpress.com/feed/
   - href: https://dynamics365ax2012.blogspot.com/feeds/posts/default
-  - href: https://powerautomate.microsoft.com/en-nz/blog/feed/
+  # - href: https://powerautomate.microsoft.com/en-nz/blog/feed/
 
 cacheMaxDays: 730
 
