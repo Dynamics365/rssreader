@@ -1,6 +1,7 @@
-cacheUrl: https://automaly.github.io/finopsnews/cache.json
+cacheUrl: https://dynamics365.github.io/finopsnews/cache.json
 sources:
-  # - href: https://nuxulu.com/posts/index.xml
+  - href: https://nuxulu.com/posts/index.xml
+  - href: https://automaly.com/blog/rss.xml
   # Downloadable E-learning Courses
   # - href: https://community.dynamics.com/365/b/learningcurriculum/rss
   # AX Videos
