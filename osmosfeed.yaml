@@ -1,4 +1,4 @@
-cacheUrl: https://Dynamics365.github.io/finopsnews/cache.json
+cacheUrl: https://automaly.github.io/finopsnews/cache.json
 sources:
   - href: https://nuxulu.com/posts/index.xml
   # Downloadable E-learning Courses
@@ -9,13 +9,22 @@ sources:
   # - href: https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/rss
   # AX News
   # - href: https://community.dynamics.com/ax/b/axmsdwnews/rss
-  # - href: https://community.dynamics.com/365/b/365teamblog/rss #builf failed
+  # - href: https://community.dynamics.com/365/b/365teamblog/rss #build failed
   
   #https://www.dynamicsduoacademy.com/blog/
 
+  # X++
+  - href: https://kishoredynamics11.blogspot.com/feeds/posts/default
+  - href: https://denistrunin.com/rss.xml
+  - href: https://d365fotechexpert.blogspot.com/feeds/posts/default
+  - href: https://azureintegrations.com/feed/
+
+  #data
+  - href: https://tomaztsql.wordpress.com/feed/
+
   # Consulting
   - href: https://impulztech.com/category/dynamics-365/feed/
-  - href: https://www.sikich.com/insights/feed/
+  # - href: https://www.sikich.com/insights/feed/
   - href: https://erpsoftwareblog.com/feed/
   - href: https://www.encorebusiness.com/blog/feed/
   - href: https://365community.online/feed
@@ -25,6 +34,9 @@ sources:
   - href: https://dynamicsax-fico.com/feed/
   - href: https://dynamicspedia.com/feed/
   - href: https://cleverax.wordpress.com/feed/
+
+  #ER
+  - href: https://fernitudela.dev/feed/
 
   # AX Blogs
   # - href: http://everythingdynamicsaxbi.com/category/dynamics-365-for-finance-and-operations/feed/ #domain gone
@@ -40,13 +52,13 @@ sources:
   - href: http://atomicax.com/rss.xml
   - href: https://kurthatlevik.com/feed/
   - href: https://dynvision365.com/feed/
-  - href: https://allaboutdynamic.com/feed/
-  - href: https://daxonline.org/rss.xml
+  # - href: https://allaboutdynamic.com/feed/
+  # - href: https://daxonline.org/rss.xml
   - href: https://cloudblogs.microsoft.com/dynamics365/feed/
   - href: https://dev.goshoom.net/feed/
   - href: https://exploredynamics365.home.blog/blog-feed/feed/
   - href: https://exploredynamics365.home.blog/feed/
-  - href: https://d365snippets.com/feeds/posts/default
+  # - href: https://d365snippets.com/feeds/posts/default
   - href: https://www.brewsterware.com/feed
   - href: https://alexvoy.blogspot.com/feeds/posts/default
   - href: https://shashidotnet.wordpress.com/feeds/posts/default
@@ -99,12 +111,13 @@ sources:
   # - href: https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/rss
 
   - href: https://elearnd365.com/feed/
-  - href: https://denistrunin.com/rss.xml
+  
   - href: https://dynamics-tips.com/feed/
   - href: https://erconsult.eu/feed/
   - href: https://henrikmarxlarsen.wordpress.com/feed/
   - href: https://gfeaxblog.wordpress.com/feed/
   - href: https://axraja.blogspot.com/feeds/posts/default
+  
 
   # Power Apps
   - href: https://powerapps.microsoft.com/en-us/blog/feed/
@@ -121,7 +134,7 @@ siteTitle: "Dynamics 365 Finance & Operations Feeds"
 # `timezone`: Specify your local timezone so server can group content by weekday
 # Find yours from the "TZ database name" column of this page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 # Examples: America/Los_Angeles, America/New_York, Asia/Shanghai, Asia/Tokyo
-timezone: Asia/Bangkok
+timezone: America/Los_Angeles
 
 
 # https://dynamics.fo/
