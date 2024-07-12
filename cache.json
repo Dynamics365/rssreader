@@ -1352,6 +1352,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=108449",
+          "author": "Technology Management Concepts",
+          "description": "In today's rapidly evolving business environment, ensuring your enterprise resource planning (ERP) system is up-to-date and capable of handling your growing needs is essential. If you're still relying on Dynamics […]\nThe post Smooth Transition from Dynamics GP to Business Central: Why Early Planning is Crucial appeared first on ERP Software Blog.\nUnlocking Efficiency: Transitioning from Dynamics GP to Dynamics 365 Business Central\nThe Ultimate Comparison: Dynamics GP vs Business Central\nIncrease profits by managing material costs",
+          "link": "https://erpsoftwareblog.com/2024/07/smooth-transition-from-dynamics-gp-to-business-central-why-early-planning-is-crucial/",
+          "publishedOn": "2024-07-11T19:11:55.000Z",
+          "wordCount": 4406,
+          "title": "Smooth Transition from Dynamics GP to Business Central: Why Early Planning is Crucial",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/TMC-Blog-Covers-Feature-17-625x358.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=107524",
+          "author": "Fidesic AP",
+          "description": "The post How to Use Microsoft Machine Learning Studio for Non-Developers appeared first on ERP Software Blog.\nProduct Recommendation Engine: Use AI in D365 to Recommend Products to Rental Customers\nHeads Up: Successful Forecasting and Demand Planning with AGR\nInsight Works Unveils Enhanced Order Fulfillment for Dynamics 365",
+          "link": "https://erpsoftwareblog.com/2024/07/how-to-use-microsoft-machine-learning-studio-for-non-developers/",
+          "publishedOn": "2024-07-11T18:13:12.000Z",
+          "wordCount": 3605,
+          "title": "How to Use Microsoft Machine Learning Studio for Non-Developers",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/maxresdefault-2.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=108442",
+          "author": "MetaOption LLC",
+          "description": "In the rapidly evolving world of manufacturing, staying competitive requires high-quality products and efficient and adaptable business processes. Microsoft Dynamics 365 Business Central, a comprehensive business management solution, offers robust […]\nThe post How Business Central Manufacturing Solution Benefits Your Business appeared first on ERP Software Blog.\nStreamlining Manufacturing Operations with Production Planning and Control in Business Central\nWhat is Cloud ERP and What are the Benefits?\nTop 5 ways Microsoft Dynamics 365 Business Central helps Manufacturers",
+          "link": "https://erpsoftwareblog.com/2024/07/how-business-central-manufacturing-solution-benefits-your-business/",
+          "publishedOn": "2024-07-11T17:54:58.000Z",
+          "wordCount": 7468,
+          "title": "How Business Central Manufacturing Solution Benefits Your Business",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-4-7.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=108436",
+          "author": "Dynamics Square USA",
+          "description": "Power Apps with Business Central provides you with board customization capabilities that can help you increase the functionality of your enterprise resource planning (ERP) system. Microsoft Power Apps is a […]\nThe post Power Apps with Business Central: Take Your Business Productivity to the Next Level appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central\nWhat is Microsoft Dynamics 365 Business Central? - Webinar",
+          "link": "https://erpsoftwareblog.com/2024/07/power-apps-with-business-central/",
+          "publishedOn": "2024-07-11T13:49:25.000Z",
+          "wordCount": 4720,
+          "title": "Power Apps with Business Central: Take Your Business Productivity to the Next Level",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Power-Apps-with-Business-Central.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=108428",
           "author": "Insight Works",
           "description": "Insight Works onboards four new Microsoft Partners in June, enhancing solutions for global manufacturers and distributors.\nThe post Insight Works Onboards Four Microsoft Partners to Expand Global Reach appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -9734,6 +9774,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=62957",
+          "author": "Brennan Senos",
+          "description": "Dynamics 365 Business Central Essentials vs Premium: Choosing the Right License\nThe main difference between Dynamics 365 Business Central’s Essentials and Premium license types is that Premium contains more powerful manufacturing and service management functionality. However, it can be confusing to sort out exactly how these differences match up to your company’s specific processes and needs. This license-type decision is one of the most common issues...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/d365-business-central-essentials-vs-premium/",
+          "publishedOn": "2024-07-11T14:13:56.000Z",
+          "wordCount": 1997,
+          "title": "Dynamics 365 Business Central Essentials vs Premium: Choosing the Right License",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=62875",
           "author": "Akbor Chowdhury",
           "description": "Dynamics 365 CRM Applications License Pricing Explained\nNavigating the prices of Dynamics 365’s CRM offerings can be complex, and I often help Encore customers understand and optimize the details of their Dynamics license costs. There are actually 5 different Dynamics 365 apps that fit different companies’ needs in the CRM space, and they each have their own license types. There are also...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -10390,6 +10440,36 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-understand-why-you-can-post-to-a-closed-year",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-understand-why-you-can-post-to-a-closed-year",
+          "publishedOn": "2024-07-11T10:00:14.000Z",
+          "wordCount": 3270,
+          "title": "In Microsoft Dynamics 365 Business Central (Financial), how do I… Understand Why You Can Post to a Closed Year",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/replace-the-copilot-added-to-the-site-with-another-copilot-available-in-microsoft-copilot-studio",
+          "author": "Inogic",
+          "description": "Power Pages Site Copilot offers quick and efficient assistance to your site visitors and users, resolving issues and answering questions directly on your website. In today’s digital world, businesses often […]",
+          "link": "https://365community.online/replace-the-copilot-added-to-the-site-with-another-copilot-available-in-microsoft-copilot-studio",
+          "publishedOn": "2024-07-11T07:19:08.000Z",
+          "wordCount": 3504,
+          "title": "Replace the copilot added to the site with another copilot available in Microsoft Copilot Studio",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Replace-the-copilot-added-to-the-site-with-another-copilot-available-in-Microsoft-Copilot-Studio.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mvp-renewed-again-9-in-a-row",
+          "author": "Roberto Stefanetti",
+          "description": "“Aloha my dear MVPs!Today is the day of your MVP renewals, and I’m excited like you and especially for you!” MVP renewed again, #9 in a row! …the MVP blue […]",
+          "link": "https://365community.online/mvp-renewed-again-9-in-a-row",
+          "publishedOn": "2024-07-11T06:57:43.000Z",
+          "wordCount": 3188,
+          "title": "MVP renewed again, #9 in a row!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
         {
           "id": "https://365community.online/perform-age-calculation-using-formula-columns-in-dataverse-dynamics-365",
           "author": "Nishant Rana",
@@ -29865,16 +29945,6 @@
           "wordCount": 2001,
           "title": "POSTMAN D365",
           "imageUrl": null
-        },
-        {
-          "id": "https://axraja.blogspot.com/2022/07/debug-sandboxtest-environment-in-d365fo.html",
-          "author": null,
-          "description": "Above mentioned steps can be reduced to only one step i.e refresh of production DB to sandbox via LCS and later we can connect to sandbox environment directly from the development environment for debugging using below guide\n\nTime required 20 minutes.\nSteps\n\nEnable access for your IP address\nGo to lcs ->sandbox environment page. To connect to test environment RDP, you need to create Whitelist rule for your IP address \n\nConnect RDP and open SSMS\n\nConnect to SQL server using Server name from LCS and add the prefix to SQL server name – servername.database.windows.net\n\nCreate a new query to test DB\nBelow query will create a new user that will be used for debugging\nCREATE USER devtempuser WITH PASSWORD = ‘pass@word1’\nEXEC sp_addrolemember ‘db_owner’, ‘devtempuser’\n\n\nWhitelist your IP address\nSelect new query against Master DB\nexec sp_set_firewall_rule N’DEVNAME’, ‘IP’, ‘IP’ \n\nStop IIS, WWW service and Batch Service\nOpen IIS and stop the service. Open run and enter services.msc and stop WWW and Microsoft D365 batch service\n\nEdit Web config\nGo to C:\\AosService\\webroot\\web.config and save the original file somewhere else as backup. Modify 4 Keys as per the below screenshot.\nYou can either comment original configuration or delete it and add new configuration of the sandbox environment\n\nStart IIS and WWW services\nStart IIS and WWW service stopped in step 5. Don’t start batch service.\n\nOpen the development environment AX URL\nIf you get 503 unavailable error, go to CMD(as admin) and type IISRESET\n\nDebug\nNow sandbox environment is connected to your development environment. You can simply open Visual studio to add breakpoints to X++ object and attach w3wp.exe service to debug.\n\nThanks Pawan Deep SinghI \n\nReference: https://axparadise.com/how-to-debug-the-sandbox-test-environment-in-d365fo/",
-          "link": "https://axraja.blogspot.com/2022/07/debug-sandboxtest-environment-in-d365fo.html",
-          "publishedOn": "2022-07-13T12:07:00.005Z",
-          "wordCount": 2129,
-          "title": "Debug the Sandbox/Test environment in D365FO",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ALY8t1tYzXtW3VUxe0MSNEJ4gy72fjb58ifL7MWuvfePnYR6uhcrKhGzmIIGveDcpb1qgghkZ5BemmXxRQvRo-LIL79e0puaj1ApuvvajpGVcAN0it3dWa77M4Ympw5vbuXd7XmLLhm2WI4=w1200-h630-p-k-no-nu"
         }
       ]
     },
