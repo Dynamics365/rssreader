@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-08-03T01:16:09.049Z</updated>
+    <updated>2024-08-04T01:22:58.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From NAV to Business Central: Enhancing Your ERP Capabilities]]></title>
+        <id>https://erpsoftwareblog.com/?p=117294</id>
+        <link href="https://erpsoftwareblog.com/2024/08/from-nav-to-business-central-enhancing-your-erp-capabilities/"/>
+        <updated>2024-08-03T17:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Resource Planning (ERP) systems are the strength of today’s organizations, improving processes and providing information for decisions. Over the years Microsoft Dynamics NAV has been stable and reliable for […]
+The post From NAV to Business Central: Enhancing Your ERP Capabilities appeared first on ERP Software Blog.
+Navigating the Upgrade: Steps to Move from Dynamics NAV to Business Central
+How to Upgrade Dynamics NAV to Business Central in 2023?
+Strategies and steps to unlock seamless order fulfillment using Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dataverse Accelerator – Part 1 – Introduction]]></title>
+        <id>https://365community.online/microsoft-dataverse-accelerator-part-1-introduction</id>
+        <link href="https://365community.online/microsoft-dataverse-accelerator-part-1-introduction"/>
+        <updated>2024-08-03T11:08:10.000Z</updated>
+        <summary type="html"><![CDATA[Please like and share your valuable feedback on this video and follow my blog to get my articles to your Inbox. Click on the below image to navigate to my YouTube Channel. […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Business Central Inventory Management with Top Apps]]></title>
         <id>https://erpsoftwareblog.com/?p=117286</id>
@@ -60,6 +84,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>PartnerTalks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in Power Apps: July 2024 Feature Update]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-july-2024-feature-update/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-july-2024-feature-update/"/>
+        <updated>2024-08-02T18:26:22.000Z</updated>
+        <summary type="html"><![CDATA[A summary of product, community, and learning updates from throughout the month so you can access it in one easy place. This month we're excited to share Copilot updates, GA of some key features for our makers and a huge set of Learning and Documentation updates.
+The post What’s new in Power Apps: July 2024 Feature Update appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Clay Wesener</name>
         </author>
     </entry>
     <entry>
@@ -402,6 +437,17 @@ Boost your Operations with Effortless Packing and Shipping: MetaShip]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Call SQL Server procedures directly in Power Fx  (GA)]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/call-sql-server-procedures-directly-in-power-fx-ga/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/call-sql-server-procedures-directly-in-power-fx-ga/"/>
+        <updated>2024-07-31T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GA of calling stored procedures directly in Power Fx.  Speed up app development.  Speeds up Power App performance. 
+The post Call SQL Server procedures directly in Power Fx  (GA) appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Lance Delano</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Taking Scottish Summit on Tour with Matt Beard and Zoe Wilson – YouTube]]></title>
         <id>https://365community.online/taking-scottish-summit-on-tour-with-matt-beard-and-zoe-wilson-youtube-2</id>
         <link href="https://365community.online/taking-scottish-summit-on-tour-with-matt-beard-and-zoe-wilson-youtube-2"/>
@@ -531,6 +577,17 @@ What Is Change Management and Why Is It Important for ERP Implementation? Part 1
 How to Email Invoices, Past Due Reminders, and Statements Automatically in Dynamics 365 Business Central]]></summary>
         <author>
             <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Copilot to filter to quickly filter, sort, and search canvas app galleries with SharePoint lists]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-filter-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sharepoint-lists/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-filter-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sharepoint-lists/"/>
+        <updated>2024-07-30T18:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Use natural language queries with Copilot for filter to fine tune the records you see in your canvas galleries at runtime.  
+The post Use Copilot to filter to quickly filter, sort, and search canvas app galleries with SharePoint lists appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Lance Delano</name>
         </author>
     </entry>
     <entry>

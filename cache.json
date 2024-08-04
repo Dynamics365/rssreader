@@ -1372,6 +1372,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=117294",
+          "author": "MetaOption LLC",
+          "description": "Enterprise Resource Planning (ERP) systems are the strength of today’s organizations, improving processes and providing information for decisions. Over the years Microsoft Dynamics NAV has been stable and reliable for […]\nThe post From NAV to Business Central: Enhancing Your ERP Capabilities appeared first on ERP Software Blog.\nNavigating the Upgrade: Steps to Move from Dynamics NAV to Business Central\nHow to Upgrade Dynamics NAV to Business Central in 2023?\nStrategies and steps to unlock seamless order fulfillment using Business Central",
+          "link": "https://erpsoftwareblog.com/2024/08/from-nav-to-business-central-enhancing-your-erp-capabilities/",
+          "publishedOn": "2024-08-03T17:32:30.000Z",
+          "wordCount": 4193,
+          "title": "From NAV to Business Central: Enhancing Your ERP Capabilities",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-3-19.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=117286",
           "author": "Insight Works",
           "description": "Master Business Central Inventory Management with Advanced Inventory Count & Warehouse Insight to boost efficiency & streamline operations.\nThe post Master Business Central Inventory Management with Top Apps appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -11480,6 +11490,16 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/microsoft-dataverse-accelerator-part-1-introduction",
+          "author": "Arun Potti",
+          "description": "Please like and share your valuable feedback on this video and follow my blog to get my articles to your Inbox. Click on the below image to navigate to my YouTube Channel. […]",
+          "link": "https://365community.online/microsoft-dataverse-accelerator-part-1-introduction",
+          "publishedOn": "2024-08-03T11:08:10.000Z",
+          "wordCount": 3229,
+          "title": "Microsoft Dataverse Accelerator – Part 1 – Introduction",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/dataverse_1600x1600.png?fit=680%2C680&ssl=1"
+        },
         {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-access-keys-with-key-tips-in-more-languages",
           "author": "Ian Grieve",
@@ -32483,6 +32503,36 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-july-2024-feature-update/",
+          "author": "Clay Wesener",
+          "description": "A summary of product, community, and learning updates from throughout the month so you can access it in one easy place. This month we're excited to share Copilot updates, GA of some key features for our makers and a huge set of Learning and Documentation updates.\nThe post What’s new in Power Apps: July 2024 Feature Update appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-july-2024-feature-update/",
+          "publishedOn": "2024-08-02T18:26:22.000Z",
+          "wordCount": 4354,
+          "title": "What’s new in Power Apps: July 2024 Feature Update",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/08/comment2fx.gif"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/call-sql-server-procedures-directly-in-power-fx-ga/",
+          "author": "Lance Delano",
+          "description": "GA of calling stored procedures directly in Power Fx.  Speed up app development.  Speeds up Power App performance. \nThe post Call SQL Server procedures directly in Power Fx  (GA) appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/call-sql-server-procedures-directly-in-power-fx-ga/",
+          "publishedOn": "2024-07-31T14:00:00.000Z",
+          "wordCount": 2610,
+          "title": "Call SQL Server procedures directly in Power Fx  (GA)",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/07/choose-a-sp.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-filter-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sharepoint-lists/",
+          "author": "Lance Delano",
+          "description": "Use natural language queries with Copilot for filter to fine tune the records you see in your canvas galleries at runtime.  \nThe post Use Copilot to filter to quickly filter, sort, and search canvas app galleries with SharePoint lists appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-filter-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sharepoint-lists/",
+          "publishedOn": "2024-07-30T18:03:34.000Z",
+          "wordCount": 2906,
+          "title": "Use Copilot to filter to quickly filter, sort, and search canvas app galleries with SharePoint lists",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/07/Copilot-adorner.webp"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/new-analysis-engine-now-generally-available/",
           "author": "Mansi Malik and McCall Saltzman",
