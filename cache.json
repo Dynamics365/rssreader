@@ -14846,6 +14846,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/thank-you-for-your-overwhelming-response-at-mysummitna-2024",
+          "author": "Inogic",
+          "description": "The Maplytics team would like to extend a heartfelt ‘Thank You’ to everyone who visited us at Booth 1017 during Community Summit North America 2024 in San Antonio. This year’s Summit too, has been a phenomenal experience, packed with exciting discussions, demos, and insights. Your enthusiasm and engagement made it truly special! A Standout Partner […]",
+          "link": "https://365community.online/thank-you-for-your-overwhelming-response-at-mysummitna-2024",
+          "publishedOn": "2024-10-24T11:25:08.000Z",
+          "wordCount": 1276,
+          "title": "Thank You for Your Overwhelming Response at #MySummitNA 2024!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/using-extended-texts-in-microsoft-dynamics-365-business-central-add-extended-texts-to-items",
+          "author": "Ian Grieve",
+          "description": "This article is part of the Using Extended Texts In Microsoft Dynamics 365 Business Central series, but articles within it will also be part of the ongoing and In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. Extended texts can […]",
+          "link": "https://365community.online/using-extended-texts-in-microsoft-dynamics-365-business-central-add-extended-texts-to-items",
+          "publishedOn": "2024-10-24T10:00:40.000Z",
+          "wordCount": 1110,
+          "title": "Using Extended Texts In Microsoft Dynamics 365 Business Central: Add Extended Texts to Items",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/hidden-features-in-model-driven-apps",
+          "author": "Megan V. Walker",
+          "description": "Did you know about the hidden features in a model-driven app? Well maybe not hidden, but perhaps overlooked when you are creating a new app, or reviewing existing ones. There are a whole host of different settings available to turn on and off to create slightly different experiences depending on what app someone is using. […]",
+          "link": "https://365community.online/hidden-features-in-model-driven-apps",
+          "publishedOn": "2024-10-24T08:30:00.000Z",
+          "wordCount": 1036,
+          "title": "Hidden Features In Model-driven Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/simplifying-case-creation-disabling-validations-on-contact-and-customers",
+          "author": "Inogic",
+          "description": "As a support agent, I engage with customers and address their concerns. In an earlier instance, I was handling a case for an organization named “A. Datum Corp. (Sample)” Our system contained records for Curron, Smith, and several other contacts linked to the company. I filled out all the fields and used Smith as the […]",
+          "link": "https://365community.online/simplifying-case-creation-disabling-validations-on-contact-and-customers",
+          "publishedOn": "2024-10-24T07:21:33.000Z",
+          "wordCount": 1356,
+          "title": "Simplifying Case Creation: Disabling Validations on contact and customers",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/scottish-summit-2024-scottishsummit-aberdeen-techconference-youtube",
           "author": "Sarah Lean ???????",
           "description": "Scottish Summit 2024. #scottishsummit Aberdeen #techconference source",
@@ -39791,6 +39831,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/microsoft-named-a-leader-in-2024-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/",
+          "author": "Ryan Cunningham",
+          "description": "We are excited to share that Microsoft has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms for the fifth year in a row.\nThe post Microsoft named a Leader in 2024 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms    appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/microsoft-named-a-leader-in-2024-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/",
+          "publishedOn": "2024-10-23T15:00:00.000Z",
+          "wordCount": 3583,
+          "title": "Microsoft named a Leader in 2024 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/09/355583-social.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/canvas-coauthoring-is-now-generally-available/",
+          "author": "Jessica Lo",
+          "description": "Power Apps announced the general availability of coauthoring in the Canvas designer. This capability can now be enabled within the app settings under New > Coauthoring. \nThe post Canvas coauthoring is now generally available! appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/canvas-coauthoring-is-now-generally-available/",
+          "publishedOn": "2024-10-23T10:18:50.000Z",
+          "wordCount": 2661,
+          "title": "Canvas coauthoring is now generally available!",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/10/CoauthoringGABlogGIF.gif"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/exciting-new-updates-for-pipelines-in-power-platform/",
           "author": "Anthony Sheehi",
