@@ -154,16 +154,6 @@
           "wordCount": 2422,
           "title": "Reservation and on-hand inventory in warehouse management",
           "imageUrl": "https://dynamics365.github.io/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/2022-11-15_14h27_10.png"
-        },
-        {
-          "id": "https://dynamics365.github.io/2022-10-27-how-to-get-d365-azure-blob-storage-str/",
-          "author": "Max Nguyen",
-          "description": "In Dynamics 365 for Finance and Operations Azure storage is used to\nStore files for Attachments\nData import and export jobs\nWhen FinOps prints a report via Document Reporting Services, SSRS Reporting Services generates an EMF image for each page of the generated document. FinOps then temporarily saves the generated EMF files to Azure Blob storage.\nPrinting archive\nAnd more!\nIf you are using tier 1 Cloud-Hosted environment, you can find the azure storage from the Azure resource group in Azure portal.\nFor tier 1, UAT tier 2, and PROD Tier 3, you can create a runnable class and execute to get the Azure storage connection string.\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n\nusing Microsoft.Dynamics.Clx.ServicesWrapper;\nclass GetAzureBlob\n{\n    public static void main(Args _args)\n    {\n        info('AzureStorageConnectionString = ' + CloudInfrastructure::GetCsuStorageConnectionString());\n        info('ClientCertificateThumbprint = ' + CloudInfrastructure::GetCsuClientCertificateThumbprint());\n    }\n}\n\n\n\n\n\nOnce you have the connection string, you can connect it to MS Azure Storage Explorer, Power Automate, or consuming in any framwork/language for integration/backup purposes.",
-          "link": "https://dynamics365.github.io/2022-10-27-how-to-get-d365-azure-blob-storage-str/",
-          "publishedOn": "2022-10-27T00:00:00.000Z",
-          "wordCount": 306,
-          "title": "How to get FinOps Azure storage blob connection string",
-          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
         }
       ]
     },
@@ -566,6 +556,16 @@
       "feedUrl": "https://denistrunin.com/rss.xml",
       "siteUrl": "https://denistrunin.com",
       "articles": [
+        {
+          "id": "https://denistrunin.com/d365fo-goliveprep/",
+          "author": null,
+          "description": "In this post, I share practical insights from my experience managing the technical side of Go-Live for D365FO projects, focusing on key activities like delivering fixes, replicating production issues, and leveraging tools to streamline the process.",
+          "link": "https://denistrunin.com/d365fo-goliveprep/",
+          "publishedOn": "2024-10-25T22:12:03.000Z",
+          "wordCount": 2822,
+          "title": "Practical Hints for Technical Management of D365FO Go-Live",
+          "imageUrl": "https://denistrunin.com/static/97781f7599c3d13a20a72a6838b17399/0fba7/logo.png"
+        },
         {
           "id": "https://denistrunin.com/integration-outboundweb/",
           "author": null,
@@ -1361,6 +1361,136 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=120042",
+          "author": "Solver Inc",
+          "description": "xxx\nIf you've ever explored pricing options for business intelligence (BI) software, you know it can be surprisingly complex. Price tags differ significantly, and it's often unclear why one solution costs […]\nThe post 3 Extremely Unusual Tips for Your Business Intelligence Software Price Comparison appeared first on ERP Software Blog.\nSolutions Not Systems — Why Buyers Need to Put Business Challenges before Software Requirements\nWelcome to Exceptional Financial Reporting with Microsoft Dynamics GP 2010\nWhy Choose a Business Solution from Microsoft?",
+          "link": "https://erpsoftwareblog.com/2024/10/business-intelligence-software-price-comparison/",
+          "publishedOn": "2024-10-26T00:42:40.000Z",
+          "wordCount": 7650,
+          "title": "3 Extremely Unusual Tips for Your Business Intelligence Software Price Comparison",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/pexels-karolina-grabowska-5717720-1-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120038",
+          "author": "PartnerTalks",
+          "description": "xxx\nKrzysztof Bialowas, often known as KB, knows his way around Microsoft Business Central, and he says Directions EMEA is the place to be for BC connoisseurs. As a Microsoft Business […]\nThe post Spotlight on Krzysztof \"KB\" Bialowas: BC MVP & Directions EMEA Presenter appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/10/spotlight-on-krzysztof-kb-bialowas-bc-mvp-directions-emea-presenter/",
+          "publishedOn": "2024-10-25T20:27:34.000Z",
+          "wordCount": 7131,
+          "title": "Spotlight on Krzysztof \"KB\" Bialowas: BC MVP & Directions EMEA Presenter",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/230-Krzystof-Bialowas-Thumbnail.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120020",
+          "author": "DAX Software Solutions",
+          "description": "xxx\nFinding the right Microsoft Partner in California for Dynamics 365 can significantly impact your business's digital transformation. A reliable partner can help streamline operations, improve customer engagement, and ensure successful […]\nThe post How to Find the Best Microsoft Partner in California for Dynamics 365 appeared first on ERP Software Blog.\nMicrosoft makes training options available for Dynamics GP easy and convenient.\nGoogle for the perfect Microsoft Dynamics GP (Great Plains) Partner for you!\nHassle Free Upgrades with Dynamics GP Resellers!",
+          "link": "https://erpsoftwareblog.com/2024/10/how-to-find-the-best-microsoft-partner-in-california-for-dynamics-365/",
+          "publishedOn": "2024-10-25T14:47:19.000Z",
+          "wordCount": 8224,
+          "title": "How to Find the Best Microsoft Partner in California for Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120002",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nIn today’s fast-paced digital landscape, businesses need solutions that enable them to innovate swiftly while keeping costs in check. But what if there was a way to unlock untapped potential […]\nThe post Unlock Hidden Potential: Business Value with Microsoft Power Platform appeared first on ERP Software Blog.\nExpand your ERP Functionality with Power Platform\nAutomate Repetitive Desktop Tasks with Power Automate Desktop\nA Power Platform Success Story: Western Computer Delivers New Automations and Insights",
+          "link": "https://erpsoftwareblog.com/2024/10/unlock-innovation-and-cut-costs-of-your-business-with-microsoft-power-platform/",
+          "publishedOn": "2024-10-25T03:52:00.000Z",
+          "wordCount": 7820,
+          "title": "Unlock Hidden Potential: Business Value with Microsoft Power Platform",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119990",
+          "author": "MetaOption LLC",
+          "description": "xxx\nBeing a decision-maker at a mid-market IT consulting company isn’t easy. You manage operations across multiple locations. You deal with complex client requirements and ever-changing projects databases. A reliable ERP […]\nThe post Top 10 ERP Challenges Faced by Consulting Companies and How to Overcome Them appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/10/top-10-erp-challenges-faced-by-consulting-companies-and-how-to-overcome-them/",
+          "publishedOn": "2024-10-25T00:14:02.000Z",
+          "wordCount": 7868,
+          "title": "Top 10 ERP Challenges Faced by Consulting Companies and How to Overcome Them",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-Challenges.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119975",
+          "author": "Insight Works",
+          "description": "xxx\nDiscover how Counter Sales v3.1 for Microsoft Business Central enhances check-out operations with new features like gift cards, streamlined payments, improved cash flow, and flexible payment handling.\nThe post What’s New in Counter Sales v3.1 for Business Central? appeared first on ERP Software Blog.\nLicense Plating v1.97: Transforming Warehouse Management in Business Central\nTop 10 Reasons to Use Business Central’s License Plating App\nBusiness Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource",
+          "link": "https://erpsoftwareblog.com/2024/10/whats-new-in-counter-sales-v3-1-for-business-central/",
+          "publishedOn": "2024-10-24T22:58:44.000Z",
+          "wordCount": 7312,
+          "title": "What’s New in Counter Sales v3.1 for Business Central?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Counter-Sales-250-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119967",
+          "author": "Fidesic AP",
+          "description": "xxx\nScalability of your processes is the first key to successfully growing a business. Join us for an informative session and equip yourself with the knowledge you need to set your […]\nThe post Scaling Payables and Expense Management for Growth appeared first on ERP Software Blog.\nDynamics GP to Business Central Migration? Consider these Differences\n7 Steps to Proving the ROI of AP Automation\nHow to Raise Your Organization’s AI IQ – Starting with Your Invoices",
+          "link": "https://erpsoftwareblog.com/2024/10/scaling-payables-and-expense-management-for-growth/",
+          "publishedOn": "2024-10-24T16:46:10.000Z",
+          "wordCount": 6768,
+          "title": "Scaling Payables and Expense Management for Growth",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Fidesic-Gorilla-Expense-Scaling-Payable-and-Expenses-for-Greowth.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119748",
+          "author": "Tigunia",
+          "description": "xxx\nKeeping up with business technology advancements is not like keeping up with the latest fashion trends, where preferences change with the season and yesterday's must-have is today's forgotten relic. Unlike […]\nThe post Obsolete Technology: The Hidden Enemy of Business Growth appeared first on ERP Software Blog.\nFive Tips for Efficient ERP System Maintenance\nCost Accounting in Dynamics 365 Business Central | Profit Analysis\n5 Reasons Why Outsourcing Your ERP Needs is the Best Choice",
+          "link": "https://erpsoftwareblog.com/2024/10/obsolete-technology-the-hidden-enemy-of-business-growth/",
+          "publishedOn": "2024-10-24T15:23:47.000Z",
+          "wordCount": 7544,
+          "title": "Obsolete Technology: The Hidden Enemy of Business Growth",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/6-signs-tech-failing-header.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119840",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nMicrosoft has recently released a significant wave of updates for its Dynamics 365 Finance solution. These updates introduce a broad range of new features, enhancements, and improvements designed to streamline […]\nThe post Microsoft Dynamics 365 Finance October 2024 Updates: A Comprehensive Overview appeared first on ERP Software Blog.\nFireworks and Marching Bands at Summit 2016. Really.\nA Wake-up Call - A Game Changer Is on the Way\nHosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS",
+          "link": "https://erpsoftwareblog.com/2024/10/microsoft-dynamics-365-finance-october-2024-updates-a-comprehensive-overview/",
+          "publishedOn": "2024-10-24T14:03:47.000Z",
+          "wordCount": 7342,
+          "title": "Microsoft Dynamics 365 Finance October 2024 Updates: A Comprehensive Overview",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/download-3.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119894",
+          "author": "IT Fandango",
+          "description": "xxx\nIn a D365 F&O implementation, your leadership team are the orchestra conductor who directs the play.\nThe post Your D365 F&O Project Team: Champs or Chumps? (Part 1) appeared first on ERP Software Blog.\nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nPLM-ERP Integration for Dynamics 365: What's The To-Increase Implementation Process?",
+          "link": "https://erpsoftwareblog.com/2024/10/your-d365-fo-project-team-champs-or-chumps-part-1/",
+          "publishedOn": "2024-10-24T13:33:22.000Z",
+          "wordCount": 7608,
+          "title": "Your D365 F&O Project Team: Champs or Chumps? (Part 1)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ITF-Your-D365-FO-Project-Team-Blog.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119886",
+          "author": "IT Fandango",
+          "description": "xxx\nFor the sake of your D365 F&O project, learn how to tell apart a dream team from a nightmare squad.\nThe post Your D365 F&O Project Team: Champs or Chumps? (Intro) appeared first on ERP Software Blog.\nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nPLM-ERP Integration for Dynamics 365: What's The To-Increase Implementation Process?",
+          "link": "https://erpsoftwareblog.com/2024/10/your-d365-fo-project-team-champs-or-chumps-intro/",
+          "publishedOn": "2024-10-24T08:58:59.000Z",
+          "wordCount": 7192,
+          "title": "Your D365 F&O Project Team: Champs or Chumps? (Intro)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ITF-Your-D365-FO-Project-Team-Blog.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119877",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nAs Microsoft intensifies its commitment to innovation and cloud technologies, the support for Dynamics GP will end on September 30, 2029, marking a pivotal shift for businesses still relying on […]\nThe post How Businesses Can Seamlessly Plan Their Migration from GP to Dynamics 365 Business Central: Key Benefits and Expert Tips for a Smooth Transition appeared first on ERP Software Blog.\nStreamlining billing processes: Northern BI's success story with D365 BC migration\n6 Misconceptions About Migrating from Dynamics GP to Business Central   \n12 Benefits of Migrating from Dynamics GP to Business Central",
+          "link": "https://erpsoftwareblog.com/2024/10/how-businesses-can-seamlessly-plan-their-migration-from-gp-to-dynamics-365-business-central-key-benefits-and-expert-tips-for-a-smooth-transition/",
+          "publishedOn": "2024-10-24T04:33:07.000Z",
+          "wordCount": 7655,
+          "title": "How Businesses Can Seamlessly Plan Their Migration from GP to Dynamics 365 Business Central: Key Benefits and Expert Tips for a Smooth Transition",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119836",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nThe construction industry is facing some tough challenges today. With rising competition and the pressure to win projects while maintaining profitability, companies are constantly searching for ways to stay ahead. […]\nThe post Enhancing Efficiency and Customer Engagement in the Construction Industry with Dynamics 365 appeared first on ERP Software Blog.\nProject Management Software is Critical to Turning a Profit\n7 Secrets of Healthy Project-driven Companies\nThe Importance of Having the Right Tools to Ensure the Success of Your Project",
+          "link": "https://erpsoftwareblog.com/2024/10/dynamics-365-for-construction-industry/",
+          "publishedOn": "2024-10-24T03:53:40.000Z",
+          "wordCount": 7927,
+          "title": "Enhancing Efficiency and Customer Engagement in the Construction Industry with Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
         {
           "id": "https://www.erpsoftwareblog.com/?p=97804",
           "author": "Intelegain Technologies",
@@ -13849,6 +13979,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=65538",
+          "author": "Don McNulty",
+          "description": "How to Prepare for the Transition from Management Reporter to Jet Reports (Video)\nAs Management Reporter nears end of life, it’s crucial for users to prepare for a smooth transition to Jet Reports. This recorded webinar is designed to assist you, whether you plan to continue with Dynamics GP or transition to Dynamics 365 Business Central. In this recorded webinar, we’ll guide you through the process of transitioning...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/transition-from-management-reporter-to-jet-reports/",
+          "publishedOn": "2024-10-25T15:31:26.000Z",
+          "wordCount": 6438,
+          "title": "How to Prepare for the Transition from Management Reporter to Jet Reports (Video)",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=65323",
           "author": "Abhishek Jain",
           "description": "Creating Financial Reports in Dynamics 365 Business Central\nIn Dynamics 365 Business Central, we have the ability to make our own financial statements using the “Financial Reports” feature. This flexible reporting tool helps users, such as financial analysts and accountants, analyze financial data effectively, providing the insights needed to make informed decisions. Financial Reports are typically used for: Income Statements Cash Flows Balance...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -14845,6 +14985,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/copilot-in-whatsapp-say-whatwant-to-learn-more-register-to-zero-to-hero-become-an-ai-propilot-youtube",
+          "author": "Victor Dantas",
+          "description": "source",
+          "link": "https://365community.online/copilot-in-whatsapp-say-whatwant-to-learn-more-register-to-zero-to-hero-become-an-ai-propilot-youtube",
+          "publishedOn": "2024-10-25T16:36:36.000Z",
+          "wordCount": 984,
+          "title": "Copilot in WhatsApp!!! Say what?!Want to learn more? Register to Zero To Hero Become an AI ProPilot – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/impacto-de-asistentes-de-ia-en-la-productividad-diaria-y-ii",
+          "author": "jarmesto",
+          "description": "Reflexiones sobre el uso diario de asistentes de IA-II Nota: Todo el texto de este articulo esta generado con IA, pero no las ideas ni enfoque ni el motivo . Es decir la IA ha creado por mí el texto, tras una conversación matutina en la que me he planteado en que habíamos colaborado esta […]",
+          "link": "https://365community.online/impacto-de-asistentes-de-ia-en-la-productividad-diaria-y-ii",
+          "publishedOn": "2024-10-25T08:48:05.000Z",
+          "wordCount": 1088,
+          "title": "Impacto de Asistentes de IA en la Productividad Diaria y II",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/setting-up-team-based-access-for-dynamics-365-crm-documents-stored-on-sharepoint-dropbox-or-azure-blob-storage",
+          "author": "Inogic",
+          "description": "Attach2Dynamics by Inogic is a seamless document management solution for Dynamics 365 CRM that integrates with popular cloud storage platforms like SharePoint, Dropbox, and Azure Blob Storage. It allows users to easily perform actions such as upload, download, email, and link files directly from CRM records. One of its key features is security templates, which […]",
+          "link": "https://365community.online/setting-up-team-based-access-for-dynamics-365-crm-documents-stored-on-sharepoint-dropbox-or-azure-blob-storage",
+          "publishedOn": "2024-10-25T08:47:42.000Z",
+          "wordCount": 1362,
+          "title": "Setting up Team-Based Access for Dynamics 365 CRM Documents Stored on SharePoint, Dropbox or Azure Blob Storage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/chat-1-marketing-journeys-real-time-chats-youtube",
+          "author": "Megan V. Walker",
+          "description": "Chat 1 – Marketing Journeys – Real-time Chats Real-time chats for Dynamics 365 Marketers with Amey Holden and Megan V. Walker. Amey and I have a little catch up, and chat about some new features that have just come out in September and October, delve in to the form prefill feature, and share war stories […]",
+          "link": "https://365community.online/chat-1-marketing-journeys-real-time-chats-youtube",
+          "publishedOn": "2024-10-25T08:19:41.000Z",
+          "wordCount": 1087,
+          "title": "Chat 1 – Marketing Journeys – Real-time Chats – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/the-dev-box-trick-thats-revolutionizing-microsoft-youtube",
+          "author": "shabaz darr",
+          "description": "Learn how the Microsoft Dev Box is revolutionizing the tech world with its key architecture capabilities. Discover the magic behind this game-changing tool! Episode Breakdown – 00:00 – Episode Intro 01:13 – Episode Breakdown 01:46 – How does Microsoft Dev Box work? 04:42 – Microsoft Dev Box Architecture 06:04 – Demo – Configure Network Connection […]",
+          "link": "https://365community.online/the-dev-box-trick-thats-revolutionizing-microsoft-youtube",
+          "publishedOn": "2024-10-25T03:00:34.000Z",
+          "wordCount": 1016,
+          "title": "The Dev Box Trick That’s Revolutionizing Microsoft – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-create-userforms-in-excel-without-vba-excel-trick-%f0%9f%a4%af-exceltips-exceltutorial-shorts-youtube",
+          "author": null,
+          "description": "This #short tutorial video with an easy excel trick will show you how to create Userforms in excel without VBA. 📌 Subscribe to our channel to get video updates. Click on the link to subscribe: https://www.youtube.com/channel/UCkKemMaRnFPlNLHZ0zOYfpA MindMajix Community: https://mindmajix.com/community Instagram: https://www.instagram.com/mindmajix/. Facebook: https://www.facebook.com/MindMajixTec… LinkedIn : https://www.linkedin.com/company/mind… Twitter: https://twitter.com/mindmajix For more information, please write back to […]",
+          "link": "https://365community.online/how-to-create-userforms-in-excel-without-vba-excel-trick-%f0%9f%a4%af-exceltips-exceltutorial-shorts-youtube",
+          "publishedOn": "2024-10-24T13:25:02.000Z",
+          "wordCount": 1064,
+          "title": "How to Create USERFORMS in Excel Without VBA? Excel Trick 🤯 #exceltips #exceltutorial #shorts – YouTube",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/thank-you-for-your-overwhelming-response-at-mysummitna-2024",
           "author": "Inogic",
@@ -38884,6 +39084,16 @@
       "siteUrl": "https://paragchapre.com",
       "articles": [
         {
+          "id": "https://paragchapre.com/?p=13293",
+          "author": "paragchapre@gmail.com",
+          "description": "Microsoft Dynamics 365 Business Central is a robust, all-in-one business management solution designed for small to medium-sized companies. It offers comprehensive tools to manage various business processes, including finance, sales, project management, and more. One of its key features is its Human Resources (HR) functionality, which provides businesses with the ability to efficiently manage employee […]\nThe post Human Resources in Microsoft Dynamics 365 Business Central appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/human-resources-dynamics-365-business-central/",
+          "publishedOn": "2024-10-25T11:11:06.000Z",
+          "wordCount": 2254,
+          "title": "Human Resources in Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/10/HR-in-Business-central-1.png"
+        },
+        {
           "id": "https://paragchapre.com/?p=13283",
           "author": "paragchapre@gmail.com",
           "description": "The Dynamics 365 Human Resources recruiting add-on app offers an all-encompassing solution for organizations to manage their recruitment process efficiently. Powered by the Microsoft Power Platform, this app is designed to enhance the recruitment journey—from job creation to candidate assessment—streamlining the entire process for HR teams and ensuring a user-friendly experience for candidates. Key Benefits: […]\nThe post Dynamics 365 Human Resources recruiting add-on app appeared first on Parag Chapre.",
@@ -39594,6 +39804,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=9053",
+          "author": "Eugen Glasow",
+          "description": "In Dynamics 365 Supply Chain Management (SCM), “Production Floor Execution” (PFE) includes bundling and assistance features for tracking costs on production tasks. **Bundling** allows a single worker to manage multiple orders, distributing labor costs across them. In **assistance**, multiple workers share one job, with one as the lead (Pilot), logging time for all. The use of primary and secondary operations helps separate costs for machine and labor tasks, recording support roles distinctly. This enables better tracking, including energy costs, by setting up dedicated secondary operations and route groups for accurate cost allocation, supporting both personnel and machine efficiency. \nThe post Assistance and Secondary operations in D365 for SCM to separate machining costs from labour appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/assistance-and-secondary-operations-in-d365-for-scm-to-separate-machining-costs-from-labour/",
+          "publishedOn": "2024-10-25T13:50:19.000Z",
+          "wordCount": 3020,
+          "title": "Assistance and Secondary operations in D365 for SCM to separate machining costs from labour",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2024/10/PFE-Start-job.png"
+        },
         {
           "id": "https://erconsult.eu/?p=8976",
           "author": "Eugen Glasow",
