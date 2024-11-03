@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-02T01:25:23.239Z</updated>
+    <updated>2024-11-03T01:39:42.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Copilot no PowerPoint – Crie apresentações incríveis em poucos minutos – YouTube]]></title>
+        <id>https://365community.online/copilot-no-powerpoint-crie-apresentacoes-incriveis-em-poucos-minutos-youtube</id>
+        <link href="https://365community.online/copilot-no-powerpoint-crie-apresentacoes-incriveis-em-poucos-minutos-youtube"/>
+        <updated>2024-11-02T14:10:54.000Z</updated>
+        <summary type="html"><![CDATA[Nesse video vamos ver na prática todo o poder do copilot no powerpoint para criar apresentações sobre qualquer assunto em poucos minutos. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate do zero. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. […]]]></summary>
+        <author>
+            <name>Saulo Soares Oliveira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataverse Image fields not copiyng in full resolution using the XRMToolBox DataTransporter? Power Automate to the rescue!]]></title>
+        <id>https://365community.online/dataverse-image-fields-not-copiyng-in-full-resolution-using-the-xrmtoolbox-datatransporter-power-automate-to-the-rescue</id>
+        <link href="https://365community.online/dataverse-image-fields-not-copiyng-in-full-resolution-using-the-xrmtoolbox-datatransporter-power-automate-to-the-rescue"/>
+        <updated>2024-11-02T08:44:00.000Z</updated>
+        <summary type="html"><![CDATA[When moving data from a custom Table I created to store Rich Text Images into another environment using the XRMToolbox data transporter, I noted the images looked blurry: Checking the image size, it’s only a small image (like a few KB) when the original image had more than 200kb in size. So I wondered, what […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DUG Conferences Coming Up Quick!]]></title>
         <id>https://erpsoftwareblog.com/?p=120345</id>
@@ -51705,16 +51725,6 @@ Clear separation of which inventory dimensions can be specified, and when they c
 A typical reservation hierarchy for an item that uses the Site, War…]]></summary>
         <author>
             <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Dynamics 365FO different Tiers performance]]></title>
-        <id>https://denistrunin.com/performanceD365-tierperf/</id>
-        <link href="https://denistrunin.com/performanceD365-tierperf/"/>
-        <updated>2022-11-03T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The blog post describes performance differences between various environments Tiers in D365FO.]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
         </author>
     </entry>
     <entry>

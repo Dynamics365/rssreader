@@ -615,16 +615,6 @@
           "wordCount": 1250,
           "title": "Improve the speed for BACPAC database restore from Tier2 to Tier1",
           "imageUrl": "https://denistrunin.com/static/653dbf3cbdb2dbc80c10f7b9ce323a10/1a02d/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/performanceD365-tierperf/",
-          "author": null,
-          "description": "The blog post describes performance differences between various environments Tiers in D365FO.",
-          "link": "https://denistrunin.com/performanceD365-tierperf/",
-          "publishedOn": "2022-11-03T22:12:03.000Z",
-          "wordCount": 1518,
-          "title": "Understanding Dynamics 365FO different Tiers performance",
-          "imageUrl": "https://denistrunin.com/static/11267db03d577bf68f4e9e635b3a25ef/c972b/logo.png"
         }
       ]
     },
@@ -15345,6 +15335,26 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/copilot-no-powerpoint-crie-apresentacoes-incriveis-em-poucos-minutos-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Nesse video vamos ver na prática todo o poder do copilot no powerpoint para criar apresentações sobre qualquer assunto em poucos minutos. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate do zero. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. […]",
+          "link": "https://365community.online/copilot-no-powerpoint-crie-apresentacoes-incriveis-em-poucos-minutos-youtube",
+          "publishedOn": "2024-11-02T14:10:54.000Z",
+          "wordCount": 1040,
+          "title": "Copilot no PowerPoint – Crie apresentações incríveis em poucos minutos – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/dataverse-image-fields-not-copiyng-in-full-resolution-using-the-xrmtoolbox-datatransporter-power-automate-to-the-rescue",
+          "author": "michelcarlo",
+          "description": "When moving data from a custom Table I created to store Rich Text Images into another environment using the XRMToolbox data transporter, I noted the images looked blurry: Checking the image size, it’s only a small image (like a few KB) when the original image had more than 200kb in size. So I wondered, what […]",
+          "link": "https://365community.online/dataverse-image-fields-not-copiyng-in-full-resolution-using-the-xrmtoolbox-datatransporter-power-automate-to-the-rescue",
+          "publishedOn": "2024-11-02T08:44:00.000Z",
+          "wordCount": 1248,
+          "title": "Dataverse Image fields not copiyng in full resolution using the XRMToolBox DataTransporter? Power Automate to the rescue!",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/using-extended-texts-in-microsoft-dynamics-365-business-central-create-a-sales-transaction-with-manually-added-extended-texts",
           "author": "Ian Grieve",
