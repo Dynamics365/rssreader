@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-17T01:43:10.767Z</updated>
+    <updated>2024-11-18T01:41:27.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365 Business Central Health Check]]></title>
+        <id>https://erpsoftwareblog.com/?p=120864</id>
+        <link href="https://erpsoftwareblog.com/2024/11/d365-business-central-health-check/"/>
+        <updated>2024-11-17T17:16:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Analyzing Accounting Health In today's fast-paced business environment, maintaining the health of your accounting data is crucial for operational efficiency. This blog post dives into the essential accounting metrics you […]
+The post D365 Business Central Health Check appeared first on ERP Software Blog.
+How to Email Invoices, Past Due Reminders, and Statements Automatically in Dynamics 365 Business Central
+10 Time Saving Business Central Keyboard Shortcuts You Need Today
+Microsoft Dynamics 365 Business Central: The Future of Distribution Accounting]]></summary>
+        <author>
+            <name>ERP Connect Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get ready for Microsoft Ignite 2024]]></title>
+        <id>https://365community.online/get-ready-for-microsoft-ignite-2024</id>
+        <link href="https://365community.online/get-ready-for-microsoft-ignite-2024"/>
+        <updated>2024-11-17T14:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Next week Microsoft Ignite 2024 will be held. It’s a hybrid event, where you can attend in-person in Chicago as well as virtually. Attendees traveling to Chicago will be able to enjoy keynotes and other sessions live, along with the benefits of meeting in-person, such as official and unofficial meetups, discussing around the latest announcements […]]]></summary>
+        <author>
+            <name>Carina Claesson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model-driven app for D365HR]]></title>
+        <id>https://365community.online/model-driven-app-for-d365hr</id>
+        <link href="https://365community.online/model-driven-app-for-d365hr"/>
+        <updated>2024-11-17T12:37:45.000Z</updated>
+        <summary type="html"><![CDATA[As you know the recent Recruitment add-on for Dynamics 365 Human Resources was delivered not to long ago. I've started to play around with it. I'm presenting this series of small articles where I walk you through the navigation and how to start using it. Now we will review how to add candidates. First of […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-Time Rate Shopping: Maximizing Savings and Efficiency]]></title>
+        <id>https://erpsoftwareblog.com/?p=120874</id>
+        <link href="https://erpsoftwareblog.com/2024/11/real-time-rate-shopping-maximizing-savings-and-efficiency/"/>
+        <updated>2024-11-17T09:21:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s fast-paced business environment, cost efficiency is more critical than ever. Shipping rates can vary significantly depending on the carrier, delivery time, package weight, and other factors. To address […]
+The post Real-Time Rate Shopping: Maximizing Savings and Efficiency appeared first on ERP Software Blog.
+How does Business Central offer enhanced reporting and data access?
+How to use data to create valuable and useful Warehouse Reports?
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copilot in D365 HR: Task recording you are out!]]></title>
         <id>https://365community.online/copilot-in-d365-hr-task-recording-you-are-out</id>
