@@ -2,10 +2,250 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-12-04T01:42:48.959Z</updated>
+    <updated>2024-12-05T01:42:34.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2024, Day 4 – Microsoft Azure AI – Deployment in Azure AI Foundry]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10142</id>
+        <link href="https://tomaztsql.wordpress.com/2024/12/04/advent-of-2024-day-4-microsoft-azure-ai-deployment-in-azure-ai-foundry/"/>
+        <updated>2024-12-04T21:27:35.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Azure AI series: When you are in Azure AI Foundry, on the left navigation bar, select “Model Catalog”. For this demo, I will be selecting multimodal model “gpt-4” that can work with images and text. Click “>…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easily Prepare for Year-End with Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=121622</id>
+        <link href="https://erpsoftwareblog.com/2024/12/easily-prepare-for-year-end-with-dynamics-365-business-central/"/>
+        <updated>2024-12-04T17:47:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As the year draws to a close, businesses face the critical task of wrapping up their financials and preparing for the new fiscal year. To help you navigate this process […]
+The post Easily Prepare for Year-End with Dynamics 365 Business Central appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>TrinSoft, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effortless Packing and Shipping: How to Simplify Fulfillment with MetaShip]]></title>
+        <id>https://erpsoftwareblog.com/?p=121630</id>
+        <link href="https://erpsoftwareblog.com/2024/12/effortless-packing-and-shipping-how-to-simplify-fulfillment/"/>
+        <updated>2024-12-04T16:12:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Efficient packing and shipping processes are the backbone of any thriving business. Managing orders, tracking inventory, and ensuring timely delivery are essential to meeting customer expectations. Yet, for many businesses, […]
+The post Effortless Packing and Shipping: How to Simplify Fulfillment with MetaShip appeared first on ERP Software Blog.
+Boost your Operations with Effortless Packing and Shipping: MetaShip
+Revolutionize Your Shipping Experience with MetaShip for Business Central
+Delivery Management: Carrier Optimization and Shipment Efficiency]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP Checklist for 2025]]></title>
+        <id>https://erpsoftwareblog.com/?p=121549</id>
+        <link href="https://erpsoftwareblog.com/2024/12/dynamics-gp-checklist-for-2025/"/>
+        <updated>2024-12-04T16:03:04.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As we head into 2025, Dynamics GP users must ensure their systems are optimized for the future. A proactive approach helps you avoid disruptions and seize new opportunities. We've put […]
+The post Dynamics GP Checklist for 2025 appeared first on ERP Software Blog.
+How to Set Up Recurring Sales Transactions in Microsoft Dynamics GP
+Identifying Bottlenecks on a SQL Server
+10 Ways To Take Better Care of Your SQL Server]]></summary>
+        <author>
+            <name>Turnkey Technologies, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Changes to Canadian Payroll for Dynamics GP]]></title>
+        <id>https://www.encorebusiness.com/?p=66219</id>
+        <link href="https://www.encorebusiness.com/blog/2024-changes-to-canadian-payroll-for-dynamics-gp/"/>
+        <updated>2024-12-04T15:10:37.000Z</updated>
+        <summary type="html"><![CDATA[2024 Changes to Canadian Payroll for Dynamics GP
+The year end tax update for Dynamics GP hasn’t been released yet, but this article covers what we know at this time. We will continue to update this blog as more information becomes available. There are minimal changes from last year. While tax credits and some tax brackets have changed, the significant changes happened last December, so...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Debra Huntly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Submit IRS 1099 Forms Electronically To IRIS]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-submit-irs-1099-forms-electronically-to-iris</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-submit-irs-1099-forms-electronically-to-iris"/>
+        <updated>2024-12-04T15:00:46.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 14th of the new functionality in the section is submit IRS 1099 forms electronically to […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Tell Your Business Technology Is Outdated: 6 Red Flags to Avoid]]></title>
+        <id>https://erpsoftwareblog.com/?p=121245</id>
+        <link href="https://erpsoftwareblog.com/2024/12/how-to-tell-your-business-technology-is-outdated/"/>
+        <updated>2024-12-04T14:07:28.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As global IT spending is projected to hit $5.24 trillion this year (Gartner, 2024), advancements in business technology continue to reshape how organizations operate. Innovations in efficiency, automation, and analytics […]
+The post How to Tell Your Business Technology Is Outdated: 6 Red Flags to Avoid  appeared first on ERP Software Blog.
+Obsolete Technology: The Hidden Enemy of Business Growth
+Microsoft Business Central Benefits for Owners
+Is Dynamics 365 Business Central or Finance & Supply Chain Right for My Business?]]></summary>
+        <author>
+            <name>Tigunia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achieve Financial Goals with Dynamics 365 Business Central or Finance]]></title>
+        <id>https://erpsoftwareblog.com/?p=121576</id>
+        <link href="https://erpsoftwareblog.com/2024/12/achieve-financial-goals-with-dynamics-365-business-central-or-finance/"/>
+        <updated>2024-12-04T14:00:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Regardless of size or industry, every organization typically aims for growth as a key strategic goal. However, CFOs and finance leaders often face obstacles like outdated financial systems, manual processes, […]
+The post Achieve Financial Goals with Dynamics 365 Business Central or Finance appeared first on ERP Software Blog.
+Streamlining F&O Process with Microsoft Dynamics 365 finance & operations
+How an Industry-Specific Solution Can Change Your Life
+OLAP Cube vs. Data Warehouse]]></summary>
+        <author>
+            <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 FO Export package using Rest API]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2024/12/d365-fo-export-package-using-rest-api.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2024/12/d365-fo-export-package-using-rest-api.html"/>
+        <updated>2024-12-04T12:57:00.000Z</updated>
+        <summary type="html"><![CDATA[D365 FO Export package.
+1.Create the export project in Data Management and add the required data entities to the export project.
+
+Start the process:
+2.Trigger the below URL with the required parameters to export the data in package.
+
+You can assign an execution ID, otherwise, the system will generate the ID.
+
+
+URL : 
+
+POST : {Resource}/data/DataManagementDefinitionGroups/Microsoft.Dynamics.DataEntities.ExportToPackage
+Input parameters:
+
+{
+    "definitionGroupId":"<Data project name>",
+    "packageName":"<Name to use for downloaded file.>",
+    "executionId":"<Execution Id if it is a rerun>",
+    "reExecute":<bool>,
+    "legalEntityId":"<Legal entity Id>"
+}
+
+
+
+
+
+
+3.In response, the system will send a 200k response and return the execution ID in the response payload.
+4.In job history, you will find the transaction.
+
+
+
+
+
+Get or Download file:
+5.Trigger getExportedPackageURL to retrieve the package, passing the execution ID as an input parameter.
+URL : 
+POST : {Resource}/data/DataManagementDefinitionGroups/Microsoft.Dynamics.DataEntities.GetExportedPackageUrl
+Input parameters:
+{"executionId":"<Execution Id>"}
+
+
+
+
+
+6.The system will return the temporary blob URL in the value field. By using this URL, you can download the file.
+Output:
+
+
+
+
+
+Get the status:
+7. In some scenarios, the data is huge and the system will take some time to process. In such cases, the above step will not work immediately. Before that, we need to check the status of that transaction.
+8.To get the status of the transaction, trigger the below URL and pass the execution ID as an input parameter.
+URL : 
+POST : {Resource}/data/DataManagementDefinitionGroups/Microsoft.Dynamics.DataEntities.GetExecutionSummaryStatus
+Input parameters:
+{"executionId":"<executionId>"}
+
+
+
+
+
+
+
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use Copilot With Agent Capabilities To Automate Sales Order-Taking]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-copilot-with-agent-capabilities-to-automate-sales-order-taking</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-copilot-with-agent-capabilities-to-automate-sales-order-taking"/>
+        <updated>2024-12-04T11:00:18.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 15th of the new functionality in the section is use Copilot with agent capabilities to […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to master Bulk Deletion in Dynamics 365 | Step-by-Step Solution Guide – YouTube]]></title>
+        <id>https://365community.online/how-to-master-bulk-deletion-in-dynamics-365-step-by-step-solution-guide-youtube</id>
+        <link href="https://365community.online/how-to-master-bulk-deletion-in-dynamics-365-step-by-step-solution-guide-youtube"/>
+        <updated>2024-12-04T11:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to efficiently manage and remove records in Dynamics 365 with the built-in Bulk Deletion feature. In this video, we explore the step-by-step process to configure bulk deletion jobs, automate cleanup tasks, and ensure your data stays organized. #dynamics365 #BulkDeletion #datamanagement #crm #microsoftdynamics #datacleanup #automation #crmmanagement #efficientworkflows #DynamicsTips #tutorial #techtutorial #microsoftsoftware source]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Codeunit “AFS File Client” – usable with SaaS Token and Shared Key]]></title>
+        <id>https://365community.online/business-central-codeunit-afs-file-client-usable-with-saas-token-and-shared-key</id>
+        <link href="https://365community.online/business-central-codeunit-afs-file-client-usable-with-saas-token-and-shared-key"/>
+        <updated>2024-12-04T10:27:31.000Z</updated>
+        <summary type="html"><![CDATA[I have already talked about it in a previous post, I return to the topic because I find it interesting. In this post I show a scenario in which I use some methods that I consider extremely useful (and all with authorization access via token) to perform some operations on files and directories. Test scenario […]]]></summary>
+        <author>
+            <name>Roberto Stefanetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline Customer Service with a Customized Dynamics 365 CRM]]></title>
+        <id>https://erpsoftwareblog.com/?p=121529</id>
+        <link href="https://erpsoftwareblog.com/2024/12/customer-service-with-dynamics-365-crm/"/>
+        <updated>2024-12-04T09:19:54.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Customizing Microsoft Dynamics CRM to align with your business needs can significantly enhance your operational efficiency and customer relationship management. In this article, we will explore the best practices for […]
+The post Streamline Customer Service with a Customized Dynamics 365 CRM  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Las novedades de Business Central para diciembre: ¡Nuestro ERP se viste de Navidad ! ✨😅]]></title>
+        <id>https://365community.online/las-novedades-de-business-central-para-diciembre-nuestro-erp-se-viste-de-navidad-%e2%9c%a8%f0%9f%98%85</id>
+        <link href="https://365community.online/las-novedades-de-business-central-para-diciembre-nuestro-erp-se-viste-de-navidad-%e2%9c%a8%f0%9f%98%85"/>
+        <updated>2024-12-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Diciembre llega con su habitual espíritu festivo, y Business Central no es la excepción. Microsoft ha preparado un regalo adelantado para todos sus usuarios con un conjunto de nuevas funcionalidades que prometen mejorar la productividad, optimizar procesos y simplificar la vida de las empresas. Estas novedades, que forman parte de la Wave 2 de 2024, […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Subscribe to Trending ERP Topics Newsletter to See Top Posts at Authors on ERP Software Blog]]></title>
         <id>https://erpsoftwareblog.com/?p=121605</id>
@@ -1498,6 +1738,21 @@ ERP SHERPA Program Provides a Self-Implementation Option for Dynamics 365 Busine
         <summary type="html"><![CDATA[After the intro published a week ago: Model-driven app for D365HR I decided to follow up and show you how two solutions can finish each other's processes. This OOB functionality is quite simple and easy to move things from ERP to PP and the other way around. Microsoft describes this add-on as: App that provides […]]]></summary>
         <author>
             <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Supply Chain Resilience with Microsoft Dynamics 365 F&SCM]]></title>
+        <id>https://erpsoftwareblog.com/?p=121647</id>
+        <link href="https://erpsoftwareblog.com/2024/11/mastering-supply-chain-resilience-with-microsoft-dynamics-365-fscm/"/>
+        <updated>2024-11-23T17:55:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Resilience, or the agility to change your business to adapt to real-world challenges can make or break you. We all learned a big lesson in rolling with the changes when […]
+The post Mastering Supply Chain Resilience with Microsoft Dynamics 365 F&SCM appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Boyer &amp;#38; Associates</name>
         </author>
     </entry>
     <entry>
