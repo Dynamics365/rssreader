@@ -2,10 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dynamics365.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-12-05T01:42:34.973Z</updated>
+    <updated>2024-12-06T01:41:29.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dynamics365.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://dynamics365.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365 Deprecation Wishlist]]></title>
+        <id>https://365community.online/d365-deprecation-wishlist</id>
+        <link href="https://365community.online/d365-deprecation-wishlist"/>
+        <updated>2024-12-05T20:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Through the community, I’m constantly talking to and chatting with the very people who have shaped Dynamics 365 into what it is today. I see pride and passion, and I also recognize their personal investments in making Dynamics 365 better and implementing it for customers. They invest deep thought, teamwork, and long hours to create […]]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Deprecation Wishlist]]></title>
+        <id>http://kurthatlevik.com/?p=4670</id>
+        <link href="https://kurthatlevik.com/2024/12/05/d365-deprecation-wishlist/"/>
+        <updated>2024-12-05T20:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Through the community, I’m constantly talking to and chatting with the very people who have shaped Dynamics 365 into what it is today. I see pride and passion, and I also recognize their personal investments in making Dynamics 365 better and implementing it for customers. They invest deep thought, teamwork, and long hours to create … Continue reading D365 Deprecation Wishlist]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2024, Day 5 – Microsoft Azure AI – Deployment parameters in Azure AI Foundry]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10164</id>
+        <link href="https://tomaztsql.wordpress.com/2024/12/05/advent-of-2024-day-5-microsoft-azure-ai-deployment-parameters-in-azure-ai-foundry/"/>
+        <updated>2024-12-05T20:30:54.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Azure AI series: When you are in Azure AI Foundry, and deploying the model, you can select the couple of additional settings. The Instructions and Context, Add your Data and Parameters. Instruction and context Give the model…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Practices for Document Management Software in Financial Services]]></title>
+        <id>https://erpsoftwareblog.com/?p=121693</id>
+        <link href="https://erpsoftwareblog.com/2024/12/top-10-practices-for-document-management-software-in-financial-services/"/>
+        <updated>2024-12-05T20:03:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Managing documents efficiently while adhering to stringent regulations is crucial in the financial services industry. MetaDocs, a cutting-edge document management solution integrated with Microsoft Dynamics 365 Business Central, empowers financial […]
+The post Top 10 Practices for Document Management Software in Financial Services appeared first on ERP Software Blog.
+The Rise of Cloud-Based Document Storage: Revolutionizing Document Management Solutions
+Best Practices for Effective MetaDocs and SharePoint Integration
+How to Improve Compliance with a Document Management Solution?]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing the Power of F&SCM Data with Azure Synapse Link for Dataverse]]></title>
+        <id>https://erpsoftwareblog.com/?p=121675</id>
+        <link href="https://erpsoftwareblog.com/2024/12/unleashing-the-power-of-fscm-data-with-azure-synapse-link-for-dataverse/"/>
+        <updated>2024-12-05T15:52:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Data is more than just numbers; it's the way that you learn what is working and what isn’t. The problem is that we often have a lot of data, and […]
+The post Unleashing the Power of F&SCM Data with Azure Synapse Link for Dataverse appeared first on ERP Software Blog.
+Should Profit Margins or Cash-Flow Drive Business Decisions?
+Find Mismatches in Less than 5 Minutes - Microsoft Dynamics GP and The Closer for Quick and Easy Reconciliation
+Spreadsheets are Helpful, But You Can’t Rely on Them Forever]]></summary>
+        <author>
+            <name>Boyer &amp;#38; Associates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use The E-Documents Framework In The Spanish Version]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-the-e-documents-framework-in-the-spanish-version</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-the-e-documents-framework-in-the-spanish-version"/>
+        <updated>2024-12-05T15:00:22.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 15th of the new functionality in the section is use the e-documents framework in the […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Autonumber Seed in a Managed Solution in Power Platform]]></title>
+        <id>https://365community.online/setting-autonumber-seed-in-a-managed-solution-in-power-platform</id>
+        <link href="https://365community.online/setting-autonumber-seed-in-a-managed-solution-in-power-platform"/>
+        <updated>2024-12-05T13:33:40.000Z</updated>
+        <summary type="html"><![CDATA[Some details in the Power Platform are intentionally excluded from the solutions. Still, most of us developers think they are part of them—unless we read enough about the docs (which is boooring).One example is Seed for columns that have the type Autonumber. As far as I know, the seed is not stored in our tables or columns; it […]]]></summary>
+        <author>
+            <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Hide Command Bar Ribbon Buttons in Model-Driven Power Apps & Dynamics 365 CE MSCRM – YouTube]]></title>
+        <id>https://365community.online/how-to-hide-command-bar-ribbon-buttons-in-model-driven-power-apps-dynamics-365-ce-mscrm-youtube</id>
+        <link href="https://365community.online/how-to-hide-command-bar-ribbon-buttons-in-model-driven-power-apps-dynamics-365-ce-mscrm-youtube"/>
+        <updated>2024-12-05T13:30:23.000Z</updated>
+        <summary type="html"><![CDATA[In this video, I’ll show you how to hide command bar buttons easily in Model-driven Power Apps and Dynamics 365 Customer Engagement (CE). This tutorial will guide you step-by-step through the process. Learn how to manage and control the visibility of buttons on the command bar and optimize your app’s user experience. #powerapps #dynamics365 #ModelDrivenApps […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of ERP Consultant in Successful Implementations]]></title>
+        <id>https://erpsoftwareblog.com/?p=121664</id>
+        <link href="https://erpsoftwareblog.com/2024/12/the-role-of-erp-consultant-in-successful-implementations/"/>
+        <updated>2024-12-05T13:14:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+An ERP Consultant assists in managing and implementing Enterprise Resource Planning (ERP) systems for both large organizations and small-to-medium-sized businesses by aiding in resource planning. Their goal is to ensure […]
+The post The Role of ERP Consultant in Successful Implementations appeared first on ERP Software Blog.
+The Top 7 ERP Vendors for All Industries in 2025
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+Microsoft Dynamics 365 Business Central vs QuickBooks]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Source Codes in Microsoft Dynamics 365 Business Central: Understand Source Codes]]></title>
+        <id>https://365community.online/source-codes-in-microsoft-dynamics-365-business-central-understand-source-codes</id>
+        <link href="https://365community.online/source-codes-in-microsoft-dynamics-365-business-central-understand-source-codes"/>
+        <updated>2024-12-05T11:00:50.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the Source Codes in Microsoft Dynamics 365 Business Central and of the larger ongoing In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Extends Asset Life with Maintenance Manager]]></title>
+        <id>https://erpsoftwareblog.com/?p=121471</id>
+        <link href="https://erpsoftwareblog.com/2024/12/business-central-extends-asset-life-with-maintenance-manager/"/>
+        <updated>2024-12-05T10:39:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Maintenance Manager by Insight Works integrates seamlessly with Business Central, offering a powerful solution for asset maintenance through proactive scheduling, real-time inventory tracking, and mobile access.
+The post Business Central Extends Asset Life with Maintenance Manager appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Future-Proof Your Finances: Leveraging AI and Automation in Dynamics 365 Finance]]></title>
+        <id>https://erpsoftwareblog.com/?p=121657</id>
+        <link href="https://erpsoftwareblog.com/2024/12/ai-automation-dynamics-365-finance-cfo-solutions/"/>
+        <updated>2024-12-05T09:03:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The modern business landscape is marked by uncertainty. Chief Financial Officers (CFOs) face mounting challenges in managing their organization’s finances. From navigating economic uncertainties and adhering to evolving regulatory requirements […]
+The post Future-Proof Your Finances: Leveraging AI and Automation in Dynamics 365 Finance appeared first on ERP Software Blog.
+Microsoft Dynamics Invoice Capture – Key Functionalities And Benefits
+Microsoft Recognized as Visionary in 2021 Magic Quadrant for Cloud Financial Systems
+Microsoft nommée « Visionnaire » pour sa vision technologique des systèmes financiers cloud]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explorando los sistemas multiagente de Microsoft: hacia una IA colaborativa y transformadora]]></title>
+        <id>https://365community.online/explorando-los-sistemas-multiagente-de-microsoft-hacia-una-ia-colaborativa-y-transformadora</id>
+        <link href="https://365community.online/explorando-los-sistemas-multiagente-de-microsoft-hacia-una-ia-colaborativa-y-transformadora"/>
+        <updated>2024-12-05T08:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Los sistemas multiagente están cambiando la forma en que la inteligencia artificial impacta nuestras vidas, y Microsoft está a la vanguardia de este desarrollo. En este artículo, me gustaría explorar la evolución de los sistemas multiagente de Microsoft, tomando como base el artículo recientemente publicado en la TechCommunity de Microsoft: «The Evolution of AI Frameworks:… […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Advent of 2024, Day 4 – Microsoft Azure AI – Deployment in Azure AI Foundry]]></title>
         <id>http://tomaztsql.wordpress.com/?p=10142</id>
@@ -15,6 +171,40 @@
 Read more ›]]></summary>
         <author>
             <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React and Fluent based virtual code components are now generally available]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/react-and-fluent-based-virtual-code-components-are-now-generally-available/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/react-and-fluent-based-virtual-code-components-are-now-generally-available/"/>
+        <updated>2024-12-04T20:45:09.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the general availability of React and Fluent-based virtual code components in Microsoft Power Apps
+The post React and Fluent based virtual code components are now generally available appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Hemant Gaur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deprecation of VAT return direct submission to UK MTD in Dynamics 365 Finance for on-premises deployments]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/12/04/dynamics-365-finance-uk-mtd-vat-integration-deprecation/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/12/04/dynamics-365-finance-uk-mtd-vat-integration-deprecation/"/>
+        <updated>2024-12-04T18:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Since 2019, Dynamics 365 Finance has supported direct system-to-system integration with the web service provided by His Majesty’s Revenue and Customs (HMRC) to submit Value Added Tax (VAT) returns for UK-registered companies under the Making Tax Digital (MTD) project. 
+Due to security requirements, we must modify our implementation approach and can no longer support this integration for on-premises deployments of Dynamics 365 Finance.
+The post Deprecation of VAT return direct submission to UK MTD in Dynamics 365 Finance for on-premises deployments  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Elizaveta Golub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in Power Apps: November 2024 Feature Update]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-november-2024-feature-update/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-november-2024-feature-update/"/>
+        <updated>2024-12-04T18:08:29.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered Development Check out some of our latest improvements in this month’s Power Apps Pulse! This month, it’s all about adding that shine! Power Apps Studio has a fresh new look, we’ve given you more ways to add web resources, and now you can customize your modern themes to get exactly the right color at each
+The post What’s new in Power Apps: November 2024 Feature Update appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Clay Wesener</name>
         </author>
     </entry>
     <entry>
@@ -575,6 +765,17 @@ Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Optimize your email marketing campaigns with advanced analytics features]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/12/02/optimize-your-email-marketing-with-advanced-analytics-features/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/12/02/optimize-your-email-marketing-with-advanced-analytics-features/"/>
+        <updated>2024-12-03T01:03:48.000Z</updated>
+        <summary type="html"><![CDATA[As a marketer, the key to optimize your email performance lies in understanding your customers. Every interaction with a customer is a goldmine of information, revealing critical insights into their behavior, preferences, and engagement patterns. Savvy marketers harness this data to tailor content, enhance customer experiences, and elevate engagement rates. Despite the rise of new
+The post Optimize your email marketing campaigns with advanced analytics features appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Agathe Neulet</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HttpClient and certificate validation in Business Central v25]]></title>
         <id>https://365community.online/httpclient-and-certificate-validation-in-business-central-v25</id>
         <link href="https://365community.online/httpclient-and-certificate-validation-in-business-central-v25"/>
@@ -648,6 +849,17 @@ How a Bookkeeper Can Use Dynamics 365 Business Central]]></summary>
         <summary type="html"><![CDATA[Have you ever wanted to add a Countdown Timer to your marketing emails? I WISH this feature existed in Customer Insights – Journeys, maybe one day we will get it. For now, you CAN still do this using a really cool 3rd party bit of functionality that I found thanks to a wonderful person I […]]]></summary>
         <author>
             <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is recognized as a Leader in the 2024 Gartner® Magic Quadrant™ for Cloud ERP for Service-Centric and Product-Centric Enterprises]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/12/02/microsoft-is-recognized-as-a-leader-in-the-2024-gartner-magic-quadrant-for-cloud-erp-for-service-centric-enterprises/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/12/02/microsoft-is-recognized-as-a-leader-in-the-2024-gartner-magic-quadrant-for-cloud-erp-for-service-centric-enterprises/"/>
+        <updated>2024-12-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is leader in both Gartner’s Magic Quadrants for Cloud ERP for Service-Centric and Product-Centric Enterprises. 
+The post Microsoft is recognized as a Leader in the 2024 Gartner® Magic Quadrant™ for Cloud ERP for Service-Centric and Product-Centric Enterprises appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Georg Glantschnig</name>
         </author>
     </entry>
     <entry>
